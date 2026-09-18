@@ -1,0 +1,2121 @@
+{
+  "url": "https://www.travelmanitoba.com/",
+  "ok": true,
+  "status": 200,
+  "title": "Travel Manitoba, Canada: Start Planning Your Trip",
+  "finalUrl": "https://www.travelmanitoba.com/",
+  "shape": {
+    "elements": 2291,
+    "images": 40,
+    "links": 399,
+    "buttons": 100,
+    "inputs": 16,
+    "headings": 78,
+    "textLength": 7579,
+    "lang": "en",
+    "iframes": 7
+  },
+  "viewport": {
+    "width": 1366,
+    "height": 900
+  },
+  "scannedAt": "2026-09-18T04:55:11.396Z",
+  "axe": {
+    "violationRules": 4,
+    "violationNodes": 54,
+    "passRules": 29,
+    "passNodes": 765,
+    "incompleteRules": 3,
+    "incompleteNodes": 76,
+    "inapplicableRules": 34,
+    "testedNodes": 895
+  },
+  "incomplete": [
+    {
+      "id": "aria-prohibited-attr",
+      "impact": "serious",
+      "help": "Elements must only use permitted ARIA attributes",
+      "description": "Ensure ARIA attributes are not prohibited for an element's role",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/aria-prohibited-attr?application=playwright",
+      "tags": [
+        "cat.aria",
+        "wcag2a",
+        "wcag412",
+        "EN-301-549",
+        "EN-9.4.1.2",
+        "RGAAv4",
+        "RGAA-7.1.1"
+      ],
+      "wcag": [
+        "4.1.2"
+      ],
+      "why": "",
+      "nodes": 1,
+      "sample": [
+        {
+          "target": "#slide-vid-1 #movie_player",
+          "html": "<div class=\"html5-video-player y...\" tabindex=\"\" id=\"movie_player\" data-version=\"/s/player/4fd832e7/p...\" aria-label=\"YouTube Video Player\">"
+        }
+      ],
+      "items": [
+        {
+          "target": "#slide-vid-1 #movie_player",
+          "html": "<div class=\"html5-video-player y...\" tabindex=\"\" id=\"movie_player\" data-version=\"/s/player/4fd832e7/p...\" aria-label=\"YouTube Video Player\">",
+          "impact": "serious",
+          "messages": [
+            "aria-label attribute is not well supported on a div with no valid role attribute."
+          ],
+          "box": null
+        }
+      ]
+    },
+    {
+      "id": "color-contrast",
+      "impact": "serious",
+      "help": "Elements must meet minimum color contrast ratio thresholds",
+      "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/color-contrast?application=playwright",
+      "tags": [
+        "cat.color",
+        "wcag2aa",
+        "wcag143",
+        "TTv5",
+        "TT13.c",
+        "EN-301-549",
+        "EN-9.1.4.3",
+        "ACT",
+        "RGAAv4",
+        "RGAA-3.2.1"
+      ],
+      "wcag": [
+        "1.4.3"
+      ],
+      "why": "Element's background color could not be determined because element contains an image node",
+      "nodes": 41,
+      "sample": [
+        {
+          "target": ".nav--header__inner > .has-children.nav__item[data-has-subnav=\"\"]:nth-child(1) > .nav__link[target=\"\"][rel=\"noopener\"]",
+          "html": "<a href=\"https://www.travelmanitoba.com/media/\" target=\"\" rel=\"noopener\" class=\"nav__link  \">\n\n                \n                Travel Media\n            </a>"
+        },
+        {
+          "target": ".nav--header__inner > .has-children.nav__item[data-has-subnav=\"\"]:nth-child(2) > .nav__link[target=\"\"][rel=\"noopener\"]",
+          "html": "<a href=\"https://www.travelmanitoba.com/meetings/\" target=\"\" rel=\"noopener\" class=\"nav__link  \">\n\n                \n                Meetings &amp; Conventions\n            </a>"
+        },
+        {
+          "target": ".nav--header__inner > .has-children.nav__item[data-has-subnav=\"\"]:nth-child(3) > .nav__link[target=\"\"][rel=\"noopener\"]",
+          "html": "<a href=\"https://www.travelmanitoba.com/travel-trade/\" target=\"\" rel=\"noopener\" class=\"nav__link  \">\n\n                \n                Travel Trade\n            </a>"
+        }
+      ],
+      "items": [
+        {
+          "target": ".nav--header__inner > .has-children.nav__item[data-has-subnav=\"\"]:nth-child(1) > .nav__link[target=\"\"][rel=\"noopener\"]",
+          "html": "<a href=\"https://www.travelmanitoba.com/media/\" target=\"\" rel=\"noopener\" class=\"nav__link  \">\n\n                \n                Travel Media\n            </a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because element contains an image node"
+          ],
+          "box": {
+            "x": 375.640625,
+            "y": 36.609375,
+            "w": 89.21875,
+            "h": 15.59375
+          }
+        },
+        {
+          "target": ".nav--header__inner > .has-children.nav__item[data-has-subnav=\"\"]:nth-child(2) > .nav__link[target=\"\"][rel=\"noopener\"]",
+          "html": "<a href=\"https://www.travelmanitoba.com/meetings/\" target=\"\" rel=\"noopener\" class=\"nav__link  \">\n\n                \n                Meetings &amp; Conventions\n            </a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because element contains an image node"
+          ],
+          "box": {
+            "x": 494.859375,
+            "y": 36.609375,
+            "w": 168.53125,
+            "h": 15.59375
+          }
+        },
+        {
+          "target": ".nav--header__inner > .has-children.nav__item[data-has-subnav=\"\"]:nth-child(3) > .nav__link[target=\"\"][rel=\"noopener\"]",
+          "html": "<a href=\"https://www.travelmanitoba.com/travel-trade/\" target=\"\" rel=\"noopener\" class=\"nav__link  \">\n\n                \n                Travel Trade\n            </a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because element contains an image node"
+          ],
+          "box": {
+            "x": 693.390625,
+            "y": 36.609375,
+            "w": 88.875,
+            "h": 15.59375
+          }
+        },
+        {
+          "target": ".nav--header__inner > .nav__item:nth-child(4) > .dms-ext-link[href$=\"huntfishmanitoba.ca/\"][aria-describedby=\"audioeye_new_window_message\"]",
+          "html": "<a href=\"https://huntfishmanitoba.ca/\" target=\"_blank\" rel=\"noopener\" class=\"nav__link dms-ext-link\" aria-describedby=\"audioeye_new_window_message\">\n\n                \n                Hunt Fish Manitoba\n            </a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because element contains an image node"
+          ],
+          "box": {
+            "x": 812.265625,
+            "y": 36.609375,
+            "w": 133.515625,
+            "h": 15.59375
+          }
+        },
+        {
+          "target": ".nav--header__inner > .has-children.nav__item[data-has-subnav=\"\"]:nth-child(5) > .nav__link[target=\"\"][rel=\"noopener\"]",
+          "html": "<a href=\"https://www.travelmanitoba.com/manitoba-north/\" target=\"\" rel=\"noopener\" class=\"nav__link  \">\n\n                \n                Manitoba North\n            </a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because element contains an image node"
+          ],
+          "box": {
+            "x": 975.78125,
+            "y": 36.609375,
+            "w": 111.640625,
+            "h": 15.59375
+          }
+        },
+        {
+          "target": ".nav--header__inner > .nav__item--lang.nav__item > .weglot-link-fr.nav__link--lang[href$=\"fr.travelmanitoba.com/\"]",
+          "html": "<a class=\"nav__link nav__link--lang weglot-link weglot-link-fr dms-ext-link\" href=\"https://fr.travelmanitoba.com/\" data-wg-notranslate=\"\">FR</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because element contains an image node"
+          ],
+          "box": {
+            "x": 1134.75,
+            "y": 36.609375,
+            "w": 36.25,
+            "h": 15.59375
+          }
+        },
+        {
+          "target": ".nav--header__inner > .nav__item--lang.nav__item > .weglot-link-en.weglot-link--active.nav__link--lang",
+          "html": "<a class=\"nav__link nav__link--lang weglot-link weglot-link-en weglot-link--active\" href=\"https://www.travelmanitoba.com/\" data-wg-notranslate=\"\">EN</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because element contains an image node"
+          ],
+          "box": {
+            "x": 1107.421875,
+            "y": 36.609375,
+            "w": 27.328125,
+            "h": 15.59375
+          }
+        },
+        {
+          "target": ".nav--hovernav > .has-children.nav__item[data-has-subnav=\"\"]:nth-child(1) > .nav__link[target=\"\"][rel=\"noopener\"]",
+          "html": "<a href=\"https://www.travelmanitoba.com/things-to-do/\" target=\"\" rel=\"noopener\" class=\"nav__link  \">\n\n                \n                Things To Do\n            </a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because element contains an image node"
+          ],
+          "box": {
+            "x": 292,
+            "y": 71.609375,
+            "w": 113.375,
+            "h": 16.796875
+          }
+        },
+        {
+          "target": ".nav--hovernav > .has-children.nav__item:nth-child(2) > .nav__link[target=\"\"][rel=\"noopener\"]",
+          "html": "<a href=\"https://www.travelmanitoba.com/events/\" target=\"\" rel=\"noopener\" class=\"nav__link  \">\n\n                \n                Manitoba Events\n            </a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because element contains an image node"
+          ],
+          "box": {
+            "x": 431.984375,
+            "y": 71.609375,
+            "w": 150.859375,
+            "h": 16.796875
+          }
+        },
+        {
+          "target": ".nav--hovernav > .has-children.nav__item[data-has-subnav=\"\"]:nth-child(3) > .nav__link[target=\"\"][rel=\"noopener\"]",
+          "html": "<a href=\"https://www.travelmanitoba.com/places/\" target=\"\" rel=\"noopener\" class=\"nav__link  \">\n\n                \n                Places To Go\n            </a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because element contains an image node"
+          ],
+          "box": {
+            "x": 609.453125,
+            "y": 71.609375,
+            "w": 113.3125,
+            "h": 16.796875
+          }
+        },
+        {
+          "target": ".nav--hovernav > .has-children.nav__item[data-has-subnav=\"\"]:nth-child(4) > .nav__link[target=\"\"][rel=\"noopener\"]",
+          "html": "<a href=\"https://www.travelmanitoba.com/stay/\" target=\"\" rel=\"noopener\" class=\"nav__link  \">\n\n                \n                Where To Stay\n            </a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because element contains an image node"
+          ],
+          "box": {
+            "x": 749.390625,
+            "y": 71.609375,
+            "w": 124.53125,
+            "h": 16.796875
+          }
+        },
+        {
+          "target": ".nav--hovernav > .has-children.nav__item[data-has-subnav=\"\"]:nth-child(5) > .nav__link[target=\"\"][rel=\"noopener\"]",
+          "html": "<a href=\"https://www.travelmanitoba.com/trip-essentials/\" target=\"\" rel=\"noopener\" class=\"nav__link  \">\n\n                \n                Trip Essentials\n            </a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because element contains an image node"
+          ],
+          "box": {
+            "x": 900.53125,
+            "y": 71.609375,
+            "w": 136.859375,
+            "h": 16.796875
+          }
+        },
+        {
+          "target": ".nav--hovernav > .has-children.nav__item:nth-child(6) > .nav__link[target=\"\"][rel=\"noopener\"]",
+          "html": "<a href=\"https://www.travelmanitoba.com/trip-essentials/contact-us/\" target=\"\" rel=\"noopener\" class=\"nav__link  \">\n\n                \n                Contact Us\n            </a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because element contains an image node"
+          ],
+          "box": {
+            "x": 1064,
+            "y": 71.609375,
+            "w": 100,
+            "h": 16.796875
+          }
+        },
+        {
+          "target": "a[href$=\"indigenous-experiences/\"] > .mashup__info > .mashup__info-int > .mashup__title",
+          "html": "<h3 class=\"mashup__title\">Indigenous Experiences</h3>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because element contains an image node"
+          ],
+          "box": {
+            "x": 20,
+            "y": 1448.9375,
+            "w": 428.65625,
+            "h": 76.796875
+          }
+        },
+        {
+          "target": "a[href$=\"urban-escapes/\"] > .mashup__info > .mashup__info-int > .mashup__title",
+          "html": "<h3 class=\"mashup__title\">Urban Escapes</h3>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because element contains an image node"
+          ],
+          "box": {
+            "x": 468.65625,
+            "y": 1448.9375,
+            "w": 428.671875,
+            "h": 76.796875
+          }
+        },
+        {
+          "target": "a[href$=\"stunning-stays/\"] > .mashup__info > .mashup__info-int > .mashup__title",
+          "html": "<h3 class=\"mashup__title\">Stunning Stays</h3>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because element contains an image node"
+          ],
+          "box": {
+            "x": 917.328125,
+            "y": 1448.9375,
+            "w": 428.65625,
+            "h": 76.796875
+          }
+        },
+        {
+          "target": "a[href$=\"road-trips/\"] > .mashup__info > .mashup__info-int > .mashup__title",
+          "html": "<h3 class=\"mashup__title\">Road Trips</h3>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because element contains an image node"
+          ],
+          "box": {
+            "x": 20,
+            "y": 1796.9375,
+            "w": 428.65625,
+            "h": 76.796875
+          }
+        },
+        {
+          "target": "a[href$=\"road-trips/\"] > .mashup__info > .mashup__info-int > .mashup__caption > .caption > span",
+          "html": "<span>Leisure Travel Vans</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because element contains an image node"
+          ],
+          "box": {
+            "x": 332.515625,
+            "y": 1841.734375,
+            "w": 108.140625,
+            "h": 18
+          }
+        },
+        {
+          "target": "#mashup-5a7256c0-d952-464d-b0ae-cef15b7bca1e > .mashup.grid--row.grid > .delay--5.mashup__item.load-up > .mashup__info-wrapper[target=\"_self\"] > .mashup__info > .mashup__info-int > .mashup__title",
+          "html": "<h3 class=\"mashup__title\">Explore Manitoba's North</h3>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because element contains an image node"
+          ],
+          "box": {
+            "x": 468.65625,
+            "y": 1796.9375,
+            "w": 428.671875,
+            "h": 76.796875
+          }
+        },
+        {
+          "target": ".mashup__item.load-up.delay--1 > .mashup__info-wrapper[target=\"_self\"] > .mashup__info > .mashup__info-int > .mashup__title",
+          "html": "<h3 class=\"mashup__title\">Food &amp; Drink</h3>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because element contains an image node"
+          ],
+          "box": {
+            "x": 20,
+            "y": 2980.4375,
+            "w": 428.65625,
+            "h": 76.796875
+          }
+        },
+        {
+          "target": ".mashup__item.load-up.delay--2 > .mashup__info-wrapper[target=\"_self\"] > .mashup__info > .mashup__info-int > .mashup__title",
+          "html": "<h3 class=\"mashup__title\">Spas &amp; Wellness</h3>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because element contains an image node"
+          ],
+          "box": {
+            "x": 468.65625,
+            "y": 2980.4375,
+            "w": 428.671875,
+            "h": 76.796875
+          }
+        },
+        {
+          "target": ".mashup__item.load-up.delay--2 > .mashup__info-wrapper[target=\"_self\"] > .mashup__info > .mashup__info-int > .mashup__caption > .caption > span",
+          "html": "<span>Credit Travel Manitoba</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because element contains an image node"
+          ],
+          "box": {
+            "x": 761.453125,
+            "y": 3025.234375,
+            "w": 127.875,
+            "h": 18
+          }
+        },
+        {
+          "target": ".delay--3.mashup__item.load-up > .mashup__info-wrapper[target=\"_self\"] > .mashup__info > .mashup__info-int > .mashup__title",
+          "html": "<h3 class=\"mashup__title\">Family Fun</h3>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because element contains an image node"
+          ],
+          "box": {
+            "x": 917.328125,
+            "y": 2980.4375,
+            "w": 428.65625,
+            "h": 76.796875
+          }
+        },
+        {
+          "target": ".delay--4.mashup__item.load-up > .mashup__info-wrapper[target=\"_self\"] > .mashup__info > .mashup__info-int > .mashup__title",
+          "html": "<h3 class=\"mashup__title\">Road Trips and Day Trips</h3>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because element contains an image node"
+          ],
+          "box": {
+            "x": 20,
+            "y": 3328.4375,
+            "w": 428.65625,
+            "h": 76.796875
+          }
+        },
+        {
+          "target": ".delay--4.mashup__item.load-up > .mashup__info-wrapper[target=\"_self\"] > .mashup__info > .mashup__info-int > .mashup__caption > .caption > span",
+          "html": "<span>Leisure Travel Vans</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because element contains an image node"
+          ],
+          "box": {
+            "x": 332.515625,
+            "y": 3373.234375,
+            "w": 108.140625,
+            "h": 18
+          }
+        },
+        {
+          "target": "#mashup-9cec2164-f926-43a9-9bc0-ee4b387047f5 > .mashup.grid--row.grid > .delay--5.mashup__item.load-up > .mashup__info-wrapper[target=\"_self\"] > .mashup__info > .mashup__info-int > .mashup__title",
+          "html": "<h3 class=\"mashup__title\">Arts, Culture &amp; History</h3>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because element contains an image node"
+          ],
+          "box": {
+            "x": 468.65625,
+            "y": 3328.4375,
+            "w": 428.671875,
+            "h": 76.796875
+          }
+        },
+        {
+          "target": ".delay--6.mashup__item.load-up > .mashup__info-wrapper[target=\"_self\"] > .mashup__info > .mashup__info-int > .mashup__title",
+          "html": "<h3 class=\"mashup__title\">Outdoor Adventures</h3>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because element contains an image node"
+          ],
+          "box": {
+            "x": 917.328125,
+            "y": 3328.4375,
+            "w": 428.65625,
+            "h": 76.796875
+          }
+        },
+        {
+          "target": ".widget--bg-split > .row:nth-child(1) > .widget__title",
+          "html": "<h2 class=\"widget__title columns\">Featured Events</h2>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 0,
+            "y": 7817.96875,
+            "w": 297.984375,
+            "h": 39.5
+          }
+        },
+        {
+          "target": ".card--event.card[data-set-view=\"\"]:nth-child(1) > .card__int > .fade-up-50.card__body.delay--2 > .card__body-info > .card__title",
+          "html": "<h3 class=\"card__title\">\n                    African Movie Festival in Manitoba\n                </h3>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 40,
+            "y": 8228.46875,
+            "w": 269,
+            "h": 45.59375
+          }
+        },
+        {
+          "target": ".card--event.card[data-set-view=\"\"]:nth-child(1) > .card__int > .fade-up-50.card__body.delay--2 > .card__body-info > .card__summary",
+          "html": "<p class=\"card__summary\">\n                    300 Memorial Blvd<br>Winnipeg, Manitoba R3C 1V1<br>\n                </p>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 40,
+            "y": 8286.0625,
+            "w": 269,
+            "h": 54
+          }
+        },
+        {
+          "target": ".card--event.card[data-set-view=\"\"]:nth-child(1) > .card__int > .fade-up-50.card__body.delay--2 > footer > .featured-events.btn--details.btn",
+          "html": "<a href=\"https://www.travelmanitoba.com/events/taisa-monastyrski/\" target=\"_self\" rel=\"noopener\" class=\"btn btn--details featured-events\">\n                                        More Info\n                </a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 36,
+            "y": 8378.0625,
+            "w": 125.875,
+            "h": 37.390625
+          }
+        },
+        {
+          "target": ".card--event.card[data-set-view=\"\"]:nth-child(2) > .card__int > .fade-up-50.card__body.delay--2 > .card__body-info > .card__title",
+          "html": "<h3 class=\"card__title\">\n                    African Movie Festial in Manitoba\n                </h3>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 379,
+            "y": 8228.46875,
+            "w": 269,
+            "h": 45.59375
+          }
+        },
+        {
+          "target": ".card--event.card[data-set-view=\"\"]:nth-child(2) > .card__int > .fade-up-50.card__body.delay--2 > .card__body-info > .card__summary",
+          "html": "<p class=\"card__summary\">\n                    Winnipeg, Manitoba R3C 1V1<br>\n                </p>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 379,
+            "y": 8286.0625,
+            "w": 269,
+            "h": 27
+          }
+        },
+        {
+          "target": ".card--event.card[data-set-view=\"\"]:nth-child(2) > .card__int > .fade-up-50.card__body.delay--2 > footer > .featured-events.btn--details.btn",
+          "html": "<a href=\"https://www.travelmanitoba.com/events/african-movie-festial-in-manitoba/\" target=\"_self\" rel=\"noopener\" class=\"btn btn--details featured-events\">\n                                        More Info\n                </a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 375,
+            "y": 8378.0625,
+            "w": 125.875,
+            "h": 37.390625
+          }
+        },
+        {
+          "target": ".card--event.card[data-set-view=\"\"]:nth-child(3) > .card__int > .fade-up-50.card__body.delay--2 > .card__body-info > .card__title",
+          "html": "<h3 class=\"card__title\">\n                    Artist Talk With Raymond Boisjoly\n                </h3>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 718,
+            "y": 8228.46875,
+            "w": 269,
+            "h": 45.59375
+          }
+        },
+        {
+          "target": ".card--event.card[data-set-view=\"\"]:nth-child(3) > .card__int > .fade-up-50.card__body.delay--2 > .card__body-info > .card__summary",
+          "html": "<p class=\"card__summary\">\n                    460 Portage Ave<br>Winnipeg, Manitoba R3C 0E8<br>\n                </p>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 718,
+            "y": 8286.0625,
+            "w": 269,
+            "h": 54
+          }
+        },
+        {
+          "target": ".card--event.card[data-set-view=\"\"]:nth-child(3) > .card__int > .fade-up-50.card__body.delay--2 > footer > .featured-events.btn--details.btn",
+          "html": "<a href=\"https://www.travelmanitoba.com/events/artist-talk-with-raymond-boisjoly/\" target=\"_self\" rel=\"noopener\" class=\"btn btn--details featured-events\">\n                                        More Info\n                </a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 714,
+            "y": 8378.0625,
+            "w": 125.875,
+            "h": 37.390625
+          }
+        },
+        {
+          "target": ".card--event.card[data-set-view=\"\"]:nth-child(4) > .card__int > .fade-up-50.card__body.delay--2 > .card__body-info > .card__title",
+          "html": "<h3 class=\"card__title\">\n                    Culture Days Manitoba/Nuit Blanche...\n                </h3>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 1057,
+            "y": 8228.46875,
+            "w": 269,
+            "h": 45.59375
+          }
+        },
+        {
+          "target": ".card--event.card[data-set-view=\"\"]:nth-child(4) > .card__int > .fade-up-50.card__body.delay--2 > .card__body-info > .card__summary",
+          "html": "<p class=\"card__summary\">\n                    Winnipeg, Manitoba R3B 0S6<br>\n                </p>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 1057,
+            "y": 8286.0625,
+            "w": 269,
+            "h": 27
+          }
+        },
+        {
+          "target": ".card--event.card[data-set-view=\"\"]:nth-child(4) > .card__int > .fade-up-50.card__body.delay--2 > footer > .featured-events.btn--details.btn",
+          "html": "<a href=\"https://www.travelmanitoba.com/events/culture-days-manitoba-nuit-blanche-winnipeg/\" target=\"_self\" rel=\"noopener\" class=\"btn btn--details featured-events\">\n                                        More Info\n                </a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 1053,
+            "y": 8378.0625,
+            "w": 125.875,
+            "h": 37.390625
+          }
+        },
+        {
+          "target": "#onetrust-policy-text",
+          "html": "<p id=\"onetrust-policy-text\">",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it partially overlaps other elements"
+          ],
+          "box": {
+            "x": 32,
+            "y": 818.453125,
+            "w": 719.296875,
+            "h": 58.546875
+          }
+        }
+      ]
+    },
+    {
+      "id": "duplicate-id-aria",
+      "impact": "critical",
+      "help": "IDs used in ARIA and labels must be unique",
+      "description": "Ensure every id attribute value used in ARIA and in labels is unique",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/duplicate-id-aria?application=playwright",
+      "tags": [
+        "cat.parsing",
+        "wcag2a",
+        "wcag412",
+        "EN-301-549",
+        "EN-9.4.1.2",
+        "RGAAv4",
+        "RGAA-8.2.1"
+      ],
+      "wcag": [
+        "4.1.2"
+      ],
+      "why": "Document has multiple elements referenced with ARIA with the same id attribute: submenu-100121",
+      "nodes": 34,
+      "sample": [
+        {
+          "target": ".nav--primary > .has-children.nav__item[data-has-subnav=\"\"]:nth-child(1) > .is-hidden.nav--subnav.js-subnav",
+          "html": "<ul id=\"submenu-100121\" class=\"nav nav--subnav js-subnav is-hidden\">"
+        },
+        {
+          "target": ".has-children.nav__item[data-has-subnav=\"\"]:nth-child(1) > .is-hidden.nav--subnav.js-subnav > .has-children.nav__item[data-has-subnav=\"\"]:nth-child(2) > .is-hidden.nav--subnav[data-subnav-level=\"3\"]",
+          "html": "<ul id=\"submenu-100149\" class=\"nav nav--subnav js-subnav is-hidden\" data-subnav-level=\"3\">"
+        },
+        {
+          "target": ".is-hidden.nav--subnav.js-subnav > .has-children.nav__item[data-has-subnav=\"\"]:nth-child(5) > .is-hidden.nav--subnav[data-subnav-level=\"3\"]",
+          "html": "<ul id=\"submenu-100123\" class=\"nav nav--subnav js-subnav is-hidden\" data-subnav-level=\"3\">"
+        }
+      ],
+      "items": [
+        {
+          "target": ".nav--primary > .has-children.nav__item[data-has-subnav=\"\"]:nth-child(1) > .is-hidden.nav--subnav.js-subnav",
+          "html": "<ul id=\"submenu-100121\" class=\"nav nav--subnav js-subnav is-hidden\">",
+          "impact": "critical",
+          "messages": [
+            "Document has multiple elements referenced with ARIA with the same id attribute: submenu-100121"
+          ],
+          "box": {
+            "x": 0,
+            "y": 0,
+            "w": 0,
+            "h": 0
+          }
+        },
+        {
+          "target": ".has-children.nav__item[data-has-subnav=\"\"]:nth-child(1) > .is-hidden.nav--subnav.js-subnav > .has-children.nav__item[data-has-subnav=\"\"]:nth-child(2) > .is-hidden.nav--subnav[data-subnav-level=\"3\"]",
+          "html": "<ul id=\"submenu-100149\" class=\"nav nav--subnav js-subnav is-hidden\" data-subnav-level=\"3\">",
+          "impact": "critical",
+          "messages": [
+            "Document has multiple elements referenced with ARIA with the same id attribute: submenu-100149"
+          ],
+          "box": {
+            "x": 0,
+            "y": 0,
+            "w": 0,
+            "h": 0
+          }
+        },
+        {
+          "target": ".is-hidden.nav--subnav.js-subnav > .has-children.nav__item[data-has-subnav=\"\"]:nth-child(5) > .is-hidden.nav--subnav[data-subnav-level=\"3\"]",
+          "html": "<ul id=\"submenu-100123\" class=\"nav nav--subnav js-subnav is-hidden\" data-subnav-level=\"3\">",
+          "impact": "critical",
+          "messages": [
+            "Document has multiple elements referenced with ARIA with the same id attribute: submenu-100123"
+          ],
+          "box": {
+            "x": 0,
+            "y": 0,
+            "w": 0,
+            "h": 0
+          }
+        },
+        {
+          "target": ".nav--primary > .has-children.nav__item[data-has-subnav=\"\"]:nth-child(3) > .is-hidden.nav--subnav.js-subnav",
+          "html": "<ul id=\"submenu-100203\" class=\"nav nav--subnav js-subnav is-hidden\">",
+          "impact": "critical",
+          "messages": [
+            "Document has multiple elements referenced with ARIA with the same id attribute: submenu-100203"
+          ],
+          "box": {
+            "x": 0,
+            "y": 0,
+            "w": 0,
+            "h": 0
+          }
+        },
+        {
+          "target": ".has-children.nav__item[data-has-subnav=\"\"]:nth-child(3) > .is-hidden.nav--subnav.js-subnav > .has-children.nav__item[data-has-subnav=\"\"]:nth-child(10) > .is-hidden.nav--subnav[data-subnav-level=\"3\"]",
+          "html": "<ul id=\"submenu-100213\" class=\"nav nav--subnav js-subnav is-hidden\" data-subnav-level=\"3\">",
+          "impact": "critical",
+          "messages": [
+            "Document has multiple elements referenced with ARIA with the same id attribute: submenu-100213"
+          ],
+          "box": {
+            "x": 0,
+            "y": 0,
+            "w": 0,
+            "h": 0
+          }
+        },
+        {
+          "target": ".is-hidden.nav--subnav.js-subnav > .has-children.nav__item[data-has-subnav=\"\"]:nth-child(11) > .is-hidden.nav--subnav[data-subnav-level=\"3\"]",
+          "html": "<ul id=\"submenu-100187\" class=\"nav nav--subnav js-subnav is-hidden\" data-subnav-level=\"3\">",
+          "impact": "critical",
+          "messages": [
+            "Document has multiple elements referenced with ARIA with the same id attribute: submenu-100187"
+          ],
+          "box": {
+            "x": 0,
+            "y": 0,
+            "w": 0,
+            "h": 0
+          }
+        },
+        {
+          "target": ".nav--primary > .has-children.nav__item[data-has-subnav=\"\"]:nth-child(4) > .is-hidden.nav--subnav.js-subnav",
+          "html": "<ul id=\"submenu-100217\" class=\"nav nav--subnav js-subnav is-hidden\">",
+          "impact": "critical",
+          "messages": [
+            "Document has multiple elements referenced with ARIA with the same id attribute: submenu-100217"
+          ],
+          "box": {
+            "x": 0,
+            "y": 0,
+            "w": 0,
+            "h": 0
+          }
+        },
+        {
+          "target": ".has-children.nav__item[data-has-subnav=\"\"]:nth-child(4) > .is-hidden.nav--subnav.js-subnav > .has-children.nav__item[data-has-subnav=\"\"]:nth-child(4) > .is-hidden.nav--subnav[data-subnav-level=\"3\"]",
+          "html": "<ul id=\"submenu-100233\" class=\"nav nav--subnav js-subnav is-hidden\" data-subnav-level=\"3\">",
+          "impact": "critical",
+          "messages": [
+            "Document has multiple elements referenced with ARIA with the same id attribute: submenu-100233"
+          ],
+          "box": {
+            "x": 0,
+            "y": 0,
+            "w": 0,
+            "h": 0
+          }
+        },
+        {
+          "target": ".has-children.nav__item[data-has-subnav=\"\"]:nth-child(4) > .is-hidden.nav--subnav.js-subnav > .has-children.nav__item[data-has-subnav=\"\"]:nth-child(7) > .is-hidden.nav--subnav[data-subnav-level=\"3\"]",
+          "html": "<ul id=\"submenu-100219\" class=\"nav nav--subnav js-subnav is-hidden\" data-subnav-level=\"3\">",
+          "impact": "critical",
+          "messages": [
+            "Document has multiple elements referenced with ARIA with the same id attribute: submenu-100219"
+          ],
+          "box": {
+            "x": 0,
+            "y": 0,
+            "w": 0,
+            "h": 0
+          }
+        },
+        {
+          "target": ".nav--primary > .has-children.nav__item[data-has-subnav=\"\"]:nth-child(5) > .is-hidden.nav--subnav.js-subnav",
+          "html": "<ul id=\"submenu-100245\" class=\"nav nav--subnav js-subnav is-hidden\">",
+          "impact": "critical",
+          "messages": [
+            "Document has multiple elements referenced with ARIA with the same id attribute: submenu-100245"
+          ],
+          "box": {
+            "x": 0,
+            "y": 0,
+            "w": 0,
+            "h": 0
+          }
+        },
+        {
+          "target": ".has-children.nav__item[data-has-subnav=\"\"]:nth-child(5) > .is-hidden.nav--subnav.js-subnav > .has-children.nav__item[data-has-subnav=\"\"]:nth-child(2) > .is-hidden.nav--subnav[data-subnav-level=\"3\"]",
+          "html": "<ul id=\"submenu-100247\" class=\"nav nav--subnav js-subnav is-hidden\" data-subnav-level=\"3\">",
+          "impact": "critical",
+          "messages": [
+            "Document has multiple elements referenced with ARIA with the same id attribute: submenu-100247"
+          ],
+          "box": {
+            "x": 0,
+            "y": 0,
+            "w": 0,
+            "h": 0
+          }
+        },
+        {
+          "target": ".is-hidden.nav--subnav.js-subnav > .has-children.nav__item[data-has-subnav=\"\"]:nth-child(3) > .is-hidden.nav--subnav[data-subnav-level=\"3\"]",
+          "html": "<ul id=\"submenu-100253\" class=\"nav nav--subnav js-subnav is-hidden\" data-subnav-level=\"3\">",
+          "impact": "critical",
+          "messages": [
+            "Document has multiple elements referenced with ARIA with the same id attribute: submenu-100253"
+          ],
+          "box": {
+            "x": 0,
+            "y": 0,
+            "w": 0,
+            "h": 0
+          }
+        },
+        {
+          "target": ".has-children.nav__item[data-has-subnav=\"\"]:nth-child(5) > .is-hidden.nav--subnav.js-subnav > .has-children.nav__item[data-has-subnav=\"\"]:nth-child(4) > .is-hidden.nav--subnav[data-subnav-level=\"3\"]",
+          "html": "<ul id=\"submenu-100255\" class=\"nav nav--subnav js-subnav is-hidden\" data-subnav-level=\"3\">",
+          "impact": "critical",
+          "messages": [
+            "Document has multiple elements referenced with ARIA with the same id attribute: submenu-100255"
+          ],
+          "box": {
+            "x": 0,
+            "y": 0,
+            "w": 0,
+            "h": 0
+          }
+        },
+        {
+          "target": ".is-hidden.nav--subnav.js-subnav > .has-children.nav__item[data-has-subnav=\"\"]:nth-child(6) > .is-hidden.nav--subnav[data-subnav-level=\"3\"]",
+          "html": "<ul id=\"submenu-1020511\" class=\"nav nav--subnav js-subnav is-hidden\" data-subnav-level=\"3\">",
+          "impact": "critical",
+          "messages": [
+            "Document has multiple elements referenced with ARIA with the same id attribute: submenu-1020511"
+          ],
+          "box": {
+            "x": 0,
+            "y": 0,
+            "w": 0,
+            "h": 0
+          }
+        },
+        {
+          "target": ".has-children.nav__item[data-has-subnav=\"\"]:nth-child(5) > .is-hidden.nav--subnav.js-subnav > .has-children.nav__item[data-has-subnav=\"\"]:nth-child(7) > .is-hidden.nav--subnav[data-subnav-level=\"3\"]",
+          "html": "<ul id=\"submenu-1293809\" class=\"nav nav--subnav js-subnav is-hidden\" data-subnav-level=\"3\">",
+          "impact": "critical",
+          "messages": [
+            "Document has multiple elements referenced with ARIA with the same id attribute: submenu-1293809"
+          ],
+          "box": {
+            "x": 0,
+            "y": 0,
+            "w": 0,
+            "h": 0
+          }
+        },
+        {
+          "target": ".has-children.nav__item[data-has-subnav=\"\"]:nth-child(5) > .is-hidden.nav--subnav.js-subnav > .has-children.nav__item[data-has-subnav=\"\"]:nth-child(10) > .is-hidden.nav--subnav[data-subnav-level=\"3\"]",
+          "html": "<ul id=\"submenu-1900092\" class=\"nav nav--subnav js-subnav is-hidden\" data-subnav-level=\"3\">",
+          "impact": "critical",
+          "messages": [
+            "Document has multiple elements referenced with ARIA with the same id attribute: submenu-1900092"
+          ],
+          "box": {
+            "x": 0,
+            "y": 0,
+            "w": 0,
+            "h": 0
+          }
+        },
+        {
+          "target": ".otPcTab.ot-tgl-with-label[aria-label=\"Preference center\"]:nth-child(3) > div[aria-modal=\"true\"][aria-describedby=\"ot-pc-desc\"][aria-label=\"Privacy Preference Center\"] > .ot-sdk-row.ot-pc-scrollbar > .ot-grps-cntr.ot-sdk-container.ot-sdk-column > .ot-sdk-four.ot-tab-list[aria-label=\"Cookie Categories\"] > .ot-cat-grp[role=\"tablist\"] > .ot-cat-item.ot-vs-config[data-optanongroupid=\"C0004\"] > .category-menu-switch-handler[aria-controls=\"ot-desc-id-C0004\"][role=\"tab\"] > h3",
+          "html": "<h3 id=\"ot-header-id-C0004\">Marketing Cookies</h3>",
+          "impact": "critical",
+          "messages": [
+            "Document has multiple elements referenced with ARIA with the same id attribute: ot-header-id-C0004"
+          ],
+          "box": {
+            "x": 0,
+            "y": 0,
+            "w": 0,
+            "h": 0
+          }
+        },
+        {
+          "target": ".otPcTab.ot-tgl-with-label[aria-label=\"Preference center\"]:nth-child(3) > div[aria-modal=\"true\"][aria-describedby=\"ot-pc-desc\"][aria-label=\"Privacy Preference Center\"] > .ot-sdk-row.ot-pc-scrollbar > .ot-grps-cntr.ot-sdk-container.ot-sdk-column > .ot-sdk-four.ot-tab-list[aria-label=\"Cookie Categories\"] > .ot-cat-grp[role=\"tablist\"] > .ot-cat-item.ot-vs-config[data-optanongroupid=\"C0003\"] > .category-menu-switch-handler[aria-controls=\"ot-desc-id-C0003\"][role=\"tab\"] > h3",
+          "html": "<h3 id=\"ot-header-id-C0003\">Functional Cookies</h3>",
+          "impact": "critical",
+          "messages": [
+            "Document has multiple elements referenced with ARIA with the same id attribute: ot-header-id-C0003"
+          ],
+          "box": {
+            "x": 0,
+            "y": 0,
+            "w": 0,
+            "h": 0
+          }
+        },
+        {
+          "target": ".otPcTab.ot-tgl-with-label[aria-label=\"Preference center\"]:nth-child(3) > div[aria-modal=\"true\"][aria-describedby=\"ot-pc-desc\"][aria-label=\"Privacy Preference Center\"] > .ot-sdk-row.ot-pc-scrollbar > .ot-grps-cntr.ot-sdk-container.ot-sdk-column > .ot-sdk-four.ot-tab-list[aria-label=\"Cookie Categories\"] > .ot-cat-grp[role=\"tablist\"] > .ot-cat-item.ot-vs-config[data-optanongroupid=\"C0002\"] > .category-menu-switch-handler[aria-controls=\"ot-desc-id-C0002\"][role=\"tab\"] > h3",
+          "html": "<h3 id=\"ot-header-id-C0002\">Performance Cookies</h3>",
+          "impact": "critical",
+          "messages": [
+            "Document has multiple elements referenced with ARIA with the same id attribute: ot-header-id-C0002"
+          ],
+          "box": {
+            "x": 0,
+            "y": 0,
+            "w": 0,
+            "h": 0
+          }
+        },
+        {
+          "target": ".otPcTab.ot-tgl-with-label[aria-label=\"Preference center\"]:nth-child(3) > div[aria-modal=\"true\"][aria-describedby=\"ot-pc-desc\"][aria-label=\"Privacy Preference Center\"] > .ot-sdk-row.ot-pc-scrollbar > .ot-grps-cntr.ot-sdk-container.ot-sdk-column > .ot-tab-desc.ot-sdk-eight.ot-sdk-columns > .ot-desc-cntr[aria-labelledby=\"ot-pvcy-hdr\"][role=\"tabpanel\"]",
+          "html": "<div class=\"ot-desc-cntr\" id=\"ot-tab-desc\" tabindex=\"0\" role=\"tabpanel\" aria-labelledby=\"ot-pvcy-hdr\">",
+          "impact": "critical",
+          "messages": [
+            "Document has multiple elements referenced with ARIA with the same id attribute: ot-tab-desc"
+          ],
+          "box": {
+            "x": 0,
+            "y": 0,
+            "w": 0,
+            "h": 0
+          }
+        },
+        {
+          "target": ".otPcTab.ot-tgl-with-label[aria-label=\"Preference center\"]:nth-child(3) > div[aria-modal=\"true\"][aria-describedby=\"ot-pc-desc\"][aria-label=\"Privacy Preference Center\"] > .ot-sdk-row.ot-pc-scrollbar > .ot-grps-cntr.ot-sdk-container.ot-sdk-column > .ot-tab-desc.ot-sdk-eight.ot-sdk-columns > .ot-desc-cntr[aria-labelledby=\"ot-pvcy-hdr\"][role=\"tabpanel\"] > h4",
+          "html": "<h4 id=\"ot-pvcy-hdr\">Your Privacy</h4>",
+          "impact": "critical",
+          "messages": [
+            "Document has multiple elements referenced with ARIA with the same id attribute: ot-pvcy-hdr"
+          ],
+          "box": {
+            "x": 0,
+            "y": 0,
+            "w": 0,
+            "h": 0
+          }
+        },
+        {
+          "target": ".otPcTab.ot-tgl-with-label[aria-label=\"Preference center\"]:nth-child(3) > div[aria-modal=\"true\"][aria-describedby=\"ot-pc-desc\"][aria-label=\"Privacy Preference Center\"] > .ot-sdk-row.ot-pc-scrollbar > .ot-grps-cntr.ot-sdk-container.ot-sdk-column > .ot-tab-desc.ot-sdk-eight.ot-sdk-columns > .ot-desc-cntr[aria-labelledby=\"ot-pvcy-hdr\"][role=\"tabpanel\"] > .ot-grp-desc",
+          "html": "<p id=\"ot-pc-desc\" class=\"ot-grp-desc\">",
+          "impact": "critical",
+          "messages": [
+            "Document has multiple elements referenced with ARIA with the same id attribute: ot-pc-desc"
+          ],
+          "box": {
+            "x": 0,
+            "y": 0,
+            "w": 0,
+            "h": 0
+          }
+        },
+        {
+          "target": ".otPcTab.ot-tgl-with-label[aria-label=\"Preference center\"]:nth-child(3) > div[aria-modal=\"true\"][aria-describedby=\"ot-pc-desc\"][aria-label=\"Privacy Preference Center\"] > .ot-sdk-row.ot-pc-scrollbar > .ot-grps-cntr.ot-sdk-container.ot-sdk-column > .ot-tab-desc.ot-sdk-eight.ot-sdk-columns > .ot-desc-cntr.ot-hide[role=\"tabpanel\"]:nth-child(2)",
+          "html": "<div class=\"ot-desc-cntr ot-hide\" role=\"tabpanel\" tabindex=\"0\" id=\"ot-desc-id-C0004\">",
+          "impact": "critical",
+          "messages": [
+            "Document has multiple elements referenced with ARIA with the same id attribute: ot-desc-id-C0004"
+          ],
+          "box": {
+            "x": 0,
+            "y": 0,
+            "w": 0,
+            "h": 0
+          }
+        },
+        {
+          "target": ".otPcTab.ot-tgl-with-label[aria-label=\"Preference center\"]:nth-child(3) > div[aria-modal=\"true\"][aria-describedby=\"ot-pc-desc\"][aria-label=\"Privacy Preference Center\"] > .ot-sdk-row.ot-pc-scrollbar > .ot-grps-cntr.ot-sdk-container.ot-sdk-column > .ot-tab-desc.ot-sdk-eight.ot-sdk-columns > .ot-desc-cntr.ot-hide[role=\"tabpanel\"]:nth-child(2) > .ot-grp-hdr1 > .ot-tgl > input[name=\"ot-group-id-C0004\"][aria-labelledby=\"ot-header-id-C0004\"][data-optanongroupid=\"C0004\"]",
+          "html": "<input type=\"checkbox\" name=\"ot-group-id-C0004\" id=\"ot-group-id-C0004\" aria-checked=\"true\" role=\"switch\" class=\"category-switch-handler\" data-optanongroupid=\"C0004\" checked=\"\" aria-labelledby=\"ot-header-id-C0004\" style=\"\">",
+          "impact": "critical",
+          "messages": [
+            "Document has multiple elements referenced with ARIA with the same id attribute: ot-group-id-C0004"
+          ],
+          "box": {
+            "x": 0,
+            "y": 0,
+            "w": 0,
+            "h": 0
+          }
+        },
+        {
+          "target": ".otPcTab.ot-tgl-with-label[aria-label=\"Preference center\"]:nth-child(3) > div[aria-modal=\"true\"][aria-describedby=\"ot-pc-desc\"][aria-label=\"Privacy Preference Center\"] > .ot-sdk-row.ot-pc-scrollbar > .ot-grps-cntr.ot-sdk-container.ot-sdk-column > .ot-tab-desc.ot-sdk-eight.ot-sdk-columns > .ot-desc-cntr.ot-hide[role=\"tabpanel\"]:nth-child(3)",
+          "html": "<div class=\"ot-desc-cntr ot-hide\" role=\"tabpanel\" tabindex=\"0\" id=\"ot-desc-id-C0003\">",
+          "impact": "critical",
+          "messages": [
+            "Document has multiple elements referenced with ARIA with the same id attribute: ot-desc-id-C0003"
+          ],
+          "box": {
+            "x": 0,
+            "y": 0,
+            "w": 0,
+            "h": 0
+          }
+        },
+        {
+          "target": ".otPcTab.ot-tgl-with-label[aria-label=\"Preference center\"]:nth-child(3) > div[aria-modal=\"true\"][aria-describedby=\"ot-pc-desc\"][aria-label=\"Privacy Preference Center\"] > .ot-sdk-row.ot-pc-scrollbar > .ot-grps-cntr.ot-sdk-container.ot-sdk-column > .ot-tab-desc.ot-sdk-eight.ot-sdk-columns > .ot-desc-cntr.ot-hide[role=\"tabpanel\"]:nth-child(3) > .ot-grp-hdr1 > .ot-tgl > input[name=\"ot-group-id-C0003\"][aria-labelledby=\"ot-header-id-C0003\"][data-optanongroupid=\"C0003\"]",
+          "html": "<input type=\"checkbox\" name=\"ot-group-id-C0003\" id=\"ot-group-id-C0003\" aria-checked=\"true\" role=\"switch\" class=\"category-switch-handler\" data-optanongroupid=\"C0003\" checked=\"\" aria-labelledby=\"ot-header-id-C0003\" style=\"\">",
+          "impact": "critical",
+          "messages": [
+            "Document has multiple elements referenced with ARIA with the same id attribute: ot-group-id-C0003"
+          ],
+          "box": {
+            "x": 0,
+            "y": 0,
+            "w": 0,
+            "h": 0
+          }
+        },
+        {
+          "target": ".otPcTab.ot-tgl-with-label[aria-label=\"Preference center\"]:nth-child(3) > div[aria-modal=\"true\"][aria-describedby=\"ot-pc-desc\"][aria-label=\"Privacy Preference Center\"] > .ot-sdk-row.ot-pc-scrollbar > .ot-grps-cntr.ot-sdk-container.ot-sdk-column > .ot-tab-desc.ot-sdk-eight.ot-sdk-columns > .ot-desc-cntr.ot-hide[role=\"tabpanel\"]:nth-child(4)",
+          "html": "<div class=\"ot-desc-cntr ot-hide\" role=\"tabpanel\" tabindex=\"0\" id=\"ot-desc-id-C0002\">",
+          "impact": "critical",
+          "messages": [
+            "Document has multiple elements referenced with ARIA with the same id attribute: ot-desc-id-C0002"
+          ],
+          "box": {
+            "x": 0,
+            "y": 0,
+            "w": 0,
+            "h": 0
+          }
+        },
+        {
+          "target": ".otPcTab.ot-tgl-with-label[aria-label=\"Preference center\"]:nth-child(3) > div[aria-modal=\"true\"][aria-describedby=\"ot-pc-desc\"][aria-label=\"Privacy Preference Center\"] > .ot-sdk-row.ot-pc-scrollbar > .ot-grps-cntr.ot-sdk-container.ot-sdk-column > .ot-tab-desc.ot-sdk-eight.ot-sdk-columns > .ot-desc-cntr.ot-hide[role=\"tabpanel\"]:nth-child(4) > .ot-grp-hdr1 > .ot-tgl > input[name=\"ot-group-id-C0002\"][aria-labelledby=\"ot-header-id-C0002\"][data-optanongroupid=\"C0002\"]",
+          "html": "<input type=\"checkbox\" name=\"ot-group-id-C0002\" id=\"ot-group-id-C0002\" aria-checked=\"true\" role=\"switch\" class=\"category-switch-handler\" data-optanongroupid=\"C0002\" checked=\"\" aria-labelledby=\"ot-header-id-C0002\" style=\"\">",
+          "impact": "critical",
+          "messages": [
+            "Document has multiple elements referenced with ARIA with the same id attribute: ot-group-id-C0002"
+          ],
+          "box": {
+            "x": 0,
+            "y": 0,
+            "w": 0,
+            "h": 0
+          }
+        },
+        {
+          "target": ".otPcTab.ot-tgl-with-label[aria-label=\"Preference center\"]:nth-child(3) > div[aria-modal=\"true\"][aria-describedby=\"ot-pc-desc\"][aria-label=\"Privacy Preference Center\"] > .ot-sdk-row.ot-pc-scrollbar > .ot-grps-cntr.ot-sdk-container.ot-sdk-column > .ot-tab-desc.ot-sdk-eight.ot-sdk-columns > .ot-always-active-group.ot-desc-cntr[role=\"tabpanel\"]",
+          "html": "<div class=\"ot-desc-cntr ot-hide ot-always-active-group\" role=\"tabpanel\" tabindex=\"0\" id=\"ot-desc-id-C0001\">",
+          "impact": "critical",
+          "messages": [
+            "Document has multiple elements referenced with ARIA with the same id attribute: ot-desc-id-C0001"
+          ],
+          "box": {
+            "x": 0,
+            "y": 0,
+            "w": 0,
+            "h": 0
+          }
+        },
+        {
+          "target": ".otPcTab.ot-tgl-with-label[aria-label=\"Preference center\"]:nth-child(3) > div[aria-modal=\"true\"][aria-describedby=\"ot-pc-desc\"][aria-label=\"Privacy Preference Center\"] > .ot-enbl-chr > .ot-lst-cntr.ot-pc-scrollbar > div > .ot-lst-subhdr > div:nth-child(1) > input[type=\"text\"][name=\"vendor-search-handler\"]",
+          "html": "<input id=\"vendor-search-handler\" type=\"text\" name=\"vendor-search-handler\" style=\"\">",
+          "impact": "critical",
+          "messages": [
+            "Document has multiple elements referenced with ARIA with the same id attribute: vendor-search-handler"
+          ],
+          "box": {
+            "x": 0,
+            "y": 0,
+            "w": 0,
+            "h": 0
+          }
+        },
+        {
+          "target": ".otPcTab.ot-tgl-with-label[aria-label=\"Preference center\"]:nth-child(3) > div[aria-modal=\"true\"][aria-describedby=\"ot-pc-desc\"][aria-label=\"Privacy Preference Center\"] > .ot-enbl-chr > .ot-lst-cntr.ot-pc-scrollbar > section > .ot-sdk-row > .ot-sdk-column > div > .ot-sel-all > .ot-sel-all-chkbox > .ot-chkbox:nth-child(1) > input[type=\"checkbox\"]",
+          "html": "<input id=\"select-all-hosts-groups-handler\" type=\"checkbox\" aria-checked=\"false\" style=\"\">",
+          "impact": "critical",
+          "messages": [
+            "Document has multiple elements referenced with ARIA with the same id attribute: select-all-hosts-groups-handler"
+          ],
+          "box": {
+            "x": 0,
+            "y": 0,
+            "w": 0,
+            "h": 0
+          }
+        },
+        {
+          "target": ".otPcTab.ot-tgl-with-label[aria-label=\"Preference center\"]:nth-child(3) > div[aria-modal=\"true\"][aria-describedby=\"ot-pc-desc\"][aria-label=\"Privacy Preference Center\"] > .ot-enbl-chr > .ot-lst-cntr.ot-pc-scrollbar > section > .ot-sdk-row > .ot-sdk-column > div > .ot-sel-all > .ot-sel-all-chkbox > .ot-chkbox:nth-child(2) > input[type=\"checkbox\"]",
+          "html": "<input id=\"select-all-vendor-groups-handler\" type=\"checkbox\" aria-checked=\"false\" style=\"\">",
+          "impact": "critical",
+          "messages": [
+            "Document has multiple elements referenced with ARIA with the same id attribute: select-all-vendor-groups-handler"
+          ],
+          "box": {
+            "x": 0,
+            "y": 0,
+            "w": 0,
+            "h": 0
+          }
+        },
+        {
+          "target": ".otPcTab.ot-tgl-with-label[aria-label=\"Preference center\"]:nth-child(3) > div[aria-modal=\"true\"][aria-describedby=\"ot-pc-desc\"][aria-label=\"Privacy Preference Center\"] > .ot-enbl-chr > .ot-lst-cntr.ot-pc-scrollbar > section > .ot-sdk-row > .ot-sdk-column > div > .ot-sel-all > .ot-sel-all-chkbox > .ot-chkbox:nth-child(3) > input[type=\"checkbox\"]",
+          "html": "<input id=\"select-all-vendor-leg-handler\" type=\"checkbox\" aria-checked=\"false\" style=\"\">",
+          "impact": "critical",
+          "messages": [
+            "Document has multiple elements referenced with ARIA with the same id attribute: select-all-vendor-leg-handler"
+          ],
+          "box": {
+            "x": 0,
+            "y": 0,
+            "w": 0,
+            "h": 0
+          }
+        },
+        {
+          "target": ".otPcTab.ot-tgl-with-label[aria-label=\"Preference center\"]:nth-child(3) > div[aria-modal=\"true\"][aria-describedby=\"ot-pc-desc\"][aria-label=\"Privacy Preference Center\"] > .ot-enbl-chr > section > div > .ot-fltr-scrlcnt.ot-pc-scrollbar > .ot-fltr-opts > .ot-fltr-opt > .ot-chkbox > .category-filter-handler[type=\"checkbox\"]",
+          "html": "<input id=\"chkbox-id\" type=\"checkbox\" aria-checked=\"false\" class=\"category-filter-handler\" style=\"\">",
+          "impact": "critical",
+          "messages": [
+            "Document has multiple elements referenced with ARIA with the same id attribute: chkbox-id"
+          ],
+          "box": {
+            "x": 0,
+            "y": 0,
+            "w": 0,
+            "h": 0
+          }
+        }
+      ]
+    }
+  ],
+  "violations": [
+    {
+      "id": "button-name",
+      "impact": "critical",
+      "help": "Buttons must have discernible text",
+      "description": "Ensure buttons have discernible text",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/button-name?application=playwright",
+      "tags": [
+        "cat.name-role-value",
+        "wcag2a",
+        "wcag412",
+        "section508",
+        "section508.22.a",
+        "TTv5",
+        "TT6.a",
+        "EN-301-549",
+        "EN-9.4.1.2",
+        "ACT",
+        "RGAAv4",
+        "RGAA-11.9.1"
+      ],
+      "wcag": [
+        "4.1.2"
+      ],
+      "nodes": 1,
+      "items": [
+        {
+          "target": "#main-nav-overlay__trigger-BUTTON-0",
+          "html": "<button class=\"nav__toggle nav__toggle--menu\" id=\"main-nav-overlay__trigger-BUTTON-0\" type=\"button\" data-main-nav-toggle=\"\" data-mainnav-open=\"\" data-modal-open=\"main-nav-overlay\">",
+          "impact": "critical",
+          "messages": [
+            "Element does not have inner text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element does not have an implicit (wrapped) <label>",
+            "Element does not have an explicit <label>",
+            "Element's default semantics were not overridden with role=\"none\" or role=\"presentation\""
+          ],
+          "box": {
+            "x": 1294,
+            "y": 40,
+            "w": 40,
+            "h": 40
+          }
+        }
+      ]
+    },
+    {
+      "id": "color-contrast",
+      "impact": "serious",
+      "help": "Elements must meet minimum color contrast ratio thresholds",
+      "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/color-contrast?application=playwright",
+      "tags": [
+        "cat.color",
+        "wcag2aa",
+        "wcag143",
+        "TTv5",
+        "TT13.c",
+        "EN-301-549",
+        "EN-9.1.4.3",
+        "ACT",
+        "RGAAv4",
+        "RGAA-3.2.1"
+      ],
+      "wcag": [
+        "1.4.3"
+      ],
+      "nodes": 34,
+      "items": [
+        {
+          "target": ".bg--dark-red.widget--flex.widget:nth-child(5) > .grid--4up.grid--row.grid > .card--large.card[data-set-view=\"\"] > .card__int > .fade-up-50.card__body.delay--2 > .card__body-info > .card__summary",
+          "html": "<p class=\"card__summary\">",
+          "impact": "serious",
+          "messages": [
+            "Element has insufficient color contrast of 3.49 (foreground color: #898989, background color: #ffffff, font size: 15.0pt (20px), font weight: normal). Expected contrast ratio of 4.5:1"
+          ],
+          "box": {
+            "x": 753,
+            "y": 3779.21875,
+            "w": 523,
+            "h": 136
+          }
+        },
+        {
+          "target": ".bg--dark-red.widget--flex.widget:nth-child(5) > .grid--4up.grid--row.grid > .card--large.card[data-set-view=\"\"] > .card__int > .fade-up-50.card__body.delay--2 > footer > .btn--details.btn[target=\"_self\"]",
+          "html": "<a href=\"https://www.travelmanitoba.com/travel-deals/\" target=\"_self\" rel=\"noopener\" class=\"btn btn--details\">\n                                        VIEW ALL DETAILS!\n                </a>",
+          "impact": "serious",
+          "messages": [
+            "Element has insufficient color contrast of 1.56 (foreground color: #f5c9c0, background color: #eb9280, font size: 10.9pt (14.5px), font weight: normal). Expected contrast ratio of 4.5:1"
+          ],
+          "box": {
+            "x": 749,
+            "y": 3929.21875,
+            "w": 188.84375,
+            "h": 37.390625
+          }
+        },
+        {
+          "target": ".dms-ext-link[href$=\"4xLvCwM\"][aria-describedby=\"audioeye_new_window_message\"]:nth-child(1) > .card__subtitle--upper.card__subtitle",
+          "html": "<div class=\"card__subtitle card__subtitle--upper\">\n                            Royal Winnipeg Ballet\n                        </div>",
+          "impact": "serious",
+          "messages": [
+            "Element has insufficient color contrast of 2.34 (foreground color: #eb9280, background color: #ffffff, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1"
+          ],
+          "box": {
+            "x": 40,
+            "y": 4587.828125,
+            "w": 269,
+            "h": 19.1875
+          }
+        },
+        {
+          "target": ".widget--flex.bg--offwhite.widget:nth-child(6) > .grid--4up.grid--row.grid > .card.large-4[data-set-view=\"\"]:nth-child(1) > .card__int > .fade-up-50.card__body.delay--2 > .card__body-info > .card__summary",
+          "html": "<p class=\"card__summary\">",
+          "impact": "serious",
+          "messages": [
+            "Element has insufficient color contrast of 2.61 (foreground color: #a0a0a1, background color: #ffffff, font size: 11.3pt (15px), font weight: normal). Expected contrast ratio of 4.5:1"
+          ],
+          "box": {
+            "x": 40,
+            "y": 4646.8125,
+            "w": 269,
+            "h": 189
+          }
+        },
+        {
+          "target": ".btn--details.btn[href$=\"4xLvCwM\"]",
+          "html": "<a href=\"https://manito.ba/4xLvCwM\" target=\"_blank\" rel=\"noopener\" class=\"btn btn--details dms-ext-link\" aria-describedby=\"audioeye_new_window_message\">\n                                        BOOK TODAY!\n                </a>",
+          "impact": "serious",
+          "messages": [
+            "Element has insufficient color contrast of 1.56 (foreground color: #f5c9c0, background color: #eb9280, font size: 10.9pt (14.5px), font weight: normal). Expected contrast ratio of 4.5:1"
+          ],
+          "box": {
+            "x": 36,
+            "y": 4915.796875,
+            "w": 142.53125,
+            "h": 37.390625
+          }
+        },
+        {
+          "target": ".dms-ext-link[href$=\"4haNoCF\"][aria-describedby=\"audioeye_new_window_message\"]:nth-child(1) > .card__subtitle--upper.card__subtitle",
+          "html": "<div class=\"card__subtitle card__subtitle--upper\">\n                            Frontiers North Adventures\n                        </div>",
+          "impact": "serious",
+          "messages": [
+            "Element has insufficient color contrast of 2.34 (foreground color: #eb9280, background color: #ffffff, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1"
+          ],
+          "box": {
+            "x": 379,
+            "y": 4587.828125,
+            "w": 269,
+            "h": 38.375
+          }
+        },
+        {
+          "target": ".widget--flex.bg--offwhite.widget:nth-child(6) > .grid--4up.grid--row.grid > .card.large-4[data-set-view=\"\"]:nth-child(2) > .card__int > .fade-up-50.card__body.delay--2 > .card__body-info > .card__summary",
+          "html": "<p class=\"card__summary\">",
+          "impact": "serious",
+          "messages": [
+            "Element has insufficient color contrast of 2.61 (foreground color: #a0a0a1, background color: #ffffff, font size: 11.3pt (15px), font weight: normal). Expected contrast ratio of 4.5:1"
+          ],
+          "box": {
+            "x": 379,
+            "y": 4688.796875,
+            "w": 269,
+            "h": 189
+          }
+        },
+        {
+          "target": ".btn--details.btn[href$=\"4haNoCF\"]",
+          "html": "<a href=\"https://manito.ba/4haNoCF\" target=\"_blank\" rel=\"noopener\" class=\"btn btn--details dms-ext-link\" aria-describedby=\"audioeye_new_window_message\">\n                                        BOOK TODAY!\n                </a>",
+          "impact": "serious",
+          "messages": [
+            "Element has insufficient color contrast of 1.56 (foreground color: #f5c9c0, background color: #eb9280, font size: 10.9pt (14.5px), font weight: normal). Expected contrast ratio of 4.5:1"
+          ],
+          "box": {
+            "x": 375,
+            "y": 4915.796875,
+            "w": 142.53125,
+            "h": 37.390625
+          }
+        },
+        {
+          "target": ".dms-ext-link[href$=\"4ibdgAt\"][target=\"_self\"]:nth-child(1) > .card__subtitle--upper.card__subtitle",
+          "html": "<div class=\"card__subtitle card__subtitle--upper\">\n                            Perimeter Aviation\n                        </div>",
+          "impact": "serious",
+          "messages": [
+            "Element has insufficient color contrast of 2.34 (foreground color: #eb9280, background color: #ffffff, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1"
+          ],
+          "box": {
+            "x": 718,
+            "y": 4587.828125,
+            "w": 269,
+            "h": 19.1875
+          }
+        },
+        {
+          "target": ".widget--flex.bg--offwhite.widget:nth-child(6) > .grid--4up.grid--row.grid > .card.large-4[data-set-view=\"\"]:nth-child(3) > .card__int > .fade-up-50.card__body.delay--2 > .card__body-info > .card__summary",
+          "html": "<p class=\"card__summary\">\n                                                    Experience angling excursions, wild rivers, water-coloured sunsets, and the roar of waterfalls. Book Perimeter Aviation for your northern travel today!\n                                            </p>",
+          "impact": "serious",
+          "messages": [
+            "Element has insufficient color contrast of 2.61 (foreground color: #a0a0a1, background color: #ffffff, font size: 11.3pt (15px), font weight: normal). Expected contrast ratio of 4.5:1"
+          ],
+          "box": {
+            "x": 718,
+            "y": 4646.8125,
+            "w": 269,
+            "h": 135
+          }
+        },
+        {
+          "target": ".btn--details.btn[href$=\"4ibdgAt\"]",
+          "html": "<a href=\"https://manito.ba/4ibdgAt\" target=\"_self\" rel=\"noopener\" class=\"btn btn--details dms-ext-link\">\n                                        More Info\n                </a>",
+          "impact": "serious",
+          "messages": [
+            "Element has insufficient color contrast of 1.56 (foreground color: #f5c9c0, background color: #eb9280, font size: 10.9pt (14.5px), font weight: normal). Expected contrast ratio of 4.5:1"
+          ],
+          "box": {
+            "x": 714,
+            "y": 4915.796875,
+            "w": 125.875,
+            "h": 37.390625
+          }
+        },
+        {
+          "target": ".dms-ext-link[href$=\"4g8mNFT\"][target=\"_self\"]:nth-child(1) > .card__subtitle--upper.card__subtitle",
+          "html": "<div class=\"card__subtitle card__subtitle--upper\">\n                            Nanuk Operations\n                        </div>",
+          "impact": "serious",
+          "messages": [
+            "Element has insufficient color contrast of 2.34 (foreground color: #eb9280, background color: #ffffff, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1"
+          ],
+          "box": {
+            "x": 1057,
+            "y": 4587.828125,
+            "w": 269,
+            "h": 19.1875
+          }
+        },
+        {
+          "target": ".widget--flex.bg--offwhite.widget:nth-child(6) > .grid--4up.grid--row.grid > .card.large-4[data-set-view=\"\"]:nth-child(4) > .card__int > .fade-up-50.card__body.delay--2 > .card__body-info > .card__summary",
+          "html": "<p class=\"card__summary\">",
+          "impact": "serious",
+          "messages": [
+            "Element has insufficient color contrast of 2.61 (foreground color: #a0a0a1, background color: #ffffff, font size: 11.3pt (15px), font weight: normal). Expected contrast ratio of 4.5:1"
+          ],
+          "box": {
+            "x": 1057,
+            "y": 4669.609375,
+            "w": 269,
+            "h": 189
+          }
+        },
+        {
+          "target": ".btn--details.btn[href$=\"4g8mNFT\"]",
+          "html": "<a href=\"https://manito.ba/4g8mNFT\" target=\"_self\" rel=\"noopener\" class=\"btn btn--details dms-ext-link\">\n                                        More Info\n                </a>",
+          "impact": "serious",
+          "messages": [
+            "Element has insufficient color contrast of 1.56 (foreground color: #f5c9c0, background color: #eb9280, font size: 10.9pt (14.5px), font weight: normal). Expected contrast ratio of 4.5:1"
+          ],
+          "box": {
+            "x": 1053,
+            "y": 4915.796875,
+            "w": 125.875,
+            "h": 37.390625
+          }
+        },
+        {
+          "target": ".dms-ext-link[href$=\"4hA3zeT\"][target=\"_self\"]:nth-child(1) > .card__subtitle--upper.card__subtitle",
+          "html": "<div class=\"card__subtitle card__subtitle--upper\">\n                            South Beach Casino and Resort\n                        </div>",
+          "impact": "serious",
+          "messages": [
+            "Element has insufficient color contrast of 2.34 (foreground color: #eb9280, background color: #ffffff, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1"
+          ],
+          "box": {
+            "x": 753,
+            "y": 5129.015625,
+            "w": 523,
+            "h": 19.1875
+          }
+        },
+        {
+          "target": ".widget--flex.bg--offwhite.widget:nth-child(7) > .grid--4up.grid--row.grid > .card--large.card[data-set-view=\"\"] > .card__int > .fade-up-50.card__body.delay--2 > .card__body-info > .card__summary",
+          "html": "<p class=\"card__summary\">",
+          "impact": "serious",
+          "messages": [
+            "Element has insufficient color contrast of 2.61 (foreground color: #a0a0a1, background color: #ffffff, font size: 15.0pt (20px), font weight: normal). Expected contrast ratio of 4.5:1"
+          ],
+          "box": {
+            "x": 753,
+            "y": 5287.953125,
+            "w": 523,
+            "h": 170
+          }
+        },
+        {
+          "target": ".btn--details.btn[href$=\"4hA3zeT\"]",
+          "html": "<a href=\"https://manito.ba/4hA3zeT\" target=\"_self\" rel=\"noopener\" class=\"btn btn--details dms-ext-link\">\n                                        More Info\n                </a>",
+          "impact": "serious",
+          "messages": [
+            "Element has insufficient color contrast of 1.56 (foreground color: #f5c9c0, background color: #eb9280, font size: 10.9pt (14.5px), font weight: normal). Expected contrast ratio of 4.5:1"
+          ],
+          "box": {
+            "x": 749,
+            "y": 5471.953125,
+            "w": 125.875,
+            "h": 37.390625
+          }
+        },
+        {
+          "target": ".dms-ext-link[href$=\"4h2pklA\"][target=\"_self\"]:nth-child(1) > .card__subtitle--upper.card__subtitle",
+          "html": "<div class=\"card__subtitle card__subtitle--upper\">\n                            Calm Air International LP\n                        </div>",
+          "impact": "serious",
+          "messages": [
+            "Element has insufficient color contrast of 2.34 (foreground color: #eb9280, background color: #ffffff, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1"
+          ],
+          "box": {
+            "x": 753,
+            "y": 5820.796875,
+            "w": 523,
+            "h": 19.1875
+          }
+        },
+        {
+          "target": ".widget--flex.bg--offwhite.widget:nth-child(8) > .grid--4up.grid--row.grid > .card--large.card[data-set-view=\"\"] > .card__int > .fade-up-50.card__body.delay--2 > .card__body-info > .card__summary",
+          "html": "<p class=\"card__summary\">",
+          "impact": "serious",
+          "messages": [
+            "Element has insufficient color contrast of 2.61 (foreground color: #a0a0a1, background color: #ffffff, font size: 15.0pt (20px), font weight: normal). Expected contrast ratio of 4.5:1"
+          ],
+          "box": {
+            "x": 753,
+            "y": 5886.171875,
+            "w": 523,
+            "h": 136
+          }
+        },
+        {
+          "target": ".btn--details.btn[href$=\"4h2pklA\"]",
+          "html": "<a href=\"https://manito.ba/4h2pklA\" target=\"_self\" rel=\"noopener\" class=\"btn btn--details dms-ext-link\">\n                                        More Info\n                </a>",
+          "impact": "serious",
+          "messages": [
+            "Element has insufficient color contrast of 1.56 (foreground color: #f5c9c0, background color: #eb9280, font size: 10.9pt (14.5px), font weight: normal). Expected contrast ratio of 4.5:1"
+          ],
+          "box": {
+            "x": 749,
+            "y": 6036.171875,
+            "w": 125.875,
+            "h": 37.390625
+          }
+        },
+        {
+          "target": ".bg--white.widget--flex.widget > .grid--4up.grid--row.grid > .card.large-4[data-set-view=\"\"]:nth-child(1) > .card__int > .fade-up-50.card__body.delay--2 > .card__body-info > .card__summary",
+          "html": "<p class=\"card__summary\">",
+          "impact": "serious",
+          "messages": [
+            "Element has insufficient color contrast of 2.61 (foreground color: #a0a0a1, background color: #ffffff, font size: 11.3pt (15px), font weight: normal). Expected contrast ratio of 4.5:1"
+          ],
+          "box": {
+            "x": 40,
+            "y": 6733.078125,
+            "w": 269,
+            "h": 162
+          }
+        },
+        {
+          "target": ".bg--white.widget--flex.widget > .grid--4up.grid--row.grid > .card.large-4[data-set-view=\"\"]:nth-child(1) > .card__int > .fade-up-50.card__body.delay--2 > footer > .btn--details.btn[aria-describedby=\"audioeye_new_window_message\"]",
+          "html": "<a href=\"https://www.travelmanitoba.com/trip-essentials/know-before-you-go/\" target=\"_blank\" rel=\"noopener\" class=\"btn btn--details\" aria-describedby=\"audioeye_new_window_message\">\n                                        More Info\n                </a>",
+          "impact": "serious",
+          "messages": [
+            "Element has insufficient color contrast of 1.56 (foreground color: #f5c9c0, background color: #eb9280, font size: 10.9pt (14.5px), font weight: normal). Expected contrast ratio of 4.5:1"
+          ],
+          "box": {
+            "x": 36,
+            "y": 6933.078125,
+            "w": 125.875,
+            "h": 37.390625
+          }
+        },
+        {
+          "target": ".bg--white.widget--flex.widget > .grid--4up.grid--row.grid > .card.large-4[data-set-view=\"\"]:nth-child(2) > .card__int > .fade-up-50.card__body.delay--2 > .card__body-info > .dms-ext-link[aria-describedby=\"audioeye_new_window_message\"][target=\"_blank\"]:nth-child(1) > .card__subtitle--upper.card__subtitle",
+          "html": "<div class=\"card__subtitle card__subtitle--upper\">\n                            Indigenous Tourism Manitoba\n                        </div>",
+          "impact": "serious",
+          "messages": [
+            "Element has insufficient color contrast of 2.34 (foreground color: #eb9280, background color: #ffffff, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1"
+          ],
+          "box": {
+            "x": 379,
+            "y": 6698.28125,
+            "w": 269,
+            "h": 38.375
+          }
+        },
+        {
+          "target": ".bg--white.widget--flex.widget > .grid--4up.grid--row.grid > .card.large-4[data-set-view=\"\"]:nth-child(2) > .card__int > .fade-up-50.card__body.delay--2 > .card__body-info > .card__summary",
+          "html": "<p class=\"card__summary\">\n                                                    Experience Manitoba with the Indigenous Peoples who have called these lands home for millennia.\n                                            </p>",
+          "impact": "serious",
+          "messages": [
+            "Element has insufficient color contrast of 2.61 (foreground color: #a0a0a1, background color: #ffffff, font size: 11.3pt (15px), font weight: normal). Expected contrast ratio of 4.5:1"
+          ],
+          "box": {
+            "x": 379,
+            "y": 6776.453125,
+            "w": 269,
+            "h": 81
+          }
+        },
+        {
+          "target": ".bg--white.widget--flex.widget > .grid--4up.grid--row.grid > .card.large-4[data-set-view=\"\"]:nth-child(2) > .card__int > .fade-up-50.card__body.delay--2 > footer > .btn--details.btn[aria-describedby=\"audioeye_new_window_message\"]",
+          "html": "<a href=\"https://indigenoustourismmanitoba.ca/things-to-do/\" target=\"_blank\" rel=\"noopener\" class=\"btn btn--details dms-ext-link\" aria-describedby=\"audioeye_new_window_message\">\n                                        Explore Now!\n                </a>",
+          "impact": "serious",
+          "messages": [
+            "Element has insufficient color contrast of 1.56 (foreground color: #f5c9c0, background color: #eb9280, font size: 10.9pt (14.5px), font weight: normal). Expected contrast ratio of 4.5:1"
+          ],
+          "box": {
+            "x": 375,
+            "y": 6933.078125,
+            "w": 156.546875,
+            "h": 37.390625
+          }
+        },
+        {
+          "target": ".dms-ext-link[href$=\"calmair.com/\"][aria-describedby=\"audioeye_new_window_message\"]:nth-child(1) > .card__subtitle--upper.card__subtitle",
+          "html": "<div class=\"card__subtitle card__subtitle--upper\">\n                            Calm Air\n                        </div>",
+          "impact": "serious",
+          "messages": [
+            "Element has insufficient color contrast of 2.34 (foreground color: #eb9280, background color: #ffffff, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1"
+          ],
+          "box": {
+            "x": 718,
+            "y": 6698.28125,
+            "w": 269,
+            "h": 19.1875
+          }
+        },
+        {
+          "target": ".bg--white.widget--flex.widget > .grid--4up.grid--row.grid > .card.large-4[data-set-view=\"\"]:nth-child(3) > .card__int > .fade-up-50.card__body.delay--2 > .card__body-info > .card__summary",
+          "html": "<p class=\"card__summary\">\n                                                    Calm Air partners with local operators to bring visitors to Churchill for the most authentic Northern experiences available today.\n                                            </p>",
+          "impact": "serious",
+          "messages": [
+            "Element has insufficient color contrast of 2.61 (foreground color: #a0a0a1, background color: #ffffff, font size: 11.3pt (15px), font weight: normal). Expected contrast ratio of 4.5:1"
+          ],
+          "box": {
+            "x": 718,
+            "y": 6780.0625,
+            "w": 269,
+            "h": 108
+          }
+        },
+        {
+          "target": ".btn--details.btn[href$=\"calmair.com/\"]",
+          "html": "<a href=\"https://www.calmair.com/\" target=\"_blank\" rel=\"noopener\" class=\"btn btn--details dms-ext-link\" aria-describedby=\"audioeye_new_window_message\">\n                                        Book Today!\n                </a>",
+          "impact": "serious",
+          "messages": [
+            "Element has insufficient color contrast of 1.56 (foreground color: #f5c9c0, background color: #eb9280, font size: 10.9pt (14.5px), font weight: normal). Expected contrast ratio of 4.5:1"
+          ],
+          "box": {
+            "x": 714,
+            "y": 6933.078125,
+            "w": 142.53125,
+            "h": 37.390625
+          }
+        },
+        {
+          "target": "a[href$=\"must-see/\"][aria-describedby=\"audioeye_new_window_message\"][target=\"_blank\"]:nth-child(1) > .card__subtitle--upper.card__subtitle",
+          "html": "<div class=\"card__subtitle card__subtitle--upper\">\n                            Places To Go\n                        </div>",
+          "impact": "serious",
+          "messages": [
+            "Element has insufficient color contrast of 2.34 (foreground color: #eb9280, background color: #ffffff, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1"
+          ],
+          "box": {
+            "x": 1057,
+            "y": 6698.28125,
+            "w": 269,
+            "h": 19.1875
+          }
+        },
+        {
+          "target": ".bg--white.widget--flex.widget > .grid--4up.grid--row.grid > .card.large-4[data-set-view=\"\"]:nth-child(4) > .card__int > .fade-up-50.card__body.delay--2 > .card__body-info > .card__summary",
+          "html": "<p class=\"card__summary\">\n                                                    These must-see destinations deliver the best of our province. Discover some of Manitoba’s favourite places to visit!\n                                            </p>",
+          "impact": "serious",
+          "messages": [
+            "Element has insufficient color contrast of 2.61 (foreground color: #a0a0a1, background color: #ffffff, font size: 11.3pt (15px), font weight: normal). Expected contrast ratio of 4.5:1"
+          ],
+          "box": {
+            "x": 1057,
+            "y": 6780.0625,
+            "w": 269,
+            "h": 108
+          }
+        },
+        {
+          "target": ".btn--details.btn[href$=\"must-see/\"]",
+          "html": "<a href=\"/places/must-see/\" target=\"_blank\" rel=\"noopener\" class=\"btn btn--details\" aria-describedby=\"audioeye_new_window_message\">\n                                        Explore Now!\n                </a>",
+          "impact": "serious",
+          "messages": [
+            "Element has insufficient color contrast of 1.56 (foreground color: #f5c9c0, background color: #eb9280, font size: 10.9pt (14.5px), font weight: normal). Expected contrast ratio of 4.5:1"
+          ],
+          "box": {
+            "x": 1053,
+            "y": 6933.078125,
+            "w": 156.546875,
+            "h": 37.390625
+          }
+        },
+        {
+          "target": ".bg--dark-red.widget--flex.widget:nth-child(10) > .grid--4up.grid--row.grid > .card--large.card[data-set-view=\"\"] > .card__int > .fade-up-50.card__body.delay--2 > .card__body-info > .card__summary",
+          "html": "<p class=\"card__summary\">",
+          "impact": "serious",
+          "messages": [
+            "Element has insufficient color contrast of 3.49 (foreground color: #898989, background color: #ffffff, font size: 15.0pt (20px), font weight: normal). Expected contrast ratio of 4.5:1"
+          ],
+          "box": {
+            "x": 753,
+            "y": 7380.859375,
+            "w": 523,
+            "h": 136
+          }
+        },
+        {
+          "target": ".btn--details.btn[href$=\"4mOGqVg\"]",
+          "html": "<a href=\"https://manito.ba/4mOGqVg\" target=\"_blank\" rel=\"noopener\" class=\"btn btn--details dms-ext-link\" aria-describedby=\"audioeye_new_window_message\">\n                                        BOOK TODAY!\n                </a>",
+          "impact": "serious",
+          "messages": [
+            "Element has insufficient color contrast of 1.56 (foreground color: #f5c9c0, background color: #eb9280, font size: 10.9pt (14.5px), font weight: normal). Expected contrast ratio of 4.5:1"
+          ],
+          "box": {
+            "x": 749,
+            "y": 7530.859375,
+            "w": 142.53125,
+            "h": 37.390625
+          }
+        },
+        {
+          "target": ".footer__copy",
+          "html": "<p class=\"footer__copy nomargin\">2026 Travel Manitoba. All Rights Reserved</p>",
+          "impact": "serious",
+          "messages": [
+            "Element has insufficient color contrast of 3.68 (foreground color: #f7d3cc, background color: #d62400, font size: 11.3pt (15px), font weight: normal). Expected contrast ratio of 4.5:1"
+          ],
+          "box": {
+            "x": 462,
+            "y": 9792.921875,
+            "w": 299.453125,
+            "h": 27
+          }
+        }
+      ]
+    },
+    {
+      "id": "link-name",
+      "impact": "serious",
+      "help": "Links must have discernible text",
+      "description": "Ensure links have discernible text",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/link-name?application=playwright",
+      "tags": [
+        "cat.name-role-value",
+        "wcag2a",
+        "wcag244",
+        "wcag412",
+        "section508",
+        "section508.22.a",
+        "TTv5",
+        "TT6.a",
+        "EN-301-549",
+        "EN-9.2.4.4",
+        "EN-9.4.1.2",
+        "ACT",
+        "RGAAv4",
+        "RGAA-6.2.1"
+      ],
+      "wcag": [
+        "2.4.4",
+        "4.1.2"
+      ],
+      "nodes": 13,
+      "items": [
+        {
+          "target": ".card__link[href$=\"4xLvCwM\"][aria-describedby=\"audioeye_new_window_message\"]",
+          "html": "<a href=\"https://manito.ba/4xLvCwM\" class=\"card__link dms-ext-link\" target=\"_blank\" rel=\"noopener\" aria-describedby=\"audioeye_new_window_message\">",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": {
+            "x": 20,
+            "y": 4268.234375,
+            "w": 309,
+            "h": 273.59375
+          }
+        },
+        {
+          "target": ".card__link[href$=\"4haNoCF\"][aria-describedby=\"audioeye_new_window_message\"]",
+          "html": "<a href=\"https://manito.ba/4haNoCF\" class=\"card__link dms-ext-link\" target=\"_blank\" rel=\"noopener\" aria-describedby=\"audioeye_new_window_message\">",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": {
+            "x": 359,
+            "y": 4268.234375,
+            "w": 309,
+            "h": 273.59375
+          }
+        },
+        {
+          "target": ".card__link[href$=\"4ibdgAt\"][target=\"_self\"]",
+          "html": "<a href=\"https://manito.ba/4ibdgAt\" class=\"card__link dms-ext-link\" target=\"_self\" rel=\"noopener\">",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": {
+            "x": 698,
+            "y": 4268.234375,
+            "w": 309,
+            "h": 273.59375
+          }
+        },
+        {
+          "target": ".card__link[href$=\"4g8mNFT\"][target=\"_self\"]",
+          "html": "<a href=\"https://manito.ba/4g8mNFT\" class=\"card__link dms-ext-link\" target=\"_self\" rel=\"noopener\">",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": {
+            "x": 1037,
+            "y": 4268.234375,
+            "w": 309,
+            "h": 273.59375
+          }
+        },
+        {
+          "target": ".card__link[href$=\"4hA3zeT\"][target=\"_self\"]",
+          "html": "<a href=\"https://manito.ba/4hA3zeT\" class=\"card__link dms-ext-link\" target=\"_self\" rel=\"noopener\">",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": {
+            "x": 20,
+            "y": 5005.1875,
+            "w": 663,
+            "h": 578
+          }
+        },
+        {
+          "target": ".card__link[href$=\"4h2pklA\"][target=\"_self\"]",
+          "html": "<a href=\"https://manito.ba/4h2pklA\" class=\"card__link dms-ext-link\" target=\"_self\" rel=\"noopener\">",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": {
+            "x": 20,
+            "y": 5633.1875,
+            "w": 663,
+            "h": 578
+          }
+        },
+        {
+          "target": ".bg--white.widget--flex.widget > .grid--4up.grid--row.grid > .card.large-4[data-set-view=\"\"]:nth-child(1) > .card__int > .card__image-wrapper > .card__link[aria-describedby=\"audioeye_new_window_message\"][target=\"_blank\"]",
+          "html": "<a href=\"https://www.travelmanitoba.com/trip-essentials/know-before-you-go/\" class=\"card__link\" target=\"_blank\" rel=\"noopener\" aria-describedby=\"audioeye_new_window_message\">",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": {
+            "x": 20,
+            "y": 6378.6875,
+            "w": 309,
+            "h": 273.59375
+          }
+        },
+        {
+          "target": ".card--event.card[data-set-view=\"\"]:nth-child(1) > .card__int > .card__image-wrapper--event.card__image-wrapper > .card__link--event.featured-events.fade-in",
+          "html": "<a href=\"https://www.travelmanitoba.com/events/taisa-monastyrski/\" class=\"card__link card__link--event delay--1 fade-in featured-events\" target=\"_self\" rel=\"noopener\">",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": {
+            "x": 93.5,
+            "y": 7975.46875,
+            "w": 162,
+            "h": 198
+          }
+        },
+        {
+          "target": ".card--event.card[data-set-view=\"\"]:nth-child(2) > .card__int > .card__image-wrapper--event.card__image-wrapper > .card__link--event.featured-events.fade-in",
+          "html": "<a href=\"https://www.travelmanitoba.com/events/african-movie-festial-in-manitoba/\" class=\"card__link card__link--event delay--1 fade-in featured-events\" target=\"_self\" rel=\"noopener\">",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": {
+            "x": 432.5,
+            "y": 7975.46875,
+            "w": 162,
+            "h": 198
+          }
+        },
+        {
+          "target": ".card--event.card[data-set-view=\"\"]:nth-child(3) > .card__int > .card__image-wrapper--event.card__image-wrapper > .card__link--event.featured-events.fade-in",
+          "html": "<a href=\"https://www.travelmanitoba.com/events/artist-talk-with-raymond-boisjoly/\" class=\"card__link card__link--event delay--1 fade-in featured-events\" target=\"_self\" rel=\"noopener\">",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": {
+            "x": 771.5,
+            "y": 7975.46875,
+            "w": 162,
+            "h": 198
+          }
+        },
+        {
+          "target": ".card--event.card[data-set-view=\"\"]:nth-child(4) > .card__int > .card__image-wrapper--event.card__image-wrapper > .card__link--event.featured-events.fade-in",
+          "html": "<a href=\"https://www.travelmanitoba.com/events/culture-days-manitoba-nuit-blanche-winnipeg/\" class=\"card__link card__link--event delay--1 fade-in featured-events\" target=\"_self\" rel=\"noopener\">",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": {
+            "x": 1110.5,
+            "y": 7975.46875,
+            "w": 162,
+            "h": 198
+          }
+        },
+        {
+          "target": ".footer__logo",
+          "html": "<a href=\"https://www.travelmanitoba.com/\" class=\"footer__logo logo\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<svg class=\"icon--auto\" role=\"presentation\" viewBox=\"0 0 384 70\">\n\t\t\t\t\t\t\t\t<use xlink:href=\"#logo-tagline\"></use>\n\t\t\t\t\t\t\t</svg>\n\t\t\t\t\t\t\t\t\t\t\t</a>",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": {
+            "x": 34,
+            "y": 9267.328125,
+            "w": 311,
+            "h": 88.390625
+          }
+        },
+        {
+          "target": "li:nth-child(2) > .footer-logos__wrapper.dms-ext-link[aria-describedby=\"audioeye_new_window_message\"]",
+          "html": "<a href=\"https://www.thegreenwebfoundation.org/\" class=\"footer-logos__wrapper dms-ext-link\" target=\"_blank\" aria-describedby=\"audioeye_new_window_message\">",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": {
+            "x": 367.921875,
+            "y": 9655.421875,
+            "w": 232,
+            "h": 100
+          }
+        }
+      ]
+    },
+    {
+      "id": "listitem",
+      "impact": "serious",
+      "help": "<li> elements must be contained in a <ul> or <ol>",
+      "description": "Ensure <li> elements are used semantically",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/listitem?application=playwright",
+      "tags": [
+        "cat.structure",
+        "wcag2a",
+        "wcag131",
+        "EN-301-549",
+        "EN-9.1.3.1",
+        "RGAAv4",
+        "RGAA-9.3.1"
+      ],
+      "wcag": [
+        "1.3.1"
+      ],
+      "nodes": 6,
+      "items": [
+        {
+          "target": ".nav--header__inner > .has-children.nav__item[data-has-subnav=\"\"]:nth-child(1)",
+          "html": "<li class=\"nav__item has-children\" style=\"animation-delay:0.1s;\" data-has-subnav=\"\"><a href=\"https://www.travelmanitoba.com/media/\" target=\"\" rel=\"noopener\" class=\"nav__link  \">\n\n                \n                Travel Media\n            </a></li>",
+          "impact": "serious",
+          "messages": [
+            "List item does not have a <ul>, <ol> parent element"
+          ],
+          "box": {
+            "x": 375.640625,
+            "y": 36.609375,
+            "w": 89.21875,
+            "h": 15.59375
+          }
+        },
+        {
+          "target": ".nav--header__inner > .has-children.nav__item[data-has-subnav=\"\"]:nth-child(2)",
+          "html": "<li class=\"nav__item has-children\" style=\"animation-delay:0.2s;\" data-has-subnav=\"\"><a href=\"https://www.travelmanitoba.com/meetings/\" target=\"\" rel=\"noopener\" class=\"nav__link  \">\n\n                \n                Meetings &amp; Conventions\n            </a></li>",
+          "impact": "serious",
+          "messages": [
+            "List item does not have a <ul>, <ol> parent element"
+          ],
+          "box": {
+            "x": 494.859375,
+            "y": 36.609375,
+            "w": 168.53125,
+            "h": 15.59375
+          }
+        },
+        {
+          "target": ".nav--header__inner > .has-children.nav__item[data-has-subnav=\"\"]:nth-child(3)",
+          "html": "<li class=\"nav__item has-children\" style=\"animation-delay:0.3s;\" data-has-subnav=\"\"><a href=\"https://www.travelmanitoba.com/travel-trade/\" target=\"\" rel=\"noopener\" class=\"nav__link  \">\n\n                \n                Travel Trade\n            </a></li>",
+          "impact": "serious",
+          "messages": [
+            "List item does not have a <ul>, <ol> parent element"
+          ],
+          "box": {
+            "x": 693.390625,
+            "y": 36.609375,
+            "w": 88.875,
+            "h": 15.59375
+          }
+        },
+        {
+          "target": ".nav--header__inner > .nav__item:nth-child(4)",
+          "html": "<li class=\"nav__item \" style=\"animation-delay:0.4s;\"><a href=\"https://huntfishmanitoba.ca/\" target=\"_blank\" rel=\"noopener\" class=\"nav__link dms-ext-link\" aria-describedby=\"audioeye_new_window_message\">\n\n                \n                Hunt Fish Manitoba\n            </a></li>",
+          "impact": "serious",
+          "messages": [
+            "List item does not have a <ul>, <ol> parent element"
+          ],
+          "box": {
+            "x": 812.265625,
+            "y": 36.609375,
+            "w": 133.515625,
+            "h": 15.59375
+          }
+        },
+        {
+          "target": ".nav--header__inner > .has-children.nav__item[data-has-subnav=\"\"]:nth-child(5)",
+          "html": "<li class=\"nav__item has-children\" style=\"animation-delay:0.5s;\" data-has-subnav=\"\"><a href=\"https://www.travelmanitoba.com/manitoba-north/\" target=\"\" rel=\"noopener\" class=\"nav__link  \">\n\n                \n                Manitoba North\n            </a></li>",
+          "impact": "serious",
+          "messages": [
+            "List item does not have a <ul>, <ol> parent element"
+          ],
+          "box": {
+            "x": 975.78125,
+            "y": 36.609375,
+            "w": 111.640625,
+            "h": 15.59375
+          }
+        },
+        {
+          "target": ".nav--header__inner > .nav__item--lang.nav__item",
+          "html": "<li class=\"nav__item nav__item--lang\">",
+          "impact": "serious",
+          "messages": [
+            "List item does not have a <ul>, <ol> parent element"
+          ],
+          "box": {
+            "x": 1102.421875,
+            "y": 31.609375,
+            "w": 73.578125,
+            "h": 25.59375
+          }
+        }
+      ]
+    }
+  ],
+  "verdict": "FAILURES DETECTED"
+}

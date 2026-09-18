@@ -1,0 +1,474 @@
+{
+  "url": "https://sharedhealthmb.ca/",
+  "ok": true,
+  "status": 200,
+  "title": "Shared Health – Our Manitoba. Healthier. Together.",
+  "finalUrl": "https://sharedhealthmb.ca/",
+  "shape": {
+    "elements": 1696,
+    "images": 117,
+    "links": 239,
+    "buttons": 80,
+    "inputs": 10,
+    "headings": 16,
+    "textLength": 2178,
+    "lang": "en-CA",
+    "iframes": 0
+  },
+  "viewport": {
+    "width": 1366,
+    "height": 900
+  },
+  "scannedAt": "2026-09-18T04:55:23.883Z",
+  "axe": {
+    "violationRules": 2,
+    "violationNodes": 9,
+    "passRules": 28,
+    "passNodes": 205,
+    "incompleteRules": 2,
+    "incompleteNodes": 11,
+    "inapplicableRules": 35,
+    "testedNodes": 225
+  },
+  "incomplete": [
+    {
+      "id": "aria-prohibited-attr",
+      "impact": "serious",
+      "help": "Elements must only use permitted ARIA attributes",
+      "description": "Ensure ARIA attributes are not prohibited for an element's role",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/aria-prohibited-attr?application=playwright",
+      "tags": [
+        "cat.aria",
+        "wcag2a",
+        "wcag412",
+        "EN-301-549",
+        "EN-9.4.1.2",
+        "RGAAv4",
+        "RGAA-7.1.1"
+      ],
+      "wcag": [
+        "4.1.2"
+      ],
+      "why": "",
+      "nodes": 2,
+      "sample": [
+        {
+          "target": ".nivo-prevNav",
+          "html": "<a class=\"nivo-prevNav\" rel=\"nofollow\" aria-label=\"Previous Slide\">Previous</a>"
+        },
+        {
+          "target": ".nivo-nextNav",
+          "html": "<a class=\"nivo-nextNav\" rel=\"nofollow\" aria-label=\"Next Slide\">Next</a>"
+        }
+      ],
+      "items": [
+        {
+          "target": ".nivo-prevNav",
+          "html": "<a class=\"nivo-prevNav\" rel=\"nofollow\" aria-label=\"Previous Slide\">Previous</a>",
+          "impact": "serious",
+          "messages": [
+            "aria-label attribute is not well supported on a a with no valid role attribute."
+          ],
+          "box": {
+            "x": 27.3125,
+            "y": 289.234375,
+            "w": 70,
+            "h": 70
+          }
+        },
+        {
+          "target": ".nivo-nextNav",
+          "html": "<a class=\"nivo-nextNav\" rel=\"nofollow\" aria-label=\"Next Slide\">Next</a>",
+          "impact": "serious",
+          "messages": [
+            "aria-label attribute is not well supported on a a with no valid role attribute."
+          ],
+          "box": {
+            "x": 1268.6875,
+            "y": 289.234375,
+            "w": 70,
+            "h": 70
+          }
+        }
+      ]
+    },
+    {
+      "id": "color-contrast",
+      "impact": "serious",
+      "help": "Elements must meet minimum color contrast ratio thresholds",
+      "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/color-contrast?application=playwright",
+      "tags": [
+        "cat.color",
+        "wcag2aa",
+        "wcag143",
+        "TTv5",
+        "TT13.c",
+        "EN-301-549",
+        "EN-9.1.4.3",
+        "ACT",
+        "RGAAv4",
+        "RGAA-3.2.1"
+      ],
+      "wcag": [
+        "1.4.3"
+      ],
+      "why": "Element's background color could not be determined due to a background image",
+      "nodes": 9,
+      "sample": [
+        {
+          "target": "#custom-5640-particle > h1",
+          "html": "<h1>Shared Health</h1>"
+        },
+        {
+          "target": "#custom-5640-particle > p:nth-child(2)",
+          "html": "<p>Shared Health is Manitoba’s provincial health authority, providing provincial planning, health services and operational support for Manitoba’s health system.</p>"
+        },
+        {
+          "target": "#custom-5640-particle > p:nth-child(3)",
+          "html": "<p>Shared Health is a designated bilingual health authority which has more than 18,000 employees working in all aspects of health care across Manitoba. Our teams work closely with Manitoba’s cancer au"
+        }
+      ],
+      "items": [
+        {
+          "target": "#custom-5640-particle > h1",
+          "html": "<h1>Shared Health</h1>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 117,
+            "y": 548.53125,
+            "w": 700,
+            "h": 40.46875
+          }
+        },
+        {
+          "target": "#custom-5640-particle > p:nth-child(2)",
+          "html": "<p>Shared Health is Manitoba’s provincial health authority, providing provincial planning, health services and operational support for Manitoba’s health system.</p>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 117,
+            "y": 622.109375,
+            "w": 700,
+            "h": 72
+          }
+        },
+        {
+          "target": "#custom-5640-particle > p:nth-child(3)",
+          "html": "<p>Shared Health is a designated bilingual health authority which has more than 18,000 employees working in all aspects of health care across Manitoba. Our teams work closely with Manitoba’s cancer authority and the five regional health authorities.</p>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 117,
+            "y": 722.90625,
+            "w": 700,
+            "h": 96
+          }
+        },
+        {
+          "target": ".g-grid:nth-child(2) > .g-block > .g-content > .g-array-item > .g-array-item-date",
+          "html": "<span class=\"g-array-item-date\">\n                                                                                    September 14, 2026\n                                                                            </span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 901,
+            "y": 606.640625,
+            "w": 142.21875,
+            "h": 20
+          }
+        },
+        {
+          "target": ".g-grid:nth-child(2) > .g-block > .g-content > .g-array-item > .g-array-item-title > .g-item-title > a",
+          "html": "<a href=\"https://sharedhealthmb.ca/news/2026-09-14-liver-disease-research-program-making-positive-strides-in-manitoba/\">\n                                                Liver disease research program making positive strides in Manitoba\n                                            </a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 913,
+            "y": 633.640625,
+            "w": 302.96875,
+            "h": 50.40625
+          }
+        },
+        {
+          "target": ".g-grid:nth-child(3) > .g-block > .g-content > .g-array-item > .g-array-item-date",
+          "html": "<span class=\"g-array-item-date\">\n                                                                                    September 9, 2026\n                                                                            </span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 901,
+            "y": 719.453125,
+            "w": 133.53125,
+            "h": 20
+          }
+        },
+        {
+          "target": ".g-grid:nth-child(3) > .g-block > .g-content > .g-array-item > .g-array-item-title > .g-item-title > a",
+          "html": "<a href=\"https://sharedhealthmb.ca/news/2026-09-09-shared-health-continues-to-offer-temporary-extended-lab-hours/\">\n                                                Shared Health Continues to Offer Temporary Extended Lab Hours\n                                            </a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 913,
+            "y": 746.453125,
+            "w": 282.71875,
+            "h": 50.40625
+          }
+        },
+        {
+          "target": ".g-grid:nth-child(4) > .g-block > .g-content > .g-array-item > .g-array-item-date",
+          "html": "<span class=\"g-array-item-date\">\n                                                                                    September 8, 2026\n                                                                            </span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 901,
+            "y": 832.265625,
+            "w": 133.53125,
+            "h": 20
+          }
+        },
+        {
+          "target": ".g-grid:nth-child(4) > .g-block > .g-content > .g-array-item > .g-array-item-title > .g-item-title > a",
+          "html": "<a href=\"https://sharedhealthmb.ca/news/2026-09-08-dynacare-labour-disruption-update-extended-hours-location-finder/\">\n                                                Dynacare Labour Disruption Update: Extended Hours Location Finder\n                                            </a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 913,
+            "y": 859.265625,
+            "w": 311.390625,
+            "h": 50.40625
+          }
+        }
+      ]
+    }
+  ],
+  "violations": [
+    {
+      "id": "color-contrast",
+      "impact": "serious",
+      "help": "Elements must meet minimum color contrast ratio thresholds",
+      "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/color-contrast?application=playwright",
+      "tags": [
+        "cat.color",
+        "wcag2aa",
+        "wcag143",
+        "TTv5",
+        "TT13.c",
+        "EN-301-549",
+        "EN-9.1.4.3",
+        "ACT",
+        "RGAAv4",
+        "RGAA-3.2.1"
+      ],
+      "wcag": [
+        "1.4.3"
+      ],
+      "nodes": 2,
+      "items": [
+        {
+          "target": ".execphpwidget",
+          "html": "<div class=\"execphpwidget\"><a href=\"https://soinscommunsmb.ca/\">En Français</a> / English</div>",
+          "impact": "serious",
+          "messages": [
+            "Element has insufficient color contrast of 4.47 (foreground color: #777777, background color: #ffffff, font size: 10.2pt (13.6px), font weight: normal). Expected contrast ratio of 4.5:1"
+          ],
+          "box": {
+            "x": 117,
+            "y": 26,
+            "w": 1132,
+            "h": 24
+          }
+        },
+        {
+          "target": "a[href$=\"soinscommunsmb.ca/\"]",
+          "html": "<a href=\"https://soinscommunsmb.ca/\">En Français</a>",
+          "impact": "serious",
+          "messages": [
+            "Element has insufficient color contrast of 2.03 (foreground color: #46c5e0, background color: #ffffff, font size: 10.2pt (13.6px), font weight: normal). Expected contrast ratio of 4.5:1"
+          ],
+          "box": {
+            "x": 1117.5,
+            "y": 28,
+            "w": 74.46875,
+            "h": 19
+          }
+        }
+      ]
+    },
+    {
+      "id": "link-name",
+      "impact": "serious",
+      "help": "Links must have discernible text",
+      "description": "Ensure links have discernible text",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/link-name?application=playwright",
+      "tags": [
+        "cat.name-role-value",
+        "wcag2a",
+        "wcag244",
+        "wcag412",
+        "section508",
+        "section508.22.a",
+        "TTv5",
+        "TT6.a",
+        "EN-301-549",
+        "EN-9.2.4.4",
+        "EN-9.4.1.2",
+        "ACT",
+        "RGAAv4",
+        "RGAA-6.2.1"
+      ],
+      "wcag": [
+        "2.4.4",
+        "4.1.2"
+      ],
+      "nodes": 7,
+      "items": [
+        {
+          "target": "#custom-5005-particle > a[target=\"_blank\"]:nth-child(4)",
+          "html": "<a href=\"https://www.linkedin.com/company/shared-health-soins-communs\" target=\"_blank\"><i class=\"fab fa-linkedin-square\"></i></a>",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": {
+            "x": 937,
+            "y": 49.5,
+            "w": 36,
+            "h": 43
+          }
+        },
+        {
+          "target": "a[target=\"_blank\"]:nth-child(5)",
+          "html": "<a href=\"https://www.tiktok.com/@sharedhealthmb\" target=\"_blank\"><i class=\"fa-brands fa-tiktok\"></i></a>",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": {
+            "x": 973,
+            "y": 49.5,
+            "w": 36,
+            "h": 43
+          }
+        },
+        {
+          "target": ".nivo-imageLink[target=\"_self\"]:nth-child(2)",
+          "html": "<a href=\"https://sharedhealthmb.ca/patient-care/where-to-go/children-and-teens/\" target=\"_self\" class=\"nivo-imageLink\" style=\"display: block;\">",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": {
+            "x": 0,
+            "y": 181.953125,
+            "w": 1366,
+            "h": 284.578125
+          }
+        },
+        {
+          "target": "a[target=\"_blank\"]:nth-child(11)",
+          "html": "<a href=\"https://twitter.com/SharedHealthMB\" target=\"_blank\"><i class=\"fa-brands fa-square-x-twitter\"></i></a>",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": {
+            "x": 1077,
+            "y": 2113.390625,
+            "w": 23.125,
+            "h": 22
+          }
+        },
+        {
+          "target": "a[target=\"_blank\"]:nth-child(12)",
+          "html": "<a href=\"https://fb.me/sharedhealthmanitoba\" target=\"_blank\"><i class=\"fab fa-facebook-square\"></i></a>",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": {
+            "x": 1104.28125,
+            "y": 2113.390625,
+            "w": 23.125,
+            "h": 22
+          }
+        },
+        {
+          "target": "a[target=\"_blank\"]:nth-child(13)",
+          "html": "<a href=\"https://www.instagram.com/sharedhealthmb/\" target=\"_blank\"><i class=\"fab fa-instagram\"></i></a>",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": {
+            "x": 1131.5625,
+            "y": 2113.390625,
+            "w": 23.125,
+            "h": 22
+          }
+        },
+        {
+          "target": "a[target=\"_blank\"]:nth-child(14)",
+          "html": "<a href=\"https://www.linkedin.com/company/shared-health-soins-communs\" target=\"_blank\"><i class=\"fab fa-linkedin-square\"></i></a>",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": {
+            "x": 1158.84375,
+            "y": 2113.390625,
+            "w": 23.125,
+            "h": 22
+          }
+        }
+      ]
+    }
+  ],
+  "verdict": "FAILURES DETECTED"
+}

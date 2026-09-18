@@ -1,0 +1,998 @@
+{
+  "url": "https://www.brandonu.ca/",
+  "ok": true,
+  "status": 200,
+  "title": "Brandon University",
+  "finalUrl": "https://www.brandonu.ca/",
+  "shape": {
+    "elements": 485,
+    "images": 9,
+    "links": 89,
+    "buttons": 1,
+    "inputs": 7,
+    "headings": 14,
+    "textLength": 2299,
+    "lang": "en-US",
+    "iframes": 0
+  },
+  "viewport": {
+    "width": 1366,
+    "height": 900
+  },
+  "scannedAt": "2026-09-18T04:57:52.686Z",
+  "axe": {
+    "violationRules": 3,
+    "violationNodes": 13,
+    "passRules": 29,
+    "passNodes": 391,
+    "incompleteRules": 2,
+    "incompleteNodes": 43,
+    "inapplicableRules": 33,
+    "testedNodes": 447
+  },
+  "incomplete": [
+    {
+      "id": "aria-valid-attr-value",
+      "impact": "critical",
+      "help": "ARIA attributes must conform to valid values",
+      "description": "Ensure all ARIA attributes have valid values",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/aria-valid-attr-value?application=playwright",
+      "tags": [
+        "cat.aria",
+        "wcag2a",
+        "wcag412",
+        "EN-301-549",
+        "EN-9.4.1.2",
+        "RGAAv4",
+        "RGAA-7.1.1"
+      ],
+      "wcag": [
+        "4.1.2"
+      ],
+      "why": "",
+      "nodes": 1,
+      "sample": [
+        {
+          "target": "#panoramaAccessibilityFloatButton",
+          "html": "<div tabindex=\"0\" id=\"panoramaAccessibilityFloatButton\" role=\"button\" aria-haspopup=\"dialog\" aria-controls=\"panoramaAccessibilityInnerContainer\" aria-label=\"Open the Web Accessibility Menu\" class=\"\" s"
+        }
+      ],
+      "items": [
+        {
+          "target": "#panoramaAccessibilityFloatButton",
+          "html": "<div tabindex=\"0\" id=\"panoramaAccessibilityFloatButton\" role=\"button\" aria-haspopup=\"dialog\" aria-controls=\"panoramaAccessibilityInnerContainer\" aria-label=\"Open the Web Accessibility Menu\" class=\"\" style=\"transform: translate(0px, 0px);\">",
+          "impact": "critical",
+          "messages": [
+            "Unable to determine if aria-controls referenced ID exists on the page while using aria-haspopup: aria-controls=\"panoramaAccessibilityInnerContainer\""
+          ],
+          "box": {
+            "x": 1304,
+            "y": 838,
+            "w": 50,
+            "h": 50
+          }
+        }
+      ]
+    },
+    {
+      "id": "color-contrast",
+      "impact": "serious",
+      "help": "Elements must meet minimum color contrast ratio thresholds",
+      "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/color-contrast?application=playwright",
+      "tags": [
+        "cat.color",
+        "wcag2aa",
+        "wcag143",
+        "TTv5",
+        "TT13.c",
+        "EN-301-549",
+        "EN-9.1.4.3",
+        "ACT",
+        "RGAAv4",
+        "RGAA-3.2.1"
+      ],
+      "wcag": [
+        "1.4.3"
+      ],
+      "why": "Element's background color could not be determined due to a background image",
+      "nodes": 42,
+      "sample": [
+        {
+          "target": "input[type=\"button\"]",
+          "html": "<input type=\"button\" onclick=\"doTranslate()\" value=\"Translate\" title=\"Translate this page\" style=\"\">"
+        },
+        {
+          "target": ".top-toolbar-links > ul > li:nth-child(1) > a",
+          "html": "<a href=\"https://outlook.com/brandonu.ca/\"><span class=\"bu-toolbar bu-toolbar-envelope\"></span>Webmail</a>"
+        },
+        {
+          "target": ".top-toolbar-links > ul > li:nth-child(2) > a",
+          "html": "<a href=\"https://www.brandonu.ca/campus-map/\"><span class=\"bu-toolbar bu-toolbar-map-marker\"></span>Campus Map</a>"
+        }
+      ],
+      "items": [
+        {
+          "target": "input[type=\"button\"]",
+          "html": "<input type=\"button\" onclick=\"doTranslate()\" value=\"Translate\" title=\"Translate this page\" style=\"\">",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 212,
+            "y": 12.5,
+            "w": 68.703125,
+            "h": 27
+          }
+        },
+        {
+          "target": ".top-toolbar-links > ul > li:nth-child(1) > a",
+          "html": "<a href=\"https://outlook.com/brandonu.ca/\"><span class=\"bu-toolbar bu-toolbar-envelope\"></span>Webmail</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 860.953125,
+            "y": 18,
+            "w": 71.375,
+            "h": 16
+          }
+        },
+        {
+          "target": ".top-toolbar-links > ul > li:nth-child(2) > a",
+          "html": "<a href=\"https://www.brandonu.ca/campus-map/\"><span class=\"bu-toolbar bu-toolbar-map-marker\"></span>Campus Map</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 951.421875,
+            "y": 18,
+            "w": 94.78125,
+            "h": 16
+          }
+        },
+        {
+          "target": ".top-toolbar-links > ul > li:nth-child(3) > a",
+          "html": "<a href=\"https://www.brandonu.ca/contact/\"><span class=\"bu-toolbar bu-toolbar-users\"></span>Contact Us</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 1065.296875,
+            "y": 18,
+            "w": 87.703125,
+            "h": 16
+          }
+        },
+        {
+          "target": ".pull-to-left > h2",
+          "html": "<h2><img draggable=\"false\" role=\"img\" class=\"emoji\" alt=\"⚽️\" src=\"https://s.w.org/images/core/emoji/17.0.2/svg/26bd.svg\"> Road to Nationals</h2>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because element contains an image node"
+          ],
+          "box": {
+            "x": 229,
+            "y": 370.046875,
+            "w": 431.1875,
+            "h": 33
+          }
+        },
+        {
+          "target": ".pull-to-left > p",
+          "html": "<p>The Brandon University Bobcats will host the 2027 CCAA men’s national soccer championships — the first time that soccer nationals have been held in Manitoba.</p>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because element contains an image node"
+          ],
+          "box": {
+            "x": 229,
+            "y": 411.046875,
+            "w": 431.1875,
+            "h": 57.609375
+          }
+        },
+        {
+          "target": "#\\36 355 > .first.bu-icon-container.dir-column > .bu-icon-text > .icon-heading > a",
+          "html": "<a href=\"https://www.brandonu.ca/future-students/programs/\" style=\"color:#003057;\">Programs</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 555.828125,
+            "y": 592.65625,
+            "w": 86.328125,
+            "h": 24
+          }
+        },
+        {
+          "target": "#\\36 355 > .first.bu-icon-container.dir-column > .bu-icon-text > .icon-text",
+          "html": "<div class=\"icon-text\" style=\"color:#003057;\">Find the program that's right for you</div>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 529,
+            "y": 622.65625,
+            "w": 140,
+            "h": 42
+          }
+        },
+        {
+          "target": "#\\36 355 > .bu-icon-container.dir-column:nth-child(2) > .bu-icon-text > .icon-heading > a",
+          "html": "<a href=\"https://www.brandonu.ca/scholarships/\" style=\"color:#003057;\">Scholarships</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 698.671875,
+            "y": 592.65625,
+            "w": 112.65625,
+            "h": 24
+          }
+        },
+        {
+          "target": "#\\36 355 > .bu-icon-container.dir-column:nth-child(2) > .bu-icon-text > .icon-text",
+          "html": "<div class=\"icon-text\" style=\"color:#003057;\">View our Scholarships and Bursaries</div>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 685,
+            "y": 622.65625,
+            "w": 140,
+            "h": 42
+          }
+        },
+        {
+          "target": "#\\36 355 > .bu-icon-container.dir-column:nth-child(3) > .bu-icon-text > .icon-heading > a",
+          "html": "<a href=\"https://www.brandonu.ca/future-students/visit/\" style=\"color:#003057;\">Visit Us</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 876.65625,
+            "y": 592.65625,
+            "w": 68.6875,
+            "h": 24
+          }
+        },
+        {
+          "target": "#\\36 355 > .bu-icon-container.dir-column:nth-child(3) > .bu-icon-text > .icon-text",
+          "html": "<div class=\"icon-text\" style=\"color:#003057;\">Book a campus tour or be a student for a day</div>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 841,
+            "y": 622.65625,
+            "w": 140,
+            "h": 42
+          }
+        },
+        {
+          "target": "#\\36 355 > .last-icon.bu-icon-container.dir-column > .bu-icon-text > .icon-heading > a",
+          "html": "<a href=\"https://www.brandonu.ca/future-students/apply/\" style=\"color:#003057;\">Apply Now</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 1017.453125,
+            "y": 592.65625,
+            "w": 99.09375,
+            "h": 24
+          }
+        },
+        {
+          "target": "#\\36 355 > .last-icon.bu-icon-container.dir-column > .bu-icon-text > .icon-text",
+          "html": "<div class=\"icon-text\" style=\"color:#003057;\">Ready to apply to BU? Start your application</div>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 997,
+            "y": 622.65625,
+            "w": 140,
+            "h": 42
+          }
+        },
+        {
+          "target": "h4:nth-child(1)",
+          "html": "<h4>Faculties and Schools</h4>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 213,
+            "y": 534.65625,
+            "w": 257.5,
+            "h": 27
+          }
+        },
+        {
+          "target": "a[href$=\"arts/\"]",
+          "html": "<a href=\"https://www.brandonu.ca/arts/\">Faculty of Arts</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 230,
+            "y": 575.65625,
+            "w": 89.6875,
+            "h": 17
+          }
+        },
+        {
+          "target": ".row > ul:nth-child(2) > li:nth-child(2) > a",
+          "html": "<a href=\"https://www.brandonu.ca/education/\">Faculty of Education</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 230,
+            "y": 603.65625,
+            "w": 124.984375,
+            "h": 17
+          }
+        },
+        {
+          "target": ".row > ul:nth-child(2) > li:nth-child(3) > a",
+          "html": "<a href=\"https://www.brandonu.ca/graduate-studies/\">Faculty of Graduate Studies</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 230,
+            "y": 631.65625,
+            "w": 169.203125,
+            "h": 17
+          }
+        },
+        {
+          "target": "ul:nth-child(2) > li:nth-child(4) > a",
+          "html": "<a href=\"https://www.brandonu.ca/science/\">Faculty of Science</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 230,
+            "y": 659.65625,
+            "w": 109.765625,
+            "h": 17
+          }
+        },
+        {
+          "target": "ul:nth-child(2) > li:nth-child(5) > a",
+          "html": "<a href=\"https://www.brandonu.ca/health-studies/\">Faculty of Health Studies</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 230,
+            "y": 687.65625,
+            "w": 152.796875,
+            "h": 17
+          }
+        },
+        {
+          "target": "a[href$=\"music/\"]",
+          "html": "<a href=\"https://www.brandonu.ca/music/\">School of Music</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 230,
+            "y": 715.65625,
+            "w": 95.671875,
+            "h": 17
+          }
+        },
+        {
+          "target": "h4:nth-child(3)",
+          "html": "<h4>Research</h4>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 213,
+            "y": 756.65625,
+            "w": 257.5,
+            "h": 27
+          }
+        },
+        {
+          "target": "ul:nth-child(4) > li:nth-child(1) > a",
+          "html": "<a href=\"https://www.brandonu.ca/research/\">Office of Research Services</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 230,
+            "y": 797.65625,
+            "w": 166.28125,
+            "h": 17
+          }
+        },
+        {
+          "target": "ul:nth-child(4) > li:nth-child(2) > a",
+          "html": "<a href=\"https://www.brandonu.ca/research/experts/\">Research Experts List</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 230,
+            "y": 825.65625,
+            "w": 131.515625,
+            "h": 17
+          }
+        },
+        {
+          "target": "ul:nth-child(4) > li:nth-child(3) > a",
+          "html": "<a href=\"https://news.brandonu.ca/category/research\">Research News</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 230,
+            "y": 853.65625,
+            "w": 94.25,
+            "h": 17
+          }
+        },
+        {
+          "target": ".bu-research-institutes-header",
+          "html": "<li class=\"bu-research-institutes-header\">",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 230,
+            "y": 879.65625,
+            "w": 243,
+            "h": 129.5
+          }
+        },
+        {
+          "target": "#bu-research-institutes > li:nth-child(1) > a",
+          "html": "<a href=\"https://www.brandonu.ca/bu-cares/\">BU CARES Research Centre</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 245.75,
+            "y": 913.15625,
+            "w": 170.8125,
+            "h": 17
+          }
+        },
+        {
+          "target": "#bu-research-institutes > li:nth-child(2) > a",
+          "html": "<a href=\"https://www.centreforruralmentalhealth.com/\">Centre for Critical Studies of Rural Mental Health</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 245.75,
+            "y": 941.15625,
+            "w": 174.46875,
+            "h": 38
+          }
+        },
+        {
+          "target": "a[href$=\"rdi/\"]",
+          "html": "<a href=\"https://www.brandonu.ca/rdi/\">Rural Development Institute</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 245.75,
+            "y": 990.15625,
+            "w": 173.75,
+            "h": 17
+          }
+        },
+        {
+          "target": "h4:nth-child(5)",
+          "html": "<h4>Related Sites</h4>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 213,
+            "y": 1031.15625,
+            "w": 257.5,
+            "h": 27
+          }
+        },
+        {
+          "target": "ul:nth-child(6) > li:nth-child(1) > a",
+          "html": "<a href=\"https://healthylivingcentre.ca/\">Healthy Living Centre</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 230,
+            "y": 1072.15625,
+            "w": 133.34375,
+            "h": 17
+          }
+        },
+        {
+          "target": "ul:nth-child(6) > li:nth-child(2) > a",
+          "html": "<a href=\"https://gobobcats.ca/index.aspx\">BU Bobcats</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 230,
+            "y": 1100.15625,
+            "w": 71.59375,
+            "h": 17
+          }
+        },
+        {
+          "target": "ul:nth-child(6) > li:nth-child(3) > a",
+          "html": "<a href=\"https://www.bkstr.com/brandonustore/home\">Campus Books</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 230,
+            "y": 1128.15625,
+            "w": 90.515625,
+            "h": 17
+          }
+        },
+        {
+          "target": "a[href$=\"miniu.brandonu.ca/\"]",
+          "html": "<a href=\"https://miniu.brandonu.ca/\">Mini-U</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 230,
+            "y": 1156.15625,
+            "w": 42.921875,
+            "h": 17
+          }
+        },
+        {
+          "target": "a[href$=\"busu.ca/\"]",
+          "html": "<a href=\"https://busu.ca/\">BUSU</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 230,
+            "y": 1184.15625,
+            "w": 36.921875,
+            "h": 17
+          }
+        },
+        {
+          "target": "h4:nth-child(7)",
+          "html": "<h4>Connect With Us</h4>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 213,
+            "y": 1225.15625,
+            "w": 257.5,
+            "h": 27
+          }
+        },
+        {
+          "target": ".copy",
+          "html": "<span class=\"copy\">© 2014–2026</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 641.03125,
+            "y": 1722.46875,
+            "w": 69.296875,
+            "h": 13
+          }
+        },
+        {
+          "target": "#footer-contact > li:nth-child(1) > a[href$=\"brandonu.ca/\"]",
+          "html": "<a href=\"https://www.brandonu.ca/\">Brandon University</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 721.515625,
+            "y": 1720.46875,
+            "w": 110.515625,
+            "h": 16
+          }
+        },
+        {
+          "target": "#footer-contact > li:nth-child(2) > a",
+          "html": "<a href=\"https://www.brandonu.ca/contact/\">Contact Us</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 848.03125,
+            "y": 1720.46875,
+            "w": 63.375,
+            "h": 16
+          }
+        },
+        {
+          "target": "#footer-contact > li:nth-child(3) > a",
+          "html": "<a href=\"https://www.brandonu.ca/services/emergency-numbers/\">Emergency Info</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 927.40625,
+            "y": 1720.46875,
+            "w": 89.03125,
+            "h": 16
+          }
+        },
+        {
+          "target": "a[href$=\"ama/\"]",
+          "html": "<a href=\"https://www.brandonu.ca/ama/\">Accessibility</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 1032.4375,
+            "y": 1720.46875,
+            "w": 71.171875,
+            "h": 16
+          }
+        },
+        {
+          "target": ".login-link > a",
+          "html": "<a href=\"https://www.brandonu.ca/wp-login.php?redirect_to=https%3A%2F%2Fwww.brandonu.ca%2F\">Log in</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 1119.609375,
+            "y": 1720.46875,
+            "w": 33.390625,
+            "h": 16
+          }
+        }
+      ]
+    }
+  ],
+  "violations": [
+    {
+      "id": "link-name",
+      "impact": "serious",
+      "help": "Links must have discernible text",
+      "description": "Ensure links have discernible text",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/link-name?application=playwright",
+      "tags": [
+        "cat.name-role-value",
+        "wcag2a",
+        "wcag244",
+        "wcag412",
+        "section508",
+        "section508.22.a",
+        "TTv5",
+        "TT6.a",
+        "EN-301-549",
+        "EN-9.2.4.4",
+        "EN-9.4.1.2",
+        "ACT",
+        "RGAAv4",
+        "RGAA-6.2.1"
+      ],
+      "wcag": [
+        "2.4.4",
+        "4.1.2"
+      ],
+      "nodes": 8,
+      "items": [
+        {
+          "target": "#\\36 355 > .first.bu-icon-container.dir-column > .bu-icon > a",
+          "html": "<a href=\"https://www.brandonu.ca/future-students/programs/\" style=\"color:#003057;\">",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": {
+            "x": 585,
+            "y": 562.65625,
+            "w": 28,
+            "h": 19
+          }
+        },
+        {
+          "target": "#\\36 355 > .bu-icon-container.dir-column:nth-child(2) > .bu-icon > a",
+          "html": "<a href=\"https://www.brandonu.ca/scholarships/\" style=\"color:#003057;\">",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": {
+            "x": 735,
+            "y": 562.65625,
+            "w": 40,
+            "h": 19
+          }
+        },
+        {
+          "target": "#\\36 355 > .bu-icon-container.dir-column:nth-child(3) > .bu-icon > a",
+          "html": "<a href=\"https://www.brandonu.ca/future-students/visit/\" style=\"color:#003057;\">",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": {
+            "x": 891,
+            "y": 562.65625,
+            "w": 40,
+            "h": 19
+          }
+        },
+        {
+          "target": "#\\36 355 > .last-icon.bu-icon-container.dir-column > .bu-icon > a",
+          "html": "<a href=\"https://www.brandonu.ca/future-students/apply/\" style=\"color:#003057;\">",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": {
+            "x": 1051,
+            "y": 562.65625,
+            "w": 32,
+            "h": 19
+          }
+        },
+        {
+          "target": "#\\36 929 > .first.bu-icon-container.dir-column > .bu-icon > a",
+          "html": "<a href=\"https://www.brandonu.ca/indigenous/\" style=\"color:#003057;\">",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": {
+            "x": 583,
+            "y": 724.65625,
+            "w": 32,
+            "h": 19
+          }
+        },
+        {
+          "target": "#\\36 929 > .bu-icon-container.dir-column:nth-child(2) > .bu-icon > a",
+          "html": "<a href=\"https://www.brandonu.ca/future-students/apply/international/\" style=\"color:#003057;\">",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": {
+            "x": 739,
+            "y": 724.65625,
+            "w": 32,
+            "h": 19
+          }
+        },
+        {
+          "target": "#\\36 929 > .bu-icon-container.dir-column:nth-child(3) > .bu-icon > a",
+          "html": "<a href=\"https://www.brandonu.ca/library/\" style=\"color:#003057;\">",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": {
+            "x": 893,
+            "y": 724.65625,
+            "w": 36,
+            "h": 19
+          }
+        },
+        {
+          "target": ".bu-icon > a[href$=\"give/\"]",
+          "html": "<a href=\"https://www.brandonu.ca/give/\" style=\"color:#003057;\">",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": {
+            "x": 1047,
+            "y": 724.65625,
+            "w": 40,
+            "h": 19
+          }
+        }
+      ]
+    },
+    {
+      "id": "meta-viewport",
+      "impact": "moderate",
+      "help": "Zooming and scaling must not be disabled",
+      "description": "Ensure <meta name=\"viewport\"> does not disable text scaling and zooming",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/meta-viewport?application=playwright",
+      "tags": [
+        "cat.sensory-and-visual-cues",
+        "wcag2aa",
+        "wcag144",
+        "EN-301-549",
+        "EN-9.1.4.4",
+        "ACT",
+        "RGAAv4",
+        "RGAA-10.4.2"
+      ],
+      "wcag": [
+        "1.4.4"
+      ],
+      "nodes": 1,
+      "items": [
+        {
+          "target": "meta[name=\"viewport\"]",
+          "html": "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1, maximum-scale=1\">",
+          "impact": "moderate",
+          "messages": [
+            "maximum-scale on <meta> tag disables zooming on mobile devices"
+          ],
+          "box": {
+            "x": 0,
+            "y": 0,
+            "w": 0,
+            "h": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "target-size",
+      "impact": "serious",
+      "help": "All touch targets must be 24px large, or leave sufficient space",
+      "description": "Ensure touch targets have sufficient size and space",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/target-size?application=playwright",
+      "tags": [
+        "cat.sensory-and-visual-cues",
+        "wcag22aa",
+        "wcag258"
+      ],
+      "wcag": [
+        "2.5.8"
+      ],
+      "nodes": 4,
+      "items": [
+        {
+          "target": ".activeSlide",
+          "html": "<a href=\"#\" class=\"activeSlide\">1</a>",
+          "impact": "serious",
+          "messages": [
+            "Target has insufficient size (9px by 9px, should be at least 24px by 24px)",
+            "Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 2px instead of at least 24px."
+          ],
+          "box": {
+            "x": 672,
+            "y": 496.65625,
+            "w": 9,
+            "h": 9
+          }
+        },
+        {
+          "target": "a[href=\"#\"]:nth-child(2)",
+          "html": "<a href=\"#\">2</a>",
+          "impact": "serious",
+          "messages": [
+            "Target has insufficient size (9px by 9px, should be at least 24px by 24px)",
+            "Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 2px instead of at least 24px."
+          ],
+          "box": {
+            "x": 672,
+            "y": 496.65625,
+            "w": 9,
+            "h": 9
+          }
+        },
+        {
+          "target": "a[href=\"#\"]:nth-child(3)",
+          "html": "<a href=\"#\">3</a>",
+          "impact": "serious",
+          "messages": [
+            "Target has insufficient size (9px by 9px, should be at least 24px by 24px)",
+            "Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 2px instead of at least 24px."
+          ],
+          "box": {
+            "x": 685,
+            "y": 496.65625,
+            "w": 9,
+            "h": 9
+          }
+        },
+        {
+          "target": "a[href=\"#\"]:nth-child(4)",
+          "html": "<a href=\"#\">4</a>",
+          "impact": "serious",
+          "messages": [
+            "Target has insufficient size (9px by 9px, should be at least 24px by 24px)",
+            "Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 2px instead of at least 24px."
+          ],
+          "box": {
+            "x": 698,
+            "y": 496.65625,
+            "w": 9,
+            "h": 9
+          }
+        }
+      ]
+    }
+  ],
+  "verdict": "FAILURES DETECTED"
+}

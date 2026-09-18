@@ -1,0 +1,193 @@
+{
+  "url": "https://www.city-plap.com/",
+  "ok": true,
+  "status": 200,
+  "title": "Home | City of Portage la Prairie",
+  "finalUrl": "https://www.city-plap.com/",
+  "shape": {
+    "elements": 725,
+    "images": 20,
+    "links": 112,
+    "buttons": 15,
+    "inputs": 2,
+    "headings": 2,
+    "textLength": 3277,
+    "lang": "en",
+    "iframes": 0
+  },
+  "viewport": {
+    "width": 1366,
+    "height": 900
+  },
+  "scannedAt": "2026-09-18T04:51:11.548Z",
+  "axe": {
+    "violationRules": 1,
+    "violationNodes": 2,
+    "passRules": 30,
+    "passNodes": 448,
+    "incompleteRules": 1,
+    "incompleteNodes": 4,
+    "inapplicableRules": 33,
+    "testedNodes": 454
+  },
+  "incomplete": [
+    {
+      "id": "color-contrast",
+      "impact": "serious",
+      "help": "Elements must meet minimum color contrast ratio thresholds",
+      "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/color-contrast?application=playwright",
+      "tags": [
+        "cat.color",
+        "wcag2aa",
+        "wcag143",
+        "TTv5",
+        "TT13.c",
+        "EN-301-549",
+        "EN-9.1.4.3",
+        "ACT",
+        "RGAAv4",
+        "RGAA-3.2.1"
+      ],
+      "wcag": [
+        "1.4.3"
+      ],
+      "why": "Element's background color could not be determined because it partially overlaps other elements",
+      "nodes": 4,
+      "sample": [
+        {
+          "target": "#cookieconsent\\:desc > p",
+          "html": "<p>This website uses cookies to enhance usability and provide you with a more personal experience. By using this website, you agree to our use of cookies as explained in our <a href=\"/privacy-policy/\""
+        },
+        {
+          "target": "#gsc-i-id2",
+          "html": "<input autocomplete=\"off\" type=\"text\" size=\"10\" class=\"gsc-input gs-google-...\" name=\"search\" title=\"search\" aria-label=\"search\" id=\"gsc-i-id2\" style=\"width: 100%; padding...\" dir=\"ltr\" spellcheck=\"fa"
+        },
+        {
+          "target": ".item_medium-banner > .inner > .container > .justify-content-center.info_align-middle.row > .col.info > .c2-heading.heading[data-os-animation-duration=\"1.2s\"]",
+          "html": "<p class=\"heading  c2-heading \" data-os-animation=\"fadeIn\" data-os-animation-delay=\"0s\" data-os-animation-duration=\"1.2s\">Fall Clean-Up - Yard Waste Collection</p>"
+        }
+      ],
+      "items": [
+        {
+          "target": "#cookieconsent\\:desc > p",
+          "html": "<p>This website uses cookies to enhance usability and provide you with a more personal experience. By using this website, you agree to our use of cookies as explained in our <a href=\"/privacy-policy/\" title=\"Privacy Policy\">Privacy Policy</a>.</p>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it partially overlaps other elements"
+          ],
+          "box": {
+            "x": 483,
+            "y": 707,
+            "w": 400,
+            "h": 96
+          }
+        },
+        {
+          "target": "#gsc-i-id2",
+          "html": "<input autocomplete=\"off\" type=\"text\" size=\"10\" class=\"gsc-input gs-google-...\" name=\"search\" title=\"search\" aria-label=\"search\" id=\"gsc-i-id2\" style=\"width: 100%; padding...\" dir=\"ltr\" spellcheck=\"false\" placeholder=\"\">",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 360.5,
+            "y": 340,
+            "w": 638.5625,
+            "h": 50
+          }
+        },
+        {
+          "target": ".item_medium-banner > .inner > .container > .justify-content-center.info_align-middle.row > .col.info > .c2-heading.heading[data-os-animation-duration=\"1.2s\"]",
+          "html": "<p class=\"heading  c2-heading \" data-os-animation=\"fadeIn\" data-os-animation-delay=\"0s\" data-os-animation-duration=\"1.2s\">Fall Clean-Up - Yard Waste Collection</p>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 191.75,
+            "y": 1451.1875,
+            "w": 982.5,
+            "h": 36
+          }
+        },
+        {
+          "target": ".item_medium-banner > .inner > .container > .justify-content-center.info_align-middle.row > .col.info > .c2-text.text[data-os-animation-duration=\"1.2s\"] > p",
+          "html": "<p>The City of Portage la Prairie is once again offering free curbside yard waste collection this fall.</p>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 191.75,
+            "y": 1497.1875,
+            "w": 982.5,
+            "h": 24
+          }
+        }
+      ]
+    }
+  ],
+  "violations": [
+    {
+      "id": "role-img-alt",
+      "impact": "serious",
+      "help": "[role=\"img\"] and [role=\"image\"] elements must have alternative text",
+      "description": "Ensure [role=\"img\"] and [role=\"image\"] elements have alternative text",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/role-img-alt?application=playwright",
+      "tags": [
+        "cat.text-alternatives",
+        "wcag2a",
+        "wcag111",
+        "section508",
+        "section508.22.a",
+        "TTv5",
+        "TT7.a",
+        "EN-301-549",
+        "EN-9.1.1.1",
+        "ACT",
+        "RGAAv4",
+        "RGAA-1.1.1"
+      ],
+      "wcag": [
+        "1.1.1"
+      ],
+      "nodes": 2,
+      "items": [
+        {
+          "target": ".item_medium-banner > .background-image[aria-label=\"\"][role=\"img\"]",
+          "html": "<div class=\"image background-ima...\" style=\"background-image: ur...\" data-bgset=\"https://media-002-ca...\" role=\"img\" aria-label=\"\">",
+          "impact": "serious",
+          "messages": [
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute"
+          ],
+          "box": {
+            "x": 0,
+            "y": 1292.1875,
+            "w": 1366,
+            "h": 465
+          }
+        },
+        {
+          "target": ".lazyload",
+          "html": "<div class=\"image lazyload backg...\" style=\"background-image:url...\" data-bgset=\"https://media-002-ca...\" data-sizes=\"auto\" role=\"img\" aria-label=\"\">",
+          "impact": "serious",
+          "messages": [
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute"
+          ],
+          "box": {
+            "x": 0,
+            "y": 3164.84375,
+            "w": 1366,
+            "h": 205
+          }
+        }
+      ]
+    }
+  ],
+  "verdict": "FAILURES DETECTED"
+}

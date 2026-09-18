@@ -1,0 +1,392 @@
+{
+  "url": "https://www.uwinnipeg.ca/",
+  "ok": true,
+  "status": 202,
+  "title": "University of Winnipeg",
+  "finalUrl": "https://www.uwinnipeg.ca/",
+  "shape": {
+    "elements": 612,
+    "images": 19,
+    "links": 129,
+    "buttons": 14,
+    "inputs": 1,
+    "headings": 23,
+    "textLength": 3325,
+    "lang": "en",
+    "iframes": 1
+  },
+  "viewport": {
+    "width": 1366,
+    "height": 900
+  },
+  "scannedAt": "2026-09-18T04:57:41.621Z",
+  "axe": {
+    "violationRules": 1,
+    "violationNodes": 8,
+    "passRules": 31,
+    "passNodes": 494,
+    "incompleteRules": 2,
+    "incompleteNodes": 11,
+    "inapplicableRules": 31,
+    "testedNodes": 513
+  },
+  "incomplete": [
+    {
+      "id": "color-contrast",
+      "impact": "serious",
+      "help": "Elements must meet minimum color contrast ratio thresholds",
+      "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/color-contrast?application=playwright",
+      "tags": [
+        "cat.color",
+        "wcag2aa",
+        "wcag143",
+        "TTv5",
+        "TT13.c",
+        "EN-301-549",
+        "EN-9.1.4.3",
+        "ACT",
+        "RGAAv4",
+        "RGAA-3.2.1"
+      ],
+      "wcag": [
+        "1.4.3"
+      ],
+      "why": "Element's background color could not be determined due to a background image",
+      "nodes": 10,
+      "sample": [
+        {
+          "target": "#main-menu-1 > a",
+          "html": "<a href=\"https://www.uwinnipeg.ca/future-student/index.html\">Admissions</a>"
+        },
+        {
+          "target": "#main-menu-2 > a",
+          "html": "<a href=\"https://www.uwinnipeg.ca/academics/index.html\">Academics</a>"
+        },
+        {
+          "target": "#main-menu-3 > a",
+          "html": "<a href=\"https://www.uwinnipeg.ca/research/\">Research</a>"
+        }
+      ],
+      "items": [
+        {
+          "target": "#main-menu-1 > a",
+          "html": "<a href=\"https://www.uwinnipeg.ca/future-student/index.html\">Admissions</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 531.265625,
+            "y": 50,
+            "w": 153.828125,
+            "h": 104
+          }
+        },
+        {
+          "target": "#main-menu-2 > a",
+          "html": "<a href=\"https://www.uwinnipeg.ca/academics/index.html\">Academics</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 685.09375,
+            "y": 50,
+            "w": 149.03125,
+            "h": 104
+          }
+        },
+        {
+          "target": "#main-menu-3 > a",
+          "html": "<a href=\"https://www.uwinnipeg.ca/research/\">Research</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 834.125,
+            "y": 50,
+            "w": 135.21875,
+            "h": 104
+          }
+        },
+        {
+          "target": "#main-menu-4 > a",
+          "html": "<a href=\"https://www.uwinnipeg.ca/campus-life/index.html\">Campus Life</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 969.34375,
+            "y": 50,
+            "w": 161.4375,
+            "h": 104
+          }
+        },
+        {
+          "target": "#main-menu-5 > a",
+          "html": "<a href=\"https://www.uwinnipeg.ca/about/index.html\">About</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 1130.78125,
+            "y": 50,
+            "w": 109.703125,
+            "h": 104
+          }
+        },
+        {
+          "target": "#main-menu-6 > a[href$=\"news.uwinnipeg.ca/\"]",
+          "html": "<a href=\"https://news.uwinnipeg.ca/\">News</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 1240.484375,
+            "y": 50,
+            "w": 105.515625,
+            "h": 104
+          }
+        },
+        {
+          "target": ".top > span:nth-child(1)",
+          "html": "<span>When you</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it is overlapped by another element"
+          ],
+          "box": {
+            "x": 445,
+            "y": 232.8125,
+            "w": 476,
+            "h": 30
+          }
+        },
+        {
+          "target": ".top > span:nth-child(2)",
+          "html": "<span>belong,</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it is overlapped by another element"
+          ],
+          "box": {
+            "x": 445,
+            "y": 262.8125,
+            "w": 476,
+            "h": 30
+          }
+        },
+        {
+          "target": ".playpause > span",
+          "html": "<span>Play/Pause</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 1171.40625,
+            "y": 509.3125,
+            "w": 67.4375,
+            "h": 15
+          }
+        },
+        {
+          "target": "#donate-button",
+          "html": "<a class=\"button outline white\" href=\"https://connect.uwinnipeg.ca/funds/\" id=\"donate-button\">Donate</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 1145.96875,
+            "y": 4839.828125,
+            "w": 200,
+            "h": 65.1875
+          }
+        }
+      ]
+    },
+    {
+      "id": "video-caption",
+      "impact": "critical",
+      "help": "<video> elements must have captions",
+      "description": "Ensure <video> elements have captions",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/video-caption?application=playwright",
+      "tags": [
+        "cat.text-alternatives",
+        "wcag2a",
+        "wcag122",
+        "section508",
+        "section508.22.a",
+        "TTv5",
+        "TT17.a",
+        "EN-301-549",
+        "EN-9.1.2.2",
+        "RGAAv4",
+        "RGAA-4.3.1"
+      ],
+      "wcag": [
+        "1.2.2"
+      ],
+      "why": "",
+      "nodes": 1,
+      "sample": [
+        {
+          "target": "video",
+          "html": "<video autoplay=\"\" loop=\"loop\" muted=\"muted\" playsinline=\"playsinline\" preload=\"auto\">\n                            <source src=\"_files/video/winter-vid-2025-26.mp4\" type=\"video/mp4\">\n                 "
+        }
+      ],
+      "items": [
+        {
+          "target": "video",
+          "html": "<video autoplay=\"\" loop=\"loop\" muted=\"muted\" playsinline=\"playsinline\" preload=\"auto\">\n                            <source src=\"_files/video/winter-vid-2025-26.mp4\" type=\"video/mp4\">\n                        </video>",
+          "impact": "critical",
+          "messages": [
+            "Check that captions are available for the element"
+          ],
+          "box": {
+            "x": 0,
+            "y": 50,
+            "w": 1366,
+            "h": 719.8125
+          }
+        }
+      ]
+    }
+  ],
+  "violations": [
+    {
+      "id": "color-contrast",
+      "impact": "serious",
+      "help": "Elements must meet minimum color contrast ratio thresholds",
+      "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/color-contrast?application=playwright",
+      "tags": [
+        "cat.color",
+        "wcag2aa",
+        "wcag143",
+        "TTv5",
+        "TT13.c",
+        "EN-301-549",
+        "EN-9.1.4.3",
+        "ACT",
+        "RGAAv4",
+        "RGAA-3.2.1"
+      ],
+      "wcag": [
+        "1.4.3"
+      ],
+      "nodes": 8,
+      "items": [
+        {
+          "target": "time[datetime=\"2026-09-17\"] > .month > abbr",
+          "html": "<abbr title=\"Sep\">Sep</abbr>",
+          "impact": "serious",
+          "messages": [
+            "Element has insufficient color contrast of 1.07 (foreground color: #ffffff, background color: #f7f7f7, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1"
+          ],
+          "box": {
+            "x": 56.203125,
+            "y": 3616.296875,
+            "w": 27.578125,
+            "h": 20
+          }
+        },
+        {
+          "target": "time[datetime=\"2026-09-17\"] > .day",
+          "html": "<span class=\"day\">17</span>",
+          "impact": "serious",
+          "messages": [
+            "Element has insufficient color contrast of 1.07 (foreground color: #ffffff, background color: #f7f7f7, font size: 22.5pt (30px), font weight: bold). Expected contrast ratio of 3:1"
+          ],
+          "box": {
+            "x": 30,
+            "y": 3630.296875,
+            "w": 80,
+            "h": 36
+          }
+        },
+        {
+          "target": "time[datetime=\"2026-09-21\"] > .month > abbr",
+          "html": "<abbr title=\"Sep\">Sep</abbr>",
+          "impact": "serious",
+          "messages": [
+            "Element has insufficient color contrast of 1.07 (foreground color: #ffffff, background color: #f7f7f7, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1"
+          ],
+          "box": {
+            "x": 504.859375,
+            "y": 3616.296875,
+            "w": 27.578125,
+            "h": 20
+          }
+        },
+        {
+          "target": "time[datetime=\"2026-09-21\"] > .day",
+          "html": "<span class=\"day\">21</span>",
+          "impact": "serious",
+          "messages": [
+            "Element has insufficient color contrast of 1.07 (foreground color: #ffffff, background color: #f7f7f7, font size: 22.5pt (30px), font weight: bold). Expected contrast ratio of 3:1"
+          ],
+          "box": {
+            "x": 478.65625,
+            "y": 3630.296875,
+            "w": 80,
+            "h": 36
+          }
+        },
+        {
+          "target": "time[datetime=\"2026-09-22\"] > .month > abbr",
+          "html": "<abbr title=\"Sep\">Sep</abbr>",
+          "impact": "serious",
+          "messages": [
+            "Element has insufficient color contrast of 1.07 (foreground color: #ffffff, background color: #f7f7f7, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1"
+          ],
+          "box": {
+            "x": 953.53125,
+            "y": 3616.296875,
+            "w": 27.578125,
+            "h": 20
+          }
+        },
+        {
+          "target": "time[datetime=\"2026-09-22\"] > .day",
+          "html": "<span class=\"day\">22</span>",
+          "impact": "serious",
+          "messages": [
+            "Element has insufficient color contrast of 1.07 (foreground color: #ffffff, background color: #f7f7f7, font size: 22.5pt (30px), font weight: bold). Expected contrast ratio of 3:1"
+          ],
+          "box": {
+            "x": 927.328125,
+            "y": 3630.296875,
+            "w": 80,
+            "h": 36
+          }
+        },
+        {
+          "target": "#unibuddy-popcard-iframe .e3AM5Aam3YvpQbd6KOGM",
+          "html": "<p class=\"e3AM5Aam3YvpQbd6KOGM\" role=\"heading\" aria-level=\"2\">Lei</p>",
+          "impact": "serious",
+          "messages": [
+            "Element has insufficient color contrast of 4.21 (foreground color: #ee2737, background color: #ffffff, font size: 13.5pt (18px), font weight: bold). Expected contrast ratio of 4.5:1"
+          ],
+          "box": null
+        },
+        {
+          "target": "#unibuddy-popcard-iframe #chat-to-students",
+          "html": "<button id=\"chat-to-students\" role=\"link\" class=\"yUENWhYSugOiMhVQNtj8 kNbAIrNNBroSuoO3j7Gj\">Chat with our Students<div style=\"border: 0px; clip: rect(0px, 0px, 0px, 0px); height: 1px; width: 1px; margin: -1px; padding: 0px; overflow: hidden; position: absolute;\">Opens in a new window</div></button>",
+          "impact": "serious",
+          "messages": [
+            "Element has insufficient color contrast of 4.21 (foreground color: #ee2737, background color: #ffffff, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio of 4.5:1"
+          ],
+          "box": null
+        }
+      ]
+    }
+  ],
+  "verdict": "FAILURES DETECTED"
+}

@@ -1,0 +1,1531 @@
+{
+  "url": "https://www.mpi.mb.ca/",
+  "ok": true,
+  "status": 200,
+  "title": "Home",
+  "finalUrl": "https://www.mpi.mb.ca/",
+  "shape": {
+    "elements": 477,
+    "images": 0,
+    "links": 93,
+    "buttons": 11,
+    "inputs": 3,
+    "headings": 8,
+    "textLength": 2052,
+    "lang": "en-CA",
+    "iframes": 1
+  },
+  "viewport": {
+    "width": 1366,
+    "height": 900
+  },
+  "scannedAt": "2026-09-18T04:54:34.660Z",
+  "axe": {
+    "violationRules": 3,
+    "violationNodes": 13,
+    "passRules": 26,
+    "passNodes": 270,
+    "incompleteRules": 3,
+    "incompleteNodes": 80,
+    "inapplicableRules": 37,
+    "testedNodes": 363
+  },
+  "incomplete": [
+    {
+      "id": "aria-hidden-focus",
+      "impact": "serious",
+      "help": "ARIA hidden element must not be focusable or contain focusable elements",
+      "description": "Ensure aria-hidden elements are not focusable nor contain focusable elements",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/aria-hidden-focus?application=playwright",
+      "tags": [
+        "cat.name-role-value",
+        "wcag2a",
+        "wcag412",
+        "TTv5",
+        "TT6.a",
+        "EN-301-549",
+        "EN-9.4.1.2",
+        "RGAAv4",
+        "RGAA-10.8.1"
+      ],
+      "wcag": [
+        "4.1.2"
+      ],
+      "why": "",
+      "nodes": 6,
+      "sample": [
+        {
+          "target": "#search-modal",
+          "html": "<section class=\"search-modal\" id=\"search-modal\" aria-label=\"Search\" aria-hidden=\"true\">"
+        },
+        {
+          "target": ".licensing-id.menu-item-3934.menu-item-has-children > .sub-menu > .menu-more-link > a[aria-hidden=\"true\"]",
+          "html": "<a href=\"https://www.mpi.mb.ca/licensing-id/\" aria-hidden=\"true\">More<span class=\"screen-reader-text\">about \n  \n    \n    \n  \n\nLicensing &amp; ID</span></a>"
+        },
+        {
+          "target": ".registration.menu-item-3935.menu-item-has-children > .sub-menu > .menu-more-link > a[aria-hidden=\"true\"]",
+          "html": "<a href=\"https://www.mpi.mb.ca/registration/\" aria-hidden=\"true\">More<span class=\"screen-reader-text\">about \n  \n    \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      "
+        }
+      ],
+      "items": [
+        {
+          "target": "#search-modal",
+          "html": "<section class=\"search-modal\" id=\"search-modal\" aria-label=\"Search\" aria-hidden=\"true\">",
+          "impact": "serious",
+          "messages": [
+            "Check that focusable elements are not tabbable in the current state"
+          ],
+          "box": {
+            "x": 1088.40625,
+            "y": 103.5,
+            "w": 184,
+            "h": 25
+          }
+        },
+        {
+          "target": ".licensing-id.menu-item-3934.menu-item-has-children > .sub-menu > .menu-more-link > a[aria-hidden=\"true\"]",
+          "html": "<a href=\"https://www.mpi.mb.ca/licensing-id/\" aria-hidden=\"true\">More<span class=\"screen-reader-text\">about \n  \n    \n    \n  \n\nLicensing &amp; ID</span></a>",
+          "impact": "serious",
+          "messages": [
+            "Check that focusable elements are not tabbable in the current state"
+          ],
+          "box": {
+            "x": 40,
+            "y": 1450.9375,
+            "w": 62.390625,
+            "h": 23
+          }
+        },
+        {
+          "target": ".registration.menu-item-3935.menu-item-has-children > .sub-menu > .menu-more-link > a[aria-hidden=\"true\"]",
+          "html": "<a href=\"https://www.mpi.mb.ca/registration/\" aria-hidden=\"true\">More<span class=\"screen-reader-text\">about \n  \n    \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n    \n    \n  \n\nRegistration</span></a>",
+          "impact": "serious",
+          "messages": [
+            "Check that focusable elements are not tabbable in the current state"
+          ],
+          "box": {
+            "x": 316.5,
+            "y": 1389.375,
+            "w": 62.390625,
+            "h": 23
+          }
+        },
+        {
+          "target": ".insurance.menu-item-3936.menu-item-has-children > .sub-menu > .menu-more-link > a[aria-hidden=\"true\"]",
+          "html": "<a href=\"https://www.mpi.mb.ca/insurance/\" aria-hidden=\"true\">More<span class=\"screen-reader-text\">about \n  \n    \n    \n  \n\nInsurance</span></a>",
+          "impact": "serious",
+          "messages": [
+            "Check that focusable elements are not tabbable in the current state"
+          ],
+          "box": {
+            "x": 593,
+            "y": 1431.75,
+            "w": 62.390625,
+            "h": 23
+          }
+        },
+        {
+          "target": "a[href$=\"claims/\"][aria-hidden=\"true\"]",
+          "html": "<a href=\"https://www.mpi.mb.ca/claims/\" aria-hidden=\"true\">More<span class=\"screen-reader-text\">about \n  \n  \n    \n      \n      \n    \n    \n      \n      \n    \n    \n    \n    \n    \n      \n      \n    \n  \n\nClaims</span></a>",
+          "impact": "serious",
+          "messages": [
+            "Check that focusable elements are not tabbable in the current state"
+          ],
+          "box": {
+            "x": 869.5,
+            "y": 1427.75,
+            "w": 62.390625,
+            "h": 23
+          }
+        },
+        {
+          "target": ".road-safety.menu-item-3938.menu-item-has-children > .sub-menu > .menu-more-link > a[aria-hidden=\"true\"]",
+          "html": "<a href=\"https://www.mpi.mb.ca/road-safety/\" aria-hidden=\"true\">More<span class=\"screen-reader-text\">about \n  \n    \n    \n  \n\nRoad Safety</span></a>",
+          "impact": "serious",
+          "messages": [
+            "Check that focusable elements are not tabbable in the current state"
+          ],
+          "box": {
+            "x": 1146,
+            "y": 1389.375,
+            "w": 62.390625,
+            "h": 23
+          }
+        }
+      ]
+    },
+    {
+      "id": "aria-prohibited-attr",
+      "impact": "serious",
+      "help": "Elements must only use permitted ARIA attributes",
+      "description": "Ensure ARIA attributes are not prohibited for an element's role",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/aria-prohibited-attr?application=playwright",
+      "tags": [
+        "cat.aria",
+        "wcag2a",
+        "wcag412",
+        "EN-301-549",
+        "EN-9.4.1.2",
+        "RGAAv4",
+        "RGAA-7.1.1"
+      ],
+      "wcag": [
+        "4.1.2"
+      ],
+      "why": "",
+      "nodes": 1,
+      "sample": [
+        {
+          "target": "#video-modal",
+          "html": "<div id=\"video-modal\" tabindex=\"\" aria-label=\"Video Modal\" class=\"modal\"><button id=\"video-modal-close\" aria-label=\"Close Video Modal\"></button></div>"
+        }
+      ],
+      "items": [
+        {
+          "target": "#video-modal",
+          "html": "<div id=\"video-modal\" tabindex=\"\" aria-label=\"Video Modal\" class=\"modal\"><button id=\"video-modal-close\" aria-label=\"Close Video Modal\"></button></div>",
+          "impact": "serious",
+          "messages": [
+            "aria-label attribute is not well supported on a div with no valid role attribute."
+          ],
+          "box": {
+            "x": 1379.65625,
+            "y": -909,
+            "w": 1366,
+            "h": 900
+          }
+        }
+      ]
+    },
+    {
+      "id": "color-contrast",
+      "impact": "serious",
+      "help": "Elements must meet minimum color contrast ratio thresholds",
+      "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/color-contrast?application=playwright",
+      "tags": [
+        "cat.color",
+        "wcag2aa",
+        "wcag143",
+        "TTv5",
+        "TT13.c",
+        "EN-301-549",
+        "EN-9.1.4.3",
+        "ACT",
+        "RGAAv4",
+        "RGAA-3.2.1"
+      ],
+      "wcag": [
+        "1.4.3"
+      ],
+      "why": "Element's background color could not be determined due to a pseudo element",
+      "nodes": 73,
+      "sample": [
+        {
+          "target": "p:nth-child(1)",
+          "html": "<p class=\"wp-block-paragraph\">Storm damage? Open a claim online. <a href=\"https://openclaim.mpi.mb.ca/?lang=en\">Click here to get started</a>.</p>"
+        },
+        {
+          "target": "p:nth-child(1) > a",
+          "html": "<a href=\"https://openclaim.mpi.mb.ca/?lang=en\">Click here to get started</a>"
+        },
+        {
+          "target": "#menu-item-3993 > a",
+          "html": "<a href=\"https://www.mpi.mb.ca/online-services/\">Online Services</a>"
+        }
+      ],
+      "items": [
+        {
+          "target": "p:nth-child(1)",
+          "html": "<p class=\"wp-block-paragraph\">Storm damage? Open a claim online. <a href=\"https://openclaim.mpi.mb.ca/?lang=en\">Click here to get started</a>.</p>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 412.171875,
+            "y": 25,
+            "w": 534.84375,
+            "h": 24
+          }
+        },
+        {
+          "target": "p:nth-child(1) > a",
+          "html": "<a href=\"https://openclaim.mpi.mb.ca/?lang=en\">Click here to get started</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 728.734375,
+            "y": 25,
+            "w": 214.03125,
+            "h": 24
+          }
+        },
+        {
+          "target": "#menu-item-3993 > a",
+          "html": "<a href=\"https://www.mpi.mb.ca/online-services/\">Online Services</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 441.34375,
+            "y": 104.796875,
+            "w": 108.625,
+            "h": 22.390625
+          }
+        },
+        {
+          "target": "#menu-item-3994 > a",
+          "html": "<a href=\"https://www.mpi.mb.ca/contact-us/\">Contact Us</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 565.96875,
+            "y": 104.796875,
+            "w": 77.984375,
+            "h": 22.390625
+          }
+        },
+        {
+          "target": "#menu-item-5355 > a",
+          "html": "<a href=\"https://apps.mpi.mb.ca/siutips/\">Report Fraud</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 659.953125,
+            "y": 104.796875,
+            "w": 92.59375,
+            "h": 22.390625
+          }
+        },
+        {
+          "target": "#menu-item-3996 > a[href$=\"careers/\"]",
+          "html": "<a href=\"https://www.mpi.mb.ca/careers/\">Careers</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 768.546875,
+            "y": 104.796875,
+            "w": 55.6875,
+            "h": 22.390625
+          }
+        },
+        {
+          "target": "#menu-item-60215 > a",
+          "html": "<a href=\"https://www.mpi.mb.ca/mpis-land-acknowledgement/\">Land Acknowledgement</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 840.234375,
+            "y": 104.796875,
+            "w": 168.421875,
+            "h": 22.390625
+          }
+        },
+        {
+          "target": "#menu-item-3997-fr > a[lang=\"fr-CA\"][hreflang$=\"fr-CA\"][href$=\"fr/\"]",
+          "html": "<a href=\"https://www.mpi.mb.ca/fr/\" lang=\"fr-CA\" hreflang=\"fr-CA\">FR<span class=\"screen-reader-text\">Switch site language to French</span></a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 1016.65625,
+            "y": 104.796875,
+            "w": 19.375,
+            "h": 22.390625
+          }
+        },
+        {
+          "target": ".center",
+          "html": "<span class=\"center\">Learn More</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 100,
+            "y": 652.90625,
+            "w": 93.3125,
+            "h": 22
+          }
+        },
+        {
+          "target": "h3",
+          "html": "<h3 class=\"service-menu-header\">What brings you here?</h3>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 40,
+            "y": 1072,
+            "w": 1286,
+            "h": 84
+          }
+        },
+        {
+          "target": ".licensing-id.menu-item-3934.menu-item-has-children > a",
+          "html": "<a href=\"https://www.mpi.mb.ca/licensing-id/\">",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 40,
+            "y": 1210,
+            "w": 180,
+            "h": 122
+          }
+        },
+        {
+          "target": ".menu-item-5211 > a",
+          "html": "<a href=\"https://www.mpi.mb.ca/new-to-manitoba/\">New or Returning to Manitoba</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 40,
+            "y": 1332,
+            "w": 142.28125,
+            "h": 38.1875
+          }
+        },
+        {
+          "target": ".menu-item-5212 > a",
+          "html": "<a href=\"https://www.mpi.mb.ca/what-you-need-to-know-about-driver-testing/\">What you need to know about driver testing</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 40,
+            "y": 1374.375,
+            "w": 165.3125,
+            "h": 38.1875
+          }
+        },
+        {
+          "target": ".menu-item-33993 > a[href$=\"driverz.mpi.mb.ca/\"]",
+          "html": "<a href=\"https://driverz.mpi.mb.ca/\">Driver Z Login</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 40,
+            "y": 1416.75,
+            "w": 99.578125,
+            "h": 19
+          }
+        },
+        {
+          "target": ".licensing-id.menu-item-3934.menu-item-has-children > .sub-menu > .menu-more-link > a[aria-hidden=\"true\"]",
+          "html": "<a href=\"https://www.mpi.mb.ca/licensing-id/\" aria-hidden=\"true\">More<span class=\"screen-reader-text\">about \n  \n    \n    \n  \n\nLicensing &amp; ID</span></a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 40,
+            "y": 1450.9375,
+            "w": 62.390625,
+            "h": 23
+          }
+        },
+        {
+          "target": ".registration.menu-item-3935.menu-item-has-children > a",
+          "html": "<a href=\"https://www.mpi.mb.ca/registration/\">",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 316.5,
+            "y": 1210,
+            "w": 180,
+            "h": 122
+          }
+        },
+        {
+          "target": ".menu-item-5213 > a",
+          "html": "<a href=\"https://www.mpi.mb.ca/registering-your-vehicle/\">Registering your vehicle</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 316.5,
+            "y": 1332,
+            "w": 167.59375,
+            "h": 19
+          }
+        },
+        {
+          "target": ".menu-item-5214 > a",
+          "html": "<a href=\"https://www.mpi.mb.ca/certificate-of-inspection/\">Certificate of inspection</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 316.5,
+            "y": 1355.1875,
+            "w": 167.859375,
+            "h": 19
+          }
+        },
+        {
+          "target": ".registration.menu-item-3935.menu-item-has-children > .sub-menu > .menu-more-link > a[aria-hidden=\"true\"]",
+          "html": "<a href=\"https://www.mpi.mb.ca/registration/\" aria-hidden=\"true\">More<span class=\"screen-reader-text\">about \n  \n    \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n    \n    \n  \n\nRegistration</span></a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 316.5,
+            "y": 1389.375,
+            "w": 62.390625,
+            "h": 23
+          }
+        },
+        {
+          "target": ".insurance.menu-item-3936.menu-item-has-children > a",
+          "html": "<a href=\"https://www.mpi.mb.ca/insurance/\">",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 593,
+            "y": 1210,
+            "w": 180,
+            "h": 122
+          }
+        },
+        {
+          "target": ".menu-item-5215 > a",
+          "html": "<a href=\"https://www.mpi.mb.ca/insuring-your-vehicle/\">Insuring your vehicle</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 593,
+            "y": 1332,
+            "w": 144.984375,
+            "h": 19
+          }
+        },
+        {
+          "target": ".menu-item-5216 > a",
+          "html": "<a href=\"https://www.mpi.mb.ca/paying-for-your-insurance/\">Paying for your insurance</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 593,
+            "y": 1355.1875,
+            "w": 176.65625,
+            "h": 19
+          }
+        },
+        {
+          "target": ".menu-item-5217 > a",
+          "html": "<a href=\"https://www.mpi.mb.ca/where-do-your-premium-dollars-go/\">Where do your premium dollars go?</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 593,
+            "y": 1378.375,
+            "w": 170.671875,
+            "h": 38.1875
+          }
+        },
+        {
+          "target": ".insurance.menu-item-3936.menu-item-has-children > .sub-menu > .menu-more-link > a[aria-hidden=\"true\"]",
+          "html": "<a href=\"https://www.mpi.mb.ca/insurance/\" aria-hidden=\"true\">More<span class=\"screen-reader-text\">about \n  \n    \n    \n  \n\nInsurance</span></a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 593,
+            "y": 1431.75,
+            "w": 62.390625,
+            "h": 23
+          }
+        },
+        {
+          "target": ".claims.menu-item-3937.menu-item-has-children > a[href$=\"claims/\"]",
+          "html": "<a href=\"https://www.mpi.mb.ca/claims/\">",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 869.5,
+            "y": 1210,
+            "w": 180,
+            "h": 122
+          }
+        },
+        {
+          "target": ".menu-item-5219 > a",
+          "html": "<a href=\"https://www.mpi.mb.ca/reporting-a-vehicle-collision-claim/\">Reporting a vehicle collision claim</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 869.5,
+            "y": 1332,
+            "w": 133.609375,
+            "h": 38.1875
+          }
+        },
+        {
+          "target": ".menu-item-5218 > a",
+          "html": "<a href=\"https://www.mpi.mb.ca/repairing-your-vehicle-damage/\">Repairing your vehicle damage</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 869.5,
+            "y": 1374.375,
+            "w": 155.0625,
+            "h": 38.1875
+          }
+        },
+        {
+          "target": "a[href$=\"claims/\"][aria-hidden=\"true\"]",
+          "html": "<a href=\"https://www.mpi.mb.ca/claims/\" aria-hidden=\"true\">More<span class=\"screen-reader-text\">about \n  \n  \n    \n      \n      \n    \n    \n      \n      \n    \n    \n    \n    \n    \n      \n      \n    \n  \n\nClaims</span></a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 869.5,
+            "y": 1427.75,
+            "w": 62.390625,
+            "h": 23
+          }
+        },
+        {
+          "target": ".road-safety.menu-item-3938.menu-item-has-children > a",
+          "html": "<a href=\"https://www.mpi.mb.ca/road-safety/\">",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 1146,
+            "y": 1210,
+            "w": 180,
+            "h": 122
+          }
+        },
+        {
+          "target": ".menu-item-54812 > a",
+          "html": "<a href=\"https://www.mpi.mb.ca/about-driver-z/\">MPI’s Driver Z program</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 1146,
+            "y": 1332,
+            "w": 164.15625,
+            "h": 19
+          }
+        },
+        {
+          "target": ".menu-item-5222 > a",
+          "html": "<a href=\"https://www.mpi.mb.ca/distracted-driving/\">They’re counting on you</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 1146,
+            "y": 1355.1875,
+            "w": 167.0625,
+            "h": 19
+          }
+        },
+        {
+          "target": ".road-safety.menu-item-3938.menu-item-has-children > .sub-menu > .menu-more-link > a[aria-hidden=\"true\"]",
+          "html": "<a href=\"https://www.mpi.mb.ca/road-safety/\" aria-hidden=\"true\">More<span class=\"screen-reader-text\">about \n  \n    \n    \n  \n\nRoad Safety</span></a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 1146,
+            "y": 1389.375,
+            "w": 62.390625,
+            "h": 23
+          }
+        },
+        {
+          "target": "#block-search-input",
+          "html": "<input type=\"text\" value=\"\" class=\"search-input\" id=\"block-search-input\" name=\"_search\" placeholder=\"Search\" maxlength=\"200\" style=\"\">",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 40,
+            "y": 1596.734375,
+            "w": 611,
+            "h": 74
+          }
+        },
+        {
+          "target": "label[for=\"block-search-input\"]",
+          "html": "<label for=\"block-search-input\">Type your search and press return</label>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 40,
+            "y": 1674.734375,
+            "w": 643,
+            "h": 24
+          }
+        },
+        {
+          "target": ".size-h1",
+          "html": "<h2 class=\"size-h1 text-center section-header\">Tools</h2>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 40,
+            "y": 1983.0625,
+            "w": 1286,
+            "h": 72
+          }
+        },
+        {
+          "target": "li:nth-child(1) > .tool-card > .title-tool",
+          "html": "<span class=\"title-tool\">Online Credit Card Payment</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 125.75,
+            "y": 2224.40625,
+            "w": 150,
+            "h": 54
+          }
+        },
+        {
+          "target": "li:nth-child(2) > .tool-card > .title-tool",
+          "html": "<span class=\"title-tool\">Driving Quizzes</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 447.25,
+            "y": 2224.40625,
+            "w": 150,
+            "h": 27
+          }
+        },
+        {
+          "target": "li:nth-child(3) > .tool-card > .title-tool",
+          "html": "<span class=\"title-tool\">Proving My Identity</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 768.75,
+            "y": 2224.40625,
+            "w": 150,
+            "h": 54
+          }
+        },
+        {
+          "target": ".tool-card[href$=\"driverz.mpi.mb.ca/\"] > .title-tool",
+          "html": "<span class=\"title-tool\">Driver Z Login</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 1090.25,
+            "y": 2224.40625,
+            "w": 150,
+            "h": 27
+          }
+        },
+        {
+          "target": ".expand",
+          "html": "<span class=\"expand\">View More Tools</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 624.578125,
+            "y": 2420.40625,
+            "w": 116.84375,
+            "h": 19
+          }
+        },
+        {
+          "target": ".wp-block-heading",
+          "html": "<h2 class=\"wp-block-heading\">Connect</h2>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 40,
+            "y": 2672.734375,
+            "w": 230,
+            "h": 25.203125
+          }
+        },
+        {
+          "target": ".wp-block-list > li:nth-child(1)",
+          "html": "<li>In Winnipeg:&nbsp;<a href=\"tel:2049857000\">204-985-7000</a><br>Toll Free:&nbsp;<a href=\"tel:18006652410\">1-800-665-2410</a><br><a href=\"https://www.mpi.mb.ca/general-inquiries/\">Email us</a></li>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 40,
+            "y": 2731.9375,
+            "w": 230,
+            "h": 60.46875
+          }
+        },
+        {
+          "target": "a[href=\"tel:2049857000\"]",
+          "html": "<a href=\"tel:2049857000\">204-985-7000</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 122.53125,
+            "y": 2732.9375,
+            "w": 93.515625,
+            "h": 17
+          }
+        },
+        {
+          "target": "a[href=\"tel:18006652410\"]",
+          "html": "<a href=\"tel:18006652410\">1-800-665-2410</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 100.171875,
+            "y": 2753.09375,
+            "w": 106.875,
+            "h": 17
+          }
+        },
+        {
+          "target": "a:nth-child(5)",
+          "html": "<a href=\"https://www.mpi.mb.ca/general-inquiries/\">Email us</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 40,
+            "y": 2773.25,
+            "w": 51.90625,
+            "h": 17
+          }
+        },
+        {
+          "target": ".wp-block-list > li:nth-child(3)",
+          "html": "<li>Contact Centre Hours:<br>Monday to Friday: 7:30am–7pm<br>Saturday: 8:30am–4:30pm<br>Sunday: Closed</li>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 40,
+            "y": 2812.5625,
+            "w": 230,
+            "h": 80.625
+          }
+        },
+        {
+          "target": ".wp-block-list > li:nth-child(5) > a",
+          "html": "<a href=\"https://apps.mpi.mb.ca/siutips/?lang=en\">Report Fraud</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 40,
+            "y": 2914.34375,
+            "w": 83.34375,
+            "h": 17
+          }
+        },
+        {
+          "target": ".wp-block-list > li:nth-child(6) > a",
+          "html": "<a href=\"https://www.mpi.mb.ca/contact-us/\">Additional Contact Information</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 40,
+            "y": 2934.5,
+            "w": 197.125,
+            "h": 17
+          }
+        },
+        {
+          "target": ".social",
+          "html": "<div class=\"social\">",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 40,
+            "y": 2977.65625,
+            "w": 230,
+            "h": 20.15625
+          }
+        },
+        {
+          "target": ".col:nth-child(1) > p",
+          "html": "<p class=\"wp-block-paragraph\">© 2023 Manitoba Public Insurance</p>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 40,
+            "y": 3027.8125,
+            "w": 230,
+            "h": 20.15625
+          }
+        },
+        {
+          "target": ".col:nth-child(2) > h2",
+          "html": "<h2>Find a Service</h2>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 391.984375,
+            "y": 2672.734375,
+            "w": 230,
+            "h": 25.203125
+          }
+        },
+        {
+          "target": ".footer__menu-filter-label",
+          "html": "<span class=\"footer__menu-filter-label\">Category</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 391.984375,
+            "y": 2731.9375,
+            "w": 230,
+            "h": 15.671875
+          }
+        },
+        {
+          "target": "select",
+          "html": "<select class=\"footer__menu-filter-select\" name=\"category\">",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 391.984375,
+            "y": 2755.609375,
+            "w": 191,
+            "h": 33.78125
+          }
+        },
+        {
+          "target": ".footer__menu-search > span:nth-child(1)",
+          "html": "<span>Search</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 391.984375,
+            "y": 2808.1875,
+            "w": 46.53125,
+            "h": 12
+          }
+        },
+        {
+          "target": ".col:nth-child(3) > h2",
+          "html": "<h2>Newsroom</h2>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 743.96875,
+            "y": 2672.734375,
+            "w": 230,
+            "h": 25.203125
+          }
+        },
+        {
+          "target": "a[href$=\"news/\"]",
+          "html": "<a href=\"https://www.mpi.mb.ca/news/\">News releases</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 743.96875,
+            "y": 2732.9375,
+            "w": 90.421875,
+            "h": 17
+          }
+        },
+        {
+          "target": "#menu-item-68 > a",
+          "html": "<a href=\"/public-utilities-board-pub-rate-applications/\">Rate application</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 743.96875,
+            "y": 2758.6875,
+            "w": 101.9375,
+            "h": 17
+          }
+        },
+        {
+          "target": "a[href$=\"financial-reports/\"]",
+          "html": "<a href=\"/financial-reports/\">Financial reports</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 743.96875,
+            "y": 2784.4375,
+            "w": 106.0625,
+            "h": 17
+          }
+        },
+        {
+          "target": "a[href$=\"public-engagement/\"]",
+          "html": "<a href=\"/public-engagement/\">Public engagement</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 743.96875,
+            "y": 2810.1875,
+            "w": 119.59375,
+            "h": 17
+          }
+        },
+        {
+          "target": "#menu-item-71 > a",
+          "html": "<a href=\"/wp-content/uploads/Autopac-Rate-Guide.pdf\">Autopac rate guide</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 743.96875,
+            "y": 2835.9375,
+            "w": 119.109375,
+            "h": 17
+          }
+        },
+        {
+          "target": "#menu-item-58368 > a",
+          "html": "<a href=\"https://www.mpi.mb.ca/manitoba-collision-dashboard/\">Manitoba Collision Dashboard</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 743.96875,
+            "y": 2861.6875,
+            "w": 191.03125,
+            "h": 17
+          }
+        },
+        {
+          "target": ".col:nth-child(4) > h2",
+          "html": "<h2>Company</h2>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 1095.953125,
+            "y": 2672.734375,
+            "w": 230,
+            "h": 25.203125
+          }
+        },
+        {
+          "target": "a[href$=\"who-we-are/\"]",
+          "html": "<a href=\"/who-we-are/\">Who we are</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 1095.953125,
+            "y": 2732.9375,
+            "w": 75.484375,
+            "h": 17
+          }
+        },
+        {
+          "target": "a[href$=\"annual-business-plans/\"]",
+          "html": "<a href=\"/annual-business-plans/\">Annual business plans</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 1095.953125,
+            "y": 2758.6875,
+            "w": 137.59375,
+            "h": 17
+          }
+        },
+        {
+          "target": "#menu-item-60214 > a",
+          "html": "<a href=\"https://www.mpi.mb.ca/indigenous-engagement/\">Indigenous Engagement</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 1095.953125,
+            "y": 2784.4375,
+            "w": 150.796875,
+            "h": 17
+          }
+        },
+        {
+          "target": "a[href$=\"financial-reserves/\"]",
+          "html": "<a href=\"/financial-reserves/\">Financial reserves</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 1095.953125,
+            "y": 2810.1875,
+            "w": 113.265625,
+            "h": 17
+          }
+        },
+        {
+          "target": "a[href$=\"sustainability/\"]",
+          "html": "<a href=\"/sustainability/\">Sustainability</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 1095.953125,
+            "y": 2835.9375,
+            "w": 85.40625,
+            "h": 17
+          }
+        },
+        {
+          "target": "a[href$=\"accessibility/\"]",
+          "html": "<a href=\"/accessibility/\">Accessibility</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 1095.953125,
+            "y": 2861.6875,
+            "w": 78.828125,
+            "h": 17
+          }
+        },
+        {
+          "target": "a[href$=\"french-language-services/\"]",
+          "html": "<a href=\"/french-language-services/\">French Language Services</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 1095.953125,
+            "y": 2887.4375,
+            "w": 162.203125,
+            "h": 17
+          }
+        },
+        {
+          "target": "a[href$=\"insurance-fraud/\"]",
+          "html": "<a href=\"/insurance-fraud/\">Insurance fraud</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 1095.953125,
+            "y": 2913.1875,
+            "w": 98.3125,
+            "h": 17
+          }
+        },
+        {
+          "target": "#menu-item-66 > a",
+          "html": "<a href=\"/how-you-can-protect-your-information/\">How you can protect your information</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 1095.953125,
+            "y": 2938.9375,
+            "w": 162.046875,
+            "h": 37.15625
+          }
+        },
+        {
+          "target": "a[href$=\"protecting-your-privacy/\"]",
+          "html": "<a href=\"/protecting-your-privacy/\">Protecting your privacy</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 1095.953125,
+            "y": 2984.84375,
+            "w": 147.453125,
+            "h": 17
+          }
+        },
+        {
+          "target": "a[href$=\"disclaimer\"]",
+          "html": "<a href=\"/disclaimer\">Disclaimer</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 1095.953125,
+            "y": 3035,
+            "w": 67.359375,
+            "h": 17
+          }
+        }
+      ]
+    }
+  ],
+  "violations": [
+    {
+      "id": "button-name",
+      "impact": "critical",
+      "help": "Buttons must have discernible text",
+      "description": "Ensure buttons have discernible text",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/button-name?application=playwright",
+      "tags": [
+        "cat.name-role-value",
+        "wcag2a",
+        "wcag412",
+        "section508",
+        "section508.22.a",
+        "TTv5",
+        "TT6.a",
+        "EN-301-549",
+        "EN-9.4.1.2",
+        "ACT",
+        "RGAAv4",
+        "RGAA-11.9.1"
+      ],
+      "wcag": [
+        "4.1.2"
+      ],
+      "nodes": 1,
+      "items": [
+        {
+          "target": ".alert-banner-close",
+          "html": "<button class=\"icon-Close alert-banner-close\"></button>",
+          "impact": "critical",
+          "messages": [
+            "Element does not have inner text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element does not have an implicit (wrapped) <label>",
+            "Element does not have an explicit <label>",
+            "Element's default semantics were not overridden with role=\"none\" or role=\"presentation\""
+          ],
+          "box": {
+            "x": 1290.40625,
+            "y": 16,
+            "w": 51.59375,
+            "h": 42
+          }
+        }
+      ]
+    },
+    {
+      "id": "color-contrast",
+      "impact": "serious",
+      "help": "Elements must meet minimum color contrast ratio thresholds",
+      "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/color-contrast?application=playwright",
+      "tags": [
+        "cat.color",
+        "wcag2aa",
+        "wcag143",
+        "TTv5",
+        "TT13.c",
+        "EN-301-549",
+        "EN-9.1.4.3",
+        "ACT",
+        "RGAAv4",
+        "RGAA-3.2.1"
+      ],
+      "wcag": [
+        "1.4.3"
+      ],
+      "nodes": 5,
+      "items": [
+        {
+          "target": "h1",
+          "html": "<h1 class=\"entry-title\">Do barriers affect your access to MPI services?</h1>",
+          "impact": "serious",
+          "messages": [
+            "Element has insufficient color contrast of 1.04 (foreground color: #ffffff, background color: #fafafa, font size: 45.0pt (60px), font weight: bold). Expected contrast ratio of 3:1"
+          ],
+          "box": {
+            "x": 40,
+            "y": 419.09375,
+            "w": 1240.6875,
+            "h": 72
+          }
+        },
+        {
+          "target": ".entry-header > h2",
+          "html": "<h2>We want to hear from you. Complete our survey and help shape our 2027/2028 Accessibility Plan.</h2>",
+          "impact": "serious",
+          "messages": [
+            "Element has insufficient color contrast of 1.04 (foreground color: #ffffff, background color: #fafafa, font size: 27.0pt (36px), font weight: normal). Expected contrast ratio of 3:1"
+          ],
+          "box": {
+            "x": 40,
+            "y": 491.09375,
+            "w": 768,
+            "h": 116.8125
+          }
+        },
+        {
+          "target": ".icon-style--teal-dark",
+          "html": "<a href=\"#what-brings-you-here\" class=\"anchor-link icon-style--teal-dark text-style--white direction--down\">What brings you here?<span class=\"icon-Chevron-Down-Sm\"></span></a>",
+          "impact": "serious",
+          "messages": [
+            "Element has insufficient color contrast of 1.04 (foreground color: #ffffff, background color: #fafafa, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1"
+          ],
+          "box": {
+            "x": 604.84375,
+            "y": 932.8125,
+            "w": 156.3125,
+            "h": 66.390625
+          }
+        },
+        {
+          "target": "a[href$=\"#tools\"]",
+          "html": "<a href=\"#tools\" class=\"anchor-link icon-style--white text-style--teal direction--down\">Tools<span class=\"icon-Chevron-Down-Sm\"></span></a>",
+          "impact": "serious",
+          "messages": [
+            "Element has insufficient color contrast of 1.9 (foreground color: #54c7da, background color: #fafafa, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1"
+          ],
+          "box": {
+            "x": 664.703125,
+            "y": 1772.546875,
+            "w": 36.59375,
+            "h": 66.390625
+          }
+        },
+        {
+          "target": ".direction--up",
+          "html": "<a href=\"#content\" class=\"anchor-link icon-style--white text-style--teal direction--up\">Back to top<span class=\"icon-Chevron-Down-Sm\"></span></a>",
+          "impact": "serious",
+          "messages": [
+            "Element has insufficient color contrast of 1.9 (foreground color: #54c7da, background color: #fafafa, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1"
+          ],
+          "box": {
+            "x": 643.46875,
+            "y": 2604.546875,
+            "w": 79.0625,
+            "h": 66.390625
+          }
+        }
+      ]
+    },
+    {
+      "id": "target-size",
+      "impact": "serious",
+      "help": "All touch targets must be 24px large, or leave sufficient space",
+      "description": "Ensure touch targets have sufficient size and space",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/target-size?application=playwright",
+      "tags": [
+        "cat.sensory-and-visual-cues",
+        "wcag22aa",
+        "wcag258"
+      ],
+      "wcag": [
+        "2.5.8"
+      ],
+      "nodes": 7,
+      "items": [
+        {
+          "target": "#menu-item-3997-fr > a[lang=\"fr-CA\"][hreflang$=\"fr-CA\"][href$=\"fr/\"]",
+          "html": "<a href=\"https://www.mpi.mb.ca/fr/\" lang=\"fr-CA\" hreflang=\"fr-CA\">FR<span class=\"screen-reader-text\">Switch site language to French</span></a>",
+          "impact": "serious",
+          "messages": [
+            "Target has insufficient size (19.4px by 22.4px, should be at least 24px by 24px)",
+            "Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 19.4px instead of at least 24px."
+          ],
+          "box": {
+            "x": 1016.65625,
+            "y": 104.796875,
+            "w": 19.375,
+            "h": 22.390625
+          }
+        },
+        {
+          "target": ".menu-item-5213 > a",
+          "html": "<a href=\"https://www.mpi.mb.ca/registering-your-vehicle/\">Registering your vehicle</a>",
+          "impact": "serious",
+          "messages": [
+            "Target has insufficient size (167.6px by 19px, should be at least 24px by 24px)",
+            "Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 19px instead of at least 24px."
+          ],
+          "box": {
+            "x": 316.5,
+            "y": 1332,
+            "w": 167.59375,
+            "h": 19
+          }
+        },
+        {
+          "target": ".menu-item-5214 > a",
+          "html": "<a href=\"https://www.mpi.mb.ca/certificate-of-inspection/\">Certificate of inspection</a>",
+          "impact": "serious",
+          "messages": [
+            "Target has insufficient size (167.9px by 19px, should be at least 24px by 24px)",
+            "Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 22.4px instead of at least 24px."
+          ],
+          "box": {
+            "x": 316.5,
+            "y": 1355.1875,
+            "w": 167.859375,
+            "h": 19
+          }
+        },
+        {
+          "target": ".menu-item-5215 > a",
+          "html": "<a href=\"https://www.mpi.mb.ca/insuring-your-vehicle/\">Insuring your vehicle</a>",
+          "impact": "serious",
+          "messages": [
+            "Target has insufficient size (145px by 19px, should be at least 24px by 24px)",
+            "Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 19px instead of at least 24px."
+          ],
+          "box": {
+            "x": 593,
+            "y": 1332,
+            "w": 144.984375,
+            "h": 19
+          }
+        },
+        {
+          "target": ".menu-item-54812 > a",
+          "html": "<a href=\"https://www.mpi.mb.ca/about-driver-z/\">MPI’s Driver Z program</a>",
+          "impact": "serious",
+          "messages": [
+            "Target has insufficient size (164.2px by 19px, should be at least 24px by 24px)",
+            "Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 19px instead of at least 24px."
+          ],
+          "box": {
+            "x": 1146,
+            "y": 1332,
+            "w": 164.15625,
+            "h": 19
+          }
+        },
+        {
+          "target": ".menu-item-5222 > a",
+          "html": "<a href=\"https://www.mpi.mb.ca/distracted-driving/\">They’re counting on you</a>",
+          "impact": "serious",
+          "messages": [
+            "Target has insufficient size (167.1px by 19px, should be at least 24px by 24px)",
+            "Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 22.4px instead of at least 24px."
+          ],
+          "box": {
+            "x": 1146,
+            "y": 1355.1875,
+            "w": 167.0625,
+            "h": 19
+          }
+        },
+        {
+          "target": ".wp-block-list > li:nth-child(5) > a",
+          "html": "<a href=\"https://apps.mpi.mb.ca/siutips/?lang=en\">Report Fraud</a>",
+          "impact": "serious",
+          "messages": [
+            "Target has insufficient size (83.3px by 17px, should be at least 24px by 24px)",
+            "Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 23.4px instead of at least 24px."
+          ],
+          "box": {
+            "x": 40,
+            "y": 2914.34375,
+            "w": 83.34375,
+            "h": 17
+          }
+        }
+      ]
+    }
+  ],
+  "verdict": "FAILURES DETECTED"
+}

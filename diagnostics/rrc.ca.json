@@ -1,0 +1,53 @@
+{
+  "url": "https://www.rrc.ca/",
+  "ok": true,
+  "status": 200,
+  "title": "RRC Polytech",
+  "finalUrl": "https://www.rrc.ca/",
+  "shape": {
+    "elements": 991,
+    "images": 7,
+    "links": 318,
+    "buttons": 7,
+    "inputs": 1,
+    "headings": 4,
+    "textLength": 1828,
+    "lang": "en-US",
+    "iframes": 2
+  },
+  "axe": {
+    "violationRules": 0,
+    "violationNodes": 0,
+    "passRules": 26,
+    "passNodes": 405,
+    "incompleteRules": 1,
+    "incompleteNodes": 18,
+    "inapplicableRules": 37,
+    "testedNodes": 423
+  },
+  "incomplete": [
+    {
+      "id": "color-contrast",
+      "impact": "serious",
+      "help": "Elements must meet minimum color contrast ratio thresholds",
+      "why": "Element's background color could not be determined due to a background image",
+      "nodes": 18,
+      "sample": [
+        {
+          "target": "a[href$=\"about/\"]",
+          "html": "<a aria-haspopup=\"true\" aria-expanded=\"false\" aria-label=\"About - Press the Down arrow key to expand or the escape key to collapse this menu\" href=\"https://www.rrc.ca/about/\">About</a>"
+        },
+        {
+          "target": "a[href$=\"academics/\"]",
+          "html": "<a aria-haspopup=\"true\" aria-expanded=\"false\" aria-label=\"Academics - Press the Down arrow key to expand or the escape key to collapse this menu\" href=\"https://www.rrc.ca/academics/\">Academics</a>"
+        },
+        {
+          "target": "#menu-item-96 > a[aria-haspopup=\"true\"]",
+          "html": "<a aria-haspopup=\"true\" aria-expanded=\"false\" aria-label=\"Future Students - Press the Down arrow key to expand or the escape key to collapse this menu\" href=\"https://www.rrc.ca/future-students/\">Futur"
+        }
+      ]
+    }
+  ],
+  "violations": [],
+  "verdict": "CLEAN ON RULES, OPEN ON JUDGEMENT — the work is in the incomplete list"
+}

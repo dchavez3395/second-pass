@@ -1,0 +1,408 @@
+{
+  "url": "https://www.wcb.mb.ca/",
+  "ok": true,
+  "status": 200,
+  "title": "Workers Compensation Board of Manitoba",
+  "finalUrl": "https://www.wcb.mb.ca/",
+  "shape": {
+    "elements": 744,
+    "images": 6,
+    "links": 173,
+    "buttons": 13,
+    "inputs": 2,
+    "headings": 12,
+    "textLength": 2191,
+    "lang": "en-US",
+    "iframes": 2
+  },
+  "viewport": {
+    "width": 1366,
+    "height": 900
+  },
+  "scannedAt": "2026-09-18T04:54:56.451Z",
+  "axe": {
+    "violationRules": 0,
+    "violationNodes": 0,
+    "passRules": 24,
+    "passNodes": 315,
+    "incompleteRules": 2,
+    "incompleteNodes": 21,
+    "inapplicableRules": 39,
+    "testedNodes": 336
+  },
+  "incomplete": [
+    {
+      "id": "color-contrast",
+      "impact": "serious",
+      "help": "Elements must meet minimum color contrast ratio thresholds",
+      "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/color-contrast?application=playwright",
+      "tags": [
+        "cat.color",
+        "wcag2aa",
+        "wcag143",
+        "TTv5",
+        "TT13.c",
+        "EN-301-549",
+        "EN-9.1.4.3",
+        "ACT",
+        "RGAAv4",
+        "RGAA-3.2.1"
+      ],
+      "wcag": [
+        "1.4.3"
+      ],
+      "why": "Element's background color could not be determined due to a background gradient",
+      "nodes": 19,
+      "sample": [
+        {
+          "target": ".elementor-element-f9fc7df > .elementor-widget-container > p > a",
+          "html": "<a href=\"https://www.wcb.mb.ca/workers/report-your-injury/\"><strong>Report your workplace injury to the WCB.</strong> Learn more.</a>"
+        },
+        {
+          "target": ".elementor-element-f9fc7df > .elementor-widget-container > p > a > strong",
+          "html": "<strong>Report your workplace injury to the WCB.</strong>"
+        },
+        {
+          "target": "p > strong",
+          "html": "<strong>Sign up to attend our Committee Leadership Conference.</strong>"
+        }
+      ],
+      "items": [
+        {
+          "target": ".elementor-element-f9fc7df > .elementor-widget-container > p > a",
+          "html": "<a href=\"https://www.wcb.mb.ca/workers/report-your-injury/\"><strong>Report your workplace injury to the WCB.</strong> Learn more.</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background gradient"
+          ],
+          "box": {
+            "x": 139,
+            "y": 679.796875,
+            "w": 244.71875,
+            "h": 45
+          }
+        },
+        {
+          "target": ".elementor-element-f9fc7df > .elementor-widget-container > p > a > strong",
+          "html": "<strong>Report your workplace injury to the WCB.</strong>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it partially overlaps other elements"
+          ],
+          "box": {
+            "x": 139,
+            "y": 682.796875,
+            "w": 244.71875,
+            "h": 39
+          }
+        },
+        {
+          "target": "p > strong",
+          "html": "<strong>Sign up to attend our Committee Leadership Conference.</strong>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it partially overlaps other elements"
+          ],
+          "box": {
+            "x": 416,
+            "y": 682.796875,
+            "w": 191.203125,
+            "h": 59
+          }
+        },
+        {
+          "target": ".elementor-element-bcc81bd > .elementor-widget-container > p > a",
+          "html": "<a href=\"https://www.wcb.mb.ca/safeworkmanitoba/committee-leadership-conference/\">Learn more.</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background gradient"
+          ],
+          "box": {
+            "x": 520.828125,
+            "y": 719.796875,
+            "w": 112.75,
+            "h": 25
+          }
+        },
+        {
+          "target": ".elementor-element-b039c39 > .elementor-widget-container > p > a",
+          "html": "<a href=\"https://www.wcb.mb.ca/code-of-conduct/\">We’re committed to a safe working environment. <strong>Read our Code of Conduct.</strong></a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it partially overlaps other elements"
+          ],
+          "box": {
+            "x": 693,
+            "y": 679.796875,
+            "w": 224.671875,
+            "h": 65
+          }
+        },
+        {
+          "target": ".elementor-element-b039c39 > .elementor-widget-container > p > a > strong",
+          "html": "<strong>Read our Code of Conduct.</strong>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background gradient"
+          ],
+          "box": {
+            "x": 693,
+            "y": 702.796875,
+            "w": 224.671875,
+            "h": 39
+          }
+        },
+        {
+          "target": ".elementor-element-8208256 > .elementor-widget-container > p",
+          "html": "<p>We have posted information about a recent cybersecurity incident. <a href=\"https://www.wcb.mb.ca/notice-cybersecurity-incident/\"><strong>Learn more.</strong></a></p>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it partially overlaps other elements"
+          ],
+          "box": {
+            "x": 970,
+            "y": 682.796875,
+            "w": 257,
+            "h": 60
+          }
+        },
+        {
+          "target": ".elementor-element-8208256 > .elementor-widget-container > p > a > strong",
+          "html": "<strong>Learn more.</strong>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background gradient"
+          ],
+          "box": {
+            "x": 1043.890625,
+            "y": 722.796875,
+            "w": 100.140625,
+            "h": 19
+          }
+        },
+        {
+          "target": ".elementor-element-92de3d7 > .elementor-widget-container > .c-linkList.c-linkList--default > .c-linkList__list > .c-linkList__item:nth-child(3) > .c-linkList__itemBtn.g-btn__arrow--fullWidth > span",
+          "html": "<span>Benefits</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 89,
+            "y": 983.1875,
+            "w": 74.546875,
+            "h": 22
+          }
+        },
+        {
+          "target": "a[href$=\"clearances/\"] > span",
+          "html": "<span>Clearances</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 523.65625,
+            "y": 1032.984375,
+            "w": 97.734375,
+            "h": 22
+          }
+        },
+        {
+          "target": ".c-imageBoxList__itemBtn.g-btn[href$=\"safeworkmanitoba/\"] > span",
+          "html": "<span>Learn more</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 160,
+            "y": 1672.328125,
+            "w": 106.46875,
+            "h": 22
+          }
+        },
+        {
+          "target": ".c-imageBoxList__item:nth-child(2) > .c-imageBoxList__itemBtn.g-btn > span",
+          "html": "<span>Learn more</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 438,
+            "y": 1672.328125,
+            "w": 106.46875,
+            "h": 22
+          }
+        },
+        {
+          "target": ".c-imageBoxList__item:nth-child(3) > .c-imageBoxList__itemBtn.g-btn > span",
+          "html": "<span>Learn more</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 716,
+            "y": 1672.328125,
+            "w": 106.46875,
+            "h": 22
+          }
+        },
+        {
+          "target": ".c-imageBoxList__item:nth-child(4) > .c-imageBoxList__itemBtn.g-btn > span",
+          "html": "<span>Learn more</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 994,
+            "y": 1672.328125,
+            "w": 106.46875,
+            "h": 22
+          }
+        },
+        {
+          "target": ".elementor-element-3cc40cd > .elementor-widget-container > .elementor-heading-title.elementor-size-default",
+          "html": "<h2 class=\"elementor-heading-title elementor-size-default\">Workplace safety training and certification</h2>",
+          "impact": "serious",
+          "messages": [
+            "Element has a 1:1 contrast ratio with the background"
+          ],
+          "box": {
+            "x": 159,
+            "y": 1970.125,
+            "w": 1048,
+            "h": 32
+          }
+        },
+        {
+          "target": ".elementor-element-0e9c941 > .elementor-widget-container > p",
+          "html": "<p>Explore our Training Portal, access high-calibre training, become a SAFE Work Endorsed Training provider and more.</p>",
+          "impact": "serious",
+          "messages": [
+            "Element has a 1:1 contrast ratio with the background"
+          ],
+          "box": {
+            "x": 403,
+            "y": 2032.125,
+            "w": 560,
+            "h": 45
+          }
+        },
+        {
+          "target": ".elementor-element-93fd81d > .elementor-widget-container > .elementor-heading-title.elementor-size-default",
+          "html": "<h2 class=\"elementor-heading-title elementor-size-default\">Workshops</h2>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 139,
+            "y": 3089.34375,
+            "w": 1088,
+            "h": 32
+          }
+        },
+        {
+          "target": ".elementor-element-ad02bfb > .elementor-widget-container > p",
+          "html": "<p>To register for WCB Basics and Return to Work Basics workshops, please visit the <a href=\"https://swmb.bluedrop.io/storefront/safeworkmanitoba\" target=\"_blank\" rel=\"noopener\">SAFE Work Manitoba training portal</a>.</p>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 370.5,
+            "y": 3151.34375,
+            "w": 625,
+            "h": 45
+          }
+        },
+        {
+          "target": "a[rel=\"noopener\"]",
+          "html": "<a href=\"https://swmb.bluedrop.io/storefront/safeworkmanitoba\" target=\"_blank\" rel=\"noopener\">SAFE Work Manitoba training portal</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 581.296875,
+            "y": 3170.84375,
+            "w": 339.921875,
+            "h": 28
+          }
+        }
+      ]
+    },
+    {
+      "id": "link-in-text-block",
+      "impact": "serious",
+      "help": "Links must be distinguishable without relying on color",
+      "description": "Ensure links are distinguished from surrounding text in a way that does not rely on color",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/link-in-text-block?application=playwright",
+      "tags": [
+        "cat.color",
+        "wcag2a",
+        "wcag141",
+        "TTv5",
+        "TT13.a",
+        "EN-301-549",
+        "EN-9.1.4.1",
+        "RGAAv4",
+        "RGAA-10.6.1"
+      ],
+      "wcag": [
+        "1.4.1"
+      ],
+      "why": "Element's contrast ratio could not be determined because of element overlap",
+      "nodes": 2,
+      "sample": [
+        {
+          "target": ".elementor-element-bcc81bd > .elementor-widget-container > p > a",
+          "html": "<a href=\"https://www.wcb.mb.ca/safeworkmanitoba/committee-leadership-conference/\">Learn more.</a>"
+        },
+        {
+          "target": ".elementor-element-8208256 > .elementor-widget-container > p > a",
+          "html": "<a href=\"https://www.wcb.mb.ca/notice-cybersecurity-incident/\"><strong>Learn more.</strong></a>"
+        }
+      ],
+      "items": [
+        {
+          "target": ".elementor-element-bcc81bd > .elementor-widget-container > p > a",
+          "html": "<a href=\"https://www.wcb.mb.ca/safeworkmanitoba/committee-leadership-conference/\">Learn more.</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's contrast ratio could not be determined because of element overlap",
+            "Check if the link's pseudo style is sufficient to distinguish it from the surrounding text"
+          ],
+          "box": {
+            "x": 520.828125,
+            "y": 719.796875,
+            "w": 112.75,
+            "h": 25
+          }
+        },
+        {
+          "target": ".elementor-element-8208256 > .elementor-widget-container > p > a",
+          "html": "<a href=\"https://www.wcb.mb.ca/notice-cybersecurity-incident/\"><strong>Learn more.</strong></a>",
+          "impact": "serious",
+          "messages": [
+            "Element's foreground contrast ratio could not be determined",
+            "Check if the link's pseudo style is sufficient to distinguish it from the surrounding text"
+          ],
+          "box": {
+            "x": 1043.890625,
+            "y": 719.796875,
+            "w": 117.140625,
+            "h": 25
+          }
+        }
+      ]
+    }
+  ],
+  "violations": [],
+  "verdict": "CLEAN ON RULES, OPEN ON JUDGEMENT — the work is in the incomplete list"
+}

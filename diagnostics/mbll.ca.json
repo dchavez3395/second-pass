@@ -1,0 +1,532 @@
+{
+  "url": "https://www.mbll.ca/",
+  "ok": true,
+  "status": 200,
+  "title": "Home | Manitoba Liquor & Lotteries",
+  "finalUrl": "https://www.mbll.ca/",
+  "shape": {
+    "elements": 745,
+    "images": 14,
+    "links": 88,
+    "buttons": 8,
+    "inputs": 2,
+    "headings": 14,
+    "textLength": 2491,
+    "lang": "en",
+    "iframes": 0
+  },
+  "viewport": {
+    "width": 1366,
+    "height": 900
+  },
+  "scannedAt": "2026-09-18T04:54:44.916Z",
+  "axe": {
+    "violationRules": 1,
+    "violationNodes": 7,
+    "passRules": 30,
+    "passNodes": 970,
+    "incompleteRules": 2,
+    "incompleteNodes": 21,
+    "inapplicableRules": 33,
+    "testedNodes": 998
+  },
+  "incomplete": [
+    {
+      "id": "color-contrast",
+      "impact": "serious",
+      "help": "Elements must meet minimum color contrast ratio thresholds",
+      "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/color-contrast?application=playwright",
+      "tags": [
+        "cat.color",
+        "wcag2aa",
+        "wcag143",
+        "TTv5",
+        "TT13.c",
+        "EN-301-549",
+        "EN-9.1.4.3",
+        "ACT",
+        "RGAAv4",
+        "RGAA-3.2.1"
+      ],
+      "wcag": [
+        "1.4.3"
+      ],
+      "why": "Element's background color could not be determined due to a pseudo element",
+      "nodes": 14,
+      "sample": [
+        {
+          "target": "a[href$=\"our-responsibilities\"] > h3",
+          "html": "<h3>Our Responsibilities</h3>"
+        },
+        {
+          "target": "a[href$=\"our-responsibilities\"] > p",
+          "html": "<p>\n            &nbsp;We enrich the lives of Manitobans by making the greatest possible contribution to the economic and social well-being of our province.\n          </p>"
+        },
+        {
+          "target": "a[href$=\"economic-impact\"] > h3",
+          "html": "<h3>Economic Impact</h3>"
+        }
+      ],
+      "items": [
+        {
+          "target": "a[href$=\"our-responsibilities\"] > h3",
+          "html": "<h3>Our Responsibilities</h3>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 159,
+            "y": 839.609375,
+            "w": 1048,
+            "h": 40
+          }
+        },
+        {
+          "target": "a[href$=\"our-responsibilities\"] > p",
+          "html": "<p>\n            &nbsp;We enrich the lives of Manitobans by making the greatest possible contribution to the economic and social well-being of our province.\n          </p>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 433,
+            "y": 884.609375,
+            "w": 500,
+            "h": 45.375
+          }
+        },
+        {
+          "target": "a[href$=\"economic-impact\"] > h3",
+          "html": "<h3>Economic Impact</h3>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 159,
+            "y": 1119.609375,
+            "w": 308,
+            "h": 40
+          }
+        },
+        {
+          "target": "a[href$=\"economic-impact\"] > p",
+          "html": "<p>\n            People, communities and businesses across Manitoba benefit from our economic contributions.\n          </p>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 159,
+            "y": 1164.609375,
+            "w": 308,
+            "h": 68.0625
+          }
+        },
+        {
+          "target": "a[href$=\"customer-well-being\"] > h3",
+          "html": "<h3>Customer Well-Being</h3>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 529,
+            "y": 1119.609375,
+            "w": 308,
+            "h": 40
+          }
+        },
+        {
+          "target": "a[href$=\"customer-well-being\"] > p",
+          "html": "<p>\n            We commit to helping customers enjoy our products safely and sensibly.&nbsp;\n          </p>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 529,
+            "y": 1164.609375,
+            "w": 308,
+            "h": 45.375
+          }
+        },
+        {
+          "target": "a[href$=\"community-support\"] > h3",
+          "html": "<h3>Community Support</h3>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 899,
+            "y": 1119.609375,
+            "w": 308,
+            "h": 40
+          }
+        },
+        {
+          "target": "a[href$=\"community-support\"] > p",
+          "html": "<p>\n            We support a wide range of charitable, non-profit and community groups in Manitoba.\n          </p>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 899,
+            "y": 1164.609375,
+            "w": 308,
+            "h": 45.375
+          }
+        },
+        {
+          "target": ".item-4 > .services-box > span > .inner > .front.services-box-animated > a > h3",
+          "html": "<h3>Environmental Stewardship</h3>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 159,
+            "y": 1399.609375,
+            "w": 308,
+            "h": 40
+          }
+        },
+        {
+          "target": ".item-4 > .services-box > span > .inner > .front.services-box-animated > a > p",
+          "html": "<p>\n            Innovation and collaboration drive efforts to reduce our waste, water and energy environmental impact.\n          </p>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 159,
+            "y": 1444.609375,
+            "w": 308,
+            "h": 68.0625
+          }
+        },
+        {
+          "target": "a[href$=\"informed-gambling\"] > h3",
+          "html": "<h3>Informed Gambling</h3>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 529,
+            "y": 1399.609375,
+            "w": 308,
+            "h": 40
+          }
+        },
+        {
+          "target": "a[href$=\"informed-gambling\"] > p",
+          "html": "<p>\n            Learn how to use Informed Gambling to understand and enjoy gambling.\n          </p>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 529,
+            "y": 1444.609375,
+            "w": 308,
+            "h": 45.375
+          }
+        },
+        {
+          "target": "a[href$=\"drinksense-1\"] > h3",
+          "html": "<h3>DrinkSense</h3>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 899,
+            "y": 1399.609375,
+            "w": 308,
+            "h": 40
+          }
+        },
+        {
+          "target": "a[href$=\"drinksense-1\"] > p",
+          "html": "<p>\n            Learn how to use your DrinkSense when it comes to buying, serving and enjoying liquor.\n          </p>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 899,
+            "y": 1444.609375,
+            "w": 308,
+            "h": 45.375
+          }
+        }
+      ]
+    },
+    {
+      "id": "target-size",
+      "impact": "serious",
+      "help": "All touch targets must be 24px large, or leave sufficient space",
+      "description": "Ensure touch targets have sufficient size and space",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/target-size?application=playwright",
+      "tags": [
+        "cat.sensory-and-visual-cues",
+        "wcag22aa",
+        "wcag258"
+      ],
+      "wcag": [
+        "2.5.8"
+      ],
+      "why": "Element with negative tabindex has insufficient size (8px by 8px, should be at least 24px by 24px). Is this a target?",
+      "nodes": 7,
+      "sample": [
+        {
+          "target": "button[aria-controls=\"splide-0f6a29ab30e-slide01\"]",
+          "html": "<button class=\"splide__pagination__page\" type=\"button\" role=\"tab\" aria-controls=\"splide-0f6a29ab30e-slide01\" aria-label=\"Go to slide 1\" tabindex=\"-1\"></button>"
+        },
+        {
+          "target": "button[aria-controls=\"splide-0f6a29ab30e-slide02\"]",
+          "html": "<button class=\"splide__pagination__page is-active\" type=\"button\" role=\"tab\" aria-controls=\"splide-0f6a29ab30e-slide02\" aria-label=\"Go to slide 2\" aria-selected=\"true\"></button>"
+        },
+        {
+          "target": "button[aria-controls=\"splide-0f6a29ab30e-slide03\"]",
+          "html": "<button class=\"splide__pagination__page\" type=\"button\" role=\"tab\" aria-controls=\"splide-0f6a29ab30e-slide03\" aria-label=\"Go to slide 3\" tabindex=\"-1\"></button>"
+        }
+      ],
+      "items": [
+        {
+          "target": "button[aria-controls=\"splide-0f6a29ab30e-slide01\"]",
+          "html": "<button class=\"splide__pagination__page\" type=\"button\" role=\"tab\" aria-controls=\"splide-0f6a29ab30e-slide01\" aria-label=\"Go to slide 1\" tabindex=\"-1\"></button>",
+          "impact": "serious",
+          "messages": [
+            "Element with negative tabindex has insufficient size (8px by 8px, should be at least 24px by 24px). Is this a target?",
+            "Element with negative tabindex has insufficient space to its closest neighbors. Safe clickable space has a diameter of 4px instead of at least 24px. Is this a target?"
+          ],
+          "box": {
+            "x": 651,
+            "y": 634.609375,
+            "w": 8,
+            "h": 8
+          }
+        },
+        {
+          "target": "button[aria-controls=\"splide-0f6a29ab30e-slide02\"]",
+          "html": "<button class=\"splide__pagination__page is-active\" type=\"button\" role=\"tab\" aria-controls=\"splide-0f6a29ab30e-slide02\" aria-label=\"Go to slide 2\" aria-selected=\"true\"></button>",
+          "impact": "serious",
+          "messages": [
+            "Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 4px instead of at least 24px. Is the neighbor a target?"
+          ],
+          "box": {
+            "x": 664.732666015625,
+            "y": 634.342041015625,
+            "w": 8.53466796875,
+            "h": 8.53466796875
+          }
+        },
+        {
+          "target": "button[aria-controls=\"splide-0f6a29ab30e-slide03\"]",
+          "html": "<button class=\"splide__pagination__page\" type=\"button\" role=\"tab\" aria-controls=\"splide-0f6a29ab30e-slide03\" aria-label=\"Go to slide 3\" tabindex=\"-1\"></button>",
+          "impact": "serious",
+          "messages": [
+            "Element with negative tabindex has insufficient size (8px by 8px, should be at least 24px by 24px). Is this a target?",
+            "Element with negative tabindex has insufficient space to its closest neighbors. Safe clickable space has a diameter of 4px instead of at least 24px. Is this a target?"
+          ],
+          "box": {
+            "x": 677.6672973632812,
+            "y": 633.2766723632812,
+            "w": 10.6654052734375,
+            "h": 10.6654052734375
+          }
+        },
+        {
+          "target": "button[aria-controls=\"splide-0f6a29ab30e-slide04\"]",
+          "html": "<button class=\"splide__pagination__page\" type=\"button\" role=\"tab\" aria-controls=\"splide-0f6a29ab30e-slide04\" aria-label=\"Go to slide 4\" tabindex=\"-1\"></button>",
+          "impact": "serious",
+          "messages": [
+            "Element with negative tabindex has insufficient size (8px by 8px, should be at least 24px by 24px). Is this a target?",
+            "Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 4px instead of at least 24px. Is the neighbor a target?"
+          ],
+          "box": {
+            "x": 693,
+            "y": 634.609375,
+            "w": 8,
+            "h": 8
+          }
+        },
+        {
+          "target": "button[aria-controls=\"splide-0f6a29ab30e-slide05\"]",
+          "html": "<button class=\"splide__pagination__page\" type=\"button\" role=\"tab\" aria-controls=\"splide-0f6a29ab30e-slide05\" aria-label=\"Go to slide 5\" tabindex=\"-1\"></button>",
+          "impact": "serious",
+          "messages": [
+            "Element with negative tabindex has insufficient size (8px by 8px, should be at least 24px by 24px). Is this a target?",
+            "Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 4px instead of at least 24px. Is the neighbor a target?"
+          ],
+          "box": {
+            "x": 707,
+            "y": 634.609375,
+            "w": 8,
+            "h": 8
+          }
+        },
+        {
+          "target": "a[href$=\"mbllpartners.ca/\"]",
+          "html": "<a href=\"http://www.mbllpartners.ca/\" class=\"ext\" data-extlink=\"\" rel=\"noreferrer\" title=\"(opens in a new window)\">",
+          "impact": "serious",
+          "messages": [
+            "Element size could not be accurately determined due to overflow content"
+          ],
+          "box": {
+            "x": 128,
+            "y": 2052.421875,
+            "w": 165.703125,
+            "h": 17
+          }
+        },
+        {
+          "target": "a[href$=\"mb/\"][rel=\"nofollow noreferrer\"][target=\"_blank\"]",
+          "html": "<a href=\"https://www.playnow.com/mb/\" rel=\"nofollow noreferrer\" target=\"_blank\" class=\"ext\" data-extlink=\"\" title=\"(opens in a new window)\">",
+          "impact": "serious",
+          "messages": [
+            "Element size could not be accurately determined due to overflow content"
+          ],
+          "box": {
+            "x": 698,
+            "y": 1984.359375,
+            "w": 103.3125,
+            "h": 17
+          }
+        }
+      ]
+    }
+  ],
+  "violations": [
+    {
+      "id": "target-size",
+      "impact": "serious",
+      "help": "All touch targets must be 24px large, or leave sufficient space",
+      "description": "Ensure touch targets have sufficient size and space",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/target-size?application=playwright",
+      "tags": [
+        "cat.sensory-and-visual-cues",
+        "wcag22aa",
+        "wcag258"
+      ],
+      "wcag": [
+        "2.5.8"
+      ],
+      "nodes": 7,
+      "items": [
+        {
+          "target": "a[href$=\"mb/\"][rel=\"nofollow\"][target=\"_blank\"]",
+          "html": "<a href=\"https://www.playnow.com/mb/\" rel=\"nofollow\" target=\"_blank\">PlayNow</a>",
+          "impact": "serious",
+          "messages": [
+            "Target has insufficient size (58px by 14px, should be at least 24px by 24px)",
+            "Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 11px instead of at least 24px."
+          ],
+          "box": {
+            "x": 190,
+            "y": 24,
+            "w": 57.96875,
+            "h": 14
+          }
+        },
+        {
+          "target": "#block-submenuproductsites > div > ul > li:nth-child(3) > a[rel=\"nofollow\"][target=\"_blank\"]",
+          "html": "<a href=\"http://www.casinosofwinnipeg.com\" rel=\"nofollow\" target=\"_blank\">Casinos of Winnipeg</a>",
+          "impact": "serious",
+          "messages": [
+            "Target has insufficient size (120.6px by 14px, should be at least 24px by 24px)",
+            "Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 11px instead of at least 24px."
+          ],
+          "box": {
+            "x": 247.96875,
+            "y": 24,
+            "w": 120.609375,
+            "h": 14
+          }
+        },
+        {
+          "target": "a[href$=\"manitobavlts.ca/\"][rel=\"nofollow\"][target=\"_blank\"]",
+          "html": "<a href=\"http://www.manitobavlts.ca/\" rel=\"nofollow\" target=\"_blank\">Manitoba VLTs</a>",
+          "impact": "serious",
+          "messages": [
+            "Target has insufficient size (89.5px by 14px, should be at least 24px by 24px)",
+            "Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 11px instead of at least 24px."
+          ],
+          "box": {
+            "x": 368.578125,
+            "y": 24,
+            "w": 89.546875,
+            "h": 14
+          }
+        },
+        {
+          "target": "li:nth-child(5) > a[href$=\"home.htm\"][target=\"_blank\"]",
+          "html": "<a href=\"http://www.wclc.com/home.htm\" target=\"_blank\">WCLC</a>",
+          "impact": "serious",
+          "messages": [
+            "Target has insufficient size (43.3px by 14px, should be at least 24px by 24px)",
+            "Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 11px instead of at least 24px."
+          ],
+          "box": {
+            "x": 458.125,
+            "y": 24,
+            "w": 43.296875,
+            "h": 14
+          }
+        },
+        {
+          "target": "li:nth-child(6) > a[rel=\"nofollow\"][target=\"_blank\"]",
+          "html": "<a href=\"https://www.playnow.com/mb/lottery/\" rel=\"nofollow\" target=\"_blank\">Lottery Tickets</a>",
+          "impact": "serious",
+          "messages": [
+            "Target has insufficient size (89.9px by 14px, should be at least 24px by 24px)",
+            "Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 11px instead of at least 24px."
+          ],
+          "box": {
+            "x": 501.421875,
+            "y": 24,
+            "w": 89.859375,
+            "h": 14
+          }
+        },
+        {
+          "target": "a[href$=\"www.drinksense.ca\"]",
+          "html": "<a href=\"https://www.drinksense.ca\" rel=\"nofollow\">DrinkSense</a>",
+          "impact": "serious",
+          "messages": [
+            "Target has insufficient size (71.2px by 14px, should be at least 24px by 24px)",
+            "Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 11px instead of at least 24px."
+          ],
+          "box": {
+            "x": 591.28125,
+            "y": 24,
+            "w": 71.1875,
+            "h": 14
+          }
+        },
+        {
+          "target": "li:nth-child(8) > a[rel=\"nofollow\"]",
+          "html": "<a href=\"https://www.informedgambling.ca/\" rel=\"nofollow\">Informed Gambling</a>",
+          "impact": "serious",
+          "messages": [
+            "Target has insufficient size (113.7px by 14px, should be at least 24px by 24px)",
+            "Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 11px instead of at least 24px."
+          ],
+          "box": {
+            "x": 662.46875,
+            "y": 24,
+            "w": 113.71875,
+            "h": 14
+          }
+        }
+      ]
+    }
+  ],
+  "verdict": "FAILURES DETECTED"
+}

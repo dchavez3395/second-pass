@@ -1,0 +1,421 @@
+{
+  "url": "https://www.myselkirk.ca/",
+  "ok": true,
+  "status": 200,
+  "title": "City of Selkirk, Manitoba",
+  "finalUrl": "https://www.myselkirk.ca/",
+  "shape": {
+    "elements": 2745,
+    "images": 45,
+    "links": 475,
+    "buttons": 20,
+    "inputs": 32,
+    "headings": 30,
+    "textLength": 5361,
+    "lang": "en-CA",
+    "iframes": 2
+  },
+  "viewport": {
+    "width": 1366,
+    "height": 900
+  },
+  "scannedAt": "2026-09-18T04:51:39.769Z",
+  "axe": {
+    "violationRules": 4,
+    "violationNodes": 7,
+    "passRules": 34,
+    "passNodes": 714,
+    "incompleteRules": 1,
+    "incompleteNodes": 11,
+    "inapplicableRules": 28,
+    "testedNodes": 732
+  },
+  "incomplete": [
+    {
+      "id": "color-contrast",
+      "impact": "serious",
+      "help": "Elements must meet minimum color contrast ratio thresholds",
+      "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/color-contrast?application=playwright",
+      "tags": [
+        "cat.color",
+        "wcag2aa",
+        "wcag143",
+        "TTv5",
+        "TT13.c",
+        "EN-301-549",
+        "EN-9.1.4.3",
+        "ACT",
+        "RGAAv4",
+        "RGAA-3.2.1"
+      ],
+      "wcag": [
+        "1.4.3"
+      ],
+      "why": "Element's background color could not be determined because it is overlapped by another element",
+      "nodes": 11,
+      "sample": [
+        {
+          "target": "#SR7_31_1-189-51",
+          "html": "<h1 id=\"SR7_31_1-189-51\" class=\"sr7-layer\" aria-hidden=\"true\" style=\"transform-origin: 50...\" data-type=\"text\">"
+        },
+        {
+          "target": "#SR7_31_1-189-44",
+          "html": "<a id=\"SR7_31_1-189-44\" class=\"sr7-layer\" href=\"https://www.myselkir...\" target=\"_self\" data-mouselistener=\"true\" aria-hidden=\"true\" style=\"transform-origin: 50...\" data-type=\"text\" data-subtype=\"butt"
+        },
+        {
+          "target": "#SR7_31_1-189-41",
+          "html": "<h3 id=\"SR7_31_1-189-41\" class=\"sr7-layer\" aria-hidden=\"true\" style=\"transform-origin: 50...\" data-type=\"text\">"
+        }
+      ],
+      "items": [
+        {
+          "target": "#SR7_31_1-189-51",
+          "html": "<h1 id=\"SR7_31_1-189-51\" class=\"sr7-layer\" aria-hidden=\"true\" style=\"transform-origin: 50...\" data-type=\"text\">",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it is overlapped by another element"
+          ],
+          "box": {
+            "x": 807,
+            "y": 614,
+            "w": 444.453125,
+            "h": 55
+          }
+        },
+        {
+          "target": "#SR7_31_1-189-44",
+          "html": "<a id=\"SR7_31_1-189-44\" class=\"sr7-layer\" href=\"https://www.myselkir...\" target=\"_self\" data-mouselistener=\"true\" aria-hidden=\"true\" style=\"transform-origin: 50...\" data-type=\"text\" data-subtype=\"button\">",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it is overlapped by another element"
+          ],
+          "box": {
+            "x": 829,
+            "y": 499,
+            "w": 417.71875,
+            "h": 72
+          }
+        },
+        {
+          "target": "#SR7_31_1-189-41",
+          "html": "<h3 id=\"SR7_31_1-189-41\" class=\"sr7-layer\" aria-hidden=\"true\" style=\"transform-origin: 50...\" data-type=\"text\">",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it is overlapped by another element"
+          ],
+          "box": {
+            "x": 547,
+            "y": 232,
+            "w": 339,
+            "h": 52
+          }
+        },
+        {
+          "target": "#SR7_31_1-189-45",
+          "html": "<h1 id=\"SR7_31_1-189-45\" class=\"sr7-layer\" aria-hidden=\"true\" style=\"transform-origin: 50...\" data-type=\"text\">",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it is overlapped by another element"
+          ],
+          "box": {
+            "x": 170,
+            "y": 376,
+            "w": 1093.71875,
+            "h": 80
+          }
+        },
+        {
+          "target": "#SR7_31_1-189-40",
+          "html": "<h1 id=\"SR7_31_1-189-40\" class=\"sr7-layer\" aria-hidden=\"true\" style=\"transform-origin: 50...\" data-type=\"text\">",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it is overlapped by another element"
+          ],
+          "box": {
+            "x": 333,
+            "y": 298,
+            "w": 745.34375,
+            "h": 71
+          }
+        },
+        {
+          "target": "#archives-dropdown-3",
+          "html": "<select id=\"archives-dropdown-3\" name=\"archive-dropdown\">",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background gradient"
+          ],
+          "box": {
+            "x": 909,
+            "y": 1400.5,
+            "w": 177,
+            "h": 38
+          }
+        },
+        {
+          "target": "#text-3 > .widget-title",
+          "html": "<div class=\"widget-title\">Contact Us</div>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 183,
+            "y": 5433.046875,
+            "w": 313.328125,
+            "h": 24
+          }
+        },
+        {
+          "target": ".textwidget > p:nth-child(1)",
+          "html": "<p>City of Selkirk<br>\n200 Eaton Avenue<br>\nSelkirk, Manitoba, Canada<br>\nR1A 0W6</p>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 183,
+            "y": 5472.046875,
+            "w": 313.328125,
+            "h": 88
+          }
+        },
+        {
+          "target": ".textwidget > p:nth-child(2)",
+          "html": "<p>Phone: 204-785-4900<br>\nEmail: CitizenSupport@cityofselkirk.com</p>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 183,
+            "y": 5570.046875,
+            "w": 313.328125,
+            "h": 44
+          }
+        },
+        {
+          "target": "#search-3 > .widget-title",
+          "html": "<div class=\"widget-title\">Search MySelkirk.ca</div>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 526.328125,
+            "y": 5433.046875,
+            "w": 313.328125,
+            "h": 24
+          }
+        },
+        {
+          "target": ".bottom-text-block > p",
+          "html": "<p>Where it all comes together</p>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 1029.109375,
+            "y": 5705.046875,
+            "w": 153.890625,
+            "h": 21
+          }
+        }
+      ]
+    }
+  ],
+  "violations": [
+    {
+      "id": "aria-hidden-focus",
+      "impact": "serious",
+      "help": "ARIA hidden element must not be focusable or contain focusable elements",
+      "description": "Ensure aria-hidden elements are not focusable nor contain focusable elements",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/aria-hidden-focus?application=playwright",
+      "tags": [
+        "cat.name-role-value",
+        "wcag2a",
+        "wcag412",
+        "TTv5",
+        "TT6.a",
+        "EN-301-549",
+        "EN-9.4.1.2",
+        "RGAAv4",
+        "RGAA-10.8.1"
+      ],
+      "wcag": [
+        "4.1.2"
+      ],
+      "nodes": 1,
+      "items": [
+        {
+          "target": "#SR7_31_1-189-44",
+          "html": "<a id=\"SR7_31_1-189-44\" class=\"sr7-layer\" href=\"https://www.myselkir...\" target=\"_self\" data-mouselistener=\"true\" aria-hidden=\"true\" style=\"transform-origin: 50...\" data-type=\"text\" data-subtype=\"button\">",
+          "impact": "serious",
+          "messages": [
+            "Focusable content should have tabindex=\"-1\" or be removed from the DOM"
+          ],
+          "box": {
+            "x": 829,
+            "y": 499,
+            "w": 417.71875,
+            "h": 72
+          }
+        }
+      ]
+    },
+    {
+      "id": "color-contrast",
+      "impact": "serious",
+      "help": "Elements must meet minimum color contrast ratio thresholds",
+      "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/color-contrast?application=playwright",
+      "tags": [
+        "cat.color",
+        "wcag2aa",
+        "wcag143",
+        "TTv5",
+        "TT13.c",
+        "EN-301-549",
+        "EN-9.1.4.3",
+        "ACT",
+        "RGAAv4",
+        "RGAA-3.2.1"
+      ],
+      "wcag": [
+        "1.4.3"
+      ],
+      "nodes": 4,
+      "items": [
+        {
+          "target": "#form_email_1",
+          "html": "<input type=\"email\" autocomplete=\"email\" class=\"mailpoet_text\" id=\"form_email_1\" name=\"data[form_field_MDc0...\" title=\"Email Address\" value=\"\" style=\"width: 100%; box-siz...\" data-automation-id=\"form_email\" data-parsley-errors-...=\".mailpoet_error_1vs9...\" data-parsley-require...=\"true\" ...>",
+          "impact": "serious",
+          "messages": [
+            "Element has insufficient color contrast of 3.25 (foreground color: #8b8d94, background color: #fdfdfd, font size: 11.3pt (15px), font weight: normal). Expected contrast ratio of 4.5:1"
+          ],
+          "box": {
+            "x": 919,
+            "y": 908,
+            "w": 254,
+            "h": 38
+          }
+        },
+        {
+          "target": "#form_first_name_1",
+          "html": "<input type=\"text\" autocomplete=\"given-name\" class=\"mailpoet_text\" id=\"form_first_name_1\" name=\"data[form_field_Yjgy...\" title=\"First name\" value=\"\" style=\"width: 100%; box-siz...\" data-automation-id=\"form_first_name\" data-parsley-errors-...=\".mailpoet_error_4edl...\" ...>",
+          "impact": "serious",
+          "messages": [
+            "Element has insufficient color contrast of 3.25 (foreground color: #8b8d94, background color: #fdfdfd, font size: 11.3pt (15px), font weight: normal). Expected contrast ratio of 4.5:1"
+          ],
+          "box": {
+            "x": 919,
+            "y": 984,
+            "w": 254,
+            "h": 38
+          }
+        },
+        {
+          "target": "#form_last_name_1",
+          "html": "<input type=\"text\" autocomplete=\"family-name\" class=\"mailpoet_text\" id=\"form_last_name_1\" name=\"data[form_field_ZTQ1...\" title=\"Last name\" value=\"\" style=\"width: 100%; box-siz...\" data-automation-id=\"form_last_name\" data-parsley-errors-...=\".mailpoet_error_5snw...\" ...>",
+          "impact": "serious",
+          "messages": [
+            "Element has insufficient color contrast of 3.25 (foreground color: #8b8d94, background color: #fdfdfd, font size: 11.3pt (15px), font weight: normal). Expected contrast ratio of 4.5:1"
+          ],
+          "box": {
+            "x": 919,
+            "y": 1060,
+            "w": 254,
+            "h": 38
+          }
+        },
+        {
+          "target": ".mailpoet_submit",
+          "html": "<input type=\"submit\" class=\"mailpoet_submit\" value=\"Stay in the know!\" data-automation-id=\"subscribe-submit-but...\" data-font-family=\"Montserrat\" style=\"width: 100%; box-siz...\">",
+          "impact": "serious",
+          "messages": [
+            "Element has insufficient color contrast of 3.13 (foreground color: #ffffff, background color: #6490e8, font size: 11.3pt (15px), font weight: bold). Expected contrast ratio of 4.5:1"
+          ],
+          "box": {
+            "x": 919,
+            "y": 1210,
+            "w": 254,
+            "h": 52.5
+          }
+        }
+      ]
+    },
+    {
+      "id": "meta-viewport",
+      "impact": "moderate",
+      "help": "Zooming and scaling must not be disabled",
+      "description": "Ensure <meta name=\"viewport\"> does not disable text scaling and zooming",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/meta-viewport?application=playwright",
+      "tags": [
+        "cat.sensory-and-visual-cues",
+        "wcag2aa",
+        "wcag144",
+        "EN-301-549",
+        "EN-9.1.4.4",
+        "ACT",
+        "RGAAv4",
+        "RGAA-10.4.2"
+      ],
+      "wcag": [
+        "1.4.4"
+      ],
+      "nodes": 1,
+      "items": [
+        {
+          "target": "meta[name=\"viewport\"]",
+          "html": "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0\">",
+          "impact": "moderate",
+          "messages": [
+            "user-scalable on <meta> tag disables zooming on mobile devices"
+          ],
+          "box": {
+            "x": 0,
+            "y": 0,
+            "w": 0,
+            "h": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "target-size",
+      "impact": "serious",
+      "help": "All touch targets must be 24px large, or leave sufficient space",
+      "description": "Ensure touch targets have sufficient size and space",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/target-size?application=playwright",
+      "tags": [
+        "cat.sensory-and-visual-cues",
+        "wcag22aa",
+        "wcag258"
+      ],
+      "wcag": [
+        "2.5.8"
+      ],
+      "nodes": 1,
+      "items": [
+        {
+          "target": ".right-widgets > .mini-search.animate-search-width.custom-icon > .searchform.mini-widget-searchform[method=\"get\"] > .search-icon[href=\"\"][aria-label=\"Search\"]",
+          "html": "<a href=\"\" class=\"search-icon\" aria-label=\"Search\"><i class=\"the7-mw-icon-search-bold\" aria-hidden=\"true\"></i></a>",
+          "impact": "serious",
+          "messages": [
+            "Target has insufficient size (16px by 36px, should be at least 24px by 24px)",
+            "Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 16px instead of at least 24px."
+          ],
+          "box": {
+            "x": 1013.90625,
+            "y": 5,
+            "w": 16,
+            "h": 36
+          }
+        }
+      ]
+    }
+  ],
+  "verdict": "FAILURES DETECTED"
+}

@@ -1,0 +1,13 @@
+# The six that returned zero in the baseline run
+https://www.hydro.mb.ca/
+https://www.wcb.mb.ca/
+https://wrha.mb.ca/
+https://umanitoba.ca/
+https://www.rrc.ca/
+https://assiniboine.net/
+# The three that failed, with two URLs corrected
+https://www.sjasd.ca/
+https://www.cancercare.mb.ca/
+# Controls: sites that DID report failures, to check the method behaves
+https://www.cityofwinkler.ca/
+https://www.winnipeg.ca/

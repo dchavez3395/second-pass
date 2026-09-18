@@ -1,0 +1,849 @@
+{
+  "url": "https://www.dauphin.ca/",
+  "ok": true,
+  "status": 200,
+  "title": "City of Dauphin - Home",
+  "finalUrl": "https://www.dauphin.ca/",
+  "shape": {
+    "elements": 1316,
+    "images": 8,
+    "links": 247,
+    "buttons": 64,
+    "inputs": 4,
+    "headings": 53,
+    "textLength": 2228,
+    "lang": "en",
+    "iframes": 3
+  },
+  "viewport": {
+    "width": 1366,
+    "height": 900
+  },
+  "scannedAt": "2026-09-18T04:53:49.126Z",
+  "axe": {
+    "violationRules": 5,
+    "violationNodes": 13,
+    "passRules": 29,
+    "passNodes": 474,
+    "incompleteRules": 1,
+    "incompleteNodes": 34,
+    "inapplicableRules": 31,
+    "testedNodes": 521
+  },
+  "incomplete": [
+    {
+      "id": "color-contrast",
+      "impact": "serious",
+      "help": "Elements must meet minimum color contrast ratio thresholds",
+      "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/color-contrast?application=playwright",
+      "tags": [
+        "cat.color",
+        "wcag2aa",
+        "wcag143",
+        "TTv5",
+        "TT13.c",
+        "EN-301-549",
+        "EN-9.1.4.3",
+        "ACT",
+        "RGAAv4",
+        "RGAA-3.2.1"
+      ],
+      "wcag": [
+        "1.4.3"
+      ],
+      "why": "Element's background color could not be determined due to a background image",
+      "nodes": 34,
+      "sample": [
+        {
+          "target": ".container > .qlContainer > a[href$=\"form-directory\"] > span",
+          "html": "<span>Form Directory</span>"
+        },
+        {
+          "target": ".container > .qlContainer > a[href$=\"city-contacts-\"] > span",
+          "html": "<span>City Contacts</span>"
+        },
+        {
+          "target": ".container > .qlContainer > a[href$=\"service-requests\"] > span",
+          "html": "<span>City Inquiries</span>"
+        }
+      ],
+      "items": [
+        {
+          "target": ".container > .qlContainer > a[href$=\"form-directory\"] > span",
+          "html": "<span>Form Directory</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 142.875,
+            "y": 855.390625,
+            "w": 137.71875,
+            "h": 19
+          }
+        },
+        {
+          "target": ".container > .qlContainer > a[href$=\"city-contacts-\"] > span",
+          "html": "<span>City Contacts</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 349.78125,
+            "y": 855.390625,
+            "w": 121.5,
+            "h": 19
+          }
+        },
+        {
+          "target": ".container > .qlContainer > a[href$=\"service-requests\"] > span",
+          "html": "<span>City Inquiries</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 540.484375,
+            "y": 855.390625,
+            "w": 119.5625,
+            "h": 19
+          }
+        },
+        {
+          "target": ".container > .qlContainer > a[href$=\"minutes\"] > span",
+          "html": "<span>Council Meetings</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 731.03125,
+            "y": 855.390625,
+            "w": 155.046875,
+            "h": 19
+          }
+        },
+        {
+          "target": ".container > .qlContainer > a[href$=\"bylaws\"] > span",
+          "html": "<span>Bylaws</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 953.484375,
+            "y": 855.390625,
+            "w": 62.890625,
+            "h": 19
+          }
+        },
+        {
+          "target": ".container > .qlContainer > a[href$=\"recycling-waste\"] > span",
+          "html": "<span>Waste &amp; Recycling</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 1089.15625,
+            "y": 855.390625,
+            "w": 160.3125,
+            "h": 19
+          }
+        },
+        {
+          "target": "#\\#imageCaption1 > h2",
+          "html": "<h2>Welcome to the</h2>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 112,
+            "y": 360,
+            "w": 1033.109375,
+            "h": 33
+          }
+        },
+        {
+          "target": "#\\#imageCaption1 > p",
+          "html": "<p>City of Dauphin</p>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 112,
+            "y": 393,
+            "w": 1033.109375,
+            "h": 71
+          }
+        },
+        {
+          "target": "#recentNewsCont > h3",
+          "html": "<h3><span>Stay Informed</span>Latest Notices</h3>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 111,
+            "y": 932,
+            "w": 557,
+            "h": 90.8125
+          }
+        },
+        {
+          "target": "#recentNewsCont > h3 > span",
+          "html": "<span>Stay Informed</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 111,
+            "y": 932,
+            "w": 557,
+            "h": 37.40625
+          }
+        },
+        {
+          "target": ".iconPost[data-target=\"#latestNews\"][href=\"#\"]:nth-child(1) > time[datetime=\"September 15, 2026\"]",
+          "html": "<time datetime=\"September 15, 2026\">September 15, 2026</time>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 175,
+            "y": 1022.8125,
+            "w": 461,
+            "h": 19
+          }
+        },
+        {
+          "target": ".iconPost[data-target=\"#latestNews\"][href=\"#\"]:nth-child(1) > h4",
+          "html": "<h4>Downtown Safety Patrol Pilot Continues with New Service Provider</h4>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 175,
+            "y": 1041.8125,
+            "w": 461,
+            "h": 21.125
+          }
+        },
+        {
+          "target": ".iconPost[data-target=\"#latestNews\"][href=\"#\"]:nth-child(2) > time[datetime=\"September 15, 2026\"]",
+          "html": "<time datetime=\"September 15, 2026\">September 15, 2026</time>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 175,
+            "y": 1111.9375,
+            "w": 461,
+            "h": 19
+          }
+        },
+        {
+          "target": ".iconPost[data-target=\"#latestNews\"][href=\"#\"]:nth-child(2) > h4",
+          "html": "<h4>Road Closure - September 15, 2026</h4>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 175,
+            "y": 1130.9375,
+            "w": 461,
+            "h": 21.125
+          }
+        },
+        {
+          "target": "time[datetime=\"September 14, 2026\"]",
+          "html": "<time datetime=\"September 14, 2026\">September 14, 2026</time>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 175,
+            "y": 1201.0625,
+            "w": 461,
+            "h": 19
+          }
+        },
+        {
+          "target": ".iconPost[data-target=\"#latestNews\"][href=\"#\"]:nth-child(3) > h4",
+          "html": "<h4>Street Fair Road Closure - September 18, 2026 </h4>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 175,
+            "y": 1220.0625,
+            "w": 461,
+            "h": 21.125
+          }
+        },
+        {
+          "target": "time[datetime=\"September 04, 2026\"]",
+          "html": "<time datetime=\"September 04, 2026\">September 04, 2026</time>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 175,
+            "y": 1290.1875,
+            "w": 461,
+            "h": 19
+          }
+        },
+        {
+          "target": ".iconPost[data-target=\"#latestNews\"][href=\"#\"]:nth-child(4) > h4",
+          "html": "<h4>Temporary Parking Changes at the Dauphin Regional Health Centre</h4>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 175,
+            "y": 1309.1875,
+            "w": 461,
+            "h": 21.125
+          }
+        },
+        {
+          "target": "a[title=\"Click here to view all news\"]",
+          "html": "<a href=\"/p/local-notices\" title=\"Click here to view all news\">View All Notices</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 483.890625,
+            "y": 1377.3125,
+            "w": 183.109375,
+            "h": 25
+          }
+        },
+        {
+          "target": "#upcomingEventsCont > h3",
+          "html": "<h3><span>What's Happening</span>City Calendar</h3>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 698,
+            "y": 932,
+            "w": 557,
+            "h": 90.8125
+          }
+        },
+        {
+          "target": "#upcomingEventsCont > h3 > span",
+          "html": "<span>What's Happening</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 698,
+            "y": 932,
+            "w": 557,
+            "h": 37.40625
+          }
+        },
+        {
+          "target": "a[href$=\"upcoming-events\"]",
+          "html": "<a href=\"/p/upcoming-events\" title=\"Click here to view calendar\">View all Events</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 1080.609375,
+            "y": 1377.3125,
+            "w": 173.390625,
+            "h": 25
+          }
+        },
+        {
+          "target": ".council-header > h2",
+          "html": "<h2><span>City Of Dauphin</span>Council Meetings</h2>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 96,
+            "y": 1482.3125,
+            "w": 1014,
+            "h": 82.8125
+          }
+        },
+        {
+          "target": ".council-header > h2 > span",
+          "html": "<span>City Of Dauphin</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 96,
+            "y": 1482.3125,
+            "w": 1014,
+            "h": 37.40625
+          }
+        },
+        {
+          "target": ".council-header > .btnHomeCouncilMeetings[href$=\"upcoming-council-events\"]",
+          "html": "<a class=\"btnHomeCouncilMeetings\" href=\"/p/upcoming-council-events\" title=\"Click here to view all council Meetings\">View All Council Meetings</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 990.328125,
+            "y": 1533.125,
+            "w": 279.671875,
+            "h": 25
+          }
+        },
+        {
+          "target": "#highlightContainer > h2",
+          "html": "<h2><span>Stay Informed</span>Discover Dauphin</h2>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 0,
+            "y": 1750.40625,
+            "w": 1366,
+            "h": 90.8125
+          }
+        },
+        {
+          "target": "#highlightContainer > h2 > span",
+          "html": "<span>Stay Informed</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 0,
+            "y": 1750.40625,
+            "w": 1366,
+            "h": 37.40625
+          }
+        },
+        {
+          "target": "a[href$=\"tourismdauphin.ca\"] > .highlight-inner.cf > .hl-content > .hl-content-inner > h5",
+          "html": "<h5 class=\"card-title\">Tourism Dauphin</h5>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 389.5,
+            "y": 2021.03125,
+            "w": 278.5,
+            "h": 36.40625
+          }
+        },
+        {
+          "target": "a[href$=\"tourismdauphin.ca\"] > .highlight-inner.cf > .hl-content > .hl-content-inner > .card-text",
+          "html": "<p class=\"card-text\">Click here to visit the Tourism Dauphin website and start planning your next adventure! </p>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 389.5,
+            "y": 2057.4375,
+            "w": 278.5,
+            "h": 61.171875
+          }
+        },
+        {
+          "target": "a[href$=\"tourismdauphin.ca\"] > .highlight-inner.cf > .hl-content > .hl-content-inner > span",
+          "html": "<span>Explore <i class=\"far fa-arrow-right\" aria-hidden=\"true\"></i></span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 389.5,
+            "y": 2134.609375,
+            "w": 278.5,
+            "h": 22.796875
+          }
+        },
+        {
+          "target": ".hl-body[href$=\"economic-development\"] > .highlight-inner.cf > .hl-content > .hl-content-inner > h5",
+          "html": "<h5 class=\"card-title\">Economic Development</h5>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 976.5,
+            "y": 2021.03125,
+            "w": 278.5,
+            "h": 36.40625
+          }
+        },
+        {
+          "target": ".hl-body[href$=\"economic-development\"] > .highlight-inner.cf > .hl-content > .hl-content-inner > .card-text",
+          "html": "<p class=\"card-text\">Click here to find local information to help propel your business into making smarter, faster &amp; better decisions.</p>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 976.5,
+            "y": 2057.4375,
+            "w": 278.5,
+            "h": 61.171875
+          }
+        },
+        {
+          "target": ".hl-body[href$=\"economic-development\"] > .highlight-inner.cf > .hl-content > .hl-content-inner > span",
+          "html": "<span>Explore <i class=\"far fa-arrow-right\" aria-hidden=\"true\"></i></span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 976.5,
+            "y": 2134.609375,
+            "w": 278.5,
+            "h": 22.796875
+          }
+        },
+        {
+          "target": "a[href$=\"all-net.ca\"]",
+          "html": "<a href=\"http://all-net.ca\" title=\"Developed and maintained by All-Net Municipal Solutions\" target=\"_blank\">Website By: <span class=\"allnet-logo\"></span></a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 1086.421875,
+            "y": 2535.390625,
+            "w": 168.578125,
+            "h": 18
+          }
+        }
+      ]
+    }
+  ],
+  "violations": [
+    {
+      "id": "aria-input-field-name",
+      "impact": "serious",
+      "help": "ARIA input fields must have an accessible name",
+      "description": "Ensure every ARIA input field has an accessible name",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/aria-input-field-name?application=playwright",
+      "tags": [
+        "cat.aria",
+        "wcag2a",
+        "wcag412",
+        "TTv5",
+        "TT5.c",
+        "EN-301-549",
+        "EN-9.4.1.2",
+        "ACT",
+        "RGAAv4",
+        "RGAA-11.1.1"
+      ],
+      "wcag": [
+        "4.1.2"
+      ],
+      "nodes": 1,
+      "items": [
+        {
+          "target": ".carousel-inner",
+          "html": "<div class=\"carousel-inner fullHeight\" role=\"listbox\" style=\"height: 900px;\">",
+          "impact": "serious",
+          "messages": [
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute"
+          ],
+          "box": {
+            "x": 0,
+            "y": 0,
+            "w": 1366,
+            "h": 900
+          }
+        }
+      ]
+    },
+    {
+      "id": "aria-required-children",
+      "impact": "critical",
+      "help": "Certain ARIA roles must contain particular children",
+      "description": "Ensure elements with an ARIA role that require child roles contain them",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/aria-required-children?application=playwright",
+      "tags": [
+        "cat.aria",
+        "wcag2a",
+        "wcag131",
+        "EN-301-549",
+        "EN-9.1.3.1",
+        "RGAAv4",
+        "RGAA-9.3.1"
+      ],
+      "wcag": [
+        "1.3.1"
+      ],
+      "nodes": 1,
+      "items": [
+        {
+          "target": ".carousel-inner",
+          "html": "<div class=\"carousel-inner fullHeight\" role=\"listbox\" style=\"height: 900px;\">",
+          "impact": "critical",
+          "messages": [
+            "Element has children which are not allowed: figure"
+          ],
+          "box": {
+            "x": 0,
+            "y": 0,
+            "w": 1366,
+            "h": 900
+          }
+        }
+      ]
+    },
+    {
+      "id": "aria-required-parent",
+      "impact": "critical",
+      "help": "Certain ARIA roles must be contained by particular parents",
+      "description": "Ensure elements with an ARIA role that require parent roles are contained by them",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/aria-required-parent?application=playwright",
+      "tags": [
+        "cat.aria",
+        "wcag2a",
+        "wcag131",
+        "EN-301-549",
+        "EN-9.1.3.1",
+        "RGAAv4",
+        "RGAA-9.3.1"
+      ],
+      "wcag": [
+        "1.3.1"
+      ],
+      "nodes": 6,
+      "items": [
+        {
+          "target": "#\\#categoryNavID0",
+          "html": "<a href=\"/p/services\" title=\"Click to view Services\" class=\"menuonehovercolor \" id=\"#categoryNavID0\" role=\"menuitem\" aria-haspopup=\"true\" aria-owns=\"subMainMenu0\" style=\"cursor: default;\">\n\t\t\t\t\t<span>Services</span> \n\t\t\t</a>",
+          "impact": "critical",
+          "messages": [
+            "Required ARIA parents role not present: menu, menubar, group"
+          ],
+          "box": {
+            "x": 0,
+            "y": 60,
+            "w": 197.671875,
+            "h": 84
+          }
+        },
+        {
+          "target": "#\\#categoryNavID1",
+          "html": "<a href=\"/p/government\" title=\"Click to view Government \" class=\"menuonehovercolor \" id=\"#categoryNavID1\" role=\"menuitem\" aria-haspopup=\"true\" aria-owns=\"subMainMenu1\" style=\"cursor: default;\">\n\t\t\t\t\t<span>Government </span> \n\t\t\t</a>",
+          "impact": "critical",
+          "messages": [
+            "Required ARIA parents role not present: menu, menubar, group"
+          ],
+          "box": {
+            "x": 197.671875,
+            "y": 60,
+            "w": 197.65625,
+            "h": 84
+          }
+        },
+        {
+          "target": "#\\#categoryNavID2",
+          "html": "<a href=\"/p/business\" title=\"Click to view Business\" class=\"menuonehovercolor \" id=\"#categoryNavID2\" role=\"menuitem\" aria-haspopup=\"true\" aria-owns=\"subMainMenu2\" style=\"cursor: default;\">\n\t\t\t\t\t<span>Business</span> \n\t\t\t</a>",
+          "impact": "critical",
+          "messages": [
+            "Required ARIA parents role not present: menu, menubar, group"
+          ],
+          "box": {
+            "x": 395.328125,
+            "y": 60,
+            "w": 197.671875,
+            "h": 84
+          }
+        },
+        {
+          "target": "a[title=\"Welcome to City of Dauphin\"][href=\"/\"][role=\"menuitem\"]",
+          "html": "<a href=\"/\" title=\"Welcome to City of Dauphin\" role=\"menuitem\">City of Dauphin</a>",
+          "impact": "critical",
+          "messages": [
+            "Required ARIA parents role not present: menu, menubar, group"
+          ],
+          "box": {
+            "x": 625.5,
+            "y": 24,
+            "w": 115,
+            "h": 104
+          }
+        },
+        {
+          "target": "#\\#categoryNavID3",
+          "html": "<a href=\"/p/community\" title=\"Click to view Community\" class=\"menuonehovercolor \" id=\"#categoryNavID3\" role=\"menuitem\" aria-haspopup=\"true\" aria-owns=\"subMainMenu3\" style=\"cursor: default;\">\n\t\t\t\t\t<span>Community</span> </a>",
+          "impact": "critical",
+          "messages": [
+            "Required ARIA parents role not present: menu, menubar, group"
+          ],
+          "box": {
+            "x": 773,
+            "y": 60,
+            "w": 197.65625,
+            "h": 84
+          }
+        },
+        {
+          "target": "#\\#categoryNavID4",
+          "html": "<a href=\"https://www.tourismdauphin.ca/\" target=\"_blank\" title=\"Click to view Discover Dauphin\" class=\"menuonehovercolor home\" id=\"#categoryNavID4\" role=\"menuitem\"> \n\t\t  <span>Discover Dauphin</span> </a>",
+          "impact": "critical",
+          "messages": [
+            "Required ARIA parents role not present: menu, menubar, group"
+          ],
+          "box": {
+            "x": 970.65625,
+            "y": 60,
+            "w": 197.671875,
+            "h": 84
+          }
+        }
+      ]
+    },
+    {
+      "id": "color-contrast",
+      "impact": "serious",
+      "help": "Elements must meet minimum color contrast ratio thresholds",
+      "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/color-contrast?application=playwright",
+      "tags": [
+        "cat.color",
+        "wcag2aa",
+        "wcag143",
+        "TTv5",
+        "TT13.c",
+        "EN-301-549",
+        "EN-9.1.4.3",
+        "ACT",
+        "RGAAv4",
+        "RGAA-3.2.1"
+      ],
+      "wcag": [
+        "1.4.3"
+      ],
+      "nodes": 1,
+      "items": [
+        {
+          "target": "#weatherwidget-io-0 .currentDesc",
+          "html": "<div class=\"currentDesc ng-binding\">clear sky</div>",
+          "impact": "serious",
+          "messages": [
+            "Element has insufficient color contrast of 1.29 (foreground color: #ffffff, background color: #e2e2e2, font size: 9.2pt (12.32px), font weight: normal). Expected contrast ratio of 4.5:1"
+          ],
+          "box": null
+        }
+      ]
+    },
+    {
+      "id": "target-size",
+      "impact": "serious",
+      "help": "All touch targets must be 24px large, or leave sufficient space",
+      "description": "Ensure touch targets have sufficient size and space",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/target-size?application=playwright",
+      "tags": [
+        "cat.sensory-and-visual-cues",
+        "wcag22aa",
+        "wcag258"
+      ],
+      "wcag": [
+        "2.5.8"
+      ],
+      "nodes": 4,
+      "items": [
+        {
+          "target": "#socialMedia",
+          "html": "<a id=\"socialMedia\" href=\"https://www.facebook.com/CityofDauphin/\" class=\"facebook\" title=\"Join us in our Facebook page\" target=\"_blank\"><span class=\"hideMe\">Facebook</span></a>",
+          "impact": "serious",
+          "messages": [
+            "Target has insufficient size (12.8px by 20.5px, should be at least 24px by 24px)",
+            "Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 10px instead of at least 24px."
+          ],
+          "box": {
+            "x": 988.421875,
+            "y": 19,
+            "w": 12.796875,
+            "h": 20.484375
+          }
+        },
+        {
+          "target": ".instagram",
+          "html": "<a href=\"https://www.instagram.com/cityofdauphin/\" class=\"instagram\" title=\"Join us in our Instagram page\" target=\"_blank\"><span class=\"hideMe\">Instagram</span></a>",
+          "impact": "serious",
+          "messages": [
+            "Target has insufficient size (12.8px by 20.5px, should be at least 24px by 24px)",
+            "Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 10px instead of at least 24px."
+          ],
+          "box": {
+            "x": 1005.375,
+            "y": 19,
+            "w": 12.796875,
+            "h": 20.484375
+          }
+        },
+        {
+          "target": ".youtube",
+          "html": "<a href=\"https://www.youtube.com/channel/UC0sbR6mgwddHtyQ_MISgedQ\" class=\"youtube\" title=\"Watch our community videos on our Youtube page\" target=\"_blank\"><span class=\"hideMe\">Youtube</span></a>",
+          "impact": "serious",
+          "messages": [
+            "Target has insufficient size (12.8px by 20.5px, should be at least 24px by 24px)",
+            "Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 10px instead of at least 24px."
+          ],
+          "box": {
+            "x": 1022.328125,
+            "y": 19,
+            "w": 12.796875,
+            "h": 20.484375
+          }
+        },
+        {
+          "target": "button[type=\"submit\"]",
+          "html": "<button type=\"submit\">\n\t\t\t\t\t<i aria-hidden=\"true\" class=\"fas fa-search\" title=\"Click here to search contents in our website\"></i>\n\t\t\t\t\t<span class=\"sr-only\">Type here to search contents in our website</span>\n\t\t\t\t\t<span class=\"hideMe\">Search Here</span>\n\t\t\t\t</button>",
+          "impact": "serious",
+          "messages": [
+            "Target has insufficient size (16px by 47.2px, should be at least 24px by 24px)",
+            "Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 16px instead of at least 24px."
+          ],
+          "box": {
+            "x": 1318,
+            "y": 6.59375,
+            "w": 16,
+            "h": 47.1875
+          }
+        }
+      ]
+    }
+  ],
+  "verdict": "FAILURES DETECTED"
+}

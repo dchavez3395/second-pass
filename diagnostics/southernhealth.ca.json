@@ -1,0 +1,747 @@
+{
+  "url": "https://southernhealth.ca/",
+  "ok": true,
+  "status": 200,
+  "title": "Southern Health-Santé Sud - Southern Health-Santé Sud",
+  "finalUrl": "https://southernhealth.ca/",
+  "shape": {
+    "elements": 1513,
+    "images": 98,
+    "links": 93,
+    "buttons": 75,
+    "inputs": 12,
+    "headings": 6,
+    "textLength": 2980,
+    "lang": "en-CA",
+    "iframes": 1
+  },
+  "viewport": {
+    "width": 1366,
+    "height": 900
+  },
+  "scannedAt": "2026-09-18T04:56:00.277Z",
+  "axe": {
+    "violationRules": 4,
+    "violationNodes": 26,
+    "passRules": 35,
+    "passNodes": 411,
+    "incompleteRules": 1,
+    "incompleteNodes": 14,
+    "inapplicableRules": 26,
+    "testedNodes": 451
+  },
+  "incomplete": [
+    {
+      "id": "color-contrast",
+      "impact": "serious",
+      "help": "Elements must meet minimum color contrast ratio thresholds",
+      "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/color-contrast?application=playwright",
+      "tags": [
+        "cat.color",
+        "wcag2aa",
+        "wcag143",
+        "TTv5",
+        "TT13.c",
+        "EN-301-549",
+        "EN-9.1.4.3",
+        "ACT",
+        "RGAAv4",
+        "RGAA-3.2.1"
+      ],
+      "wcag": [
+        "1.4.3"
+      ],
+      "why": "Element's background color could not be determined due to a background image",
+      "nodes": 14,
+      "sample": [
+        {
+          "target": ".swp-input--search",
+          "html": "<input type=\"search\" class=\"swp-input--search swp-input\" placeholder=\"\" value=\"\" name=\"swps\" title=\"\" aria-label=\"Search\" aria-required=\"false\" style=\"\">"
+        },
+        {
+          "target": "#depicter-1-element-460",
+          "html": "<p id=\"depicter-1-element-4...\" class=\"depicter-element dep...\" data-type=\"text\" data-wrap=\"true\" data-name=\"Text 12\" data-local-id=\"element-460\" data-offset=\"x:1415px;y:250px;ori...\" data-tablet-offs"
+        },
+        {
+          "target": "div[data-pid=\"23036\"] > .pt-cv-ifield > h4 > ._self.cvplbd[target=\"_self\"]",
+          "html": "<a href=\"https://southernhealth.ca/get-an-a-for-a-packed-lunch/\" class=\"_self cvplbd\" target=\"_self\">Get an A+ for a packed lunch</a>"
+        }
+      ],
+      "items": [
+        {
+          "target": ".swp-input--search",
+          "html": "<input type=\"search\" class=\"swp-input--search swp-input\" placeholder=\"\" value=\"\" name=\"swps\" title=\"\" aria-label=\"Search\" aria-required=\"false\" style=\"\">",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 861.59375,
+            "y": 95.203125,
+            "w": 218.765625,
+            "h": 42
+          }
+        },
+        {
+          "target": "#depicter-1-element-460",
+          "html": "<p id=\"depicter-1-element-4...\" class=\"depicter-element dep...\" data-type=\"text\" data-wrap=\"true\" data-name=\"Text 12\" data-local-id=\"element-460\" data-offset=\"x:1415px;y:250px;ori...\" data-tablet-offset=\"x:623px;y:294px;orig...\" data-mobile-offset=\"x:342px;y:151px;orig...\" ...>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it partially overlaps other elements"
+          ],
+          "box": {
+            "x": 1006.703125,
+            "y": 431.0625,
+            "w": 305.215576171875,
+            "h": 122.9266357421875
+          }
+        },
+        {
+          "target": "div[data-pid=\"23036\"] > .pt-cv-ifield > h4 > ._self.cvplbd[target=\"_self\"]",
+          "html": "<a href=\"https://southernhealth.ca/get-an-a-for-a-packed-lunch/\" class=\"_self cvplbd\" target=\"_self\">Get an A+ for a packed lunch</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it is overlapped by another element"
+          ],
+          "box": {
+            "x": 196,
+            "y": 949.203125,
+            "w": 232.6875,
+            "h": 22
+          }
+        },
+        {
+          "target": "time[datetime=\"2026-09-10T16:13:54-05:00\"]",
+          "html": "<time datetime=\"2026-09-10T16:13:54-05:00\">September 10, 2026</time>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it is overlapped by another element"
+          ],
+          "box": {
+            "x": 196,
+            "y": 986,
+            "w": 114.234375,
+            "h": 15
+          }
+        },
+        {
+          "target": "div[data-pid=\"23036\"] > .pt-cv-ifield > .pt-cv-content",
+          "html": "<div class=\"pt-cv-content\">Sports/hydration drinks are being heavily marketed to kids but can be harmful to their health ... <a href=\"https://southernhealth.ca/get-an-a-for-a-packed-lunch/\" class=\"_self pt-cv-readmore pt-cv-textlink cvplbd\" target=\"_self\">Read More</a></div>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it is overlapped by another element"
+          ],
+          "box": {
+            "x": 196,
+            "y": 1017,
+            "w": 452,
+            "h": 64
+          }
+        },
+        {
+          "target": "div[data-pid=\"23036\"] > .pt-cv-ifield > .pt-cv-content > .pt-cv-readmore.pt-cv-textlink._self",
+          "html": "<a href=\"https://southernhealth.ca/get-an-a-for-a-packed-lunch/\" class=\"_self pt-cv-readmore pt-cv-textlink cvplbd\" target=\"_self\">Read More</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it is overlapped by another element"
+          ],
+          "box": {
+            "x": 462.921875,
+            "y": 1055,
+            "w": 77.0625,
+            "h": 19
+          }
+        },
+        {
+          "target": "div[data-pid=\"23110\"] > .pt-cv-ifield > h4 > ._self.cvplbd[target=\"_self\"]",
+          "html": "<a href=\"https://southernhealth.ca/dynacare-labour-disruption-update-manitobas-health-system-response/\" class=\"_self cvplbd\" target=\"_self\">Dynacare Labour Disruption Update:  Manitoba’s Health System Response</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it is overlapped by another element"
+          ],
+          "box": {
+            "x": 196,
+            "y": 1104,
+            "w": 449.34375,
+            "h": 41.796875
+          }
+        },
+        {
+          "target": "time[datetime=\"2026-09-04T15:17:48-05:00\"]",
+          "html": "<time datetime=\"2026-09-04T15:17:48-05:00\">September 4, 2026</time>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it is overlapped by another element"
+          ],
+          "box": {
+            "x": 196,
+            "y": 1160.59375,
+            "w": 108.265625,
+            "h": 15
+          }
+        },
+        {
+          "target": "div[data-pid=\"23110\"] > .pt-cv-ifield > .pt-cv-content",
+          "html": "<div class=\"pt-cv-content\">",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it is overlapped by another element"
+          ],
+          "box": {
+            "x": 196,
+            "y": 1191.59375,
+            "w": 452,
+            "h": 160
+          }
+        },
+        {
+          "target": "div[data-pid=\"23110\"] > .pt-cv-ifield > .pt-cv-content > .pt-cv-readmore.pt-cv-textlink._self",
+          "html": "<a href=\"https://southernhealth.ca/dynacare-labour-disruption-update-manitobas-health-system-response/\" class=\"_self pt-cv-readmore pt-cv-textlink cvplbd\" target=\"_self\">Read More</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it is overlapped by another element"
+          ],
+          "box": {
+            "x": 196,
+            "y": 1293.59375,
+            "w": 444.828125,
+            "h": 51
+          }
+        },
+        {
+          "target": "div[data-pid=\"23101\"] > .pt-cv-ifield > h4 > ._self.cvplbd[target=\"_self\"]",
+          "html": "<a href=\"https://southernhealth.ca/canadian-breast-cancer-network-upcoming-webinars/\" class=\"_self cvplbd\" target=\"_self\">Canadian Breast Cancer Network | Upcoming Webinars</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it is overlapped by another element"
+          ],
+          "box": {
+            "x": 196,
+            "y": 1374.59375,
+            "w": 445.65625,
+            "h": 22
+          }
+        },
+        {
+          "target": "time[datetime=\"2026-09-04T14:20:03-05:00\"]",
+          "html": "<time datetime=\"2026-09-04T14:20:03-05:00\">September 4, 2026</time>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it is overlapped by another element"
+          ],
+          "box": {
+            "x": 196,
+            "y": 1411.390625,
+            "w": 108.265625,
+            "h": 15
+          }
+        },
+        {
+          "target": "div[data-pid=\"23101\"] > .pt-cv-ifield > .pt-cv-content",
+          "html": "<div class=\"pt-cv-content\">",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it is overlapped by another element"
+          ],
+          "box": {
+            "x": 196,
+            "y": 1442.390625,
+            "w": 452,
+            "h": 128
+          }
+        },
+        {
+          "target": "div[data-pid=\"23101\"] > .pt-cv-ifield > .pt-cv-content > .pt-cv-readmore.pt-cv-textlink._self",
+          "html": "<a href=\"https://southernhealth.ca/canadian-breast-cancer-network-upcoming-webinars/\" class=\"_self pt-cv-readmore pt-cv-textlink cvplbd\" target=\"_self\">Read More</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it is overlapped by another element"
+          ],
+          "box": {
+            "x": 328.421875,
+            "y": 1544.390625,
+            "w": 77.0625,
+            "h": 19
+          }
+        }
+      ]
+    }
+  ],
+  "violations": [
+    {
+      "id": "aria-progressbar-name",
+      "impact": "serious",
+      "help": "ARIA progressbar nodes must have an accessible name",
+      "description": "Ensure every ARIA progressbar node has an accessible name",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/aria-progressbar-name?application=playwright",
+      "tags": [
+        "cat.aria",
+        "wcag2a",
+        "wcag111",
+        "EN-301-549",
+        "EN-9.1.1.1",
+        "RGAAv4",
+        "RGAA-11.1.1"
+      ],
+      "wcag": [
+        "1.1.1"
+      ],
+      "nodes": 1,
+      "items": [
+        {
+          "target": "iframe ._55yn",
+          "html": "<span class=\"img _55ym _55yn _55yo\" aria-busy=\"true\" role=\"progressbar\" aria-valuemin=\"0\" aria-valuemax=\"100\" aria-valuetext=\"Loading...\"></span>",
+          "impact": "serious",
+          "messages": [
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute"
+          ],
+          "box": null
+        }
+      ]
+    },
+    {
+      "id": "aria-required-children",
+      "impact": "critical",
+      "help": "Certain ARIA roles must contain particular children",
+      "description": "Ensure elements with an ARIA role that require child roles contain them",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/aria-required-children?application=playwright",
+      "tags": [
+        "cat.aria",
+        "wcag2a",
+        "wcag131",
+        "EN-301-549",
+        "EN-9.1.3.1",
+        "RGAAv4",
+        "RGAA-9.3.1"
+      ],
+      "wcag": [
+        "1.3.1"
+      ],
+      "nodes": 1,
+      "items": [
+        {
+          "target": "iframe div[role=\"feed\"]",
+          "html": "<div role=\"feed\">",
+          "impact": "critical",
+          "messages": [
+            "Element has children which are not allowed: table, a, img, [role=button]"
+          ],
+          "box": null
+        }
+      ]
+    },
+    {
+      "id": "color-contrast",
+      "impact": "serious",
+      "help": "Elements must meet minimum color contrast ratio thresholds",
+      "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/color-contrast?application=playwright",
+      "tags": [
+        "cat.color",
+        "wcag2aa",
+        "wcag143",
+        "TTv5",
+        "TT13.c",
+        "EN-301-549",
+        "EN-9.1.4.3",
+        "ACT",
+        "RGAAv4",
+        "RGAA-3.2.1"
+      ],
+      "wcag": [
+        "1.4.3"
+      ],
+      "nodes": 7,
+      "items": [
+        {
+          "target": ".search-submit",
+          "html": "<input type=\"submit\" class=\"search-submit swp-button\" value=\"Search\" aria-label=\"Search\" style=\"\">",
+          "impact": "serious",
+          "messages": [
+            "Element has insufficient color contrast of 2.35 (foreground color: #ffffff, background color: #71b2c9, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio of 4.5:1"
+          ],
+          "box": {
+            "x": 1087.359375,
+            "y": 95.203125,
+            "w": 82.625,
+            "h": 42
+          }
+        },
+        {
+          "target": ".g-menu-item-4400 > .g-menu-item-container > .g-menu-item-content > .g-menu-item-title",
+          "html": "<span class=\"g-menu-item-title\">Find Us</span>",
+          "impact": "serious",
+          "messages": [
+            "Element has insufficient color contrast of 2.35 (foreground color: #ffffff, background color: #71b2c9, font size: 11.4pt (15.2px), font weight: normal). Expected contrast ratio of 4.5:1"
+          ],
+          "box": {
+            "x": 256.21875,
+            "y": 222.203125,
+            "w": 50.328125,
+            "h": 18
+          }
+        },
+        {
+          "target": ".g-menu-item-4699 > .g-menu-item-container > .g-menu-item-content > .g-menu-item-title",
+          "html": "<span class=\"g-menu-item-title\">Health Topics</span>",
+          "impact": "serious",
+          "messages": [
+            "Element has insufficient color contrast of 2.35 (foreground color: #ffffff, background color: #71b2c9, font size: 11.4pt (15.2px), font weight: normal). Expected contrast ratio of 4.5:1"
+          ],
+          "box": {
+            "x": 391.5,
+            "y": 222.203125,
+            "w": 93.046875,
+            "h": 18
+          }
+        },
+        {
+          "target": ".g-menu-item-4698 > .g-menu-item-container > .g-menu-item-content > .g-menu-item-title",
+          "html": "<span class=\"g-menu-item-title\">Info | Patient &amp; Public</span>",
+          "impact": "serious",
+          "messages": [
+            "Element has insufficient color contrast of 2.35 (foreground color: #ffffff, background color: #71b2c9, font size: 11.4pt (15.2px), font weight: normal). Expected contrast ratio of 4.5:1"
+          ],
+          "box": {
+            "x": 528.90625,
+            "y": 203.203125,
+            "w": 151.546875,
+            "h": 18
+          }
+        },
+        {
+          "target": ".g-menu-item-598 > .g-menu-item-container > .g-menu-item-content > .g-menu-item-title",
+          "html": "<span class=\"g-menu-item-title\">Careers</span>",
+          "impact": "serious",
+          "messages": [
+            "Element has insufficient color contrast of 2.35 (foreground color: #ffffff, background color: #71b2c9, font size: 11.4pt (15.2px), font weight: normal). Expected contrast ratio of 4.5:1"
+          ],
+          "box": {
+            "x": 725.625,
+            "y": 222.203125,
+            "w": 51.359375,
+            "h": 18
+          }
+        },
+        {
+          "target": ".g-menu-item-2400 > .g-menu-item-container > .g-menu-item-content > .g-menu-item-title",
+          "html": "<span class=\"g-menu-item-title\">About Us</span>",
+          "impact": "serious",
+          "messages": [
+            "Element has insufficient color contrast of 2.35 (foreground color: #ffffff, background color: #71b2c9, font size: 11.4pt (15.2px), font weight: normal). Expected contrast ratio of 4.5:1"
+          ],
+          "box": {
+            "x": 876.90625,
+            "y": 222.203125,
+            "w": 62.0625,
+            "h": 18
+          }
+        },
+        {
+          "target": "a[href$=\"contact-us/\"] > .g-menu-item-content > .g-menu-item-title",
+          "html": "<span class=\"g-menu-item-title\">Contact Us</span>",
+          "impact": "serious",
+          "messages": [
+            "Element has insufficient color contrast of 2.35 (foreground color: #ffffff, background color: #71b2c9, font size: 11.4pt (15.2px), font weight: normal). Expected contrast ratio of 4.5:1"
+          ],
+          "box": {
+            "x": 1027.828125,
+            "y": 222.203125,
+            "w": 73.515625,
+            "h": 18
+          }
+        }
+      ]
+    },
+    {
+      "id": "link-name",
+      "impact": "serious",
+      "help": "Links must have discernible text",
+      "description": "Ensure links have discernible text",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/link-name?application=playwright",
+      "tags": [
+        "cat.name-role-value",
+        "wcag2a",
+        "wcag244",
+        "wcag412",
+        "section508",
+        "section508.22.a",
+        "TTv5",
+        "TT6.a",
+        "EN-301-549",
+        "EN-9.2.4.4",
+        "EN-9.4.1.2",
+        "ACT",
+        "RGAAv4",
+        "RGAA-6.2.1"
+      ],
+      "wcag": [
+        "2.4.4",
+        "4.1.2"
+      ],
+      "nodes": 17,
+      "items": [
+        {
+          "target": "#depicter-1-section-482 > .depicter-layers-container > .depicter-layers-wrapper > .depicter-layers-fold > .depicter-shape-layer.depicter-layer-frame.depicter-pos-absolute > a",
+          "html": "<a href=\"https://sharedhealthmb.ca/services/diagnostic/dynacare-work-stoppage-info/\">",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": {
+            "x": -1366,
+            "y": 253.203125,
+            "w": 1366,
+            "h": 355.7291259765625
+          }
+        },
+        {
+          "target": ".depicter-shape-layer.depicter-layer-frame.depicter-pos-absolute:nth-child(1) > a",
+          "html": "<a href=\"https://southernhealth.ca/health-topics/public-health-healthy-living/\">",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": {
+            "x": 1002.4375,
+            "y": 493.671875,
+            "w": 315.176025390625,
+            "h": 74.703125
+          }
+        },
+        {
+          "target": ".depicter-shape-layer.depicter-layer-frame.depicter-pos-absolute:nth-child(2) > a",
+          "html": "<a href=\"https://southernhealth.ca/news-events/events/\">",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": {
+            "x": 996.75,
+            "y": 400.46875,
+            "w": 315.176025390625,
+            "h": 74.703125
+          }
+        },
+        {
+          "target": "iframe #u_0_1_cs",
+          "html": "<a href=\"https://www.facebook.com/southernhealthsantesud?ref=embed_page\" target=\"_blank\" id=\"u_0_1_cs\"></a>",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": null
+        },
+        {
+          "target": "iframe .lfloat._3-8_[target=\"_blank\"]",
+          "html": "<a class=\"_3-8_ lfloat\" href=\"https://www.facebook.com/106961021200818?ref=embed_page\" target=\"_blank\">",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": null
+        },
+        {
+          "target": "iframe #u_1_c_vg > ._5pcr.userContentWrapper[data-ft=\"{\\\"tn\\\":\\\"-R\\\"}\"] > ._1dwg._1w_m._q7o > ._2p_a._3x-2[data-ft=\"{\\\"tn\\\":\\\"H\\\"}\"] > div[data-ft=\"{\\\"tn\\\":\\\"H\\\"}\"] > .mtm > ._2l7q > a[target=\"_blank\"]",
+          "html": "<a href=\"https://www.facebook.com/photo.php?fbid=1943515430102591&set=a.764353114685501&type=3&ref=embed_page\" target=\"_blank\">",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": null
+        },
+        {
+          "target": "iframe #u_1_c_vg > ._5pcr.userContentWrapper[data-ft=\"{\\\"tn\\\":\\\"-R\\\"}\"] > ._1dwg._1w_m._q7o > div:nth-child(2) > .l_c3pyo2v0u._5eit._4d-l > ._302 > span > a[target=\"_blank\"]",
+          "html": "<a href=\"/southernhealthsantesud/posts/pfbid0mbiUA6wSGLR2bZRdWF1XtLCnDykQ2jB2K3etSd6UunqMU7hCBvsV9FndSyRJghSul?ref=embed_page\" target=\"_blank\"><i class=\"img sp_JtTaN8Jb8oq sx_53fd32\"></i></a>",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": null
+        },
+        {
+          "target": "iframe #u_1_5_gH > ._5pcr.userContentWrapper[data-ft=\"{\\\"tn\\\":\\\"-R\\\"}\"] > ._1dwg._1w_m._q7o > div:nth-child(3) > .l_c3pyo2v0u._5eit._4d-l > ._302 > span > a[target=\"_blank\"]",
+          "html": "<a href=\"/southernhealthsantesud/posts/pfbid02HX4fVG3ADdkHoc6UgbzFDfLYEhbdM4dwUd6TURkHL1XsS6Z6zGGchMVw7dQ2Lc8Zl?ref=embed_page\" target=\"_blank\"><i class=\"img sp_JtTaN8Jb8oq sx_53fd32\"></i></a>",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": null
+        },
+        {
+          "target": "iframe #u_1_b_TA > ._5pcr.userContentWrapper[data-ft=\"{\\\"tn\\\":\\\"-R\\\"}\"] > ._1dwg._1w_m._q7o > ._2p_a._3x-2[data-ft=\"{\\\"tn\\\":\\\"H\\\"}\"] > div[data-ft=\"{\\\"tn\\\":\\\"H\\\"}\"] > .mtm > ._2l7q > a[target=\"_blank\"]",
+          "html": "<a href=\"https://www.facebook.com/photo.php?fbid=1939733213814146&set=a.764353114685501&type=3&ref=embed_page\" target=\"_blank\">",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": null
+        },
+        {
+          "target": "iframe #u_1_b_TA > ._5pcr.userContentWrapper[data-ft=\"{\\\"tn\\\":\\\"-R\\\"}\"] > ._1dwg._1w_m._q7o > div:nth-child(2) > .l_c3pyo2v0u._5eit._4d-l > ._302 > span > a[target=\"_blank\"]",
+          "html": "<a href=\"/southernhealthsantesud/posts/pfbid07mFL5hJ5cEQfAGDAaMRFkx7ocp5XijztNUfTDdUWfDWBEHDfuwN3o4Ry1WuX1Hutl?ref=embed_page\" target=\"_blank\"><i class=\"img sp_JtTaN8Jb8oq sx_53fd32\"></i></a>",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": null
+        },
+        {
+          "target": "iframe #u_1_d_M6 > ._5pcr.userContentWrapper[data-ft=\"{\\\"tn\\\":\\\"-R\\\"}\"] > ._1dwg._1w_m._q7o > div:nth-child(3) > .l_c3pyo2v0u._5eit._4d-l > ._302 > span > a[target=\"_blank\"]",
+          "html": "<a href=\"/southernhealthsantesud/posts/pfbid029gXogzUGBburZF7uYc7aePiayGwwCHNdBGm2RTrAzLh1PpvVexyThiTaRg6ZkpFnl?ref=embed_page\" target=\"_blank\"><i class=\"img sp_JtTaN8Jb8oq sx_53fd32\"></i></a>",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": null
+        },
+        {
+          "target": "iframe #u_1_a_\\+s > ._5pcr.userContentWrapper[data-ft=\"{\\\"tn\\\":\\\"-R\\\"}\"] > ._1dwg._1w_m._q7o > ._2p_a._3x-2[data-ft=\"{\\\"tn\\\":\\\"H\\\"}\"] > div[data-ft=\"{\\\"tn\\\":\\\"H\\\"}\"] > .mtm > ._2l7q > a[target=\"_blank\"]",
+          "html": "<a href=\"https://www.facebook.com/photo.php?fbid=1939714657149335&set=a.764353114685501&type=3&ref=embed_page\" target=\"_blank\">",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": null
+        },
+        {
+          "target": "iframe #u_1_a_\\+s > ._5pcr.userContentWrapper[data-ft=\"{\\\"tn\\\":\\\"-R\\\"}\"] > ._1dwg._1w_m._q7o > div:nth-child(2) > .l_c3pyo2v0u._5eit._4d-l > ._302 > span > a[target=\"_blank\"]",
+          "html": "<a href=\"/southernhealthsantesud/posts/pfbid022dDFWA5rp9NedWu2Bf9iFki9Q8jQfXSgHhnGZeYSCQM2jwxA5ys1x65jm6qt8NZvl?ref=embed_page\" target=\"_blank\"><i class=\"img sp_JtTaN8Jb8oq sx_53fd32\"></i></a>",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": null
+        },
+        {
+          "target": ".social-footer > a[target=\"_blank\"]:nth-child(1)",
+          "html": "<a href=\"https://twitter.com/SouthernSante\" target=\"_blank\"><i class=\"fa-brands fa-square-x-twitter\"></i></a>",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": {
+            "x": 636.546875,
+            "y": 1843.390625,
+            "w": 60,
+            "h": 58
+          }
+        },
+        {
+          "target": ".social-footer > a[target=\"_blank\"]:nth-child(2)",
+          "html": "<a href=\"https://www.facebook.com/southernhealthsantesud\" target=\"_blank\"><i class=\"fa fa-facebook-square\" aria-hidden=\"true\"></i></a>",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": {
+            "x": 696.546875,
+            "y": 1843.390625,
+            "w": 60,
+            "h": 58
+          }
+        },
+        {
+          "target": "a[target=\"_blank\"]:nth-child(3)",
+          "html": "<a href=\"https://www.instagram.com/southernhealthsantesud/\" target=\"_blank\"><i class=\"fa-brands fa-square-instagram\"></i></a>",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": {
+            "x": 756.546875,
+            "y": 1843.390625,
+            "w": 60,
+            "h": 58
+          }
+        },
+        {
+          "target": "a[target=\"_blank\"]:nth-child(4)",
+          "html": "<a href=\"https://www.linkedin.com/company/southern-health-sante-sud?trk=public_post_feed-actor-name\" target=\"_blank\"><i class=\"fa-brands fa-square-linkedin\"></i></a>",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": {
+            "x": 636.546875,
+            "y": 1939.390625,
+            "w": 60,
+            "h": 58
+          }
+        }
+      ]
+    }
+  ],
+  "verdict": "FAILURES DETECTED"
+}

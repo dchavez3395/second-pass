@@ -1,0 +1,1867 @@
+{
+  "url": "https://www.cityofflinflon.com/",
+  "ok": true,
+  "status": 200,
+  "title": "仮想通貨プランナー | 仮想通貨チャートと種類や特徴を徹底解説",
+  "finalUrl": "https://www.cityofflinflon.com/",
+  "shape": {
+    "elements": 880,
+    "images": 27,
+    "links": 235,
+    "buttons": 0,
+    "inputs": 5,
+    "headings": 15,
+    "textLength": 4234,
+    "lang": "ja",
+    "iframes": 0
+  },
+  "viewport": {
+    "width": 1366,
+    "height": 900
+  },
+  "scannedAt": "2026-09-18T04:54:02.193Z",
+  "axe": {
+    "violationRules": 4,
+    "violationNodes": 65,
+    "passRules": 28,
+    "passNodes": 869,
+    "incompleteRules": 1,
+    "incompleteNodes": 52,
+    "inapplicableRules": 34,
+    "testedNodes": 986
+  },
+  "incomplete": [
+    {
+      "id": "color-contrast",
+      "impact": "serious",
+      "help": "Elements must meet minimum color contrast ratio thresholds",
+      "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/color-contrast?application=playwright",
+      "tags": [
+        "cat.color",
+        "wcag2aa",
+        "wcag143",
+        "TTv5",
+        "TT13.c",
+        "EN-301-549",
+        "EN-9.1.4.3",
+        "ACT",
+        "RGAAv4",
+        "RGAA-3.2.1"
+      ],
+      "wcag": [
+        "1.4.3"
+      ],
+      "why": "Element's background color could not be determined due to a background image",
+      "nodes": 52,
+      "sample": [
+        {
+          "target": "h1",
+          "html": "<h1 style=\"text-align: center;\">仮想通貨に関する最新情報からICO情報まで徹底解説！<br>\n<span style=\"font-size: 13pt;\">人気の仮想通貨を中心に特徴や将来性などを個別に解説、<br>\n最新のICO情報や各仮想通貨の時価総額・価格チャートも掲載！</span></h1>"
+        },
+        {
+          "target": "h1 > span",
+          "html": "<span style=\"font-size: 13pt;\">人気の仮想通貨を中心に特徴や将来性などを個別に解説、<br>\n最新のICO情報や各仮想通貨の時価総額・価格チャートも掲載！</span>"
+        },
+        {
+          "target": ".post-1 > .post-box-contents.clearfix > .post-meta-all > h3",
+          "html": "<h3 class=\"post-title\">\nイーサリアムクラシック(Ethereum Classic:ETC)価格チャート/解説\t</h3>"
+        }
+      ],
+      "items": [
+        {
+          "target": "h1",
+          "html": "<h1 style=\"text-align: center;\">仮想通貨に関する最新情報からICO情報まで徹底解説！<br>\n<span style=\"font-size: 13pt;\">人気の仮想通貨を中心に特徴や将来性などを個別に解説、<br>\n最新のICO情報や各仮想通貨の時価総額・価格チャートも掲載！</span></h1>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 355.25,
+            "y": 105,
+            "w": 789.5,
+            "h": 144
+          }
+        },
+        {
+          "target": "h1 > span",
+          "html": "<span style=\"font-size: 13pt;\">人気の仮想通貨を中心に特徴や将来性などを個別に解説、<br>\n最新のICO情報や各仮想通貨の時価総額・価格チャートも掲載！</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 501.203125,
+            "y": 171,
+            "w": 497.578125,
+            "h": 70
+          }
+        },
+        {
+          "target": ".post-1 > .post-box-contents.clearfix > .post-meta-all > h3",
+          "html": "<h3 class=\"post-title\">\nイーサリアムクラシック(Ethereum Classic:ETC)価格チャート/解説\t</h3>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it is overlapped by another element"
+          ],
+          "box": {
+            "x": 295,
+            "y": 815.421875,
+            "w": 860,
+            "h": 42
+          }
+        },
+        {
+          "target": "time[datetime=\"2018-12-06\"]",
+          "html": "<time class=\"post-date\" datetime=\"2018-12-06\">\n2018年12月6日\n</time>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it is overlapped by another element"
+          ],
+          "box": {
+            "x": 295,
+            "y": 935.4375,
+            "w": 82.640625,
+            "h": 19.1875
+          }
+        },
+        {
+          "target": ".post-1 > .post-box-contents.clearfix > .post-meta-all > .post-substr",
+          "html": "<div class=\"post-substr\">\nイーサリアム・クラシック（ Ethereum Classic）がイーサリアムから誕生したきっかけとなったThe DAO事件やイーサリアムとイーサリアム・クラシックの違い、価格チャートや将来性などをわか...\t</div>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it is overlapped by another element"
+          ],
+          "box": {
+            "x": 295,
+            "y": 862.421875,
+            "w": 860,
+            "h": 58.5
+          }
+        },
+        {
+          "target": ".post-2 > .post-box-contents.clearfix > .post-meta-all > h3",
+          "html": "<h3 class=\"post-title\">\nビットシェアーズ（BitShares:BTS)価格チャート/解説\t</h3>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it is overlapped by another element"
+          ],
+          "box": {
+            "x": 295,
+            "y": 1007.8125,
+            "w": 860,
+            "h": 42
+          }
+        },
+        {
+          "target": "time[datetime=\"2018-11-13\"]",
+          "html": "<time class=\"post-date\" datetime=\"2018-11-13\">\n2018年11月13日\n</time>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it is overlapped by another element"
+          ],
+          "box": {
+            "x": 295,
+            "y": 1134.359375,
+            "w": 89.296875,
+            "h": 19.1875
+          }
+        },
+        {
+          "target": ".post-2 > .post-box-contents.clearfix > .post-meta-all > .post-substr",
+          "html": "<div class=\"post-substr\">\n仮想通貨BitShares（ビットシェアーズ：BTS）は数ある分散型取引所の中でも特に将来性が期待されている仮想通貨です。BitSharesの多機能な分散型取引所やBTSの価格チャート、将来性を含めて...\t</div>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it is overlapped by another element"
+          ],
+          "box": {
+            "x": 295,
+            "y": 1054.8125,
+            "w": 860,
+            "h": 58.5
+          }
+        },
+        {
+          "target": ".post-3 > .post-box-contents.clearfix > .post-meta-all > h3",
+          "html": "<h3 class=\"post-title\">\nアイコン(ICON:ICX) 価格チャート/解説\t</h3>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it is overlapped by another element"
+          ],
+          "box": {
+            "x": 295,
+            "y": 1206.734375,
+            "w": 860,
+            "h": 42
+          }
+        },
+        {
+          "target": ".post-3 > .post-box-contents.clearfix > .post-meta-all > time[datetime=\"2018-11-02\"]",
+          "html": "<time class=\"post-date\" datetime=\"2018-11-02\">\n2018年11月2日\n</time>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it is overlapped by another element"
+          ],
+          "box": {
+            "x": 295,
+            "y": 1313.046875,
+            "w": 82.640625,
+            "h": 19.1875
+          }
+        },
+        {
+          "target": ".post-3 > .post-box-contents.clearfix > .post-meta-all > .post-substr",
+          "html": "<div class=\"post-substr\">\nICON（アイコン）は韓国版のイーサリアムとも呼ばれ、ICONプロジェクトと呼ばれる開発目的は大きな将来性のあるものです。ICONの特徴や価格チャート、ICXの価格が上がることはあるのか？わかりやすく...\t</div>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it is overlapped by another element"
+          ],
+          "box": {
+            "x": 295,
+            "y": 1253.734375,
+            "w": 860,
+            "h": 58.5
+          }
+        },
+        {
+          "target": ".post-4 > .post-box-contents.clearfix > .post-meta-all > h3",
+          "html": "<h3 class=\"post-title\">\nナノ(Nano)価格チャート/解説\t</h3>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it is overlapped by another element"
+          ],
+          "box": {
+            "x": 295,
+            "y": 1385.421875,
+            "w": 860,
+            "h": 42
+          }
+        },
+        {
+          "target": ".post-4 > .post-box-contents.clearfix > .post-meta-all > time[datetime=\"2018-11-02\"]",
+          "html": "<time class=\"post-date\" datetime=\"2018-11-02\">\n2018年11月2日\n</time>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it is overlapped by another element"
+          ],
+          "box": {
+            "x": 295,
+            "y": 1491.734375,
+            "w": 82.640625,
+            "h": 19.1875
+          }
+        },
+        {
+          "target": ".post-4 > .post-box-contents.clearfix > .post-meta-all > .post-substr",
+          "html": "<div class=\"post-substr\">\nNano（ナノ）は高速取引・取引手数料が無料・スケーラビリティ 問題のリスクが低いと言う特徴を持つ仮想通貨です。Nanoの価格チャートや将来性などをわかりやすく簡単に解説していきます。 Nano（ナノ...\t</div>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it is overlapped by another element"
+          ],
+          "box": {
+            "x": 295,
+            "y": 1432.421875,
+            "w": 860,
+            "h": 58.5
+          }
+        },
+        {
+          "target": ".post-5 > .post-box-contents.clearfix > .post-meta-all > h3",
+          "html": "<h3 class=\"post-title\">\nエターニティ(Aeternity:AE)価格チャート/解説\t</h3>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it is overlapped by another element"
+          ],
+          "box": {
+            "x": 295,
+            "y": 1564.109375,
+            "w": 860,
+            "h": 42
+          }
+        },
+        {
+          "target": "time[datetime=\"2018-10-24\"]",
+          "html": "<time class=\"post-date\" datetime=\"2018-10-24\">\n2018年10月24日\n</time>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it is overlapped by another element"
+          ],
+          "box": {
+            "x": 295,
+            "y": 1690.65625,
+            "w": 89.296875,
+            "h": 19.1875
+          }
+        },
+        {
+          "target": ".post-5 > .post-box-contents.clearfix > .post-meta-all > .post-substr",
+          "html": "<div class=\"post-substr\">\nAeternity（エターニティ）はイーサリアムのスケーラビリティ 問題の解決策と見なされ、多くの独自技術、システムによって注目を集めている仮想通貨です。Aeternityの特徴や価格チャート、将来性...\t</div>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it is overlapped by another element"
+          ],
+          "box": {
+            "x": 295,
+            "y": 1611.109375,
+            "w": 860,
+            "h": 58.5
+          }
+        },
+        {
+          "target": ".post-6 > .post-box-contents.clearfix > .post-meta-all > h3",
+          "html": "<h3 class=\"post-title\">\nメーカー(Maker:MKR)価格チャート/解説\t</h3>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it is overlapped by another element"
+          ],
+          "box": {
+            "x": 295,
+            "y": 1763.03125,
+            "w": 860,
+            "h": 42
+          }
+        },
+        {
+          "target": "time[datetime=\"2018-10-17\"]",
+          "html": "<time class=\"post-date\" datetime=\"2018-10-17\">\n2018年10月17日\n</time>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it is overlapped by another element"
+          ],
+          "box": {
+            "x": 295,
+            "y": 1978.25,
+            "w": 89.296875,
+            "h": 19.1875
+          }
+        },
+        {
+          "target": ".post-6 > .post-box-contents.clearfix > .post-meta-all > .post-substr",
+          "html": "<div class=\"post-substr\">\nペッグ通貨Daiの価格を安定させるために作られたMaker（メーカー）。Tetherの詐欺疑惑が高まるにつれて注目度を増している仮想通貨です。Makerの役割やDaiとの関係、将来性などを簡単に解説し...\t</div>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it is overlapped by another element"
+          ],
+          "box": {
+            "x": 295,
+            "y": 1810.03125,
+            "w": 860,
+            "h": 58.5
+          }
+        },
+        {
+          "target": ".post-7 > .post-box-contents.clearfix > .post-meta-all > h3",
+          "html": "<h3 class=\"post-title\">\nドージコイン(Dogecoin:DOGE)価格チャート/解説\t</h3>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it is overlapped by another element"
+          ],
+          "box": {
+            "x": 295,
+            "y": 2050.625,
+            "w": 860,
+            "h": 42
+          }
+        },
+        {
+          "target": ".post-7 > .post-box-contents.clearfix > .post-meta-all > time[datetime=\"2018-10-08\"]",
+          "html": "<time class=\"post-date\" datetime=\"2018-10-08\">\n2018年10月8日\n</time>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it is overlapped by another element"
+          ],
+          "box": {
+            "x": 295,
+            "y": 2265.84375,
+            "w": 82.640625,
+            "h": 19.1875
+          }
+        },
+        {
+          "target": ".post-7 > .post-box-contents.clearfix > .post-meta-all > .post-substr",
+          "html": "<div class=\"post-substr\">\n寄付やタニマチなど使われた方がユニークでエンターテイメント性を重視したDogecoin（ドージコイン）。過去には月に昇るくらいの高騰を見せたことでも話題となりました。そんなDogecoinの特徴や価格...\t</div>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it is overlapped by another element"
+          ],
+          "box": {
+            "x": 295,
+            "y": 2097.625,
+            "w": 860,
+            "h": 58.5
+          }
+        },
+        {
+          "target": ".post-8 > .post-box-contents.clearfix > .post-meta-all > h3",
+          "html": "<h3 class=\"post-title\">\nべチェーン(VeChain:VET)価格チャート/解説\t</h3>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it is overlapped by another element"
+          ],
+          "box": {
+            "x": 295,
+            "y": 2338.21875,
+            "w": 860,
+            "h": 42
+          }
+        },
+        {
+          "target": ".post-8 > .post-box-contents.clearfix > .post-meta-all > time[datetime=\"2018-10-08\"]",
+          "html": "<time class=\"post-date\" datetime=\"2018-10-08\">\n2018年10月8日\n</time>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it is overlapped by another element"
+          ],
+          "box": {
+            "x": 295,
+            "y": 2553.4375,
+            "w": 82.640625,
+            "h": 19.1875
+          }
+        },
+        {
+          "target": ".post-8 > .post-box-contents.clearfix > .post-meta-all > .post-substr",
+          "html": "<div class=\"post-substr\">\nVeChain （べチェーン）はBMWやオックスフォード大学とも提携を結んでおり、将来性豊かな仮想通貨です。VeChain（VET)とはどんな仮想通貨なのか、特徴や価格チャート、ロードマップなどを含め...\t</div>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it is overlapped by another element"
+          ],
+          "box": {
+            "x": 295,
+            "y": 2385.21875,
+            "w": 860,
+            "h": 58.5
+          }
+        },
+        {
+          "target": ".post-9 > .post-box-contents.clearfix > .post-meta-all > h3",
+          "html": "<h3 class=\"post-title\">\nテゾス(Tezos :XTZ)価格チャート/解説\t</h3>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it is overlapped by another element"
+          ],
+          "box": {
+            "x": 295,
+            "y": 2625.8125,
+            "w": 860,
+            "h": 42
+          }
+        },
+        {
+          "target": ".post-9 > .post-box-contents.clearfix > .post-meta-all > time[datetime=\"2018-10-05\"]",
+          "html": "<time class=\"post-date\" datetime=\"2018-10-05\">\n2018年10月5日\n</time>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it is overlapped by another element"
+          ],
+          "box": {
+            "x": 295,
+            "y": 2841.03125,
+            "w": 82.640625,
+            "h": 19.1875
+          }
+        },
+        {
+          "target": ".post-9 > .post-box-contents.clearfix > .post-meta-all > .post-substr",
+          "html": "<div class=\"post-substr\">\nTezos（テゾス：XTZ）は信頼性の高いスマートコントラクトと分散型ガバナンスが特徴の仮想通貨です。Tezosの特徴や価格チャート、将来性からTezosが直面している訴訟問題まで含めてわかりやすく解...\t</div>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it is overlapped by another element"
+          ],
+          "box": {
+            "x": 295,
+            "y": 2672.8125,
+            "w": 860,
+            "h": 58.5
+          }
+        },
+        {
+          "target": ".post-10 > .post-box-contents.clearfix > .post-meta-all > h3",
+          "html": "<h3 class=\"post-title\">\nネム(NEM:XEM)価格チャート/解説\t</h3>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it is overlapped by another element"
+          ],
+          "box": {
+            "x": 295,
+            "y": 2913.40625,
+            "w": 860,
+            "h": 42
+          }
+        },
+        {
+          "target": ".post-10 > .post-box-contents.clearfix > .post-meta-all > time[datetime=\"2018-10-05\"]",
+          "html": "<time class=\"post-date\" datetime=\"2018-10-05\">\n2018年10月5日\n</time>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it is overlapped by another element"
+          ],
+          "box": {
+            "x": 295,
+            "y": 3128.625,
+            "w": 82.640625,
+            "h": 19.1875
+          }
+        },
+        {
+          "target": ".post-10 > .post-box-contents.clearfix > .post-meta-all > .post-substr",
+          "html": "<div class=\"post-substr\">\nハッキング事件の印象が強いNEM（ネム：XEM）ですが、新しい経済の仕組みを構築しようとするNEMには大きな可能性が秘められています。独自の技術アポスティーユやMijinなどを含め分かりやすくNEMに...\t</div>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it is overlapped by another element"
+          ],
+          "box": {
+            "x": 295,
+            "y": 2960.40625,
+            "w": 860,
+            "h": 58.5
+          }
+        },
+        {
+          "target": ".post-11 > .post-box-contents.clearfix > .post-meta-all > h3",
+          "html": "<h3 class=\"post-title\">\nバイナンスコイン(Binance Coin:BNB) 価格チャート/解説\t</h3>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it is overlapped by another element"
+          ],
+          "box": {
+            "x": 295,
+            "y": 3201,
+            "w": 860,
+            "h": 42
+          }
+        },
+        {
+          "target": ".post-11 > .post-box-contents.clearfix > .post-meta-all > time[datetime=\"2018-09-27\"]",
+          "html": "<time class=\"post-date\" datetime=\"2018-09-27\">\n2018年9月27日\n</time>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it is overlapped by another element"
+          ],
+          "box": {
+            "x": 295,
+            "y": 3416.21875,
+            "w": 82.640625,
+            "h": 19.1875
+          }
+        },
+        {
+          "target": ".post-11 > .post-box-contents.clearfix > .post-meta-all > .post-substr",
+          "html": "<div class=\"post-substr\">\nBinanceCoin（BNB)は大手取引所であるBinance（バイナンス）によって発行されている仮想通貨です。BinanceCoinは取引手数料が割引されたり上場通貨の投票権に使われたりと、多くの...\t</div>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it is overlapped by another element"
+          ],
+          "box": {
+            "x": 295,
+            "y": 3248,
+            "w": 860,
+            "h": 58.5
+          }
+        },
+        {
+          "target": ".post-12 > .post-box-contents.clearfix > .post-meta-all > h3",
+          "html": "<h3 class=\"post-title\">\nイオス(EOS)価格チャート/解説\t</h3>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it is overlapped by another element"
+          ],
+          "box": {
+            "x": 295,
+            "y": 3488.59375,
+            "w": 860,
+            "h": 42
+          }
+        },
+        {
+          "target": ".post-12 > .post-box-contents.clearfix > .post-meta-all > time[datetime=\"2018-09-27\"]",
+          "html": "<time class=\"post-date\" datetime=\"2018-09-27\">\n2018年9月27日\n</time>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it is overlapped by another element"
+          ],
+          "box": {
+            "x": 295,
+            "y": 3703.8125,
+            "w": 82.640625,
+            "h": 19.1875
+          }
+        },
+        {
+          "target": ".post-12 > .post-box-contents.clearfix > .post-meta-all > .post-substr",
+          "html": "<div class=\"post-substr\">\n時価総額ランキングで上位に位置する仮想通貨EOS（イオス）を分かりやすく解説します！EOSのプロジェクトやメリット・デメリット、価格チャート、将来性など、EOSを知る上で重要な知識をお伝えします。 E...\t</div>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it is overlapped by another element"
+          ],
+          "box": {
+            "x": 295,
+            "y": 3535.59375,
+            "w": 860,
+            "h": 58.5
+          }
+        },
+        {
+          "target": ".current",
+          "html": "<span aria-current=\"page\" class=\"page-numbers current\">1</span>",
+          "impact": "serious",
+          "messages": [
+            "Element content is too short to determine if it is actual text content"
+          ],
+          "box": {
+            "x": 454.21875,
+            "y": 3740.59375,
+            "w": 52.890625,
+            "h": 49.59375
+          }
+        },
+        {
+          "target": ".page-numbers:nth-child(2)",
+          "html": "<a class=\"page-numbers\" href=\"https://cityofflinflon.com/page/2/\">2</a>",
+          "impact": "serious",
+          "messages": [
+            "Element content is too short to determine if it is actual text content"
+          ],
+          "box": {
+            "x": 513.109375,
+            "y": 3740.59375,
+            "w": 52.890625,
+            "h": 49.59375
+          }
+        },
+        {
+          "target": ".page-numbers:nth-child(3)",
+          "html": "<a class=\"page-numbers\" href=\"https://cityofflinflon.com/page/3/\">3</a>",
+          "impact": "serious",
+          "messages": [
+            "Element content is too short to determine if it is actual text content"
+          ],
+          "box": {
+            "x": 572,
+            "y": 3740.59375,
+            "w": 52.890625,
+            "h": 49.59375
+          }
+        },
+        {
+          "target": ".page-numbers:nth-child(5)",
+          "html": "<a class=\"page-numbers\" href=\"https://cityofflinflon.com/page/6/\">6</a>",
+          "impact": "serious",
+          "messages": [
+            "Element content is too short to determine if it is actual text content"
+          ],
+          "box": {
+            "x": 662.890625,
+            "y": 3740.59375,
+            "w": 52.890625,
+            "h": 49.59375
+          }
+        },
+        {
+          "target": "#search-2 > form > .searchsubmit[type=\"submit\"]",
+          "html": "<input type=\"submit\" class=\"searchsubmit\" style=\"\">",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 1455,
+            "y": 369.1875,
+            "w": 45,
+            "h": 40
+          }
+        },
+        {
+          "target": "li:nth-child(1) > .wpp-post-title[target=\"_self\"]",
+          "html": "<a href=\"https://cityofflinflon.com/basis/\" class=\"wpp-post-title\" target=\"_self\">ICOの必須知識！ハードキャップ・ソフトキャップとは？</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it partially overlaps other elements"
+          ],
+          "box": {
+            "x": 1278,
+            "y": 471.1875,
+            "w": 210.578125,
+            "h": 38.390625
+          }
+        },
+        {
+          "target": "li:nth-child(2) > .wpp-post-title[target=\"_self\"]",
+          "html": "<a href=\"https://cityofflinflon.com/stellar/\" class=\"wpp-post-title\" target=\"_self\">ステラ(Stellar:XLM)価格チャート/解説</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it partially overlaps other elements"
+          ],
+          "box": {
+            "x": 1278,
+            "y": 579.1875,
+            "w": 210.078125,
+            "h": 38.390625
+          }
+        },
+        {
+          "target": "li:nth-child(3) > .wpp-post-title[target=\"_self\"]",
+          "html": "<a href=\"https://cityofflinflon.com/ripple/\" class=\"wpp-post-title\" target=\"_self\">リップル(ripple：XRP)価格チャート/解説</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it partially overlaps other elements"
+          ],
+          "box": {
+            "x": 1278,
+            "y": 687.1875,
+            "w": 210.578125,
+            "h": 38.390625
+          }
+        },
+        {
+          "target": "li:nth-child(4) > .wpp-post-title[target=\"_self\"]",
+          "html": "<a href=\"https://cityofflinflon.com/tether/\" class=\"wpp-post-title\" target=\"_self\">テザー(Tether:USDT)価格チャート/解説</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it partially overlaps other elements"
+          ],
+          "box": {
+            "x": 1278,
+            "y": 795.1875,
+            "w": 203.875,
+            "h": 38.390625
+          }
+        },
+        {
+          "target": "li:nth-child(6) > .wpp-post-title[target=\"_self\"]",
+          "html": "<a href=\"https://cityofflinflon.com/ethereum/\" class=\"wpp-post-title\" target=\"_self\">イーサリアム( Ethereum:ETH)価格推移＆チャート</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it partially overlaps other elements"
+          ],
+          "box": {
+            "x": 1278,
+            "y": 1011.1875,
+            "w": 209.234375,
+            "h": 38.390625
+          }
+        },
+        {
+          "target": "li:nth-child(7) > .wpp-post-title[target=\"_self\"]",
+          "html": "<a href=\"https://cityofflinflon.com/omisego/\" class=\"wpp-post-title\" target=\"_self\">オミセゴー(OmiseGO：OMG)価格チャート/解説</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it partially overlaps other elements"
+          ],
+          "box": {
+            "x": 1278,
+            "y": 1119.1875,
+            "w": 207.65625,
+            "h": 38.390625
+          }
+        },
+        {
+          "target": "li:nth-child(8) > .wpp-post-title[target=\"_self\"]",
+          "html": "<a href=\"https://cityofflinflon.com/what-dao/\" class=\"wpp-post-title\" target=\"_self\">ビットコインやイーサリアムの仕組みに重要なDAOとは？</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it partially overlaps other elements"
+          ],
+          "box": {
+            "x": 1278,
+            "y": 1227.1875,
+            "w": 211.5625,
+            "h": 38.390625
+          }
+        },
+        {
+          "target": "li:nth-child(9) > .wpp-post-title[target=\"_self\"]",
+          "html": "<a href=\"https://cityofflinflon.com/vechain/\" class=\"wpp-post-title\" target=\"_self\">べチェーン(VeChain:VET)価格チャート/解説</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it partially overlaps other elements"
+          ],
+          "box": {
+            "x": 1278,
+            "y": 1335.1875,
+            "w": 210.8125,
+            "h": 38.390625
+          }
+        },
+        {
+          "target": "li:nth-child(10) > .wpp-post-title[target=\"_self\"]",
+          "html": "<a href=\"https://cityofflinflon.com/air-drop/\" class=\"wpp-post-title\" target=\"_self\">無料で仮想通貨が貰える！AirDrop(エアドロップ)とは？</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it partially overlaps other elements"
+          ],
+          "box": {
+            "x": 1278,
+            "y": 1443.1875,
+            "w": 213.0625,
+            "h": 38.390625
+          }
+        }
+      ]
+    }
+  ],
+  "violations": [
+    {
+      "id": "color-contrast",
+      "impact": "serious",
+      "help": "Elements must meet minimum color contrast ratio thresholds",
+      "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/color-contrast?application=playwright",
+      "tags": [
+        "cat.color",
+        "wcag2aa",
+        "wcag143",
+        "TTv5",
+        "TT13.c",
+        "EN-301-549",
+        "EN-9.1.4.3",
+        "ACT",
+        "RGAAv4",
+        "RGAA-3.2.1"
+      ],
+      "wcag": [
+        "1.4.3"
+      ],
+      "nodes": 16,
+      "items": [
+        {
+          "target": "#onlynavul > .menu-item-type-custom.menu-item-object-custom.current-menu-item > a[href$=\"cityofflinflon.com\"] > .menu_desc",
+          "html": "<div class=\"menu_desc\">home</div>",
+          "impact": "serious",
+          "messages": [
+            "Element has insufficient color contrast of 2.84 (foreground color: #999999, background color: #ffffff, font size: 7.5pt (10px), font weight: bold). Expected contrast ratio of 4.5:1"
+          ],
+          "box": {
+            "x": 620.171875,
+            "y": 322.796875,
+            "w": 42.484375,
+            "h": 12
+          }
+        },
+        {
+          "target": "#onlynavul > .menu-item-198.menu-item-type-post_type.menu-item-object-page > a > .menu_desc",
+          "html": "<div class=\"menu_desc\">Chart &amp; price list</div>",
+          "impact": "serious",
+          "messages": [
+            "Element has insufficient color contrast of 2.84 (foreground color: #999999, background color: #ffffff, font size: 7.5pt (10px), font weight: bold). Expected contrast ratio of 4.5:1"
+          ],
+          "box": {
+            "x": 700.09375,
+            "y": 322.796875,
+            "w": 179.734375,
+            "h": 12
+          }
+        },
+        {
+          "target": ".post-1 > .post-box-contents.clearfix > .post-meta-all > .post-cat > a[rel=\"category tag\"]",
+          "html": "<a href=\"https://cityofflinflon.com/category/explanation/etc/\" rel=\"category tag\">イーサリアム・クラシック(ETC)</a>",
+          "impact": "serious",
+          "messages": [
+            "Element has insufficient color contrast of 4.47 (foreground color: #ffffff, background color: #777777, font size: 7.2pt (9.6px), font weight: bold). Expected contrast ratio of 4.5:1"
+          ],
+          "box": {
+            "x": 295,
+            "y": 786.796875,
+            "w": 159.171875,
+            "h": 23
+          }
+        },
+        {
+          "target": ".post-2 > .post-box-contents.clearfix > .post-meta-all > .post-cat > a[rel=\"category tag\"]",
+          "html": "<a href=\"https://cityofflinflon.com/category/explanation/bts/\" rel=\"category tag\">ビットシェアーズ(BTS)</a>",
+          "impact": "serious",
+          "messages": [
+            "Element has insufficient color contrast of 4.47 (foreground color: #ffffff, background color: #777777, font size: 7.2pt (9.6px), font weight: bold). Expected contrast ratio of 4.5:1"
+          ],
+          "box": {
+            "x": 295,
+            "y": 979.1875,
+            "w": 122.28125,
+            "h": 23
+          }
+        },
+        {
+          "target": ".post-3 > .post-box-contents.clearfix > .post-meta-all > .post-cat > a[rel=\"category tag\"]",
+          "html": "<a href=\"https://cityofflinflon.com/category/explanation/icx/\" rel=\"category tag\">アイコン(ICX)</a>",
+          "impact": "serious",
+          "messages": [
+            "Element has insufficient color contrast of 4.47 (foreground color: #ffffff, background color: #777777, font size: 7.2pt (9.6px), font weight: bold). Expected contrast ratio of 4.5:1"
+          ],
+          "box": {
+            "x": 295,
+            "y": 1178.109375,
+            "w": 80.859375,
+            "h": 23
+          }
+        },
+        {
+          "target": ".post-4 > .post-box-contents.clearfix > .post-meta-all > .post-cat > a[rel=\"category tag\"]",
+          "html": "<a href=\"https://cityofflinflon.com/category/explanation/nano/\" rel=\"category tag\">ナノ(Nano)</a>",
+          "impact": "serious",
+          "messages": [
+            "Element has insufficient color contrast of 4.47 (foreground color: #ffffff, background color: #777777, font size: 7.2pt (9.6px), font weight: bold). Expected contrast ratio of 4.5:1"
+          ],
+          "box": {
+            "x": 295,
+            "y": 1356.796875,
+            "w": 69.46875,
+            "h": 23
+          }
+        },
+        {
+          "target": ".post-5 > .post-box-contents.clearfix > .post-meta-all > .post-cat > a[rel=\"category tag\"]",
+          "html": "<a href=\"https://cityofflinflon.com/category/explanation/ae/\" rel=\"category tag\">エターニティ(AE)</a>",
+          "impact": "serious",
+          "messages": [
+            "Element has insufficient color contrast of 4.47 (foreground color: #ffffff, background color: #777777, font size: 7.2pt (9.6px), font weight: bold). Expected contrast ratio of 4.5:1"
+          ],
+          "box": {
+            "x": 295,
+            "y": 1535.484375,
+            "w": 96.78125,
+            "h": 23
+          }
+        },
+        {
+          "target": ".post-6 > .post-box-contents.clearfix > .post-meta-all > .post-cat > a[rel=\"category tag\"]",
+          "html": "<a href=\"https://cityofflinflon.com/category/explanation/mkr/\" rel=\"category tag\">メーカー(MKR)</a>",
+          "impact": "serious",
+          "messages": [
+            "Element has insufficient color contrast of 4.47 (foreground color: #ffffff, background color: #777777, font size: 7.2pt (9.6px), font weight: bold). Expected contrast ratio of 4.5:1"
+          ],
+          "box": {
+            "x": 295,
+            "y": 1734.40625,
+            "w": 87.59375,
+            "h": 23
+          }
+        },
+        {
+          "target": ".post-7 > .post-box-contents.clearfix > .post-meta-all > .post-cat > a[rel=\"category tag\"]",
+          "html": "<a href=\"https://cityofflinflon.com/category/explanation/doge/\" rel=\"category tag\">ドージコイン(DOGE)</a>",
+          "impact": "serious",
+          "messages": [
+            "Element has insufficient color contrast of 4.47 (foreground color: #ffffff, background color: #777777, font size: 7.2pt (9.6px), font weight: bold). Expected contrast ratio of 4.5:1"
+          ],
+          "box": {
+            "x": 295,
+            "y": 2022,
+            "w": 112,
+            "h": 23
+          }
+        },
+        {
+          "target": ".post-8 > .post-box-contents.clearfix > .post-meta-all > .post-cat > a[rel=\"category tag\"]",
+          "html": "<a href=\"https://cityofflinflon.com/category/explanation/vet/\" rel=\"category tag\">べチェーン(VET)</a>",
+          "impact": "serious",
+          "messages": [
+            "Element has insufficient color contrast of 4.47 (foreground color: #ffffff, background color: #777777, font size: 7.2pt (9.6px), font weight: bold). Expected contrast ratio of 4.5:1"
+          ],
+          "box": {
+            "x": 295,
+            "y": 2309.59375,
+            "w": 93.203125,
+            "h": 23
+          }
+        },
+        {
+          "target": ".post-9 > .post-box-contents.clearfix > .post-meta-all > .post-cat > a[rel=\"category tag\"]",
+          "html": "<a href=\"https://cityofflinflon.com/category/explanation/xtz/\" rel=\"category tag\">テゾス(XTZ)</a>",
+          "impact": "serious",
+          "messages": [
+            "Element has insufficient color contrast of 4.47 (foreground color: #ffffff, background color: #777777, font size: 7.2pt (9.6px), font weight: bold). Expected contrast ratio of 4.5:1"
+          ],
+          "box": {
+            "x": 295,
+            "y": 2597.1875,
+            "w": 73.921875,
+            "h": 23
+          }
+        },
+        {
+          "target": ".post-10 > .post-box-contents.clearfix > .post-meta-all > .post-cat > a[rel=\"category tag\"]",
+          "html": "<a href=\"https://cityofflinflon.com/category/explanation/xem/\" rel=\"category tag\">ネム(XEM)</a>",
+          "impact": "serious",
+          "messages": [
+            "Element has insufficient color contrast of 4.47 (foreground color: #ffffff, background color: #777777, font size: 7.2pt (9.6px), font weight: bold). Expected contrast ratio of 4.5:1"
+          ],
+          "box": {
+            "x": 295,
+            "y": 2884.78125,
+            "w": 67.484375,
+            "h": 23
+          }
+        },
+        {
+          "target": ".post-11 > .post-box-contents.clearfix > .post-meta-all > .post-cat > a[rel=\"category tag\"]",
+          "html": "<a href=\"https://cityofflinflon.com/category/explanation/bnb/\" rel=\"category tag\">バイナンスコイン(BNB)</a>",
+          "impact": "serious",
+          "messages": [
+            "Element has insufficient color contrast of 4.47 (foreground color: #ffffff, background color: #777777, font size: 7.2pt (9.6px), font weight: bold). Expected contrast ratio of 4.5:1"
+          ],
+          "box": {
+            "x": 295,
+            "y": 3172.375,
+            "w": 124.328125,
+            "h": 23
+          }
+        },
+        {
+          "target": ".post-12 > .post-box-contents.clearfix > .post-meta-all > .post-cat > a[rel=\"category tag\"]",
+          "html": "<a href=\"https://cityofflinflon.com/category/explanation/eos/\" rel=\"category tag\">イオス(EOS)</a>",
+          "impact": "serious",
+          "messages": [
+            "Element has insufficient color contrast of 4.47 (foreground color: #ffffff, background color: #777777, font size: 7.2pt (9.6px), font weight: bold). Expected contrast ratio of 4.5:1"
+          ],
+          "box": {
+            "x": 295,
+            "y": 3459.96875,
+            "w": 75.09375,
+            "h": 23
+          }
+        },
+        {
+          "target": "#search-2 > form > .s[type=\"text\"][placeholder=\"検索\"]",
+          "html": "<input type=\"text\" placeholder=\"検索\" name=\"s\" class=\"s\" style=\"\">",
+          "impact": "serious",
+          "messages": [
+            "Element has insufficient color contrast of 4.47 (foreground color: #777777, background color: #ffffff, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio of 4.5:1"
+          ],
+          "box": {
+            "x": 1190,
+            "y": 369.1875,
+            "w": 310,
+            "h": 40
+          }
+        },
+        {
+          "target": "#copyright",
+          "html": "<div id=\"copyright\">仮想通貨プランナー All Rights Reserved.</div>",
+          "impact": "serious",
+          "messages": [
+            "Element has insufficient color contrast of 2.84 (foreground color: #999999, background color: #ffffff, font size: 9.8pt (13px), font weight: normal). Expected contrast ratio of 4.5:1"
+          ],
+          "box": {
+            "x": 1259.734375,
+            "y": 4811.671875,
+            "w": 240.265625,
+            "h": 20.796875
+          }
+        }
+      ]
+    },
+    {
+      "id": "link-name",
+      "impact": "serious",
+      "help": "Links must have discernible text",
+      "description": "Ensure links have discernible text",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/link-name?application=playwright",
+      "tags": [
+        "cat.name-role-value",
+        "wcag2a",
+        "wcag244",
+        "wcag412",
+        "section508",
+        "section508.22.a",
+        "TTv5",
+        "TT6.a",
+        "EN-301-549",
+        "EN-9.2.4.4",
+        "EN-9.4.1.2",
+        "ACT",
+        "RGAAv4",
+        "RGAA-6.2.1"
+      ],
+      "wcag": [
+        "2.4.4",
+        "4.1.2"
+      ],
+      "nodes": 1,
+      "items": [
+        {
+          "target": "a[href$=\"#wrap\"]",
+          "html": "<a href=\"#wrap\"><i class=\"fa fa-chevron-up\" aria-hidden=\"true\"></i></a>",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": {
+            "x": 1296,
+            "y": 950,
+            "w": 50,
+            "h": 50
+          }
+        }
+      ]
+    },
+    {
+      "id": "select-name",
+      "impact": "critical",
+      "help": "Select element must have an accessible name",
+      "description": "Ensure select element has an accessible name",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/select-name?application=playwright",
+      "tags": [
+        "cat.forms",
+        "wcag2a",
+        "wcag412",
+        "section508",
+        "section508.22.n",
+        "TTv5",
+        "TT5.c",
+        "EN-301-549",
+        "EN-9.4.1.2",
+        "ACT",
+        "RGAAv4",
+        "RGAA-11.1.1"
+      ],
+      "wcag": [
+        "4.1.2"
+      ],
+      "nodes": 1,
+      "items": [
+        {
+          "target": "#archives-dropdown-2",
+          "html": "<select id=\"archives-dropdown-2\" name=\"archive-dropdown\">",
+          "impact": "critical",
+          "messages": [
+            "Form element has explicit <label> that is hidden"
+          ],
+          "box": {
+            "x": 1200,
+            "y": 4268.828125,
+            "w": 290,
+            "h": 29.78125
+          }
+        }
+      ]
+    },
+    {
+      "id": "target-size",
+      "impact": "serious",
+      "help": "All touch targets must be 24px large, or leave sufficient space",
+      "description": "Ensure touch targets have sufficient size and space",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/target-size?application=playwright",
+      "tags": [
+        "cat.sensory-and-visual-cues",
+        "wcag22aa",
+        "wcag258"
+      ],
+      "wcag": [
+        "2.5.8"
+      ],
+      "nodes": 47,
+      "items": [
+        {
+          "target": ".post-1 > .post-box-contents.clearfix > .post-meta-all > .post-cat > a[rel=\"category tag\"]",
+          "html": "<a href=\"https://cityofflinflon.com/category/explanation/etc/\" rel=\"category tag\">イーサリアム・クラシック(ETC)</a>",
+          "impact": "serious",
+          "messages": [
+            "Target has insufficient size (159.2px by 23px, should be at least 24px by 24px)",
+            "Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 23px instead of at least 24px."
+          ],
+          "box": {
+            "x": 295,
+            "y": 786.796875,
+            "w": 159.171875,
+            "h": 23
+          }
+        },
+        {
+          "target": ".post-1 > .post-box-contents.clearfix > .post-meta-all > .post-tag > a[rel=\"tag\"]:nth-child(1)",
+          "html": "<a href=\"https://cityofflinflon.com/tag/etc/\" rel=\"tag\">ETC</a>",
+          "impact": "serious",
+          "messages": [
+            "Target has insufficient size (35.2px by 22px, should be at least 24px by 24px)",
+            "Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 22px instead of at least 24px."
+          ],
+          "box": {
+            "x": 466.734375,
+            "y": 787.46875,
+            "w": 35.1875,
+            "h": 22
+          }
+        },
+        {
+          "target": ".post-1 > .post-box-contents.clearfix > .post-meta-all > .post-tag > a[rel=\"tag\"]:nth-child(2)",
+          "html": "<a href=\"https://cityofflinflon.com/tag/characteristic/\" rel=\"tag\">特徴</a>",
+          "impact": "serious",
+          "messages": [
+            "Target has insufficient size (36px by 22px, should be at least 24px by 24px)",
+            "Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 22px instead of at least 24px."
+          ],
+          "box": {
+            "x": 507.921875,
+            "y": 787.46875,
+            "w": 36,
+            "h": 22
+          }
+        },
+        {
+          "target": ".post-1 > .post-box-contents.clearfix > .post-meta-all > .post-tag > a[rel=\"tag\"]:nth-child(3)",
+          "html": "<a href=\"https://cityofflinflon.com/tag/explanation/\" rel=\"tag\">解説</a>",
+          "impact": "serious",
+          "messages": [
+            "Target has insufficient size (36px by 22px, should be at least 24px by 24px)",
+            "Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 22px instead of at least 24px."
+          ],
+          "box": {
+            "x": 549.921875,
+            "y": 787.46875,
+            "w": 36,
+            "h": 22
+          }
+        },
+        {
+          "target": ".post-2 > .post-box-contents.clearfix > .post-meta-all > .post-cat > a[rel=\"category tag\"]",
+          "html": "<a href=\"https://cityofflinflon.com/category/explanation/bts/\" rel=\"category tag\">ビットシェアーズ(BTS)</a>",
+          "impact": "serious",
+          "messages": [
+            "Target has insufficient size (122.3px by 23px, should be at least 24px by 24px)",
+            "Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 23px instead of at least 24px."
+          ],
+          "box": {
+            "x": 295,
+            "y": 979.1875,
+            "w": 122.28125,
+            "h": 23
+          }
+        },
+        {
+          "target": ".post-2 > .post-box-contents.clearfix > .post-meta-all > .post-tag > a[rel=\"tag\"]:nth-child(1)",
+          "html": "<a href=\"https://cityofflinflon.com/tag/bts/\" rel=\"tag\">BTS</a>",
+          "impact": "serious",
+          "messages": [
+            "Target has insufficient size (35.2px by 22px, should be at least 24px by 24px)",
+            "Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 22px instead of at least 24px."
+          ],
+          "box": {
+            "x": 429.84375,
+            "y": 979.859375,
+            "w": 35.234375,
+            "h": 22
+          }
+        },
+        {
+          "target": ".post-2 > .post-box-contents.clearfix > .post-meta-all > .post-tag > a[rel=\"tag\"]:nth-child(2)",
+          "html": "<a href=\"https://cityofflinflon.com/tag/characteristic/\" rel=\"tag\">特徴</a>",
+          "impact": "serious",
+          "messages": [
+            "Target has insufficient size (36px by 22px, should be at least 24px by 24px)",
+            "Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 22px instead of at least 24px."
+          ],
+          "box": {
+            "x": 471.078125,
+            "y": 979.859375,
+            "w": 36,
+            "h": 22
+          }
+        },
+        {
+          "target": ".post-2 > .post-box-contents.clearfix > .post-meta-all > .post-tag > a[rel=\"tag\"]:nth-child(3)",
+          "html": "<a href=\"https://cityofflinflon.com/tag/explanation/\" rel=\"tag\">解説</a>",
+          "impact": "serious",
+          "messages": [
+            "Target has insufficient size (36px by 22px, should be at least 24px by 24px)",
+            "Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 22px instead of at least 24px."
+          ],
+          "box": {
+            "x": 513.078125,
+            "y": 979.859375,
+            "w": 36,
+            "h": 22
+          }
+        },
+        {
+          "target": ".post-3 > .post-box-contents.clearfix > .post-meta-all > .post-cat > a[rel=\"category tag\"]",
+          "html": "<a href=\"https://cityofflinflon.com/category/explanation/icx/\" rel=\"category tag\">アイコン(ICX)</a>",
+          "impact": "serious",
+          "messages": [
+            "Target has insufficient size (80.9px by 23px, should be at least 24px by 24px)",
+            "Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 23px instead of at least 24px."
+          ],
+          "box": {
+            "x": 295,
+            "y": 1178.109375,
+            "w": 80.859375,
+            "h": 23
+          }
+        },
+        {
+          "target": ".post-3 > .post-box-contents.clearfix > .post-meta-all > .post-tag > a[rel=\"tag\"]:nth-child(1)",
+          "html": "<a href=\"https://cityofflinflon.com/tag/icx/\" rel=\"tag\">ICX</a>",
+          "impact": "serious",
+          "messages": [
+            "Target has insufficient size (32.3px by 22px, should be at least 24px by 24px)",
+            "Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 22px instead of at least 24px."
+          ],
+          "box": {
+            "x": 388.421875,
+            "y": 1178.78125,
+            "w": 32.296875,
+            "h": 22
+          }
+        },
+        {
+          "target": ".post-3 > .post-box-contents.clearfix > .post-meta-all > .post-tag > a[rel=\"tag\"]:nth-child(2)",
+          "html": "<a href=\"https://cityofflinflon.com/tag/characteristic/\" rel=\"tag\">特徴</a>",
+          "impact": "serious",
+          "messages": [
+            "Target has insufficient size (36px by 22px, should be at least 24px by 24px)",
+            "Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 22px instead of at least 24px."
+          ],
+          "box": {
+            "x": 426.71875,
+            "y": 1178.78125,
+            "w": 36,
+            "h": 22
+          }
+        },
+        {
+          "target": ".post-3 > .post-box-contents.clearfix > .post-meta-all > .post-tag > a[rel=\"tag\"]:nth-child(3)",
+          "html": "<a href=\"https://cityofflinflon.com/tag/explanation/\" rel=\"tag\">解説</a>",
+          "impact": "serious",
+          "messages": [
+            "Target has insufficient size (36px by 22px, should be at least 24px by 24px)",
+            "Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 22px instead of at least 24px."
+          ],
+          "box": {
+            "x": 468.71875,
+            "y": 1178.78125,
+            "w": 36,
+            "h": 22
+          }
+        },
+        {
+          "target": ".post-4 > .post-box-contents.clearfix > .post-meta-all > .post-cat > a[rel=\"category tag\"]",
+          "html": "<a href=\"https://cityofflinflon.com/category/explanation/nano/\" rel=\"category tag\">ナノ(Nano)</a>",
+          "impact": "serious",
+          "messages": [
+            "Target has insufficient size (69.5px by 23px, should be at least 24px by 24px)",
+            "Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 23px instead of at least 24px."
+          ],
+          "box": {
+            "x": 295,
+            "y": 1356.796875,
+            "w": 69.46875,
+            "h": 23
+          }
+        },
+        {
+          "target": ".post-4 > .post-box-contents.clearfix > .post-meta-all > .post-tag > a[rel=\"tag\"]:nth-child(1)",
+          "html": "<a href=\"https://cityofflinflon.com/tag/characteristic/\" rel=\"tag\">特徴</a>",
+          "impact": "serious",
+          "messages": [
+            "Target has insufficient size (36px by 22px, should be at least 24px by 24px)",
+            "Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 22px instead of at least 24px."
+          ],
+          "box": {
+            "x": 377.03125,
+            "y": 1357.46875,
+            "w": 36,
+            "h": 22
+          }
+        },
+        {
+          "target": ".post-4 > .post-box-contents.clearfix > .post-meta-all > .post-tag > a[rel=\"tag\"]:nth-child(2)",
+          "html": "<a href=\"https://cityofflinflon.com/tag/explanation/\" rel=\"tag\">解説</a>",
+          "impact": "serious",
+          "messages": [
+            "Target has insufficient size (36px by 22px, should be at least 24px by 24px)",
+            "Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 22px instead of at least 24px."
+          ],
+          "box": {
+            "x": 419.03125,
+            "y": 1357.46875,
+            "w": 36,
+            "h": 22
+          }
+        },
+        {
+          "target": ".post-5 > .post-box-contents.clearfix > .post-meta-all > .post-cat > a[rel=\"category tag\"]",
+          "html": "<a href=\"https://cityofflinflon.com/category/explanation/ae/\" rel=\"category tag\">エターニティ(AE)</a>",
+          "impact": "serious",
+          "messages": [
+            "Target has insufficient size (96.8px by 23px, should be at least 24px by 24px)",
+            "Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 23px instead of at least 24px."
+          ],
+          "box": {
+            "x": 295,
+            "y": 1535.484375,
+            "w": 96.78125,
+            "h": 23
+          }
+        },
+        {
+          "target": ".post-5 > .post-box-contents.clearfix > .post-meta-all > .post-tag > a[rel=\"tag\"]:nth-child(1)",
+          "html": "<a href=\"https://cityofflinflon.com/tag/ae/\" rel=\"tag\">AE</a>",
+          "impact": "serious",
+          "messages": [
+            "Target has insufficient size (28.7px by 22px, should be at least 24px by 24px)",
+            "Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 22px instead of at least 24px."
+          ],
+          "box": {
+            "x": 404.34375,
+            "y": 1536.15625,
+            "w": 28.6875,
+            "h": 22
+          }
+        },
+        {
+          "target": ".post-5 > .post-box-contents.clearfix > .post-meta-all > .post-tag > a[rel=\"tag\"]:nth-child(2)",
+          "html": "<a href=\"https://cityofflinflon.com/tag/characteristic/\" rel=\"tag\">特徴</a>",
+          "impact": "serious",
+          "messages": [
+            "Target has insufficient size (36px by 22px, should be at least 24px by 24px)",
+            "Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 22px instead of at least 24px."
+          ],
+          "box": {
+            "x": 439.03125,
+            "y": 1536.15625,
+            "w": 36,
+            "h": 22
+          }
+        },
+        {
+          "target": ".post-5 > .post-box-contents.clearfix > .post-meta-all > .post-tag > a[rel=\"tag\"]:nth-child(3)",
+          "html": "<a href=\"https://cityofflinflon.com/tag/explanation/\" rel=\"tag\">解説</a>",
+          "impact": "serious",
+          "messages": [
+            "Target has insufficient size (36px by 22px, should be at least 24px by 24px)",
+            "Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 22px instead of at least 24px."
+          ],
+          "box": {
+            "x": 481.03125,
+            "y": 1536.15625,
+            "w": 36,
+            "h": 22
+          }
+        },
+        {
+          "target": ".post-6 > .post-box-contents.clearfix > .post-meta-all > .post-cat > a[rel=\"category tag\"]",
+          "html": "<a href=\"https://cityofflinflon.com/category/explanation/mkr/\" rel=\"category tag\">メーカー(MKR)</a>",
+          "impact": "serious",
+          "messages": [
+            "Target has insufficient size (87.6px by 23px, should be at least 24px by 24px)",
+            "Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 23px instead of at least 24px."
+          ],
+          "box": {
+            "x": 295,
+            "y": 1734.40625,
+            "w": 87.59375,
+            "h": 23
+          }
+        },
+        {
+          "target": ".post-6 > .post-box-contents.clearfix > .post-meta-all > .post-tag > a[rel=\"tag\"]:nth-child(1)",
+          "html": "<a href=\"https://cityofflinflon.com/tag/mkr/\" rel=\"tag\">MKR</a>",
+          "impact": "serious",
+          "messages": [
+            "Target has insufficient size (38.8px by 22px, should be at least 24px by 24px)",
+            "Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 22px instead of at least 24px."
+          ],
+          "box": {
+            "x": 395.15625,
+            "y": 1735.078125,
+            "w": 38.8125,
+            "h": 22
+          }
+        },
+        {
+          "target": ".post-6 > .post-box-contents.clearfix > .post-meta-all > .post-tag > a[rel=\"tag\"]:nth-child(2)",
+          "html": "<a href=\"https://cityofflinflon.com/tag/characteristic/\" rel=\"tag\">特徴</a>",
+          "impact": "serious",
+          "messages": [
+            "Target has insufficient size (36px by 22px, should be at least 24px by 24px)",
+            "Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 22px instead of at least 24px."
+          ],
+          "box": {
+            "x": 439.96875,
+            "y": 1735.078125,
+            "w": 36,
+            "h": 22
+          }
+        },
+        {
+          "target": ".post-6 > .post-box-contents.clearfix > .post-meta-all > .post-tag > a[rel=\"tag\"]:nth-child(3)",
+          "html": "<a href=\"https://cityofflinflon.com/tag/explanation/\" rel=\"tag\">解説</a>",
+          "impact": "serious",
+          "messages": [
+            "Target has insufficient size (36px by 22px, should be at least 24px by 24px)",
+            "Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 22px instead of at least 24px."
+          ],
+          "box": {
+            "x": 481.96875,
+            "y": 1735.078125,
+            "w": 36,
+            "h": 22
+          }
+        },
+        {
+          "target": ".post-7 > .post-box-contents.clearfix > .post-meta-all > .post-cat > a[rel=\"category tag\"]",
+          "html": "<a href=\"https://cityofflinflon.com/category/explanation/doge/\" rel=\"category tag\">ドージコイン(DOGE)</a>",
+          "impact": "serious",
+          "messages": [
+            "Target has insufficient size (112px by 23px, should be at least 24px by 24px)",
+            "Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 23px instead of at least 24px."
+          ],
+          "box": {
+            "x": 295,
+            "y": 2022,
+            "w": 112,
+            "h": 23
+          }
+        },
+        {
+          "target": ".post-7 > .post-box-contents.clearfix > .post-meta-all > .post-tag > a[rel=\"tag\"]:nth-child(1)",
+          "html": "<a href=\"https://cityofflinflon.com/tag/doge/\" rel=\"tag\">DOGE</a>",
+          "impact": "serious",
+          "messages": [
+            "Target has insufficient size (44.2px by 22px, should be at least 24px by 24px)",
+            "Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 22px instead of at least 24px."
+          ],
+          "box": {
+            "x": 419.5625,
+            "y": 2022.671875,
+            "w": 44.234375,
+            "h": 22
+          }
+        },
+        {
+          "target": ".post-7 > .post-box-contents.clearfix > .post-meta-all > .post-tag > a[rel=\"tag\"]:nth-child(2)",
+          "html": "<a href=\"https://cityofflinflon.com/tag/characteristic/\" rel=\"tag\">特徴</a>",
+          "impact": "serious",
+          "messages": [
+            "Target has insufficient size (36px by 22px, should be at least 24px by 24px)",
+            "Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 22px instead of at least 24px."
+          ],
+          "box": {
+            "x": 469.796875,
+            "y": 2022.671875,
+            "w": 36,
+            "h": 22
+          }
+        },
+        {
+          "target": ".post-7 > .post-box-contents.clearfix > .post-meta-all > .post-tag > a[rel=\"tag\"]:nth-child(3)",
+          "html": "<a href=\"https://cityofflinflon.com/tag/explanation/\" rel=\"tag\">解説</a>",
+          "impact": "serious",
+          "messages": [
+            "Target has insufficient size (36px by 22px, should be at least 24px by 24px)",
+            "Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 22px instead of at least 24px."
+          ],
+          "box": {
+            "x": 511.796875,
+            "y": 2022.671875,
+            "w": 36,
+            "h": 22
+          }
+        },
+        {
+          "target": ".post-8 > .post-box-contents.clearfix > .post-meta-all > .post-cat > a[rel=\"category tag\"]",
+          "html": "<a href=\"https://cityofflinflon.com/category/explanation/vet/\" rel=\"category tag\">べチェーン(VET)</a>",
+          "impact": "serious",
+          "messages": [
+            "Target has insufficient size (93.2px by 23px, should be at least 24px by 24px)",
+            "Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 23px instead of at least 24px."
+          ],
+          "box": {
+            "x": 295,
+            "y": 2309.59375,
+            "w": 93.203125,
+            "h": 23
+          }
+        },
+        {
+          "target": ".post-8 > .post-box-contents.clearfix > .post-meta-all > .post-tag > a[rel=\"tag\"]:nth-child(1)",
+          "html": "<a href=\"https://cityofflinflon.com/tag/vet/\" rel=\"tag\">VET</a>",
+          "impact": "serious",
+          "messages": [
+            "Target has insufficient size (35px by 22px, should be at least 24px by 24px)",
+            "Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 22px instead of at least 24px."
+          ],
+          "box": {
+            "x": 400.765625,
+            "y": 2310.265625,
+            "w": 34.953125,
+            "h": 22
+          }
+        },
+        {
+          "target": ".post-8 > .post-box-contents.clearfix > .post-meta-all > .post-tag > a[rel=\"tag\"]:nth-child(2)",
+          "html": "<a href=\"https://cityofflinflon.com/tag/characteristic/\" rel=\"tag\">特徴</a>",
+          "impact": "serious",
+          "messages": [
+            "Target has insufficient size (36px by 22px, should be at least 24px by 24px)",
+            "Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 22px instead of at least 24px."
+          ],
+          "box": {
+            "x": 441.71875,
+            "y": 2310.265625,
+            "w": 36,
+            "h": 22
+          }
+        },
+        {
+          "target": ".post-8 > .post-box-contents.clearfix > .post-meta-all > .post-tag > a[rel=\"tag\"]:nth-child(3)",
+          "html": "<a href=\"https://cityofflinflon.com/tag/explanation/\" rel=\"tag\">解説</a>",
+          "impact": "serious",
+          "messages": [
+            "Target has insufficient size (36px by 22px, should be at least 24px by 24px)",
+            "Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 22px instead of at least 24px."
+          ],
+          "box": {
+            "x": 483.71875,
+            "y": 2310.265625,
+            "w": 36,
+            "h": 22
+          }
+        },
+        {
+          "target": ".post-9 > .post-box-contents.clearfix > .post-meta-all > .post-cat > a[rel=\"category tag\"]",
+          "html": "<a href=\"https://cityofflinflon.com/category/explanation/xtz/\" rel=\"category tag\">テゾス(XTZ)</a>",
+          "impact": "serious",
+          "messages": [
+            "Target has insufficient size (73.9px by 23px, should be at least 24px by 24px)",
+            "Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 23px instead of at least 24px."
+          ],
+          "box": {
+            "x": 295,
+            "y": 2597.1875,
+            "w": 73.921875,
+            "h": 23
+          }
+        },
+        {
+          "target": ".post-9 > .post-box-contents.clearfix > .post-meta-all > .post-tag > a[rel=\"tag\"]:nth-child(1)",
+          "html": "<a href=\"https://cityofflinflon.com/tag/xtz/\" rel=\"tag\">XTZ</a>",
+          "impact": "serious",
+          "messages": [
+            "Target has insufficient size (34.9px by 22px, should be at least 24px by 24px)",
+            "Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 22px instead of at least 24px."
+          ],
+          "box": {
+            "x": 381.484375,
+            "y": 2597.859375,
+            "w": 34.875,
+            "h": 22
+          }
+        },
+        {
+          "target": ".post-9 > .post-box-contents.clearfix > .post-meta-all > .post-tag > a[rel=\"tag\"]:nth-child(2)",
+          "html": "<a href=\"https://cityofflinflon.com/tag/characteristic/\" rel=\"tag\">特徴</a>",
+          "impact": "serious",
+          "messages": [
+            "Target has insufficient size (36px by 22px, should be at least 24px by 24px)",
+            "Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 22px instead of at least 24px."
+          ],
+          "box": {
+            "x": 422.359375,
+            "y": 2597.859375,
+            "w": 36,
+            "h": 22
+          }
+        },
+        {
+          "target": ".post-9 > .post-box-contents.clearfix > .post-meta-all > .post-tag > a[rel=\"tag\"]:nth-child(3)",
+          "html": "<a href=\"https://cityofflinflon.com/tag/explanation/\" rel=\"tag\">解説</a>",
+          "impact": "serious",
+          "messages": [
+            "Target has insufficient size (36px by 22px, should be at least 24px by 24px)",
+            "Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 22px instead of at least 24px."
+          ],
+          "box": {
+            "x": 464.359375,
+            "y": 2597.859375,
+            "w": 36,
+            "h": 22
+          }
+        },
+        {
+          "target": ".post-10 > .post-box-contents.clearfix > .post-meta-all > .post-cat > a[rel=\"category tag\"]",
+          "html": "<a href=\"https://cityofflinflon.com/category/explanation/xem/\" rel=\"category tag\">ネム(XEM)</a>",
+          "impact": "serious",
+          "messages": [
+            "Target has insufficient size (67.5px by 23px, should be at least 24px by 24px)",
+            "Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 23px instead of at least 24px."
+          ],
+          "box": {
+            "x": 295,
+            "y": 2884.78125,
+            "w": 67.484375,
+            "h": 23
+          }
+        },
+        {
+          "target": ".post-10 > .post-box-contents.clearfix > .post-meta-all > .post-tag > a[rel=\"tag\"]:nth-child(1)",
+          "html": "<a href=\"https://cityofflinflon.com/tag/xem/\" rel=\"tag\">XEM</a>",
+          "impact": "serious",
+          "messages": [
+            "Target has insufficient size (37.9px by 22px, should be at least 24px by 24px)",
+            "Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 22px instead of at least 24px."
+          ],
+          "box": {
+            "x": 375.046875,
+            "y": 2885.453125,
+            "w": 37.875,
+            "h": 22
+          }
+        },
+        {
+          "target": ".post-10 > .post-box-contents.clearfix > .post-meta-all > .post-tag > a[rel=\"tag\"]:nth-child(2)",
+          "html": "<a href=\"https://cityofflinflon.com/tag/characteristic/\" rel=\"tag\">特徴</a>",
+          "impact": "serious",
+          "messages": [
+            "Target has insufficient size (36px by 22px, should be at least 24px by 24px)",
+            "Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 22px instead of at least 24px."
+          ],
+          "box": {
+            "x": 418.921875,
+            "y": 2885.453125,
+            "w": 36,
+            "h": 22
+          }
+        },
+        {
+          "target": ".post-10 > .post-box-contents.clearfix > .post-meta-all > .post-tag > a[rel=\"tag\"]:nth-child(3)",
+          "html": "<a href=\"https://cityofflinflon.com/tag/explanation/\" rel=\"tag\">解説</a>",
+          "impact": "serious",
+          "messages": [
+            "Target has insufficient size (36px by 22px, should be at least 24px by 24px)",
+            "Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 22px instead of at least 24px."
+          ],
+          "box": {
+            "x": 460.921875,
+            "y": 2885.453125,
+            "w": 36,
+            "h": 22
+          }
+        },
+        {
+          "target": ".post-11 > .post-box-contents.clearfix > .post-meta-all > .post-cat > a[rel=\"category tag\"]",
+          "html": "<a href=\"https://cityofflinflon.com/category/explanation/bnb/\" rel=\"category tag\">バイナンスコイン(BNB)</a>",
+          "impact": "serious",
+          "messages": [
+            "Target has insufficient size (124.3px by 23px, should be at least 24px by 24px)",
+            "Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 23px instead of at least 24px."
+          ],
+          "box": {
+            "x": 295,
+            "y": 3172.375,
+            "w": 124.328125,
+            "h": 23
+          }
+        },
+        {
+          "target": ".post-11 > .post-box-contents.clearfix > .post-meta-all > .post-tag > a[rel=\"tag\"]:nth-child(1)",
+          "html": "<a href=\"https://cityofflinflon.com/tag/bnb/\" rel=\"tag\">BNB</a>",
+          "impact": "serious",
+          "messages": [
+            "Target has insufficient size (37.1px by 22px, should be at least 24px by 24px)",
+            "Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 22px instead of at least 24px."
+          ],
+          "box": {
+            "x": 431.890625,
+            "y": 3173.046875,
+            "w": 37.078125,
+            "h": 22
+          }
+        },
+        {
+          "target": ".post-11 > .post-box-contents.clearfix > .post-meta-all > .post-tag > a[rel=\"tag\"]:nth-child(2)",
+          "html": "<a href=\"https://cityofflinflon.com/tag/characteristic/\" rel=\"tag\">特徴</a>",
+          "impact": "serious",
+          "messages": [
+            "Target has insufficient size (36px by 22px, should be at least 24px by 24px)",
+            "Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 22px instead of at least 24px."
+          ],
+          "box": {
+            "x": 474.96875,
+            "y": 3173.046875,
+            "w": 36,
+            "h": 22
+          }
+        },
+        {
+          "target": ".post-11 > .post-box-contents.clearfix > .post-meta-all > .post-tag > a[rel=\"tag\"]:nth-child(3)",
+          "html": "<a href=\"https://cityofflinflon.com/tag/explanation/\" rel=\"tag\">解説</a>",
+          "impact": "serious",
+          "messages": [
+            "Target has insufficient size (36px by 22px, should be at least 24px by 24px)",
+            "Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 22px instead of at least 24px."
+          ],
+          "box": {
+            "x": 516.96875,
+            "y": 3173.046875,
+            "w": 36,
+            "h": 22
+          }
+        },
+        {
+          "target": ".post-12 > .post-box-contents.clearfix > .post-meta-all > .post-cat > a[rel=\"category tag\"]",
+          "html": "<a href=\"https://cityofflinflon.com/category/explanation/eos/\" rel=\"category tag\">イオス(EOS)</a>",
+          "impact": "serious",
+          "messages": [
+            "Target has insufficient size (75.1px by 23px, should be at least 24px by 24px)",
+            "Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 23px instead of at least 24px."
+          ],
+          "box": {
+            "x": 295,
+            "y": 3459.96875,
+            "w": 75.09375,
+            "h": 23
+          }
+        },
+        {
+          "target": ".post-12 > .post-box-contents.clearfix > .post-meta-all > .post-tag > a[rel=\"tag\"]:nth-child(1)",
+          "html": "<a href=\"https://cityofflinflon.com/tag/eos/\" rel=\"tag\">EOS</a>",
+          "impact": "serious",
+          "messages": [
+            "Target has insufficient size (35.8px by 22px, should be at least 24px by 24px)",
+            "Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 22px instead of at least 24px."
+          ],
+          "box": {
+            "x": 382.65625,
+            "y": 3460.640625,
+            "w": 35.78125,
+            "h": 22
+          }
+        },
+        {
+          "target": ".post-12 > .post-box-contents.clearfix > .post-meta-all > .post-tag > a[rel=\"tag\"]:nth-child(2)",
+          "html": "<a href=\"https://cityofflinflon.com/tag/characteristic/\" rel=\"tag\">特徴</a>",
+          "impact": "serious",
+          "messages": [
+            "Target has insufficient size (36px by 22px, should be at least 24px by 24px)",
+            "Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 22px instead of at least 24px."
+          ],
+          "box": {
+            "x": 424.4375,
+            "y": 3460.640625,
+            "w": 36,
+            "h": 22
+          }
+        },
+        {
+          "target": ".post-12 > .post-box-contents.clearfix > .post-meta-all > .post-tag > a[rel=\"tag\"]:nth-child(3)",
+          "html": "<a href=\"https://cityofflinflon.com/tag/explanation/\" rel=\"tag\">解説</a>",
+          "impact": "serious",
+          "messages": [
+            "Target has insufficient size (36px by 22px, should be at least 24px by 24px)",
+            "Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 22px instead of at least 24px."
+          ],
+          "box": {
+            "x": 466.4375,
+            "y": 3460.640625,
+            "w": 36,
+            "h": 22
+          }
+        }
+      ]
+    }
+  ],
+  "verdict": "FAILURES DETECTED"
+}

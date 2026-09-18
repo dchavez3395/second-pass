@@ -1,0 +1,481 @@
+{
+  "url": "https://www.ierha.ca/",
+  "ok": true,
+  "status": 200,
+  "title": "Interlake-Eastern RHA",
+  "finalUrl": "https://www.ierha.ca/",
+  "shape": {
+    "elements": 1004,
+    "images": 96,
+    "links": 55,
+    "buttons": 73,
+    "inputs": 12,
+    "headings": 5,
+    "textLength": 2265,
+    "lang": "en-CA",
+    "iframes": 0
+  },
+  "viewport": {
+    "width": 1366,
+    "height": 900
+  },
+  "scannedAt": "2026-09-18T04:56:12.198Z",
+  "axe": {
+    "violationRules": 2,
+    "violationNodes": 17,
+    "passRules": 30,
+    "passNodes": 241,
+    "incompleteRules": 1,
+    "incompleteNodes": 7,
+    "inapplicableRules": 33,
+    "testedNodes": 265
+  },
+  "incomplete": [
+    {
+      "id": "color-contrast",
+      "impact": "serious",
+      "help": "Elements must meet minimum color contrast ratio thresholds",
+      "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/color-contrast?application=playwright",
+      "tags": [
+        "cat.color",
+        "wcag2aa",
+        "wcag143",
+        "TTv5",
+        "TT13.c",
+        "EN-301-549",
+        "EN-9.1.4.3",
+        "ACT",
+        "RGAAv4",
+        "RGAA-3.2.1"
+      ],
+      "wcag": [
+        "1.4.3"
+      ],
+      "why": "Element's background color could not be determined due to a background image",
+      "nodes": 7,
+      "sample": [
+        {
+          "target": ".swp-input--search",
+          "html": "<input type=\"search\" class=\"swp-input--search swp-input\" placeholder=\"\" value=\"\" name=\"swps\" title=\"\" aria-label=\"Search\" aria-required=\"false\" style=\"\">"
+        },
+        {
+          "target": "time[datetime=\"2026-09-16T14:34:06-05:00\"]",
+          "html": "<time datetime=\"2026-09-16T14:34:06-05:00\">September 16, 2026</time>"
+        },
+        {
+          "target": "div[data-pid=\"27683\"] > .pt-cv-ifield > .pt-cv-title > ._self.cvplbd[target=\"_self\"]",
+          "html": "<a href=\"https://www.ierha.ca/options-for-non-urgent-health-care-including-additional-clinic-hours/\" class=\"_self cvplbd\" target=\"_self\">Options for non-urgent health care  including additional clinic"
+        }
+      ],
+      "items": [
+        {
+          "target": ".swp-input--search",
+          "html": "<input type=\"search\" class=\"swp-input--search swp-input\" placeholder=\"\" value=\"\" name=\"swps\" title=\"\" aria-label=\"Search\" aria-required=\"false\" style=\"\">",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 887.796875,
+            "y": 215,
+            "w": 213.203125,
+            "h": 42
+          }
+        },
+        {
+          "target": "time[datetime=\"2026-09-16T14:34:06-05:00\"]",
+          "html": "<time datetime=\"2026-09-16T14:34:06-05:00\">September 16, 2026</time>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it is overlapped by another element"
+          ],
+          "box": {
+            "x": 927.796875,
+            "y": 777.4375,
+            "w": 135.75,
+            "h": 16
+          }
+        },
+        {
+          "target": "div[data-pid=\"27683\"] > .pt-cv-ifield > .pt-cv-title > ._self.cvplbd[target=\"_self\"]",
+          "html": "<a href=\"https://www.ierha.ca/options-for-non-urgent-health-care-including-additional-clinic-hours/\" class=\"_self cvplbd\" target=\"_self\">Options for non-urgent health care  including additional clinic hours</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it is overlapped by another element"
+          ],
+          "box": {
+            "x": 939.796875,
+            "y": 809.4375,
+            "w": 215.1875,
+            "h": 70.171875
+          }
+        },
+        {
+          "target": "time[datetime=\"2026-09-08T09:09:00-05:00\"]",
+          "html": "<time datetime=\"2026-09-08T09:09:00-05:00\">September 8, 2026</time>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it is overlapped by another element"
+          ],
+          "box": {
+            "x": 927.796875,
+            "y": 913.609375,
+            "w": 130.6875,
+            "h": 16
+          }
+        },
+        {
+          "target": "div[data-pid=\"27637\"] > .pt-cv-ifield > .pt-cv-title > ._self.cvplbd[target=\"_self\"]",
+          "html": "<a href=\"https://www.ierha.ca/dynacare-labour-disruption-update-manitobas-health-system-response/\" class=\"_self cvplbd\" target=\"_self\">Dynacare Labour Disruption Update</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it is overlapped by another element"
+          ],
+          "box": {
+            "x": 939.796875,
+            "y": 945.609375,
+            "w": 215.1875,
+            "h": 46.78125
+          }
+        },
+        {
+          "target": "time[datetime=\"2026-09-04T09:34:41-05:00\"]",
+          "html": "<time datetime=\"2026-09-04T09:34:41-05:00\">September 4, 2026</time>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it is overlapped by another element"
+          ],
+          "box": {
+            "x": 927.796875,
+            "y": 1026.390625,
+            "w": 130.453125,
+            "h": 16
+          }
+        },
+        {
+          "target": "div[data-pid=\"27631\"] > .pt-cv-ifield > .pt-cv-title > ._self.cvplbd[target=\"_self\"]",
+          "html": "<a href=\"https://www.ierha.ca/quick-care-clinic-closed-friday-september-4/\" class=\"_self cvplbd\" target=\"_self\">Quick Care Clinic Closed Friday, September, 4</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it is overlapped by another element"
+          ],
+          "box": {
+            "x": 939.796875,
+            "y": 1058.390625,
+            "w": 215.1875,
+            "h": 70.171875
+          }
+        }
+      ]
+    }
+  ],
+  "violations": [
+    {
+      "id": "color-contrast",
+      "impact": "serious",
+      "help": "Elements must meet minimum color contrast ratio thresholds",
+      "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/color-contrast?application=playwright",
+      "tags": [
+        "cat.color",
+        "wcag2aa",
+        "wcag143",
+        "TTv5",
+        "TT13.c",
+        "EN-301-549",
+        "EN-9.1.4.3",
+        "ACT",
+        "RGAAv4",
+        "RGAA-3.2.1"
+      ],
+      "wcag": [
+        "1.4.3"
+      ],
+      "nodes": 14,
+      "items": [
+        {
+          "target": ".search-submit",
+          "html": "<input type=\"submit\" class=\"search-submit swp-button\" value=\"Search\" aria-label=\"Search\" style=\"\">",
+          "impact": "serious",
+          "messages": [
+            "Element has insufficient color contrast of 3.87 (foreground color: #ffffff, background color: #4e84c4, font size: 10.5pt (14px), font weight: normal). Expected contrast ratio of 4.5:1"
+          ],
+          "box": {
+            "x": 1108,
+            "y": 215,
+            "w": 86.984375,
+            "h": 42
+          }
+        },
+        {
+          "target": ".g-menu-item-2781 > .g-menu-item-container > .g-menu-item-content > .g-menu-item-title",
+          "html": "<span class=\"g-menu-item-title\">News &amp; Updates</span>",
+          "impact": "serious",
+          "messages": [
+            "Element has insufficient color contrast of 3.87 (foreground color: #ffffff, background color: #4e84c4, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1"
+          ],
+          "box": {
+            "x": 224.546875,
+            "y": 292.5,
+            "w": 127.59375,
+            "h": 19
+          }
+        },
+        {
+          "target": "a[href$=\"find-us/\"] > .g-menu-item-content > .g-menu-item-title",
+          "html": "<span class=\"g-menu-item-title\">Find Us</span>",
+          "impact": "serious",
+          "messages": [
+            "Element has insufficient color contrast of 3.87 (foreground color: #ffffff, background color: #4e84c4, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1"
+          ],
+          "box": {
+            "x": 416.6875,
+            "y": 292.5,
+            "w": 59.03125,
+            "h": 19
+          }
+        },
+        {
+          "target": ".g-menu-item-3358 > .g-menu-item-container > .g-menu-item-content > .g-menu-item-title",
+          "html": "<span class=\"g-menu-item-title\">Programs &amp; Services</span>",
+          "impact": "serious",
+          "messages": [
+            "Element has insufficient color contrast of 3.87 (foreground color: #ffffff, background color: #4e84c4, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1"
+          ],
+          "box": {
+            "x": 559.765625,
+            "y": 283,
+            "w": 88.609375,
+            "h": 38
+          }
+        },
+        {
+          "target": ".g-menu-item-3359 > .g-menu-item-container > .g-menu-item-content > .g-menu-item-title",
+          "html": "<span class=\"g-menu-item-title\">Patient Information</span>",
+          "impact": "serious",
+          "messages": [
+            "Element has insufficient color contrast of 3.87 (foreground color: #ffffff, background color: #4e84c4, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1"
+          ],
+          "box": {
+            "x": 686.0625,
+            "y": 273,
+            "w": 151.734375,
+            "h": 19
+          }
+        },
+        {
+          "target": ".g-menu-item-14557 > .g-menu-item-container > .g-menu-item-content > .g-menu-item-title",
+          "html": "<span class=\"g-menu-item-title\">Work With Us</span>",
+          "impact": "serious",
+          "messages": [
+            "Element has insufficient color contrast of 3.87 (foreground color: #ffffff, background color: #4e84c4, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1"
+          ],
+          "box": {
+            "x": 866.75,
+            "y": 292.5,
+            "w": 106.078125,
+            "h": 19
+          }
+        },
+        {
+          "target": "a[href$=\"about-us/\"] > .g-menu-item-content > .g-menu-item-title",
+          "html": "<span class=\"g-menu-item-title\">About Us</span>",
+          "impact": "serious",
+          "messages": [
+            "Element has insufficient color contrast of 3.87 (foreground color: #ffffff, background color: #4e84c4, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1"
+          ],
+          "box": {
+            "x": 1030.984375,
+            "y": 292.5,
+            "w": 71.84375,
+            "h": 19
+          }
+        },
+        {
+          "target": ".blue-button",
+          "html": "<a class=\"blue-button\" href=\"/about-us/strategic-plan/\">View our Strategic Plan</a>",
+          "impact": "serious",
+          "messages": [
+            "Element has insufficient color contrast of 3.87 (foreground color: #ffffff, background color: #4e84c4, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1"
+          ],
+          "box": {
+            "x": 181,
+            "y": 868.4375,
+            "w": 223.96875,
+            "h": 41
+          }
+        },
+        {
+          "target": "strong",
+          "html": "<strong>Treaty Acknowledgement</strong>",
+          "impact": "serious",
+          "messages": [
+            "Element has insufficient color contrast of 3.87 (foreground color: #ffffff, background color: #4e84c4, font size: 10.8pt (14.4px), font weight: bold). Expected contrast ratio of 4.5:1"
+          ],
+          "box": {
+            "x": 202,
+            "y": 1468.5625,
+            "w": 181.40625,
+            "h": 16
+          }
+        },
+        {
+          "target": "#custom_html-41 > .textwidget.custom-html-widget > p",
+          "html": "<p>",
+          "impact": "serious",
+          "messages": [
+            "Element has insufficient color contrast of 3.87 (foreground color: #ffffff, background color: #4e84c4, font size: 10.8pt (14.4px), font weight: normal). Expected contrast ratio of 4.5:1"
+          ],
+          "box": {
+            "x": 202,
+            "y": 1507.375,
+            "w": 654.796875,
+            "h": 302.4375
+          }
+        },
+        {
+          "target": ".textwidget.custom-html-widget > a[href$=\"contact-us/\"]",
+          "html": "<a href=\"/contact-us/\">Contact Us</a>",
+          "impact": "serious",
+          "messages": [
+            "Element has insufficient color contrast of 3.87 (foreground color: #ffffff, background color: #4e84c4, font size: 10.8pt (14.4px), font weight: bold). Expected contrast ratio of 4.5:1"
+          ],
+          "box": {
+            "x": 1002.15625,
+            "y": 1537.375,
+            "w": 78.453125,
+            "h": 16
+          }
+        },
+        {
+          "target": ".textwidget.custom-html-widget > a[href$=\"news-updates/\"]",
+          "html": "<a href=\"/news-updates/\">News &amp; Updates</a>",
+          "impact": "serious",
+          "messages": [
+            "Element has insufficient color contrast of 3.87 (foreground color: #ffffff, background color: #4e84c4, font size: 10.8pt (14.4px), font weight: bold). Expected contrast ratio of 4.5:1"
+          ],
+          "box": {
+            "x": 983.640625,
+            "y": 1566.1875,
+            "w": 115.484375,
+            "h": 16
+          }
+        },
+        {
+          "target": ".textwidget.custom-html-widget > a[href$=\"work-with-us/\"]",
+          "html": "<a href=\"/work-with-us/\">Work With Us</a>",
+          "impact": "serious",
+          "messages": [
+            "Element has insufficient color contrast of 3.87 (foreground color: #ffffff, background color: #4e84c4, font size: 10.8pt (14.4px), font weight: bold). Expected contrast ratio of 4.5:1"
+          ],
+          "box": {
+            "x": 992.921875,
+            "y": 1595,
+            "w": 96.921875,
+            "h": 16
+          }
+        },
+        {
+          "target": "#custom_html-42 > .textwidget.custom-html-widget > span",
+          "html": "<span>Follow us</span>",
+          "impact": "serious",
+          "messages": [
+            "Element has insufficient color contrast of 3.87 (foreground color: #ffffff, background color: #4e84c4, font size: 10.8pt (14.4px), font weight: normal). Expected contrast ratio of 4.5:1"
+          ],
+          "box": {
+            "x": 1007.90625,
+            "y": 1652.625,
+            "w": 66.96875,
+            "h": 16
+          }
+        }
+      ]
+    },
+    {
+      "id": "link-name",
+      "impact": "serious",
+      "help": "Links must have discernible text",
+      "description": "Ensure links have discernible text",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/link-name?application=playwright",
+      "tags": [
+        "cat.name-role-value",
+        "wcag2a",
+        "wcag244",
+        "wcag412",
+        "section508",
+        "section508.22.a",
+        "TTv5",
+        "TT6.a",
+        "EN-301-549",
+        "EN-9.2.4.4",
+        "EN-9.4.1.2",
+        "ACT",
+        "RGAAv4",
+        "RGAA-6.2.1"
+      ],
+      "wcag": [
+        "2.4.4",
+        "4.1.2"
+      ],
+      "nodes": 3,
+      "items": [
+        {
+          "target": ".footer-social > a[target=\"_blank\"]:nth-child(1)",
+          "html": "<a href=\"https://www.facebook.com/InterlakeEasternRHA\" target=\"_blank\"><i class=\"fa fa-facebook-square\" aria-hidden=\"true\"></i></a>",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": {
+            "x": 993.75,
+            "y": 1686.4375,
+            "w": 25.203125,
+            "h": 34
+          }
+        },
+        {
+          "target": ".footer-social > a[target=\"_blank\"]:nth-child(2)",
+          "html": "<a href=\"https://www.instagram.com/ierha_news/\" target=\"_blank\"><i class=\"fa-brands fa-square-instagram\"></i></a>",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": {
+            "x": 1028.78125,
+            "y": 1686.4375,
+            "w": 25.203125,
+            "h": 34
+          }
+        },
+        {
+          "target": "a[target=\"_blank\"]:nth-child(3)",
+          "html": "<a href=\"https://www.threads.com/@ierha_news\" target=\"_blank\"><i class=\"fa-brands fa-square-threads\"></i></a>",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": {
+            "x": 1063.8125,
+            "y": 1686.4375,
+            "w": 25.203125,
+            "h": 34
+          }
+        }
+      ]
+    }
+  ],
+  "verdict": "FAILURES DETECTED"
+}

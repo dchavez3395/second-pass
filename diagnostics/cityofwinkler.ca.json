@@ -1,0 +1,2135 @@
+{
+  "url": "https://www.cityofwinkler.ca/",
+  "ok": true,
+  "status": 200,
+  "title": "City of Winkler, Manitoba - Home",
+  "finalUrl": "https://www.cityofwinkler.ca/",
+  "shape": {
+    "elements": 1140,
+    "images": 2,
+    "links": 213,
+    "buttons": 61,
+    "inputs": 8,
+    "headings": 37,
+    "textLength": 4087,
+    "lang": "en",
+    "iframes": 3
+  },
+  "viewport": {
+    "width": 1366,
+    "height": 900
+  },
+  "scannedAt": "2026-09-18T04:51:54.705Z",
+  "axe": {
+    "violationRules": 8,
+    "violationNodes": 96,
+    "passRules": 28,
+    "passNodes": 885,
+    "incompleteRules": 2,
+    "incompleteNodes": 34,
+    "inapplicableRules": 32,
+    "testedNodes": 1015
+  },
+  "incomplete": [
+    {
+      "id": "color-contrast",
+      "impact": "serious",
+      "help": "Elements must meet minimum color contrast ratio thresholds",
+      "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/color-contrast?application=playwright",
+      "tags": [
+        "cat.color",
+        "wcag2aa",
+        "wcag143",
+        "TTv5",
+        "TT13.c",
+        "EN-301-549",
+        "EN-9.1.4.3",
+        "ACT",
+        "RGAAv4",
+        "RGAA-3.2.1"
+      ],
+      "wcag": [
+        "1.4.3"
+      ],
+      "why": "Element has a 1:1 contrast ratio with the background",
+      "nodes": 32,
+      "sample": [
+        {
+          "target": "#weatherwidget-io-0 .currentTemp",
+          "html": "<div class=\"currentTemp ng-binding\">8°C</div>"
+        },
+        {
+          "target": "#weatherwidget-io-0 .currentDesc",
+          "html": "<div class=\"currentDesc ng-binding\">broken clouds</div>"
+        },
+        {
+          "target": ".hcalendar[href$=\"waste-recycling-calendar\"] > .hcalendar-calendar",
+          "html": "<span class=\"hcalendar-calendar\">Today's Waste &amp; Recycling Schedule <span>Area 4 - Green</span></span>"
+        }
+      ],
+      "items": [
+        {
+          "target": "#weatherwidget-io-0 .currentTemp",
+          "html": "<div class=\"currentTemp ng-binding\">8°C</div>",
+          "impact": "serious",
+          "messages": [
+            "Element has a 1:1 contrast ratio with the background"
+          ],
+          "box": null
+        },
+        {
+          "target": "#weatherwidget-io-0 .currentDesc",
+          "html": "<div class=\"currentDesc ng-binding\">broken clouds</div>",
+          "impact": "serious",
+          "messages": [
+            "Element has a 1:1 contrast ratio with the background"
+          ],
+          "box": null
+        },
+        {
+          "target": ".hcalendar[href$=\"waste-recycling-calendar\"] > .hcalendar-calendar",
+          "html": "<span class=\"hcalendar-calendar\">Today's Waste &amp; Recycling Schedule <span>Area 4 - Green</span></span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 673.328125,
+            "y": 28.59375,
+            "w": 187.015625,
+            "h": 36
+          }
+        },
+        {
+          "target": ".hcalendar[href$=\"waste-recycling-calendar\"] > .hcalendar-calendar > span",
+          "html": "<span>Area 4 - Green</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 673.328125,
+            "y": 44.59375,
+            "w": 187.015625,
+            "h": 20
+          }
+        },
+        {
+          "target": ".text",
+          "html": "<span class=\"text\">What can we help you find?</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 1125.265625,
+            "y": 38.203125,
+            "w": 142.609375,
+            "h": 15
+          }
+        },
+        {
+          "target": "#\\#categoryNavID0 > span",
+          "html": "<span>Home</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 74.625,
+            "y": 119.09375,
+            "w": 63.59375,
+            "h": 24
+          }
+        },
+        {
+          "target": "#\\#categoryNavID1",
+          "html": "<a href=\"/p/city-hall\" title=\"Click to view City Hall\" class=\"menuonehovercolor \" id=\"#categoryNavID1\" role=\"menuitem\" aria-haspopup=\"true\" aria-owns=\"subMainMenu0\" style=\"cursor: default;\">       City Hall </a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 281.40625,
+            "y": 96.09375,
+            "w": 151.46875,
+            "h": 70
+          }
+        },
+        {
+          "target": "#\\#categoryNavID2",
+          "html": "<a href=\"/p/living\" title=\"Click to view LIVE\" class=\"menuonehovercolor \" id=\"#categoryNavID2\" role=\"menuitem\" aria-haspopup=\"true\" aria-owns=\"subMainMenu1\" style=\"cursor: default;\">       LIVE </a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 556.0625,
+            "y": 96.09375,
+            "w": 88.1875,
+            "h": 70
+          }
+        },
+        {
+          "target": "#\\#categoryNavID3",
+          "html": "<a href=\"/p/business\" title=\"Click to view WORK\" class=\"menuonehovercolor \" id=\"#categoryNavID3\" role=\"menuitem\" aria-haspopup=\"true\" aria-owns=\"subMainMenu2\" style=\"cursor: default;\">       WORK </a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 767.421875,
+            "y": 96.09375,
+            "w": 106.203125,
+            "h": 70
+          }
+        },
+        {
+          "target": "#\\#categoryNavID4",
+          "html": "<a href=\"/p/visiting\" title=\"Click to view VISIT\" class=\"menuonehovercolor \" id=\"#categoryNavID4\" role=\"menuitem\" aria-haspopup=\"true\" aria-owns=\"subMainMenu3\" style=\"cursor: default;\">       VISIT </a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 996.8125,
+            "y": 96.09375,
+            "w": 96.296875,
+            "h": 70
+          }
+        },
+        {
+          "target": "#\\#categoryNavID5",
+          "html": "<a href=\"https://playwinkler.ca/\" target=\"_blank\" title=\"Click to view PLAY\" class=\"menuonehovercolor home\" id=\"#categoryNavID5\" role=\"menuitem\">       PLAY </a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 1216.296875,
+            "y": 96.09375,
+            "w": 95.078125,
+            "h": 70
+          }
+        },
+        {
+          "target": ".container > .qlContainer > a:nth-child(1) > span",
+          "html": "<span>City of Winkler Newsletter</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it partially overlaps other elements"
+          ],
+          "box": {
+            "x": 91.125,
+            "y": 826,
+            "w": 154.53125,
+            "h": 43
+          }
+        },
+        {
+          "target": ".container > .qlContainer > a:nth-child(2) > span",
+          "html": "<span>Street Light Outage</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it partially overlaps other elements"
+          ],
+          "box": {
+            "x": 349.59375,
+            "y": 826,
+            "w": 124.5,
+            "h": 43
+          }
+        },
+        {
+          "target": ".container > .qlContainer > a:nth-child(3) > span",
+          "html": "<span>Utility Bill Estimator</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it partially overlaps other elements"
+          ],
+          "box": {
+            "x": 567.71875,
+            "y": 826,
+            "w": 117.375,
+            "h": 43
+          }
+        },
+        {
+          "target": ".container > .qlContainer > a:nth-child(4) > span",
+          "html": "<span>How to pay a city bill online</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it partially overlaps other elements"
+          ],
+          "box": {
+            "x": 781,
+            "y": 826,
+            "w": 212.4375,
+            "h": 43
+          }
+        },
+        {
+          "target": ".container > .qlContainer > a:nth-child(5) > span",
+          "html": "<span>Service Requests</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it partially overlaps other elements"
+          ],
+          "box": {
+            "x": 1064.234375,
+            "y": 826,
+            "w": 97.984375,
+            "h": 43
+          }
+        },
+        {
+          "target": ".container > .qlContainer > a:nth-child(6) > span",
+          "html": "<span>e-Services</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it partially overlaps other elements"
+          ],
+          "box": {
+            "x": 1236.03125,
+            "y": 826,
+            "w": 86.265625,
+            "h": 43
+          }
+        },
+        {
+          "target": "#\\#imageCaption1 > h2",
+          "html": "<h2>September 18</h2>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 81.953125,
+            "y": 256.75,
+            "w": 546.390625,
+            "h": 33
+          }
+        },
+        {
+          "target": "#\\#imageCaption1 > h3",
+          "html": "<h3>Home Opener Celebration</h3>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 81.953125,
+            "y": 289.75,
+            "w": 546.390625,
+            "h": 52
+          }
+        },
+        {
+          "target": "#\\#imageCaption1 > p",
+          "html": "<p>Join us in celebrating the Flyers home opener in the Centennial Arena this Friday! Enjoy barbecue, live music, and kid's activities from 4-7pm, with the game starting at 7pm.</p>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 81.953125,
+            "y": 357.75,
+            "w": 546.390625,
+            "h": 112
+          }
+        },
+        {
+          "target": "#\\#imageCaption1 > a[title=\"Click here to read more\"]",
+          "html": "<a href=\"https://playwinkler.ca/events/home-opener-celebration\" title=\"Click here to read more\">Read More</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 81.953125,
+            "y": 486.75,
+            "w": 142.703125,
+            "h": 24
+          }
+        },
+        {
+          "target": ".contact-us > h3",
+          "html": "<h3>Contact Us</h3>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 343.765625,
+            "y": 1819.578125,
+            "w": 310.609375,
+            "h": 19.1875
+          }
+        },
+        {
+          "target": ".contact-us > p:nth-child(2) > a[target=\"_blank\"] > span",
+          "html": "<span>185 Main Street Winkler, Manitoba R6W 1B4</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 361.375,
+            "y": 1850.765625,
+            "w": 264.109375,
+            "h": 15
+          }
+        },
+        {
+          "target": "p:nth-child(3) > a[title=\"Contact us at (204) 325-9524\"][href=\"tel:+1(204) 325-9524\"] > span",
+          "html": "<span>(204) 325-9524</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 364.578125,
+            "y": 1874.765625,
+            "w": 96.734375,
+            "h": 15
+          }
+        },
+        {
+          "target": "p:nth-child(4) > a[href=\"mailto:admin@cityofwinkler.ca\"] > span",
+          "html": "<span>admin@cityofwinkler.ca</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 364.578125,
+            "y": 1898.765625,
+            "w": 140.015625,
+            "h": 15
+          }
+        },
+        {
+          "target": ".winkler-recreation > h3",
+          "html": "<h3>Winkler Recreation</h3>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 654.375,
+            "y": 1819.578125,
+            "w": 244.21875,
+            "h": 19.1875
+          }
+        },
+        {
+          "target": ".winkler-recreation > p:nth-child(2)",
+          "html": "<p>Need more information about Winkler Campground,\n\t\t\t\t\t\trecreation or rentals? Get in touch with us!</p>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 654.375,
+            "y": 1846.765625,
+            "w": 244.21875,
+            "h": 72
+          }
+        },
+        {
+          "target": ".winkler-recreation > p:nth-child(3) > a",
+          "html": "<a href=\"mailto:recreation@cityofwinkler.ca\"><i class=\"far fa-envelope\" aria-hidden=\"true\"></i>recreation@cityofwinkler.ca</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 654.375,
+            "y": 1922.765625,
+            "w": 185.3125,
+            "h": 15
+          }
+        },
+        {
+          "target": ".office-hours > h3",
+          "html": "<h3>Office Hours</h3>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 978.59375,
+            "y": 1819.578125,
+            "w": 346.4375,
+            "h": 19.1875
+          }
+        },
+        {
+          "target": ".office-hours > p:nth-child(2)",
+          "html": "<p>Regular hours of operation are:</p>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 978.59375,
+            "y": 1846.765625,
+            "w": 346.4375,
+            "h": 24
+          }
+        },
+        {
+          "target": "p:nth-child(3) > strong",
+          "html": "<strong>Mon - Thurs: 9:00 am - 5:00 pm (Excluding holidays)</strong>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 978.59375,
+            "y": 1874.765625,
+            "w": 317.546875,
+            "h": 15
+          }
+        },
+        {
+          "target": "p:nth-child(4) > strong",
+          "html": "<strong>Friday 9:00 am – 4:30 pm (Excluding holidays)</strong>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 978.59375,
+            "y": 1898.765625,
+            "w": 281.171875,
+            "h": 15
+          }
+        }
+      ]
+    },
+    {
+      "id": "target-size",
+      "impact": "serious",
+      "help": "All touch targets must be 24px large, or leave sufficient space",
+      "description": "Ensure touch targets have sufficient size and space",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/target-size?application=playwright",
+      "tags": [
+        "cat.sensory-and-visual-cues",
+        "wcag22aa",
+        "wcag258"
+      ],
+      "wcag": [
+        "2.5.8"
+      ],
+      "why": "Element size could not be accurately determined due to overflow content",
+      "nodes": 2,
+      "sample": [
+        {
+          "target": ".owl-prev.disabled[role=\"presentation\"]",
+          "html": "<button type=\"button\" role=\"presentation\" class=\"owl-prev disabled\"><span aria-label=\"Previous\"><b>‹</b></span></button>"
+        },
+        {
+          "target": "#listLN > .owl-nav > .owl-next[role=\"presentation\"][type=\"button\"]",
+          "html": "<button type=\"button\" role=\"presentation\" class=\"owl-next\"><span aria-label=\"Next\"><b>›</b></span></button>"
+        }
+      ],
+      "items": [
+        {
+          "target": ".owl-prev.disabled[role=\"presentation\"]",
+          "html": "<button type=\"button\" role=\"presentation\" class=\"owl-prev disabled\"><span aria-label=\"Previous\"><b>‹</b></span></button>",
+          "impact": "serious",
+          "messages": [
+            "Element size could not be accurately determined due to overflow content"
+          ],
+          "box": {
+            "x": 58.265625,
+            "y": 1280.203125,
+            "w": 5.421875,
+            "h": 15
+          }
+        },
+        {
+          "target": "#listLN > .owl-nav > .owl-next[role=\"presentation\"][type=\"button\"]",
+          "html": "<button type=\"button\" role=\"presentation\" class=\"owl-next\"><span aria-label=\"Next\"><b>›</b></span></button>",
+          "impact": "serious",
+          "messages": [
+            "Element size could not be accurately determined due to overflow content"
+          ],
+          "box": {
+            "x": 70.0625,
+            "y": 1280.203125,
+            "w": 5.421875,
+            "h": 15
+          }
+        }
+      ]
+    }
+  ],
+  "violations": [
+    {
+      "id": "aria-input-field-name",
+      "impact": "serious",
+      "help": "ARIA input fields must have an accessible name",
+      "description": "Ensure every ARIA input field has an accessible name",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/aria-input-field-name?application=playwright",
+      "tags": [
+        "cat.aria",
+        "wcag2a",
+        "wcag412",
+        "TTv5",
+        "TT5.c",
+        "EN-301-549",
+        "EN-9.4.1.2",
+        "ACT",
+        "RGAAv4",
+        "RGAA-11.1.1"
+      ],
+      "wcag": [
+        "4.1.2"
+      ],
+      "nodes": 1,
+      "items": [
+        {
+          "target": ".carousel-inner",
+          "html": "<div class=\"carousel-inner fullHeight\" role=\"listbox\" style=\"height: 805px;\">",
+          "impact": "serious",
+          "messages": [
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute"
+          ],
+          "box": {
+            "x": 0,
+            "y": -25,
+            "w": 1366,
+            "h": 805
+          }
+        }
+      ]
+    },
+    {
+      "id": "aria-required-children",
+      "impact": "critical",
+      "help": "Certain ARIA roles must contain particular children",
+      "description": "Ensure elements with an ARIA role that require child roles contain them",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/aria-required-children?application=playwright",
+      "tags": [
+        "cat.aria",
+        "wcag2a",
+        "wcag131",
+        "EN-301-549",
+        "EN-9.1.3.1",
+        "RGAAv4",
+        "RGAA-9.3.1"
+      ],
+      "wcag": [
+        "1.3.1"
+      ],
+      "nodes": 1,
+      "items": [
+        {
+          "target": ".carousel-inner",
+          "html": "<div class=\"carousel-inner fullHeight\" role=\"listbox\" style=\"height: 805px;\">",
+          "impact": "critical",
+          "messages": [
+            "Element has children which are not allowed: figure"
+          ],
+          "box": {
+            "x": 0,
+            "y": -25,
+            "w": 1366,
+            "h": 805
+          }
+        }
+      ]
+    },
+    {
+      "id": "aria-required-parent",
+      "impact": "critical",
+      "help": "Certain ARIA roles must be contained by particular parents",
+      "description": "Ensure elements with an ARIA role that require parent roles are contained by them",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/aria-required-parent?application=playwright",
+      "tags": [
+        "cat.aria",
+        "wcag2a",
+        "wcag131",
+        "EN-301-549",
+        "EN-9.1.3.1",
+        "RGAAv4",
+        "RGAA-9.3.1"
+      ],
+      "wcag": [
+        "1.3.1"
+      ],
+      "nodes": 75,
+      "items": [
+        {
+          "target": "#\\#categoryNavID0",
+          "html": "<a class=\"home menuonehovercolor\" href=\"/\" title=\"Go to home\" id=\"#categoryNavID0\" role=\"menuitem\"><span>Home</span></a>",
+          "impact": "critical",
+          "messages": [
+            "Required ARIA parents role not present: menu, menubar, group"
+          ],
+          "box": {
+            "x": 54.625,
+            "y": 96.09375,
+            "w": 103.59375,
+            "h": 70
+          }
+        },
+        {
+          "target": "#\\#categoryNavID1",
+          "html": "<a href=\"/p/city-hall\" title=\"Click to view City Hall\" class=\"menuonehovercolor \" id=\"#categoryNavID1\" role=\"menuitem\" aria-haspopup=\"true\" aria-owns=\"subMainMenu0\" style=\"cursor: default;\">       City Hall </a>",
+          "impact": "critical",
+          "messages": [
+            "Required ARIA parents role not present: menu, menubar, group"
+          ],
+          "box": {
+            "x": 281.40625,
+            "y": 96.09375,
+            "w": 151.46875,
+            "h": 70
+          }
+        },
+        {
+          "target": "#\\#categoryNavID2",
+          "html": "<a href=\"/p/living\" title=\"Click to view LIVE\" class=\"menuonehovercolor \" id=\"#categoryNavID2\" role=\"menuitem\" aria-haspopup=\"true\" aria-owns=\"subMainMenu1\" style=\"cursor: default;\">       LIVE </a>",
+          "impact": "critical",
+          "messages": [
+            "Required ARIA parents role not present: menu, menubar, group"
+          ],
+          "box": {
+            "x": 556.0625,
+            "y": 96.09375,
+            "w": 88.1875,
+            "h": 70
+          }
+        },
+        {
+          "target": "#\\#categoryNavID3",
+          "html": "<a href=\"/p/business\" title=\"Click to view WORK\" class=\"menuonehovercolor \" id=\"#categoryNavID3\" role=\"menuitem\" aria-haspopup=\"true\" aria-owns=\"subMainMenu2\" style=\"cursor: default;\">       WORK </a>",
+          "impact": "critical",
+          "messages": [
+            "Required ARIA parents role not present: menu, menubar, group"
+          ],
+          "box": {
+            "x": 767.421875,
+            "y": 96.09375,
+            "w": 106.203125,
+            "h": 70
+          }
+        },
+        {
+          "target": "#\\#categoryNavID4",
+          "html": "<a href=\"/p/visiting\" title=\"Click to view VISIT\" class=\"menuonehovercolor \" id=\"#categoryNavID4\" role=\"menuitem\" aria-haspopup=\"true\" aria-owns=\"subMainMenu3\" style=\"cursor: default;\">       VISIT </a>",
+          "impact": "critical",
+          "messages": [
+            "Required ARIA parents role not present: menu, menubar, group"
+          ],
+          "box": {
+            "x": 996.8125,
+            "y": 96.09375,
+            "w": 96.296875,
+            "h": 70
+          }
+        },
+        {
+          "target": "#\\#categoryNavID5",
+          "html": "<a href=\"https://playwinkler.ca/\" target=\"_blank\" title=\"Click to view PLAY\" class=\"menuonehovercolor home\" id=\"#categoryNavID5\" role=\"menuitem\">       PLAY </a>",
+          "impact": "critical",
+          "messages": [
+            "Required ARIA parents role not present: menu, menubar, group"
+          ],
+          "box": {
+            "x": 1216.296875,
+            "y": 96.09375,
+            "w": 95.078125,
+            "h": 70
+          }
+        },
+        {
+          "target": ".mobileNav > .mainMenu > li:nth-child(1) > a[title=\"Go to home\"][href=\"/\"][role=\"menuitem\"]",
+          "html": "<a href=\"/\" title=\"Go to home\" role=\"menuitem\" style=\"cursor: default;\"><span>Home</span></a>",
+          "impact": "critical",
+          "messages": [
+            "Required ARIA parents role not present: menu, menubar, group"
+          ],
+          "box": {
+            "x": 1366,
+            "y": 80,
+            "w": 400,
+            "h": 65.375
+          }
+        },
+        {
+          "target": ".mobileNav > .mainMenu > .hasChild:nth-child(2) > a[title=\"Click to view City Hall\"][href$=\"city-hall\"][role=\"menuitem\"]",
+          "html": "<a href=\"/p/city-hall\" title=\"Click to view City Hall\" role=\"menuitem\" style=\"cursor: default;\">\n                            City Hall\n                        </a>",
+          "impact": "critical",
+          "messages": [
+            "Required ARIA parents role not present: menu, menubar, group"
+          ],
+          "box": {
+            "x": 1366,
+            "y": 145.375,
+            "w": 400,
+            "h": 65.375
+          }
+        },
+        {
+          "target": ".hasChild:nth-child(2) > .subMainMenu > li:nth-child(1) > a[href$=\"careers-2\"][title=\"Click to view Careers\"][role=\"menuitem\"]",
+          "html": "<a href=\"/p/careers-2\" title=\"Click to view Careers\" role=\"menuitem\">\n                                            Careers\n                                        </a>",
+          "impact": "critical",
+          "messages": [
+            "Required ARIA parents role not present: menu, menubar, group"
+          ],
+          "box": {
+            "x": 1366,
+            "y": 238.75,
+            "w": 400,
+            "h": 65.375
+          }
+        },
+        {
+          "target": "li:nth-child(2) > a[href$=\"documents\"][role=\"menuitem\"]",
+          "html": "<a href=\"/p/documents\" title=\"Click to view Applications, Bylaws, Policies &amp; Reports\" role=\"menuitem\">\n                                            Applications, Bylaws, Policies &amp; Reports\n                                        </a>",
+          "impact": "critical",
+          "messages": [
+            "Required ARIA parents role not present: menu, menubar, group"
+          ],
+          "box": {
+            "x": 1366,
+            "y": 304.125,
+            "w": 400,
+            "h": 92.375
+          }
+        },
+        {
+          "target": "li:nth-child(3) > a[href$=\"bid-opportunities\"][role=\"menuitem\"]",
+          "html": "<a href=\"/p/bid-opportunities\" title=\"Click to view Bid Opportunities\" role=\"menuitem\">\n                                            Bid Opportunities\n                                        </a>",
+          "impact": "critical",
+          "messages": [
+            "Required ARIA parents role not present: menu, menubar, group"
+          ],
+          "box": {
+            "x": 1366,
+            "y": 396.5,
+            "w": 400,
+            "h": 65.375
+          }
+        },
+        {
+          "target": "li:nth-child(4) > a[href$=\"bylaws-and-enforcement\"][role=\"menuitem\"]",
+          "html": "<a href=\"/p/bylaws-and-enforcement\" title=\"Click to view Bylaws and Enforcement \" role=\"menuitem\">\n                                            Bylaws and Enforcement \n                                        </a>",
+          "impact": "critical",
+          "messages": [
+            "Required ARIA parents role not present: menu, menubar, group"
+          ],
+          "box": {
+            "x": 1366,
+            "y": 461.875,
+            "w": 400,
+            "h": 65.375
+          }
+        },
+        {
+          "target": ".hasChild:nth-child(5) > a[href$=\"city-council\"][title=\"Click to view City Council\"][role=\"menuitem\"]",
+          "html": "<a href=\"/p/city-council\" title=\"Click to view City Council\" role=\"menuitem\">\n                                            City Council\n                                        </a>",
+          "impact": "critical",
+          "messages": [
+            "Required ARIA parents role not present: menu, menubar, group"
+          ],
+          "box": {
+            "x": 1366,
+            "y": 527.25,
+            "w": 400,
+            "h": 65.375
+          }
+        },
+        {
+          "target": ".hasChild:nth-child(5) > .subSubMainMenu > li:nth-child(1) > a[href$=\"council-meetings\"][title=\"Click to view Council Meetings\"][role=\"menuitem\"]",
+          "html": "<a href=\"/p/council-meetings\" title=\"Click to view Council Meetings\" role=\"menuitem\">\n                                                            Council Meetings\n                                                        </a>",
+          "impact": "critical",
+          "messages": [
+            "Required ARIA parents role not present: menu, menubar, group"
+          ],
+          "box": {
+            "x": 1366,
+            "y": 620.625,
+            "w": 400,
+            "h": 65.375
+          }
+        },
+        {
+          "target": ".hasChild:nth-child(5) > .subSubMainMenu > li:nth-child(2) > a[href$=\"council-minutes-archive\"][role=\"menuitem\"]",
+          "html": "<a href=\"/p/council-minutes-archive\" title=\"Click to view Council Minutes Archive\" role=\"menuitem\">\n                                                            Council Minutes Archive\n                                                        </a>",
+          "impact": "critical",
+          "messages": [
+            "Required ARIA parents role not present: menu, menubar, group"
+          ],
+          "box": {
+            "x": 1366,
+            "y": 686,
+            "w": 400,
+            "h": 65.375
+          }
+        },
+        {
+          "target": ".hasChild:nth-child(5) > .subSubMainMenu > li:nth-child(3) > a[href$=\"meeting-agendas\"][title=\"Click to view Meeting Agendas\"][role=\"menuitem\"]",
+          "html": "<a href=\"/p/meeting-agendas\" title=\"Click to view Meeting Agendas\" role=\"menuitem\">\n                                                            Meeting Agendas\n                                                        </a>",
+          "impact": "critical",
+          "messages": [
+            "Required ARIA parents role not present: menu, menubar, group"
+          ],
+          "box": {
+            "x": 1366,
+            "y": 751.375,
+            "w": 400,
+            "h": 65.375
+          }
+        },
+        {
+          "target": "li:nth-child(6) > a[href$=\"property-taxes\"][role=\"menuitem\"]",
+          "html": "<a href=\"/p/property-taxes\" title=\"Click to view Property Tax Information\" role=\"menuitem\">\n                                            Property Tax Information\n                                        </a>",
+          "impact": "critical",
+          "messages": [
+            "Required ARIA parents role not present: menu, menubar, group"
+          ],
+          "box": {
+            "x": 1366,
+            "y": 816.75,
+            "w": 400,
+            "h": 65.375
+          }
+        },
+        {
+          "target": ".hasChild:nth-child(7) > a[href$=\"municipal-elections-2026\"][role=\"menuitem\"]",
+          "html": "<a href=\"/p/municipal-elections-2026\" title=\"Click to view Municipal Elections 2026\" role=\"menuitem\">\n                                            Municipal Elections 2026\n                                        </a>",
+          "impact": "critical",
+          "messages": [
+            "Required ARIA parents role not present: menu, menubar, group"
+          ],
+          "box": {
+            "x": 1366,
+            "y": 882.125,
+            "w": 400,
+            "h": 65.375
+          }
+        },
+        {
+          "target": ".hasChild:nth-child(7) > .subSubMainMenu > li > a[href$=\"meet-your-candidates\"][role=\"menuitem\"]",
+          "html": "<a href=\"/p/meet-your-candidates\" title=\"Click to view 2026 Registered Prospective Candidates\" role=\"menuitem\">\n                                                            2026 Registered Prospective Candidates\n                                                        </a>",
+          "impact": "critical",
+          "messages": [
+            "Required ARIA parents role not present: menu, menubar, group"
+          ],
+          "box": {
+            "x": 1366,
+            "y": 975.5,
+            "w": 400,
+            "h": 92.375
+          }
+        },
+        {
+          "target": ".hasChild:nth-child(8) > a[href$=\"city-services\"][title=\"Click to view City Services\"][role=\"menuitem\"]",
+          "html": "<a href=\"/p/city-services\" title=\"Click to view City Services\" role=\"menuitem\">\n                                            City Services\n                                        </a>",
+          "impact": "critical",
+          "messages": [
+            "Required ARIA parents role not present: menu, menubar, group"
+          ],
+          "box": {
+            "x": 1366,
+            "y": 1067.875,
+            "w": 400,
+            "h": 65.375
+          }
+        },
+        {
+          "target": ".hasChild:nth-child(8) > .subSubMainMenu > li:nth-child(1) > a[href$=\"sign-up-for-eservices\"][role=\"menuitem\"]",
+          "html": "<a href=\"/p/sign-up-for-eservices\" title=\"Click to view Sign up for eServices\" role=\"menuitem\">\n                                                            Sign up for eServices\n                                                        </a>",
+          "impact": "critical",
+          "messages": [
+            "Required ARIA parents role not present: menu, menubar, group"
+          ],
+          "box": {
+            "x": 1366,
+            "y": 1161.25,
+            "w": 400,
+            "h": 65.375
+          }
+        },
+        {
+          "target": ".hasChild:nth-child(8) > .subSubMainMenu > li:nth-child(2) > a[href$=\"online\"][role=\"menuitem\"]",
+          "html": "<a href=\"/p/online\" title=\"Click to view Paying online bills\" role=\"menuitem\">\n                                                            Paying online bills\n                                                        </a>",
+          "impact": "critical",
+          "messages": [
+            "Required ARIA parents role not present: menu, menubar, group"
+          ],
+          "box": {
+            "x": 1366,
+            "y": 1226.625,
+            "w": 400,
+            "h": 65.375
+          }
+        },
+        {
+          "target": ".hasChild:nth-child(8) > .subSubMainMenu > li:nth-child(3) > a[href$=\"tipp\"][role=\"menuitem\"]",
+          "html": "<a href=\"/p/tipp\" title=\"Click to view Sign up for Pre-Authorized Payment\" role=\"menuitem\">\n                                                            Sign up for Pre-Authorized Payment\n                                                        </a>",
+          "impact": "critical",
+          "messages": [
+            "Required ARIA parents role not present: menu, menubar, group"
+          ],
+          "box": {
+            "x": 1366,
+            "y": 1292,
+            "w": 400,
+            "h": 92.375
+          }
+        },
+        {
+          "target": ".hasChild:nth-child(8) > .subSubMainMenu > li:nth-child(4) > a[role=\"menuitem\"]",
+          "html": "<a href=\"/p/public-service-request-portal\" title=\"Click to view Public Service Request Portal\" role=\"menuitem\">\n                                                            Public Service Request Portal\n                                                        </a>",
+          "impact": "critical",
+          "messages": [
+            "Required ARIA parents role not present: menu, menubar, group"
+          ],
+          "box": {
+            "x": 1366,
+            "y": 1384.375,
+            "w": 400,
+            "h": 92.375
+          }
+        },
+        {
+          "target": "li:nth-child(9) > a[href$=\"city-maps\"][title=\"Click to view City Maps\"][role=\"menuitem\"]",
+          "html": "<a href=\"/p/city-maps\" title=\"Click to view City Maps\" role=\"menuitem\">\n                                            City Maps\n                                        </a>",
+          "impact": "critical",
+          "messages": [
+            "Required ARIA parents role not present: menu, menubar, group"
+          ],
+          "box": {
+            "x": 1366,
+            "y": 1476.75,
+            "w": 400,
+            "h": 65.375
+          }
+        },
+        {
+          "target": ".hasChild:nth-child(10) > a[title=\"Click to view Local Notices\"][href$=\"local-notices\"][role=\"menuitem\"]",
+          "html": "<a href=\"/p/local-notices\" title=\"Click to view Local Notices\" role=\"menuitem\">\n                                            Local Notices\n                                        </a>",
+          "impact": "critical",
+          "messages": [
+            "Required ARIA parents role not present: menu, menubar, group"
+          ],
+          "box": {
+            "x": 1366,
+            "y": 1542.125,
+            "w": 400,
+            "h": 65.375
+          }
+        },
+        {
+          "target": ".hasChild:nth-child(10) > .subSubMainMenu > li > a[title=\"Click to view Submit a Notice\"][href$=\"add-notice\"][role=\"menuitem\"]",
+          "html": "<a href=\"/p/add-notice\" title=\"Click to view Submit a Notice\" role=\"menuitem\">\n                                                            Submit a Notice\n                                                        </a>",
+          "impact": "critical",
+          "messages": [
+            "Required ARIA parents role not present: menu, menubar, group"
+          ],
+          "box": {
+            "x": 1366,
+            "y": 1635.5,
+            "w": 400,
+            "h": 65.375
+          }
+        },
+        {
+          "target": ".hasChild:nth-child(11) > a[href$=\"projects\"][title=\"Click to view Projects \"][role=\"menuitem\"]",
+          "html": "<a href=\"/p/projects\" title=\"Click to view Projects \" role=\"menuitem\">\n                                            Projects \n                                        </a>",
+          "impact": "critical",
+          "messages": [
+            "Required ARIA parents role not present: menu, menubar, group"
+          ],
+          "box": {
+            "x": 1366,
+            "y": 1700.875,
+            "w": 400,
+            "h": 65.375
+          }
+        },
+        {
+          "target": ".hasChild:nth-child(11) > .subSubMainMenu > li:nth-child(1) > a[role=\"menuitem\"]",
+          "html": "<a href=\"/p/winkler-water-treatment-plant-expansion-\" title=\"Click to view Winkler Water Treatment Plant Expansion \" role=\"menuitem\">\n                                                            Winkler Water Treatment Plant Expansion \n                                                        </a>",
+          "impact": "critical",
+          "messages": [
+            "Required ARIA parents role not present: menu, menubar, group"
+          ],
+          "box": {
+            "x": 1366,
+            "y": 1794.25,
+            "w": 400,
+            "h": 92.375
+          }
+        },
+        {
+          "target": ".hasChild:nth-child(11) > .subSubMainMenu > li:nth-child(2) > a[role=\"menuitem\"]",
+          "html": "<a href=\"/p/regional-wastewater-treatment-facility\" title=\"Click to view Regional Wastewater Treatment Facility\" role=\"menuitem\">\n                                                            Regional Wastewater Treatment Facility\n                                                        </a>",
+          "impact": "critical",
+          "messages": [
+            "Required ARIA parents role not present: menu, menubar, group"
+          ],
+          "box": {
+            "x": 1366,
+            "y": 1886.625,
+            "w": 400,
+            "h": 92.375
+          }
+        },
+        {
+          "target": ".hasChild:nth-child(11) > .subSubMainMenu > li:nth-child(3) > a[role=\"menuitem\"]",
+          "html": "<a href=\"/p/centennial-arena-redevelopment-project\" title=\"Click to view Centennial Arena Redevelopment Project\" role=\"menuitem\">\n                                                            Centennial Arena Redevelopment Project\n                                                        </a>",
+          "impact": "critical",
+          "messages": [
+            "Required ARIA parents role not present: menu, menubar, group"
+          ],
+          "box": {
+            "x": 1366,
+            "y": 1979,
+            "w": 400,
+            "h": 92.375
+          }
+        },
+        {
+          "target": ".hasChild:nth-child(11) > .subSubMainMenu > li:nth-child(4) > a[role=\"menuitem\"]",
+          "html": "<a href=\"/p/city-of-winkler-transportation-presentation\" title=\"Click to view City of Winkler Public Transportation Strategy Implementation\" role=\"menuitem\">",
+          "impact": "critical",
+          "messages": [
+            "Required ARIA parents role not present: menu, menubar, group"
+          ],
+          "box": {
+            "x": 1366,
+            "y": 2071.375,
+            "w": 400,
+            "h": 119.375
+          }
+        },
+        {
+          "target": "li:nth-child(12) > a[title=\"Click to view Service Requests\"][target=\"_blank\"][role=\"menuitem\"]",
+          "html": "<a href=\"https://winklermb.rm.catalisgov.ca/311/\" target=\"_blank\" title=\"Click to view Service Requests\" role=\"menuitem\">\n                                            Service Requests\n                                        </a>",
+          "impact": "critical",
+          "messages": [
+            "Required ARIA parents role not present: menu, menubar, group"
+          ],
+          "box": {
+            "x": 1366,
+            "y": 2190.75,
+            "w": 400,
+            "h": 65.375
+          }
+        },
+        {
+          "target": ".mobileNav > .mainMenu > .hasChild:nth-child(3) > a[title=\"Click to view LIVE\"][href$=\"living\"][role=\"menuitem\"]",
+          "html": "<a href=\"/p/living\" title=\"Click to view LIVE\" role=\"menuitem\" style=\"cursor: default;\">\n                            LIVE\n                        </a>",
+          "impact": "critical",
+          "messages": [
+            "Required ARIA parents role not present: menu, menubar, group"
+          ],
+          "box": {
+            "x": 1366,
+            "y": 2256.125,
+            "w": 400,
+            "h": 65.375
+          }
+        },
+        {
+          "target": ".hasChild:nth-child(3) > .subMainMenu > li:nth-child(1) > a[href$=\"winkler-on-demand-transit\"][role=\"menuitem\"]",
+          "html": "<a href=\"/p/winkler-on-demand-transit\" title=\"Click to view Winkler On-Demand Transit - Now Available!\" role=\"menuitem\">\n                                            Winkler On-Demand Transit - Now Available!\n                                        </a>",
+          "impact": "critical",
+          "messages": [
+            "Required ARIA parents role not present: menu, menubar, group"
+          ],
+          "box": {
+            "x": 1366,
+            "y": 2349.5,
+            "w": 400,
+            "h": 92.375
+          }
+        },
+        {
+          "target": "li:nth-child(2) > a[href$=\"community-newsletter\"][role=\"menuitem\"]",
+          "html": "<a href=\"/p/community-newsletter\" title=\"Click to view Community Newsletter\" role=\"menuitem\">\n                                            Community Newsletter\n                                        </a>",
+          "impact": "critical",
+          "messages": [
+            "Required ARIA parents role not present: menu, menubar, group"
+          ],
+          "box": {
+            "x": 1366,
+            "y": 2441.875,
+            "w": 400,
+            "h": 65.375
+          }
+        },
+        {
+          "target": ".hasChild:nth-child(3) > a[href$=\"community\"][title=\"Click to view Community\"][role=\"menuitem\"]",
+          "html": "<a href=\"/p/community\" title=\"Click to view Community\" role=\"menuitem\">\n                                            Community\n                                        </a>",
+          "impact": "critical",
+          "messages": [
+            "Required ARIA parents role not present: menu, menubar, group"
+          ],
+          "box": {
+            "x": 1366,
+            "y": 2507.25,
+            "w": 400,
+            "h": 65.375
+          }
+        },
+        {
+          "target": ".hasChild:nth-child(3) > .subSubMainMenu > li:nth-child(1) > a[href$=\"housing\"][title=\"Click to view Housing\"][role=\"menuitem\"]",
+          "html": "<a href=\"/p/housing\" title=\"Click to view Housing\" role=\"menuitem\">\n                                                            Housing\n                                                        </a>",
+          "impact": "critical",
+          "messages": [
+            "Required ARIA parents role not present: menu, menubar, group"
+          ],
+          "box": {
+            "x": 1366,
+            "y": 2600.625,
+            "w": 400,
+            "h": 65.375
+          }
+        },
+        {
+          "target": ".hasChild:nth-child(3) > .subSubMainMenu > li:nth-child(2) > a[href$=\"emergency-services\"][role=\"menuitem\"]",
+          "html": "<a href=\"/p/emergency-services\" title=\"Click to view Emergency Services &amp; Preparedness\" role=\"menuitem\">\n                                                            Emergency Services &amp; Preparedness\n                                                        </a>",
+          "impact": "critical",
+          "messages": [
+            "Required ARIA parents role not present: menu, menubar, group"
+          ],
+          "box": {
+            "x": 1366,
+            "y": 2666,
+            "w": 400,
+            "h": 92.375
+          }
+        },
+        {
+          "target": ".hasChild:nth-child(3) > .subSubMainMenu > li:nth-child(3) > a[href$=\"education\"][title=\"Click to view Education\"][role=\"menuitem\"]",
+          "html": "<a href=\"/p/education\" title=\"Click to view Education\" role=\"menuitem\">\n                                                            Education\n                                                        </a>",
+          "impact": "critical",
+          "messages": [
+            "Required ARIA parents role not present: menu, menubar, group"
+          ],
+          "box": {
+            "x": 1366,
+            "y": 2758.375,
+            "w": 400,
+            "h": 65.375
+          }
+        },
+        {
+          "target": ".hasChild:nth-child(4) > a[href$=\"upcoming-events\"][title=\"Click to view Events\"][role=\"menuitem\"]",
+          "html": "<a href=\"/p/upcoming-events\" title=\"Click to view Events\" role=\"menuitem\">\n                                            Events\n                                        </a>",
+          "impact": "critical",
+          "messages": [
+            "Required ARIA parents role not present: menu, menubar, group"
+          ],
+          "box": {
+            "x": 1366,
+            "y": 2823.75,
+            "w": 400,
+            "h": 65.375
+          }
+        },
+        {
+          "target": ".hasChild:nth-child(4) > .subSubMainMenu > li:nth-child(1) > a[href$=\"ask-the-mayor\"][title=\"Click to view ASK THE MAYOR\"][role=\"menuitem\"]",
+          "html": "<a href=\"/p/ask-the-mayor\" title=\"Click to view ASK THE MAYOR\" role=\"menuitem\">\n                                                            ASK THE MAYOR\n                                                        </a>",
+          "impact": "critical",
+          "messages": [
+            "Required ARIA parents role not present: menu, menubar, group"
+          ],
+          "box": {
+            "x": 1366,
+            "y": 2917.125,
+            "w": 400,
+            "h": 65.375
+          }
+        },
+        {
+          "target": ".hasChild:nth-child(4) > .subSubMainMenu > li:nth-child(2) > a[href$=\"curbside-giveaway-weekend\"][role=\"menuitem\"]",
+          "html": "<a href=\"/p/curbside-giveaway-weekend\" title=\"Click to view Curbside Giveaway Weekend\" role=\"menuitem\">\n                                                            Curbside Giveaway Weekend\n                                                        </a>",
+          "impact": "critical",
+          "messages": [
+            "Required ARIA parents role not present: menu, menubar, group"
+          ],
+          "box": {
+            "x": 1366,
+            "y": 2982.5,
+            "w": 400,
+            "h": 65.375
+          }
+        },
+        {
+          "target": ".hasChild:nth-child(4) > .subSubMainMenu > li:nth-child(3) > a[href$=\"block-parties\"][title=\"Click to view Block Parties\"][role=\"menuitem\"]",
+          "html": "<a href=\"/p/block-parties\" title=\"Click to view Block Parties\" role=\"menuitem\">\n                                                            Block Parties\n                                                        </a>",
+          "impact": "critical",
+          "messages": [
+            "Required ARIA parents role not present: menu, menubar, group"
+          ],
+          "box": {
+            "x": 1366,
+            "y": 3047.875,
+            "w": 400,
+            "h": 65.375
+          }
+        },
+        {
+          "target": ".hasChild:nth-child(4) > .subSubMainMenu > li:nth-child(4) > a[href$=\"nominate-a-good-neighbour\"][role=\"menuitem\"]",
+          "html": "<a href=\"/p/nominate-a-good-neighbour\" title=\"Click to view Nominate a Good Neighbour\" role=\"menuitem\">\n                                                            Nominate a Good Neighbour\n                                                        </a>",
+          "impact": "critical",
+          "messages": [
+            "Required ARIA parents role not present: menu, menubar, group"
+          ],
+          "box": {
+            "x": 1366,
+            "y": 3113.25,
+            "w": 400,
+            "h": 92.375
+          }
+        },
+        {
+          "target": ".hasChild:nth-child(4) > .subSubMainMenu > li:nth-child(5) > a[title=\"Click to view Submit an Event\"][href$=\"add-event\"][role=\"menuitem\"]",
+          "html": "<a href=\"/p/add-event\" title=\"Click to view Submit an Event\" role=\"menuitem\">\n                                                            Submit an Event\n                                                        </a>",
+          "impact": "critical",
+          "messages": [
+            "Required ARIA parents role not present: menu, menubar, group"
+          ],
+          "box": {
+            "x": 1366,
+            "y": 3205.625,
+            "w": 400,
+            "h": 65.375
+          }
+        },
+        {
+          "target": ".hasChild:nth-child(5) > a[href$=\"connect-winkler\"][title=\"Click to view Connect Winkler\"][role=\"menuitem\"]",
+          "html": "<a href=\"/p/connect-winkler\" title=\"Click to view Connect Winkler\" role=\"menuitem\">\n                                            Connect Winkler\n                                        </a>",
+          "impact": "critical",
+          "messages": [
+            "Required ARIA parents role not present: menu, menubar, group"
+          ],
+          "box": {
+            "x": 1366,
+            "y": 3271,
+            "w": 400,
+            "h": 65.375
+          }
+        },
+        {
+          "target": ".hasChild:nth-child(5) > .subSubMainMenu > li > a[href$=\"register-with-us\"][title=\"Click to view Register With Us\"][role=\"menuitem\"]",
+          "html": "<a href=\"/p/register-with-us\" title=\"Click to view Register With Us\" role=\"menuitem\">\n                                                            Register With Us\n                                                        </a>",
+          "impact": "critical",
+          "messages": [
+            "Required ARIA parents role not present: menu, menubar, group"
+          ],
+          "box": {
+            "x": 1366,
+            "y": 3364.375,
+            "w": 400,
+            "h": 65.375
+          }
+        },
+        {
+          "target": ".hasChild:nth-child(6) > a[href$=\"winkler-waste-recycling\"][role=\"menuitem\"]",
+          "html": "<a href=\"/p/winkler-waste-recycling\" title=\"Click to view Residential Recycling Waste &amp; Compost\" role=\"menuitem\">\n                                            Residential Recycling Waste &amp; Compost\n                                        </a>",
+          "impact": "critical",
+          "messages": [
+            "Required ARIA parents role not present: menu, menubar, group"
+          ],
+          "box": {
+            "x": 1366,
+            "y": 3429.75,
+            "w": 400,
+            "h": 92.375
+          }
+        },
+        {
+          "target": ".hasChild:nth-child(6) > .subSubMainMenu > li:nth-child(1) > a[href$=\"waste-recycling-calendar\"][role=\"menuitem\"]",
+          "html": "<a href=\"/p/waste-recycling-calendar\" title=\"Click to view Waste &amp; Recycling Calendar\" role=\"menuitem\">\n                                                            Waste &amp; Recycling Calendar\n                                                        </a>",
+          "impact": "critical",
+          "messages": [
+            "Required ARIA parents role not present: menu, menubar, group"
+          ],
+          "box": {
+            "x": 1366,
+            "y": 3550.125,
+            "w": 400,
+            "h": 92.375
+          }
+        },
+        {
+          "target": ".hasChild:nth-child(6) > .subSubMainMenu > li:nth-child(2) > a[role=\"menuitem\"]",
+          "html": "<a href=\"/p/household-hazardous-waste-eco-centre\" title=\"Click to view Household Hazardous Waste &amp; Eco Centre\" role=\"menuitem\">\n                                                            Household Hazardous Waste &amp; Eco Centre\n                                                        </a>",
+          "impact": "critical",
+          "messages": [
+            "Required ARIA parents role not present: menu, menubar, group"
+          ],
+          "box": {
+            "x": 1366,
+            "y": 3642.5,
+            "w": 400,
+            "h": 92.375
+          }
+        },
+        {
+          "target": ".hasChild:nth-child(7) > a[title=\"Click to view Water & Sewer\"][href$=\"water-and-sewer\"][role=\"menuitem\"]",
+          "html": "<a href=\"/p/water-and-sewer\" title=\"Click to view Water &amp; Sewer\" role=\"menuitem\">\n                                            Water &amp; Sewer\n                                        </a>",
+          "impact": "critical",
+          "messages": [
+            "Required ARIA parents role not present: menu, menubar, group"
+          ],
+          "box": {
+            "x": 1366,
+            "y": 3734.875,
+            "w": 400,
+            "h": 65.375
+          }
+        },
+        {
+          "target": ".hasChild:nth-child(7) > .subSubMainMenu > li:nth-child(1) > a[href$=\"water-conservation\"][role=\"menuitem\"]",
+          "html": "<a href=\"/p/water-conservation\" title=\"Click to view Water Conservation\" role=\"menuitem\">\n                                                            Water Conservation\n                                                        </a>",
+          "impact": "critical",
+          "messages": [
+            "Required ARIA parents role not present: menu, menubar, group"
+          ],
+          "box": {
+            "x": 1366,
+            "y": 3828.25,
+            "w": 400,
+            "h": 65.375
+          }
+        },
+        {
+          "target": ".hasChild:nth-child(7) > .subSubMainMenu > li:nth-child(2) > a[href=\"/p/backflow-prevention-program\"][role=\"menuitem\"]",
+          "html": "<a href=\"/p/backflow-prevention-program\" title=\"Click to view Backflow Prevention &amp; Inspection Program\" role=\"menuitem\">\n                                                            Backflow Prevention &amp; Inspection Program\n                                                        </a>",
+          "impact": "critical",
+          "messages": [
+            "Required ARIA parents role not present: menu, menubar, group"
+          ],
+          "box": {
+            "x": 1366,
+            "y": 3893.625,
+            "w": 400,
+            "h": 92.375
+          }
+        },
+        {
+          "target": ".hasChild:nth-child(7) > .subSubMainMenu > li:nth-child(3) > a[href$=\"project-rain-barrel\"][role=\"menuitem\"]",
+          "html": "<a href=\"/p/project-rain-barrel\" title=\"Click to view Project Rain Barrel\" role=\"menuitem\">\n                                                            Project Rain Barrel\n                                                        </a>",
+          "impact": "critical",
+          "messages": [
+            "Required ARIA parents role not present: menu, menubar, group"
+          ],
+          "box": {
+            "x": 1366,
+            "y": 3986,
+            "w": 400,
+            "h": 65.375
+          }
+        },
+        {
+          "target": ".hasChild:nth-child(7) > .subSubMainMenu > li:nth-child(4) > a[href$=\"finding-a-water-leak-\"][role=\"menuitem\"]",
+          "html": "<a href=\"/p/finding-a-water-leak-\" title=\"Click to view Finding a Water Leak \" role=\"menuitem\">\n                                                            Finding a Water Leak \n                                                        </a>",
+          "impact": "critical",
+          "messages": [
+            "Required ARIA parents role not present: menu, menubar, group"
+          ],
+          "box": {
+            "x": 1366,
+            "y": 4051.375,
+            "w": 400,
+            "h": 65.375
+          }
+        },
+        {
+          "target": ".hasChild:nth-child(7) > .subSubMainMenu > li:nth-child(5) > a[href$=\"low-water-pressure\"][role=\"menuitem\"]",
+          "html": "<a href=\"/p/low-water-pressure\" title=\"Click to view Low Water Pressure\" role=\"menuitem\">\n                                                            Low Water Pressure\n                                                        </a>",
+          "impact": "critical",
+          "messages": [
+            "Required ARIA parents role not present: menu, menubar, group"
+          ],
+          "box": {
+            "x": 1366,
+            "y": 4116.75,
+            "w": 400,
+            "h": 65.375
+          }
+        },
+        {
+          "target": "a[href$=\"sump-pump-discharge\"]",
+          "html": "<a href=\"/p/sump-pump-discharge\" title=\"Click to view Sump Pump Discharge\" role=\"menuitem\">\n                                                            Sump Pump Discharge\n                                                        </a>",
+          "impact": "critical",
+          "messages": [
+            "Required ARIA parents role not present: menu, menubar, group"
+          ],
+          "box": {
+            "x": 1366,
+            "y": 4182.125,
+            "w": 400,
+            "h": 65.375
+          }
+        },
+        {
+          "target": "a[href$=\"discoloured-water\"]",
+          "html": "<a href=\"/p/discoloured-water\" title=\"Click to view Discoloured Water\" role=\"menuitem\">\n                                                            Discoloured Water\n                                                        </a>",
+          "impact": "critical",
+          "messages": [
+            "Required ARIA parents role not present: menu, menubar, group"
+          ],
+          "box": {
+            "x": 1366,
+            "y": 4247.5,
+            "w": 400,
+            "h": 65.375
+          }
+        },
+        {
+          "target": "a[href$=\"frozen-water-pipes\"]",
+          "html": "<a href=\"/p/frozen-water-pipes\" title=\"Click to view Frozen Water Pipes\" role=\"menuitem\">\n                                                            Frozen Water Pipes\n                                                        </a>",
+          "impact": "critical",
+          "messages": [
+            "Required ARIA parents role not present: menu, menubar, group"
+          ],
+          "box": {
+            "x": 1366,
+            "y": 4312.875,
+            "w": 400,
+            "h": 65.375
+          }
+        },
+        {
+          "target": "li:nth-child(8) > a[href$=\"mowing\"][title=\"Click to view Mowing\"][role=\"menuitem\"]",
+          "html": "<a href=\"/p/mowing\" title=\"Click to view Mowing\" role=\"menuitem\">\n                                            Mowing\n                                        </a>",
+          "impact": "critical",
+          "messages": [
+            "Required ARIA parents role not present: menu, menubar, group"
+          ],
+          "box": {
+            "x": 1366,
+            "y": 4378.25,
+            "w": 400,
+            "h": 65.375
+          }
+        },
+        {
+          "target": "li:nth-child(9) > a[href$=\"snow-clearing\"][title=\"Click to view Snow Clearing\"][role=\"menuitem\"]",
+          "html": "<a href=\"/p/snow-clearing\" title=\"Click to view Snow Clearing\" role=\"menuitem\">\n                                            Snow Clearing\n                                        </a>",
+          "impact": "critical",
+          "messages": [
+            "Required ARIA parents role not present: menu, menubar, group"
+          ],
+          "box": {
+            "x": 1366,
+            "y": 4443.625,
+            "w": 400,
+            "h": 65.375
+          }
+        },
+        {
+          "target": ".mobileNav > .mainMenu > .hasChild:nth-child(4) > a[title=\"Click to view WORK\"][href$=\"business\"][role=\"menuitem\"]",
+          "html": "<a href=\"/p/business\" title=\"Click to view WORK\" role=\"menuitem\" style=\"cursor: default;\">\n                            WORK\n                        </a>",
+          "impact": "critical",
+          "messages": [
+            "Required ARIA parents role not present: menu, menubar, group"
+          ],
+          "box": {
+            "x": 1366,
+            "y": 4509,
+            "w": 400,
+            "h": 65.375
+          }
+        },
+        {
+          "target": ".hasChild:nth-child(4) > .subMainMenu > li:nth-child(1) > a[href$=\"chamber-of-commerce\"][role=\"menuitem\"]",
+          "html": "<a href=\"/p/chamber-of-commerce\" title=\"Click to view Chamber of Commerce\" role=\"menuitem\">\n                                            Chamber of Commerce\n                                        </a>",
+          "impact": "critical",
+          "messages": [
+            "Required ARIA parents role not present: menu, menubar, group"
+          ],
+          "box": {
+            "x": 1366,
+            "y": 4602.375,
+            "w": 400,
+            "h": 65.375
+          }
+        },
+        {
+          "target": ".hasChild:nth-child(4) > .subMainMenu > .hasChild > a[href$=\"economic-development\"][role=\"menuitem\"]",
+          "html": "<a href=\"/p/economic-development\" title=\"Click to view Economic Development\" role=\"menuitem\">\n                                            Economic Development\n                                        </a>",
+          "impact": "critical",
+          "messages": [
+            "Required ARIA parents role not present: menu, menubar, group"
+          ],
+          "box": {
+            "x": 1366,
+            "y": 4667.75,
+            "w": 400,
+            "h": 65.375
+          }
+        },
+        {
+          "target": ".hasChild:nth-child(4) > .subMainMenu > .hasChild > .subSubMainMenu > li:nth-child(1) > a[href$=\"mstw-development-plan\"][role=\"menuitem\"]",
+          "html": "<a href=\"/p/mstw-development-plan\" title=\"Click to view MSTW Development Plan\" role=\"menuitem\">\n                                                            MSTW Development Plan\n                                                        </a>",
+          "impact": "critical",
+          "messages": [
+            "Required ARIA parents role not present: menu, menubar, group"
+          ],
+          "box": {
+            "x": 1366,
+            "y": 4761.125,
+            "w": 400,
+            "h": 65.375
+          }
+        },
+        {
+          "target": ".hasChild:nth-child(4) > .subMainMenu > .hasChild > .subSubMainMenu > li:nth-child(2) > a[target=\"_blank\"][role=\"menuitem\"]",
+          "html": "<a href=\"https://advanceruralmanitoba.ca/communities/city-of-winkler/\" target=\"_blank\" title=\"Click to view City of Winkler Statistics\" role=\"menuitem\">\n                                                            City of Winkler Statistics\n                                                        </a>",
+          "impact": "critical",
+          "messages": [
+            "Required ARIA parents role not present: menu, menubar, group"
+          ],
+          "box": {
+            "x": 1366,
+            "y": 4826.5,
+            "w": 400,
+            "h": 65.375
+          }
+        },
+        {
+          "target": "li:nth-child(3) > a[href$=\"infrastructure\"][title=\"Click to view Infrastructure\"][role=\"menuitem\"]",
+          "html": "<a href=\"/p/infrastructure\" title=\"Click to view Infrastructure\" role=\"menuitem\">\n                                            Infrastructure\n                                        </a>",
+          "impact": "critical",
+          "messages": [
+            "Required ARIA parents role not present: menu, menubar, group"
+          ],
+          "box": {
+            "x": 1366,
+            "y": 4891.875,
+            "w": 400,
+            "h": 65.375
+          }
+        },
+        {
+          "target": "li:nth-child(4) > a[href$=\"starting-a-business\"][role=\"menuitem\"]",
+          "html": "<a href=\"/p/starting-a-business\" title=\"Click to view Starting a Business \" role=\"menuitem\">\n                                            Starting a Business \n                                        </a>",
+          "impact": "critical",
+          "messages": [
+            "Required ARIA parents role not present: menu, menubar, group"
+          ],
+          "box": {
+            "x": 1366,
+            "y": 4957.25,
+            "w": 400,
+            "h": 65.375
+          }
+        },
+        {
+          "target": ".mobileNav > .mainMenu > .hasChild:nth-child(5) > a[title=\"Click to view VISIT\"][href$=\"visiting\"][role=\"menuitem\"]",
+          "html": "<a href=\"/p/visiting\" title=\"Click to view VISIT\" role=\"menuitem\" style=\"cursor: default;\">\n                            VISIT\n                        </a>",
+          "impact": "critical",
+          "messages": [
+            "Required ARIA parents role not present: menu, menubar, group"
+          ],
+          "box": {
+            "x": 1366,
+            "y": 5022.625,
+            "w": 400,
+            "h": 65.375
+          }
+        },
+        {
+          "target": ".hasChild:nth-child(5) > .subMainMenu > li:nth-child(1) > a[title=\"Click to view Events\"][target=\"_blank\"][role=\"menuitem\"]",
+          "html": "<a href=\"https://www.visitwinkler.ca/events\" target=\"_blank\" title=\"Click to view Events\" role=\"menuitem\">\n                                            Events\n                                        </a>",
+          "impact": "critical",
+          "messages": [
+            "Required ARIA parents role not present: menu, menubar, group"
+          ],
+          "box": {
+            "x": 1366,
+            "y": 5116,
+            "w": 400,
+            "h": 65.375
+          }
+        },
+        {
+          "target": "li:nth-child(2) > a[title=\"Click to view Harvest Festival\"][target=\"_blank\"][role=\"menuitem\"]",
+          "html": "<a href=\"https://www.visitwinkler.ca/harvest-festival\" target=\"_blank\" title=\"Click to view Harvest Festival\" role=\"menuitem\">\n                                            Harvest Festival\n                                        </a>",
+          "impact": "critical",
+          "messages": [
+            "Required ARIA parents role not present: menu, menubar, group"
+          ],
+          "box": {
+            "x": 1366,
+            "y": 5181.375,
+            "w": 400,
+            "h": 65.375
+          }
+        },
+        {
+          "target": "li:nth-child(3) > a[target=\"_blank\"][role=\"menuitem\"]",
+          "html": "<a href=\"https://playwinkler.ca/campground\" target=\"_blank\" title=\"Click to view Winkler Campground\" role=\"menuitem\">\n                                            Winkler Campground\n                                        </a>",
+          "impact": "critical",
+          "messages": [
+            "Required ARIA parents role not present: menu, menubar, group"
+          ],
+          "box": {
+            "x": 1366,
+            "y": 5246.75,
+            "w": 400,
+            "h": 65.375
+          }
+        },
+        {
+          "target": ".hasChild:nth-child(5) > .subMainMenu > li:nth-child(4) > a[target=\"_blank\"][role=\"menuitem\"]",
+          "html": "<a href=\"https://www.winklerconcerthall.ca/\" target=\"_blank\" title=\"Click to view PW Enns Centennial Concert Hall\" role=\"menuitem\">\n                                            PW Enns Centennial Concert Hall\n                                        </a>",
+          "impact": "critical",
+          "messages": [
+            "Required ARIA parents role not present: menu, menubar, group"
+          ],
+          "box": {
+            "x": 1366,
+            "y": 5312.125,
+            "w": 400,
+            "h": 92.375
+          }
+        },
+        {
+          "target": ".mobileNav > .mainMenu > li:nth-child(6) > a[title=\"Click to view PLAY\"][href$=\"playwinkler.ca/\"][target=\"_blank\"]",
+          "html": "<a href=\"https://playwinkler.ca/\" target=\"_blank\" title=\"Click to view PLAY\" role=\"menuitem\" style=\"cursor: default;\">\n                            PLAY\n                        </a>",
+          "impact": "critical",
+          "messages": [
+            "Required ARIA parents role not present: menu, menubar, group"
+          ],
+          "box": {
+            "x": 1366,
+            "y": 5404.5,
+            "w": 400,
+            "h": 65.375
+          }
+        }
+      ]
+    },
+    {
+      "id": "button-name",
+      "impact": "critical",
+      "help": "Buttons must have discernible text",
+      "description": "Ensure buttons have discernible text",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/button-name?application=playwright",
+      "tags": [
+        "cat.name-role-value",
+        "wcag2a",
+        "wcag412",
+        "section508",
+        "section508.22.a",
+        "TTv5",
+        "TT6.a",
+        "EN-301-549",
+        "EN-9.4.1.2",
+        "ACT",
+        "RGAAv4",
+        "RGAA-11.9.1"
+      ],
+      "wcag": [
+        "4.1.2"
+      ],
+      "nodes": 5,
+      "items": [
+        {
+          "target": "#listLN > .owl-dots > .owl-dot.active[role=\"button\"]",
+          "html": "<button role=\"button\" class=\"owl-dot active\"><span></span></button>",
+          "impact": "critical",
+          "messages": [
+            "Element does not have inner text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element does not have an implicit (wrapped) <label>",
+            "Element does not have an explicit <label>",
+            "Element's default semantics were not overridden with role=\"none\" or role=\"presentation\""
+          ],
+          "box": {
+            "x": 320.125,
+            "y": 1308.203125,
+            "w": 15,
+            "h": 15
+          }
+        },
+        {
+          "target": "#listLN > .owl-dots > .owl-dot[role=\"button\"]:nth-child(2)",
+          "html": "<button role=\"button\" class=\"owl-dot\"><span></span></button>",
+          "impact": "critical",
+          "messages": [
+            "Element does not have inner text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element does not have an implicit (wrapped) <label>",
+            "Element does not have an explicit <label>",
+            "Element's default semantics were not overridden with role=\"none\" or role=\"presentation\""
+          ],
+          "box": {
+            "x": 341.5,
+            "y": 1308.203125,
+            "w": 15,
+            "h": 15
+          }
+        },
+        {
+          "target": ".owl-dot[role=\"button\"]:nth-child(3)",
+          "html": "<button role=\"button\" class=\"owl-dot\"><span></span></button>",
+          "impact": "critical",
+          "messages": [
+            "Element does not have inner text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element does not have an implicit (wrapped) <label>",
+            "Element does not have an explicit <label>",
+            "Element's default semantics were not overridden with role=\"none\" or role=\"presentation\""
+          ],
+          "box": {
+            "x": 362.875,
+            "y": 1308.203125,
+            "w": 15,
+            "h": 15
+          }
+        },
+        {
+          "target": "#listUE > .owl-dots > .owl-dot.active[role=\"button\"]",
+          "html": "<button role=\"button\" class=\"owl-dot active\"><span></span></button>",
+          "impact": "critical",
+          "messages": [
+            "Element does not have inner text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element does not have an implicit (wrapped) <label>",
+            "Element does not have an explicit <label>",
+            "Element's default semantics were not overridden with role=\"none\" or role=\"presentation\""
+          ],
+          "box": {
+            "x": 998.8125,
+            "y": 1285.96875,
+            "w": 15,
+            "h": 15
+          }
+        },
+        {
+          "target": "#listUE > .owl-dots > .owl-dot[role=\"button\"]:nth-child(2)",
+          "html": "<button role=\"button\" class=\"owl-dot\"><span></span></button>",
+          "impact": "critical",
+          "messages": [
+            "Element does not have inner text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element does not have an implicit (wrapped) <label>",
+            "Element does not have an explicit <label>",
+            "Element's default semantics were not overridden with role=\"none\" or role=\"presentation\""
+          ],
+          "box": {
+            "x": 1020.1875,
+            "y": 1285.96875,
+            "w": 15,
+            "h": 15
+          }
+        }
+      ]
+    },
+    {
+      "id": "color-contrast",
+      "impact": "serious",
+      "help": "Elements must meet minimum color contrast ratio thresholds",
+      "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/color-contrast?application=playwright",
+      "tags": [
+        "cat.color",
+        "wcag2aa",
+        "wcag143",
+        "TTv5",
+        "TT13.c",
+        "EN-301-549",
+        "EN-9.1.4.3",
+        "ACT",
+        "RGAAv4",
+        "RGAA-3.2.1"
+      ],
+      "wcag": [
+        "1.4.3"
+      ],
+      "nodes": 4,
+      "items": [
+        {
+          "target": "a[title=\"Click here to view all news\"]",
+          "html": "<a href=\"/p/local-notices\" title=\"Click here to view all news\">View All Notices</a>",
+          "impact": "serious",
+          "messages": [
+            "Element has insufficient color contrast of 4.13 (foreground color: #0a7bc3, background color: #f2f5f7, font size: 12.0pt (16px), font weight: bold). Expected contrast ratio of 4.5:1"
+          ],
+          "box": {
+            "x": 55.078125,
+            "y": 1356.203125,
+            "w": 264.515625,
+            "h": 40
+          }
+        },
+        {
+          "target": ".bottomLinks > a[href$=\"add-notice\"]",
+          "html": "<a href=\"/p/add-notice\" title=\"Click here to submit a news item\">Submit A Notice</a>",
+          "impact": "serious",
+          "messages": [
+            "Element has insufficient color contrast of 4.13 (foreground color: #0a7bc3, background color: #f2f5f7, font size: 12.0pt (16px), font weight: bold). Expected contrast ratio of 4.5:1"
+          ],
+          "box": {
+            "x": 378.40625,
+            "y": 1356.203125,
+            "w": 264.515625,
+            "h": 40
+          }
+        },
+        {
+          "target": "a[title=\"Click here to view calendar\"]",
+          "html": "<a href=\"/p/upcoming-events\" title=\"Click here to view calendar\">View All Events</a>",
+          "impact": "serious",
+          "messages": [
+            "Element has insufficient color contrast of 4.13 (foreground color: #0a7bc3, background color: #f2f5f7, font size: 12.0pt (16px), font weight: bold). Expected contrast ratio of 4.5:1"
+          ],
+          "box": {
+            "x": 723.078125,
+            "y": 1356.203125,
+            "w": 264.515625,
+            "h": 40
+          }
+        },
+        {
+          "target": "a[title=\"Click here to submit an event\"]",
+          "html": "<a href=\"/p/add-event\" title=\"Click here to submit an event\">Submit an Event</a>",
+          "impact": "serious",
+          "messages": [
+            "Element has insufficient color contrast of 4.13 (foreground color: #0a7bc3, background color: #f2f5f7, font size: 12.0pt (16px), font weight: bold). Expected contrast ratio of 4.5:1"
+          ],
+          "box": {
+            "x": 1046.40625,
+            "y": 1356.203125,
+            "w": 264.515625,
+            "h": 40
+          }
+        }
+      ]
+    },
+    {
+      "id": "list",
+      "impact": "serious",
+      "help": "<ul> and <ol> must only directly contain <li>, <script> or <template> elements",
+      "description": "Ensure that lists are structured correctly",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/list?application=playwright",
+      "tags": [
+        "cat.structure",
+        "wcag2a",
+        "wcag131",
+        "EN-301-549",
+        "EN-9.1.3.1",
+        "RGAAv4",
+        "RGAA-9.3.1"
+      ],
+      "wcag": [
+        "1.3.1"
+      ],
+      "nodes": 1,
+      "items": [
+        {
+          "target": "#listLN",
+          "html": "<ul id=\"listLN\" class=\"newsEventsCol cf  owl-carousel notices-carousel owl-theme owl-loaded owl-drag\">",
+          "impact": "serious",
+          "messages": [
+            "List element has direct children that are not allowed: div"
+          ],
+          "box": {
+            "x": 55.078125,
+            "y": 915.203125,
+            "w": 587.84375,
+            "h": 425
+          }
+        }
+      ]
+    },
+    {
+      "id": "listitem",
+      "impact": "serious",
+      "help": "<li> elements must be contained in a <ul> or <ol>",
+      "description": "Ensure <li> elements are used semantically",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/listitem?application=playwright",
+      "tags": [
+        "cat.structure",
+        "wcag2a",
+        "wcag131",
+        "EN-301-549",
+        "EN-9.1.3.1",
+        "RGAAv4",
+        "RGAA-9.3.1"
+      ],
+      "wcag": [
+        "1.3.1"
+      ],
+      "nodes": 6,
+      "items": [
+        {
+          "target": ".active.owl-item:nth-child(1) > li",
+          "html": "<li>",
+          "impact": "serious",
+          "messages": [
+            "List item does not have a <ul>, <ol> parent element"
+          ],
+          "box": {
+            "x": 55.078125,
+            "y": 915.203125,
+            "w": 279,
+            "h": 365
+          }
+        },
+        {
+          "target": ".active.owl-item:nth-child(2) > li",
+          "html": "<li>",
+          "impact": "serious",
+          "messages": [
+            "List item does not have a <ul>, <ol> parent element"
+          ],
+          "box": {
+            "x": 364.078125,
+            "y": 915.203125,
+            "w": 279,
+            "h": 365
+          }
+        },
+        {
+          "target": ".owl-item:nth-child(3) > li",
+          "html": "<li>",
+          "impact": "serious",
+          "messages": [
+            "List item does not have a <ul>, <ol> parent element"
+          ],
+          "box": {
+            "x": 673.078125,
+            "y": 915.203125,
+            "w": 279,
+            "h": 365
+          }
+        },
+        {
+          "target": ".owl-item:nth-child(4) > li",
+          "html": "<li>",
+          "impact": "serious",
+          "messages": [
+            "List item does not have a <ul>, <ol> parent element"
+          ],
+          "box": {
+            "x": 982.078125,
+            "y": 915.203125,
+            "w": 279,
+            "h": 365
+          }
+        },
+        {
+          "target": ".owl-item:nth-child(5) > li",
+          "html": "<li>",
+          "impact": "serious",
+          "messages": [
+            "List item does not have a <ul>, <ol> parent element"
+          ],
+          "box": {
+            "x": 1291.078125,
+            "y": 915.203125,
+            "w": 279,
+            "h": 365
+          }
+        },
+        {
+          "target": ".owl-item:nth-child(6) > li",
+          "html": "<li>",
+          "impact": "serious",
+          "messages": [
+            "List item does not have a <ul>, <ol> parent element"
+          ],
+          "box": {
+            "x": 1600.078125,
+            "y": 915.203125,
+            "w": 279,
+            "h": 365
+          }
+        }
+      ]
+    },
+    {
+      "id": "target-size",
+      "impact": "serious",
+      "help": "All touch targets must be 24px large, or leave sufficient space",
+      "description": "Ensure touch targets have sufficient size and space",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/target-size?application=playwright",
+      "tags": [
+        "cat.sensory-and-visual-cues",
+        "wcag22aa",
+        "wcag258"
+      ],
+      "wcag": [
+        "2.5.8"
+      ],
+      "nodes": 3,
+      "items": [
+        {
+          "target": "#listLN > .owl-dots > .owl-dot.active[role=\"button\"]",
+          "html": "<button role=\"button\" class=\"owl-dot active\"><span></span></button>",
+          "impact": "serious",
+          "messages": [
+            "Target has insufficient size (15px by 15px, should be at least 24px by 24px)",
+            "Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 18.8px instead of at least 24px."
+          ],
+          "box": {
+            "x": 320.125,
+            "y": 1308.203125,
+            "w": 15,
+            "h": 15
+          }
+        },
+        {
+          "target": "#listLN > .owl-dots > .owl-dot[role=\"button\"]:nth-child(2)",
+          "html": "<button role=\"button\" class=\"owl-dot\"><span></span></button>",
+          "impact": "serious",
+          "messages": [
+            "Target has insufficient size (15px by 15px, should be at least 24px by 24px)",
+            "Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 18.8px instead of at least 24px."
+          ],
+          "box": {
+            "x": 341.5,
+            "y": 1308.203125,
+            "w": 15,
+            "h": 15
+          }
+        },
+        {
+          "target": ".owl-dot[role=\"button\"]:nth-child(3)",
+          "html": "<button role=\"button\" class=\"owl-dot\"><span></span></button>",
+          "impact": "serious",
+          "messages": [
+            "Target has insufficient size (15px by 15px, should be at least 24px by 24px)",
+            "Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 18.8px instead of at least 24px."
+          ],
+          "box": {
+            "x": 362.875,
+            "y": 1308.203125,
+            "w": 15,
+            "h": 15
+          }
+        }
+      ]
+    }
+  ],
+  "verdict": "FAILURES DETECTED"
+}

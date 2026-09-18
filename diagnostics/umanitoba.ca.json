@@ -1,0 +1,400 @@
+{
+  "url": "https://umanitoba.ca/",
+  "ok": true,
+  "status": 200,
+  "title": "University of Manitoba",
+  "finalUrl": "https://umanitoba.ca/",
+  "shape": {
+    "elements": 736,
+    "images": 11,
+    "links": 150,
+    "buttons": 6,
+    "inputs": 5,
+    "headings": 37,
+    "textLength": 4981,
+    "lang": "en",
+    "iframes": 0
+  },
+  "viewport": {
+    "width": 1366,
+    "height": 900
+  },
+  "scannedAt": "2026-09-18T04:57:21.929Z",
+  "axe": {
+    "violationRules": 0,
+    "violationNodes": 0,
+    "passRules": 28,
+    "passNodes": 491,
+    "incompleteRules": 2,
+    "incompleteNodes": 21,
+    "inapplicableRules": 35,
+    "testedNodes": 512
+  },
+  "incomplete": [
+    {
+      "id": "aria-prohibited-attr",
+      "impact": "serious",
+      "help": "Elements must only use permitted ARIA attributes",
+      "description": "Ensure ARIA attributes are not prohibited for an element's role",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/aria-prohibited-attr?application=playwright",
+      "tags": [
+        "cat.aria",
+        "wcag2a",
+        "wcag412",
+        "EN-301-549",
+        "EN-9.4.1.2",
+        "RGAAv4",
+        "RGAA-7.1.1"
+      ],
+      "wcag": [
+        "4.1.2"
+      ],
+      "why": "",
+      "nodes": 1,
+      "sample": [
+        {
+          "target": ".eu-cookie-compliance-banner",
+          "html": "<div aria-labelledby=\"popup-text\" class=\"eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--default\" aria-hidden=\"false\">"
+        }
+      ],
+      "items": [
+        {
+          "target": ".eu-cookie-compliance-banner",
+          "html": "<div aria-labelledby=\"popup-text\" class=\"eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--default\" aria-hidden=\"false\">",
+          "impact": "serious",
+          "messages": [
+            "aria-labelledby attribute is not well supported, but the elements referenced by aria-labelledby are visible in the page. Verify the label is not necessary."
+          ],
+          "box": {
+            "x": 40,
+            "y": 841,
+            "w": 1286,
+            "h": 42
+          }
+        }
+      ]
+    },
+    {
+      "id": "color-contrast",
+      "impact": "serious",
+      "help": "Elements must meet minimum color contrast ratio thresholds",
+      "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/color-contrast?application=playwright",
+      "tags": [
+        "cat.color",
+        "wcag2aa",
+        "wcag143",
+        "TTv5",
+        "TT13.c",
+        "EN-301-549",
+        "EN-9.1.4.3",
+        "ACT",
+        "RGAAv4",
+        "RGAA-3.2.1"
+      ],
+      "wcag": [
+        "1.4.3"
+      ],
+      "why": "Element's background color could not be determined due to a pseudo element",
+      "nodes": 20,
+      "sample": [
+        {
+          "target": ".hero__link__header > h2",
+          "html": "<h2>Introducing the Cholakis School of Dental Hygiene</h2>"
+        },
+        {
+          "target": ".hero__link__header > p",
+          "html": "<p>UM alum Dr. Ernest Cholakis gifts $2 million to transform dental hygiene education and expand community outreach</p>"
+        },
+        {
+          "target": ".grid__item:nth-child(1) > .field--name-field-basic-text-content.field--type-text-long.clearfix > .link-list > li:nth-child(1) > a",
+          "html": "<a href=\"https://umanitoba.ca/explore/programs-of-study/undergraduate#undergraduate-programs-of-study\">Find a program</a>"
+        }
+      ],
+      "items": [
+        {
+          "target": ".hero__link__header > h2",
+          "html": "<h2>Introducing the Cholakis School of Dental Hygiene</h2>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 806,
+            "y": 584.671875,
+            "w": 520,
+            "h": 84
+          }
+        },
+        {
+          "target": ".hero__link__header > p",
+          "html": "<p>UM alum Dr. Ernest Cholakis gifts $2 million to transform dental hygiene education and expand community outreach</p>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 806,
+            "y": 678.671875,
+            "w": 520,
+            "h": 56
+          }
+        },
+        {
+          "target": ".grid__item:nth-child(1) > .field--name-field-basic-text-content.field--type-text-long.clearfix > .link-list > li:nth-child(1) > a",
+          "html": "<a href=\"https://umanitoba.ca/explore/programs-of-study/undergraduate#undergraduate-programs-of-study\">Find a program</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 54.75,
+            "y": 1697.875,
+            "w": 131.15625,
+            "h": 20
+          }
+        },
+        {
+          "target": ".grid__item:nth-child(1) > .field--name-field-basic-text-content.field--type-text-long.clearfix > .link-list > li:nth-child(2) > a",
+          "html": "<a href=\"https://umanitoba.ca/explore/student-experience/tuition-and-financial-supports\">Tuition and fees</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 54.75,
+            "y": 1730.625,
+            "w": 137.8125,
+            "h": 20
+          }
+        },
+        {
+          "target": ".grid__item:nth-child(1) > .field--name-field-basic-text-content.field--type-text-long.clearfix > .link-list > li:nth-child(3) > a",
+          "html": "<a href=\"https://umanitoba.ca/explore/student-experience\">Undergraduate student experience</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 54.75,
+            "y": 1763.375,
+            "w": 276.546875,
+            "h": 20
+          }
+        },
+        {
+          "target": ".field--name-field-basic-text-content.field--type-text-long.clearfix > .link-list > li:nth-child(4) > a",
+          "html": "<a href=\"https://umanitoba.ca/explore/international\">International admissions</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 54.75,
+            "y": 1796.125,
+            "w": 203.78125,
+            "h": 20
+          }
+        },
+        {
+          "target": ".field--name-field-basic-text-content.field--type-text-long.clearfix > .link-list > li:nth-child(5) > a",
+          "html": "<a href=\"https://umanitoba.ca/indigenous/\">Indigenous community at UM</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 54.75,
+            "y": 1828.875,
+            "w": 238.765625,
+            "h": 20
+          }
+        },
+        {
+          "target": ".grid__item:nth-child(1) > .field--name-field-basic-text-content.field--type-text-long.clearfix > p:nth-child(6) > .button--blue.button",
+          "html": "<a class=\"button button--blue\" href=\"https://umanitoba.ca/explore/undergraduate-admissions#section-3\">Apply now</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 40,
+            "y": 1949.46875,
+            "w": 122.21875,
+            "h": 49.59375
+          }
+        },
+        {
+          "target": ".grid__item:nth-child(2) > .field--name-field-basic-text-content.field--type-text-long.clearfix > .link-list > li:nth-child(1) > a",
+          "html": "<a href=\"https://umanitoba.ca/explore/programs-of-study/graduate#graduate-programs-of-study\">Find a program</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 490.078125,
+            "y": 1697.875,
+            "w": 131.15625,
+            "h": 20
+          }
+        },
+        {
+          "target": ".grid__item:nth-child(2) > .field--name-field-basic-text-content.field--type-text-long.clearfix > .link-list > li:nth-child(2) > a",
+          "html": "<a href=\"https://umanitoba.ca/graduate-studies/funding-awards-and-financial-aid\">Funding, awards, and financial aid</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 490.078125,
+            "y": 1730.625,
+            "w": 271.46875,
+            "h": 20
+          }
+        },
+        {
+          "target": ".grid__item:nth-child(2) > .field--name-field-basic-text-content.field--type-text-long.clearfix > .link-list > li:nth-child(3) > a",
+          "html": "<a href=\"https://umanitoba.ca/graduate-studies/graduate-student-admissions\">Admissions</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 490.078125,
+            "y": 1763.375,
+            "w": 106.265625,
+            "h": 20
+          }
+        },
+        {
+          "target": ".grid__item:nth-child(2) > .field--name-field-basic-text-content.field--type-text-long.clearfix > p:nth-child(6) > .button--blue.button",
+          "html": "<a class=\"button button--blue\" href=\"https://umanitoba.ca/graduate-studies/admissions/apply\">Apply now</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 475.328125,
+            "y": 1883.96875,
+            "w": 122.21875,
+            "h": 49.59375
+          }
+        },
+        {
+          "target": ".grid__item:nth-child(3) > .field--name-field-basic-text-content.field--type-text-long.clearfix > .link-list > li:nth-child(1) > a",
+          "html": "<a href=\"https://umanitoba.ca/extended-education/programs-and-courses\">Programs and courses</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 925.40625,
+            "y": 1697.890625,
+            "w": 187.875,
+            "h": 20
+          }
+        },
+        {
+          "target": ".grid__item:nth-child(3) > .field--name-field-basic-text-content.field--type-text-long.clearfix > .link-list > li:nth-child(2) > a",
+          "html": "<a href=\"https://umanitoba.ca/extended-education/student-supports\">Student supports</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 925.40625,
+            "y": 1730.640625,
+            "w": 147.25,
+            "h": 20
+          }
+        },
+        {
+          "target": ".grid__item:nth-child(3) > .field--name-field-basic-text-content.field--type-text-long.clearfix > p:nth-child(6) > .button--blue.button",
+          "html": "<a class=\"button button--blue\" href=\"https://umanitoba.ca/extended-education/programs-and-courses/courses\">Apply now</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 910.65625,
+            "y": 1851.234375,
+            "w": 122.21875,
+            "h": 49.59375
+          }
+        },
+        {
+          "target": ".figure-list__item:nth-child(1) > .figure-list__tag",
+          "html": "<p class=\"figure-list__tag\">More than</p>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 80,
+            "y": 2716.0625,
+            "w": 276,
+            "h": 20.390625
+          }
+        },
+        {
+          "target": ".figure-list__item:nth-child(2) > .figure-list__tag",
+          "html": "<p class=\"figure-list__tag\">UM awards</p>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 390,
+            "y": 2716.0625,
+            "w": 276,
+            "h": 20.390625
+          }
+        },
+        {
+          "target": ".figure-list__item:nth-child(3) > .figure-list__tag",
+          "html": "<p class=\"figure-list__tag\">We are a member of the</p>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 700,
+            "y": 2715.890625,
+            "w": 276,
+            "h": 20.390625
+          }
+        },
+        {
+          "target": ".figure-list__item:nth-child(4) > .figure-list__tag",
+          "html": "<p class=\"figure-list__tag\">More than</p>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 1010,
+            "y": 2716.0625,
+            "w": 276,
+            "h": 20.390625
+          }
+        },
+        {
+          "target": "#popup-text > p",
+          "html": "<p>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it partially overlaps other elements"
+          ],
+          "box": {
+            "x": 40,
+            "y": 842,
+            "w": 1119.953125,
+            "h": 39
+          }
+        }
+      ]
+    }
+  ],
+  "violations": [],
+  "verdict": "CLEAN ON RULES, OPEN ON JUDGEMENT — the work is in the incomplete list"
+}

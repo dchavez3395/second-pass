@@ -1,0 +1,101 @@
+{
+  "url": "https://www.sjasd.ca/",
+  "ok": true,
+  "status": 200,
+  "title": "St. James-Assiniboia School Division - St. James-Assiniboia School Division",
+  "finalUrl": "https://www.sjasd.ca/Pages/default.aspx#/=",
+  "shape": {
+    "elements": 2020,
+    "images": 20,
+    "links": 476,
+    "buttons": 4,
+    "inputs": 28,
+    "headings": 10,
+    "textLength": 5781,
+    "lang": "en-CA",
+    "iframes": 2
+  },
+  "axe": {
+    "violationRules": 5,
+    "violationNodes": 10,
+    "passRules": 32,
+    "passNodes": 724,
+    "incompleteRules": 2,
+    "incompleteNodes": 32,
+    "inapplicableRules": 30,
+    "testedNodes": 766
+  },
+  "incomplete": [
+    {
+      "id": "color-contrast",
+      "impact": "serious",
+      "help": "Elements must meet minimum color contrast ratio thresholds",
+      "why": "Element's background color could not be determined because it is overlapped by another element",
+      "nodes": 30,
+      "sample": [
+        {
+          "target": "select",
+          "html": "<select class=\"gt_selector notranslate\" aria-label=\"Select Language\">"
+        },
+        {
+          "target": ".sl-SiteName",
+          "html": "<div class=\"sl-SiteName\">\n\t\t\t\t\t\t\t\t\t\t    St. James-Assiniboia School Division\n                                        </div>"
+        },
+        {
+          "target": ".sl-SiteTagLine",
+          "html": "<div class=\"sl-SiteTagLine\">\n                                            Great Schools for Growing and Learning\n                                        </div>"
+        }
+      ]
+    },
+    {
+      "id": "link-in-text-block",
+      "impact": "serious",
+      "help": "Links must be distinguishable without relying on color",
+      "why": "Element's contrast ratio could not be determined because of element overlap",
+      "nodes": 2,
+      "sample": [
+        {
+          "target": ".SchoolDayContainer",
+          "html": "<a class=\"SchoolDayContainer\" href=\"//www.sjasd.ca/AboutUs/SchoolDayCalendar/\">\n\t<div class=\"Date\">Sep 18, 2026</div>\n\t<div class=\"noindex SchoolDay 3\">School Day <span class=\"day\">3</span></div>\n\t<di"
+        },
+        {
+          "target": "a[href=\"tel:204-888-7951\"]",
+          "html": "<a href=\"tel:204-888-7951\">\n                                        204-888-7951</a>"
+        }
+      ]
+    }
+  ],
+  "violations": [
+    {
+      "id": "color-contrast",
+      "impact": "serious",
+      "help": "Elements must meet minimum color contrast ratio thresholds",
+      "nodes": 1
+    },
+    {
+      "id": "frame-title",
+      "impact": "serious",
+      "help": "Frames must have an accessible name",
+      "nodes": 1
+    },
+    {
+      "id": "image-alt",
+      "impact": "critical",
+      "help": "Images must have alternative text",
+      "nodes": 1
+    },
+    {
+      "id": "link-name",
+      "impact": "serious",
+      "help": "Links must have discernible text",
+      "nodes": 6
+    },
+    {
+      "id": "meta-viewport",
+      "impact": "moderate",
+      "help": "Zooming and scaling must not be disabled",
+      "nodes": 1
+    }
+  ],
+  "verdict": "FAILURES DETECTED"
+}

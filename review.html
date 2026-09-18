@@ -1,0 +1,245 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Second Pass review</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+  :root {
+    --bg: #ffffff; --panel: #f5f6f8; --line: #dcdfe4; --text: #1a1d21; --muted: #6b7280;
+    --accent: #2563eb; --ok: #15803d; --bad: #b91c1c; --look: #b45309; --code: #eef0f3;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --bg: #111316; --panel: #191c21; --line: #2a2f37; --text: #e6e8eb; --muted: #9aa3ad;
+      --accent: #60a5fa; --ok: #4ade80; --bad: #f87171; --look: #fbbf24; --code: #0d0f12;
+    }
+  }
+  * { box-sizing: border-box; }
+  html, body { height: 100%; }
+  body { margin: 0; background: var(--bg); color: var(--text); font: 14px/1.45 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; display: flex; flex-direction: column; }
+  header { display: flex; flex-wrap: wrap; gap: 12px 18px; align-items: center; padding: 10px 16px; border-bottom: 1px solid var(--line); background: var(--panel); }
+  header h1 { font-size: 15px; margin: 0; font-weight: 600; }
+  header label { color: var(--muted); font-size: 13px; display: inline-flex; gap: 6px; align-items: center; }
+  select, input[type=text] { font: inherit; color: var(--text); background: var(--bg); border: 1px solid var(--line); border-radius: 6px; padding: 5px 8px; }
+  .progress { margin-left: auto; color: var(--muted); font-variant-numeric: tabular-nums; }
+  .progress b { color: var(--text); }
+  main { flex: 1; display: grid; grid-template-columns: minmax(360px, 5fr) minmax(360px, 6fr); min-height: 0; }
+  @media (max-width: 900px) { main { grid-template-columns: 1fr; } }
+  .evidence { padding: 16px; overflow: auto; border-right: 1px solid var(--line); }
+  .shot { position: relative; overflow: hidden; background: #000; min-height: 320px; }
+  .shot img { position: absolute; left: 0; top: 0; transform-origin: 0 0; display: block; }
+  .shot .box { position: absolute; border: 3px solid #ff2d55; box-shadow: 0 0 0 9999px rgba(0,0,0,.45); pointer-events: none; }
+  .shot .note { position: absolute; left: 12px; bottom: 12px; background: rgba(0,0,0,.7); color: #fff; padding: 6px 10px; border-radius: 6px; font-size: 12px; }
+  .site { color: var(--muted); font-size: 13px; }
+  .site a { color: var(--accent); }
+  h2 { font-size: 20px; margin: 4px 0 2px; font-weight: 600; }
+  .meta { display: flex; flex-wrap: wrap; gap: 6px 10px; margin: 8px 0 14px; font-size: 12px; }
+  .pill { border: 1px solid var(--line); border-radius: 999px; padding: 2px 9px; color: var(--muted); }
+  .pill.impact-critical, .pill.impact-serious { color: var(--bad); border-color: var(--bad); }
+  .pill.impact-moderate { color: var(--look); border-color: var(--look); }
+  .pill.kind-incomplete { color: var(--look); border-color: var(--look); }
+  .pill.kind-violation { color: var(--bad); border-color: var(--bad); }
+  .pill a { color: inherit; text-decoration: none; }
+  section { margin: 14px 0; }
+  section h3 { font-size: 11px; letter-spacing: .06em; text-transform: uppercase; color: var(--muted); margin: 0 0 6px; font-weight: 600; }
+  .why { padding: 10px 12px; border-left: 3px solid var(--look); background: var(--panel); border-radius: 0 6px 6px 0; }
+  .why p { margin: 0; } .why p + p { margin-top: 6px; }
+  pre { margin: 0; padding: 10px 12px; background: var(--code); border: 1px solid var(--line); border-radius: 6px; overflow: auto; font: 12px/1.5 ui-monospace, Menlo, Consolas, monospace; white-space: pre-wrap; word-break: break-all; }
+  .decided { padding: 10px 12px; border-radius: 6px; background: var(--panel); border: 1px solid var(--line); }
+  .decided b.confirm { color: var(--ok); } .decided b.reject { color: var(--bad); } .decided b.look { color: var(--look); }
+  footer { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; padding: 10px 16px; border-top: 1px solid var(--line); background: var(--panel); }
+  button { font: inherit; padding: 7px 12px; border-radius: 6px; border: 1px solid var(--line); background: var(--bg); color: var(--text); cursor: pointer; }
+  button kbd { font: 11px ui-monospace, monospace; padding: 1px 5px; border: 1px solid var(--line); border-radius: 4px; margin-right: 6px; color: var(--muted); }
+  button.confirm { border-color: var(--ok); } button.reject { border-color: var(--bad); } button.look { border-color: var(--look); }
+  button.pending { outline: 2px solid var(--accent); }
+  #reason { flex: 1; min-width: 220px; }
+  .nav { display: flex; gap: 6px; }
+  .hint { width: 100%; color: var(--muted); font-size: 12px; }
+  .empty { padding: 40px; color: var(--muted); }
+  .flash { position: fixed; right: 16px; top: 60px; background: var(--text); color: var(--bg); padding: 8px 12px; border-radius: 6px; opacity: 0; transition: opacity .2s; }
+  .flash.show { opacity: 1; }
+</style>
+</head>
+<body>
+<header>
+  <h1>Second Pass review</h1>
+  <label>Show
+    <select id="kind">
+      <option value="incomplete">axe could not decide</option>
+      <option value="violation">axe reported a failure</option>
+      <option value="all">both</option>
+    </select>
+  </label>
+  <label>Site <select id="site"><option value="">all</option></select></label>
+  <label>Rule <select id="rule"><option value="">all</option></select></label>
+  <label><input type="checkbox" id="hideDecided" checked> hide decided</label>
+  <span class="progress" id="progress"></span>
+</header>
+
+<main>
+  <div class="evidence" id="evidence"></div>
+  <div class="shot" id="shot"></div>
+</main>
+
+<footer>
+  <button class="confirm" data-verdict="confirm"><kbd>C</kbd>Confirm — real problem</button>
+  <button class="reject" data-verdict="reject"><kbd>R</kbd>Reject — not a problem</button>
+  <button class="look" data-verdict="look"><kbd>L</kbd>Closer look</button>
+  <input type="text" id="reason" placeholder="Reason — required to reject, optional otherwise. Enter saves.">
+  <div class="nav">
+    <button id="prev" title="previous (K or ←)">←</button>
+    <button id="next" title="next (J or →)">→</button>
+    <button id="reopen" title="reopen this finding (U)">Undo</button>
+  </div>
+  <div class="hint">Keys: <b>C</b> confirm · <b>R</b> reject (then type the reason, Enter) · <b>L</b> closer look · <b>J</b>/<b>K</b> next/previous · <b>.</b> reuse last reason · <b>U</b> reopen. Decisions land in <code>decisions.jsonl</code>; <code>review-log.md</code> is rebuilt on every one.</div>
+</footer>
+<div class="flash" id="flash"></div>
+
+<script>
+const $ = (s) => document.querySelector(s);
+const esc = (s) => String(s ?? '').replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+
+let all = [], decisions = {}, list = [], idx = 0, pending = null, lastReason = '';
+
+async function load(keepIndex) {
+  const r = await fetch('/api/queue');
+  const j = await r.json();
+  all = j.findings; decisions = j.decisions;
+  fillSelect($('#site'), [...new Set(all.map((f) => f.site))].sort());
+  fillSelect($('#rule'), [...new Set(all.map((f) => f.rule))].sort());
+  const cur = list[idx] && list[idx].id;
+  applyFilters();
+  if (keepIndex && cur) { const i = list.findIndex((f) => f.id === cur); if (i >= 0) idx = i; }
+  render();
+}
+
+function fillSelect(sel, values) {
+  const cur = sel.value;
+  sel.innerHTML = '<option value="">all</option>' + values.map((v) => `<option>${esc(v)}</option>`).join('');
+  sel.value = values.includes(cur) ? cur : '';
+}
+
+function applyFilters() {
+  const kind = $('#kind').value, site = $('#site').value, rule = $('#rule').value, hide = $('#hideDecided').checked;
+  list = all.filter((f) =>
+    (kind === 'all' || f.kind === kind) &&
+    (!site || f.site === site) &&
+    (!rule || f.rule === rule) &&
+    (!hide || !decisions[f.id])
+  );
+  if (idx >= list.length) idx = Math.max(0, list.length - 1);
+}
+
+function render() {
+  const scope = all.filter((f) => $('#kind').value === 'all' || f.kind === $('#kind').value);
+  const done = scope.filter((f) => decisions[f.id]).length;
+  $('#progress').innerHTML = `<b>${done}</b> / ${scope.length} decided · ${list.length} in view`;
+  pending = null; document.querySelectorAll('footer button.pending').forEach((b) => b.classList.remove('pending'));
+
+  const f = list[idx];
+  if (!f) {
+    $('#evidence').innerHTML = `<div class="empty">Nothing left in this view. Change the filters, or untick “hide decided” to revisit.</div>`;
+    $('#shot').innerHTML = '';
+    return;
+  }
+  const d = decisions[f.id];
+  const wcag = f.wcag.map((w) => `<span class="pill">WCAG ${esc(w)}</span>`).join('');
+  const level = f.tags.filter((t) => /^wcag2\d?(a|aa|aaa)$/.test(t)).map((t) => t.replace(/^wcag2\d?/, '').toUpperCase());
+  $('#evidence').innerHTML = `
+    <div class="site">${esc(f.site)} · <a href="${esc(f.url)}" target="_blank" rel="noopener">open live page ↗</a>${f.title ? ' · ' + esc(f.title) : ''}</div>
+    <h2>${esc(f.help)}</h2>
+    <div class="meta">
+      <span class="pill kind-${f.kind}">${f.kind === 'incomplete' ? 'axe could not decide' : 'axe says: fail'}</span>
+      <span class="pill impact-${esc(f.impact)}">${esc(f.impact || 'impact unknown')}</span>
+      ${wcag}${level.length ? `<span class="pill">Level ${esc([...new Set(level)].join('/'))}</span>` : ''}
+      <span class="pill"><a href="${esc(f.helpUrl)}" target="_blank" rel="noopener">${esc(f.rule)} ↗</a></span>
+      <span class="pill">node ${f.nodeIndex + 1} of ${f.nodeCount} for this rule</span>
+    </div>
+    ${f.description ? `<p style="color:var(--muted);margin:0 0 12px">${esc(f.description)}</p>` : ''}
+    <section><h3>Why axe stopped here</h3><div class="why">${f.messages.length ? f.messages.map((m) => `<p>${esc(m)}</p>`).join('') : '<p>axe gave no per-node explanation.</p>'}</div></section>
+    <section><h3>Element</h3><pre>${esc(f.html)}</pre></section>
+    <section><h3>Selector</h3><pre>${esc(f.target)}</pre></section>
+    ${d ? `<section><h3>Your decision</h3><div class="decided"><b class="${esc(d.verdict)}">${esc({ confirm: 'Confirmed', reject: 'Rejected', look: 'Needs a closer look' }[d.verdict])}</b>${d.reason ? ' — ' + esc(d.reason) : ''}<div style="color:var(--muted);font-size:12px">${esc(d.at.slice(0, 16).replace('T', ' '))}</div></div></section>` : ''}
+  `;
+  $('#reason').value = '';
+  renderShot(f);
+}
+
+function renderShot(f) {
+  const shot = $('#shot');
+  if (!f.shot) { shot.innerHTML = '<div class="note">No screenshot for this site.</div>'; return; }
+  shot.innerHTML = `<img src="/screens/${encodeURIComponent(f.shot)}" alt="Screenshot of ${esc(f.site)}"><div class="box" hidden></div><div class="note" hidden></div>`;
+  const img = shot.querySelector('img'), box = shot.querySelector('.box'), note = shot.querySelector('.note');
+  img.onload = () => {
+    const W = shot.clientWidth, H = shot.clientHeight;
+    const pageW = (f.viewport && f.viewport.width) || img.naturalWidth;
+    const scale = W / pageW;
+    img.style.transform = `scale(${scale})`;
+    const b = f.box;
+    if (!b || (b.w === 0 && b.h === 0)) {
+      img.style.top = '0px';
+      note.hidden = false; note.textContent = 'Element has no on-screen box (hidden, off-canvas, or removed after load). Use the selector on the live page.';
+      return;
+    }
+    const cy = (b.y + b.h / 2) * scale;
+    const maxTop = Math.max(0, img.naturalHeight * scale - H);
+    const top = Math.min(maxTop, Math.max(0, cy - H / 2));
+    img.style.top = `-${top}px`;
+    box.hidden = false;
+    box.style.left = `${b.x * scale - 4}px`;
+    box.style.top = `${b.y * scale - top - 4}px`;
+    box.style.width = `${Math.max(8, b.w * scale) + 2}px`;
+    box.style.height = `${Math.max(8, b.h * scale) + 2}px`;
+    if (b.y > ((f.viewport && f.viewport.height) || 900)) { note.hidden = false; note.textContent = `Below the fold — ${Math.round(b.y)}px down the page.`; }
+  };
+}
+
+function flash(msg) { const el = $('#flash'); el.textContent = msg; el.classList.add('show'); setTimeout(() => el.classList.remove('show'), 1200); }
+
+async function decide(verdict) {
+  const f = list[idx]; if (!f) return;
+  const reason = $('#reason').value.trim();
+  if (verdict === 'reject' && !reason) {
+    pending = 'reject';
+    document.querySelectorAll('footer button').forEach((b) => b.classList.toggle('pending', b.dataset.verdict === 'reject'));
+    $('#reason').focus(); $('#reason').placeholder = 'Why is this not a problem? Enter to save.';
+    return;
+  }
+  const r = await fetch('/api/decision', { method: 'POST', headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ id: f.id, site: f.site, rule: f.rule, target: f.target, verdict, reason }) });
+  if (!r.ok) { flash((await r.json()).error || 'not saved'); return; }
+  if (reason) lastReason = reason;
+  flash({ confirm: 'Confirmed', reject: 'Rejected', look: 'Marked for a closer look', reopen: 'Reopened' }[verdict]);
+  $('#reason').blur();
+  const wasHiding = $('#hideDecided').checked;
+  await load(!wasHiding || verdict === 'reopen'); // hiding decided: the next one slides into this index
+}
+
+document.querySelectorAll('footer button[data-verdict]').forEach((b) => b.addEventListener('click', () => decide(b.dataset.verdict)));
+$('#prev').onclick = () => { idx = Math.max(0, idx - 1); render(); };
+$('#next').onclick = () => { idx = Math.min(list.length - 1, idx + 1); render(); };
+$('#reopen').onclick = () => decide('reopen');
+['#kind', '#site', '#rule', '#hideDecided'].forEach((s) => $(s).addEventListener('change', () => { idx = 0; applyFilters(); render(); }));
+$('#reason').addEventListener('keydown', (e) => {
+  if (e.key === 'Enter') { e.preventDefault(); decide(pending || 'confirm'); }
+  if (e.key === 'Escape') { $('#reason').blur(); }
+});
+document.addEventListener('keydown', (e) => {
+  if (e.target === $('#reason') || e.target.tagName === 'SELECT' || e.metaKey || e.ctrlKey || e.altKey) return;
+  const k = e.key.toLowerCase();
+  if (k === 'c') decide('confirm');
+  else if (k === 'r') decide('reject');
+  else if (k === 'l') decide('look');
+  else if (k === 'u') decide('reopen');
+  else if (k === 'j' || e.key === 'ArrowRight') $('#next').click();
+  else if (k === 'k' || e.key === 'ArrowLeft') $('#prev').click();
+  else if (k === '.') { $('#reason').value = lastReason; $('#reason').focus(); }
+  else return;
+  e.preventDefault();
+});
+window.addEventListener('resize', () => list[idx] && renderShot(list[idx]));
+load();
+</script>
+</body>
+</html>

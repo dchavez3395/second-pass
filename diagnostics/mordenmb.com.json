@@ -1,0 +1,75 @@
+{
+  "url": "https://www.mordenmb.com/",
+  "ok": true,
+  "status": 200,
+  "title": "Just a moment...",
+  "finalUrl": "https://morden.ca/",
+  "shape": {
+    "elements": 47,
+    "images": 1,
+    "links": 2,
+    "buttons": 0,
+    "inputs": 1,
+    "headings": 3,
+    "textLength": 255,
+    "lang": "en-US",
+    "iframes": 0
+  },
+  "viewport": {
+    "width": 1366,
+    "height": 900
+  },
+  "scannedAt": "2026-09-18T04:53:34.426Z",
+  "axe": {
+    "violationRules": 1,
+    "violationNodes": 1,
+    "passRules": 18,
+    "passNodes": 34,
+    "incompleteRules": 0,
+    "incompleteNodes": 0,
+    "inapplicableRules": 44,
+    "testedNodes": 35
+  },
+  "incomplete": [],
+  "violations": [
+    {
+      "id": "meta-refresh",
+      "impact": "critical",
+      "help": "Delayed refresh under 20 hours must not be used",
+      "description": "Ensure <meta http-equiv=\"refresh\"> is not used for delayed refresh",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/meta-refresh?application=playwright",
+      "tags": [
+        "cat.time-and-media",
+        "wcag2a",
+        "wcag221",
+        "TTv5",
+        "TT8.a",
+        "EN-301-549",
+        "EN-9.2.2.1",
+        "RGAAv4",
+        "RGAA-13.1.2"
+      ],
+      "wcag": [
+        "2.2.1"
+      ],
+      "nodes": 1,
+      "items": [
+        {
+          "target": "meta[http-equiv=\"refresh\"]",
+          "html": "<meta http-equiv=\"refresh\" content=\"360\">",
+          "impact": "critical",
+          "messages": [
+            "<meta> tag forces timed refresh of page (less than 20 hours)"
+          ],
+          "box": {
+            "x": 0,
+            "y": 0,
+            "w": 0,
+            "h": 0
+          }
+        }
+      ]
+    }
+  ],
+  "verdict": "PAGE DID NOT RENDER — scan is worthless, do not report this number"
+}

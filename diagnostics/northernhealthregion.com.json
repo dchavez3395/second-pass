@@ -1,0 +1,817 @@
+{
+  "url": "https://northernhealthregion.com/",
+  "ok": true,
+  "status": 200,
+  "title": "Northern Health Region - Northern Health Region",
+  "finalUrl": "https://northernhealthregion.com/",
+  "shape": {
+    "elements": 1078,
+    "images": 95,
+    "links": 77,
+    "buttons": 72,
+    "inputs": 12,
+    "headings": 6,
+    "textLength": 2655,
+    "lang": "en-CA",
+    "iframes": 1
+  },
+  "viewport": {
+    "width": 1366,
+    "height": 900
+  },
+  "scannedAt": "2026-09-18T04:56:24.000Z",
+  "axe": {
+    "violationRules": 5,
+    "violationNodes": 26,
+    "passRules": 34,
+    "passNodes": 413,
+    "incompleteRules": 1,
+    "incompleteNodes": 19,
+    "inapplicableRules": 27,
+    "testedNodes": 458
+  },
+  "incomplete": [
+    {
+      "id": "color-contrast",
+      "impact": "serious",
+      "help": "Elements must meet minimum color contrast ratio thresholds",
+      "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/color-contrast?application=playwright",
+      "tags": [
+        "cat.color",
+        "wcag2aa",
+        "wcag143",
+        "TTv5",
+        "TT13.c",
+        "EN-301-549",
+        "EN-9.1.4.3",
+        "ACT",
+        "RGAAv4",
+        "RGAA-3.2.1"
+      ],
+      "wcag": [
+        "1.4.3"
+      ],
+      "why": "Element's background color could not be determined due to a background image",
+      "nodes": 19,
+      "sample": [
+        {
+          "target": ".swp-input--search",
+          "html": "<input type=\"search\" class=\"swp-input--search swp-input\" placeholder=\"\" value=\"\" name=\"swps\" title=\"\" aria-label=\"Search\" aria-required=\"false\" style=\"\">"
+        },
+        {
+          "target": "a[aria-controls=\"mega-sub-menu-6157\"]",
+          "html": "<a class=\"mega-menu-link\" href=\"https://northernhealthregion.com/locations/\" aria-expanded=\"false\" aria-controls=\"mega-sub-menu-6157\">Locations<span class=\"mega-indicator\" aria-hidden=\"true\"></span></"
+        },
+        {
+          "target": "#mega-menu-item-2995 > .mega-menu-link",
+          "html": "<a class=\"mega-menu-link\" href=\"https://northernhealthregion.com/programs-and-services/\">Programs &amp; Services</a>"
+        }
+      ],
+      "items": [
+        {
+          "target": ".swp-input--search",
+          "html": "<input type=\"search\" class=\"swp-input--search swp-input\" placeholder=\"\" value=\"\" name=\"swps\" title=\"\" aria-label=\"Search\" aria-required=\"false\" style=\"\">",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 900.59375,
+            "y": 133.21875,
+            "w": 232.109375,
+            "h": 46
+          }
+        },
+        {
+          "target": "a[aria-controls=\"mega-sub-menu-6157\"]",
+          "html": "<a class=\"mega-menu-link\" href=\"https://northernhealthregion.com/locations/\" aria-expanded=\"false\" aria-controls=\"mega-sub-menu-6157\">Locations<span class=\"mega-indicator\" aria-hidden=\"true\"></span></a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it is overlapped by another element"
+          ],
+          "box": {
+            "x": 224.046875,
+            "y": 214.21875,
+            "w": 136.296875,
+            "h": 51.796875
+          }
+        },
+        {
+          "target": "#mega-menu-item-2995 > .mega-menu-link",
+          "html": "<a class=\"mega-menu-link\" href=\"https://northernhealthregion.com/programs-and-services/\">Programs &amp; Services</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it is overlapped by another element"
+          ],
+          "box": {
+            "x": 361.34375,
+            "y": 214.21875,
+            "w": 199.953125,
+            "h": 51.796875
+          }
+        },
+        {
+          "target": "a[aria-controls=\"mega-sub-menu-6158\"]",
+          "html": "<a class=\"mega-menu-link\" href=\"https://northernhealthregion.com/patient-info/\" aria-expanded=\"false\" aria-controls=\"mega-sub-menu-6158\">Patient Info<span class=\"mega-indicator\" aria-hidden=\"true\"></span></a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it is overlapped by another element"
+          ],
+          "box": {
+            "x": 562.296875,
+            "y": 214.21875,
+            "w": 152.6875,
+            "h": 51.796875
+          }
+        },
+        {
+          "target": "a[aria-controls=\"mega-sub-menu-6159\"]",
+          "html": "<a class=\"mega-menu-link\" href=\"https://northernhealthregion.com/about-us/\" aria-expanded=\"false\" aria-controls=\"mega-sub-menu-6159\">About Us<span class=\"mega-indicator\" aria-hidden=\"true\"></span></a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it is overlapped by another element"
+          ],
+          "box": {
+            "x": 715.984375,
+            "y": 214.21875,
+            "w": 131.5,
+            "h": 51.796875
+          }
+        },
+        {
+          "target": "a[aria-controls=\"mega-sub-menu-6160\"]",
+          "html": "<a class=\"mega-menu-link\" href=\"https://northernhealthregion.com/careers/\" aria-expanded=\"false\" aria-controls=\"mega-sub-menu-6160\">Careers<span class=\"mega-indicator\" aria-hidden=\"true\"></span></a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it is overlapped by another element"
+          ],
+          "box": {
+            "x": 848.484375,
+            "y": 214.21875,
+            "w": 118.8125,
+            "h": 51.796875
+          }
+        },
+        {
+          "target": "a[aria-controls=\"mega-sub-menu-6161\"]",
+          "html": "<a class=\"mega-menu-link\" href=\"https://northernhealthregion.com/news-events/\" aria-expanded=\"false\" aria-controls=\"mega-sub-menu-6161\">News / Events<span class=\"mega-indicator\" aria-hidden=\"true\"></span></a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it is overlapped by another element"
+          ],
+          "box": {
+            "x": 968.296875,
+            "y": 214.21875,
+            "w": 173.640625,
+            "h": 51.796875
+          }
+        },
+        {
+          "target": "div[data-pid=\"9783\"] > .pt-cv-ifield > h4 > ._self.cvplbd[target=\"_self\"]",
+          "html": "<a href=\"https://northernhealthregion.com/world-patient-safety-day-safe-care-for-life/\" class=\"_self cvplbd\" target=\"_self\">World Patient Safety Day – Safe Care for Life</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it is overlapped by another element"
+          ],
+          "box": {
+            "x": 149,
+            "y": 857.015625,
+            "w": 360.828125,
+            "h": 22
+          }
+        },
+        {
+          "target": "time[datetime=\"2026-09-15T08:34:00-05:00\"]",
+          "html": "<time datetime=\"2026-09-15T08:34:00-05:00\">September 15, 2026</time>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it is overlapped by another element"
+          ],
+          "box": {
+            "x": 149,
+            "y": 890.8125,
+            "w": 113.5,
+            "h": 15
+          }
+        },
+        {
+          "target": "div[data-pid=\"9783\"] > .pt-cv-ifield > .pt-cv-content",
+          "html": "<div class=\"pt-cv-content\">",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it is overlapped by another element"
+          ],
+          "box": {
+            "x": 149,
+            "y": 918.3125,
+            "w": 561,
+            "h": 96
+          }
+        },
+        {
+          "target": "div[data-pid=\"9783\"] > .pt-cv-ifield > .pt-cv-content > .pt-cv-readmore.pt-cv-textlink._self",
+          "html": "<a href=\"https://northernhealthregion.com/world-patient-safety-day-safe-care-for-life/\" class=\"_self pt-cv-readmore pt-cv-textlink cvplbd\" target=\"_self\">Read More</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it is overlapped by another element"
+          ],
+          "box": {
+            "x": 549.390625,
+            "y": 986.3125,
+            "w": 77.796875,
+            "h": 34
+          }
+        },
+        {
+          "target": "div[data-pid=\"9879\"] > .pt-cv-ifield > h4 > ._self.cvplbd[target=\"_self\"]",
+          "html": "<a href=\"https://northernhealthregion.com/dynacare-labour-disruption-update/\" class=\"_self cvplbd\" target=\"_self\">Dynacare Labour Disruption Update</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it is overlapped by another element"
+          ],
+          "box": {
+            "x": 149,
+            "y": 1053.3125,
+            "w": 292.734375,
+            "h": 22
+          }
+        },
+        {
+          "target": "time[datetime=\"2026-09-04T15:49:06-05:00\"]",
+          "html": "<time datetime=\"2026-09-04T15:49:06-05:00\">September 4, 2026</time>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it is overlapped by another element"
+          ],
+          "box": {
+            "x": 149,
+            "y": 1087.109375,
+            "w": 108.265625,
+            "h": 15
+          }
+        },
+        {
+          "target": "div[data-pid=\"9879\"] > .pt-cv-ifield > .pt-cv-content",
+          "html": "<div class=\"pt-cv-content\">",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it is overlapped by another element"
+          ],
+          "box": {
+            "x": 149,
+            "y": 1114.609375,
+            "w": 561,
+            "h": 120
+          }
+        },
+        {
+          "target": "div[data-pid=\"9879\"] > .pt-cv-ifield > .pt-cv-content > .pt-cv-readmore.pt-cv-textlink._self",
+          "html": "<a href=\"https://northernhealthregion.com/dynacare-labour-disruption-update/\" class=\"_self pt-cv-readmore pt-cv-textlink cvplbd\" target=\"_self\">Read More</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it is overlapped by another element"
+          ],
+          "box": {
+            "x": 149,
+            "y": 1206.609375,
+            "w": 77.796875,
+            "h": 34
+          }
+        },
+        {
+          "target": "div[data-pid=\"9874\"] > .pt-cv-ifield > h4 > ._self.cvplbd[target=\"_self\"]",
+          "html": "<a href=\"https://northernhealthregion.com/recruitment-underway-for-chief-executive-officer/\" class=\"_self cvplbd\" target=\"_self\">Recruitment underway for Chief Executive Officer</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it is overlapped by another element"
+          ],
+          "box": {
+            "x": 149,
+            "y": 1273.609375,
+            "w": 401.875,
+            "h": 22
+          }
+        },
+        {
+          "target": "time[datetime=\"2026-09-04T14:09:07-05:00\"]",
+          "html": "<time datetime=\"2026-09-04T14:09:07-05:00\">September 4, 2026</time>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it is overlapped by another element"
+          ],
+          "box": {
+            "x": 149,
+            "y": 1307.40625,
+            "w": 108.265625,
+            "h": 15
+          }
+        },
+        {
+          "target": "div[data-pid=\"9874\"] > .pt-cv-ifield > .pt-cv-content",
+          "html": "<div class=\"pt-cv-content\">",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it is overlapped by another element"
+          ],
+          "box": {
+            "x": 149,
+            "y": 1334.90625,
+            "w": 561,
+            "h": 120
+          }
+        },
+        {
+          "target": "div[data-pid=\"9874\"] > .pt-cv-ifield > .pt-cv-content > .pt-cv-readmore.pt-cv-textlink._self",
+          "html": "<a href=\"https://northernhealthregion.com/recruitment-underway-for-chief-executive-officer/\" class=\"_self pt-cv-readmore pt-cv-textlink cvplbd\" target=\"_self\">Read More</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it is overlapped by another element"
+          ],
+          "box": {
+            "x": 149,
+            "y": 1402.90625,
+            "w": 520.984375,
+            "h": 58
+          }
+        }
+      ]
+    }
+  ],
+  "violations": [
+    {
+      "id": "aria-progressbar-name",
+      "impact": "serious",
+      "help": "ARIA progressbar nodes must have an accessible name",
+      "description": "Ensure every ARIA progressbar node has an accessible name",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/aria-progressbar-name?application=playwright",
+      "tags": [
+        "cat.aria",
+        "wcag2a",
+        "wcag111",
+        "EN-301-549",
+        "EN-9.1.1.1",
+        "RGAAv4",
+        "RGAA-11.1.1"
+      ],
+      "wcag": [
+        "1.1.1"
+      ],
+      "nodes": 1,
+      "items": [
+        {
+          "target": "iframe ._55yn",
+          "html": "<span class=\"img _55ym _55yn _55yo\" aria-busy=\"true\" role=\"progressbar\" aria-valuemin=\"0\" aria-valuemax=\"100\" aria-valuetext=\"Loading...\"></span>",
+          "impact": "serious",
+          "messages": [
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute"
+          ],
+          "box": null
+        }
+      ]
+    },
+    {
+      "id": "aria-required-children",
+      "impact": "critical",
+      "help": "Certain ARIA roles must contain particular children",
+      "description": "Ensure elements with an ARIA role that require child roles contain them",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/aria-required-children?application=playwright",
+      "tags": [
+        "cat.aria",
+        "wcag2a",
+        "wcag131",
+        "EN-301-549",
+        "EN-9.1.3.1",
+        "RGAAv4",
+        "RGAA-9.3.1"
+      ],
+      "wcag": [
+        "1.3.1"
+      ],
+      "nodes": 1,
+      "items": [
+        {
+          "target": "iframe div[role=\"feed\"]",
+          "html": "<div role=\"feed\">",
+          "impact": "critical",
+          "messages": [
+            "Element has children which are not allowed: table, a"
+          ],
+          "box": null
+        }
+      ]
+    },
+    {
+      "id": "color-contrast",
+      "impact": "serious",
+      "help": "Elements must meet minimum color contrast ratio thresholds",
+      "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/color-contrast?application=playwright",
+      "tags": [
+        "cat.color",
+        "wcag2aa",
+        "wcag143",
+        "TTv5",
+        "TT13.c",
+        "EN-301-549",
+        "EN-9.1.4.3",
+        "ACT",
+        "RGAAv4",
+        "RGAA-3.2.1"
+      ],
+      "wcag": [
+        "1.4.3"
+      ],
+      "nodes": 1,
+      "items": [
+        {
+          "target": "iframe abbr[data-utime=\"1789648519\"] > .timestampContent",
+          "html": "<span class=\"timestampContent\">16 hours ago</span>",
+          "impact": "serious",
+          "messages": [
+            "Element has insufficient color contrast of 3.04 (foreground color: #90949c, background color: #ffffff, font size: 8.3pt (11px), font weight: normal). Expected contrast ratio of 4.5:1"
+          ],
+          "box": null
+        }
+      ]
+    },
+    {
+      "id": "link-name",
+      "impact": "serious",
+      "help": "Links must have discernible text",
+      "description": "Ensure links have discernible text",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/link-name?application=playwright",
+      "tags": [
+        "cat.name-role-value",
+        "wcag2a",
+        "wcag244",
+        "wcag412",
+        "section508",
+        "section508.22.a",
+        "TTv5",
+        "TT6.a",
+        "EN-301-549",
+        "EN-9.2.4.4",
+        "EN-9.4.1.2",
+        "ACT",
+        "RGAAv4",
+        "RGAA-6.2.1"
+      ],
+      "wcag": [
+        "2.4.4",
+        "4.1.2"
+      ],
+      "nodes": 14,
+      "items": [
+        {
+          "target": ".depicter-section-link[target=\"_blank\"]",
+          "html": "<a href=\"https://www.google.c...\" target=\"_blank\" class=\"depicter-section-lin...\">",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": {
+            "x": 0,
+            "y": 266.015625,
+            "w": 1366,
+            "h": 281.734375
+          }
+        },
+        {
+          "target": "#depicter-1-section-17 > .depicter-section-link",
+          "html": "<a href=\"https://northernhealthregion.com/programs-and-services/substance-recovery/rapid-access-to-addictions-medicine-raam/\" class=\"depicter-section-link\"></a>",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": {
+            "x": 1366,
+            "y": 266.015625,
+            "w": 1366,
+            "h": 281.734375
+          }
+        },
+        {
+          "target": "iframe #u_0_1_tV",
+          "html": "<a href=\"https://www.facebook.com/northernhealthregion?ref=embed_page\" target=\"_blank\" id=\"u_0_1_tV\"></a>",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": null
+        },
+        {
+          "target": "iframe .lfloat._3-8_",
+          "html": "<a class=\"_3-8_ lfloat\" href=\"https://www.facebook.com/248714775264934?ref=embed_page\" target=\"_blank\">",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": null
+        },
+        {
+          "target": "iframe #u_1_8_Xn > ._5pcr.userContentWrapper[data-ft=\"{\\\"tn\\\":\\\"-R\\\"}\"] > ._1dwg._1w_m._q7o > ._3x-2._2p_a[data-ft=\"{\\\"tn\\\":\\\"H\\\"}\"] > div[data-ft=\"{\\\"tn\\\":\\\"H\\\"}\"] > .mtm > ._2l7q > a",
+          "html": "<a href=\"https://www.facebook.com/photo.php?fbid=1703236241809011&set=a.492687362863911&type=3&ref=embed_page\" target=\"_blank\">",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": null
+        },
+        {
+          "target": "iframe #u_1_8_Xn > ._5pcr.userContentWrapper[data-ft=\"{\\\"tn\\\":\\\"-R\\\"}\"] > ._1dwg._1w_m._q7o > div:nth-child(2) > .l_c3pyo2v0u._5eit._4d-l > ._302 > span > a",
+          "html": "<a href=\"/northernhealthregion/posts/pfbid0rvfrgDSknHmdLVGnaT1hyAJ1dFdKo5v1qDuNMRvo4m4rdfyYNxpqdpQHuhi5gYD2l?ref=embed_page\" target=\"_blank\"><i class=\"img sp_JtTaN8Jb8oq sx_53fd32\"></i></a>",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": null
+        },
+        {
+          "target": "iframe #u_1_9_or > ._5pcr.userContentWrapper[data-ft=\"{\\\"tn\\\":\\\"-R\\\"}\"] > ._1dwg._1w_m._q7o > ._3x-2._2p_a[data-ft=\"{\\\"tn\\\":\\\"H\\\"}\"] > div[data-ft=\"{\\\"tn\\\":\\\"H\\\"}\"] > .mtm > ._2l7q > a",
+          "html": "<a href=\"https://www.facebook.com/photo.php?fbid=1702588021873833&set=a.492687362863911&type=3&ref=embed_page\" target=\"_blank\">",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": null
+        },
+        {
+          "target": "iframe #u_1_9_or > ._5pcr.userContentWrapper[data-ft=\"{\\\"tn\\\":\\\"-R\\\"}\"] > ._1dwg._1w_m._q7o > div:nth-child(2) > .l_c3pyo2v0u._5eit._4d-l > ._302 > span > a",
+          "html": "<a href=\"/northernhealthregion/posts/pfbid06utH469wz3r1r9ETBtTvWJdbDG4kLj2tETA2TFxdUQFB32yq4ZF9Ch2t9zQ77WB1l?ref=embed_page\" target=\"_blank\"><i class=\"img sp_JtTaN8Jb8oq sx_53fd32\"></i></a>",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": null
+        },
+        {
+          "target": "iframe #u_1_7_1U > ._5pcr.userContentWrapper[data-ft=\"{\\\"tn\\\":\\\"-R\\\"}\"] > ._1dwg._1w_m._q7o > ._3x-2._2p_a[data-ft=\"{\\\"tn\\\":\\\"H\\\"}\"] > div[data-ft=\"{\\\"tn\\\":\\\"H\\\"}\"] > .mtm > ._2l7q > a",
+          "html": "<a href=\"https://www.facebook.com/photo.php?fbid=1702280081904627&set=a.492687362863911&type=3&ref=embed_page\" target=\"_blank\">",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": null
+        },
+        {
+          "target": "iframe #u_1_7_1U > ._5pcr.userContentWrapper[data-ft=\"{\\\"tn\\\":\\\"-R\\\"}\"] > ._1dwg._1w_m._q7o > div:nth-child(2) > .l_c3pyo2v0u._5eit._4d-l > ._302 > span > a",
+          "html": "<a href=\"/northernhealthregion/posts/pfbid0hNks6HRr6HRJMb6jiYrQx63hiBdwtBmwyyY4eYWKczbLLaK58Fx88dJWRjYLHhgml?ref=embed_page\" target=\"_blank\"><i class=\"img sp_JtTaN8Jb8oq sx_53fd32\"></i></a>",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": null
+        },
+        {
+          "target": "iframe #u_1_6_94 > ._5pcr.userContentWrapper[data-ft=\"{\\\"tn\\\":\\\"-R\\\"}\"] > ._1dwg._1w_m._q7o > ._3x-2._2p_a[data-ft=\"{\\\"tn\\\":\\\"H\\\"}\"] > div[data-ft=\"{\\\"tn\\\":\\\"H\\\"}\"] > .mtm > ._2l7q > a",
+          "html": "<a href=\"https://www.facebook.com/photo.php?fbid=1697774572355178&set=a.492687362863911&type=3&ref=embed_page\" target=\"_blank\">",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": null
+        },
+        {
+          "target": "iframe #u_1_6_94 > ._5pcr.userContentWrapper[data-ft=\"{\\\"tn\\\":\\\"-R\\\"}\"] > ._1dwg._1w_m._q7o > div:nth-child(2) > .l_c3pyo2v0u._5eit._4d-l > ._302 > span > a",
+          "html": "<a href=\"/northernhealthregion/posts/pfbid02vVx7CtfwEdq8UQiCUTv7LonrJ9buhv9GHcd2RV2eNypg3CKoknJmPzyt26yHJyRql?ref=embed_page\" target=\"_blank\"><i class=\"img sp_JtTaN8Jb8oq sx_53fd32\"></i></a>",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": null
+        },
+        {
+          "target": "iframe #u_1_5_jK > ._5pcr.userContentWrapper[data-ft=\"{\\\"tn\\\":\\\"-R\\\"}\"] > ._1dwg._1w_m._q7o > ._3x-2._2p_a[data-ft=\"{\\\"tn\\\":\\\"H\\\"}\"] > div[data-ft=\"{\\\"tn\\\":\\\"H\\\"}\"] > .mtm > ._2l7q > a",
+          "html": "<a href=\"https://www.facebook.com/photo.php?fbid=1697713685694600&set=a.492687362863911&type=3&ref=embed_page\" target=\"_blank\">",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": null
+        },
+        {
+          "target": "iframe #u_1_5_jK > ._5pcr.userContentWrapper[data-ft=\"{\\\"tn\\\":\\\"-R\\\"}\"] > ._1dwg._1w_m._q7o > div:nth-child(2) > .l_c3pyo2v0u._5eit._4d-l > ._302 > span > a",
+          "html": "<a href=\"/northernhealthregion/posts/pfbid02EWDf42M5jmErpTsGesufkkhquAGsSUsMdMHSd6cxMrML94y4J19bM3QfNanmWQYxl?ref=embed_page\" target=\"_blank\"><i class=\"img sp_JtTaN8Jb8oq sx_53fd32\"></i></a>",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": null
+        }
+      ]
+    },
+    {
+      "id": "target-size",
+      "impact": "serious",
+      "help": "All touch targets must be 24px large, or leave sufficient space",
+      "description": "Ensure touch targets have sufficient size and space",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/target-size?application=playwright",
+      "tags": [
+        "cat.sensory-and-visual-cues",
+        "wcag22aa",
+        "wcag258"
+      ],
+      "wcag": [
+        "2.5.8"
+      ],
+      "nodes": 9,
+      "items": [
+        {
+          "target": "a[aria-controls=\"mega-sub-menu-6157\"]",
+          "html": "<a class=\"mega-menu-link\" href=\"https://northernhealthregion.com/locations/\" aria-expanded=\"false\" aria-controls=\"mega-sub-menu-6157\">Locations<span class=\"mega-indicator\" aria-hidden=\"true\"></span></a>",
+          "impact": "serious",
+          "messages": [
+            "Target has insufficient size because it is partially obscured (smallest space is 136.3px by 21.2px, should be at least 24px by 24px)",
+            "Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 21.2px instead of at least 24px."
+          ],
+          "box": {
+            "x": 224.046875,
+            "y": 214.21875,
+            "w": 136.296875,
+            "h": 51.796875
+          }
+        },
+        {
+          "target": "#mega-menu-item-2995 > .mega-menu-link",
+          "html": "<a class=\"mega-menu-link\" href=\"https://northernhealthregion.com/programs-and-services/\">Programs &amp; Services</a>",
+          "impact": "serious",
+          "messages": [
+            "Target has insufficient size because it is partially obscured (smallest space is 200px by 21.2px, should be at least 24px by 24px)",
+            "Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 21.2px instead of at least 24px."
+          ],
+          "box": {
+            "x": 361.34375,
+            "y": 214.21875,
+            "w": 199.953125,
+            "h": 51.796875
+          }
+        },
+        {
+          "target": "a[aria-controls=\"mega-sub-menu-6158\"]",
+          "html": "<a class=\"mega-menu-link\" href=\"https://northernhealthregion.com/patient-info/\" aria-expanded=\"false\" aria-controls=\"mega-sub-menu-6158\">Patient Info<span class=\"mega-indicator\" aria-hidden=\"true\"></span></a>",
+          "impact": "serious",
+          "messages": [
+            "Target has insufficient size because it is partially obscured (smallest space is 152.7px by 21.2px, should be at least 24px by 24px)",
+            "Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 21.2px instead of at least 24px."
+          ],
+          "box": {
+            "x": 562.296875,
+            "y": 214.21875,
+            "w": 152.6875,
+            "h": 51.796875
+          }
+        },
+        {
+          "target": "a[aria-controls=\"mega-sub-menu-6159\"]",
+          "html": "<a class=\"mega-menu-link\" href=\"https://northernhealthregion.com/about-us/\" aria-expanded=\"false\" aria-controls=\"mega-sub-menu-6159\">About Us<span class=\"mega-indicator\" aria-hidden=\"true\"></span></a>",
+          "impact": "serious",
+          "messages": [
+            "Target has insufficient size because it is partially obscured (smallest space is 131.5px by 21.2px, should be at least 24px by 24px)",
+            "Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 21.2px instead of at least 24px."
+          ],
+          "box": {
+            "x": 715.984375,
+            "y": 214.21875,
+            "w": 131.5,
+            "h": 51.796875
+          }
+        },
+        {
+          "target": "a[aria-controls=\"mega-sub-menu-6160\"]",
+          "html": "<a class=\"mega-menu-link\" href=\"https://northernhealthregion.com/careers/\" aria-expanded=\"false\" aria-controls=\"mega-sub-menu-6160\">Careers<span class=\"mega-indicator\" aria-hidden=\"true\"></span></a>",
+          "impact": "serious",
+          "messages": [
+            "Target has insufficient size because it is partially obscured (smallest space is 118.8px by 21.2px, should be at least 24px by 24px)",
+            "Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 21.2px instead of at least 24px."
+          ],
+          "box": {
+            "x": 848.484375,
+            "y": 214.21875,
+            "w": 118.8125,
+            "h": 51.796875
+          }
+        },
+        {
+          "target": "a[aria-controls=\"mega-sub-menu-6161\"]",
+          "html": "<a class=\"mega-menu-link\" href=\"https://northernhealthregion.com/news-events/\" aria-expanded=\"false\" aria-controls=\"mega-sub-menu-6161\">News / Events<span class=\"mega-indicator\" aria-hidden=\"true\"></span></a>",
+          "impact": "serious",
+          "messages": [
+            "Target has insufficient size because it is partially obscured (smallest space is 173.6px by 21.2px, should be at least 24px by 24px)",
+            "Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 21.2px instead of at least 24px."
+          ],
+          "box": {
+            "x": 968.296875,
+            "y": 214.21875,
+            "w": 173.640625,
+            "h": 51.796875
+          }
+        },
+        {
+          "target": "p:nth-child(5) > a[target=\"_blank\"]:nth-child(2)",
+          "html": "<a href=\"https://misericordia.mb.ca/programs/phcc/health-links-info-sante/\" target=\"_blank\">Health Links – Info Santé</a>",
+          "impact": "serious",
+          "messages": [
+            "Target has insufficient size (146.4px by 15px, should be at least 24px by 24px)",
+            "Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 19.4px instead of at least 24px."
+          ],
+          "box": {
+            "x": 431.859375,
+            "y": 1904.734375,
+            "w": 146.359375,
+            "h": 15
+          }
+        },
+        {
+          "target": "a[target=\"_blank\"]:nth-child(5)",
+          "html": "<a href=\"https://northernhealthfoundation.com/\" target=\"_blank\">Northern Health Foundation</a>",
+          "impact": "serious",
+          "messages": [
+            "Target has insufficient size (165.7px by 15px, should be at least 24px by 24px)",
+            "Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 19.4px instead of at least 24px."
+          ],
+          "box": {
+            "x": 431.859375,
+            "y": 1924.171875,
+            "w": 165.671875,
+            "h": 15
+          }
+        },
+        {
+          "target": "p:nth-child(5) > a[href$=\"sharedhealthmb.ca/\"][target=\"_blank\"]",
+          "html": "<a href=\"https://sharedhealthmb.ca/\" target=\"_blank\">Shared Health</a>",
+          "impact": "serious",
+          "messages": [
+            "Target has insufficient size (83.8px by 15px, should be at least 24px by 24px)",
+            "Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 23.8px instead of at least 24px."
+          ],
+          "box": {
+            "x": 431.859375,
+            "y": 1943.609375,
+            "w": 83.765625,
+            "h": 15
+          }
+        }
+      ]
+    }
+  ],
+  "verdict": "FAILURES DETECTED"
+}

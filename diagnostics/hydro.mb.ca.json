@@ -1,0 +1,203 @@
+{
+  "url": "https://www.hydro.mb.ca/",
+  "ok": true,
+  "status": 200,
+  "title": "Manitoba Hydro: Safe, affordable, reliable energy",
+  "finalUrl": "https://www.hydro.mb.ca/",
+  "shape": {
+    "elements": 366,
+    "images": 8,
+    "links": 83,
+    "buttons": 8,
+    "inputs": 2,
+    "headings": 9,
+    "textLength": 2102,
+    "lang": "en",
+    "iframes": 0
+  },
+  "viewport": {
+    "width": 1366,
+    "height": 900
+  },
+  "scannedAt": "2026-09-18T04:54:22.870Z",
+  "axe": {
+    "violationRules": 0,
+    "violationNodes": 0,
+    "passRules": 26,
+    "passNodes": 308,
+    "incompleteRules": 1,
+    "incompleteNodes": 9,
+    "inapplicableRules": 37,
+    "testedNodes": 317
+  },
+  "incomplete": [
+    {
+      "id": "color-contrast",
+      "impact": "serious",
+      "help": "Elements must meet minimum color contrast ratio thresholds",
+      "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/color-contrast?application=playwright",
+      "tags": [
+        "cat.color",
+        "wcag2aa",
+        "wcag143",
+        "TTv5",
+        "TT13.c",
+        "EN-301-549",
+        "EN-9.1.4.3",
+        "ACT",
+        "RGAAv4",
+        "RGAA-3.2.1"
+      ],
+      "wcag": [
+        "1.4.3"
+      ],
+      "why": "Element's background color could not be determined due to a background image",
+      "nodes": 9,
+      "sample": [
+        {
+          "target": ".person-profile",
+          "html": "<h2 class=\"header-icon person-profile\">Your account</h2>"
+        },
+        {
+          "target": ".lightning-bolt",
+          "html": "<h2 class=\"header-icon lightning-bolt\">Outages</h2>"
+        },
+        {
+          "target": ".papers",
+          "html": "<h2 class=\"header-icon papers\">Permits &amp; service</h2>"
+        }
+      ],
+      "items": [
+        {
+          "target": ".person-profile",
+          "html": "<h2 class=\"header-icon person-profile\">Your account</h2>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 60,
+            "y": 690.921875,
+            "w": 278.8125,
+            "h": 44.1875
+          }
+        },
+        {
+          "target": ".lightning-bolt",
+          "html": "<h2 class=\"header-icon lightning-bolt\">Outages</h2>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 482,
+            "y": 690.921875,
+            "w": 203.53125,
+            "h": 44.1875
+          }
+        },
+        {
+          "target": ".papers",
+          "html": "<h2 class=\"header-icon papers\">Permits &amp; service</h2>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 904,
+            "y": 690.921875,
+            "w": 350.484375,
+            "h": 44.1875
+          }
+        },
+        {
+          "target": ".link-facebook",
+          "html": "<a class=\"link-facebook\" href=\"https://www.facebook.com/manitobahydro\" title=\"Find us on Facebook\" rel=\"me\">Facebook</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 801,
+            "y": 2982.34375,
+            "w": 36,
+            "h": 36
+          }
+        },
+        {
+          "target": ".link-twitter",
+          "html": "<a class=\"link-twitter\" href=\"https://www.twitter.com/manitobahydro\" title=\"Follow us on X\" rel=\"me\">X</a>",
+          "impact": "serious",
+          "messages": [
+            "Element content is too short to determine if it is actual text content"
+          ],
+          "box": {
+            "x": 857,
+            "y": 2982.34375,
+            "w": 36,
+            "h": 36
+          }
+        },
+        {
+          "target": ".link-youtube",
+          "html": "<a class=\"link-youtube\" href=\"https://www.youtube.com/user/ManitobaHydro\" title=\"Watch us on YouTube\" rel=\"me\">YouTube</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 913,
+            "y": 2982.34375,
+            "w": 36,
+            "h": 36
+          }
+        },
+        {
+          "target": ".link-linkedin",
+          "html": "<a class=\"link-linkedin\" href=\"https://www.linkedin.com/company/manitoba-hydro\" title=\"Connect with us on LinkedIn\" rel=\"me\">LinkedIn</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 969,
+            "y": 2982.34375,
+            "w": 36,
+            "h": 36
+          }
+        },
+        {
+          "target": ".link-instagram",
+          "html": "<a class=\"link-instagram\" href=\"https://www.instagram.com/manitobahydro\" title=\"Follow us on Instagram\" rel=\"me\">Instagram</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 1025,
+            "y": 2982.34375,
+            "w": 36,
+            "h": 36
+          }
+        },
+        {
+          "target": ".link-bluesky",
+          "html": "<a class=\"link-bluesky\" href=\"https://bsky.app/profile/hydro.mb.ca\" title=\"Follow us on Bluesky\" rel=\"me\">Bluesky</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 1081,
+            "y": 2982.34375,
+            "w": 36,
+            "h": 36
+          }
+        }
+      ]
+    }
+  ],
+  "violations": [],
+  "verdict": "CLEAN ON RULES, OPEN ON JUDGEMENT — the work is in the incomplete list"
+}

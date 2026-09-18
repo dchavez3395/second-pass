@@ -1,0 +1,437 @@
+{
+  "url": "https://www.winnipeg.ca/",
+  "ok": true,
+  "status": 200,
+  "title": "City of Winnipeg",
+  "finalUrl": "https://www.winnipeg.ca/",
+  "shape": {
+    "elements": 1479,
+    "images": 11,
+    "links": 408,
+    "buttons": 61,
+    "inputs": 15,
+    "headings": 21,
+    "textLength": 2739,
+    "lang": "en",
+    "iframes": 1
+  },
+  "viewport": {
+    "width": 1366,
+    "height": 900
+  },
+  "scannedAt": "2026-09-18T04:50:34.503Z",
+  "axe": {
+    "violationRules": 4,
+    "violationNodes": 8,
+    "passRules": 32,
+    "passNodes": 807,
+    "incompleteRules": 1,
+    "incompleteNodes": 11,
+    "inapplicableRules": 29,
+    "testedNodes": 826
+  },
+  "incomplete": [
+    {
+      "id": "color-contrast",
+      "impact": "serious",
+      "help": "Elements must meet minimum color contrast ratio thresholds",
+      "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/color-contrast?application=playwright",
+      "tags": [
+        "cat.color",
+        "wcag2aa",
+        "wcag143",
+        "TTv5",
+        "TT13.c",
+        "EN-301-549",
+        "EN-9.1.4.3",
+        "ACT",
+        "RGAAv4",
+        "RGAA-3.2.1"
+      ],
+      "wcag": [
+        "1.4.3"
+      ],
+      "why": "Element's background color could not be determined because it is overlapped by another element",
+      "nodes": 11,
+      "sample": [
+        {
+          "target": "#globalSearchInput",
+          "html": "<input id=\"globalSearchInput\" type=\"search\" name=\"q\" class=\"form-control form-control-sm dark google-search google-search-header\" aria-label=\"Search the City of Winnipeg\" style=\"\">"
+        },
+        {
+          "target": "a[data-drupal-link-system-path=\"node/34646\"]",
+          "html": "<a href=\"/city-locations\" data-drupal-link-system-path=\"node/34646\">City locations</a>"
+        },
+        {
+          "target": "li:nth-child(2) > a[href$=\"connect\"]",
+          "html": "<a href=\"/connect\" data-drupal-link-system-path=\"node/2398\">Connect with us</a>"
+        }
+      ],
+      "items": [
+        {
+          "target": "#globalSearchInput",
+          "html": "<input id=\"globalSearchInput\" type=\"search\" name=\"q\" class=\"form-control form-control-sm dark google-search google-search-header\" aria-label=\"Search the City of Winnipeg\" style=\"\">",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it is overlapped by another element"
+          ],
+          "box": {
+            "x": 867,
+            "y": 60,
+            "w": 325,
+            "h": 36
+          }
+        },
+        {
+          "target": "a[data-drupal-link-system-path=\"node/34646\"]",
+          "html": "<a href=\"/city-locations\" data-drupal-link-system-path=\"node/34646\">City locations</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it is overlapped by another element"
+          ],
+          "box": {
+            "x": 334.140625,
+            "y": 64,
+            "w": 90.359375,
+            "h": 20
+          }
+        },
+        {
+          "target": "li:nth-child(2) > a[href$=\"connect\"]",
+          "html": "<a href=\"/connect\" data-drupal-link-system-path=\"node/2398\">Connect with us</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it is overlapped by another element"
+          ],
+          "box": {
+            "x": 448.5,
+            "y": 64,
+            "w": 107.140625,
+            "h": 20
+          }
+        },
+        {
+          "target": "a[href=\"/node/25438\"]",
+          "html": "<a href=\"/node/25438\" data-drupal-link-system-path=\"node/25438\">Departments</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it is overlapped by another element"
+          ],
+          "box": {
+            "x": 579.640625,
+            "y": 64,
+            "w": 87.375,
+            "h": 20
+          }
+        },
+        {
+          "target": "a[data-drupal-link-system-path=\"node/2400\"]",
+          "html": "<a href=\"/news\" data-drupal-link-system-path=\"node/2400\">Newsroom</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it is overlapped by another element"
+          ],
+          "box": {
+            "x": 691.015625,
+            "y": 64,
+            "w": 72.5625,
+            "h": 20
+          }
+        },
+        {
+          "target": ".language-container > .region-language-toggle.region > .language-switcher-language-url.block-language.block-language-blocklanguage-content > .language-link[href=\"/fr\"][data-drupal-link-system-path=\"<front>\"]",
+          "html": "<a href=\"/fr\" class=\"language-link\" hreflang=\"fr\" data-drupal-link-system-path=\"&lt;front&gt;\">Français</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it is overlapped by another element"
+          ],
+          "box": {
+            "x": 787.578125,
+            "y": 64,
+            "w": 55.421875,
+            "h": 20
+          }
+        },
+        {
+          "target": "#menu-services--programs",
+          "html": "<a href=\"/services-programs\" aria-haspopup=\"true\" aria-expanded=\"false\" title=\"Expand menu Services &amp; programs\" id=\"menu-services--programs\" data-drupal-link-system-path=\"node/4\">Services &amp; programs</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 355,
+            "y": 120,
+            "w": 112,
+            "h": 62.40625
+          }
+        },
+        {
+          "target": "#menu-recreation--leisure",
+          "html": "<a href=\"/recreation-leisure\" aria-haspopup=\"true\" aria-expanded=\"false\" title=\"Expand menu Recreation &amp; leisure\" id=\"menu-recreation--leisure\" data-drupal-link-system-path=\"node/3\">Recreation &amp; leisure</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 511,
+            "y": 120,
+            "w": 112,
+            "h": 62.40625
+          }
+        },
+        {
+          "target": "#menu-people--culture",
+          "html": "<a href=\"/people-culture\" aria-haspopup=\"true\" aria-expanded=\"false\" title=\"Expand menu People &amp; culture\" id=\"menu-people--culture\" data-drupal-link-system-path=\"node/8\">People &amp; culture</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 667,
+            "y": 120,
+            "w": 112,
+            "h": 62.40625
+          }
+        },
+        {
+          "target": "#menu-building--development",
+          "html": "<a href=\"/building-development\" aria-haspopup=\"true\" aria-expanded=\"false\" title=\"Expand menu Building &amp; development\" id=\"menu-building--development\" data-drupal-link-system-path=\"node/6\">Building &amp; development</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 823,
+            "y": 120,
+            "w": 112,
+            "h": 62.40625
+          }
+        },
+        {
+          "target": "#menu-city-governance",
+          "html": "<a href=\"/city-governance\" aria-haspopup=\"true\" aria-expanded=\"false\" title=\"Expand menu City governance\" id=\"menu-city-governance\" data-drupal-link-system-path=\"node/7\">City governance</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 979,
+            "y": 120,
+            "w": 112,
+            "h": 62.40625
+          }
+        }
+      ]
+    }
+  ],
+  "violations": [
+    {
+      "id": "aria-required-children",
+      "impact": "critical",
+      "help": "Certain ARIA roles must contain particular children",
+      "description": "Ensure elements with an ARIA role that require child roles contain them",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/aria-required-children?application=playwright",
+      "tags": [
+        "cat.aria",
+        "wcag2a",
+        "wcag131",
+        "EN-301-549",
+        "EN-9.1.3.1",
+        "RGAAv4",
+        "RGAA-9.3.1"
+      ],
+      "wcag": [
+        "1.3.1"
+      ],
+      "nodes": 1,
+      "items": [
+        {
+          "target": "#myTab",
+          "html": "<ul class=\"nav nav-tabs nav-justified nav-tabs\" id=\"myTab\" role=\"tablist\">",
+          "impact": "critical",
+          "messages": [
+            "Element has children which are not allowed: li"
+          ],
+          "box": {
+            "x": 695,
+            "y": 2361.40625,
+            "w": 552,
+            "h": 46
+          }
+        }
+      ]
+    },
+    {
+      "id": "aria-required-parent",
+      "impact": "critical",
+      "help": "Certain ARIA roles must be contained by particular parents",
+      "description": "Ensure elements with an ARIA role that require parent roles are contained by them",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/aria-required-parent?application=playwright",
+      "tags": [
+        "cat.aria",
+        "wcag2a",
+        "wcag131",
+        "EN-301-549",
+        "EN-9.1.3.1",
+        "RGAAv4",
+        "RGAA-9.3.1"
+      ],
+      "wcag": [
+        "1.3.1"
+      ],
+      "nodes": 2,
+      "items": [
+        {
+          "target": "#tab-events",
+          "html": "<a class=\"nav-link active\" id=\"tab-events\" data-toggle=\"tab\" href=\"#tab-events-panel\" role=\"tab\" aria-controls=\"tab-events-panel\" aria-selected=\"false\">Events</a>",
+          "impact": "critical",
+          "messages": [
+            "Required ARIA parent role not present: tablist"
+          ],
+          "box": {
+            "x": 695,
+            "y": 2361.40625,
+            "w": 274,
+            "h": 46
+          }
+        },
+        {
+          "target": "#tab-more-stories",
+          "html": "<a class=\"nav-link\" id=\"tab-more-stories\" data-toggle=\"tab\" href=\"#tab-more-stories-panel\" role=\"tab\" aria-controls=\"tab-more-stories-panel\" aria-selected=\"false\">More stories</a>",
+          "impact": "critical",
+          "messages": [
+            "Required ARIA parent role not present: tablist"
+          ],
+          "box": {
+            "x": 973,
+            "y": 2361.40625,
+            "w": 274,
+            "h": 46
+          }
+        }
+      ]
+    },
+    {
+      "id": "link-in-text-block",
+      "impact": "serious",
+      "help": "Links must be distinguishable without relying on color",
+      "description": "Ensure links are distinguished from surrounding text in a way that does not rely on color",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/link-in-text-block?application=playwright",
+      "tags": [
+        "cat.color",
+        "wcag2a",
+        "wcag141",
+        "TTv5",
+        "TT13.a",
+        "EN-301-549",
+        "EN-9.1.4.1",
+        "RGAAv4",
+        "RGAA-10.6.1"
+      ],
+      "wcag": [
+        "1.4.1"
+      ],
+      "nodes": 3,
+      "items": [
+        {
+          "target": ".cc_more_info",
+          "html": "<a data-cc-if=\"options.link\" target=\"_self\" class=\"cc_more_info\" href=\"/node/8477\">Learn about cookies</a>",
+          "impact": "serious",
+          "messages": [
+            "The link has insufficient color contrast of 1.43:1 with the surrounding text. (Minimum contrast is 3:1, link text: #123985, surrounding text: #212529)",
+            "The link has no styling (such as underline) to distinguish it from the surrounding text"
+          ],
+          "box": {
+            "x": 510.4375,
+            "y": 849.796875,
+            "w": 151.390625,
+            "h": 23
+          }
+        },
+        {
+          "target": "a[target=\"_blank\"]:nth-child(1)",
+          "html": "<a href=\"http://winnipegtransit.com/navigo/\" target=\"_blank\">Navigo</a>",
+          "impact": "serious",
+          "messages": [
+            "The link has insufficient color contrast of 1.43:1 with the surrounding text. (Minimum contrast is 3:1, link text: #123985, surrounding text: #212529)",
+            "The link has no styling (such as underline) to distinguish it from the surrounding text"
+          ],
+          "box": {
+            "x": 957.1875,
+            "y": 945.375,
+            "w": 52.140625,
+            "h": 23
+          }
+        },
+        {
+          "target": "a[target=\"_blank\"]:nth-child(2)",
+          "html": "<a href=\"https://info.winnipegtransit.com/en/stops\" target=\"_blank\">find a bus stop</a>",
+          "impact": "serious",
+          "messages": [
+            "The link has insufficient color contrast of 1.43:1 with the surrounding text. (Minimum contrast is 3:1, link text: #123985, surrounding text: #212529)",
+            "The link has no styling (such as underline) to distinguish it from the surrounding text"
+          ],
+          "box": {
+            "x": 1032.53125,
+            "y": 945.375,
+            "w": 109.265625,
+            "h": 23
+          }
+        }
+      ]
+    },
+    {
+      "id": "listitem",
+      "impact": "serious",
+      "help": "<li> elements must be contained in a <ul> or <ol>",
+      "description": "Ensure <li> elements are used semantically",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/listitem?application=playwright",
+      "tags": [
+        "cat.structure",
+        "wcag2a",
+        "wcag131",
+        "EN-301-549",
+        "EN-9.1.3.1",
+        "RGAAv4",
+        "RGAA-9.3.1"
+      ],
+      "wcag": [
+        "1.3.1"
+      ],
+      "nodes": 2,
+      "items": [
+        {
+          "target": ".nav-item:nth-child(1)",
+          "html": "<li class=\"nav-item\"> <a class=\"nav-link active\" id=\"tab-events\" data-toggle=\"tab\" href=\"#tab-events-panel\" role=\"tab\" aria-controls=\"tab-events-panel\" aria-selected=\"false\">Events</a></li>",
+          "impact": "serious",
+          "messages": [
+            "List item parent element has a role that is not role=\"list\""
+          ],
+          "box": {
+            "x": 695,
+            "y": 2361.40625,
+            "w": 274,
+            "h": 46
+          }
+        },
+        {
+          "target": ".nav-item:nth-child(2)",
+          "html": "<li class=\"nav-item\"> <a class=\"nav-link\" id=\"tab-more-stories\" data-toggle=\"tab\" href=\"#tab-more-stories-panel\" role=\"tab\" aria-controls=\"tab-more-stories-panel\" aria-selected=\"false\">More stories</a></li>",
+          "impact": "serious",
+          "messages": [
+            "List item parent element has a role that is not role=\"list\""
+          ],
+          "box": {
+            "x": 973,
+            "y": 2361.40625,
+            "w": 274,
+            "h": 46
+          }
+        }
+      ]
+    }
+  ],
+  "verdict": "FAILURES DETECTED"
+}

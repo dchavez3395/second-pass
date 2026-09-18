@@ -1,0 +1,6 @@
+node_modules/
+results/
+summary.md
+summary.csv
+diagnostics/screens/
+diagnose-full.log

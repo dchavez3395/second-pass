@@ -1,0 +1,1014 @@
+{
+  "url": "https://www.thompson.ca/",
+  "ok": true,
+  "status": 200,
+  "title": "City of Thompson - Home",
+  "finalUrl": "https://www.thompson.ca/",
+  "shape": {
+    "elements": 1139,
+    "images": 23,
+    "links": 220,
+    "buttons": 62,
+    "inputs": 4,
+    "headings": 50,
+    "textLength": 2543,
+    "lang": "en",
+    "iframes": 1
+  },
+  "viewport": {
+    "width": 1366,
+    "height": 900
+  },
+  "scannedAt": "2026-09-18T04:51:26.495Z",
+  "axe": {
+    "violationRules": 7,
+    "violationNodes": 16,
+    "passRules": 30,
+    "passNodes": 457,
+    "incompleteRules": 2,
+    "incompleteNodes": 34,
+    "inapplicableRules": 32,
+    "testedNodes": 507
+  },
+  "incomplete": [
+    {
+      "id": "aria-valid-attr-value",
+      "impact": "critical",
+      "help": "ARIA attributes must conform to valid values",
+      "description": "Ensure all ARIA attributes have valid values",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/aria-valid-attr-value?application=playwright",
+      "tags": [
+        "cat.aria",
+        "wcag2a",
+        "wcag412",
+        "EN-301-549",
+        "EN-9.4.1.2",
+        "RGAAv4",
+        "RGAA-7.1.1"
+      ],
+      "wcag": [
+        "4.1.2"
+      ],
+      "why": "",
+      "nodes": 1,
+      "sample": [
+        {
+          "target": ".fa-search",
+          "html": "<i aria-hidden=\"\" class=\"fal fa-search\" title=\"Click here to search contents in our website\"></i>"
+        }
+      ],
+      "items": [
+        {
+          "target": ".fa-search",
+          "html": "<i aria-hidden=\"\" class=\"fal fa-search\" title=\"Click here to search contents in our website\"></i>",
+          "impact": "critical",
+          "messages": [
+            "ARIA attribute value is ignored while empty: aria-hidden"
+          ],
+          "box": {
+            "x": 1027.609375,
+            "y": 100.9921875,
+            "w": 18.109375,
+            "h": 17.59375
+          }
+        }
+      ]
+    },
+    {
+      "id": "color-contrast",
+      "impact": "serious",
+      "help": "Elements must meet minimum color contrast ratio thresholds",
+      "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/color-contrast?application=playwright",
+      "tags": [
+        "cat.color",
+        "wcag2aa",
+        "wcag143",
+        "TTv5",
+        "TT13.c",
+        "EN-301-549",
+        "EN-9.1.4.3",
+        "ACT",
+        "RGAAv4",
+        "RGAA-3.2.1"
+      ],
+      "wcag": [
+        "1.4.3"
+      ],
+      "why": "Element's background color could not be determined due to a background image",
+      "nodes": 33,
+      "sample": [
+        {
+          "target": "#headerTop > span",
+          "html": "<span>226 Mystery Lake Road, Thompson MB</span>"
+        },
+        {
+          "target": ".hPhone > span",
+          "html": "<span>204-677-7910</span>"
+        },
+        {
+          "target": ".hEmail > span",
+          "html": "<span>communications@thompson.ca</span>"
+        }
+      ],
+      "items": [
+        {
+          "target": "#headerTop > span",
+          "html": "<span>226 Mystery Lake Road, Thompson MB</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 69.796875,
+            "y": 103.953125,
+            "w": 282.96875,
+            "h": 15
+          }
+        },
+        {
+          "target": ".hPhone > span",
+          "html": "<span>204-677-7910</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 400.34375,
+            "y": 103.953125,
+            "w": 91.015625,
+            "h": 15
+          }
+        },
+        {
+          "target": ".hEmail > span",
+          "html": "<span>communications@thompson.ca</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 538.9375,
+            "y": 103.953125,
+            "w": 240.84375,
+            "h": 15
+          }
+        },
+        {
+          "target": "#search-txt",
+          "html": "<input type=\"search\" id=\"search-txt\" aria-label=\"Search Our Website\" placeholder=\"How Can We Help? Search Here\" style=\"\">",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 1014.8125,
+            "y": 99.59375,
+            "w": 300,
+            "h": 21.1875
+          }
+        },
+        {
+          "target": "#\\#imageCaption1 > .container > .aos-animate[data-aos=\"fade-down\"][data-aos-delay=\"100\"]",
+          "html": "<h2 data-aos=\"fade-down\" data-aos-delay=\"100\" class=\"aos-init aos-animate\">When is my garbage day?</h2>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 31,
+            "y": 559.21875,
+            "w": 1304,
+            "h": 24
+          }
+        },
+        {
+          "target": "#\\#imageCaption1 > .container > h3[data-aos-delay=\"200\"]",
+          "html": "<h3 data-aos=\"fade-up\" data-aos-delay=\"200\" class=\"aos-init aos-animate\">Check schedule</h3>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 31,
+            "y": 583.21875,
+            "w": 1304,
+            "h": 67
+          }
+        },
+        {
+          "target": "#\\#imageCaption1 > .container > .aos-animate[title=\"Click here to Register Today!\"][data-aos-delay=\"300\"]",
+          "html": "<a data-aos=\"fade-up\" data-aos-delay=\"300\" href=\"https://thompson2021.municipalwebsites.ca/UploadFiles/Docs/GarbageSchedule20262027_PZew83.pdf\" title=\"Click here to Register Today!\" class=\"aos-init aos-animate\">Learn More</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 595.59375,
+            "y": 651.8125,
+            "w": 174.796875,
+            "h": 42.1875
+          }
+        },
+        {
+          "target": ".col-lg-4:nth-child(2) > .NumbersList > h2",
+          "html": "<h2><i class=\"fas fa-phone\"></i> Phone Numbers</h2>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 251.15625,
+            "y": 2383.8125,
+            "w": 375.3125,
+            "h": 17
+          }
+        },
+        {
+          "target": "a[href=\"tel:+1-204-677-7926\"]",
+          "html": "<a href=\"tel:+1-204-677-7926\">Mayor &amp; COUNCIL <span>204-677-7926</span></a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 251.15625,
+            "y": 2417.8125,
+            "w": 141.40625,
+            "h": 18
+          }
+        },
+        {
+          "target": "a[href=\"tel:+1-204-677-7926\"] > span",
+          "html": "<span>204-677-7926</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 525.578125,
+            "y": 2416.8125,
+            "w": 100.890625,
+            "h": 21.609375
+          }
+        },
+        {
+          "target": "a[href=\"tel:+1-204-677-7951\"]",
+          "html": "<a href=\"tel:+1-204-677-7951\">CITY MANAGER <span>204-677-7951</span></a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 251.15625,
+            "y": 2444.21875,
+            "w": 116.359375,
+            "h": 18
+          }
+        },
+        {
+          "target": "a[href=\"tel:+1-204-677-7951\"] > span",
+          "html": "<span>204-677-7951</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 525.578125,
+            "y": 2443.21875,
+            "w": 100.890625,
+            "h": 21.609375
+          }
+        },
+        {
+          "target": "a[href=\"tel:+1-204-677-7910\"]",
+          "html": "<a href=\"tel:+1-204-677-7910\">GENERAL INQUIRIES <span>204-677-7910</span></a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 251.15625,
+            "y": 2470.625,
+            "w": 151.859375,
+            "h": 18
+          }
+        },
+        {
+          "target": "a[href=\"tel:+1-204-677-7910\"] > span",
+          "html": "<span>204-677-7910</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 525.578125,
+            "y": 2469.625,
+            "w": 100.890625,
+            "h": 21.609375
+          }
+        },
+        {
+          "target": "a[href=\"tel:+1-204-677-7973\"]",
+          "html": "<a href=\"tel:+1-204-677-7973\">DIRECTOR OF PUBLIC WORKS <span>204-677-7973</span></a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 251.15625,
+            "y": 2497.03125,
+            "w": 219.734375,
+            "h": 18
+          }
+        },
+        {
+          "target": "a[href=\"tel:+1-204-677-7973\"] > span",
+          "html": "<span>204-677-7973</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 525.578125,
+            "y": 2496.03125,
+            "w": 100.890625,
+            "h": 21.609375
+          }
+        },
+        {
+          "target": ".directorylink",
+          "html": "<a class=\"directorylink\" href=\"/p/contact-us\"><i class=\"fas fa-book-open\"></i> VIEW THE FULL STAFF DIRECTORY</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 251.15625,
+            "y": 2532.03125,
+            "w": 305.78125,
+            "h": 24
+          }
+        },
+        {
+          "target": ".borderLRall > h2",
+          "html": "<h2><i class=\"fas fa-first-aid\"></i> Emergency Numbers</h2>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 706.484375,
+            "y": 2383.8125,
+            "w": 375.3125,
+            "h": 17
+          }
+        },
+        {
+          "target": "a[href=\"tel:+1-204-677-7911\"]",
+          "html": "<a href=\"tel:+1-204-677-7911\">AMBULANCE/FIRE <span>204-677-7911</span></a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 706.484375,
+            "y": 2417.8125,
+            "w": 135.03125,
+            "h": 18
+          }
+        },
+        {
+          "target": "a[href=\"tel:+1-204-677-7911\"] > span",
+          "html": "<span>204-677-7911</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 980.90625,
+            "y": 2416.8125,
+            "w": 100.890625,
+            "h": 21.609375
+          }
+        },
+        {
+          "target": "a[href=\"tel:+1-204-677-6911\"]",
+          "html": "<a href=\"tel:+1-204-677-6911\">R.C.M.P <span>204-677-6911</span></a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 706.484375,
+            "y": 2444.21875,
+            "w": 60.078125,
+            "h": 18
+          }
+        },
+        {
+          "target": "a[href=\"tel:+1-204-677-6911\"] > span",
+          "html": "<span>204-677-6911</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 980.90625,
+            "y": 2443.21875,
+            "w": 100.890625,
+            "h": 21.609375
+          }
+        },
+        {
+          "target": "a[href=\"tel:+1-204-677-7916\"]",
+          "html": "<a href=\"tel:+1-204-677-7916\">COMMUNITY SAFETY OFFICERS <span>204-677-7916</span></a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 706.484375,
+            "y": 2470.625,
+            "w": 236.53125,
+            "h": 18
+          }
+        },
+        {
+          "target": "a[href=\"tel:+1-204-677-7916\"] > span",
+          "html": "<span>204-677-7916</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 980.90625,
+            "y": 2469.625,
+            "w": 100.890625,
+            "h": 21.609375
+          }
+        },
+        {
+          "target": "a[href=\"tel:+1-204-677-2381\"]",
+          "html": "<a href=\"tel:+1-204-677-2381\">HOSPITAL <span>204-677-2381</span></a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 706.484375,
+            "y": 2497.03125,
+            "w": 75.890625,
+            "h": 18
+          }
+        },
+        {
+          "target": "a[href=\"tel:+1-204-677-2381\"] > span",
+          "html": "<span>204-677-2381</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 980.90625,
+            "y": 2496.03125,
+            "w": 100.890625,
+            "h": 21.609375
+          }
+        },
+        {
+          "target": ".mobileappbutton > h2",
+          "html": "<h2><i class=\"fas fa-phone\"></i> Download Our App</h2>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 1153.3125,
+            "y": 2383.8125,
+            "w": 197.65625,
+            "h": 17
+          }
+        },
+        {
+          "target": "small",
+          "html": "<small>2026 © city of City of Thompson, MB</small>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 15,
+            "y": 2605.34375,
+            "w": 240,
+            "h": 30
+          }
+        },
+        {
+          "target": "#getInTouch > span",
+          "html": "<span>226 Mystery Lake Road Thompson, MB R8N 1S6</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 365.71875,
+            "y": 2614.34375,
+            "w": 311.3125,
+            "h": 15
+          }
+        },
+        {
+          "target": ".FPhone > span",
+          "html": "<span>204-677-7910</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 730.03125,
+            "y": 2614.34375,
+            "w": 84.734375,
+            "h": 15
+          }
+        },
+        {
+          "target": ".FEmail > span",
+          "html": "<span>communications@thompson.ca</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 867.765625,
+            "y": 2614.34375,
+            "w": 220.203125,
+            "h": 15
+          }
+        },
+        {
+          "target": "a[href$=\"all-net.ca\"]",
+          "html": "<a href=\"http://all-net.ca\" title=\"\" target=\"_blank\" data-toggle=\"tooltip\" data-placement=\"top\" data-original-title=\"Developed and maintained by All-Net Municipal Solutions\">Website By: <img class=\"img-fluid\" alt=\"All-Net Municipal Solutions\" src=\"/Content/images/all-netBlack.svg\"></a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 1194.734375,
+            "y": 2610.3125,
+            "w": 156.265625,
+            "h": 23.65625
+          }
+        },
+        {
+          "target": ".ReportaProblemLink > span",
+          "html": "<span>Poll question</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 1333.3125,
+            "y": 354.3125,
+            "w": 18,
+            "h": 120.984375
+          }
+        }
+      ]
+    }
+  ],
+  "violations": [
+    {
+      "id": "aria-input-field-name",
+      "impact": "serious",
+      "help": "ARIA input fields must have an accessible name",
+      "description": "Ensure every ARIA input field has an accessible name",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/aria-input-field-name?application=playwright",
+      "tags": [
+        "cat.aria",
+        "wcag2a",
+        "wcag412",
+        "TTv5",
+        "TT5.c",
+        "EN-301-549",
+        "EN-9.4.1.2",
+        "ACT",
+        "RGAAv4",
+        "RGAA-11.1.1"
+      ],
+      "wcag": [
+        "4.1.2"
+      ],
+      "nodes": 1,
+      "items": [
+        {
+          "target": ".fullHeight",
+          "html": "<div class=\"carousel-inner fullHeight\" role=\"listbox\" style=\"height: 900px;\">",
+          "impact": "serious",
+          "messages": [
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute"
+          ],
+          "box": {
+            "x": 0,
+            "y": 38,
+            "w": 1366,
+            "h": 720
+          }
+        }
+      ]
+    },
+    {
+      "id": "aria-required-children",
+      "impact": "critical",
+      "help": "Certain ARIA roles must contain particular children",
+      "description": "Ensure elements with an ARIA role that require child roles contain them",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/aria-required-children?application=playwright",
+      "tags": [
+        "cat.aria",
+        "wcag2a",
+        "wcag131",
+        "EN-301-549",
+        "EN-9.1.3.1",
+        "RGAAv4",
+        "RGAA-9.3.1"
+      ],
+      "wcag": [
+        "1.3.1"
+      ],
+      "nodes": 1,
+      "items": [
+        {
+          "target": ".fullHeight",
+          "html": "<div class=\"carousel-inner fullHeight\" role=\"listbox\" style=\"height: 900px;\">",
+          "impact": "critical",
+          "messages": [
+            "Element has children which are not allowed: figure"
+          ],
+          "box": {
+            "x": 0,
+            "y": 38,
+            "w": 1366,
+            "h": 720
+          }
+        }
+      ]
+    },
+    {
+      "id": "aria-required-parent",
+      "impact": "critical",
+      "help": "Certain ARIA roles must be contained by particular parents",
+      "description": "Ensure elements with an ARIA role that require parent roles are contained by them",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/aria-required-parent?application=playwright",
+      "tags": [
+        "cat.aria",
+        "wcag2a",
+        "wcag131",
+        "EN-301-549",
+        "EN-9.1.3.1",
+        "RGAAv4",
+        "RGAA-9.3.1"
+      ],
+      "wcag": [
+        "1.3.1"
+      ],
+      "nodes": 7,
+      "items": [
+        {
+          "target": "#\\#categoryNavID0",
+          "html": "<a class=\"home menuonehovercolor\" href=\"/\" title=\"Go to home\" id=\"#categoryNavID0\" role=\"menuitem\"> <i class=\"far fa-home\"></i> <span class=\"hideMe\">Home</span></a>",
+          "impact": "critical",
+          "messages": [
+            "Required ARIA parents role not present: menu, menubar, group"
+          ],
+          "box": {
+            "x": 440.1875,
+            "y": 142.140625,
+            "w": 43.1875,
+            "h": 110.59375
+          }
+        },
+        {
+          "target": "#\\#categoryNavID1",
+          "html": "<a href=\"/p/services\" title=\"Click to view Services\" class=\"menuonehovercolor \" id=\"#categoryNavID1\" role=\"menuitem\" aria-haspopup=\"true\" aria-owns=\"subMainMenu0\" style=\"cursor: default;\">         Services </a>",
+          "impact": "critical",
+          "messages": [
+            "Required ARIA parents role not present: menu, menubar, group"
+          ],
+          "box": {
+            "x": 483.375,
+            "y": 142.140625,
+            "w": 111.125,
+            "h": 110.59375
+          }
+        },
+        {
+          "target": "#\\#categoryNavID2",
+          "html": "<a href=\"/p/visit-play\" title=\"Click to view Visit and Play\" class=\"menuonehovercolor \" id=\"#categoryNavID2\" role=\"menuitem\" aria-haspopup=\"true\" aria-owns=\"subMainMenu1\" style=\"cursor: default;\">         Visit and Play </a>",
+          "impact": "critical",
+          "messages": [
+            "Required ARIA parents role not present: menu, menubar, group"
+          ],
+          "box": {
+            "x": 594.5,
+            "y": 142.140625,
+            "w": 166.25,
+            "h": 110.59375
+          }
+        },
+        {
+          "target": "#\\#categoryNavID3",
+          "html": "<a href=\"/p/business\" title=\"Click to view Business\" class=\"menuonehovercolor \" id=\"#categoryNavID3\" role=\"menuitem\" aria-haspopup=\"true\" aria-owns=\"subMainMenu2\" style=\"cursor: default;\">         Business </a>",
+          "impact": "critical",
+          "messages": [
+            "Required ARIA parents role not present: menu, menubar, group"
+          ],
+          "box": {
+            "x": 760.75,
+            "y": 142.140625,
+            "w": 113.1875,
+            "h": 110.59375
+          }
+        },
+        {
+          "target": "#\\#categoryNavID4",
+          "html": "<a href=\"/p/our-city\" title=\"Click to view City Hall\" class=\"menuonehovercolor \" id=\"#categoryNavID4\" role=\"menuitem\" aria-haspopup=\"true\" aria-owns=\"subMainMenu3\" style=\"cursor: default;\">         City Hall </a>",
+          "impact": "critical",
+          "messages": [
+            "Required ARIA parents role not present: menu, menubar, group"
+          ],
+          "box": {
+            "x": 873.9375,
+            "y": 142.140625,
+            "w": 117.5625,
+            "h": 110.59375
+          }
+        },
+        {
+          "target": "#\\#categoryNavID5",
+          "html": "<a href=\"/p/news-and-notices\" title=\"Click to view News and Notices\" class=\"menuonehovercolor \" id=\"#categoryNavID5\" role=\"menuitem\" aria-haspopup=\"true\" aria-owns=\"subMainMenu4\" style=\"cursor: default;\">         News and Notices </a>",
+          "impact": "critical",
+          "messages": [
+            "Required ARIA parents role not present: menu, menubar, group"
+          ],
+          "box": {
+            "x": 991.5,
+            "y": 142.140625,
+            "w": 203.65625,
+            "h": 110.59375
+          }
+        },
+        {
+          "target": "#\\#categoryNavID6",
+          "html": "<a class=\"idLiketoSearchBTN menuonehovercolor\" data-toggle=\"modal\" data-target=\"#idLiketoSearchModal\" data-liketo=\"/Home/GetIdLikeToList\" id=\"#categoryNavID6\" role=\"menuitem\" style=\"cursor: default;\"><span>I'd Like To</span></a>",
+          "impact": "critical",
+          "messages": [
+            "Required ARIA parents role not present: menu, menubar, group"
+          ],
+          "box": {
+            "x": 1195.15625,
+            "y": 142.140625,
+            "w": 119.65625,
+            "h": 110.59375
+          }
+        }
+      ]
+    },
+    {
+      "id": "button-name",
+      "impact": "critical",
+      "help": "Buttons must have discernible text",
+      "description": "Ensure buttons have discernible text",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/button-name?application=playwright",
+      "tags": [
+        "cat.name-role-value",
+        "wcag2a",
+        "wcag412",
+        "section508",
+        "section508.22.a",
+        "TTv5",
+        "TT6.a",
+        "EN-301-549",
+        "EN-9.4.1.2",
+        "ACT",
+        "RGAAv4",
+        "RGAA-11.9.1"
+      ],
+      "wcag": [
+        "4.1.2"
+      ],
+      "nodes": 4,
+      "items": [
+        {
+          "target": ".owl-prev",
+          "html": "<button type=\"button\" role=\"presentation\" class=\"owl-prev\"><i class=\"fas fa-arrow-left\"></i></button>",
+          "impact": "critical",
+          "messages": [
+            "Element does not have inner text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element does not have an implicit (wrapped) <label>",
+            "Element does not have an explicit <label>",
+            "Element's role is not presentational because it is focusable"
+          ],
+          "box": {
+            "x": 24,
+            "y": 1907.4375,
+            "w": 15.90625,
+            "h": 26.390625
+          }
+        },
+        {
+          "target": ".owl-next",
+          "html": "<button type=\"button\" role=\"presentation\" class=\"owl-next\"><i class=\"fas fa-arrow-right\"></i></button>",
+          "impact": "critical",
+          "messages": [
+            "Element does not have inner text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element does not have an implicit (wrapped) <label>",
+            "Element does not have an explicit <label>",
+            "Element's role is not presentational because it is focusable"
+          ],
+          "box": {
+            "x": 1326.09375,
+            "y": 1907.4375,
+            "w": 15.90625,
+            "h": 26.390625
+          }
+        },
+        {
+          "target": ".owl-dot.active[role=\"button\"]",
+          "html": "<button role=\"button\" class=\"owl-dot active\"><span></span></button>",
+          "impact": "critical",
+          "messages": [
+            "Element does not have inner text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element does not have an implicit (wrapped) <label>",
+            "Element does not have an explicit <label>",
+            "Element's default semantics were not overridden with role=\"none\" or role=\"presentation\""
+          ],
+          "box": {
+            "x": 664,
+            "y": 1912.4375,
+            "w": 14,
+            "h": 14
+          }
+        },
+        {
+          "target": ".owl-dot[role=\"button\"]:nth-child(2)",
+          "html": "<button role=\"button\" class=\"owl-dot\"><span></span></button>",
+          "impact": "critical",
+          "messages": [
+            "Element does not have inner text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element does not have an implicit (wrapped) <label>",
+            "Element does not have an explicit <label>",
+            "Element's default semantics were not overridden with role=\"none\" or role=\"presentation\""
+          ],
+          "box": {
+            "x": 688,
+            "y": 1912.4375,
+            "w": 14,
+            "h": 14
+          }
+        }
+      ]
+    },
+    {
+      "id": "image-alt",
+      "impact": "critical",
+      "help": "Images must have alternative text",
+      "description": "Ensure <img> elements have alternative text or a role of none or presentation",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/image-alt?application=playwright",
+      "tags": [
+        "cat.text-alternatives",
+        "wcag2a",
+        "wcag111",
+        "section508",
+        "section508.22.a",
+        "TTv5",
+        "TT7.a",
+        "TT7.b",
+        "EN-301-549",
+        "EN-9.1.1.1",
+        "ACT",
+        "RGAAv4",
+        "RGAA-1.1.1"
+      ],
+      "wcag": [
+        "1.1.1"
+      ],
+      "nodes": 1,
+      "items": [
+        {
+          "target": ".footerlogo > .img-fluid",
+          "html": "<img class=\"img-fluid\" src=\"/Content/images/footer-logo.png\">",
+          "impact": "critical",
+          "messages": [
+            "Element does not have an alt attribute",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element's default semantics were not overridden with role=\"none\" or role=\"presentation\""
+          ],
+          "box": {
+            "x": 15,
+            "y": 2383.8125,
+            "w": 197.609375,
+            "h": 51.875
+          }
+        }
+      ]
+    },
+    {
+      "id": "link-name",
+      "impact": "serious",
+      "help": "Links must have discernible text",
+      "description": "Ensure links have discernible text",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/link-name?application=playwright",
+      "tags": [
+        "cat.name-role-value",
+        "wcag2a",
+        "wcag244",
+        "wcag412",
+        "section508",
+        "section508.22.a",
+        "TTv5",
+        "TT6.a",
+        "EN-301-549",
+        "EN-9.2.4.4",
+        "EN-9.4.1.2",
+        "ACT",
+        "RGAAv4",
+        "RGAA-6.2.1"
+      ],
+      "wcag": [
+        "2.4.4",
+        "4.1.2"
+      ],
+      "nodes": 1,
+      "items": [
+        {
+          "target": ".quickLinkstitle > a[href$=\"#main\"]",
+          "html": "<a href=\"#main\"><i class=\"fas fa-chevron-down\"></i></a>",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": {
+            "x": 1324.5,
+            "y": 696,
+            "w": 26.5,
+            "h": 24
+          }
+        }
+      ]
+    },
+    {
+      "id": "target-size",
+      "impact": "serious",
+      "help": "All touch targets must be 24px large, or leave sufficient space",
+      "description": "Ensure touch targets have sufficient size and space",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/target-size?application=playwright",
+      "tags": [
+        "cat.sensory-and-visual-cues",
+        "wcag22aa",
+        "wcag258"
+      ],
+      "wcag": [
+        "2.5.8"
+      ],
+      "nodes": 1,
+      "items": [
+        {
+          "target": "#search-txt",
+          "html": "<input type=\"search\" id=\"search-txt\" aria-label=\"Search Our Website\" placeholder=\"How Can We Help? Search Here\" style=\"\">",
+          "impact": "serious",
+          "messages": [
+            "Target has insufficient size (300px by 21.2px, should be at least 24px by 24px)",
+            "Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 4.8px instead of at least 24px."
+          ],
+          "box": {
+            "x": 1014.8125,
+            "y": 99.59375,
+            "w": 300,
+            "h": 21.1875
+          }
+        }
+      ]
+    }
+  ],
+  "verdict": "FAILURES DETECTED"
+}

@@ -1,0 +1,497 @@
+{
+  "url": "https://wrha.mb.ca/",
+  "ok": true,
+  "status": 200,
+  "title": "Winnipeg Regional Health Authority",
+  "finalUrl": "https://wrha.mb.ca/",
+  "shape": {
+    "elements": 950,
+    "images": 87,
+    "links": 50,
+    "buttons": 67,
+    "inputs": 12,
+    "headings": 6,
+    "textLength": 3466,
+    "lang": "en",
+    "iframes": 1
+  },
+  "viewport": {
+    "width": 1366,
+    "height": 900
+  },
+  "scannedAt": "2026-09-18T04:55:35.423Z",
+  "axe": {
+    "violationRules": 0,
+    "violationNodes": 0,
+    "passRules": 29,
+    "passNodes": 274,
+    "incompleteRules": 1,
+    "incompleteNodes": 30,
+    "inapplicableRules": 34,
+    "testedNodes": 304
+  },
+  "incomplete": [
+    {
+      "id": "color-contrast",
+      "impact": "serious",
+      "help": "Elements must meet minimum color contrast ratio thresholds",
+      "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/color-contrast?application=playwright",
+      "tags": [
+        "cat.color",
+        "wcag2aa",
+        "wcag143",
+        "TTv5",
+        "TT13.c",
+        "EN-301-549",
+        "EN-9.1.4.3",
+        "ACT",
+        "RGAAv4",
+        "RGAA-3.2.1"
+      ],
+      "wcag": [
+        "1.4.3"
+      ],
+      "why": "Element's background color could not be determined due to a background image",
+      "nodes": 30,
+      "sample": [
+        {
+          "target": ".swp-input--search",
+          "html": "<input type=\"search\" class=\"swp-input--search swp-input\" placeholder=\"\" value=\"\" name=\"swps\" title=\"\" aria-label=\"Search\" aria-required=\"false\" style=\"\">"
+        },
+        {
+          "target": ".has-text-align-center > strong > a",
+          "html": "<a href=\"https://sharedhealthmb.ca/news/2026-09-08-dynacare-labour-disruption-update-extended-hours-location-finder/\">Dynacare Labour Disruption Update: Extended Hours Location Finder</a>"
+        },
+        {
+          "target": "#advgb-col-c9b642f6-c5f1-4326-95e8-34958e1f69ce > .advgb-column-inner > .wp-block-paragraph:nth-child(1) > strong",
+          "html": "<strong>Territorial Lands Statement</strong>"
+        }
+      ],
+      "items": [
+        {
+          "target": ".swp-input--search",
+          "html": "<input type=\"search\" class=\"swp-input--search swp-input\" placeholder=\"\" value=\"\" name=\"swps\" title=\"\" aria-label=\"Search\" aria-required=\"false\" style=\"\">",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 836.59375,
+            "y": 67,
+            "w": 278.046875,
+            "h": 46
+          }
+        },
+        {
+          "target": ".has-text-align-center > strong > a",
+          "html": "<a href=\"https://sharedhealthmb.ca/news/2026-09-08-dynacare-labour-disruption-update-extended-hours-location-finder/\">Dynacare Labour Disruption Update: Extended Hours Location Finder</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it is overlapped by another element"
+          ],
+          "box": {
+            "x": 367.765625,
+            "y": 280,
+            "w": 630.453125,
+            "h": 22
+          }
+        },
+        {
+          "target": "#advgb-col-c9b642f6-c5f1-4326-95e8-34958e1f69ce > .advgb-column-inner > .wp-block-paragraph:nth-child(1) > strong",
+          "html": "<strong>Territorial Lands Statement</strong>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 201,
+            "y": 740.71875,
+            "w": 258.3125,
+            "h": 22
+          }
+        },
+        {
+          "target": ".advgb-column-inner > .wp-block-paragraph:nth-child(2)",
+          "html": "<p class=\"wp-block-paragraph\">",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 201,
+            "y": 783.71875,
+            "w": 586.09375,
+            "h": 192
+          }
+        },
+        {
+          "target": "#advgb-col-c9b642f6-c5f1-4326-95e8-34958e1f69ce > .advgb-column-inner > .wp-block-paragraph:nth-child(3)",
+          "html": "<p class=\"wp-block-paragraph\">",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 201,
+            "y": 991.71875,
+            "w": 586.09375,
+            "h": 160
+          }
+        },
+        {
+          "target": ".wp-block-paragraph:nth-child(4)",
+          "html": "<p class=\"wp-block-paragraph\">We commit ourselves, in a good way, to learning about truth and reconciliation, promote healing, and creating a better future for all.</p>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 201,
+            "y": 1167.71875,
+            "w": 586.09375,
+            "h": 64
+          }
+        },
+        {
+          "target": "#advgb-col-f1385a3a-b5e7-41ce-84f4-ca932c6f552d > .advgb-column-inner > .front-feature-text.wp-block-paragraph",
+          "html": "<p class=\"front-feature-text wp-block-paragraph\"><strong>Public Health</strong><br>Working with all to promote health and prevent disease and injury.<br><i class=\"fa-solid fa-circle-arrow-right\"></i>&nbsp;&nbsp;<a href=\"/public-health/\">Read more</a></p>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 171,
+            "y": 1875.34375,
+            "w": 233.5,
+            "h": 166.375
+          }
+        },
+        {
+          "target": "#advgb-col-f1385a3a-b5e7-41ce-84f4-ca932c6f552d > .advgb-column-inner > .front-feature-text.wp-block-paragraph > strong",
+          "html": "<strong>Public Health</strong>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 187,
+            "y": 1895.34375,
+            "w": 89.5,
+            "h": 18
+          }
+        },
+        {
+          "target": "a[href$=\"public-health/\"]",
+          "html": "<a href=\"/public-health/\">Read more</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 210.78125,
+            "y": 2002.84375,
+            "w": 68.59375,
+            "h": 18
+          }
+        },
+        {
+          "target": "#advgb-col-106e6966-21a7-4917-8ab6-e56adfc90923 > .advgb-column-inner > .front-feature-text.wp-block-paragraph",
+          "html": "<p class=\"front-feature-text wp-block-paragraph\"><strong>Mental Health &amp; Addictions Recovery</strong><br>Restoring, promoting and maintaining well-being.<br><i class=\"fa-solid fa-circle-arrow-right\"></i>&nbsp;&nbsp;<a href=\"/mental-health/\">Read more</a></p>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 434.5,
+            "y": 1875.34375,
+            "w": 233.5,
+            "h": 166.375
+          }
+        },
+        {
+          "target": "#advgb-col-106e6966-21a7-4917-8ab6-e56adfc90923 > .advgb-column-inner > .front-feature-text.wp-block-paragraph > strong",
+          "html": "<strong>Mental Health &amp; Addictions Recovery</strong>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 450.5,
+            "y": 1895.34375,
+            "w": 184.234375,
+            "h": 44.875
+          }
+        },
+        {
+          "target": "a[href$=\"mental-health/\"]",
+          "html": "<a href=\"/mental-health/\">Read more</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 474.28125,
+            "y": 2002.84375,
+            "w": 68.59375,
+            "h": 18
+          }
+        },
+        {
+          "target": "#advgb-col-6adead9c-f191-46f1-8463-2064484fbb72 > .advgb-column-inner > .front-feature-text.wp-block-paragraph",
+          "html": "<p class=\"front-feature-text wp-block-paragraph\"><strong>Home Care<br></strong>Information about applying for, and receiving, home care services.<br><i class=\"fa-solid fa-circle-arrow-right\"></i>&nbsp;&nbsp;<a href=\"/home-care/\">Read more</a></p>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 698,
+            "y": 1875.34375,
+            "w": 233.5,
+            "h": 166.375
+          }
+        },
+        {
+          "target": "#advgb-col-6adead9c-f191-46f1-8463-2064484fbb72 > .advgb-column-inner > .front-feature-text.wp-block-paragraph > strong",
+          "html": "<strong>Home Care<br></strong>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 714,
+            "y": 1895.34375,
+            "w": 73.96875,
+            "h": 18
+          }
+        },
+        {
+          "target": "a[href$=\"home-care/\"]",
+          "html": "<a href=\"/home-care/\">Read more</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 737.78125,
+            "y": 2002.84375,
+            "w": 68.59375,
+            "h": 18
+          }
+        },
+        {
+          "target": "#advgb-col-74ff7536-d70c-4c90-a26c-145ef427f5be > .advgb-column-inner > .front-feature-text.wp-block-paragraph",
+          "html": "<p class=\"front-feature-text wp-block-paragraph\"><strong>Indigenous Health</strong><br>Supporting the holistic needs of First Nations, Métis, and Inuit people.<br><i class=\"fa-solid fa-circle-arrow-right\"></i>&nbsp;&nbsp;<a href=\"/indigenous-health/\">Read more</a></p>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 961.5,
+            "y": 1875.34375,
+            "w": 233.5,
+            "h": 166.375
+          }
+        },
+        {
+          "target": "#advgb-col-74ff7536-d70c-4c90-a26c-145ef427f5be > .advgb-column-inner > .front-feature-text.wp-block-paragraph > strong",
+          "html": "<strong>Indigenous Health</strong>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 977.5,
+            "y": 1895.34375,
+            "w": 122.703125,
+            "h": 18
+          }
+        },
+        {
+          "target": ".front-feature-text.wp-block-paragraph > a[href$=\"indigenous-health/\"]",
+          "html": "<a href=\"/indigenous-health/\">Read more</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 1001.28125,
+            "y": 2002.84375,
+            "w": 68.59375,
+            "h": 18
+          }
+        },
+        {
+          "target": "#advgb-col-fd3b86f3-0651-4b0d-867f-37cc8bf665eb > .advgb-column-inner > .front-feature-text.wp-block-paragraph",
+          "html": "<p class=\"front-feature-text wp-block-paragraph\"><strong>Long Term Care</strong><br>PCHs, paneling and options for assistance with remaining in your own home.<br><i class=\"fa-solid fa-circle-arrow-right\"></i>&nbsp;&nbsp;<a href=\"/long-term-care/\">Read more</a></p>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 171,
+            "y": 2255.34375,
+            "w": 233.5,
+            "h": 166.375
+          }
+        },
+        {
+          "target": "#advgb-col-fd3b86f3-0651-4b0d-867f-37cc8bf665eb > .advgb-column-inner > .front-feature-text.wp-block-paragraph > strong",
+          "html": "<strong>Long Term Care</strong>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 187,
+            "y": 2275.34375,
+            "w": 105.078125,
+            "h": 18
+          }
+        },
+        {
+          "target": "a[href$=\"long-term-care/\"]",
+          "html": "<a href=\"/long-term-care/\">Read more</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 210.78125,
+            "y": 2382.84375,
+            "w": 68.59375,
+            "h": 18
+          }
+        },
+        {
+          "target": "#advgb-col-f2b33f4e-93f3-4d31-8598-87abf3930b18 > .advgb-column-inner > .front-feature-text.wp-block-paragraph",
+          "html": "<p class=\"front-feature-text wp-block-paragraph\"><strong>Careers</strong><br>See the latest postings for clinical, non-clinical and administrative jobs.<br><i class=\"fa-solid fa-circle-arrow-right\"></i>&nbsp;&nbsp;<a href=\"https://careers.wrha.mb.ca/\">Read more</a></p>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 434.5,
+            "y": 2255.34375,
+            "w": 233.5,
+            "h": 166.375
+          }
+        },
+        {
+          "target": "#advgb-col-f2b33f4e-93f3-4d31-8598-87abf3930b18 > .advgb-column-inner > .front-feature-text.wp-block-paragraph > strong",
+          "html": "<strong>Careers</strong>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 450.5,
+            "y": 2275.34375,
+            "w": 51.453125,
+            "h": 18
+          }
+        },
+        {
+          "target": ".front-feature-text.wp-block-paragraph > a[href$=\"careers.wrha.mb.ca/\"]",
+          "html": "<a href=\"https://careers.wrha.mb.ca/\">Read more</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 474.28125,
+            "y": 2382.84375,
+            "w": 68.59375,
+            "h": 18
+          }
+        },
+        {
+          "target": "#advgb-col-61904a6d-0371-47ce-945c-b3e69bcfb179 > .advgb-column-inner > .front-feature-text.wp-block-paragraph",
+          "html": "<p class=\"front-feature-text wp-block-paragraph\"><strong>Client Relations</strong><br>Need help navigating your own patient journey, or that of a loved one?<br><i class=\"fa-solid fa-circle-arrow-right\"></i>&nbsp;&nbsp;<a href=\"/contact/client-relations/\">Read more</a></p>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 698,
+            "y": 2255.34375,
+            "w": 233.5,
+            "h": 166.375
+          }
+        },
+        {
+          "target": "#advgb-col-61904a6d-0371-47ce-945c-b3e69bcfb179 > .advgb-column-inner > .front-feature-text.wp-block-paragraph > strong",
+          "html": "<strong>Client Relations</strong>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 714,
+            "y": 2275.34375,
+            "w": 105.671875,
+            "h": 18
+          }
+        },
+        {
+          "target": ".front-feature-text.wp-block-paragraph > a[href$=\"client-relations/\"]",
+          "html": "<a href=\"/contact/client-relations/\">Read more</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 737.78125,
+            "y": 2382.84375,
+            "w": 68.59375,
+            "h": 18
+          }
+        },
+        {
+          "target": "#advgb-col-e8a1e984-beba-4490-bdee-e09cd8cac6f5 > .advgb-column-inner > .front-feature-text.wp-block-paragraph",
+          "html": "<p class=\"front-feature-text wp-block-paragraph\"><strong>Find a Doctor<br></strong>Helping you connect with a family doctor or other primary care provider.<br><i class=\"fa-solid fa-circle-arrow-right\"></i>&nbsp;&nbsp;<a href=\"http://www.gov.mb.ca/health/familydoctorfinder\">Read more</a></p>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 961.5,
+            "y": 2255.34375,
+            "w": 233.5,
+            "h": 166.375
+          }
+        },
+        {
+          "target": "#advgb-col-e8a1e984-beba-4490-bdee-e09cd8cac6f5 > .advgb-column-inner > .front-feature-text.wp-block-paragraph > strong",
+          "html": "<strong>Find a Doctor<br></strong>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 977.5,
+            "y": 2275.34375,
+            "w": 89.359375,
+            "h": 18
+          }
+        },
+        {
+          "target": "#advgb-col-e8a1e984-beba-4490-bdee-e09cd8cac6f5 > .advgb-column-inner > .front-feature-text.wp-block-paragraph > a",
+          "html": "<a href=\"http://www.gov.mb.ca/health/familydoctorfinder\">Read more</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 1001.28125,
+            "y": 2382.84375,
+            "w": 68.59375,
+            "h": 18
+          }
+        }
+      ]
+    }
+  ],
+  "violations": [],
+  "verdict": "CLEAN ON RULES, OPEN ON JUDGEMENT — the work is in the incomplete list"
+}

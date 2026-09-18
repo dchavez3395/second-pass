@@ -1,0 +1,53 @@
+{
+  "url": "https://assiniboine.net/",
+  "ok": true,
+  "status": 200,
+  "title": "Assiniboine College",
+  "finalUrl": "https://assiniboine.net/",
+  "shape": {
+    "elements": 898,
+    "images": 9,
+    "links": 196,
+    "buttons": 2,
+    "inputs": 2,
+    "headings": 17,
+    "textLength": 4529,
+    "lang": "en",
+    "iframes": 2
+  },
+  "axe": {
+    "violationRules": 0,
+    "violationNodes": 0,
+    "passRules": 26,
+    "passNodes": 673,
+    "incompleteRules": 1,
+    "incompleteNodes": 54,
+    "inapplicableRules": 37,
+    "testedNodes": 727
+  },
+  "incomplete": [
+    {
+      "id": "color-contrast",
+      "impact": "serious",
+      "help": "Elements must meet minimum color contrast ratio thresholds",
+      "why": "Element's background color could not be determined due to a background image",
+      "nodes": 54,
+      "sample": [
+        {
+          "target": ".block-views-block--articles-block-featured > h2",
+          "html": "<h2>News</h2>"
+        },
+        {
+          "target": ".block-views-block--events-block-featured > h2",
+          "html": "<h2>Events</h2>"
+        },
+        {
+          "target": ".views-row:nth-child(1) > .node--type-event.node--promoted.node--view-mode-featured > .content-header > .node__meta > .node__submitted-month",
+          "html": "<span class=\"node__submitted-month\">\n        Sep\n      </span>"
+        }
+      ]
+    }
+  ],
+  "violations": [],
+  "verdict": "CLEAN ON RULES, OPEN ON JUDGEMENT — the work is in the incomplete list"
+}

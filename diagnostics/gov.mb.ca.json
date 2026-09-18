@@ -1,0 +1,304 @@
+{
+  "url": "https://www.gov.mb.ca/",
+  "ok": true,
+  "status": 200,
+  "title": "Province of Manitoba | Home Page",
+  "finalUrl": "https://www.gov.mb.ca/",
+  "shape": {
+    "elements": 467,
+    "images": 19,
+    "links": 153,
+    "buttons": 4,
+    "inputs": 2,
+    "headings": 19,
+    "textLength": 1788,
+    "lang": "en",
+    "iframes": 0
+  },
+  "viewport": {
+    "width": 1366,
+    "height": 900
+  },
+  "scannedAt": "2026-09-18T04:54:12.724Z",
+  "axe": {
+    "violationRules": 3,
+    "violationNodes": 6,
+    "passRules": 32,
+    "passNodes": 345,
+    "incompleteRules": 2,
+    "incompleteNodes": 3,
+    "inapplicableRules": 30,
+    "testedNodes": 354
+  },
+  "incomplete": [
+    {
+      "id": "aria-valid-attr-value",
+      "impact": "critical",
+      "help": "ARIA attributes must conform to valid values",
+      "description": "Ensure all ARIA attributes have valid values",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/aria-valid-attr-value?application=playwright",
+      "tags": [
+        "cat.aria",
+        "wcag2a",
+        "wcag412",
+        "EN-301-549",
+        "EN-9.4.1.2",
+        "RGAAv4",
+        "RGAA-7.1.1"
+      ],
+      "wcag": [
+        "4.1.2"
+      ],
+      "why": "",
+      "nodes": 2,
+      "sample": [
+        {
+          "target": "div[aria-describedby=\"slick-slide00\"]",
+          "html": "<div class=\"slick-slide slick-current slick-active\" data-slick-index=\"0\" aria-hidden=\"false\" tabindex=\"-1\" role=\"option\" aria-describedby=\"slick-slide00\" style=\"width: 1024px;\">"
+        },
+        {
+          "target": "div[aria-describedby=\"slick-slide10\"]",
+          "html": "<div class=\"slick-slide slick-current slick-active\" data-slick-index=\"0\" aria-hidden=\"false\" tabindex=\"-1\" role=\"option\" aria-describedby=\"slick-slide10\" style=\"width: 209px;\">"
+        }
+      ],
+      "items": [
+        {
+          "target": "div[aria-describedby=\"slick-slide00\"]",
+          "html": "<div class=\"slick-slide slick-current slick-active\" data-slick-index=\"0\" aria-hidden=\"false\" tabindex=\"-1\" role=\"option\" aria-describedby=\"slick-slide00\" style=\"width: 1024px;\">",
+          "impact": "critical",
+          "messages": [
+            "ARIA attribute element ID does not exist on the page: aria-describedby=\"slick-slide00\""
+          ],
+          "box": {
+            "x": 172,
+            "y": 151.609375,
+            "w": 1024,
+            "h": 258
+          }
+        },
+        {
+          "target": "div[aria-describedby=\"slick-slide10\"]",
+          "html": "<div class=\"slick-slide slick-current slick-active\" data-slick-index=\"0\" aria-hidden=\"false\" tabindex=\"-1\" role=\"option\" aria-describedby=\"slick-slide10\" style=\"width: 209px;\">",
+          "impact": "critical",
+          "messages": [
+            "ARIA attribute element ID does not exist on the page: aria-describedby=\"slick-slide10\""
+          ],
+          "box": {
+            "x": 967,
+            "y": 791.609375,
+            "w": 209,
+            "h": 289.265625
+          }
+        }
+      ]
+    },
+    {
+      "id": "color-contrast",
+      "impact": "serious",
+      "help": "Elements must meet minimum color contrast ratio thresholds",
+      "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/color-contrast?application=playwright",
+      "tags": [
+        "cat.color",
+        "wcag2aa",
+        "wcag143",
+        "TTv5",
+        "TT13.c",
+        "EN-301-549",
+        "EN-9.1.4.3",
+        "ACT",
+        "RGAAv4",
+        "RGAA-3.2.1"
+      ],
+      "wcag": [
+        "1.4.3"
+      ],
+      "why": "Element's background color could not be determined because element contains an image node",
+      "nodes": 1,
+      "sample": [
+        {
+          "target": "div[aria-describedby=\"slick-slide00\"] > .slide_content > h2",
+          "html": "<h2>\n\t\t\t\t\tThe Port of Churchill is Open</h2>"
+        }
+      ],
+      "items": [
+        {
+          "target": "div[aria-describedby=\"slick-slide00\"] > .slide_content > h2",
+          "html": "<h2>\n\t\t\t\t\tThe Port of Churchill is Open</h2>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because element contains an image node"
+          ],
+          "box": {
+            "x": 879,
+            "y": 280.796875,
+            "w": 297,
+            "h": 54.8125
+          }
+        }
+      ]
+    }
+  ],
+  "violations": [
+    {
+      "id": "aria-input-field-name",
+      "impact": "serious",
+      "help": "ARIA input fields must have an accessible name",
+      "description": "Ensure every ARIA input field has an accessible name",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/aria-input-field-name?application=playwright",
+      "tags": [
+        "cat.aria",
+        "wcag2a",
+        "wcag412",
+        "TTv5",
+        "TT5.c",
+        "EN-301-549",
+        "EN-9.4.1.2",
+        "ACT",
+        "RGAAv4",
+        "RGAA-11.1.1"
+      ],
+      "wcag": [
+        "4.1.2"
+      ],
+      "nodes": 2,
+      "items": [
+        {
+          "target": ".slickSlider-wrapper > .slickSlider.slick-initialized.slick-slider > .slick-list.draggable[aria-live=\"polite\"] > .slick-track[role=\"listbox\"]",
+          "html": "<div class=\"slick-track\" role=\"listbox\" style=\"opacity: 1; width: 8192px; transform: translate3d(-1024px, 0px, 0px);\">",
+          "impact": "serious",
+          "messages": [
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute"
+          ],
+          "box": {
+            "x": -852,
+            "y": 151.609375,
+            "w": 8192,
+            "h": 258
+          }
+        },
+        {
+          "target": ".col-content-2 > .slickSlider.slick-initialized.slick-slider > .slick-list.draggable[aria-live=\"polite\"] > .slick-track[role=\"listbox\"]",
+          "html": "<div class=\"slick-track\" role=\"listbox\" style=\"opacity: 1; width: 1045px; transform: translate3d(-209px, 0px, 0px);\">",
+          "impact": "serious",
+          "messages": [
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute"
+          ],
+          "box": {
+            "x": 758,
+            "y": 791.609375,
+            "w": 1045,
+            "h": 289.265625
+          }
+        }
+      ]
+    },
+    {
+      "id": "listitem",
+      "impact": "serious",
+      "help": "<li> elements must be contained in a <ul> or <ol>",
+      "description": "Ensure <li> elements are used semantically",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/listitem?application=playwright",
+      "tags": [
+        "cat.structure",
+        "wcag2a",
+        "wcag131",
+        "EN-301-549",
+        "EN-9.1.3.1",
+        "RGAAv4",
+        "RGAA-9.3.1"
+      ],
+      "wcag": [
+        "1.3.1"
+      ],
+      "nodes": 2,
+      "items": [
+        {
+          "target": ".col-content-2 > li:nth-child(3)",
+          "html": "<li><a href=\"minister/premier/index.html\">Premier Wab Kinew</a></li>",
+          "impact": "serious",
+          "messages": [
+            "List item does not have a <ul>, <ol> parent element"
+          ],
+          "box": {
+            "x": 191,
+            "y": 1030.5625,
+            "w": 216,
+            "h": 22.40625
+          }
+        },
+        {
+          "target": ".col-content-2 > li:nth-child(5)",
+          "html": "<li><a href=\"minister/index.html\">Cabinet Ministers</a></li>",
+          "impact": "serious",
+          "messages": [
+            "List item does not have a <ul>, <ol> parent element"
+          ],
+          "box": {
+            "x": 191,
+            "y": 1075.375,
+            "w": 216,
+            "h": 22.40625
+          }
+        }
+      ]
+    },
+    {
+      "id": "nested-interactive",
+      "impact": "serious",
+      "help": "Interactive controls must not be nested",
+      "description": "Ensure interactive controls are not nested as they are not always announced by screen readers or can cause focus problems for assistive technologies",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/nested-interactive?application=playwright",
+      "tags": [
+        "cat.keyboard",
+        "wcag2a",
+        "wcag412",
+        "TTv5",
+        "TT6.a",
+        "EN-301-549",
+        "EN-9.4.1.2",
+        "RGAAv4",
+        "RGAA-7.1.1"
+      ],
+      "wcag": [
+        "4.1.2"
+      ],
+      "nodes": 2,
+      "items": [
+        {
+          "target": "div[aria-describedby=\"slick-slide00\"]",
+          "html": "<div class=\"slick-slide slick-current slick-active\" data-slick-index=\"0\" aria-hidden=\"false\" tabindex=\"-1\" role=\"option\" aria-describedby=\"slick-slide00\" style=\"width: 1024px;\">",
+          "impact": "serious",
+          "messages": [
+            "Element has focusable descendants"
+          ],
+          "box": {
+            "x": 172,
+            "y": 151.609375,
+            "w": 1024,
+            "h": 258
+          }
+        },
+        {
+          "target": "div[aria-describedby=\"slick-slide10\"]",
+          "html": "<div class=\"slick-slide slick-current slick-active\" data-slick-index=\"0\" aria-hidden=\"false\" tabindex=\"-1\" role=\"option\" aria-describedby=\"slick-slide10\" style=\"width: 209px;\">",
+          "impact": "serious",
+          "messages": [
+            "Element has focusable descendants"
+          ],
+          "box": {
+            "x": 967,
+            "y": 791.609375,
+            "w": 209,
+            "h": 289.265625
+          }
+        }
+      ]
+    }
+  ],
+  "verdict": "FAILURES DETECTED"
+}

@@ -1,0 +1,444 @@
+{
+  "url": "https://www.cancercare.mb.ca/",
+  "ok": true,
+  "status": 200,
+  "title": "CCMB Homepage",
+  "finalUrl": "https://www.cancercare.mb.ca/home/",
+  "shape": {
+    "elements": 726,
+    "images": 12,
+    "links": 172,
+    "buttons": 15,
+    "inputs": 1,
+    "headings": 11,
+    "textLength": 5535,
+    "lang": "en",
+    "iframes": 0
+  },
+  "viewport": {
+    "width": 1366,
+    "height": 900
+  },
+  "scannedAt": "2026-09-18T04:57:06.238Z",
+  "axe": {
+    "violationRules": 3,
+    "violationNodes": 11,
+    "passRules": 27,
+    "passNodes": 323,
+    "incompleteRules": 1,
+    "incompleteNodes": 8,
+    "inapplicableRules": 35,
+    "testedNodes": 342
+  },
+  "incomplete": [
+    {
+      "id": "color-contrast",
+      "impact": "serious",
+      "help": "Elements must meet minimum color contrast ratio thresholds",
+      "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/color-contrast?application=playwright",
+      "tags": [
+        "cat.color",
+        "wcag2aa",
+        "wcag143",
+        "TTv5",
+        "TT13.c",
+        "EN-301-549",
+        "EN-9.1.4.3",
+        "ACT",
+        "RGAAv4",
+        "RGAA-3.2.1"
+      ],
+      "wcag": [
+        "1.4.3"
+      ],
+      "why": "Element's background color could not be determined because it's partially obscured by another element",
+      "nodes": 8,
+      "sample": [
+        {
+          "target": "a[href$=\"Patient-Family/\"]",
+          "html": "<a href=\"/Patient-Family/\" class=\"dropdown-toggle\" data-toggle=\"dropdown\" role=\"button\" aria-haspopup=\"true\" aria-expanded=\"false\">Patients &amp; Family</a>"
+        },
+        {
+          "target": "a[href$=\"Treatments/\"]",
+          "html": "<a href=\"/Treatments/\" class=\"dropdown-toggle\" data-toggle=\"dropdown\" role=\"button\" aria-haspopup=\"true\" aria-expanded=\"false\">Treatment &amp; Care</a>"
+        },
+        {
+          "target": "a[href$=\"screening/\"]",
+          "html": "<a href=\"/screening/\" class=\"dropdown-toggle\" data-toggle=\"dropdown\" role=\"button\" aria-haspopup=\"true\" aria-expanded=\"false\">Screening</a>"
+        }
+      ],
+      "items": [
+        {
+          "target": "a[href$=\"Patient-Family/\"]",
+          "html": "<a href=\"/Patient-Family/\" class=\"dropdown-toggle\" data-toggle=\"dropdown\" role=\"button\" aria-haspopup=\"true\" aria-expanded=\"false\">Patients &amp; Family</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it's partially obscured by another element"
+          ],
+          "box": {
+            "x": 192.890625,
+            "y": 81.421875,
+            "w": 161.703125,
+            "h": 40
+          }
+        },
+        {
+          "target": "a[href$=\"Treatments/\"]",
+          "html": "<a href=\"/Treatments/\" class=\"dropdown-toggle\" data-toggle=\"dropdown\" role=\"button\" aria-haspopup=\"true\" aria-expanded=\"false\">Treatment &amp; Care</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it's partially obscured by another element"
+          ],
+          "box": {
+            "x": 354.59375,
+            "y": 81.421875,
+            "w": 170.296875,
+            "h": 40
+          }
+        },
+        {
+          "target": "a[href$=\"screening/\"]",
+          "html": "<a href=\"/screening/\" class=\"dropdown-toggle\" data-toggle=\"dropdown\" role=\"button\" aria-haspopup=\"true\" aria-expanded=\"false\">Screening</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it's partially obscured by another element"
+          ],
+          "box": {
+            "x": 524.890625,
+            "y": 81.421875,
+            "w": 109.1875,
+            "h": 40
+          }
+        },
+        {
+          "target": ".dropdown-toggle[href$=\"Research/\"][data-toggle=\"dropdown\"]",
+          "html": "<a href=\"/Research/\" class=\"dropdown-toggle\" data-toggle=\"dropdown\" role=\"button\" aria-haspopup=\"true\" aria-expanded=\"false\">Research</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it's partially obscured by another element"
+          ],
+          "box": {
+            "x": 634.078125,
+            "y": 81.421875,
+            "w": 103.359375,
+            "h": 40
+          }
+        },
+        {
+          "target": "a[href$=\"For-Health-Professionals/\"]",
+          "html": "<a href=\"/For-Health-Professionals/\" class=\"dropdown-toggle\" data-toggle=\"dropdown\" role=\"button\" aria-haspopup=\"true\" aria-expanded=\"false\">Health Professionals</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it's partially obscured by another element"
+          ],
+          "box": {
+            "x": 737.4375,
+            "y": 81.421875,
+            "w": 208.9375,
+            "h": 40
+          }
+        },
+        {
+          "target": "a[href$=\"Ways-To-Help/\"]",
+          "html": "<a href=\"/Ways-To-Help/\" class=\"dropdown-toggle\" data-toggle=\"dropdown\" role=\"button\" aria-haspopup=\"true\" aria-expanded=\"false\">Ways To Help</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it's partially obscured by another element"
+          ],
+          "box": {
+            "x": 946.375,
+            "y": 81.421875,
+            "w": 130.3125,
+            "h": 40
+          }
+        },
+        {
+          "target": "a[href$=\"About-Us/\"]",
+          "html": "<a href=\"/About-Us/\" class=\"dropdown-toggle\" data-toggle=\"dropdown\" role=\"button\" aria-haspopup=\"true\" aria-expanded=\"false\">About Us</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it's partially obscured by another element"
+          ],
+          "box": {
+            "x": 1076.6875,
+            "y": 81.421875,
+            "w": 96.40625,
+            "h": 40
+          }
+        },
+        {
+          "target": "a > .headline > h2",
+          "html": "<h2>\n\t\t\t\t\t\t\tNews</h2>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it is overlapped by another element"
+          ],
+          "box": {
+            "x": 113,
+            "y": 555.421875,
+            "w": 60.015625,
+            "h": 33.390625
+          }
+        }
+      ]
+    }
+  ],
+  "violations": [
+    {
+      "id": "image-alt",
+      "impact": "critical",
+      "help": "Images must have alternative text",
+      "description": "Ensure <img> elements have alternative text or a role of none or presentation",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/image-alt?application=playwright",
+      "tags": [
+        "cat.text-alternatives",
+        "wcag2a",
+        "wcag111",
+        "section508",
+        "section508.22.a",
+        "TTv5",
+        "TT7.a",
+        "TT7.b",
+        "EN-301-549",
+        "EN-9.1.1.1",
+        "ACT",
+        "RGAAv4",
+        "RGAA-1.1.1"
+      ],
+      "wcag": [
+        "1.1.1"
+      ],
+      "nodes": 2,
+      "items": [
+        {
+          "target": ".col-md-6:nth-child(1) > .ap-sec > .ap-img.ap-img-v0 > a[target=\"_blank\"] > .ap-img-pic > span > .img-responsive[alt=\" \"][title=\" \"]",
+          "html": "<img src=\"/export/sites/default/.galleries/images/ccmf-signature-events/Canada-Helps-landing-page-image.png\" class=\"img-responsive \" alt=\" \" title=\" \">",
+          "impact": "critical",
+          "messages": [
+            "Element has an alt attribute containing only a space character, which is not ignored by all screen readers"
+          ],
+          "box": {
+            "x": 113,
+            "y": 3070.4375,
+            "w": 555,
+            "h": 277.5
+          }
+        },
+        {
+          "target": ".col-md-6:nth-child(2) > .ap-sec > .ap-img.ap-img-v0 > a[target=\"_blank\"] > .ap-img-pic > span > .img-responsive[alt=\" \"][title=\" \"]",
+          "html": "<img src=\"/export/sites/default/.galleries/images/ccmf-signature-events/RIKA.png\" class=\"img-responsive \" alt=\" \" title=\" \">",
+          "impact": "critical",
+          "messages": [
+            "Element has an alt attribute containing only a space character, which is not ignored by all screen readers"
+          ],
+          "box": {
+            "x": 698,
+            "y": 2796.21875,
+            "w": 554.984375,
+            "h": 348.734375
+          }
+        }
+      ]
+    },
+    {
+      "id": "link-in-text-block",
+      "impact": "serious",
+      "help": "Links must be distinguishable without relying on color",
+      "description": "Ensure links are distinguished from surrounding text in a way that does not rely on color",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/link-in-text-block?application=playwright",
+      "tags": [
+        "cat.color",
+        "wcag2a",
+        "wcag141",
+        "TTv5",
+        "TT13.a",
+        "EN-301-549",
+        "EN-9.1.4.1",
+        "RGAAv4",
+        "RGAA-10.6.1"
+      ],
+      "wcag": [
+        "1.4.1"
+      ],
+      "nodes": 6,
+      "items": [
+        {
+          "target": ".mb-10.row:nth-child(1) > .col-xs-12 > .mb-5:nth-child(3) > a",
+          "html": "<a aria-label=\"Read More about Important Updated Information About Laboratory Services\" href=\"/About-Us/communications-and-public-affairs/news-archive/Important-Updated-Information-About-Laboratory-Services/\"> read more...</a>",
+          "impact": "serious",
+          "messages": [
+            "The link has insufficient color contrast of 1.26:1 with the surrounding text. (Minimum contrast is 3:1, link text: #0065b8, surrounding text: #555555)",
+            "The link has no styling (such as underline) to distinguish it from the surrounding text"
+          ],
+          "box": {
+            "x": 1113.25,
+            "y": 639.609375,
+            "w": 85.046875,
+            "h": 17
+          }
+        },
+        {
+          "target": ".mb-10.row:nth-child(2) > .col-xs-12 > .mb-5:nth-child(3) > a",
+          "html": "<a aria-label=\"Read More about Important Information About CCMB Laboratory Services \" href=\"/About-Us/communications-and-public-affairs/news-archive/Important-Information-About-CCMB-Laboratory-Services/\"> read more...</a>",
+          "impact": "serious",
+          "messages": [
+            "The link has insufficient color contrast of 1.26:1 with the surrounding text. (Minimum contrast is 3:1, link text: #0065b8, surrounding text: #555555)",
+            "The link has no styling (such as underline) to distinguish it from the surrounding text"
+          ],
+          "box": {
+            "x": 288.90625,
+            "y": 732.25,
+            "w": 85.046875,
+            "h": 17
+          }
+        },
+        {
+          "target": ".mb-10.row:nth-child(3) > .col-xs-12 > .mb-5:nth-child(3) > a",
+          "html": "<a aria-label=\"Read More about Dynacare Labour Disruption Update: Manitoba’s Health System Response\" href=\"/About-Us/communications-and-public-affairs/news-archive/Dynacare-Labour-Disruption-Update-Manitobas-Health-System-Response/\"> read more...</a>",
+          "impact": "serious",
+          "messages": [
+            "The link has insufficient color contrast of 1.26:1 with the surrounding text. (Minimum contrast is 3:1, link text: #0065b8, surrounding text: #555555)",
+            "The link has no styling (such as underline) to distinguish it from the surrounding text"
+          ],
+          "box": {
+            "x": 417.34375,
+            "y": 824.890625,
+            "w": 85.046875,
+            "h": 17
+          }
+        },
+        {
+          "target": ".mb-10.row:nth-child(4) > .col-xs-12 > .mb-5:nth-child(3) > a",
+          "html": "<a aria-label=\"Read More about For Health Care Providers: Register for the Provincial Cancer Care Conference\" href=\"/About-Us/communications-and-public-affairs/news-archive/For-Health-Care-Providers-Register-for-the-Provincial-Cancer-Care-Conference-00001/\"> read more...</a>",
+          "impact": "serious",
+          "messages": [
+            "The link has insufficient color contrast of 1.26:1 with the surrounding text. (Minimum contrast is 3:1, link text: #0065b8, surrounding text: #555555)",
+            "The link has no styling (such as underline) to distinguish it from the surrounding text"
+          ],
+          "box": {
+            "x": 378.125,
+            "y": 917.53125,
+            "w": 85.046875,
+            "h": 17
+          }
+        },
+        {
+          "target": "p:nth-child(9) > a[target=\"_blank\"]",
+          "html": "<a href=\"http://www.cancercarefdn.mb.ca/steves-story\" target=\"_blank\">cancercarefdn.mb.ca/steves-story</a>",
+          "impact": "serious",
+          "messages": [
+            "The link has insufficient color contrast of 1.26:1 with the surrounding text. (Minimum contrast is 3:1, link text: #0065b8, surrounding text: #555555)",
+            "The link has no styling (such as underline) to distinguish it from the surrounding text"
+          ],
+          "box": {
+            "x": 113,
+            "y": 3041.015625,
+            "w": 223.984375,
+            "h": 17
+          }
+        },
+        {
+          "target": "p:nth-child(3) > a[target=\"_blank\"]",
+          "html": "<a href=\"https://www.cancercarefdn.mb.ca/fundraise/\" target=\"_blank\">Learn more</a>",
+          "impact": "serious",
+          "messages": [
+            "The link has insufficient color contrast of 1.26:1 with the surrounding text. (Minimum contrast is 3:1, link text: #0065b8, surrounding text: #555555)",
+            "The link has no styling (such as underline) to distinguish it from the surrounding text"
+          ],
+          "box": {
+            "x": 698,
+            "y": 2745.375,
+            "w": 76.71875,
+            "h": 17
+          }
+        }
+      ]
+    },
+    {
+      "id": "link-name",
+      "impact": "serious",
+      "help": "Links must have discernible text",
+      "description": "Ensure links have discernible text",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/link-name?application=playwright",
+      "tags": [
+        "cat.name-role-value",
+        "wcag2a",
+        "wcag244",
+        "wcag412",
+        "section508",
+        "section508.22.a",
+        "TTv5",
+        "TT6.a",
+        "EN-301-549",
+        "EN-9.2.4.4",
+        "EN-9.4.1.2",
+        "ACT",
+        "RGAAv4",
+        "RGAA-6.2.1"
+      ],
+      "wcag": [
+        "2.4.4",
+        "4.1.2"
+      ],
+      "nodes": 3,
+      "items": [
+        {
+          "target": ".active-revslide:nth-child(1) > .hasclicklistener > a[target=\"_self\"]",
+          "html": "<a style=\"width:100%;height:100%;display:block\" target=\"_self\" href=\"https://secure.erbium.com/ui/register/e-MRJ0EyX97x\"><span style=\"width:100%;height:100%;display:block\"></span></a>",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": {
+            "x": 15,
+            "y": 86.38020324707031,
+            "w": 1336,
+            "h": 418
+          }
+        },
+        {
+          "target": ".col-md-6:nth-child(1) > .ap-sec > .ap-img.ap-img-v0 > a[target=\"_blank\"]",
+          "html": "<a target=\"_blank\" href=\"https://www.cancercarefdn.mb.ca/steves-story/\">",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": {
+            "x": 113,
+            "y": 3070.4375,
+            "w": 555,
+            "h": 277.5
+          }
+        },
+        {
+          "target": ".col-md-6:nth-child(2) > .ap-sec > .ap-img.ap-img-v0 > a[target=\"_blank\"]",
+          "html": "<a target=\"_blank\" href=\"https://youtu.be/F2Fjgi0v2NQ?si=YSl3psHG45OVGJID\">",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": {
+            "x": 698,
+            "y": 2796.21875,
+            "w": 555,
+            "h": 348.734375
+          }
+        }
+      ]
+    }
+  ],
+  "verdict": "FAILURES DETECTED"
+}

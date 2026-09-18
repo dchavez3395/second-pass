@@ -1,0 +1,638 @@
+{
+  "url": "https://www.brandon.ca/",
+  "ok": true,
+  "status": 200,
+  "title": "Home | City of Brandon",
+  "finalUrl": "https://www.brandon.ca/",
+  "shape": {
+    "elements": 739,
+    "images": 24,
+    "links": 139,
+    "buttons": 13,
+    "inputs": 2,
+    "headings": 2,
+    "textLength": 1934,
+    "lang": "en",
+    "iframes": 0
+  },
+  "viewport": {
+    "width": 1366,
+    "height": 900
+  },
+  "scannedAt": "2026-09-18T04:50:47.544Z",
+  "axe": {
+    "violationRules": 2,
+    "violationNodes": 8,
+    "passRules": 28,
+    "passNodes": 387,
+    "incompleteRules": 1,
+    "incompleteNodes": 28,
+    "inapplicableRules": 34,
+    "testedNodes": 423
+  },
+  "incomplete": [
+    {
+      "id": "color-contrast",
+      "impact": "serious",
+      "help": "Elements must meet minimum color contrast ratio thresholds",
+      "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/color-contrast?application=playwright",
+      "tags": [
+        "cat.color",
+        "wcag2aa",
+        "wcag143",
+        "TTv5",
+        "TT13.c",
+        "EN-301-549",
+        "EN-9.1.4.3",
+        "ACT",
+        "RGAAv4",
+        "RGAA-3.2.1"
+      ],
+      "wcag": [
+        "1.4.3"
+      ],
+      "why": "Element's background color could not be determined due to a background image",
+      "nodes": 28,
+      "sample": [
+        {
+          "target": "#gsc-i-id2",
+          "html": "<input autocomplete=\"off\" type=\"text\" size=\"10\" class=\"gsc-input gs-google-...\" name=\"search\" title=\"search\" aria-label=\"search\" id=\"gsc-i-id2\" style=\"width: 100%; padding...\" dir=\"ltr\" spellcheck=\"fa"
+        },
+        {
+          "target": ".items-5.item_has-bg.item_text-below:nth-child(1) > .c1-bg.c1-bg-solid.inner > a > .info > .c1-text.text > p",
+          "html": "<p>Agendas and Minutes</p>"
+        },
+        {
+          "target": ".items-5.item_has-bg.item_text-below:nth-child(2) > .c1-bg.c1-bg-solid.inner > a > .info > .c1-text.text > p",
+          "html": "<p>Budget</p>"
+        }
+      ],
+      "items": [
+        {
+          "target": "#gsc-i-id2",
+          "html": "<input autocomplete=\"off\" type=\"text\" size=\"10\" class=\"gsc-input gs-google-...\" name=\"search\" title=\"search\" aria-label=\"search\" id=\"gsc-i-id2\" style=\"width: 100%; padding...\" dir=\"ltr\" spellcheck=\"false\" placeholder=\"\">",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 360.5,
+            "y": 366,
+            "w": 645,
+            "h": 50
+          }
+        },
+        {
+          "target": ".items-5.item_has-bg.item_text-below:nth-child(1) > .c1-bg.c1-bg-solid.inner > a > .info > .c1-text.text > p",
+          "html": "<p>Agendas and Minutes</p>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 375.5,
+            "y": 516,
+            "w": 99,
+            "h": 48
+          }
+        },
+        {
+          "target": ".items-5.item_has-bg.item_text-below:nth-child(2) > .c1-bg.c1-bg-solid.inner > a > .info > .c1-text.text > p",
+          "html": "<p>Budget</p>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 504.5,
+            "y": 516,
+            "w": 99,
+            "h": 24
+          }
+        },
+        {
+          "target": ".items-5.item_has-bg.item_text-below:nth-child(3) > .c1-bg.c1-bg-solid.inner > a > .info > .c1-text.text > p",
+          "html": "<p>Property Taxes</p>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 633.5,
+            "y": 516,
+            "w": 99,
+            "h": 48
+          }
+        },
+        {
+          "target": ".items-5.item_has-bg.item_text-below:nth-child(4) > .c1-bg.c1-bg-solid.inner > a > .info > .c1-text.text > p",
+          "html": "<p>Report an Issue</p>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 762.5,
+            "y": 516,
+            "w": 99,
+            "h": 48
+          }
+        },
+        {
+          "target": "a[href$=\"votes\"] > .info > .c1-text.text > p",
+          "html": "<p>Election 2026</p>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 891.5,
+            "y": 516,
+            "w": 99,
+            "h": 24
+          }
+        },
+        {
+          "target": ".item_text-boxed.item_overlay.items-4:nth-child(1) > .c2-bg.c2-bg-solid.inner > a > .align-self-end.info > .c2-heading.heading",
+          "html": "<p class=\"heading  c2-heading \">Recreation Programs</p>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because element contains an image node"
+          ],
+          "box": {
+            "x": 64.515625,
+            "y": 1010.828125,
+            "w": 224.453125,
+            "h": 59.796875
+          }
+        },
+        {
+          "target": ".item_text-boxed.item_overlay.items-4:nth-child(2) > .c2-bg.c2-bg-solid.inner > a > .align-self-end.info > .c2-heading.heading",
+          "html": "<p class=\"heading  c2-heading \">Garbage, Recycling and Organics</p>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because element contains an image node"
+          ],
+          "box": {
+            "x": 390.5,
+            "y": 982.03125,
+            "w": 247.5,
+            "h": 88.59375
+          }
+        },
+        {
+          "target": ".item_text-boxed.item_overlay.items-4:nth-child(3) > .c2-bg.c2-bg-solid.inner > a > .align-self-end.info > .c2-heading.heading",
+          "html": "<p class=\"heading  c2-heading \">Building and Renovating</p>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because element contains an image node"
+          ],
+          "box": {
+            "x": 728,
+            "y": 982.03125,
+            "w": 247.5,
+            "h": 88.59375
+          }
+        },
+        {
+          "target": ".item_text-boxed.item_overlay.items-4:nth-child(4) > .c2-bg.c2-bg-solid.inner > a > .align-self-end.info > .c2-heading.heading",
+          "html": "<p class=\"heading  c2-heading \">Police News Releases</p>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because element contains an image node"
+          ],
+          "box": {
+            "x": 1075.53125,
+            "y": 1010.828125,
+            "w": 227.4375,
+            "h": 59.796875
+          }
+        },
+        {
+          "target": ".item_text-boxed.item_overlay.items-4:nth-child(5) > .c2-bg.c2-bg-solid.inner > a > .align-self-end.info > .c2-heading.heading",
+          "html": "<p class=\"heading  c2-heading \">City Government</p>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because element contains an image node"
+          ],
+          "box": {
+            "x": 85.765625,
+            "y": 1271.453125,
+            "w": 181.96875,
+            "h": 59.796875
+          }
+        },
+        {
+          "target": ".item_text-boxed.item_overlay.items-4:nth-child(6) > .c2-bg.c2-bg-solid.inner > a > .align-self-end.info > .c2-heading.heading",
+          "html": "<p class=\"heading  c2-heading \">Payment Options</p>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because element contains an image node"
+          ],
+          "box": {
+            "x": 420.9375,
+            "y": 1271.453125,
+            "w": 186.625,
+            "h": 59.796875
+          }
+        },
+        {
+          "target": ".item_text-boxed.item_overlay.items-4:nth-child(7) > .c2-bg.c2-bg-solid.inner > a > .align-self-end.info > .c2-heading.heading",
+          "html": "<p class=\"heading  c2-heading \">Parks and Greenspaces</p>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because element contains an image node"
+          ],
+          "box": {
+            "x": 728,
+            "y": 1242.65625,
+            "w": 247.5,
+            "h": 88.59375
+          }
+        },
+        {
+          "target": ".item_text-boxed.item_overlay.items-4:nth-child(8) > .c2-bg.c2-bg-solid.inner > a > .align-self-end.info > .c2-heading.heading",
+          "html": "<p class=\"heading  c2-heading \">Business</p>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because element contains an image node"
+          ],
+          "box": {
+            "x": 1141.984375,
+            "y": 1271.453125,
+            "w": 94.515625,
+            "h": 59.796875
+          }
+        },
+        {
+          "target": ".offset-lg-1 > .inner > .info > .footer-text.text > p",
+          "html": "<p><strong>City of Brandon</strong> <br>410 9th Street <br>Brandon, MB R7A 6A2&nbsp;<br>Phone: <a href=\"tel://2047292186\">204.729.2186</a> <br>Mon - Fri: 8:30am - 5pm <br>Sat- Sun: Closed <br>Stat Holidays: Closed</p>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 473,
+            "y": 3188.40625,
+            "w": 307.5,
+            "h": 168
+          }
+        },
+        {
+          "target": "strong",
+          "html": "<strong>City of Brandon</strong>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 473,
+            "y": 3190.40625,
+            "w": 112.1875,
+            "h": 19
+          }
+        },
+        {
+          "target": "a[href=\"tel://2047292186\"]",
+          "html": "<a href=\"tel://2047292186\">204.729.2186</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 524.96875,
+            "y": 3262.40625,
+            "w": 100,
+            "h": 19
+          }
+        },
+        {
+          "target": ".info > .sm.footer-heading.heading",
+          "html": "<p class=\"heading sm footer-heading \">Resources</p>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 810.5,
+            "y": 3178.40625,
+            "w": 307.5,
+            "h": 40
+          }
+        },
+        {
+          "target": "a[title=\"Update My Account\"]",
+          "html": "<a href=\"/home-property-environment/property-taxes/update-my-account/\" title=\"Update My Account\">Update My Account</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 810.5,
+            "y": 3235.40625,
+            "w": 142.640625,
+            "h": 19
+          }
+        },
+        {
+          "target": "a[title=\"Careers\"]",
+          "html": "<a href=\"/city-hall/careers/\" title=\"Careers\">Careers</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 810.5,
+            "y": 3259.40625,
+            "w": 56.28125,
+            "h": 19
+          }
+        },
+        {
+          "target": "a[title=\"News\"]",
+          "html": "<a href=\"/news/\" title=\"News\">News</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 810.5,
+            "y": 3283.40625,
+            "w": 40.296875,
+            "h": 19
+          }
+        },
+        {
+          "target": "a[title=\"Website Feedback\"]",
+          "html": "<a rel=\"noopener\" href=\"https://forms.brandon.ca/Website-Feedback\" target=\"_blank\" title=\"Website Feedback\">Website Feedback</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 810.5,
+            "y": 3307.40625,
+            "w": 131.90625,
+            "h": 19
+          }
+        },
+        {
+          "target": ".sm.footer-heading[data-os-animation=\"fadeInDown\"]",
+          "html": "<p class=\"heading sm footer-heading \" data-os-animation=\"fadeInDown\" data-os-animation-delay=\"0s\" data-os-animation-duration=\"1s\">Connect with Us</p>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 1148,
+            "y": 3178.40625,
+            "w": 195,
+            "h": 40
+          }
+        },
+        {
+          "target": ".footer-navigation > ul > li:nth-child(1) > div",
+          "html": "<div>© 2026 City of Brandon</div>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 23,
+            "y": 3462.40625,
+            "w": 146.671875,
+            "h": 18
+          }
+        },
+        {
+          "target": ".footer-navigation > ul > li:nth-child(2) > span > a",
+          "html": "<a href=\"https://www.brandon.ca/privacy-policy/\">Privacy Policy</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 180.640625,
+            "y": 3462.40625,
+            "w": 86.5625,
+            "h": 18
+          }
+        },
+        {
+          "target": ".footer-navigation > ul > li:nth-child(3) > span > a",
+          "html": "<a href=\"https://www.brandon.ca/sitemap/\">Sitemap</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 278.171875,
+            "y": 3462.40625,
+            "w": 52.6875,
+            "h": 18
+          }
+        },
+        {
+          "target": ".site-credit > div",
+          "html": "<div>Made with </div>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 1214.96875,
+            "y": 3462.40625,
+            "w": 68.84375,
+            "h": 18
+          }
+        },
+        {
+          "target": "a[href$=\"govstack.com/\"]",
+          "html": "<a target=\"_blank\" rel=\"noopener\" title=\"Link will open in a new window/tab\" href=\"https://www.govstack.com/\">Govstack</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 1283.8125,
+            "y": 3462.40625,
+            "w": 59.1875,
+            "h": 18
+          }
+        }
+      ]
+    }
+  ],
+  "violations": [
+    {
+      "id": "role-img-alt",
+      "impact": "serious",
+      "help": "[role=\"img\"] and [role=\"image\"] elements must have alternative text",
+      "description": "Ensure [role=\"img\"] and [role=\"image\"] elements have alternative text",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/role-img-alt?application=playwright",
+      "tags": [
+        "cat.text-alternatives",
+        "wcag2a",
+        "wcag111",
+        "section508",
+        "section508.22.a",
+        "TTv5",
+        "TT7.a",
+        "EN-301-549",
+        "EN-9.1.1.1",
+        "ACT",
+        "RGAAv4",
+        "RGAA-1.1.1"
+      ],
+      "wcag": [
+        "1.1.1"
+      ],
+      "nodes": 3,
+      "items": [
+        {
+          "target": ".usn_cmp_splitcomponent > .component-background-image.background-image[role=\"img\"]",
+          "html": "<div class=\"image background-ima...\" style=\"background-image: ur...\" data-bgset=\"https://media-002-ca...\" role=\"img\" aria-label=\"\">",
+          "impact": "serious",
+          "messages": [
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute"
+          ],
+          "box": {
+            "x": 0,
+            "y": 150,
+            "w": 1366,
+            "h": 630
+          }
+        },
+        {
+          "target": ".lazyload",
+          "html": "<div class=\"image lazyload backg...\" style=\"background-image:url...\" data-bgset=\"https://media-002-ca...\" data-sizes=\"auto\" role=\"img\" aria-label=\"\">",
+          "impact": "serious",
+          "messages": [
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute"
+          ],
+          "box": {
+            "x": 0,
+            "y": 2275.8125,
+            "w": 1366,
+            "h": 623.796875
+          }
+        },
+        {
+          "target": ".footer-background-image",
+          "html": "<div class=\"image background-ima...\" style=\"background-image:url...\" data-bgset=\"https://media-002-ca...\" data-sizes=\"auto\" role=\"img\" aria-label=\"\">",
+          "impact": "serious",
+          "messages": [
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute"
+          ],
+          "box": {
+            "x": 0,
+            "y": 3118.40625,
+            "w": 1366,
+            "h": 484
+          }
+        }
+      ]
+    },
+    {
+      "id": "target-size",
+      "impact": "serious",
+      "help": "All touch targets must be 24px large, or leave sufficient space",
+      "description": "Ensure touch targets have sufficient size and space",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/target-size?application=playwright",
+      "tags": [
+        "cat.sensory-and-visual-cues",
+        "wcag22aa",
+        "wcag258"
+      ],
+      "wcag": [
+        "2.5.8"
+      ],
+      "nodes": 5,
+      "items": [
+        {
+          "target": ".mega-menu-header-container.has-child:nth-child(1) > .expand-subpages[type=\"button\"]",
+          "html": "<button class=\"expand-subpages\" type=\"button\" aria-expanded=\"false\" aria-label=\"Expand sub pages Home, Property &amp; Environment\">\n                        <span aria-hidden=\"true\" class=\"sr-only\">Expand sub pages Home, Property &amp; Environment</span>\n                    </button>",
+          "impact": "serious",
+          "messages": [
+            "Target has insufficient size (12.4px by 75px, should be at least 24px by 24px)",
+            "Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 12.4px instead of at least 24px."
+          ],
+          "box": {
+            "x": 562.21875,
+            "y": 75,
+            "w": 12.40625,
+            "h": 75
+          }
+        },
+        {
+          "target": ".mega-menu-header-container.has-child:nth-child(2) > .expand-subpages[type=\"button\"]",
+          "html": "<button class=\"expand-subpages\" type=\"button\" aria-expanded=\"false\" aria-label=\"Expand sub pages Parks &amp; Recreation\">\n                        <span aria-hidden=\"true\" class=\"sr-only\">Expand sub pages Parks &amp; Recreation</span>\n                    </button>",
+          "impact": "serious",
+          "messages": [
+            "Target has insufficient size (14.1px by 75px, should be at least 24px by 24px)",
+            "Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 14.2px instead of at least 24px."
+          ],
+          "box": {
+            "x": 699.359375,
+            "y": 75,
+            "w": 14.109375,
+            "h": 75
+          }
+        },
+        {
+          "target": ".mega-menu-header-container.has-child:nth-child(4) > .expand-subpages[type=\"button\"]",
+          "html": "<button class=\"expand-subpages\" type=\"button\" aria-expanded=\"false\" aria-label=\"Expand sub pages Roads, Parking &amp; Transportation\">\n                        <span aria-hidden=\"true\" class=\"sr-only\">Expand sub pages Roads, Parking &amp; Transportation</span>\n                    </button>",
+          "impact": "serious",
+          "messages": [
+            "Target has insufficient size (12.4px by 75px, should be at least 24px by 24px)",
+            "Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 12.4px instead of at least 24px."
+          ],
+          "box": {
+            "x": 1020.921875,
+            "y": 75,
+            "w": 12.40625,
+            "h": 75
+          }
+        },
+        {
+          "target": ".mega-menu-header-container.has-child:nth-child(5) > .expand-subpages[type=\"button\"]",
+          "html": "<button class=\"expand-subpages\" type=\"button\" aria-expanded=\"false\" aria-label=\"Expand sub pages Business, Building &amp; Development\">\n                        <span aria-hidden=\"true\" class=\"sr-only\">Expand sub pages Business, Building &amp; Development</span>\n                    </button>",
+          "impact": "serious",
+          "messages": [
+            "Target has insufficient size (12.4px by 75px, should be at least 24px by 24px)",
+            "Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 12.4px instead of at least 24px."
+          ],
+          "box": {
+            "x": 1208.5625,
+            "y": 75,
+            "w": 12.40625,
+            "h": 75
+          }
+        },
+        {
+          "target": "button[aria-label=\"Expand sub pages City Hall\"]",
+          "html": "<button class=\"expand-subpages\" type=\"button\" aria-expanded=\"false\" aria-label=\"Expand sub pages City Hall\">\n                        <span aria-hidden=\"true\" class=\"sr-only\">Expand sub pages City Hall</span>\n                    </button>",
+          "impact": "serious",
+          "messages": [
+            "Target has insufficient size (20px by 75px, should be at least 24px by 24px)",
+            "Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 20px instead of at least 24px."
+          ],
+          "box": {
+            "x": 1323,
+            "y": 75,
+            "w": 20,
+            "h": 75
+          }
+        }
+      ]
+    }
+  ],
+  "verdict": "FAILURES DETECTED"
+}
