@@ -1,0 +1,414 @@
+{
+  "url": "https://www.pembinatrails.ca/",
+  "ok": true,
+  "status": 200,
+  "title": "Pembina Trails School Division",
+  "finalUrl": "https://www.pembinatrails.ca/",
+  "shape": {
+    "elements": 2541,
+    "images": 45,
+    "links": 725,
+    "buttons": 26,
+    "inputs": 12,
+    "headings": 8,
+    "textLength": 1188,
+    "lang": "en",
+    "iframes": 3
+  },
+  "viewport": {
+    "width": 1366,
+    "height": 900
+  },
+  "scannedAt": "2026-09-18T04:59:02.257Z",
+  "axe": {
+    "violationRules": 1,
+    "violationNodes": 3,
+    "passRules": 30,
+    "passNodes": 544,
+    "incompleteRules": 1,
+    "incompleteNodes": 18,
+    "inapplicableRules": 33,
+    "testedNodes": 565
+  },
+  "incomplete": [
+    {
+      "id": "color-contrast",
+      "impact": "serious",
+      "help": "Elements must meet minimum color contrast ratio thresholds",
+      "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/color-contrast?application=playwright",
+      "tags": [
+        "cat.color",
+        "wcag2aa",
+        "wcag143",
+        "TTv5",
+        "TT13.c",
+        "EN-301-549",
+        "EN-9.1.4.3",
+        "ACT",
+        "RGAAv4",
+        "RGAA-3.2.1"
+      ],
+      "wcag": [
+        "1.4.3"
+      ],
+      "why": "Element's background color could not be determined due to a pseudo element",
+      "nodes": 18,
+      "sample": [
+        {
+          "target": "#slick-slide02 > .ci-txt > h1 > a",
+          "html": "<a href=\"/free-transit-pass-information-.46994\" tabindex=\"0\">Free Transit Pass information </a>"
+        },
+        {
+          "target": "#slick-slide02 > .ci-txt > .btn-primary.btn",
+          "html": "<a href=\"/free-transit-pass-information-.46994\" class=\"btn btn-primary\" tabindex=\"0\"><span class=\"seo-desc\">Free Transit Pass information </span>Read More</a>"
+        },
+        {
+          "target": ".slick-current.ci-item[data-slick-index=\"0\"] > a[target=\"\\\"_blank\\\"\"] > .ci-text",
+          "html": "<span class=\"ci-text\">Edsby</span>"
+        }
+      ],
+      "items": [
+        {
+          "target": "#slick-slide02 > .ci-txt > h1 > a",
+          "html": "<a href=\"/free-transit-pass-information-.46994\" tabindex=\"0\">Free Transit Pass information </a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 70,
+            "y": 287.65625,
+            "w": 266.421875,
+            "h": 79.546875
+          }
+        },
+        {
+          "target": "#slick-slide02 > .ci-txt > .btn-primary.btn",
+          "html": "<a href=\"/free-transit-pass-information-.46994\" class=\"btn btn-primary\" tabindex=\"0\"><span class=\"seo-desc\">Free Transit Pass information </span>Read More</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 70,
+            "y": 446.609375,
+            "w": 140,
+            "h": 60.796875
+          }
+        },
+        {
+          "target": ".slick-current.ci-item[data-slick-index=\"0\"] > a[target=\"\\\"_blank\\\"\"] > .ci-text",
+          "html": "<span class=\"ci-text\">Edsby</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 136.5,
+            "y": 737.40625,
+            "w": 131,
+            "h": 16.796875
+          }
+        },
+        {
+          "target": ".ci-item[data-slick-index=\"1\"][aria-hidden=\"false\"] > a[target=\"\\\"_blank\\\"\"] > .ci-text",
+          "html": "<span class=\"ci-text\">Division Calendar</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 357.5,
+            "y": 737.40625,
+            "w": 131,
+            "h": 16.796875
+          }
+        },
+        {
+          "target": ".ci-item[data-slick-index=\"2\"][aria-hidden=\"false\"] > a[target=\"\\\"_blank\\\"\"] > .ci-text",
+          "html": "<span class=\"ci-text\">School Locator</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 578.5,
+            "y": 737.40625,
+            "w": 131,
+            "h": 16.796875
+          }
+        },
+        {
+          "target": ".ci-item[data-slick-index=\"3\"][aria-hidden=\"false\"] > a[target=\"\\\"_blank\\\"\"] > .ci-text",
+          "html": "<span class=\"ci-text\">Transportation</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 799.5,
+            "y": 737.40625,
+            "w": 131,
+            "h": 16.796875
+          }
+        },
+        {
+          "target": "div[data-slick-index=\"4\"] > a[target=\"\\\"_blank\\\"\"] > .ci-text",
+          "html": "<span class=\"ci-text\">Public Concerns and Complaints</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 1020.5,
+            "y": 737.40625,
+            "w": 131,
+            "h": 33.59375
+          }
+        },
+        {
+          "target": ".contact-holder > .title",
+          "html": "<span class=\"title\">Get in touch with us</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 70,
+            "y": 1569.125,
+            "w": 820.65625,
+            "h": 21.25
+          }
+        },
+        {
+          "target": "address",
+          "html": "<address>181 Henlow Bay Winnipeg, MB R3Y 1M7</address>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 70,
+            "y": 1606.375,
+            "w": 820.65625,
+            "h": 24
+          }
+        },
+        {
+          "target": ".link",
+          "html": "<a href=\"https://www.google.ca/maps/place/Pembina+Trails+School+Division/@49.815226,-97.190803,12z/data=!4m5!3m4!1s0x52ea7455eae94799:0x677c24736a885569!8m2!3d49.8152271!4d-97.1910515\" class=\"link d-print-none\" target=\"_blank\">View Map For Directions</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 70,
+            "y": 1639.375,
+            "w": 152.25,
+            "h": 16
+          }
+        },
+        {
+          "target": "li:nth-child(1) > strong",
+          "html": "<strong>Phone:</strong>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 70,
+            "y": 1675.375,
+            "w": 69,
+            "h": 16.796875
+          }
+        },
+        {
+          "target": ".tel",
+          "html": "<a href=\"tel:2044881757\" class=\"tel\">204-488-1757</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 139,
+            "y": 1675.375,
+            "w": 87.1875,
+            "h": 16.796875
+          }
+        },
+        {
+          "target": ".email",
+          "html": "<strong class=\"email\">Email:</strong>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 70,
+            "y": 1702.171875,
+            "w": 69,
+            "h": 16.796875
+          }
+        },
+        {
+          "target": "a[href=\"mailto:info@pembinatrails.ca\"]",
+          "html": "<a href=\"mailto:info@pembinatrails.ca\">info@pembinatrails.ca</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 139,
+            "y": 1702.171875,
+            "w": 138.734375,
+            "h": 16.796875
+          }
+        },
+        {
+          "target": ".ci-social > .title",
+          "html": "<span class=\"title\">Follow Us</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 925.65625,
+            "y": 1667.125,
+            "w": 420.328125,
+            "h": 21.25
+          }
+        },
+        {
+          "target": ".copyright",
+          "html": "<span class=\"copyright\">© Pembina Trails School Division. All rights reserved.</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 21,
+            "y": 1792.375,
+            "w": 282.296875,
+            "h": 33.390625
+          }
+        },
+        {
+          "target": "a[href$=\"privacy-policy\"]",
+          "html": "<a href=\"/privacy-policy\">Privacy Policy</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 320.296875,
+            "y": 1792.375,
+            "w": 74.6875,
+            "h": 14
+          }
+        },
+        {
+          "target": "a[href$=\"sitemap\"]",
+          "html": "<a href=\"/sitemap\" target=\"_self\">Site Map</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 427.984375,
+            "y": 1792.375,
+            "w": 47.359375,
+            "h": 14
+          }
+        }
+      ]
+    }
+  ],
+  "violations": [
+    {
+      "id": "link-name",
+      "impact": "serious",
+      "help": "Links must have discernible text",
+      "description": "Ensure links have discernible text",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/link-name?application=playwright",
+      "tags": [
+        "cat.name-role-value",
+        "wcag2a",
+        "wcag244",
+        "wcag412",
+        "section508",
+        "section508.22.a",
+        "TTv5",
+        "TT6.a",
+        "EN-301-549",
+        "EN-9.2.4.4",
+        "EN-9.4.1.2",
+        "ACT",
+        "RGAAv4",
+        "RGAA-6.2.1"
+      ],
+      "wcag": [
+        "2.4.4",
+        "4.1.2"
+      ],
+      "nodes": 3,
+      "items": [
+        {
+          "target": ".ci-hold:nth-child(5) > .ci-social-networks.list-unstyled > li:nth-child(1) > a[target=\"_blank\"]",
+          "html": "<a href=\"https://pembinatrails.edsby.com/\" target=\"_blank\">",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": {
+            "x": 1092,
+            "y": 45,
+            "w": 24,
+            "h": 20
+          }
+        },
+        {
+          "target": ".ci-social-block > .container > .ci-social-networks.list-unstyled > li:nth-child(1) > a[target=\"_blank\"]",
+          "html": "<a href=\"https://pembinatrails.edsby.com/\" target=\"_blank\">",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": {
+            "x": 538,
+            "y": 1334.125,
+            "w": 24,
+            "h": 26
+          }
+        },
+        {
+          "target": ".ci-social > .ci-social-networks.list-unstyled > li:nth-child(1) > a[target=\"_blank\"]",
+          "html": "<a href=\"https://pembinatrails.edsby.com/\" target=\"_blank\">",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": {
+            "x": 929.65625,
+            "y": 1709.375,
+            "w": 24,
+            "h": 26
+          }
+        }
+      ]
+    }
+  ],
+  "verdict": "FAILURES DETECTED"
+}

@@ -15,6 +15,11 @@
     "lang": "en",
     "iframes": 2
   },
+  "viewport": {
+    "width": 1366,
+    "height": 900
+  },
+  "scannedAt": "2026-09-18T04:58:16.479Z",
   "axe": {
     "violationRules": 0,
     "violationNodes": 0,
@@ -30,6 +35,23 @@
       "id": "color-contrast",
       "impact": "serious",
       "help": "Elements must meet minimum color contrast ratio thresholds",
+      "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/color-contrast?application=playwright",
+      "tags": [
+        "cat.color",
+        "wcag2aa",
+        "wcag143",
+        "TTv5",
+        "TT13.c",
+        "EN-301-549",
+        "EN-9.1.4.3",
+        "ACT",
+        "RGAAv4",
+        "RGAA-3.2.1"
+      ],
+      "wcag": [
+        "1.4.3"
+      ],
       "why": "Element's background color could not be determined due to a background image",
       "nodes": 54,
       "sample": [
@@ -44,6 +66,764 @@
         {
           "target": ".views-row:nth-child(1) > .node--type-event.node--promoted.node--view-mode-featured > .content-header > .node__meta > .node__submitted-month",
           "html": "<span class=\"node__submitted-month\">\n        Sep\n      </span>"
+        }
+      ],
+      "items": [
+        {
+          "target": ".block-views-block--articles-block-featured > h2",
+          "html": "<h2>News</h2>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 105.28125,
+            "y": 1605.46875,
+            "w": 516.6875,
+            "h": 48.828125
+          }
+        },
+        {
+          "target": ".block-views-block--events-block-featured > h2",
+          "html": "<h2>Events</h2>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 683,
+            "y": 1605.46875,
+            "w": 577.71875,
+            "h": 48.828125
+          }
+        },
+        {
+          "target": ".views-row:nth-child(1) > .node--type-event.node--promoted.node--view-mode-featured > .content-header > .node__meta > .node__submitted-month",
+          "html": "<span class=\"node__submitted-month\">\n        Sep\n      </span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 685.53125,
+            "y": 1693.359375,
+            "w": 28.921875,
+            "h": 23
+          }
+        },
+        {
+          "target": ".views-row:nth-child(1) > .node--type-event.node--promoted.node--view-mode-featured > .content-header > .node__meta > .node__submitted-day",
+          "html": "<span class=\"node__submitted-day\">\n        21\n      </span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 685.84375,
+            "y": 1716.359375,
+            "w": 28.3125,
+            "h": 41
+          }
+        },
+        {
+          "target": ".views-row:nth-child(1) > .node--type-event.node--promoted.node--view-mode-featured > .content-header > .event-text-wrapper > h3 > a > .field--name-title.field--type-string.field--label-hidden",
+          "html": "<span class=\"field field--name-title field--type-string field--label-hidden\">Fall Feast 2026</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 768,
+            "y": 1694.359375,
+            "w": 164.09375,
+            "h": 30
+          }
+        },
+        {
+          "target": ".views-row:nth-child(1) > .node--type-event.node--promoted.node--view-mode-featured > .content-header > .event-text-wrapper > .date-range-wrapper > .start-date",
+          "html": "<div class=\"start-date\">September 21, 2026 5:30 pm</div>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 768,
+            "y": 1736.359375,
+            "w": 203.03125,
+            "h": 21
+          }
+        },
+        {
+          "target": ".views-row:nth-child(1) > .node--type-event.node--promoted.node--view-mode-featured > .content-header > .event-text-wrapper > .date-range-wrapper > .end-date",
+          "html": "<div class=\"end-date\">September 21, 2026 8:00 pm</div>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 975.171875,
+            "y": 1736.359375,
+            "w": 185.265625,
+            "h": 21
+          }
+        },
+        {
+          "target": ".views-row:nth-child(2) > .node--type-event.node--promoted.node--view-mode-featured > .content-header > .node__meta > .node__submitted-month",
+          "html": "<span class=\"node__submitted-month\">\n        Sep\n      </span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 685.53125,
+            "y": 1818.359375,
+            "w": 28.921875,
+            "h": 23
+          }
+        },
+        {
+          "target": ".views-row:nth-child(2) > .node--type-event.node--promoted.node--view-mode-featured > .content-header > .node__meta > .node__submitted-day",
+          "html": "<span class=\"node__submitted-day\">\n        28\n      </span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 683.109375,
+            "y": 1841.359375,
+            "w": 33.78125,
+            "h": 41
+          }
+        },
+        {
+          "target": ".views-row:nth-child(2) > .node--type-event.node--promoted.node--view-mode-featured > .content-header > .event-text-wrapper > h3 > a > .field--name-title.field--type-string.field--label-hidden",
+          "html": "<span class=\"field field--name-title field--type-string field--label-hidden\">Truth and Reconciliation: Events &amp; Activities</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 768,
+            "y": 1789.359375,
+            "w": 384.140625,
+            "h": 60
+          }
+        },
+        {
+          "target": ".views-row:nth-child(2) > .node--type-event.node--promoted.node--view-mode-featured > .content-header > .event-text-wrapper > .date-range-wrapper > .start-date",
+          "html": "<div class=\"start-date\">September 28, 2026 11:30 am</div>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 768,
+            "y": 1861.359375,
+            "w": 208.171875,
+            "h": 21
+          }
+        },
+        {
+          "target": ".views-row:nth-child(2) > .node--type-event.node--promoted.node--view-mode-featured > .content-header > .event-text-wrapper > .date-range-wrapper > .end-date",
+          "html": "<div class=\"end-date\">October 02, 2026 1:30 pm</div>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 980.3125,
+            "y": 1861.359375,
+            "w": 166.734375,
+            "h": 21
+          }
+        },
+        {
+          "target": ".views-row:nth-child(3) > .node--type-event.node--promoted.node--view-mode-featured > .content-header > .node__meta > .node__submitted-month",
+          "html": "<span class=\"node__submitted-month\">\n        Oct\n      </span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 683.71875,
+            "y": 1914.359375,
+            "w": 32.546875,
+            "h": 23
+          }
+        },
+        {
+          "target": ".views-row:nth-child(3) > .node--type-event.node--promoted.node--view-mode-featured > .content-header > .node__meta > .node__submitted-day",
+          "html": "<span class=\"node__submitted-day\">\n        17\n      </span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 686.609375,
+            "y": 1937.359375,
+            "w": 26.78125,
+            "h": 41
+          }
+        },
+        {
+          "target": ".views-row:nth-child(3) > .node--type-event.node--promoted.node--view-mode-featured > .content-header > .event-text-wrapper > h3 > a > .field--name-title.field--type-string.field--label-hidden",
+          "html": "<span class=\"field field--name-title field--type-string field--label-hidden\">Rewind the Unwinder</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 768,
+            "y": 1915.359375,
+            "w": 231.90625,
+            "h": 30
+          }
+        },
+        {
+          "target": ".views-row:nth-child(3) > .node--type-event.node--promoted.node--view-mode-featured > .content-header > .event-text-wrapper > .date-range-wrapper > .start-date",
+          "html": "<div class=\"start-date\">October 17, 2026 7:00 pm</div>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 768,
+            "y": 1957.359375,
+            "w": 182.265625,
+            "h": 21
+          }
+        },
+        {
+          "target": ".views-row:nth-child(3) > .node--type-event.node--promoted.node--view-mode-featured > .content-header > .event-text-wrapper > .date-range-wrapper > .end-date",
+          "html": "<div class=\"end-date\">October 18, 2026 1:00 am</div>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 954.40625,
+            "y": 1957.359375,
+            "w": 163.765625,
+            "h": 21
+          }
+        },
+        {
+          "target": ".views-row:nth-child(4) > .node--type-event.node--promoted.node--view-mode-featured > .content-header > .node__meta > .node__submitted-month",
+          "html": "<span class=\"node__submitted-month\">\n        Oct\n      </span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 683.71875,
+            "y": 2010.359375,
+            "w": 32.546875,
+            "h": 23
+          }
+        },
+        {
+          "target": ".views-row:nth-child(4) > .node--type-event.node--promoted.node--view-mode-featured > .content-header > .node__meta > .node__submitted-day",
+          "html": "<span class=\"node__submitted-day\">\n        20\n      </span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 682.921875,
+            "y": 2033.359375,
+            "w": 34.171875,
+            "h": 41
+          }
+        },
+        {
+          "target": ".views-row:nth-child(4) > .node--type-event.node--promoted.node--view-mode-featured > .content-header > .event-text-wrapper > h3 > a > .field--name-title.field--type-string.field--label-hidden",
+          "html": "<span class=\"field field--name-title field--type-string field--label-hidden\">Neepawa Training Centre Open House</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 768,
+            "y": 2011.359375,
+            "w": 404.34375,
+            "h": 30
+          }
+        },
+        {
+          "target": ".views-row:nth-child(4) > .node--type-event.node--promoted.node--view-mode-featured > .content-header > .event-text-wrapper > .date-range-wrapper > .start-date",
+          "html": "<div class=\"start-date\">October 20, 2026 6:00 pm</div>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 768,
+            "y": 2053.359375,
+            "w": 187.859375,
+            "h": 21
+          }
+        },
+        {
+          "target": ".views-row:nth-child(4) > .node--type-event.node--promoted.node--view-mode-featured > .content-header > .event-text-wrapper > .date-range-wrapper > .end-date",
+          "html": "<div class=\"end-date\">October 20, 2026 8:00 pm</div>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 960,
+            "y": 2053.359375,
+            "w": 169.625,
+            "h": 21
+          }
+        },
+        {
+          "target": ".block-sidebar-list > h2",
+          "html": "<h2>Upcoming Games</h2>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 683,
+            "y": 2173.890625,
+            "w": 577.71875,
+            "h": 48.828125
+          }
+        },
+        {
+          "target": ".views-row:nth-child(1) > .node--type-athletic-event.node--view-mode-upcoming.node > .content-header > footer > .node__submitted-month",
+          "html": "<span class=\"node__submitted-month\">Sep</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 685.53125,
+            "y": 2261.78125,
+            "w": 28.921875,
+            "h": 23
+          }
+        },
+        {
+          "target": ".views-row:nth-child(1) > .node--type-athletic-event.node--view-mode-upcoming.node > .content-header > footer > .node__submitted-day",
+          "html": "<span class=\"node__submitted-day\">18</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 685.75,
+            "y": 2284.78125,
+            "w": 28.484375,
+            "h": 41
+          }
+        },
+        {
+          "target": ".views-row:nth-child(1) > .node--type-athletic-event.node--view-mode-upcoming.node > .content-details > .team-wrapper > .away.team > .field--name-field-team.field--type-entity-reference.field__item > a[href$=\"womens-volleyball\"][hreflang=\"en\"]",
+          "html": "<a href=\"/teams/womens-volleyball\" hreflang=\"en\">Women's Volleyball</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 768,
+            "y": 2261.78125,
+            "w": 140.109375,
+            "h": 23
+          }
+        },
+        {
+          "target": ".views-row:nth-child(1) > .node--type-athletic-event.node--view-mode-upcoming.node > .content-details > .team-wrapper > .home.team > .field--name-field-opposing-team.field--type-entity-reference.field__item",
+          "html": "<div class=\"field field--name-field-opposing-team field--type-entity-reference field--label-hidden field__item\">U of W Wesmen (ss)</div>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 768,
+            "y": 2291.328125,
+            "w": 144.1875,
+            "h": 23
+          }
+        },
+        {
+          "target": ".views-row:nth-child(1) > .node--type-athletic-event.node--view-mode-upcoming.node > .content-details > .node__content > .category-wrapper > .field--name-field-athletic-event-category.field--type-entity-reference.field__item",
+          "html": "<div class=\"field field--name-field-athletic-event-category field--type-entity-reference field--label-hidden field__item\">Exhibition</div>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 768,
+            "y": 2330.328125,
+            "w": 479.921875,
+            "h": 19
+          }
+        },
+        {
+          "target": ".views-row:nth-child(1) > .node--type-athletic-event.node--view-mode-upcoming.node > .content-details > .node__content > .more-link-wrapper > .more-link",
+          "html": "<a class=\"more-link\" href=\"/games/assiniboine-vs-university-winnipeg\">View game</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 768,
+            "y": 2365.328125,
+            "w": 492.71875,
+            "h": 19
+          }
+        },
+        {
+          "target": ".views-row:nth-child(2) > .node--type-athletic-event.node--view-mode-upcoming.node > .content-header > footer > .node__submitted-month",
+          "html": "<span class=\"node__submitted-month\">Sep</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 685.53125,
+            "y": 2400.328125,
+            "w": 28.921875,
+            "h": 23
+          }
+        },
+        {
+          "target": ".views-row:nth-child(2) > .node--type-athletic-event.node--view-mode-upcoming.node > .content-header > footer > .node__submitted-day",
+          "html": "<span class=\"node__submitted-day\">18</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 685.75,
+            "y": 2423.328125,
+            "w": 28.484375,
+            "h": 41
+          }
+        },
+        {
+          "target": ".views-row:nth-child(2) > .node--type-athletic-event.node--view-mode-upcoming.node > .content-details > .team-wrapper > .away.team > .field--name-field-team.field--type-entity-reference.field__item > a[href$=\"womens-volleyball\"][hreflang=\"en\"]",
+          "html": "<a href=\"/teams/womens-volleyball\" hreflang=\"en\">Women's Volleyball</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 768,
+            "y": 2400.328125,
+            "w": 140.109375,
+            "h": 23
+          }
+        },
+        {
+          "target": ".views-row:nth-child(2) > .node--type-athletic-event.node--view-mode-upcoming.node > .content-details > .team-wrapper > .home.team > .field--name-field-opposing-team.field--type-entity-reference.field__item",
+          "html": "<div class=\"field field--name-field-opposing-team field--type-entity-reference field--label-hidden field__item\">Concordia Thunder</div>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 768,
+            "y": 2429.875,
+            "w": 139.6875,
+            "h": 23
+          }
+        },
+        {
+          "target": ".views-row:nth-child(2) > .node--type-athletic-event.node--view-mode-upcoming.node > .content-details > .node__content > .category-wrapper > .field--name-field-athletic-event-category.field--type-entity-reference.field__item",
+          "html": "<div class=\"field field--name-field-athletic-event-category field--type-entity-reference field--label-hidden field__item\">Exhibition</div>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 768,
+            "y": 2468.875,
+            "w": 479.921875,
+            "h": 19
+          }
+        },
+        {
+          "target": ".views-row:nth-child(2) > .node--type-athletic-event.node--view-mode-upcoming.node > .content-details > .node__content > .more-link-wrapper > .more-link",
+          "html": "<a class=\"more-link\" href=\"/games/assiniboine-vs-concordia-university\">View game</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 768,
+            "y": 2503.875,
+            "w": 492.71875,
+            "h": 19
+          }
+        },
+        {
+          "target": ".views-row:nth-child(3) > .node--type-athletic-event.node--view-mode-upcoming.node > .content-header > footer > .node__submitted-month",
+          "html": "<span class=\"node__submitted-month\">Sep</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 685.53125,
+            "y": 2538.875,
+            "w": 28.921875,
+            "h": 23
+          }
+        },
+        {
+          "target": ".views-row:nth-child(3) > .node--type-athletic-event.node--view-mode-upcoming.node > .content-header > footer > .node__submitted-day",
+          "html": "<span class=\"node__submitted-day\">18</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 685.75,
+            "y": 2561.875,
+            "w": 28.484375,
+            "h": 41
+          }
+        },
+        {
+          "target": ".views-row:nth-child(3) > .node--type-athletic-event.node--view-mode-upcoming.node > .content-details > .team-wrapper > .away.team > .field--name-field-team.field--type-entity-reference.field__item > a[href$=\"womens-volleyball\"][hreflang=\"en\"]",
+          "html": "<a href=\"/teams/womens-volleyball\" hreflang=\"en\">Women's Volleyball</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 768,
+            "y": 2538.875,
+            "w": 140.109375,
+            "h": 23
+          }
+        },
+        {
+          "target": ".views-row:nth-child(3) > .node--type-athletic-event.node--view-mode-upcoming.node > .content-details > .team-wrapper > .home.team > .field--name-field-opposing-team.field--type-entity-reference.field__item",
+          "html": "<div class=\"field field--name-field-opposing-team field--type-entity-reference field--label-hidden field__item\">Memorial University</div>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 768,
+            "y": 2568.421875,
+            "w": 145.0625,
+            "h": 23
+          }
+        },
+        {
+          "target": ".views-row:nth-child(3) > .node--type-athletic-event.node--view-mode-upcoming.node > .content-details > .node__content > .category-wrapper > .field--name-field-athletic-event-category.field--type-entity-reference.field__item",
+          "html": "<div class=\"field field--name-field-athletic-event-category field--type-entity-reference field--label-hidden field__item\">Exhibition</div>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 768,
+            "y": 2607.421875,
+            "w": 479.921875,
+            "h": 19
+          }
+        },
+        {
+          "target": ".views-row:nth-child(3) > .node--type-athletic-event.node--view-mode-upcoming.node > .content-details > .node__content > .more-link-wrapper > .more-link",
+          "html": "<a class=\"more-link\" href=\"/games/assiniboine-vs-memorial-university\">View game</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 768,
+            "y": 2642.421875,
+            "w": 492.71875,
+            "h": 19
+          }
+        },
+        {
+          "target": ".views-row:nth-child(4) > .node--type-athletic-event.node--view-mode-upcoming.node > .content-header > footer > .node__submitted-month",
+          "html": "<span class=\"node__submitted-month\">Sep</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 685.53125,
+            "y": 2677.421875,
+            "w": 28.921875,
+            "h": 23
+          }
+        },
+        {
+          "target": ".views-row:nth-child(4) > .node--type-athletic-event.node--view-mode-upcoming.node > .content-header > footer > .node__submitted-day",
+          "html": "<span class=\"node__submitted-day\">19</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 685.71875,
+            "y": 2700.421875,
+            "w": 28.546875,
+            "h": 41
+          }
+        },
+        {
+          "target": "a[href$=\"mens-soccer\"]",
+          "html": "<a href=\"/teams/mens-soccer\" hreflang=\"en\">Men's Soccer</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 768,
+            "y": 2677.421875,
+            "w": 95.796875,
+            "h": 23
+          }
+        },
+        {
+          "target": ".views-row:nth-child(4) > .node--type-athletic-event.node--view-mode-upcoming.node > .content-details > .team-wrapper > .home.team > .field--name-field-opposing-team.field--type-entity-reference.field__item",
+          "html": "<div class=\"field field--name-field-opposing-team field--type-entity-reference field--label-hidden field__item\">Providence University College Pilots</div>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 768,
+            "y": 2706.96875,
+            "w": 262.5,
+            "h": 23
+          }
+        },
+        {
+          "target": ".views-row:nth-child(4) > .node--type-athletic-event.node--view-mode-upcoming.node > .content-details > .node__content > .category-wrapper > .field--name-field-athletic-event-category.field--type-entity-reference.field__item",
+          "html": "<div class=\"field field--name-field-athletic-event-category field--type-entity-reference field--label-hidden field__item\">Regular Season</div>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 768,
+            "y": 2745.96875,
+            "w": 479.921875,
+            "h": 19
+          }
+        },
+        {
+          "target": ".views-row:nth-child(4) > .node--type-athletic-event.node--view-mode-upcoming.node > .content-details > .node__content > .more-link-wrapper > .more-link",
+          "html": "<a class=\"more-link\" href=\"/games/assiniboine-vs-providence-university-20\">View game</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 768,
+            "y": 2780.96875,
+            "w": 492.71875,
+            "h": 19
+          }
+        },
+        {
+          "target": ".views-row:nth-child(5) > .node--type-athletic-event.node--view-mode-upcoming.node > .content-header > footer > .node__submitted-month",
+          "html": "<span class=\"node__submitted-month\">Sep</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 685.53125,
+            "y": 2815.96875,
+            "w": 28.921875,
+            "h": 23
+          }
+        },
+        {
+          "target": ".views-row:nth-child(5) > .node--type-athletic-event.node--view-mode-upcoming.node > .content-header > footer > .node__submitted-day",
+          "html": "<span class=\"node__submitted-day\">19</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 685.71875,
+            "y": 2838.96875,
+            "w": 28.546875,
+            "h": 41
+          }
+        },
+        {
+          "target": ".views-row:nth-child(5) > .node--type-athletic-event.node--view-mode-upcoming.node > .content-details > .team-wrapper > .away.team > .field--name-field-team.field--type-entity-reference.field__item > a[href$=\"womens-volleyball\"][hreflang=\"en\"]",
+          "html": "<a href=\"/teams/womens-volleyball\" hreflang=\"en\">Women's Volleyball</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 768,
+            "y": 2815.96875,
+            "w": 140.109375,
+            "h": 23
+          }
+        },
+        {
+          "target": ".views-row:nth-child(5) > .node--type-athletic-event.node--view-mode-upcoming.node > .content-details > .team-wrapper > .home.team > .field--name-field-opposing-team.field--type-entity-reference.field__item",
+          "html": "<div class=\"field field--name-field-opposing-team field--type-entity-reference field--label-hidden field__item\">University of Manitoba</div>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 768,
+            "y": 2845.515625,
+            "w": 164.03125,
+            "h": 23
+          }
+        },
+        {
+          "target": ".views-row:nth-child(5) > .node--type-athletic-event.node--view-mode-upcoming.node > .content-details > .node__content > .category-wrapper > .field--name-field-athletic-event-category.field--type-entity-reference.field__item",
+          "html": "<div class=\"field field--name-field-athletic-event-category field--type-entity-reference field--label-hidden field__item\">Exhibition</div>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 768,
+            "y": 2884.515625,
+            "w": 479.921875,
+            "h": 19
+          }
+        },
+        {
+          "target": ".views-row:nth-child(5) > .node--type-athletic-event.node--view-mode-upcoming.node > .content-details > .node__content > .more-link-wrapper > .more-link",
+          "html": "<a class=\"more-link\" href=\"/games/assiniboine-vs-university-manitoba\">View game</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 768,
+            "y": 2919.515625,
+            "w": 492.71875,
+            "h": 19
+          }
+        },
+        {
+          "target": "blockquote > p",
+          "html": "<p style=\"color:white;margin:0;text-transform:none;\">Assiniboine College is privileged to provide learning opportunities on the lands of the Dakota Oyate, Nakoda Oyate, Ininiwak, Nehethowak, Nehiyawak, Anishininewuk, Denesuline, Anishinaabeg, and the National Homeland of the Red River Métis.</p>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 150.03125,
+            "y": 3709.0625,
+            "w": 1095.9375,
+            "h": 117.1875
+          }
         }
       ]
     }

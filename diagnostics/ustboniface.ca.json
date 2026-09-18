@@ -1,0 +1,463 @@
+{
+  "url": "https://ustboniface.ca/",
+  "ok": true,
+  "status": 200,
+  "title": "Université de Saint-Boniface",
+  "finalUrl": "https://ustboniface.ca/",
+  "shape": {
+    "elements": 1301,
+    "images": 18,
+    "links": 154,
+    "buttons": 19,
+    "inputs": 7,
+    "headings": 27,
+    "textLength": 5752,
+    "lang": "fr",
+    "iframes": 2
+  },
+  "viewport": {
+    "width": 1366,
+    "height": 900
+  },
+  "scannedAt": "2026-09-18T04:58:41.663Z",
+  "axe": {
+    "violationRules": 1,
+    "violationNodes": 1,
+    "passRules": 27,
+    "passNodes": 564,
+    "incompleteRules": 3,
+    "incompleteNodes": 20,
+    "inapplicableRules": 34,
+    "testedNodes": 585
+  },
+  "incomplete": [
+    {
+      "id": "color-contrast",
+      "impact": "serious",
+      "help": "Elements must meet minimum color contrast ratio thresholds",
+      "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/color-contrast?application=playwright",
+      "tags": [
+        "cat.color",
+        "wcag2aa",
+        "wcag143",
+        "TTv5",
+        "TT13.c",
+        "EN-301-549",
+        "EN-9.1.4.3",
+        "ACT",
+        "RGAAv4",
+        "RGAA-3.2.1"
+      ],
+      "wcag": [
+        "1.4.3"
+      ],
+      "why": "Element's background color could not be determined because it is overlapped by another element",
+      "nodes": 18,
+      "sample": [
+        {
+          "target": "#edit-fulltext",
+          "html": "<input placeholder=\"Rechercher\" tabindex=\"-1\" data-drupal-selector=\"edit-fulltext\" data-search-api-auto...=\"search\" class=\"form-autocomplete fo...\" data-autocomplete-pa...=\"/search_api_autocomp...\" ty"
+        },
+        {
+          "target": ".h2 > .field--name-field-title-simple.field--type-string.field",
+          "html": "<div class=\"field field--name-field-title-simple field--type-string field--label-hidden field__item\">Un milieu d’études à taille humaine. </div>"
+        },
+        {
+          "target": ".\\[\\&_h2\\]\\:text-black > p",
+          "html": "<p><meta charset=\"utf-8\"><meta charset=\"utf-8\">L’USB offre un environnement accueillant et stimulant pensé pour ton épanouissement.</p>"
+        }
+      ],
+      "items": [
+        {
+          "target": "#edit-fulltext",
+          "html": "<input placeholder=\"Rechercher\" tabindex=\"-1\" data-drupal-selector=\"edit-fulltext\" data-search-api-auto...=\"search\" class=\"form-autocomplete fo...\" data-autocomplete-pa...=\"/search_api_autocomp...\" type=\"text\" id=\"edit-fulltext\" name=\"fulltext\" value=\"\" size=\"30\" maxlength=\"128\" style=\"\" ...>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it is overlapped by another element"
+          ],
+          "box": {
+            "x": 1290,
+            "y": 84.046875,
+            "w": 96,
+            "h": 44
+          }
+        },
+        {
+          "target": ".h2 > .field--name-field-title-simple.field--type-string.field",
+          "html": "<div class=\"field field--name-field-title-simple field--type-string field--label-hidden field__item\">Un milieu d’études à taille humaine. </div>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 72,
+            "y": 3010.140625,
+            "w": 647,
+            "h": 140.78125
+          }
+        },
+        {
+          "target": ".\\[\\&_h2\\]\\:text-black > p",
+          "html": "<p><meta charset=\"utf-8\"><meta charset=\"utf-8\">L’USB offre un environnement accueillant et stimulant pensé pour ton épanouissement.</p>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 72,
+            "y": 3182.921875,
+            "w": 647,
+            "h": 52.1875
+          }
+        },
+        {
+          "target": "a[data-text=\"Découvre pourquoi l’USB\"] > span",
+          "html": "<span>Découvre pourquoi l’USB</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 87,
+            "y": 3269.109375,
+            "w": 205.75,
+            "h": 21.25
+          }
+        },
+        {
+          "target": "a[href$=\"demande-admission\"] > span",
+          "html": "<span>Demande d'admission</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 350.734375,
+            "y": 3269.109375,
+            "w": 182.90625,
+            "h": 21.25
+          }
+        },
+        {
+          "target": "a[aria-label=\"1 / 2\"] > .usb-card-highlighted__wrapper > h3 > .field--name-field-title.field--type-string.field",
+          "html": "<div class=\"field field--name-field-title field--type-string field--label-hidden field__item\">Journée des conseillers et conseillères d’écoles secondaires</div>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 781,
+            "y": 2910.140625,
+            "w": 365.59375,
+            "h": 154
+          }
+        },
+        {
+          "target": "div[data-end-date=\"1790078400\"]",
+          "html": "<div class=\"usb-card-highlighted__date body-sm mt-2\" data-end-date=\"1790078400\">\n             Mardi 22 septembre 2026\n          </div>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 781,
+            "y": 3072.140625,
+            "w": 365.59375,
+            "h": 20.796875
+          }
+        },
+        {
+          "target": "a[aria-label=\"1 / 2\"] > .usb-card-highlighted__wrapper > .xl\\:pr-40.mt-4.md\\:mt-8 > .field--name-field-body.field--type-text-long.text-formatted > p",
+          "html": "<p>Des séances d’information et d’échange permettant de découvrir les nouveautés à l’USB, de se mettre à jour sur les conditions d’admission et de visiter notre charmant campus.</p>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 781,
+            "y": 3124.9375,
+            "w": 205.59375,
+            "h": 104.375
+          }
+        },
+        {
+          "target": "a[aria-label=\"1 / 2\"] > .usb-card-highlighted__wrapper > .mt-8 > .btn--secondary--white.btn--secondary[data-text=\"En savoir plus\"] > span",
+          "html": "<span>En savoir plus</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 781,
+            "y": 3276.3125,
+            "w": 114.109375,
+            "h": 21.25
+          }
+        },
+        {
+          "target": "a[href$=\"bienvenue\"] > .usb-card-highlighted__wrapper > h3 > .field--name-field-title.field--type-string.field",
+          "html": "<div class=\"field field--name-field-title field--type-string field--label-hidden field__item\">Bienvenue à l’USB!</div>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 1274.59375,
+            "y": 2910.140625,
+            "w": 365.59375,
+            "h": 38.5
+          }
+        },
+        {
+          "target": "a[href$=\"bienvenue\"] > .usb-card-highlighted__wrapper > .xl\\:pr-40.mt-4.md\\:mt-8 > .field--name-field-body.field--type-text-long.text-formatted > p",
+          "html": "<p>L’équipe de bienvenue est là, en personne, par téléphone ou en ligne pour répondre à tes questions, te guider et t’accompagner dans tes premiers pas à l’USB.</p>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 1274.59375,
+            "y": 2980.640625,
+            "w": 205.59375,
+            "h": 104.375
+          }
+        },
+        {
+          "target": "a[href$=\"bienvenue\"] > .usb-card-highlighted__wrapper > .mt-8 > .btn--secondary--white.btn--secondary[data-text=\"En savoir plus\"] > span",
+          "html": "<span>En savoir plus</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 1274.59375,
+            "y": 3132.015625,
+            "w": 114.109375,
+            "h": 21.25
+          }
+        },
+        {
+          "target": ".usb-card-collection.max-lg\\:mt-16.max-lg\\:\\[\\&\\:first-child\\]\\:mt-0:nth-child(1) > .usb-card-collection__wrapper > .usb-card-collection__content.bg-vert.px-8 > .\\32 xl\\:h3.xl\\:w-\\[22\\.6875rem\\].md\\:max-w-\\[50\\%\\]",
+          "html": "<div class=\"h3-sm 2xl:h3 text-bleu-force w-full xl:w-[22.6875rem] md:max-w-[50%] xl:max-w-[66%]\">Population étudiante de l’USB</div>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it is overlapped by another element"
+          ],
+          "box": {
+            "x": 731,
+            "y": 6093.671875,
+            "w": 355.734375,
+            "h": 77
+          }
+        },
+        {
+          "target": ".usb-card-collection.max-lg\\:mt-16.max-lg\\:\\[\\&\\:first-child\\]\\:mt-0:nth-child(2) > .usb-card-collection__wrapper > .usb-card-collection__content.px-8.py-16 > .\\32 xl\\:h3.xl\\:w-\\[22\\.6875rem\\].md\\:max-w-\\[50\\%\\]",
+          "html": "<div class=\"h3-sm 2xl:h3 text-bleu-force w-full xl:w-[22.6875rem] md:max-w-[50%] xl:max-w-[66%]\">Taille moyenne d’une classe</div>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it partially overlaps other elements"
+          ],
+          "box": {
+            "x": 64,
+            "y": 6220.671875,
+            "w": 282.359375,
+            "h": 77
+          }
+        },
+        {
+          "target": "div[aria-label=\"1 / 6\"] > .usb-card-testimonial__image-section.min-h-\\[22rem\\].md\\:min-h-full > .space-y-2.mt-auto.md\\:pr-8 > .usb-card-testimonial__name.extra-sm.uppercase > .field--name-field-full-name.field--type-string.field",
+          "html": "<div class=\"field field--name-field-full-name field--type-string field--label-hidden field__item\">Sara</div>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 140,
+            "y": 8020.5625,
+            "w": 184.796875,
+            "h": 18
+          }
+        },
+        {
+          "target": "div[aria-label=\"1 / 6\"] > .usb-card-testimonial__image-section.min-h-\\[22rem\\].md\\:min-h-full > .space-y-2.mt-auto.md\\:pr-8 > .body-xs > .field--name-field-occupation.field--type-string.field",
+          "html": "<div class=\"field field--name-field-occupation field--type-string field--label-hidden field__item\">Baccalauréat ès sciences avec majeure conjointe en biochimie-microbiologie </div>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 140,
+            "y": 8046.5625,
+            "w": 184.796875,
+            "h": 50.390625
+          }
+        },
+        {
+          "target": "div[aria-label=\"2 / 6\"] > .usb-card-testimonial__image-section.min-h-\\[22rem\\].md\\:min-h-full > .space-y-2.mt-auto.md\\:pr-8 > .usb-card-testimonial__name.extra-sm.uppercase > .field--name-field-full-name.field--type-string.field",
+          "html": "<div class=\"field field--name-field-full-name field--type-string field--label-hidden field__item\">Mathias</div>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 1096,
+            "y": 8020.953125,
+            "w": 184.796875,
+            "h": 18
+          }
+        },
+        {
+          "target": "div[aria-label=\"2 / 6\"] > .usb-card-testimonial__image-section.min-h-\\[22rem\\].md\\:min-h-full > .space-y-2.mt-auto.md\\:pr-8 > .body-xs > .field--name-field-occupation.field--type-string.field",
+          "html": "<div class=\"field field--name-field-occupation field--type-string field--label-hidden field__item\">Diplôme en communication multimédia</div>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 1096,
+            "y": 8046.953125,
+            "w": 184.796875,
+            "h": 33.59375
+          }
+        }
+      ]
+    },
+    {
+      "id": "duplicate-id-aria",
+      "impact": "critical",
+      "help": "IDs used in ARIA and labels must be unique",
+      "description": "Ensure every id attribute value used in ARIA and in labels is unique",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/duplicate-id-aria?application=playwright",
+      "tags": [
+        "cat.parsing",
+        "wcag2a",
+        "wcag412",
+        "EN-301-549",
+        "EN-9.4.1.2",
+        "RGAAv4",
+        "RGAA-8.2.1"
+      ],
+      "wcag": [
+        "4.1.2"
+      ],
+      "why": "Document has multiple elements referenced with ARIA with the same id attribute: video-title",
+      "nodes": 1,
+      "sample": [
+        {
+          "target": ".video-control > h2",
+          "html": "<h2 id=\"video-title\" class=\"sr-only\">Un aperçu du campus extérieur de l'Université de Saint-Boniface et de la population étudiante qui le fréquente.</h2>"
+        }
+      ],
+      "items": [
+        {
+          "target": ".video-control > h2",
+          "html": "<h2 id=\"video-title\" class=\"sr-only\">Un aperçu du campus extérieur de l'Université de Saint-Boniface et de la population étudiante qui le fréquente.</h2>",
+          "impact": "critical",
+          "messages": [
+            "Document has multiple elements referenced with ARIA with the same id attribute: video-title"
+          ],
+          "box": {
+            "x": 1241,
+            "y": 809.140625,
+            "w": 1,
+            "h": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "video-caption",
+      "impact": "critical",
+      "help": "<video> elements must have captions",
+      "description": "Ensure <video> elements have captions",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/video-caption?application=playwright",
+      "tags": [
+        "cat.text-alternatives",
+        "wcag2a",
+        "wcag122",
+        "section508",
+        "section508.22.a",
+        "TTv5",
+        "TT17.a",
+        "EN-301-549",
+        "EN-9.1.2.2",
+        "RGAAv4",
+        "RGAA-4.3.1"
+      ],
+      "wcag": [
+        "1.2.2"
+      ],
+      "why": "",
+      "nodes": 1,
+      "sample": [
+        {
+          "target": "video",
+          "html": "<video autoplay=\"autoplay\" loop=\"loop\" muted=\"muted\" width=\"790\" height=\"475\" aria-labelledby=\"video-title\">\n      <source src=\"/sites/default/files/2026-06/2026-03_pageAccueil-siteWebUSB_2.mp4\" type="
+        }
+      ],
+      "items": [
+        {
+          "target": "video",
+          "html": "<video autoplay=\"autoplay\" loop=\"loop\" muted=\"muted\" width=\"790\" height=\"475\" aria-labelledby=\"video-title\">\n      <source src=\"/sites/default/files/2026-06/2026-03_pageAccueil-siteWebUSB_2.mp4\" type=\"video/mp4\">\n  </video>",
+          "impact": "critical",
+          "messages": [
+            "Check that captions are available for the element"
+          ],
+          "box": {
+            "x": 687.3125,
+            "y": 522.25,
+            "w": 614.6875,
+            "h": 339.890625
+          }
+        }
+      ]
+    }
+  ],
+  "violations": [
+    {
+      "id": "frame-title",
+      "impact": "serious",
+      "help": "Frames must have an accessible name",
+      "description": "Ensure <iframe> and <frame> elements have an accessible name",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/frame-title?application=playwright",
+      "tags": [
+        "cat.text-alternatives",
+        "wcag2a",
+        "wcag412",
+        "section508",
+        "section508.22.i",
+        "TTv5",
+        "TT12.d",
+        "EN-301-549",
+        "EN-9.4.1.2",
+        "RGAAv4",
+        "RGAA-2.1.1"
+      ],
+      "wcag": [
+        "4.1.2"
+      ],
+      "nodes": 1,
+      "items": [
+        {
+          "target": ".iframe-element",
+          "html": "<iframe data-component-id=\"usb:iframe-element\" data-src=\"https://www.youtube....\" allow=\"accelerometer; autop...\" allowfullscreen=\"\" width=\"1729\" height=\"738\" frameborder=\"0\" volume=\"0\" referrerpolicy=\"strict-origin-when-c...\" usb-data-video-id=\"tV2p-1Ouy_A\" class=\"iframe-element w-ful...\">",
+          "impact": "serious",
+          "messages": [
+            "Element has no title attribute",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element's default semantics were not overridden with role=\"none\" or role=\"presentation\""
+          ],
+          "box": {
+            "x": 0,
+            "y": 3603.5625,
+            "w": 1366,
+            "h": 738
+          }
+        }
+      ]
+    }
+  ],
+  "verdict": "FAILURES DETECTED"
+}

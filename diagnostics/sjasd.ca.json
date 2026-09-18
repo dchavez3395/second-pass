@@ -15,23 +15,45 @@
     "lang": "en-CA",
     "iframes": 2
   },
+  "viewport": {
+    "width": 1366,
+    "height": 900
+  },
+  "scannedAt": "2026-09-18T04:59:36.496Z",
   "axe": {
     "violationRules": 5,
-    "violationNodes": 10,
+    "violationNodes": 12,
     "passRules": 32,
     "passNodes": 724,
     "incompleteRules": 2,
-    "incompleteNodes": 32,
+    "incompleteNodes": 38,
     "inapplicableRules": 30,
-    "testedNodes": 766
+    "testedNodes": 774
   },
   "incomplete": [
     {
       "id": "color-contrast",
       "impact": "serious",
       "help": "Elements must meet minimum color contrast ratio thresholds",
+      "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/color-contrast?application=playwright",
+      "tags": [
+        "cat.color",
+        "wcag2aa",
+        "wcag143",
+        "TTv5",
+        "TT13.c",
+        "EN-301-549",
+        "EN-9.1.4.3",
+        "ACT",
+        "RGAAv4",
+        "RGAA-3.2.1"
+      ],
+      "wcag": [
+        "1.4.3"
+      ],
       "why": "Element's background color could not be determined because it is overlapped by another element",
-      "nodes": 30,
+      "nodes": 36,
       "sample": [
         {
           "target": "select",
@@ -45,12 +67,534 @@
           "target": ".sl-SiteTagLine",
           "html": "<div class=\"sl-SiteTagLine\">\n                                            Great Schools for Growing and Learning\n                                        </div>"
         }
+      ],
+      "items": [
+        {
+          "target": "select",
+          "html": "<select class=\"gt_selector notranslate\" aria-label=\"Select Language\">",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it is overlapped by another element"
+          ],
+          "box": {
+            "x": 176,
+            "y": 0,
+            "w": 166,
+            "h": 34.796875
+          }
+        },
+        {
+          "target": ".sl-SiteName",
+          "html": "<div class=\"sl-SiteName\">\n\t\t\t\t\t\t\t\t\t\t    St. James-Assiniboia School Division\n                                        </div>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 284.484375,
+            "y": 61.953125,
+            "w": 436.609375,
+            "h": 27.296875
+          }
+        },
+        {
+          "target": ".sl-SiteTagLine",
+          "html": "<div class=\"sl-SiteTagLine\">\n                                            Great Schools for Growing and Learning\n                                        </div>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 284.484375,
+            "y": 101.25,
+            "w": 436.609375,
+            "h": 18.890625
+          }
+        },
+        {
+          "target": ".sl-SiteDistrictName",
+          "html": "<div class=\"sl-SiteDistrictName\">\n                                            Board Office\n                                        </div>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 284.484375,
+            "y": 120.140625,
+            "w": 436.609375,
+            "h": 14.6875
+          }
+        },
+        {
+          "target": "#ctl00_SPWebPartManager1_g_aad00e0b_681f_48b5_94ff_0d42f7c1a6b3_ctl00_FeaturedRepeater_ctl00_entryAnchor",
+          "html": "<a id=\"ctl00_SPWebPartManager1_g_aad00e0b_681f_48b5_94ff_0d42f7c1a6b3_ctl00_FeaturedRepeater_ctl00_entryAnchor\" title=\"Blurb from the Board\" href=\"https://www.sjasd.ca/pages/newsitem.aspx?ItemID=602\" tabindex=\"-1\">Blurb from the Board</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because element contains an image node"
+          ],
+          "box": {
+            "x": 22,
+            "y": 245.375,
+            "w": 223.703125,
+            "h": 32
+          }
+        },
+        {
+          "target": "#ctl00_SPWebPartManager1_g_aad00e0b_681f_48b5_94ff_0d42f7c1a6b3_ctl00_FeaturedRepeater_ctl00_summarySpan",
+          "html": "<span id=\"ctl00_SPWebPartManager1_g_aad00e0b_681f_48b5_94ff_0d42f7c1a6b3_ctl00_FeaturedRepeater_ctl00_summarySpan\" class=\"entry-summary-body\">East Ward Trustees encourage community members to vote in school board elections next month. </span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it is overlapped by another element"
+          ],
+          "box": {
+            "x": 22,
+            "y": 289.765625,
+            "w": 350,
+            "h": 67.171875
+          }
+        },
+        {
+          "target": "#ctl00_SPWebPartManager1_g_aad00e0b_681f_48b5_94ff_0d42f7c1a6b3_ctl00_FeaturedRepeater_ctl01_entryAnchor",
+          "html": "<a id=\"ctl00_SPWebPartManager1_g_aad00e0b_681f_48b5_94ff_0d42f7c1a6b3_ctl00_FeaturedRepeater_ctl01_entryAnchor\" title=\"Free Ride\" href=\"https://www.sjasd.ca/pages/newsitem.aspx?ItemID=600\" tabindex=\"0\">Free Ride</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because element contains an image node"
+          ],
+          "box": {
+            "x": 206,
+            "y": 245.375,
+            "w": 100.984375,
+            "h": 32
+          }
+        },
+        {
+          "target": "#ctl00_SPWebPartManager1_g_aad00e0b_681f_48b5_94ff_0d42f7c1a6b3_ctl00_FeaturedRepeater_ctl01_summarySpan",
+          "html": "<span id=\"ctl00_SPWebPartManager1_g_aad00e0b_681f_48b5_94ff_0d42f7c1a6b3_ctl00_FeaturedRepeater_ctl01_summarySpan\" class=\"entry-summary-body\">Grade 6–12 students receive Youth Transit Passes between Sept. 8 to Oct. 2, 2026.</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it's partially obscured by another element"
+          ],
+          "box": {
+            "x": 206,
+            "y": 289.765625,
+            "w": 350,
+            "h": 44.78125
+          }
+        },
+        {
+          "target": "#ctl00_SPWebPartManager1_g_aad00e0b_681f_48b5_94ff_0d42f7c1a6b3_ctl00_FeaturedRepeater_ctl00_entryAnchor_clone",
+          "html": "<a id=\"ctl00_SPWebPartManager1_g_aad00e0b_681f_48b5_94ff_0d42f7c1a6b3_ctl00_FeaturedRepeater_ctl00_entryAnchor_clone\" title=\"Blurb from the Board\" href=\"https://www.sjasd.ca/pages/newsitem.aspx?ItemID=602\" tabindex=\"-1\">Blurb from the Board</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because element contains an image node"
+          ],
+          "box": {
+            "x": 1230,
+            "y": 245.375,
+            "w": 223.703125,
+            "h": 32
+          }
+        },
+        {
+          "target": "#ctl00_SPWebPartManager1_g_aad00e0b_681f_48b5_94ff_0d42f7c1a6b3_ctl00_FeaturedRepeater_ctl00_summarySpan_clone",
+          "html": "<span id=\"ctl00_SPWebPartManager1_g_aad00e0b_681f_48b5_94ff_0d42f7c1a6b3_ctl00_FeaturedRepeater_ctl00_summarySpan_clone\" class=\"entry-summary-body\">East Ward Trustees encourage community members to vote in school board elections next month. </span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because element contains an image node"
+          ],
+          "box": {
+            "x": 1230,
+            "y": 289.765625,
+            "w": 350,
+            "h": 67.171875
+          }
+        },
+        {
+          "target": ".sl-AnnouncementsImgSummary > .sl-WPHeader > h2 > a",
+          "html": "<a href=\"//www.sjasd.ca/Pages/newsarchive.aspx?ListID=883d0c8d-1c12-4334-9116-1de95f400699&amp;TemplateID=Announcement_Archive\">Division News</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 186,
+            "y": 583.375,
+            "w": 177.28125,
+            "h": 34
+          }
+        },
+        {
+          "target": ".sl-Item:nth-child(1) > a > .sl-Title",
+          "html": "<div class=\"sl-Title\">​  SJASD In-Person Regular School Board Meeting is October 13, 2026, at 7 p.m.</div>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 187,
+            "y": 648.375,
+            "w": 480,
+            "h": 35.1875
+          }
+        },
+        {
+          "target": ".sl-Item:nth-child(1) > a > .sl-Body",
+          "html": "<div class=\"sl-Body\">       Trustees will hold their next in-person public School Board Meeting on ​​October&nbsp;13, 2026, at...</div>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 187,
+            "y": 693.5625,
+            "w": 480,
+            "h": 38
+          }
+        },
+        {
+          "target": ".sl-Item:nth-child(2) > a > .sl-Title",
+          "html": "<div class=\"sl-Title\">School Board Elections</div>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 684,
+            "y": 648.375,
+            "w": 480,
+            "h": 17.59375
+          }
+        },
+        {
+          "target": ".sl-Item:nth-child(2) > a > .sl-Body",
+          "html": "<div class=\"sl-Body\">  ​ Every four years, School\nBoard elections are held on the fourth Wednesday in...</div>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 684,
+            "y": 675.96875,
+            "w": 480,
+            "h": 38
+          }
+        },
+        {
+          "target": ".sl-Item:nth-child(3) > a > .sl-Title",
+          "html": "<div class=\"sl-Title\">12-Month School Calendars Now Available</div>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 187,
+            "y": 788.96875,
+            "w": 480,
+            "h": 17.59375
+          }
+        },
+        {
+          "target": ".sl-Item:nth-child(3) > a > .sl-Body",
+          "html": "<div class=\"sl-Body\">  ​  ​ ​The SJASD 12-month School Year calendars are here! The calendar lists important...</div>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 187,
+            "y": 816.5625,
+            "w": 480,
+            "h": 38
+          }
+        },
+        {
+          "target": ".sl-Item:nth-child(4) > a > .sl-Title",
+          "html": "<div class=\"sl-Title\">Get the Latest Snapshot: Scholarship Foundation Annual Report 2025</div>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 684,
+            "y": 788.96875,
+            "w": 480,
+            "h": 35.1875
+          }
+        },
+        {
+          "target": ".sl-Item:nth-child(4) > a > .sl-Body",
+          "html": "<div class=\"sl-Body\">       Every year, the St. James Scholarship Foundation produces an Annual Report. The long-time registered&nbsp;charity...</div>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 684,
+            "y": 834.15625,
+            "w": 480,
+            "h": 57
+          }
+        },
+        {
+          "target": ".sl-FeaturedLinks.display:nth-child(1) > a[target=\"\"]",
+          "html": "<a href=\"https://www.sjasd.ca/Schools/StudentRegistration/Pages/default.aspx\" target=\"\">\n\t\tStudent Registration\n\t</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 214,
+            "y": 1574.5625,
+            "w": 240.640625,
+            "h": 22.390625
+          }
+        },
+        {
+          "target": ".sl-FeaturedLinks.display:nth-child(2) > a[target=\"\"]",
+          "html": "<a href=\"https://www.sjasd.ca/Parents/Transportation/Pages/default.aspx\" target=\"\">\n\t\tTransportation\n\t</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 524.640625,
+            "y": 1574.5625,
+            "w": 240.640625,
+            "h": 22.390625
+          }
+        },
+        {
+          "target": ".sl-FeaturedLinks.display:nth-child(3) > a[target=\"\"]",
+          "html": "<a href=\"https://www.sjasd.ca/Parents/RequestingTranscripts\" target=\"\">\n\t\tRequesting Transcripts\n\t</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 214,
+            "y": 1610.953125,
+            "w": 240.640625,
+            "h": 22.390625
+          }
+        },
+        {
+          "target": ".sl-FeaturedLinks.display:nth-child(4) > a[target=\"\"]",
+          "html": "<a href=\"https://www.sjasd.ca/Parents/Facilities/Pages/default.aspx\" target=\"\">\n\t\tFacilities/Permits\n\t</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 524.640625,
+            "y": 1610.953125,
+            "w": 240.640625,
+            "h": 22.390625
+          }
+        },
+        {
+          "target": ".sl-FeaturedLinks.display:nth-child(5) > a[target=\"\"]",
+          "html": "<a href=\"https://www.sjasd.ca/Governance/PolicyManual/Pages/default.aspx\" target=\"\">\n\t\tPolicy Manual\n\t</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 214,
+            "y": 1647.34375,
+            "w": 240.640625,
+            "h": 22.390625
+          }
+        },
+        {
+          "target": ".sl-FeaturedLinks.display:nth-child(6) > a[target=\"\"]",
+          "html": "<a href=\"https://www.sjasd.ca/AboutUs/NewsandMedia/Pages/default.aspx\" target=\"\">\n\t\tCONTACT E-Newsletter\n\t</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 524.640625,
+            "y": 1647.34375,
+            "w": 240.640625,
+            "h": 22.390625
+          }
+        },
+        {
+          "target": ".sl-FeaturedLinks.display:nth-child(7) > a[target=\"\"]",
+          "html": "<a href=\"https://www.sjasd.ca/Governance/Accessibilityplan/Pages/default.aspx\" target=\"\">\n\t\tAccessibility Plan \n\t</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 214,
+            "y": 1683.734375,
+            "w": 240.640625,
+            "h": 22.390625
+          }
+        },
+        {
+          "target": ".sl-FeaturedLinks.display:nth-child(8) > a[target=\"\"]",
+          "html": "<a href=\"https://www.sjasd.ca/Parents/communitybulletins\" target=\"\">\n\t\tCommunity Bulletin\n\t</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 524.640625,
+            "y": 1683.734375,
+            "w": 240.640625,
+            "h": 22.390625
+          }
+        },
+        {
+          "target": ".sl-ContactHeader > h2",
+          "html": "<h2>Contact Us</h2>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because element contains an image node"
+          ],
+          "box": {
+            "x": 186,
+            "y": 2252.5,
+            "w": 108.546875,
+            "h": 30.796875
+          }
+        },
+        {
+          "target": ".sl-ContactAddress",
+          "html": "<span class=\"sl-ContactAddress\">2574 Portage Avenue, \n                                        \n                                        Winnipeg, \n                                        MB, \n                                        R3J 0H8</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 186,
+            "y": 2298.296875,
+            "w": 579.828125,
+            "h": 22.390625
+          }
+        },
+        {
+          "target": ".sl-ContactPhone > label",
+          "html": "<label>Tel: </label>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 186,
+            "y": 2326.6875,
+            "w": 29,
+            "h": 19
+          }
+        },
+        {
+          "target": "a[href=\"tel:204-888-7951\"]",
+          "html": "<a href=\"tel:204-888-7951\">\n                                        204-888-7951</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 215,
+            "y": 2326.6875,
+            "w": 98.765625,
+            "h": 19
+          }
+        },
+        {
+          "target": ".sl-ContactFax",
+          "html": "<span class=\"sl-ContactFax\"><label>Fax: </label>204-831-0859</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 337.25,
+            "y": 2325.6875,
+            "w": 131.828125,
+            "h": 22.390625
+          }
+        },
+        {
+          "target": ".sl-ContactFax > label",
+          "html": "<label>Fax: </label>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 337.25,
+            "y": 2326.6875,
+            "w": 33.0625,
+            "h": 19
+          }
+        },
+        {
+          "target": ".sl-ContactHours",
+          "html": "<span class=\"sl-ContactHours\"><label class=\"block padded\">Office Hours: </label>Regular Hours: Mon. to Fri. 8:30 a.m.–4:30 p.m.</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 186,
+            "y": 2353.078125,
+            "w": 432.59375,
+            "h": 22.390625
+          }
+        },
+        {
+          "target": ".block",
+          "html": "<label class=\"block padded\">Office Hours: </label>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 186,
+            "y": 2354.078125,
+            "w": 96.375,
+            "h": 19
+          }
+        },
+        {
+          "target": ".sl-SearchTitle",
+          "html": "<h2 class=\"sl-SearchTitle\">Can't find what you are looking for?</h2>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because element contains an image node"
+          ],
+          "box": {
+            "x": 848.671875,
+            "y": 2252.5,
+            "w": 331.328125,
+            "h": 25.1875
+          }
+        }
       ]
     },
     {
       "id": "link-in-text-block",
       "impact": "serious",
       "help": "Links must be distinguishable without relying on color",
+      "description": "Ensure links are distinguished from surrounding text in a way that does not rely on color",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/link-in-text-block?application=playwright",
+      "tags": [
+        "cat.color",
+        "wcag2a",
+        "wcag141",
+        "TTv5",
+        "TT13.a",
+        "EN-301-549",
+        "EN-9.1.4.1",
+        "RGAAv4",
+        "RGAA-10.6.1"
+      ],
+      "wcag": [
+        "1.4.1"
+      ],
       "why": "Element's contrast ratio could not be determined because of element overlap",
       "nodes": 2,
       "sample": [
@@ -62,6 +606,36 @@
           "target": "a[href=\"tel:204-888-7951\"]",
           "html": "<a href=\"tel:204-888-7951\">\n                                        204-888-7951</a>"
         }
+      ],
+      "items": [
+        {
+          "target": ".SchoolDayContainer",
+          "html": "<a class=\"SchoolDayContainer\" href=\"//www.sjasd.ca/AboutUs/SchoolDayCalendar/\">\n\t<div class=\"Date\">Sep 18, 2026</div>\n\t<div class=\"noindex SchoolDay 3\">School Day <span class=\"day\">3</span></div>\n\t<div class=\"noindex noSchoolDay 3\">No School Today</div>\n</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's contrast ratio could not be determined because of element overlap"
+          ],
+          "box": {
+            "x": 1083.03125,
+            "y": 0,
+            "w": 111.96875,
+            "h": 35
+          }
+        },
+        {
+          "target": "a[href=\"tel:204-888-7951\"]",
+          "html": "<a href=\"tel:204-888-7951\">\n                                        204-888-7951</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's contrast ratio could not be determined because of element overlap"
+          ],
+          "box": {
+            "x": 215,
+            "y": 2326.6875,
+            "w": 98.765625,
+            "h": 19
+          }
+        }
       ]
     }
   ],
@@ -70,31 +644,327 @@
       "id": "color-contrast",
       "impact": "serious",
       "help": "Elements must meet minimum color contrast ratio thresholds",
-      "nodes": 1
+      "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/color-contrast?application=playwright",
+      "tags": [
+        "cat.color",
+        "wcag2aa",
+        "wcag143",
+        "TTv5",
+        "TT13.c",
+        "EN-301-549",
+        "EN-9.1.4.3",
+        "ACT",
+        "RGAAv4",
+        "RGAA-3.2.1"
+      ],
+      "wcag": [
+        "1.4.3"
+      ],
+      "nodes": 3,
+      "items": [
+        {
+          "target": "#ctl00_SPWebPartManager1_g_aad00e0b_681f_48b5_94ff_0d42f7c1a6b3_ctl00_FeaturedRepeater_ctl00_summaryButtonAnchor",
+          "html": "<a id=\"ctl00_SPWebPartManager1_g_aad00e0b_681f_48b5_94ff_0d42f7c1a6b3_ctl00_FeaturedRepeater_ctl00_summaryButtonAnchor\" class=\"sl-button entry-more-link\" title=\"Click to read the rest of this article\" href=\"https://www.sjasd.ca/pages/newsitem.aspx?ItemID=602\" tabindex=\"-1\">Read more</a>",
+          "impact": "serious",
+          "messages": [
+            "Element has insufficient color contrast of 1.22 (foreground color: #c8c277, background color: #a4acc7, font size: 12.0pt (16px), font weight: bold). Expected contrast ratio of 4.5:1"
+          ],
+          "box": {
+            "x": 7,
+            "y": 356.9375,
+            "w": 107.828125,
+            "h": 52.390625
+          }
+        },
+        {
+          "target": "#ctl00_SPWebPartManager1_g_aad00e0b_681f_48b5_94ff_0d42f7c1a6b3_ctl00_FeaturedRepeater_ctl00_summaryButtonAnchor_clone",
+          "html": "<a id=\"ctl00_SPWebPartManager1_g_aad00e0b_681f_48b5_94ff_0d42f7c1a6b3_ctl00_FeaturedRepeater_ctl00_summaryButtonAnchor_clone\" class=\"sl-button entry-more-link\" title=\"Click to read the rest of this article\" href=\"https://www.sjasd.ca/pages/newsitem.aspx?ItemID=602\" tabindex=\"-1\">Read more</a>",
+          "impact": "serious",
+          "messages": [
+            "Element has insufficient color contrast of 1.22 (foreground color: #c8c277, background color: #a4acc7, font size: 12.0pt (16px), font weight: bold). Expected contrast ratio of 4.5:1"
+          ],
+          "box": {
+            "x": 1215,
+            "y": 356.9375,
+            "w": 107.828125,
+            "h": 52.390625
+          }
+        },
+        {
+          "target": ".mailchimp_signup #mce-EMAIL",
+          "html": "<input type=\"email\" name=\"EMAIL\" class=\"required email\" id=\"mce-EMAIL\" required=\"\" value=\"\" placeholder=\"Your Email\" aria-required=\"true\" style=\"\">",
+          "impact": "serious",
+          "messages": [
+            "Element has insufficient color contrast of 2.84 (foreground color: #999999, background color: #ffffff, font size: 10.0pt (13.3333px), font weight: normal). Expected contrast ratio of 4.5:1"
+          ],
+          "box": null
+        }
+      ]
     },
     {
       "id": "frame-title",
       "impact": "serious",
       "help": "Frames must have an accessible name",
-      "nodes": 1
+      "description": "Ensure <iframe> and <frame> elements have an accessible name",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/frame-title?application=playwright",
+      "tags": [
+        "cat.text-alternatives",
+        "wcag2a",
+        "wcag412",
+        "section508",
+        "section508.22.i",
+        "TTv5",
+        "TT12.d",
+        "EN-301-549",
+        "EN-9.4.1.2",
+        "RGAAv4",
+        "RGAA-2.1.1"
+      ],
+      "wcag": [
+        "4.1.2"
+      ],
+      "nodes": 1,
+      "items": [
+        {
+          "target": ".mailchimp_signup",
+          "html": "<iframe src=\"/SiteAssets/mailchimp_signup.aspx\" width=\"100%\" class=\"mailchimp_signup\"></iframe>",
+          "impact": "serious",
+          "messages": [
+            "Element has no title attribute",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element's default semantics were not overridden with role=\"none\" or role=\"presentation\""
+          ],
+          "box": {
+            "x": 171,
+            "y": 1861.90625,
+            "w": 1024,
+            "h": 120
+          }
+        }
+      ]
     },
     {
       "id": "image-alt",
       "impact": "critical",
       "help": "Images must have alternative text",
-      "nodes": 1
+      "description": "Ensure <img> elements have alternative text or a role of none or presentation",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/image-alt?application=playwright",
+      "tags": [
+        "cat.text-alternatives",
+        "wcag2a",
+        "wcag111",
+        "section508",
+        "section508.22.a",
+        "TTv5",
+        "TT7.a",
+        "TT7.b",
+        "EN-301-549",
+        "EN-9.1.1.1",
+        "ACT",
+        "RGAAv4",
+        "RGAA-1.1.1"
+      ],
+      "wcag": [
+        "1.1.1"
+      ],
+      "nodes": 1,
+      "items": [
+        {
+          "target": ".centeredImg",
+          "html": "<img class=\"centeredImg\" src=\"/Style Library/Images/SchoolPhoto.jpg\">",
+          "impact": "critical",
+          "messages": [
+            "Element does not have an alt attribute",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element's default semantics were not overridden with role=\"none\" or role=\"presentation\""
+          ],
+          "box": {
+            "x": 683,
+            "y": 1876.390625,
+            "w": 683,
+            "h": 457.21875
+          }
+        }
+      ]
     },
     {
       "id": "link-name",
       "impact": "serious",
       "help": "Links must have discernible text",
-      "nodes": 6
+      "description": "Ensure links have discernible text",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/link-name?application=playwright",
+      "tags": [
+        "cat.name-role-value",
+        "wcag2a",
+        "wcag244",
+        "wcag412",
+        "section508",
+        "section508.22.a",
+        "TTv5",
+        "TT6.a",
+        "EN-301-549",
+        "EN-9.2.4.4",
+        "EN-9.4.1.2",
+        "ACT",
+        "RGAAv4",
+        "RGAA-6.2.1"
+      ],
+      "wcag": [
+        "2.4.4",
+        "4.1.2"
+      ],
+      "nodes": 6,
+      "items": [
+        {
+          "target": ".sl-SocialMedia.hidden-sm > .sl-facebook",
+          "html": "<a class=\"sl-facebook\" href=\"https://www.facebook.com/St.JamesAssiniboiaSchoolDivision/\"></a>",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": {
+            "x": 988.546875,
+            "y": 0,
+            "w": 25,
+            "h": 25
+          }
+        },
+        {
+          "target": ".sl-SocialMedia.hidden-sm > .sl-instagram",
+          "html": "<a class=\"sl-instagram\" href=\"https://www.instagram.com/st.james_assiniboiasd/?hl=en\"></a>",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": {
+            "x": 1013.546875,
+            "y": 0,
+            "w": 25,
+            "h": 25
+          }
+        },
+        {
+          "target": ".sl-SocialMedia.hidden-sm > .sl-youtube",
+          "html": "<a class=\"sl-youtube\" href=\"https://www.youtube.com/@st.jamesassiniboiaschooldi6509\"></a>",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": {
+            "x": 1038.546875,
+            "y": 0,
+            "w": 25,
+            "h": 25
+          }
+        },
+        {
+          "target": ".sl-ContactInfo > .sl-SocialMedia > .sl-facebook",
+          "html": "<a class=\"sl-facebook\" href=\"https://www.facebook.com/St.JamesAssiniboiaSchoolDivision/\"></a>",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": {
+            "x": 186,
+            "y": 2385.46875,
+            "w": 25,
+            "h": 25
+          }
+        },
+        {
+          "target": ".sl-ContactInfo > .sl-SocialMedia > .sl-instagram",
+          "html": "<a class=\"sl-instagram\" href=\"https://www.instagram.com/st.james_assiniboiasd/?hl=en\"></a>",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": {
+            "x": 216,
+            "y": 2385.46875,
+            "w": 25,
+            "h": 25
+          }
+        },
+        {
+          "target": ".sl-ContactInfo > .sl-SocialMedia > .sl-youtube",
+          "html": "<a class=\"sl-youtube\" href=\"https://www.youtube.com/@st.jamesassiniboiaschooldi6509\"></a>",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": {
+            "x": 246,
+            "y": 2385.46875,
+            "w": 25,
+            "h": 25
+          }
+        }
+      ]
     },
     {
       "id": "meta-viewport",
       "impact": "moderate",
       "help": "Zooming and scaling must not be disabled",
-      "nodes": 1
+      "description": "Ensure <meta name=\"viewport\"> does not disable text scaling and zooming",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/meta-viewport?application=playwright",
+      "tags": [
+        "cat.sensory-and-visual-cues",
+        "wcag2aa",
+        "wcag144",
+        "EN-301-549",
+        "EN-9.1.4.4",
+        "ACT",
+        "RGAAv4",
+        "RGAA-10.4.2"
+      ],
+      "wcag": [
+        "1.4.4"
+      ],
+      "nodes": 1,
+      "items": [
+        {
+          "target": "meta[name=\"viewport\"]",
+          "html": "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, maximum-scale=1.0\">",
+          "impact": "moderate",
+          "messages": [
+            "maximum-scale on <meta> tag disables zooming on mobile devices"
+          ],
+          "box": {
+            "x": 0,
+            "y": 0,
+            "w": 0,
+            "h": 0
+          }
+        }
+      ]
     }
   ],
   "verdict": "FAILURES DETECTED"

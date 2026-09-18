@@ -1,0 +1,1345 @@
+{
+  "url": "https://www.lrsd.net/",
+  "ok": true,
+  "status": 200,
+  "title": "Louis Riel School Division",
+  "finalUrl": "https://www.lrsd.net/",
+  "shape": {
+    "elements": 1397,
+    "images": 36,
+    "links": 278,
+    "buttons": 16,
+    "inputs": 11,
+    "headings": 20,
+    "textLength": 8679,
+    "lang": "en",
+    "iframes": 1
+  },
+  "viewport": {
+    "width": 1366,
+    "height": 900
+  },
+  "scannedAt": "2026-09-18T04:59:24.663Z",
+  "axe": {
+    "violationRules": 5,
+    "violationNodes": 56,
+    "passRules": 27,
+    "passNodes": 1051,
+    "incompleteRules": 3,
+    "incompleteNodes": 6,
+    "inapplicableRules": 34,
+    "testedNodes": 1113
+  },
+  "incomplete": [
+    {
+      "id": "color-contrast",
+      "impact": "serious",
+      "help": "Elements must meet minimum color contrast ratio thresholds",
+      "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/color-contrast?application=playwright",
+      "tags": [
+        "cat.color",
+        "wcag2aa",
+        "wcag143",
+        "TTv5",
+        "TT13.c",
+        "EN-301-549",
+        "EN-9.1.4.3",
+        "ACT",
+        "RGAAv4",
+        "RGAA-3.2.1"
+      ],
+      "wcag": [
+        "1.4.3"
+      ],
+      "why": "Element's background color could not be determined due to a pseudo element",
+      "nodes": 2,
+      "sample": [
+        {
+          "target": ".number-slide1.keen-slider__slide.absolute:nth-child(2) > .bottom-\\[80px\\].z-10.xl\\:flex > .mb-\\[20px\\] > .text-4xl.font-bold",
+          "html": "<a href=\"/welcome-back-to-school-message-from-superintendent-connell.91019\" class=\"text-4xl font-bold\">Welcome back to school message from Superintendent Connell</a>"
+        },
+        {
+          "target": ".number-slide1.keen-slider__slide.absolute:nth-child(2) > .bottom-\\[80px\\].z-10.xl\\:flex > .line-clamp-2",
+          "html": "<p class=\" line-clamp-2\">Welcome back to school message from Superintendent Connell Welcome to a new school year. There is something truly special about the beginning of September that I have always l"
+        }
+      ],
+      "items": [
+        {
+          "target": ".number-slide1.keen-slider__slide.absolute:nth-child(2) > .bottom-\\[80px\\].z-10.xl\\:flex > .mb-\\[20px\\] > .text-4xl.font-bold",
+          "html": "<a href=\"/welcome-back-to-school-message-from-superintendent-connell.91019\" class=\"text-4xl font-bold\">Welcome back to school message from Superintendent Connell</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 30,
+            "y": 642,
+            "w": 1131.734375,
+            "h": 49
+          }
+        },
+        {
+          "target": ".number-slide1.keen-slider__slide.absolute:nth-child(2) > .bottom-\\[80px\\].z-10.xl\\:flex > .line-clamp-2",
+          "html": "<p class=\" line-clamp-2\">Welcome back to school message from Superintendent Connell Welcome to a new school year. There is something truly special about the beginning of September that I have always loved. Schools come back...</p>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 30,
+            "y": 707,
+            "w": 1306,
+            "h": 48
+          }
+        }
+      ]
+    },
+    {
+      "id": "form-field-multiple-labels",
+      "impact": "moderate",
+      "help": "Form field must not have multiple label elements",
+      "description": "Ensure form field does not have multiple label elements",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/form-field-multiple-labels?application=playwright",
+      "tags": [
+        "cat.forms",
+        "wcag2a",
+        "wcag332",
+        "TTv5",
+        "TT5.c",
+        "EN-301-549",
+        "EN-9.3.3.2",
+        "RGAAv4",
+        "RGAA-11.2.1"
+      ],
+      "wcag": [
+        "3.3.2"
+      ],
+      "why": "",
+      "nodes": 1,
+      "sample": [
+        {
+          "target": "#hamburger-input",
+          "html": "<input type=\"checkbox\" id=\"hamburger-input\" style=\"\">"
+        }
+      ],
+      "items": [
+        {
+          "target": "#hamburger-input",
+          "html": "<input type=\"checkbox\" id=\"hamburger-input\" style=\"\">",
+          "impact": "moderate",
+          "messages": [
+            "Multiple label elements is not widely supported in assistive technologies. Ensure the first label contains all necessary information."
+          ],
+          "box": {
+            "x": 41,
+            "y": 110,
+            "w": 30,
+            "h": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": "link-in-text-block",
+      "impact": "serious",
+      "help": "Links must be distinguishable without relying on color",
+      "description": "Ensure links are distinguished from surrounding text in a way that does not rely on color",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/link-in-text-block?application=playwright",
+      "tags": [
+        "cat.color",
+        "wcag2a",
+        "wcag141",
+        "TTv5",
+        "TT13.a",
+        "EN-301-549",
+        "EN-9.1.4.1",
+        "RGAAv4",
+        "RGAA-10.6.1"
+      ],
+      "wcag": [
+        "1.4.1"
+      ],
+      "why": "Element's contrast ratio could not be determined because of element overlap",
+      "nodes": 3,
+      "sample": [
+        {
+          "target": "a[href=\"/lrsd-2034.51440\"][target=\"_self\"][aria-label=\"Read More\"]",
+          "html": "<a class=\"text-base text-black hover:text-t-pb\" href=\"/lrsd-2034.51440\" target=\"_self\" aria-label=\"Read More\"> <span class=\"text-[20px] font-bold\">Read More</span> <span class=\"icon-angle-right\"></spa"
+        },
+        {
+          "target": ".min-w-0.break-words.bg-\\[rgb\\(255\\,_255\\,_255\\)\\]:nth-child(2) > .pt-\\[12px\\].pb-\\[30px\\].px-\\[15px\\] > .hover\\:text-t-pb[target=\"_self\"][aria-label=\"Read More\"]",
+          "html": "<a class=\"text-base text-black hover:text-t-pb\" href=\"/multi-year-strategic-plan-2023-2027\" target=\"_self\" aria-label=\"Read More\"> <span class=\"text-[20px] font-bold\">Read More</span> <span class=\"ico"
+        },
+        {
+          "target": ".min-w-0.break-words.bg-\\[rgb\\(255\\,_255\\,_255\\)\\]:nth-child(3) > .pt-\\[12px\\].pb-\\[30px\\].px-\\[15px\\] > .hover\\:text-t-pb[target=\"_self\"][aria-label=\"Read More\"]",
+          "html": "<a class=\"text-base text-black hover:text-t-pb\" href=\"/introducing-the-improved-lrsd-annual-school-building-review-dashboard.85582\" target=\"_self\" aria-label=\"Read More\"> <span class=\"text-[20px] font"
+        }
+      ],
+      "items": [
+        {
+          "target": "a[href=\"/lrsd-2034.51440\"][target=\"_self\"][aria-label=\"Read More\"]",
+          "html": "<a class=\"text-base text-black hover:text-t-pb\" href=\"/lrsd-2034.51440\" target=\"_self\" aria-label=\"Read More\"> <span class=\"text-[20px] font-bold\">Read More</span> <span class=\"icon-angle-right\"></span> </a>",
+          "impact": "serious",
+          "messages": [
+            "Element's contrast ratio could not be determined because of element overlap"
+          ],
+          "box": {
+            "x": 45,
+            "y": 1337.125,
+            "w": 106.703125,
+            "h": 22
+          }
+        },
+        {
+          "target": ".min-w-0.break-words.bg-\\[rgb\\(255\\,_255\\,_255\\)\\]:nth-child(2) > .pt-\\[12px\\].pb-\\[30px\\].px-\\[15px\\] > .hover\\:text-t-pb[target=\"_self\"][aria-label=\"Read More\"]",
+          "html": "<a class=\"text-base text-black hover:text-t-pb\" href=\"/multi-year-strategic-plan-2023-2027\" target=\"_self\" aria-label=\"Read More\"> <span class=\"text-[20px] font-bold\">Read More</span> <span class=\"icon-angle-right\"></span> </a>",
+          "impact": "serious",
+          "messages": [
+            "Element's contrast ratio could not be determined because of element overlap"
+          ],
+          "box": {
+            "x": 491,
+            "y": 1381,
+            "w": 106.703125,
+            "h": 22
+          }
+        },
+        {
+          "target": ".min-w-0.break-words.bg-\\[rgb\\(255\\,_255\\,_255\\)\\]:nth-child(3) > .pt-\\[12px\\].pb-\\[30px\\].px-\\[15px\\] > .hover\\:text-t-pb[target=\"_self\"][aria-label=\"Read More\"]",
+          "html": "<a class=\"text-base text-black hover:text-t-pb\" href=\"/introducing-the-improved-lrsd-annual-school-building-review-dashboard.85582\" target=\"_self\" aria-label=\"Read More\"> <span class=\"text-[20px] font-bold\">Read More</span> <span class=\"icon-angle-right\"></span> </a>",
+          "impact": "serious",
+          "messages": [
+            "Element's contrast ratio could not be determined because of element overlap"
+          ],
+          "box": {
+            "x": 937,
+            "y": 1379.125,
+            "w": 106.703125,
+            "h": 22
+          }
+        }
+      ]
+    }
+  ],
+  "violations": [
+    {
+      "id": "color-contrast",
+      "impact": "serious",
+      "help": "Elements must meet minimum color contrast ratio thresholds",
+      "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/color-contrast?application=playwright",
+      "tags": [
+        "cat.color",
+        "wcag2aa",
+        "wcag143",
+        "TTv5",
+        "TT13.c",
+        "EN-301-549",
+        "EN-9.1.4.3",
+        "ACT",
+        "RGAAv4",
+        "RGAA-3.2.1"
+      ],
+      "wcag": [
+        "1.4.3"
+      ],
+      "nodes": 2,
+      "items": [
+        {
+          "target": ".w-\\[140px\\] > .flex-1[type=\"search\"][placeholder=\"search\"]",
+          "html": "<input class=\"flex-1 w-full\" type=\"search\" placeholder=\"search\" title=\"Search\" style=\"\">",
+          "impact": "serious",
+          "messages": [
+            "Element has insufficient color contrast of 2.43 (foreground color: #a6a6a6, background color: #ffffff, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1"
+          ],
+          "box": {
+            "x": 1127.875,
+            "y": 17.5,
+            "w": 104,
+            "h": 24
+          }
+        },
+        {
+          "target": ".schoolday",
+          "html": "<span class=\"text-lgrey-2 schoolday\">Today is School Day 3</span>",
+          "impact": "serious",
+          "messages": [
+            "Element has insufficient color contrast of 2.43 (foreground color: #a6a6a6, background color: #ffffff, font size: 25.5pt (34px), font weight: normal). Expected contrast ratio of 3:1"
+          ],
+          "box": {
+            "x": 355.640625,
+            "y": 1560,
+            "w": 341.4375,
+            "h": 51
+          }
+        }
+      ]
+    },
+    {
+      "id": "label",
+      "impact": "critical",
+      "help": "Form elements must have labels",
+      "description": "Ensure every form element has a label",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/label?application=playwright",
+      "tags": [
+        "cat.forms",
+        "wcag2a",
+        "wcag412",
+        "section508",
+        "section508.22.n",
+        "TTv5",
+        "TT5.c",
+        "EN-301-549",
+        "EN-9.4.1.2",
+        "ACT",
+        "RGAAv4",
+        "RGAA-11.1.1"
+      ],
+      "wcag": [
+        "4.1.2"
+      ],
+      "nodes": 6,
+      "items": [
+        {
+          "target": "#upcoming-p0 > .upcoming-btn > input[type=\"checkbox\"]",
+          "html": "<input type=\"checkbox\" style=\"\">",
+          "impact": "critical",
+          "messages": [
+            "Element does not have an implicit (wrapped) <label>",
+            "Element does not have an explicit <label>",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element has no placeholder attribute",
+            "Element's default semantics were not overridden with role=\"none\" or role=\"presentation\""
+          ],
+          "box": {
+            "x": 0,
+            "y": 2553.140625,
+            "w": 30,
+            "h": 4
+          }
+        },
+        {
+          "target": "#upcoming-p1 > .upcoming-btn > input[type=\"checkbox\"]",
+          "html": "<input type=\"checkbox\" style=\"\">",
+          "impact": "critical",
+          "messages": [
+            "Element does not have an implicit (wrapped) <label>",
+            "Element does not have an explicit <label>",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element has no placeholder attribute",
+            "Element's default semantics were not overridden with role=\"none\" or role=\"presentation\""
+          ],
+          "box": {
+            "x": 0,
+            "y": 2577.140625,
+            "w": 30,
+            "h": 4
+          }
+        },
+        {
+          "target": "#upcoming-p2 > .upcoming-btn > input[type=\"checkbox\"]",
+          "html": "<input type=\"checkbox\" style=\"\">",
+          "impact": "critical",
+          "messages": [
+            "Element does not have an implicit (wrapped) <label>",
+            "Element does not have an explicit <label>",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element has no placeholder attribute",
+            "Element's default semantics were not overridden with role=\"none\" or role=\"presentation\""
+          ],
+          "box": {
+            "x": 0,
+            "y": 2601.140625,
+            "w": 30,
+            "h": 4
+          }
+        },
+        {
+          "target": "#upcoming-p3 > .upcoming-btn > input[type=\"checkbox\"]",
+          "html": "<input type=\"checkbox\" style=\"\">",
+          "impact": "critical",
+          "messages": [
+            "Element does not have an implicit (wrapped) <label>",
+            "Element does not have an explicit <label>",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element has no placeholder attribute",
+            "Element's default semantics were not overridden with role=\"none\" or role=\"presentation\""
+          ],
+          "box": {
+            "x": 0,
+            "y": 2625.140625,
+            "w": 30,
+            "h": 4
+          }
+        },
+        {
+          "target": "#upcoming-p4 > .upcoming-btn > input[type=\"checkbox\"]",
+          "html": "<input type=\"checkbox\" style=\"\">",
+          "impact": "critical",
+          "messages": [
+            "Element does not have an implicit (wrapped) <label>",
+            "Element does not have an explicit <label>",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element has no placeholder attribute",
+            "Element's default semantics were not overridden with role=\"none\" or role=\"presentation\""
+          ],
+          "box": {
+            "x": 0,
+            "y": 2649.140625,
+            "w": 30,
+            "h": 4
+          }
+        },
+        {
+          "target": "#upcoming-p5 > .upcoming-btn > input[type=\"checkbox\"]",
+          "html": "<input type=\"checkbox\" style=\"\">",
+          "impact": "critical",
+          "messages": [
+            "Element does not have an implicit (wrapped) <label>",
+            "Element does not have an explicit <label>",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element has no placeholder attribute",
+            "Element's default semantics were not overridden with role=\"none\" or role=\"presentation\""
+          ],
+          "box": {
+            "x": 0,
+            "y": 2673.140625,
+            "w": 30,
+            "h": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": "link-name",
+      "impact": "serious",
+      "help": "Links must have discernible text",
+      "description": "Ensure links have discernible text",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/link-name?application=playwright",
+      "tags": [
+        "cat.name-role-value",
+        "wcag2a",
+        "wcag244",
+        "wcag412",
+        "section508",
+        "section508.22.a",
+        "TTv5",
+        "TT6.a",
+        "EN-301-549",
+        "EN-9.2.4.4",
+        "EN-9.4.1.2",
+        "ACT",
+        "RGAAv4",
+        "RGAA-6.2.1"
+      ],
+      "wcag": [
+        "2.4.4",
+        "4.1.2"
+      ],
+      "nodes": 38,
+      "items": [
+        {
+          "target": ".text-\\[26px\\] > .justify-center.items-center.flex > .overflow-hidden.relative[href=\"javascript:\"]",
+          "html": "<a class=\"relative overflow-hidden\" href=\"javascript:\">",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": {
+            "x": 897.15625,
+            "y": 10,
+            "w": 26,
+            "h": 39
+          }
+        },
+        {
+          "target": ".justify-center.items-center.flex:nth-child(1) > a[target=\"_blank\"]",
+          "html": "<a href=\"http://www.facebook.com/LouisRielSchoolDivision\" target=\"_blank\"> <span class=\"icon-facebook\"></span> </a>",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": {
+            "x": 935.15625,
+            "y": 13,
+            "w": 22,
+            "h": 33
+          }
+        },
+        {
+          "target": ".justify-center.items-center.flex:nth-child(2) > a[target=\"_blank\"]",
+          "html": "<a href=\"https://www.instagram.com/louisrielsd/\" target=\"_blank\"> <span class=\"icon-instagram\"></span> </a>",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": {
+            "x": 969.15625,
+            "y": 13,
+            "w": 22,
+            "h": 33
+          }
+        },
+        {
+          "target": ".justify-center.items-center.flex:nth-child(3) > a[target=\"_blank\"]",
+          "html": "<a href=\"https://www.linkedin.com/company/louis-riel-school-division/\" target=\"_blank\"> <span class=\"icon-linkedin\"></span> </a>",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": {
+            "x": 1003.15625,
+            "y": 13,
+            "w": 22,
+            "h": 33
+          }
+        },
+        {
+          "target": ".justify-center.items-center.flex:nth-child(4) > a[target=\"_blank\"]",
+          "html": "<a href=\"https://www.youtube.com/channel/UCR9bZ768WeK4-Cvx6mKQEsg/videos\" target=\"_blank\"> <span class=\"icon-youtube\"></span> </a>",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": {
+            "x": 1037.15625,
+            "y": 13,
+            "w": 22,
+            "h": 33
+          }
+        },
+        {
+          "target": ".justify-center.items-center.flex:nth-child(5) > a[target=\"_blank\"]",
+          "html": "<a href=\"https://bsky.app/profile/louisrielsd.bsky.social\" target=\"_blank\"> <span class=\"icon-bluesky\"></span> </a>",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": {
+            "x": 1071.15625,
+            "y": 13,
+            "w": 24.71875,
+            "h": 33
+          }
+        },
+        {
+          "target": ".border-b > a[href=\"/\"]",
+          "html": "<a href=\"/\"> <span class=\"text-[60px] icon-logo1\"></span> </a>",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": {
+            "x": -231,
+            "y": 0,
+            "w": 60,
+            "h": 63
+          }
+        },
+        {
+          "target": "a[data-id=\"26539\"]",
+          "html": "<a href=\"javascript:\" class=\"sub-trigger\" data-id=\"26539\">            \n            <span class=\"icon-arrow-right\"></span>\t            \t            \n        </a>",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": {
+            "x": -43.46875,
+            "y": 203,
+            "w": 27.46875,
+            "h": 48
+          }
+        },
+        {
+          "target": "a[data-id=\"64603\"]",
+          "html": "<a href=\"javascript:\" class=\"sub-trigger\" data-id=\"64603\">            \n            <span class=\"icon-arrow-right\"></span>\t            \t            \n        </a>",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": {
+            "x": -43.46875,
+            "y": 291,
+            "w": 27.46875,
+            "h": 48
+          }
+        },
+        {
+          "target": "a[data-id=\"64606\"]",
+          "html": "<a href=\"javascript:\" class=\"sub-trigger\" data-id=\"64606\">            \n            <span class=\"icon-arrow-right\"></span>\t            \t            \n        </a>",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": {
+            "x": -43.46875,
+            "y": 365,
+            "w": 27.46875,
+            "h": 48
+          }
+        },
+        {
+          "target": "a[data-id=\"64609\"]",
+          "html": "<a href=\"javascript:\" class=\"sub-trigger\" data-id=\"64609\">            \n            <span class=\"icon-arrow-right\"></span>\t            \t            \n        </a>",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": {
+            "x": -43.46875,
+            "y": 439,
+            "w": 27.46875,
+            "h": 48
+          }
+        },
+        {
+          "target": "a[data-id=\"64610\"]",
+          "html": "<a href=\"javascript:\" class=\"sub-trigger\" data-id=\"64610\">            \n            <span class=\"icon-arrow-right\"></span>\t            \t            \n        </a>",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": {
+            "x": -43.46875,
+            "y": 527,
+            "w": 27.46875,
+            "h": 48
+          }
+        },
+        {
+          "target": "a[data-id=\"1355\"]",
+          "html": "<a href=\"javascript:\" class=\"sub-trigger\" data-id=\"1355\">            \n            <span class=\"icon-arrow-right\"></span>\t            \t            \n        </a>",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": {
+            "x": -43.46875,
+            "y": 337,
+            "w": 27.46875,
+            "h": 48
+          }
+        },
+        {
+          "target": "a[data-id=\"1358\"]",
+          "html": "<a href=\"javascript:\" class=\"sub-trigger\" data-id=\"1358\">            \n            <span class=\"icon-arrow-right\"></span>\t            \t            \n        </a>",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": {
+            "x": -43.46875,
+            "y": 665,
+            "w": 27.46875,
+            "h": 48
+          }
+        },
+        {
+          "target": "a[data-id=\"1390\"]",
+          "html": "<a href=\"javascript:\" class=\"sub-trigger\" data-id=\"1390\">            \n            <span class=\"icon-arrow-right\"></span>\t            \t            \n        </a>",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": {
+            "x": -43.46875,
+            "y": 397,
+            "w": 27.46875,
+            "h": 48
+          }
+        },
+        {
+          "target": "a[data-id=\"1392\"]",
+          "html": "<a href=\"javascript:\" class=\"sub-trigger\" data-id=\"1392\">            \n            <span class=\"icon-arrow-right\"></span>\t            \t            \n        </a>",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": {
+            "x": -43.46875,
+            "y": 457,
+            "w": 27.46875,
+            "h": 48
+          }
+        },
+        {
+          "target": "a[data-id=\"1394\"]",
+          "html": "<a href=\"javascript:\" class=\"sub-trigger\" data-id=\"1394\">            \n            <span class=\"icon-arrow-right\"></span>\t            \t            \n        </a>",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": {
+            "x": -43.46875,
+            "y": 577,
+            "w": 27.46875,
+            "h": 48
+          }
+        },
+        {
+          "target": "a[data-id=\"12632\"]",
+          "html": "<a href=\"javascript:\" class=\"sub-trigger\" data-id=\"12632\">            \n            <span class=\"icon-arrow-right\"></span>\t            \t            \n        </a>",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": {
+            "x": -43.46875,
+            "y": 457,
+            "w": 27.46875,
+            "h": 48
+          }
+        },
+        {
+          "target": "a[data-id=\"56461\"]",
+          "html": "<a href=\"javascript:\" class=\"sub-trigger\" data-id=\"56461\">            \n            <span class=\"icon-arrow-right\"></span>\t            \t            \n        </a>",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": {
+            "x": -43.46875,
+            "y": 665,
+            "w": 27.46875,
+            "h": 48
+          }
+        },
+        {
+          "target": "a[data-id=\"1372\"]",
+          "html": "<a href=\"javascript:\" class=\"sub-trigger\" data-id=\"1372\">            \n            <span class=\"icon-arrow-right\"></span>\t            \t            \n        </a>",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": {
+            "x": -43.46875,
+            "y": 905,
+            "w": 27.46875,
+            "h": 48
+          }
+        },
+        {
+          "target": "a[data-id=\"1411\"]",
+          "html": "<a href=\"javascript:\" class=\"sub-trigger\" data-id=\"1411\">            \n            <span class=\"icon-arrow-right\"></span>\t            \t            \n        </a>",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": {
+            "x": -43.46875,
+            "y": 517,
+            "w": 27.46875,
+            "h": 48
+          }
+        },
+        {
+          "target": "a[data-id=\"1451\"]",
+          "html": "<a href=\"javascript:\" class=\"sub-trigger\" data-id=\"1451\">            \n            <span class=\"icon-arrow-right\"></span>\t            \t            \n        </a>",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": {
+            "x": -43.46875,
+            "y": 619,
+            "w": 27.46875,
+            "h": 48
+          }
+        },
+        {
+          "target": "a[data-id=\"40517\"]",
+          "html": "<a href=\"javascript:\" class=\"sub-trigger\" data-id=\"40517\">            \n            <span class=\"icon-arrow-right\"></span>\t            \t            \n        </a>",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": {
+            "x": -43.46875,
+            "y": 721,
+            "w": 27.46875,
+            "h": 48
+          }
+        },
+        {
+          "target": "a[data-id=\"1421\"]",
+          "html": "<a href=\"javascript:\" class=\"sub-trigger\" data-id=\"1421\">            \n            <span class=\"icon-arrow-right\"></span>\t            \t            \n        </a>",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": {
+            "x": -43.46875,
+            "y": 841,
+            "w": 27.46875,
+            "h": 48
+          }
+        },
+        {
+          "target": "a[data-id=\"34539\"]",
+          "html": "<a href=\"javascript:\" class=\"sub-trigger\" data-id=\"34539\">            \n            <span class=\"icon-arrow-right\"></span>\t            \t            \n        </a>",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": {
+            "x": -43.46875,
+            "y": 577,
+            "w": 27.46875,
+            "h": 48
+          }
+        },
+        {
+          "target": "a[data-id=\"62348\"]",
+          "html": "<a href=\"javascript:\" class=\"sub-trigger\" data-id=\"62348\">            \n            <span class=\"icon-arrow-right\"></span>\t            \t            \n        </a>",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": {
+            "x": -43.46875,
+            "y": 637,
+            "w": 27.46875,
+            "h": 48
+          }
+        },
+        {
+          "target": "a[data-id=\"1480\"]",
+          "html": "<a href=\"javascript:\" class=\"sub-trigger\" data-id=\"1480\">            \n            <span class=\"icon-arrow-right\"></span>\t            \t            \n        </a>",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": {
+            "x": -43.46875,
+            "y": 873,
+            "w": 27.46875,
+            "h": 48
+          }
+        },
+        {
+          "target": "a[data-id=\"1494\"]",
+          "html": "<a href=\"javascript:\" class=\"sub-trigger\" data-id=\"1494\">            \n            <span class=\"icon-arrow-right\"></span>\t            \t            \n        </a>",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": {
+            "x": -43.46875,
+            "y": 1113,
+            "w": 27.46875,
+            "h": 48
+          }
+        },
+        {
+          "target": "a[data-id=\"1478\"]",
+          "html": "<a href=\"javascript:\" class=\"sub-trigger\" data-id=\"1478\">            \n            <span class=\"icon-arrow-right\"></span>\t            \t            \n        </a>",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": {
+            "x": -43.46875,
+            "y": 1861,
+            "w": 27.46875,
+            "h": 48
+          }
+        },
+        {
+          "target": "a[data-id=\"5117\"]",
+          "html": "<a href=\"javascript:\" class=\"sub-trigger\" data-id=\"5117\">            \n            <span class=\"icon-arrow-right\"></span>\t            \t            \n        </a>",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": {
+            "x": -43.46875,
+            "y": 711,
+            "w": 27.46875,
+            "h": 48
+          }
+        },
+        {
+          "target": ".flex-row.text-\\[22px\\].text-lgrey-2 > a[target=\"_blank\"]:nth-child(1)",
+          "html": "<a href=\"http://www.facebook.com/LouisRielSchoolDivision\" target=\"_blank\"> <span class=\"icon-facebook\"></span> </a>",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": {
+            "x": -371,
+            "y": 855,
+            "w": 22,
+            "h": 28
+          }
+        },
+        {
+          "target": ".flex-row.text-\\[22px\\].text-lgrey-2 > a[target=\"_blank\"]:nth-child(2)",
+          "html": "<a href=\"https://www.instagram.com/louisrielsd/\" target=\"_blank\"> <span class=\"icon-instagram\"></span> </a>",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": {
+            "x": -329,
+            "y": 855,
+            "w": 22,
+            "h": 28
+          }
+        },
+        {
+          "target": ".flex-row.text-\\[22px\\].text-lgrey-2 > a[target=\"_blank\"]:nth-child(3)",
+          "html": "<a href=\"https://www.linkedin.com/company/louis-riel-school-division/\" target=\"_blank\"> <span class=\"icon-linkedin\"></span> </a>",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": {
+            "x": -287,
+            "y": 855,
+            "w": 22,
+            "h": 28
+          }
+        },
+        {
+          "target": ".flex-row.text-\\[22px\\].text-lgrey-2 > a[target=\"_blank\"]:nth-child(4)",
+          "html": "<a href=\"https://www.youtube.com/channel/UCR9bZ768WeK4-Cvx6mKQEsg/videos\" target=\"_blank\"> <span class=\"icon-youtube\"></span> </a>",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": {
+            "x": -245,
+            "y": 855,
+            "w": 22,
+            "h": 28
+          }
+        },
+        {
+          "target": "a[target=\"_blank\"]:nth-child(5)",
+          "html": "<a href=\"https://bsky.app/profile/louisrielsd.bsky.social\" target=\"_blank\"> <span class=\"icon-bluesky\"></span> </a>",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": {
+            "x": -203,
+            "y": 855,
+            "w": 24.71875,
+            "h": 28
+          }
+        },
+        {
+          "target": "#spotlight-prev",
+          "html": "<a id=\"spotlight-prev\" href=\"javascript:\" class=\"prev bg-[#212121] rounded-full w-[50px] h-[50px] xl:w-[71px] xl:h-[71px] opacity-80 flex items-center justify-center\"> <span class=\"icon-chevron-thin-left text-[30px] xl:text-[50px] text-[#fff]\"></span> </a>",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": {
+            "x": 259.546875,
+            "y": 464.5,
+            "w": 71,
+            "h": 71
+          }
+        },
+        {
+          "target": "#spotlight-next",
+          "html": "<a id=\"spotlight-next\" href=\"javascript:\" class=\"next bg-[#212121] rounded-full w-[50px] h-[50px] xl:w-[71px] xl:h-[71px] opacity-80 flex items-center justify-center\"> <span class=\"icon-chevron-thin-right text-[30px] xl:text-[50px] text-[#fff]\"></span> </a>",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": {
+            "x": 1035.453125,
+            "y": 464.5,
+            "w": 71,
+            "h": 71
+          }
+        },
+        {
+          "target": ".bottom-\\[10px\\]",
+          "html": "<a href=\"javascript:scrollToTop()\" class=\"fixed bottom-[10px] right-[18px] h-[40px] w-[40px] z-[99999] bg-[#444] rounded-[4px] flex items-center justify-center hidden-print\"> <span class=\"icon-arrow-right\" style=\"color: #fff;transform: rotate(-90deg);\"></span> </a>",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": {
+            "x": 1308,
+            "y": 850,
+            "w": 40,
+            "h": 40
+          }
+        }
+      ]
+    },
+    {
+      "id": "select-name",
+      "impact": "critical",
+      "help": "Select element must have an accessible name",
+      "description": "Ensure select element has an accessible name",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/select-name?application=playwright",
+      "tags": [
+        "cat.forms",
+        "wcag2a",
+        "wcag412",
+        "section508",
+        "section508.22.n",
+        "TTv5",
+        "TT5.c",
+        "EN-301-549",
+        "EN-9.4.1.2",
+        "ACT",
+        "RGAAv4",
+        "RGAA-11.1.1"
+      ],
+      "wcag": [
+        "4.1.2"
+      ],
+      "nodes": 2,
+      "items": [
+        {
+          "target": "#translate",
+          "html": "<select id=\"translate\" class=\"text-[#444] text-base top-0 left-0 cursor-pointer absolute w-full border-0 opacity-0\" style=\"appearance: none;padding: 0 10px 10px 10px;\">",
+          "impact": "critical",
+          "messages": [
+            "Element does not have an implicit (wrapped) <label>",
+            "Element does not have an explicit <label>",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element's default semantics were not overridden with role=\"none\" or role=\"presentation\""
+          ],
+          "box": {
+            "x": 897.15625,
+            "y": 10,
+            "w": 26,
+            "h": 34
+          }
+        },
+        {
+          "target": "#headerLogin",
+          "html": "<select id=\"headerLogin\" class=\"text-[#444] text-base top-0 left-0 cursor-pointer absolute w-full border-0 opacity-0\" style=\"appearance: none;padding: 0 10px 10px 10px;\">",
+          "impact": "critical",
+          "messages": [
+            "Element does not have an implicit (wrapped) <label>",
+            "Element does not have an explicit <label>",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element's default semantics were not overridden with role=\"none\" or role=\"presentation\""
+          ],
+          "box": {
+            "x": 1283.875,
+            "y": 17.5,
+            "w": 52.125,
+            "h": 34
+          }
+        }
+      ]
+    },
+    {
+      "id": "target-size",
+      "impact": "serious",
+      "help": "All touch targets must be 24px large, or leave sufficient space",
+      "description": "Ensure touch targets have sufficient size and space",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/target-size?application=playwright",
+      "tags": [
+        "cat.sensory-and-visual-cues",
+        "wcag22aa",
+        "wcag258"
+      ],
+      "wcag": [
+        "2.5.8"
+      ],
+      "nodes": 8,
+      "items": [
+        {
+          "target": ".w-\\[140px\\] > button[type=\"submit\"][aria-label=\"search-button\"][title=\"Search\"]",
+          "html": "<button type=\"submit\" title=\"Search\" aria-label=\"search-button\">",
+          "impact": "serious",
+          "messages": [
+            "Target has insufficient size (20px by 20px, should be at least 24px by 24px)",
+            "Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 20px instead of at least 24px."
+          ],
+          "box": {
+            "x": 1231.875,
+            "y": 19.5,
+            "w": 20,
+            "h": 20
+          }
+        },
+        {
+          "target": "li:nth-child(1) > button",
+          "html": "<button class=\"\">1</button>",
+          "impact": "serious",
+          "messages": [
+            "Target has insufficient size (12px by 12px, should be at least 24px by 24px)",
+            "Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 20px instead of at least 24px."
+          ],
+          "box": {
+            "x": 611,
+            "y": 777,
+            "w": 12,
+            "h": 12
+          }
+        },
+        {
+          "target": ".dot--active",
+          "html": "<button class=\"dot--active\">1</button>",
+          "impact": "serious",
+          "messages": [
+            "Target has insufficient size (12px by 12px, should be at least 24px by 24px)",
+            "Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 20px instead of at least 24px."
+          ],
+          "box": {
+            "x": 633,
+            "y": 777,
+            "w": 12,
+            "h": 12
+          }
+        },
+        {
+          "target": "li:nth-child(3) > button",
+          "html": "<button>1</button>",
+          "impact": "serious",
+          "messages": [
+            "Target has insufficient size (12px by 12px, should be at least 24px by 24px)",
+            "Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 20px instead of at least 24px."
+          ],
+          "box": {
+            "x": 655,
+            "y": 777,
+            "w": 12,
+            "h": 12
+          }
+        },
+        {
+          "target": "li:nth-child(4) > button",
+          "html": "<button>1</button>",
+          "impact": "serious",
+          "messages": [
+            "Target has insufficient size (12px by 12px, should be at least 24px by 24px)",
+            "Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 20px instead of at least 24px."
+          ],
+          "box": {
+            "x": 677,
+            "y": 777,
+            "w": 12,
+            "h": 12
+          }
+        },
+        {
+          "target": "li:nth-child(5) > button",
+          "html": "<button>1</button>",
+          "impact": "serious",
+          "messages": [
+            "Target has insufficient size (12px by 12px, should be at least 24px by 24px)",
+            "Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 20px instead of at least 24px."
+          ],
+          "box": {
+            "x": 699,
+            "y": 777,
+            "w": 12,
+            "h": 12
+          }
+        },
+        {
+          "target": "li:nth-child(6) > button",
+          "html": "<button>1</button>",
+          "impact": "serious",
+          "messages": [
+            "Target has insufficient size (12px by 12px, should be at least 24px by 24px)",
+            "Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 20px instead of at least 24px."
+          ],
+          "box": {
+            "x": 721,
+            "y": 777,
+            "w": 12,
+            "h": 12
+          }
+        },
+        {
+          "target": "li:nth-child(7) > button",
+          "html": "<button>1</button>",
+          "impact": "serious",
+          "messages": [
+            "Target has insufficient size (12px by 12px, should be at least 24px by 24px)",
+            "Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 20px instead of at least 24px."
+          ],
+          "box": {
+            "x": 743,
+            "y": 777,
+            "w": 12,
+            "h": 12
+          }
+        }
+      ]
+    }
+  ],
+  "verdict": "FAILURES DETECTED"
+}

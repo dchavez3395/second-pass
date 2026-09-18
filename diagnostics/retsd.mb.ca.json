@@ -1,0 +1,961 @@
+{
+  "url": "https://www.retsd.mb.ca/",
+  "ok": true,
+  "status": 200,
+  "title": "River East Transcona School Division",
+  "finalUrl": "https://www.retsd.mb.ca/",
+  "shape": {
+    "elements": 2593,
+    "images": 88,
+    "links": 577,
+    "buttons": 35,
+    "inputs": 9,
+    "headings": 42,
+    "textLength": 7109,
+    "lang": "en",
+    "iframes": 2
+  },
+  "viewport": {
+    "width": 1366,
+    "height": 900
+  },
+  "scannedAt": "2026-09-18T04:59:13.412Z",
+  "axe": {
+    "violationRules": 1,
+    "violationNodes": 2,
+    "passRules": 27,
+    "passNodes": 688,
+    "incompleteRules": 3,
+    "incompleteNodes": 53,
+    "inapplicableRules": 35,
+    "testedNodes": 743
+  },
+  "incomplete": [
+    {
+      "id": "color-contrast",
+      "impact": "serious",
+      "help": "Elements must meet minimum color contrast ratio thresholds",
+      "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/color-contrast?application=playwright",
+      "tags": [
+        "cat.color",
+        "wcag2aa",
+        "wcag143",
+        "TTv5",
+        "TT13.c",
+        "EN-301-549",
+        "EN-9.1.4.3",
+        "ACT",
+        "RGAAv4",
+        "RGAA-3.2.1"
+      ],
+      "wcag": [
+        "1.4.3"
+      ],
+      "why": "Element's background color could not be determined due to a background gradient",
+      "nodes": 45,
+      "sample": [
+        {
+          "target": "#slick-slide01 > .ci-txt > h1 > a",
+          "html": "<a href=\"/2026-school-trustee-elections.36815\" tabindex=\"0\">2026 School Trustee Elections</a>"
+        },
+        {
+          "target": "#slick-slide01 > .ci-txt > p",
+          "html": "<p style=\"max-width:90%\"> October 2026 Election Information Eligible voters in River East Transcona School Division will have the opportunity to cast their ballot for School Trustee during the civic e"
+        },
+        {
+          "target": ".d-xl-block.container.d-none > h1",
+          "html": "<h1>Upcoming Events</h1>"
+        }
+      ],
+      "items": [
+        {
+          "target": "#slick-slide01 > .ci-txt > h1 > a",
+          "html": "<a href=\"/2026-school-trustee-elections.36815\" tabindex=\"0\">2026 School Trustee Elections</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background gradient"
+          ],
+          "box": {
+            "x": 30,
+            "y": 485.046875,
+            "w": 400.78125,
+            "h": 42
+          }
+        },
+        {
+          "target": "#slick-slide01 > .ci-txt > p",
+          "html": "<p style=\"max-width:90%\"> October 2026 Election Information Eligible voters in River East Transcona School Division will have the opportunity to cast their ballot for School Trustee during the civic election on ...</p>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background gradient"
+          ],
+          "box": {
+            "x": 30,
+            "y": 549.546875,
+            "w": 360.703125,
+            "h": 22.796875
+          }
+        },
+        {
+          "target": ".d-xl-block.container.d-none > h1",
+          "html": "<h1>Upcoming Events</h1>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 20,
+            "y": 1739.140625,
+            "w": 1326,
+            "h": 43.1875
+          }
+        },
+        {
+          "target": ".slick-current[data-slick-index=\"0\"][aria-hidden=\"false\"] > .ci-item[href=\"javascript:;\"] > .time[data-idx=\"0\"] > .dd",
+          "html": "<strong class=\"dd\">30</strong>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 133.265625,
+            "y": 1827.125,
+            "w": 33.453125,
+            "h": 39.59375
+          }
+        },
+        {
+          "target": ".slick-current[data-slick-index=\"0\"][aria-hidden=\"false\"] > .ci-item[href=\"javascript:;\"] > .time[data-idx=\"0\"] > .month",
+          "html": "<strong class=\"month\"> Sep </strong>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 137.296875,
+            "y": 1858.71875,
+            "w": 25.390625,
+            "h": 20.390625
+          }
+        },
+        {
+          "target": ".slick-current[data-slick-index=\"0\"][aria-hidden=\"false\"] > .ci-item[href=\"javascript:;\"] > .text > .event-opener[data-idx=\"0\"][name=\"event_detile\"]",
+          "html": "<h2 data-idx=\"0\" name=\"event_detile\" class=\"event-opener\" style=\"color: #000;margin-bottom:0;\">Truth and Reconciliation</h2>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 215,
+            "y": 1816.328125,
+            "w": 112,
+            "h": 33.59375
+          }
+        },
+        {
+          "target": ".slick-current[data-slick-index=\"0\"][aria-hidden=\"false\"] > .ci-item[href=\"javascript:;\"] > .text > .tag",
+          "html": "<span class=\"tag \" style=\"font-size:14px;font-weight:bold;\">Holidays</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 215,
+            "y": 1849.921875,
+            "w": 112,
+            "h": 17.5
+          }
+        },
+        {
+          "target": ".slick-current[data-slick-index=\"0\"][aria-hidden=\"false\"] > .ci-item[href=\"javascript:;\"] > .text > span:nth-child(3)",
+          "html": "<span>All Day</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 215,
+            "y": 1867.421875,
+            "w": 112,
+            "h": 17.5
+          }
+        },
+        {
+          "target": ".slick-active[data-slick-index=\"1\"][aria-hidden=\"false\"] > .ci-item[href=\"javascript:;\"] > .time[data-idx=\"1\"] > .dd",
+          "html": "<strong class=\"dd\">12</strong>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 440.265625,
+            "y": 1827.125,
+            "w": 33.453125,
+            "h": 39.59375
+          }
+        },
+        {
+          "target": ".slick-active[data-slick-index=\"1\"][aria-hidden=\"false\"] > .ci-item[href=\"javascript:;\"] > .time[data-idx=\"1\"] > .month",
+          "html": "<strong class=\"month\"> Oct </strong>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 442.5,
+            "y": 1858.71875,
+            "w": 29,
+            "h": 20.390625
+          }
+        },
+        {
+          "target": ".slick-active[data-slick-index=\"1\"][aria-hidden=\"false\"] > .ci-item[href=\"javascript:;\"] > .text > .event-opener[data-idx=\"1\"][name=\"event_detile\"]",
+          "html": "<h2 data-idx=\"1\" name=\"event_detile\" class=\"event-opener\" style=\"color: #000;margin-bottom:0;\">Thanksgiving</h2>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 522,
+            "y": 1816.328125,
+            "w": 112,
+            "h": 33.59375
+          }
+        },
+        {
+          "target": ".slick-active[data-slick-index=\"1\"][aria-hidden=\"false\"] > .ci-item[href=\"javascript:;\"] > .text > .tag",
+          "html": "<span class=\"tag \" style=\"font-size:14px;font-weight:bold;\">Holidays</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 522,
+            "y": 1849.921875,
+            "w": 112,
+            "h": 17.5
+          }
+        },
+        {
+          "target": ".slick-active[data-slick-index=\"1\"][aria-hidden=\"false\"] > .ci-item[href=\"javascript:;\"] > .text > span:nth-child(3)",
+          "html": "<span>All Day</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 522,
+            "y": 1867.421875,
+            "w": 112,
+            "h": 17.5
+          }
+        },
+        {
+          "target": ".slick-active[data-slick-index=\"2\"][aria-hidden=\"false\"] > .ci-item[href=\"javascript:;\"] > .time[data-idx=\"2\"] > .dd",
+          "html": "<strong class=\"dd\">23</strong>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 747.265625,
+            "y": 1827.125,
+            "w": 33.453125,
+            "h": 39.59375
+          }
+        },
+        {
+          "target": ".slick-active[data-slick-index=\"2\"][aria-hidden=\"false\"] > .ci-item[href=\"javascript:;\"] > .time[data-idx=\"2\"] > .month",
+          "html": "<strong class=\"month\"> Oct </strong>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 749.5,
+            "y": 1858.71875,
+            "w": 29,
+            "h": 20.390625
+          }
+        },
+        {
+          "target": ".slick-active[data-slick-index=\"2\"][aria-hidden=\"false\"] > .ci-item[href=\"javascript:;\"] > .text > .event-opener[data-idx=\"2\"][name=\"event_detile\"]",
+          "html": "<h2 data-idx=\"2\" name=\"event_detile\" class=\"event-opener\" style=\"color: #000;margin-bottom:0;\">Co-ordinated Day</h2>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 829,
+            "y": 1816.328125,
+            "w": 112,
+            "h": 33.59375
+          }
+        },
+        {
+          "target": ".slick-active[data-slick-index=\"2\"][aria-hidden=\"false\"] > .ci-item[href=\"javascript:;\"] > .text > .tag",
+          "html": "<span class=\"tag \" style=\"font-size:14px;font-weight:bold;\">Co-ordinated Day</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 829,
+            "y": 1849.921875,
+            "w": 112,
+            "h": 17.5
+          }
+        },
+        {
+          "target": ".slick-active[data-slick-index=\"2\"][aria-hidden=\"false\"] > .ci-item[href=\"javascript:;\"] > .text > span:nth-child(3)",
+          "html": "<span>All Day</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 829,
+            "y": 1867.421875,
+            "w": 112,
+            "h": 17.5
+          }
+        },
+        {
+          "target": ".slick-active[data-slick-index=\"3\"][aria-hidden=\"false\"] > .ci-item[href=\"javascript:;\"] > .time[data-idx=\"3\"] > .dd",
+          "html": "<strong class=\"dd\">28</strong>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 1054.265625,
+            "y": 1827.125,
+            "w": 33.453125,
+            "h": 39.59375
+          }
+        },
+        {
+          "target": ".slick-active[data-slick-index=\"3\"][aria-hidden=\"false\"] > .ci-item[href=\"javascript:;\"] > .time[data-idx=\"3\"] > .month",
+          "html": "<strong class=\"month\"> Oct </strong>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 1056.5,
+            "y": 1858.71875,
+            "w": 29,
+            "h": 20.390625
+          }
+        },
+        {
+          "target": ".slick-active[data-slick-index=\"3\"][aria-hidden=\"false\"] > .ci-item[href=\"javascript:;\"] > .text > .event-opener[data-idx=\"3\"][name=\"event_detile\"]",
+          "html": "<h2 data-idx=\"3\" name=\"event_detile\" class=\"event-opener\" style=\"color: #000;margin-bottom:0;\">Co-ordinated Day</h2>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 1136,
+            "y": 1816.328125,
+            "w": 112,
+            "h": 33.59375
+          }
+        },
+        {
+          "target": ".slick-active[data-slick-index=\"3\"][aria-hidden=\"false\"] > .ci-item[href=\"javascript:;\"] > .text > .tag",
+          "html": "<span class=\"tag \" style=\"font-size:14px;font-weight:bold;\">Co-ordinated Day</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 1136,
+            "y": 1849.921875,
+            "w": 112,
+            "h": 17.5
+          }
+        },
+        {
+          "target": ".slick-active[data-slick-index=\"3\"][aria-hidden=\"false\"] > .ci-item[href=\"javascript:;\"] > .text > span:nth-child(3)",
+          "html": "<span>All Day</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 1136,
+            "y": 1867.421875,
+            "w": 112,
+            "h": 17.5
+          }
+        },
+        {
+          "target": ".footer_success",
+          "html": "<span class=\"footer_success\" style=\"font-size: 3rem;color: #004C85;font-weight: 400;display:inline-block;font-style: italic;\">creating student success</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 340,
+            "y": 2719.3125,
+            "w": 294.671875,
+            "h": 46.65625
+          }
+        },
+        {
+          "target": ".contact-holder > .title:nth-child(1)",
+          "html": "<span class=\"title\" style=\"font-size: 2.4rem;font-weight: bold;padding-top:2px;\">GET IN TOUCH</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 70,
+            "y": 2797.96875,
+            "w": 365.328125,
+            "h": 32
+          }
+        },
+        {
+          "target": ".title:nth-child(2)",
+          "html": "<span class=\"title\" style=\"font-size: 2.4rem;font-weight: bold;padding-top:2px;text-transform:uppercase;\">Administration Offices</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 70,
+            "y": 2845.96875,
+            "w": 365.328125,
+            "h": 32
+          }
+        },
+        {
+          "target": "address",
+          "html": "<address style=\"color:#004C85;\">589 Roch St., Winnipeg, MB, R2K 2P7</address>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 70,
+            "y": 2893.96875,
+            "w": 365.328125,
+            "h": 24
+          }
+        },
+        {
+          "target": ".link",
+          "html": "<a style=\"font-size: 1.4rem;color:#004C85;\" href=\"https://www.google.com/maps/place/589+Roch+St,+Winnipeg,+MB+R2K+2P7/@49.9198912,-97.1029396,17z/data=!3m1!4b1!4m5!3m4!1s0x52ea70fe7fac3f3f:0xd5efb38c1a6317f9!8m2!3d49.9198878!4d-97.1007509\" class=\"link d-print-none\" target=\"_blank\">View Map</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 70,
+            "y": 2920.96875,
+            "w": 57.265625,
+            "h": 17
+          }
+        },
+        {
+          "target": "li:nth-child(1) > strong",
+          "html": "<strong>Phone:</strong>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 70,
+            "y": 2955.625,
+            "w": 139,
+            "h": 16.796875
+          }
+        },
+        {
+          "target": "a[href=\"tel:204.667.7130\"]",
+          "html": "<a href=\"tel:204.667.7130\">204.667.7130</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 209,
+            "y": 2955.625,
+            "w": 78.4375,
+            "h": 16.796875
+          }
+        },
+        {
+          "target": "li:nth-child(2) > strong",
+          "html": "<strong>Fax:</strong>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 70,
+            "y": 2982.421875,
+            "w": 139,
+            "h": 16.796875
+          }
+        },
+        {
+          "target": "a[href=\"fax:204.661.5618\"]",
+          "html": "<a href=\"fax:204.661.5618\">204.661.5618</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 209,
+            "y": 2982.421875,
+            "w": 78.4375,
+            "h": 16.796875
+          }
+        },
+        {
+          "target": "li:nth-child(3) > strong",
+          "html": "<strong>Office Hours:</strong>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 70,
+            "y": 3009.21875,
+            "w": 139,
+            "h": 33.59375
+          }
+        },
+        {
+          "target": "li:nth-child(3) > a[href=\"javascript:;\"]",
+          "html": "<a href=\"javascript:;\">Sept–June: 8:30 a.m. – 4:30 p.m.<br>July–August: 8 a.m. – 3:30 p.m.</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 209,
+            "y": 3009.21875,
+            "w": 188.78125,
+            "h": 33.59375
+          }
+        },
+        {
+          "target": ".app-name",
+          "html": "<span class=\"app-name\" style=\"font-size: 2.4rem;font-weight: bold;display: inline-block;padding-top: 8px;\">RETSD MOBILE APP</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 120.71875,
+            "y": 3090.8125,
+            "w": 193.3125,
+            "h": 45.328125
+          }
+        },
+        {
+          "target": ".ci-f-info > p",
+          "html": "<p style=\"font-size:1.5rem;color:#004C85;\">",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 70,
+            "y": 3148.8125,
+            "w": 365.328125,
+            "h": 139.96875
+          }
+        },
+        {
+          "target": ".title-sm",
+          "html": "<span class=\"title-sm\" style=\"font-size: 2.4rem;font-weight: bold;color: #004C85;\">LAND STATEMENT</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 495.328125,
+            "y": 2801.96875,
+            "w": 178.796875,
+            "h": 29
+          }
+        },
+        {
+          "target": ".text-block > p",
+          "html": "<p style=\"line-height:1.5;font-size:1.6rem;color:#004C85;\">",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 495.328125,
+            "y": 2835.296875,
+            "w": 395.328125,
+            "h": 240
+          }
+        },
+        {
+          "target": ".copyright",
+          "html": "<span class=\"copyright\" style=\"min-width: 250px;\">©2025 RETSD. All rights reserved.</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 72,
+            "y": 3398.765625,
+            "w": 250,
+            "h": 34.59375
+          }
+        },
+        {
+          "target": "a[href$=\"privacy-policy\"]",
+          "html": "<a href=\"/privacy-policy\" target=\"_self\" class=\"t_pb-f t_pd-f-h\">Privacy Policy</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 339,
+            "y": 3398.765625,
+            "w": 71.125,
+            "h": 15
+          }
+        },
+        {
+          "target": "a[href$=\"sitemap\"]",
+          "html": "<a href=\"/sitemap\" class=\"t_pb-f t_pd-f-h\">Site Map</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 444.125,
+            "y": 3398.765625,
+            "w": 46.765625,
+            "h": 15
+          }
+        },
+        {
+          "target": ".sign-in:nth-child(3) > .t_pd-f-h.t_pb-f[target=\"'_blank\"]",
+          "html": "<a href=\"https://login.microsoftonline.com/?whr=retsd.mb.ca\" target=\"'_blank\" class=\"t_pb-f t_pd-f-h\">Office 365</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 539.890625,
+            "y": 3398.765625,
+            "w": 53.78125,
+            "h": 15
+          }
+        },
+        {
+          "target": ".sign-in:nth-child(4) > .t_pd-f-h.t_pb-f[target=\"'_blank\"]",
+          "html": "<a href=\"https://retsdca.sharepoint.com/\" target=\"'_blank\" class=\"t_pb-f t_pd-f-h\">Staff—The HUB</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 642.671875,
+            "y": 3398.765625,
+            "w": 81.765625,
+            "h": 15
+          }
+        },
+        {
+          "target": ".t_pd-f-h[href$=\"ssrpm.retsd.mb.ca/\"][target=\"'_blank\"]",
+          "html": "<a href=\"https://ssrpm.retsd.mb.ca/\" target=\"'_blank\" class=\"t_pb-f t_pd-f-h\">Reset Password</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 773.4375,
+            "y": 3398.765625,
+            "w": 82.0625,
+            "h": 15
+          }
+        },
+        {
+          "target": ".t_pd-f-h[href$=\"sitegovern.retsd.mb.ca\"][target=\"'_blank\"]",
+          "html": "<a href=\"https://sitegovern.retsd.mb.ca\" target=\"'_blank\" class=\"t_pb-f t_pd-f-h\">Website Administration</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 904.5,
+            "y": 3398.765625,
+            "w": 124.15625,
+            "h": 15
+          }
+        }
+      ]
+    },
+    {
+      "id": "link-in-text-block",
+      "impact": "serious",
+      "help": "Links must be distinguishable without relying on color",
+      "description": "Ensure links are distinguished from surrounding text in a way that does not rely on color",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/link-in-text-block?application=playwright",
+      "tags": [
+        "cat.color",
+        "wcag2a",
+        "wcag141",
+        "TTv5",
+        "TT13.a",
+        "EN-301-549",
+        "EN-9.1.4.1",
+        "RGAAv4",
+        "RGAA-10.6.1"
+      ],
+      "wcag": [
+        "1.4.1"
+      ],
+      "why": "Element's contrast ratio could not be determined because of element overlap",
+      "nodes": 4,
+      "sample": [
+        {
+          "target": ".col-lg-3.col-md-6:nth-child(1) > .card > .card-body > p > a[target=\"_blank\"]",
+          "html": "<a target=\"_blank\" href=\"https://www.facebook.com/hashtag/RailSafetyWeek \">#RailSafetyWeek </a>"
+        },
+        {
+          "target": ".col-lg-3.col-md-6:nth-child(3) > .card > .card-body > p > a[target=\"_blank\"]:nth-child(1)",
+          "html": "<a target=\"_blank\" href=\"https://www.facebook.com/hashtag/DemocracyDay \">#DemocracyDay </a>"
+        },
+        {
+          "target": "a[target=\"_blank\"]:nth-child(2)",
+          "html": "<a target=\"_blank\" href=\"https://www.facebook.com/hashtag/StudentVoice\">#StudentVoice</a>"
+        }
+      ],
+      "items": [
+        {
+          "target": ".col-lg-3.col-md-6:nth-child(1) > .card > .card-body > p > a[target=\"_blank\"]",
+          "html": "<a target=\"_blank\" href=\"https://www.facebook.com/hashtag/RailSafetyWeek \">#RailSafetyWeek </a>",
+          "impact": "serious",
+          "messages": [
+            "Element's contrast ratio could not be determined because of element overlap"
+          ],
+          "box": {
+            "x": 151.96875,
+            "y": 2496.59375,
+            "w": 112.015625,
+            "h": 19
+          }
+        },
+        {
+          "target": ".col-lg-3.col-md-6:nth-child(3) > .card > .card-body > p > a[target=\"_blank\"]:nth-child(1)",
+          "html": "<a target=\"_blank\" href=\"https://www.facebook.com/hashtag/DemocracyDay \">#DemocracyDay </a>",
+          "impact": "serious",
+          "messages": [
+            "Element's contrast ratio could not be determined because of element overlap"
+          ],
+          "box": {
+            "x": 852.65625,
+            "y": 2468.59375,
+            "w": 105.140625,
+            "h": 19
+          }
+        },
+        {
+          "target": "a[target=\"_blank\"]:nth-child(2)",
+          "html": "<a target=\"_blank\" href=\"https://www.facebook.com/hashtag/StudentVoice\">#StudentVoice</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's contrast ratio could not be determined because of element overlap"
+          ],
+          "box": {
+            "x": 716,
+            "y": 2496.59375,
+            "w": 94.3125,
+            "h": 19
+          }
+        },
+        {
+          "target": "a[href$=\"4gZcMv1\"]",
+          "html": "<a target=\"_blank\" href=\"https://bit.ly/4gZcMv1\">https://bit.ly/4gZcMv1</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's contrast ratio could not be determined because of element overlap"
+          ],
+          "box": {
+            "x": 1136.40625,
+            "y": 2524.59375,
+            "w": 147.03125,
+            "h": 19
+          }
+        }
+      ]
+    },
+    {
+      "id": "target-size",
+      "impact": "serious",
+      "help": "All touch targets must be 24px large, or leave sufficient space",
+      "description": "Ensure touch targets have sufficient size and space",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/target-size?application=playwright",
+      "tags": [
+        "cat.sensory-and-visual-cues",
+        "wcag22aa",
+        "wcag258"
+      ],
+      "wcag": [
+        "2.5.8"
+      ],
+      "why": "Element with negative tabindex has insufficient size (12px by 12px, should be at least 24px by 24px). Is this a target?",
+      "nodes": 4,
+      "sample": [
+        {
+          "target": "#slick-slide-control00",
+          "html": "<button type=\"button\" role=\"tab\" id=\"slick-slide-control00\" aria-controls=\"slick-slide00\" aria-label=\"1 of 4\" tabindex=\"-1\">1</button>"
+        },
+        {
+          "target": "#slick-slide-control01",
+          "html": "<button type=\"button\" role=\"tab\" id=\"slick-slide-control01\" aria-controls=\"slick-slide01\" aria-label=\"2 of 4\" tabindex=\"0\" aria-selected=\"true\">2</button>"
+        },
+        {
+          "target": "#slick-slide-control02",
+          "html": "<button type=\"button\" role=\"tab\" id=\"slick-slide-control02\" aria-controls=\"slick-slide02\" aria-label=\"3 of 4\" tabindex=\"-1\">3</button>"
+        }
+      ],
+      "items": [
+        {
+          "target": "#slick-slide-control00",
+          "html": "<button type=\"button\" role=\"tab\" id=\"slick-slide-control00\" aria-controls=\"slick-slide00\" aria-label=\"1 of 4\" tabindex=\"-1\">1</button>",
+          "impact": "serious",
+          "messages": [
+            "Element with negative tabindex has insufficient size (12px by 12px, should be at least 24px by 24px). Is this a target?",
+            "Element with negative tabindex has insufficient space to its closest neighbors. Safe clickable space has a diameter of 12px instead of at least 24px. Is this a target?"
+          ],
+          "box": {
+            "x": 195.875,
+            "y": 783.25,
+            "w": 12,
+            "h": 12
+          }
+        },
+        {
+          "target": "#slick-slide-control01",
+          "html": "<button type=\"button\" role=\"tab\" id=\"slick-slide-control01\" aria-controls=\"slick-slide01\" aria-label=\"2 of 4\" tabindex=\"0\" aria-selected=\"true\">2</button>",
+          "impact": "serious",
+          "messages": [
+            "Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 12px instead of at least 24px. Is the neighbor a target?"
+          ],
+          "box": {
+            "x": 213.875,
+            "y": 783.25,
+            "w": 12,
+            "h": 12
+          }
+        },
+        {
+          "target": "#slick-slide-control02",
+          "html": "<button type=\"button\" role=\"tab\" id=\"slick-slide-control02\" aria-controls=\"slick-slide02\" aria-label=\"3 of 4\" tabindex=\"-1\">3</button>",
+          "impact": "serious",
+          "messages": [
+            "Element with negative tabindex has insufficient size (12px by 12px, should be at least 24px by 24px). Is this a target?",
+            "Element with negative tabindex has insufficient space to its closest neighbors. Safe clickable space has a diameter of 12px instead of at least 24px. Is this a target?"
+          ],
+          "box": {
+            "x": 231.875,
+            "y": 783.25,
+            "w": 12,
+            "h": 12
+          }
+        },
+        {
+          "target": "#slick-slide-control03",
+          "html": "<button type=\"button\" role=\"tab\" id=\"slick-slide-control03\" aria-controls=\"slick-slide03\" aria-label=\"4 of 4\" tabindex=\"-1\">4</button>",
+          "impact": "serious",
+          "messages": [
+            "Element with negative tabindex has insufficient size (12px by 12px, should be at least 24px by 24px). Is this a target?",
+            "Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 12px instead of at least 24px. Is the neighbor a target?"
+          ],
+          "box": {
+            "x": 249.875,
+            "y": 783.25,
+            "w": 12,
+            "h": 12
+          }
+        }
+      ]
+    }
+  ],
+  "violations": [
+    {
+      "id": "link-name",
+      "impact": "serious",
+      "help": "Links must have discernible text",
+      "description": "Ensure links have discernible text",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/link-name?application=playwright",
+      "tags": [
+        "cat.name-role-value",
+        "wcag2a",
+        "wcag244",
+        "wcag412",
+        "section508",
+        "section508.22.a",
+        "TTv5",
+        "TT6.a",
+        "EN-301-549",
+        "EN-9.2.4.4",
+        "EN-9.4.1.2",
+        "ACT",
+        "RGAAv4",
+        "RGAA-6.2.1"
+      ],
+      "wcag": [
+        "2.4.4",
+        "4.1.2"
+      ],
+      "nodes": 2,
+      "items": [
+        {
+          "target": ".d-xl-block.ci-hold.d-none > .ci-social-networks.list-unstyled > li:nth-child(3) > a[target=\"_blank\"]",
+          "html": "<a href=\"https://www.instagram.com/retsdschools\" target=\"_blank\">",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": {
+            "x": 1312,
+            "y": 104.390625,
+            "w": 24,
+            "h": 24
+          }
+        },
+        {
+          "target": ".ci-social > .ci-social-networks.list-unstyled > li:nth-child(3) > a[target=\"_blank\"]",
+          "html": "<a href=\"https://www.instagram.com/retsdschools\" target=\"_blank\">",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": {
+            "x": 581.328125,
+            "y": 3100.15625,
+            "w": 24,
+            "h": 14
+          }
+        }
+      ]
+    }
+  ],
+  "verdict": "FAILURES DETECTED"
+}

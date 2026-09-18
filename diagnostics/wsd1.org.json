@@ -1,0 +1,76 @@
+{
+  "url": "https://www.wsd1.org/",
+  "ok": true,
+  "status": 404,
+  "title": "Not Found",
+  "finalUrl": "https://www.wsd1.org/",
+  "shape": {
+    "elements": 8,
+    "images": 0,
+    "links": 0,
+    "buttons": 0,
+    "inputs": 0,
+    "headings": 1,
+    "textLength": 62,
+    "lang": "",
+    "iframes": 0
+  },
+  "viewport": {
+    "width": 1366,
+    "height": 900
+  },
+  "scannedAt": "2026-09-18T04:58:51.402Z",
+  "axe": {
+    "violationRules": 1,
+    "violationNodes": 1,
+    "passRules": 4,
+    "passNodes": 5,
+    "incompleteRules": 0,
+    "incompleteNodes": 0,
+    "inapplicableRules": 58,
+    "testedNodes": 6
+  },
+  "incomplete": [],
+  "violations": [
+    {
+      "id": "html-has-lang",
+      "impact": "serious",
+      "help": "<html> element must have a lang attribute",
+      "description": "Ensure every HTML document has a lang attribute",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/html-has-lang?application=playwright",
+      "tags": [
+        "cat.language",
+        "wcag2a",
+        "wcag311",
+        "TTv5",
+        "TT11.a",
+        "EN-301-549",
+        "EN-9.3.1.1",
+        "ACT",
+        "RGAAv4",
+        "RGAA-8.3.1"
+      ],
+      "wcag": [
+        "3.1.1"
+      ],
+      "nodes": 1,
+      "items": [
+        {
+          "target": "html",
+          "html": "<html><head><title>Not Found</title>\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=us-ascii\"></head>\n<body><h2>Not Found</h2>\n<hr><p>HTTP Error 404. The requested resource is not found.</p>\n\n</body></html>",
+          "impact": "serious",
+          "messages": [
+            "The <html> element does not have a lang attribute"
+          ],
+          "box": {
+            "x": 0,
+            "y": 0,
+            "w": 1366,
+            "h": 118.8125
+          }
+        }
+      ]
+    }
+  ],
+  "verdict": "PAGE DID NOT RENDER — scan is worthless, do not report this number"
+}

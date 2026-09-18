@@ -15,6 +15,11 @@
     "lang": "en-US",
     "iframes": 2
   },
+  "viewport": {
+    "width": 1366,
+    "height": 900
+  },
+  "scannedAt": "2026-09-18T04:58:04.390Z",
   "axe": {
     "violationRules": 0,
     "violationNodes": 0,
@@ -30,6 +35,23 @@
       "id": "color-contrast",
       "impact": "serious",
       "help": "Elements must meet minimum color contrast ratio thresholds",
+      "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/color-contrast?application=playwright",
+      "tags": [
+        "cat.color",
+        "wcag2aa",
+        "wcag143",
+        "TTv5",
+        "TT13.c",
+        "EN-301-549",
+        "EN-9.1.4.3",
+        "ACT",
+        "RGAAv4",
+        "RGAA-3.2.1"
+      ],
+      "wcag": [
+        "1.4.3"
+      ],
       "why": "Element's background color could not be determined due to a background image",
       "nodes": 18,
       "sample": [
@@ -44,6 +66,260 @@
         {
           "target": "#menu-item-96 > a[aria-haspopup=\"true\"]",
           "html": "<a aria-haspopup=\"true\" aria-expanded=\"false\" aria-label=\"Future Students - Press the Down arrow key to expand or the escape key to collapse this menu\" href=\"https://www.rrc.ca/future-students/\">Futur"
+        }
+      ],
+      "items": [
+        {
+          "target": "a[href$=\"about/\"]",
+          "html": "<a aria-haspopup=\"true\" aria-expanded=\"false\" aria-label=\"About - Press the Down arrow key to expand or the escape key to collapse this menu\" href=\"https://www.rrc.ca/about/\">About</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 103,
+            "y": 90,
+            "w": 145,
+            "h": 30
+          }
+        },
+        {
+          "target": "a[href$=\"academics/\"]",
+          "html": "<a aria-haspopup=\"true\" aria-expanded=\"false\" aria-label=\"Academics - Press the Down arrow key to expand or the escape key to collapse this menu\" href=\"https://www.rrc.ca/academics/\">Academics</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 248,
+            "y": 90,
+            "w": 145,
+            "h": 30
+          }
+        },
+        {
+          "target": "#menu-item-96 > a[aria-haspopup=\"true\"]",
+          "html": "<a aria-haspopup=\"true\" aria-expanded=\"false\" aria-label=\"Future Students - Press the Down arrow key to expand or the escape key to collapse this menu\" href=\"https://www.rrc.ca/future-students/\">Future Students</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 393,
+            "y": 90,
+            "w": 145,
+            "h": 30
+          }
+        },
+        {
+          "target": "#menu-item-135 > a[href$=\"services/\"]",
+          "html": "<a aria-haspopup=\"true\" aria-expanded=\"false\" aria-label=\"Services - Press the Down arrow key to expand or the escape key to collapse this menu\" href=\"https://www.rrc.ca/services/\">Services</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 538,
+            "y": 90,
+            "w": 145,
+            "h": 30
+          }
+        },
+        {
+          "target": "a[href$=\"supports/\"][aria-haspopup=\"true\"]",
+          "html": "<a aria-haspopup=\"true\" aria-expanded=\"false\" aria-label=\"Supports - Press the Down arrow key to expand or the escape key to collapse this menu\" href=\"https://www.rrc.ca/supports/\">Supports</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 683,
+            "y": 90,
+            "w": 145,
+            "h": 30
+          }
+        },
+        {
+          "target": "a[href$=\"campuses/\"]",
+          "html": "<a aria-haspopup=\"true\" aria-expanded=\"false\" aria-label=\"Campuses - Press the Down arrow key to expand or the escape key to collapse this menu\" href=\"https://www.rrc.ca/campuses/\">Campuses</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 828,
+            "y": 90,
+            "w": 145,
+            "h": 30
+          }
+        },
+        {
+          "target": "a[href$=\"research/\"]",
+          "html": "<a aria-haspopup=\"true\" aria-expanded=\"false\" aria-label=\"Research - Press the Down arrow key to expand or the escape key to collapse this menu\" href=\"https://www.rrc.ca/research/\">Research</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 973,
+            "y": 90,
+            "w": 145,
+            "h": 30
+          }
+        },
+        {
+          "target": "a[href$=\"global/\"]",
+          "html": "<a aria-haspopup=\"true\" aria-expanded=\"false\" aria-label=\"International - Press the Down arrow key to expand or the escape key to collapse this menu\" href=\"https://www.rrc.ca/global/\">International</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 1118,
+            "y": 90,
+            "w": 145,
+            "h": 30
+          }
+        },
+        {
+          "target": ".swiper-slide-active > .wp-block-cover__inner-container.wp-block-cover-is-layout-flow.is-layout-flow > h2",
+          "html": "<h2 class=\"wp-block-heading\">CM&amp;E Advanced<br>Manufacturing Summit</h2>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 110,
+            "y": 481.265625,
+            "w": 614.71875,
+            "h": 122.9375
+          }
+        },
+        {
+          "target": ".swiper-slide-active > .wp-block-cover__inner-container.wp-block-cover-is-layout-flow.is-layout-flow > p",
+          "html": "<p>Wednesday, Oct. 7 • Notre Dame Campus</p>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 110,
+            "y": 611.03125,
+            "w": 614.71875,
+            "h": 28.6875
+          }
+        },
+        {
+          "target": ".swiper-slide-next > .wp-block-cover__inner-container.wp-block-cover-is-layout-flow.is-layout-flow > h2",
+          "html": "<h2 class=\"wp-block-heading\">Updates on<br>MITT Transition</h2>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 1476,
+            "y": 481.265625,
+            "w": 613.9375,
+            "h": 122.9375
+          }
+        },
+        {
+          "target": ".swiper-slide-next > .wp-block-cover__inner-container.wp-block-cover-is-layout-flow.is-layout-flow > p",
+          "html": "<p>19 Programs to Be Delivered at South Winnipeg Campus</p>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 1476,
+            "y": 611.03125,
+            "w": 613.9375,
+            "h": 28.6875
+          }
+        },
+        {
+          "target": "a[href$=\"explore/\"] > figcaption",
+          "html": "<figcaption class=\"wp-element-caption\">Program Explorer</figcaption>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because element contains an image node"
+          ],
+          "box": {
+            "x": 103,
+            "y": 899.359375,
+            "w": 370.65625,
+            "h": 44
+          }
+        },
+        {
+          "target": "a[href$=\"part-time/\"] > figcaption",
+          "html": "<figcaption class=\"wp-element-caption\">Part-time and Online Education</figcaption>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because element contains an image node"
+          ],
+          "box": {
+            "x": 497.65625,
+            "y": 899.375,
+            "w": 370.671875,
+            "h": 44
+          }
+        },
+        {
+          "target": ".limea > a > figcaption",
+          "html": "<figcaption class=\"wp-element-caption\">Winter Opportunities</figcaption>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because element contains an image node"
+          ],
+          "box": {
+            "x": 892.328125,
+            "y": 899.375,
+            "w": 370.671875,
+            "h": 44
+          }
+        },
+        {
+          "target": "p:nth-child(1)",
+          "html": "<p>RRC Polytech campuses are located on the lands of the Anishinaabeg, Ininiwak, Anishininwak, Dakota Oyate, and Denésuline, and the National Homeland of the Red River Métis.</p>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 110,
+            "y": 1125.375,
+            "w": 760,
+            "h": 48
+          }
+        },
+        {
+          "target": "#land-acknowledgment > div > p:nth-child(2)",
+          "html": "<p>We recognize and honour Treaty 3 Territory Shoal Lake 40 First Nation, the source of Winnipeg’s clean drinking water. In addition, we acknowledge Treaty Territories which provide us with access to electricity we use in both our personal and professional lives.</p>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 110,
+            "y": 1197.375,
+            "w": 760,
+            "h": 72
+          }
+        },
+        {
+          "target": ".wp-block-button__link",
+          "html": "<a class=\"wp-block-button__link wp-element-button\" href=\"https://www.rrc.ca/truth-and-reconciliation/initiatives/\">Learn more</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 110,
+            "y": 1293.375,
+            "w": 127.984375,
+            "h": 24
+          }
         }
       ]
     }
