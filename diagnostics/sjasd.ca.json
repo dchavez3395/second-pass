@@ -5,7 +5,7 @@
   "title": "St. James-Assiniboia School Division - St. James-Assiniboia School Division",
   "finalUrl": "https://www.sjasd.ca/Pages/default.aspx#/=",
   "shape": {
-    "elements": 2020,
+    "elements": 2012,
     "images": 20,
     "links": 476,
     "buttons": 4,
@@ -19,16 +19,16 @@
     "width": 1366,
     "height": 900
   },
-  "scannedAt": "2026-09-18T04:59:36.496Z",
+  "scannedAt": "2026-09-18T05:04:02.091Z",
   "axe": {
-    "violationRules": 5,
-    "violationNodes": 12,
+    "violationRules": 6,
+    "violationNodes": 13,
     "passRules": 32,
-    "passNodes": 724,
+    "passNodes": 717,
     "incompleteRules": 2,
     "incompleteNodes": 38,
     "inapplicableRules": 30,
-    "testedNodes": 774
+    "testedNodes": 768
   },
   "incomplete": [
     {
@@ -962,6 +962,39 @@
             "y": 0,
             "w": 0,
             "h": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": "target-size",
+      "impact": "serious",
+      "help": "All touch targets must be 24px large, or leave sufficient space",
+      "description": "Ensure touch targets have sufficient size and space",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/target-size?application=playwright",
+      "tags": [
+        "cat.sensory-and-visual-cues",
+        "wcag22aa",
+        "wcag258"
+      ],
+      "wcag": [
+        "2.5.8"
+      ],
+      "nodes": 1,
+      "items": [
+        {
+          "target": "#ctl00_PlaceHolderFooterContact_ContentPlaceHolder12_SearchBoxScriptWebPart_csr_SearchLink",
+          "html": "<a title=\"Search\" role=\"button\" class=\"ms-srch-sb-searchLin...\" id=\"ctl00_PlaceHolderFoo...\" onclick=\"EnsureScriptFunc('Se...\" href=\"javascript: {}\" aria-label=\"Search\">",
+          "impact": "serious",
+          "messages": [
+            "Target has insufficient size (40px by 20px, should be at least 24px by 24px)",
+            "Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 20px instead of at least 24px."
+          ],
+          "box": {
+            "x": 1058.671875,
+            "y": 2307.6875,
+            "w": 40,
+            "h": 20
           }
         }
       ]

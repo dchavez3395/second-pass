@@ -5,7 +5,7 @@
   "title": "CCMB Homepage",
   "finalUrl": "https://www.cancercare.mb.ca/home/",
   "shape": {
-    "elements": 726,
+    "elements": 727,
     "images": 12,
     "links": 172,
     "buttons": 15,
@@ -19,7 +19,7 @@
     "width": 1366,
     "height": 900
   },
-  "scannedAt": "2026-09-18T04:57:06.238Z",
+  "scannedAt": "2026-09-18T05:04:42.830Z",
   "axe": {
     "violationRules": 3,
     "violationNodes": 11,

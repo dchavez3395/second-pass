@@ -1,9 +1,9 @@
 {
-  "url": "https://www.mordenmb.com/",
+  "url": "https://www.morden.ca/",
   "ok": true,
-  "status": 200,
+  "status": 403,
   "title": "Just a moment...",
-  "finalUrl": "https://morden.ca/",
+  "finalUrl": "https://www.morden.ca/",
   "shape": {
     "elements": 47,
     "images": 1,
@@ -11,7 +11,7 @@
     "buttons": 0,
     "inputs": 1,
     "headings": 3,
-    "textLength": 255,
+    "textLength": 259,
     "lang": "en-US",
     "iframes": 0
   },
@@ -19,7 +19,7 @@
     "width": 1366,
     "height": 900
   },
-  "scannedAt": "2026-09-18T04:53:34.426Z",
+  "scannedAt": "2026-09-18T05:01:46.175Z",
   "axe": {
     "violationRules": 1,
     "violationNodes": 1,

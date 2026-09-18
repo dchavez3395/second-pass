@@ -68,10 +68,11 @@ not survive a person looking at it.
 
 ## urls.txt
 
-One URL per line, `#` for comments. All 34 resolve as of 2026-09-17 (`flinflon.ca` → `cityofflinflon.com`,
-`sjsd.net` → `sjasd.ca` were corrected after the first run). `cancercare.mb.ca`
-answers curl but times out a headless browser at 90 s; note it in the method
-rather than chasing it.
+One URL per line, `#` for comments. Corrected after the first runs: `flinflon.ca` → `cityofflinflon.com`,
+`sjsd.net` → `sjasd.ca`, `wsd1.org` → `winnipegsd.ca`, `mordenmb.com` → `morden.ca`.
+Method notes: `morden.ca` sits behind a Cloudflare challenge and returns a
+"Just a moment…" page to a headless browser (flagged PAGE DID NOT RENDER, excluded);
+`cancercare.mb.ca` is slow enough to time out at 90 s on some runs.
 
 ## Before publishing anything from this
 

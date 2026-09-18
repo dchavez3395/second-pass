@@ -1,0 +1,522 @@
+{
+  "url": "https://www.winnipegsd.ca/",
+  "ok": true,
+  "status": 200,
+  "title": "Winnipeg School Division",
+  "finalUrl": "https://www.winnipegsd.ca/",
+  "shape": {
+    "elements": 1492,
+    "images": 15,
+    "links": 352,
+    "buttons": 14,
+    "inputs": 8,
+    "headings": 0,
+    "textLength": 1938,
+    "lang": "en",
+    "iframes": 2
+  },
+  "viewport": {
+    "width": 1366,
+    "height": 900
+  },
+  "scannedAt": "2026-09-18T05:01:56.928Z",
+  "axe": {
+    "violationRules": 1,
+    "violationNodes": 2,
+    "passRules": 29,
+    "passNodes": 425,
+    "incompleteRules": 1,
+    "incompleteNodes": 27,
+    "inapplicableRules": 34,
+    "testedNodes": 454
+  },
+  "incomplete": [
+    {
+      "id": "color-contrast",
+      "impact": "serious",
+      "help": "Elements must meet minimum color contrast ratio thresholds",
+      "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/color-contrast?application=playwright",
+      "tags": [
+        "cat.color",
+        "wcag2aa",
+        "wcag143",
+        "TTv5",
+        "TT13.c",
+        "EN-301-549",
+        "EN-9.1.4.3",
+        "ACT",
+        "RGAAv4",
+        "RGAA-3.2.1"
+      ],
+      "wcag": [
+        "1.4.3"
+      ],
+      "why": "Element's background color could not be determined due to a pseudo element",
+      "nodes": 27,
+      "sample": [
+        {
+          "target": ".has-drop-down-a.drop-opener[href$=\"about-wsd\"]",
+          "html": "<a href=\"/about-wsd\" class=\"drop-opener has-drop-down-a\">Our Division <span class=\"ico icon-right-arrow\"></span></a>"
+        },
+        {
+          "target": "a[href$=\"student-registration\"]",
+          "html": "<a href=\"/student-registration\" class=\"drop-opener\">Registration <span class=\"ico icon-right-arrow\"></span></a>"
+        },
+        {
+          "target": ".has-drop-down-a.drop-opener[href$=\"our-schools\"]",
+          "html": "<a href=\"/our-schools\" class=\"drop-opener has-drop-down-a\">Schools <span class=\"ico icon-right-arrow\"></span></a>"
+        }
+      ],
+      "items": [
+        {
+          "target": ".has-drop-down-a.drop-opener[href$=\"about-wsd\"]",
+          "html": "<a href=\"/about-wsd\" class=\"drop-opener has-drop-down-a\">Our Division <span class=\"ico icon-right-arrow\"></span></a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 428.4375,
+            "y": 76,
+            "w": 130.234375,
+            "h": 60
+          }
+        },
+        {
+          "target": "a[href$=\"student-registration\"]",
+          "html": "<a href=\"/student-registration\" class=\"drop-opener\">Registration <span class=\"ico icon-right-arrow\"></span></a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 558.671875,
+            "y": 76,
+            "w": 139.703125,
+            "h": 60
+          }
+        },
+        {
+          "target": ".has-drop-down-a.drop-opener[href$=\"our-schools\"]",
+          "html": "<a href=\"/our-schools\" class=\"drop-opener has-drop-down-a\">Schools <span class=\"ico icon-right-arrow\"></span></a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 698.375,
+            "y": 76,
+            "w": 99.125,
+            "h": 60
+          }
+        },
+        {
+          "target": ".has-drop-down-a.drop-opener[href$=\"students\"]",
+          "html": "<a href=\"/students\" class=\"drop-opener has-drop-down-a\">Students <span class=\"ico icon-right-arrow\"></span></a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 797.5,
+            "y": 76,
+            "w": 106.234375,
+            "h": 60
+          }
+        },
+        {
+          "target": ".has-drop-down-a.drop-opener[href$=\"families\"]",
+          "html": "<a href=\"/families\" class=\"drop-opener has-drop-down-a\">Families <span class=\"ico icon-right-arrow\"></span></a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 903.734375,
+            "y": 76,
+            "w": 93.78125,
+            "h": 60
+          }
+        },
+        {
+          "target": ".has-drop-down-a.drop-opener[href$=\"learning\"]",
+          "html": "<a href=\"/learning\" class=\"drop-opener has-drop-down-a\">Learning <span class=\"ico icon-right-arrow\"></span></a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 997.515625,
+            "y": 76,
+            "w": 103.5625,
+            "h": 60
+          }
+        },
+        {
+          "target": ".has-drop-down-a.drop-opener[href$=\"governance\"]",
+          "html": "<a href=\"/governance\" class=\"drop-opener has-drop-down-a\">Governance <span class=\"ico icon-right-arrow\"></span></a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 1101.078125,
+            "y": 76,
+            "w": 134.6875,
+            "h": 60
+          }
+        },
+        {
+          "target": ".has-drop-down-a.drop-opener[href$=\"careers\"]",
+          "html": "<a href=\"/careers\" class=\"drop-opener has-drop-down-a\">Careers <span class=\"ico icon-right-arrow\"></span></a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 1235.765625,
+            "y": 76,
+            "w": 98.234375,
+            "h": 60
+          }
+        },
+        {
+          "target": ".has-drop-down-a.drop-opener[href$=\"media-centre\"]",
+          "html": "<a href=\"/media-centre\" class=\"drop-opener has-drop-down-a\">Media Centre <span class=\"ico icon-right-arrow\"></span></a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 1192.8125,
+            "y": 136,
+            "w": 141.1875,
+            "h": 60
+          }
+        },
+        {
+          "target": ".ci-events-block > .container > .head-holder > .h3.t_sd-f.d-block",
+          "html": "<span class=\"h3 d-block t_sd-f\">Upcoming Events</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 20,
+            "y": 1446.640625,
+            "w": 236.484375,
+            "h": 56
+          }
+        },
+        {
+          "target": ".info",
+          "html": "<span class=\"info t_sd-f\">Today is Fri. <time datetime=\"2026-09-18\">Sep 18, 2026</time> - </span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 826,
+            "y": 1461.640625,
+            "w": 352,
+            "h": 20
+          }
+        },
+        {
+          "target": "time[datetime=\"2026-09-18\"]",
+          "html": "<time datetime=\"2026-09-18\">Sep 18, 2026</time>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 923.5,
+            "y": 1462.640625,
+            "w": 96.078125,
+            "h": 17
+          }
+        },
+        {
+          "target": ".col-hold:nth-child(1) > .date.d-block.t_pb-f",
+          "html": "<span class=\"date d-block t_pb-f\">Thu. Sep. 24</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 20,
+            "y": 1520.640625,
+            "w": 238,
+            "h": 36
+          }
+        },
+        {
+          "target": "a[aria-label=\"Dagwaagin Pow Wow\"]",
+          "html": "<a href=\"javascript:\" class=\"event-opener t_pd-f\" aria-label=\"Dagwaagin Pow Wow\">Dagwaagin Pow Wow</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 20,
+            "y": 1570.640625,
+            "w": 173.4375,
+            "h": 55.078125
+          }
+        },
+        {
+          "target": ".col-hold:nth-child(1) > .timing.d-block",
+          "html": "<span class=\"timing d-block\">10:00 AM - 1:30 PM</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 20,
+            "y": 1637.796875,
+            "w": 238,
+            "h": 27
+          }
+        },
+        {
+          "target": ".col-hold:nth-child(2) > .date.d-block.t_pb-f",
+          "html": "<span class=\"date d-block t_pb-f\">Wed. Sep. 30</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 292,
+            "y": 1520.640625,
+            "w": 238,
+            "h": 36
+          }
+        },
+        {
+          "target": ".col-hold:nth-child(2) > .t_pb-f-hc.title > .t_pd-f.event-opener[href=\"javascript:\"]",
+          "html": "<a href=\"javascript:\" class=\"event-opener t_pd-f\" aria-label=\"National Day for Truth &amp; Reconciliation\">National Day for Truth &amp; Reconciliation</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 292,
+            "y": 1570.640625,
+            "w": 172.078125,
+            "h": 83.15625
+          }
+        },
+        {
+          "target": ".col-hold:nth-child(2) > .timing.d-block",
+          "html": "<span class=\"timing d-block\">All Day</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 292,
+            "y": 1665.875,
+            "w": 238,
+            "h": 27
+          }
+        },
+        {
+          "target": ".col-hold:nth-child(3) > .date.d-block.t_pb-f",
+          "html": "<span class=\"date d-block t_pb-f\">Mon. Oct. 5</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 564,
+            "y": 1520.640625,
+            "w": 238,
+            "h": 36
+          }
+        },
+        {
+          "target": "a[aria-label=\"Public Board Meeting\"]",
+          "html": "<a href=\"javascript:\" class=\"event-opener t_pd-f\" aria-label=\"Public Board Meeting\">Public Board Meeting</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 564,
+            "y": 1570.640625,
+            "w": 136.078125,
+            "h": 55.078125
+          }
+        },
+        {
+          "target": ".col-hold:nth-child(3) > .timing.d-block",
+          "html": "<span class=\"timing d-block\">7:00 PM - 9:00 PM</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 564,
+            "y": 1637.796875,
+            "w": 238,
+            "h": 27
+          }
+        },
+        {
+          "target": ".col-hold:nth-child(4) > .date.d-block.t_pb-f",
+          "html": "<span class=\"date d-block t_pb-f\">Tue. Oct. 6</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 836,
+            "y": 1520.640625,
+            "w": 238,
+            "h": 36
+          }
+        },
+        {
+          "target": "a[aria-label=\"Non-Instructional Day\"]",
+          "html": "<a href=\"javascript:\" class=\"event-opener t_pd-f\" aria-label=\"Non-Instructional Day\">Non-Instructional Day</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 836,
+            "y": 1570.640625,
+            "w": 181.421875,
+            "h": 55.078125
+          }
+        },
+        {
+          "target": ".col-hold:nth-child(4) > .timing.d-block",
+          "html": "<span class=\"timing d-block\">8:30 AM - 4:30 PM</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 836,
+            "y": 1637.796875,
+            "w": 238,
+            "h": 27
+          }
+        },
+        {
+          "target": ".col-hold:nth-child(5) > .date.d-block.t_pb-f",
+          "html": "<span class=\"date d-block t_pb-f\">Mon. Oct. 12</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 1108,
+            "y": 1520.640625,
+            "w": 238,
+            "h": 36
+          }
+        },
+        {
+          "target": "a[aria-label=\"Thanksgiving\"]",
+          "html": "<a href=\"javascript:\" class=\"event-opener t_pd-f\" aria-label=\"Thanksgiving\">Thanksgiving</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 1108,
+            "y": 1570.640625,
+            "w": 141.421875,
+            "h": 27
+          }
+        },
+        {
+          "target": ".col-hold:nth-child(5) > .timing.d-block",
+          "html": "<span class=\"timing d-block\">All Day</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 1108,
+            "y": 1609.71875,
+            "w": 238,
+            "h": 27
+          }
+        }
+      ]
+    }
+  ],
+  "violations": [
+    {
+      "id": "link-name",
+      "impact": "serious",
+      "help": "Links must have discernible text",
+      "description": "Ensure links have discernible text",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/link-name?application=playwright",
+      "tags": [
+        "cat.name-role-value",
+        "wcag2a",
+        "wcag244",
+        "wcag412",
+        "section508",
+        "section508.22.a",
+        "TTv5",
+        "TT6.a",
+        "EN-301-549",
+        "EN-9.2.4.4",
+        "EN-9.4.1.2",
+        "ACT",
+        "RGAAv4",
+        "RGAA-6.2.1"
+      ],
+      "wcag": [
+        "2.4.4",
+        "4.1.2"
+      ],
+      "nodes": 2,
+      "items": [
+        {
+          "target": ".right-hold > .ci-top-list.list-unstyled > li:nth-child(2) > .no-link[href=\"javascript:\"]",
+          "html": "<a href=\"javascript:\" class=\"no-link\"> </a>",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": {
+            "x": 590.921875,
+            "y": 0,
+            "w": 28,
+            "h": 32
+          }
+        },
+        {
+          "target": ".search-form1 > a[href=\"javascript:\"]",
+          "html": "<a href=\"javascript:\"></a>",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": {
+            "x": 1095,
+            "y": 40.5,
+            "w": 0,
+            "h": 0
+          }
+        }
+      ]
+    }
+  ],
+  "verdict": "FAILURES DETECTED"
+}

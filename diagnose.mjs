@@ -20,10 +20,11 @@
  *   node diagnose.mjs                 every URL in diagnose-urls.txt
  *   node diagnose.mjs --file urls.txt use a different list
  *   node diagnose.mjs --wait 12000    settle time in ms (default 8000)
+ *   node diagnose.mjs --report-only   rebuild scan-audit.md from diagnostics/ without scanning
  */
 import { chromium } from 'playwright';
 import { createRequire } from 'node:module';
-import { readFileSync, writeFileSync, mkdirSync, existsSync } from 'node:fs';
+import { readFileSync, writeFileSync, mkdirSync, existsSync, readdirSync } from 'node:fs';
 import path from 'node:path';
 
 const require = createRequire(import.meta.url);
@@ -205,12 +206,20 @@ async function diagnose(browser, url) {
 }
 
 async function main() {
+  const recs = [];
+  if (process.argv.includes('--report-only')) {
+    for (const f of readdirSync(OUT).filter((n) => n.endsWith('.json')).sort()) {
+      recs.push(JSON.parse(readFileSync(path.join(OUT, f), 'utf8')));
+    }
+    writeReport(recs);
+    return;
+  }
+
   console.log(`Scan audit — ${urls.length} sites, ${SETTLE}ms settle, networkidle\n`);
   const browser = await chromium.launch(
     process.env.CHROMIUM_PATH ? { executablePath: process.env.CHROMIUM_PATH } : {}
   );
 
-  const recs = [];
   for (const u of urls) {
     const r = await diagnose(browser, u);
     recs.push(r);
@@ -228,9 +237,12 @@ async function main() {
     }
   }
   await browser.close();
+  writeReport(recs);
+}
 
+function writeReport(recs) {
   let md = `# Scan audit — did the baseline actually look at these pages?\n\n`;
-  md += `Run ${new Date().toISOString().slice(0, 10)}. ${urls.length} sites, ${SETTLE}ms settle after networkidle.\n\n`;
+  md += `Run ${new Date().toISOString().slice(0, 10)}. ${recs.length} sites, ${SETTLE}ms settle after networkidle.\n\n`;
   md += `The baseline run reported zero violations on several of these. This checks whether\n`;
   md += `that meant "clean" or meant "nothing was examined".\n\n`;
   md += `| Site | Verdict | Fails | Needs review | Nodes tested | Elements |\n|---|---|---:|---:|---:|---:|\n`;
