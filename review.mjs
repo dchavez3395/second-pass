@@ -40,6 +40,7 @@ import {
   loadCriteria,
   loadTasks,
   groupFindings,
+  loadSiteRecords,
 } from './lib/findings.mjs';
 
 const LOG = path.join(ROOT, 'review-log.md');
@@ -192,6 +193,7 @@ function sitePayload(site) {
     for (const id of g.ids) if (all[id]) proposals[id] = decided ? all[id] : evidenceOnly(all[id]);
   }
   const f0 = findings[0];
+  const rec = loadSiteRecords()[site] || {};
   const criteria = {};
   for (const [k, v] of Object.entries(loadCriteria())) if (v.site === site) criteria[v.criterion] = v;
   const tasks = Object.values(loadTasks()).filter((t) => t.site === site);
@@ -201,6 +203,9 @@ function sitePayload(site) {
     title: f0.title,
     shot: f0.shot,
     viewport: f0.viewport,
+    axe: rec.axe || null,
+    verdict: rec.verdict || '',
+    scannedAt: rec.scannedAt || '',
     wcag: { criteria: allCriteria(), statuses: WCAG.statuses, severities: WCAG.severities, taskStatuses: WCAG.taskStatuses },
     findings,
     groups,
@@ -215,11 +220,13 @@ function sitesPayload() {
   const findings = loadFindings();
   const decisions = loadDecisions();
   const criteria = loadCriteria();
+  const recs = loadSiteRecords();
   const sites = {};
   for (const f of findings) {
-    const s = (sites[f.site] ||= { site: f.site, url: f.url, title: f.title, findings: 0, decided: 0, criteriaDone: 0 });
+    const s = (sites[f.site] ||= { site: f.site, url: f.url, title: f.title, findings: 0, failures: 0, unsure: 0, decided: 0, confirmed: 0, criteriaDone: 0, axe: recs[f.site] ? recs[f.site].axe : null, verdict: recs[f.site] ? recs[f.site].verdict : '' });
     s.findings++;
-    if (decisions[f.id]) s.decided++;
+    if (f.kind === 'violation') s.failures++; else s.unsure++;
+    if (decisions[f.id]) { s.decided++; if (decisions[f.id].verdict === 'confirm') s.confirmed++; }
   }
   for (const c of Object.values(criteria)) if (sites[c.site] && c.status && c.status !== 'Not Evaluated') sites[c.site].criteriaDone++;
   return Object.values(sites).sort((a, b) => a.site.localeCompare(b.site));

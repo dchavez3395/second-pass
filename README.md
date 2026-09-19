@@ -120,7 +120,8 @@ decision with its reason.
 
 ## urls.txt
 
-One URL per line, `#` for comments. Corrected after the first runs: `flinflon.ca` → `cityofflinflon.com`,
+One URL per line, `#` for comments. Corrected after the first runs: `flinflon.ca` → `cityofflinflon.ca` (`cityofflinflon.com`
+is an expired domain now serving unrelated content — a finding in itself),
 `sjsd.net` → `sjasd.ca`, `wsd1.org` → `winnipegsd.ca`, `mordenmb.com` → `morden.ca`.
 Method notes: `morden.ca` sits behind a Cloudflare challenge and returns a
 "Just a moment…" page to a headless browser (flagged PAGE DID NOT RENDER, excluded);

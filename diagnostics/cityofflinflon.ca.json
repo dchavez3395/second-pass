@@ -1,0 +1,1098 @@
+{
+  "url": "https://www.cityofflinflon.ca/",
+  "ok": true,
+  "status": 200,
+  "title": "Flin Flon, MB",
+  "finalUrl": "https://cityofflinflon.ca/",
+  "shape": {
+    "elements": 1087,
+    "images": 18,
+    "links": 234,
+    "buttons": 20,
+    "inputs": 6,
+    "headings": 17,
+    "textLength": 1531,
+    "lang": "en",
+    "iframes": 0
+  },
+  "viewport": {
+    "width": 1366,
+    "height": 900
+  },
+  "scannedAt": "2026-09-19T23:14:38.212Z",
+  "axe": {
+    "violationRules": 4,
+    "violationNodes": 11,
+    "passRules": 29,
+    "passNodes": 406,
+    "incompleteRules": 1,
+    "incompleteNodes": 38,
+    "inapplicableRules": 34,
+    "testedNodes": 455
+  },
+  "incomplete": [
+    {
+      "id": "color-contrast",
+      "impact": "serious",
+      "help": "Elements must meet minimum color contrast ratio thresholds",
+      "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/color-contrast?application=playwright",
+      "tags": [
+        "cat.color",
+        "wcag2aa",
+        "wcag143",
+        "TTv5",
+        "TT13.c",
+        "EN-301-549",
+        "EN-9.1.4.3",
+        "ACT",
+        "RGAAv4",
+        "RGAA-3.2.1"
+      ],
+      "wcag": [
+        "1.4.3"
+      ],
+      "why": "Element's background color could not be determined due to a background image",
+      "nodes": 38,
+      "sample": [
+        {
+          "target": "a[href$=\"residents\"][aria-haspopup=\"true\"] > span",
+          "html": "<span>Residents</span>"
+        },
+        {
+          "target": "a[href$=\"residents\"][aria-haspopup=\"true\"] > .triangle",
+          "html": "<button class=\"triangle\" tabindex=\"0\"><span class=\"hidden\">show submenu for Residents</span>▼</button>"
+        },
+        {
+          "target": "a[href$=\"recreation\"][aria-haspopup=\"true\"] > span",
+          "html": "<span>Recreation</span>"
+        }
+      ],
+      "items": [
+        {
+          "target": "a[href$=\"residents\"][aria-haspopup=\"true\"] > span",
+          "html": "<span>Residents</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 467.46875,
+            "y": 120,
+            "w": 119.671875,
+            "h": 23,
+            "fontSize": 18,
+            "fontWeight": "800",
+            "color": "rgb(46, 42, 43)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "RESIDENTS"
+          }
+        },
+        {
+          "target": "a[href$=\"residents\"][aria-haspopup=\"true\"] > .triangle",
+          "html": "<button class=\"triangle\" tabindex=\"0\"><span class=\"hidden\">show submenu for Residents</span>▼</button>",
+          "impact": "serious",
+          "messages": [
+            "Element content contains only non-text characters"
+          ],
+          "box": {
+            "x": 594.140625,
+            "y": 124,
+            "w": 16.203125,
+            "h": 17,
+            "fontSize": 13.3333,
+            "fontWeight": "400",
+            "color": "rgb(46, 42, 43)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "show submenu for Residents ▼"
+          }
+        },
+        {
+          "target": "a[href$=\"recreation\"][aria-haspopup=\"true\"] > span",
+          "html": "<span>Recreation</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 665.546875,
+            "y": 120,
+            "w": 136.09375,
+            "h": 23,
+            "fontSize": 18,
+            "fontWeight": "800",
+            "color": "rgb(46, 42, 43)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "RECREATION"
+          }
+        },
+        {
+          "target": "a[href$=\"recreation\"][aria-haspopup=\"true\"] > .triangle",
+          "html": "<button class=\"triangle\" tabindex=\"0\"><span class=\"hidden\">show submenu for Recreation</span>▼</button>",
+          "impact": "serious",
+          "messages": [
+            "Element content contains only non-text characters"
+          ],
+          "box": {
+            "x": 808.640625,
+            "y": 124,
+            "w": 16.203125,
+            "h": 17,
+            "fontSize": 13.3333,
+            "fontWeight": "400",
+            "color": "rgb(46, 42, 43)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "show submenu for Recreation ▼"
+          }
+        },
+        {
+          "target": "a[href$=\"government\"][aria-haspopup=\"true\"] > span",
+          "html": "<span>Government</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 880.0625,
+            "y": 120,
+            "w": 149.375,
+            "h": 23,
+            "fontSize": 18,
+            "fontWeight": "800",
+            "color": "rgb(46, 42, 43)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "GOVERNMENT"
+          }
+        },
+        {
+          "target": "a[href$=\"government\"][aria-haspopup=\"true\"] > .triangle",
+          "html": "<button class=\"triangle\" tabindex=\"0\"><span class=\"hidden\">show submenu for Government</span>▼</button>",
+          "impact": "serious",
+          "messages": [
+            "Element content contains only non-text characters"
+          ],
+          "box": {
+            "x": 1036.4375,
+            "y": 124,
+            "w": 16.203125,
+            "h": 17,
+            "fontSize": 13.3333,
+            "fontWeight": "400",
+            "color": "rgb(46, 42, 43)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "show submenu for Government ▼"
+          }
+        },
+        {
+          "target": ".twocol.hasChildren:nth-child(5) > a[aria-haspopup=\"true\"] > span",
+          "html": "<span>Visit Flin Flon</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 1107.84375,
+            "y": 120,
+            "w": 174.953125,
+            "h": 23,
+            "fontSize": 18,
+            "fontWeight": "800",
+            "color": "rgb(46, 42, 43)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "VISIT FLIN FLON"
+          }
+        },
+        {
+          "target": ".twocol.hasChildren:nth-child(5) > a[aria-haspopup=\"true\"] > .triangle",
+          "html": "<button class=\"triangle\" tabindex=\"0\"><span class=\"hidden\">show submenu for Visit Flin Flon</span>▼</button>",
+          "impact": "serious",
+          "messages": [
+            "Element content contains only non-text characters"
+          ],
+          "box": {
+            "x": 1289.796875,
+            "y": 124,
+            "w": 16.203125,
+            "h": 17,
+            "fontSize": 13.3333,
+            "fontWeight": "400",
+            "color": "rgb(46, 42, 43)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "show submenu for Visit Flin Flon ▼"
+          }
+        },
+        {
+          "target": "#IDAMQL0R > .titlebox > .title[role=\"heading\"]",
+          "html": "<div class=\"title\" role=\"heading\">Emergency<!----></div>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 60,
+            "y": 328.59375,
+            "w": 575.109375,
+            "h": 40,
+            "fontSize": 24,
+            "fontWeight": "700",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "EMERGENCY"
+          }
+        },
+        {
+          "target": "#IDAMQL0R > .titlebox > .subtitle[role=\"heading\"]",
+          "html": "<div class=\"subtitle\" role=\"heading\">Pre-Registration<!----></div>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 60,
+            "y": 368.59375,
+            "w": 575.109375,
+            "h": 58,
+            "fontSize": 50,
+            "fontWeight": "800",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "PRE-REGISTRATION"
+          }
+        },
+        {
+          "target": "#IDAMQL0R > .titlebox > .caption",
+          "html": "<div class=\"caption\">Help us plan for city-wide emergencies.<!----></div>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 60,
+            "y": 441.59375,
+            "w": 316.296875,
+            "h": 25,
+            "fontSize": 16,
+            "fontWeight": "600",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Help us plan for city-wide emergencies."
+          }
+        },
+        {
+          "target": "#IDAMQL0R > .titlebox > .readmore",
+          "html": "<a class=\"readmore\" href=\"https://forms.gle/4DNQnxwzRGs1nkwK8\">Fill out the form</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 60,
+            "y": 496.59375,
+            "w": 253.75,
+            "h": 50,
+            "fontSize": 16,
+            "fontWeight": "800",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(0, 92, 87)",
+            "text": "FILL OUT THE FORM"
+          }
+        },
+        {
+          "target": ".B_LIST > h2",
+          "html": "<h2>Explore</h2>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it is overlapped by another element"
+          ],
+          "box": {
+            "x": 60,
+            "y": 850,
+            "w": 1246,
+            "h": 28,
+            "fontSize": 18,
+            "fontWeight": "700",
+            "color": "rgb(0, 92, 87)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "EXPLORE"
+          }
+        },
+        {
+          "target": "h2 > a[href$=\"upcoming-events\"]",
+          "html": "<a href=\"/upcoming-events\">Upcoming Events</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because element contains an image node"
+          ],
+          "box": {
+            "x": 256.90625,
+            "y": 1300.40625,
+            "w": 204.1875,
+            "h": 23,
+            "fontSize": 18,
+            "fontWeight": "700",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "UPCOMING EVENTS"
+          }
+        },
+        {
+          "target": "h2 > a[href$=\"truck-routes\"]",
+          "html": "<a href=\"/truck-routes\">Semi Truck Routes</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because element contains an image node"
+          ],
+          "box": {
+            "x": 896.15625,
+            "y": 1300.40625,
+            "w": 221.6875,
+            "h": 23,
+            "fontSize": 18,
+            "fontWeight": "700",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "SEMI TRUCK ROUTES"
+          }
+        },
+        {
+          "target": "h2 > a[href$=\"one-dollar-lots\"]",
+          "html": "<a href=\"/one-dollar-lots\" target=\"_blank\" aria-label=\"Opens in a new tab\">One-Dollar Lots</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because element contains an image node"
+          ],
+          "box": {
+            "x": 258.859375,
+            "y": 1793.90625,
+            "w": 200.28125,
+            "h": 23,
+            "fontSize": 18,
+            "fontWeight": "700",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "ONE-DOLLAR LOTS"
+          }
+        },
+        {
+          "target": ".responsivebox:nth-child(7) > div > h2 > a",
+          "html": "<a href=\"https://cityofflinflon.perfectmind.com/SocialSite/MemberRegistration/MemberSignIn\">Book a Facility</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because element contains an image node"
+          ],
+          "box": {
+            "x": 267,
+            "y": 2232.828125,
+            "w": 183.984375,
+            "h": 23,
+            "fontSize": 18,
+            "fontWeight": "700",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "BOOK A FACILITY"
+          }
+        },
+        {
+          "target": "h2 > a[href$=\"employment\"]",
+          "html": "<a href=\"/employment\">Work With Us</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because element contains an image node"
+          ],
+          "box": {
+            "x": 923.09375,
+            "y": 2232.828125,
+            "w": 167.8125,
+            "h": 23,
+            "fontSize": 18,
+            "fontWeight": "700",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "WORK WITH US"
+          }
+        },
+        {
+          "target": ".B_PR > h2",
+          "html": "<h2>City Updates</h2>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 60,
+            "y": 2336.828125,
+            "w": 1246,
+            "h": 30,
+            "fontSize": 20,
+            "fontWeight": "700",
+            "color": "rgb(0, 92, 87)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "CITY UPDATES"
+          }
+        },
+        {
+          "target": ".B_PR > h3",
+          "html": "<h3 class=\"subtitle\">Latest Notices</h3>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 60,
+            "y": 2366.828125,
+            "w": 1246,
+            "h": 50,
+            "fontSize": 30,
+            "fontWeight": "800",
+            "color": "rgb(0, 85, 135)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "LATEST NOTICES"
+          }
+        },
+        {
+          "target": "article:nth-child(1) > .news-content > h3 > .item",
+          "html": "<a class=\"item\" href=\"/index.asp?SEC=5BAE99CB-911F-49A1-A2D8-1599C048E2DD&amp;DE=B8B1B9C7-96B8-40D9-8FC6-2BE53095834B\">Flin Flon &amp; Creighton Community Safety &amp; Well-Being Survey, Deadline to participate: June 15, 2026</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 95,
+            "y": 2737.828125,
+            "w": 276.046875,
+            "h": 119,
+            "fontSize": 20,
+            "fontWeight": "700",
+            "color": "rgb(0, 85, 135)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Flin Flon & Creighton Community Safety & Well-Being Survey, Deadline To Particip"
+          }
+        },
+        {
+          "target": "article:nth-child(1) > .news-content > .newsdatetime > time",
+          "html": "<time>Friday, May 22, 2026 at 9:45 AM</time>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 95,
+            "y": 2858.828125,
+            "w": 244.765625,
+            "h": 31,
+            "fontSize": 16,
+            "fontWeight": "600",
+            "color": "rgb(0, 92, 87)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Friday, May 22, 2026 At 9:45 AM"
+          }
+        },
+        {
+          "target": "article:nth-child(2) > .news-content > h3 > .item",
+          "html": "<a class=\"item\" href=\"/index.asp?SEC=5BAE99CB-911F-49A1-A2D8-1599C048E2DD&amp;DE=28E6BB54-88F5-437D-B619-32F0074DA80B\">New Water Delivery For Channing and Waly Heights</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 527,
+            "y": 2737.828125,
+            "w": 296.375,
+            "h": 63,
+            "fontSize": 20,
+            "fontWeight": "700",
+            "color": "rgb(0, 85, 135)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "New Water Delivery For Channing And Waly Heights"
+          }
+        },
+        {
+          "target": "article:nth-child(2) > .news-content > .newsdatetime > time",
+          "html": "<time>Thursday, April 30, 2026 at 10:52 AM</time>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 527,
+            "y": 2802.828125,
+            "w": 281.5625,
+            "h": 31,
+            "fontSize": 16,
+            "fontWeight": "600",
+            "color": "rgb(0, 92, 87)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Thursday, April 30, 2026 At 10:52 AM"
+          }
+        },
+        {
+          "target": "article:nth-child(3) > .news-content > h3 > .item",
+          "html": "<a class=\"item\" href=\"/index.asp?SEC=5BAE99CB-911F-49A1-A2D8-1599C048E2DD&amp;DE=5CF5E739-C93B-416F-860A-406B8D6E4863\">2026 Emergency Pre-Registration Form</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 959,
+            "y": 2737.828125,
+            "w": 223.875,
+            "h": 63,
+            "fontSize": 20,
+            "fontWeight": "700",
+            "color": "rgb(0, 85, 135)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "2026 Emergency Pre-Registration Form"
+          }
+        },
+        {
+          "target": "article:nth-child(3) > .news-content > .newsdatetime > time",
+          "html": "<time>Monday, April 20, 2026 at 5:35 PM</time>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 959,
+            "y": 2802.828125,
+            "w": 260.65625,
+            "h": 31,
+            "fontSize": 16,
+            "fontWeight": "600",
+            "color": "rgb(0, 92, 87)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Monday, April 20, 2026 At 5:35 PM"
+          }
+        },
+        {
+          "target": ".small > a",
+          "html": "<a href=\"/index.asp?SEC=5BAE99CB-911F-49A1-A2D8-1599C048E2DD\">view all news</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 573,
+            "y": 2964.828125,
+            "w": 220,
+            "h": 50,
+            "fontSize": 16,
+            "fontWeight": "800",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(0, 92, 87)",
+            "text": "VIEW ALL NEWS"
+          }
+        },
+        {
+          "target": ".footer-group:nth-child(1) > .f-top > h4",
+          "html": "<h4>Contact Us</h4>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 60,
+            "y": 3146.328125,
+            "w": 415.34375,
+            "h": 30,
+            "fontSize": 20,
+            "fontWeight": "800",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "CONTACT US"
+          }
+        },
+        {
+          "target": ".text > a[aria-label=\"Opens in a new tab\"][target=\"_blank\"]",
+          "html": "<a href=\"https://www.google.c...\" target=\"_blank\" aria-label=\"Opens in a new tab\">",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 140.5625,
+            "y": 3188.328125,
+            "w": 254.21875,
+            "h": 20,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "20 First Avenue, Flin Flon R8A 0T7"
+          }
+        },
+        {
+          "target": ".text2",
+          "html": "<div class=\"text2\">Phone: 833-210-6435<!----></div>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 95.09375,
+            "y": 3212.328125,
+            "w": 164.53125,
+            "h": 28,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Phone: 833-210-6435"
+          }
+        },
+        {
+          "target": ".text3",
+          "html": "<div class=\"text3\">Email: info@flinflon.ca<!----></div>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 277.859375,
+            "y": 3212.328125,
+            "w": 162.390625,
+            "h": 28,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Email: info@flinflon.ca"
+          }
+        },
+        {
+          "target": ".copyright > span",
+          "html": "<span>\n<script>document.write(new Date().getFullYear())</script>2026\n<i class=\"fa-sharp fa-light fa-copyright\" aria-hidden=\"true\"></i>\n<span class=\"footer-cr\">City of Flin Flon<!----></span>\n</span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 138.328125,
+            "y": 3279.328125,
+            "w": 258.6875,
+            "h": 28,
+            "fontSize": 16,
+            "fontWeight": "700",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "2026 CITY OF FLIN FLON"
+          }
+        },
+        {
+          "target": ".footer-cr",
+          "html": "<span class=\"footer-cr\">City of Flin Flon<!----></span>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 215.515625,
+            "y": 3279.328125,
+            "w": 181.5,
+            "h": 28,
+            "fontSize": 16,
+            "fontWeight": "700",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "CITY OF FLIN FLON"
+          }
+        },
+        {
+          "target": ".footer-group:nth-child(3) > .f-top > h4",
+          "html": "<h4>Office Hours</h4>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 890.671875,
+            "y": 3134.828125,
+            "w": 415.328125,
+            "h": 30,
+            "fontSize": 20,
+            "fontWeight": "800",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "OFFICE HOURS"
+          }
+        },
+        {
+          "target": ".text4",
+          "html": "<div class=\"text4\">Regular office hours for the City of Flin Flon are:<!----></div>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 890.671875,
+            "y": 3172.828125,
+            "w": 415.328125,
+            "h": 28,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Regular office hours for the City of Flin Flon are:"
+          }
+        },
+        {
+          "target": ".text5",
+          "html": "<div class=\"text5\">Mon to Fri: 8am to 4pm (Excluding Statutory Holidays).<!----></div>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 890.671875,
+            "y": 3200.828125,
+            "w": 415.328125,
+            "h": 28,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Mon to Fri: 8am to 4pm (Excluding Statutory Holidays)."
+          }
+        },
+        {
+          "target": ".for-desktop > .verticalLogo_text > a[href$=\"catalisgov.com\"][target=\"blank\"]",
+          "html": "<a href=\"https://catalisgov.com\" target=\"blank\">Government Websites by Catalis</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 913.4375,
+            "y": 3269.828125,
+            "w": 356.890625,
+            "h": 28,
+            "fontSize": 16,
+            "fontWeight": "700",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "GOVERNMENT WEBSITES BY CATALIS"
+          }
+        },
+        {
+          "target": ".for-desktop > .verticalLogo_text > .privacypolicylink[aria-label=\"Opens in a new tab\"][target=\"_blank\"]",
+          "html": "<a class=\"privacypolicylink\" href=\"https://catalisgov.com/privacy-policy/\" target=\"_blank\" aria-label=\"Opens in a new tab\">Privacy Policy</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 1018.625,
+            "y": 3289.828125,
+            "w": 159.40625,
+            "h": 28,
+            "fontSize": 16,
+            "fontWeight": "700",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "PRIVACY POLICY"
+          }
+        }
+      ]
+    }
+  ],
+  "violations": [
+    {
+      "id": "aria-hidden-focus",
+      "impact": "serious",
+      "help": "ARIA hidden element must not be focusable or contain focusable elements",
+      "description": "Ensure aria-hidden elements are not focusable nor contain focusable elements",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/aria-hidden-focus?application=playwright",
+      "tags": [
+        "cat.name-role-value",
+        "wcag2a",
+        "wcag412",
+        "TTv5",
+        "TT6.a",
+        "EN-301-549",
+        "EN-9.4.1.2",
+        "RGAAv4",
+        "RGAA-10.8.1"
+      ],
+      "wcag": [
+        "4.1.2"
+      ],
+      "nodes": 1,
+      "items": [
+        {
+          "target": ".socialFixed",
+          "html": "<div class=\"socialFixed desktoponly\" aria-hidden=\"true\">",
+          "impact": "serious",
+          "messages": [
+            "Focusable content should have tabindex=\"-1\" or be removed from the DOM"
+          ],
+          "box": {
+            "x": 1306,
+            "y": 360,
+            "w": 60,
+            "h": 150,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "aria-required-attr",
+      "impact": "critical",
+      "help": "Required ARIA attributes must be provided",
+      "description": "Ensure elements with ARIA roles have all required ARIA attributes",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/aria-required-attr?application=playwright",
+      "tags": [
+        "cat.aria",
+        "wcag2a",
+        "wcag412",
+        "EN-301-549",
+        "EN-9.4.1.2",
+        "RGAAv4",
+        "RGAA-7.1.1"
+      ],
+      "wcag": [
+        "4.1.2"
+      ],
+      "nodes": 6,
+      "items": [
+        {
+          "target": "#IDAN0J0R > .titlebox > .title[role=\"heading\"]",
+          "html": "<div class=\"title\" role=\"heading\">We're hiring a<!----></div>",
+          "impact": "critical",
+          "messages": [
+            "Required ARIA attribute not present: aria-level"
+          ],
+          "box": {
+            "x": -1306,
+            "y": 328.59375,
+            "w": 678.21875,
+            "h": 40,
+            "fontSize": 24,
+            "fontWeight": "700",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "WE'RE HIRING A"
+          }
+        },
+        {
+          "target": "#IDAN0J0R > .titlebox > .subtitle[role=\"heading\"]",
+          "html": "<div class=\"subtitle\" role=\"heading\">Utilities Supervisor<!----></div>",
+          "impact": "critical",
+          "messages": [
+            "Required ARIA attribute not present: aria-level"
+          ],
+          "box": {
+            "x": -1306,
+            "y": 368.59375,
+            "w": 678.21875,
+            "h": 58,
+            "fontSize": 50,
+            "fontWeight": "800",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "UTILITIES SUPERVISOR"
+          }
+        },
+        {
+          "target": "#IDAMQL0R > .titlebox > .title[role=\"heading\"]",
+          "html": "<div class=\"title\" role=\"heading\">Emergency<!----></div>",
+          "impact": "critical",
+          "messages": [
+            "Required ARIA attribute not present: aria-level"
+          ],
+          "box": {
+            "x": 60,
+            "y": 328.59375,
+            "w": 575.109375,
+            "h": 40,
+            "fontSize": 24,
+            "fontWeight": "700",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "EMERGENCY"
+          }
+        },
+        {
+          "target": "#IDAMQL0R > .titlebox > .subtitle[role=\"heading\"]",
+          "html": "<div class=\"subtitle\" role=\"heading\">Pre-Registration<!----></div>",
+          "impact": "critical",
+          "messages": [
+            "Required ARIA attribute not present: aria-level"
+          ],
+          "box": {
+            "x": 60,
+            "y": 368.59375,
+            "w": 575.109375,
+            "h": 58,
+            "fontSize": 50,
+            "fontWeight": "800",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "PRE-REGISTRATION"
+          }
+        },
+        {
+          "target": "#IDAFKL0R > .titlebox > .title[role=\"heading\"]",
+          "html": "<div class=\"title\" role=\"heading\">Important<!----></div>",
+          "impact": "critical",
+          "messages": [
+            "Required ARIA attribute not present: aria-level"
+          ],
+          "box": {
+            "x": 1426,
+            "y": 328.59375,
+            "w": 668.59375,
+            "h": 40,
+            "fontSize": 24,
+            "fontWeight": "700",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "IMPORTANT"
+          }
+        },
+        {
+          "target": "#IDAFKL0R > .titlebox > .subtitle[role=\"heading\"]",
+          "html": "<div class=\"subtitle\" role=\"heading\">Trucking Routes<!----></div>",
+          "impact": "critical",
+          "messages": [
+            "Required ARIA attribute not present: aria-level"
+          ],
+          "box": {
+            "x": 1426,
+            "y": 368.59375,
+            "w": 668.59375,
+            "h": 58,
+            "fontSize": 50,
+            "fontWeight": "800",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "TRUCKING ROUTES"
+          }
+        }
+      ]
+    },
+    {
+      "id": "nested-interactive",
+      "impact": "serious",
+      "help": "Interactive controls must not be nested",
+      "description": "Ensure interactive controls are not nested as they are not always announced by screen readers or can cause focus problems for assistive technologies",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/nested-interactive?application=playwright",
+      "tags": [
+        "cat.keyboard",
+        "wcag2a",
+        "wcag412",
+        "TTv5",
+        "TT6.a",
+        "EN-301-549",
+        "EN-9.4.1.2",
+        "RGAAv4",
+        "RGAA-7.1.1"
+      ],
+      "wcag": [
+        "4.1.2"
+      ],
+      "nodes": 3,
+      "items": [
+        {
+          "target": "#IDAN0J0R",
+          "html": "<div id=\"IDAN0J0R\" role=\"img\" aria-label=\"1X2A6545\" class=\"item slide hastext\" style=\"background: url('/vertical/Sites/%7B5A694068-650F-4C44-B310-F72738598E93%7D/uploads/1X2A6545_Crop.jpg') no-repeat center center; background-size: cover;\">",
+          "impact": "serious",
+          "messages": [
+            "Element has focusable descendants"
+          ],
+          "box": {
+            "x": -1366,
+            "y": 60,
+            "w": 1366,
+            "h": 790,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0.3)",
+            "text": "WE'RE HIRING A UTILITIES SUPERVISOR Check out our available roles! LEARN MORE"
+          }
+        },
+        {
+          "target": "#IDAMQL0R",
+          "html": "<div id=\"IDAMQL0R\" role=\"img\" aria-label=\"fire_banner\" class=\"item slide hastext\" style=\"background: url('/vertical/Sites/%7B5A694068-650F-4C44-B310-F72738598E93%7D/uploads/fire_banner_Crop.jpg') no-repeat center center; background-size: cover;\">",
+          "impact": "serious",
+          "messages": [
+            "Element has focusable descendants"
+          ],
+          "box": {
+            "x": 0,
+            "y": 60,
+            "w": 1366,
+            "h": 790,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0.3)",
+            "text": "EMERGENCY PRE-REGISTRATION Help us plan for city-wide emergencies. FILL OUT THE "
+          }
+        },
+        {
+          "target": "#IDAFKL0R",
+          "html": "<div id=\"IDAFKL0R\" role=\"img\" aria-label=\"web_photos(2)\" class=\"item slide hastext\" style=\"background: url('/vertical/Sites/%7B5A694068-650F-4C44-B310-F72738598E93%7D/uploads/web_photos(2)_Crop.jpg') no-repeat center center; background-size: cover;\">",
+          "impact": "serious",
+          "messages": [
+            "Element has focusable descendants"
+          ],
+          "box": {
+            "x": 1366,
+            "y": 60,
+            "w": 1366,
+            "h": 790,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0.3)",
+            "text": "IMPORTANT TRUCKING ROUTES Semis should continue straight down Provincial Trunk H"
+          }
+        }
+      ]
+    },
+    {
+      "id": "target-size",
+      "impact": "serious",
+      "help": "All touch targets must be 24px large, or leave sufficient space",
+      "description": "Ensure touch targets have sufficient size and space",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/target-size?application=playwright",
+      "tags": [
+        "cat.sensory-and-visual-cues",
+        "wcag22aa",
+        "wcag258"
+      ],
+      "wcag": [
+        "2.5.8"
+      ],
+      "nodes": 1,
+      "items": [
+        {
+          "target": "#searchbutton",
+          "html": "<a href=\"#\" id=\"searchbutton\" onclick=\"$('.search.bar').submit();\" role=\"button\" aria-label=\"search\" class=\"searchMag\">\n<i class=\"fa fa-search\" aria-label=\"search\" aria-hidden=\"true\">\n<!----></i>\n</a>",
+          "impact": "serious",
+          "messages": [
+            "Target has insufficient size (20px by 20px, should be at least 24px by 24px)",
+            "Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 20px instead of at least 24px."
+          ],
+          "box": {
+            "x": 1306.6875,
+            "y": 20,
+            "w": 20,
+            "h": 20,
+            "fontSize": 16,
+            "fontWeight": "700",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "search"
+          }
+        }
+      ]
+    }
+  ],
+  "verdict": "FAILURES DETECTED"
+}

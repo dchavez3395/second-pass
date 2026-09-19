@@ -12,7 +12,7 @@ that meant "clean" or meant "nothing was examined".
 | www.brandonu.ca | FAILURES DETECTED | 13 | 43 | 447 | 485 |
 | www.cancercare.mb.ca | FAILURES DETECTED | 11 | 8 | 342 | 726 |
 | www.city-plap.com | FAILURES DETECTED | 2 | 4 | 454 | 725 |
-| www.cityofflinflon.com | FAILURES DETECTED | 65 | 52 | 986 | 881 |
+| www.cityofflinflon.ca | FAILURES DETECTED | 11 | 38 | 455 | 1087 |
 | www.cityofwinkler.ca | FAILURES DETECTED | 96 | 34 | 1015 | 1140 |
 | www.dauphin.ca | FAILURES DETECTED | 13 | 34 | 521 | 1316 |
 | www.gov.mb.ca | FAILURES DETECTED | 6 | 3 | 354 | 467 |
@@ -79,11 +79,11 @@ decide. This is the corpus the triage layer is built on.
   - axe says: Element's background color could not be determined because it partially overlaps other elements
   - e.g. `#cookieconsent\:desc > p`
 
-### www.cityofflinflon.com
+### www.cityofflinflon.ca
 
-- `color-contrast` (52 nodes) — Elements must meet minimum color contrast ratio thresholds
+- `color-contrast` (38 nodes) — Elements must meet minimum color contrast ratio thresholds
   - axe says: Element's background color could not be determined due to a background image
-  - e.g. `h1`
+  - e.g. `a[href$="residents"][aria-haspopup="true"] > span`
 
 ### www.cityofwinkler.ca
 
