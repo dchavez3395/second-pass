@@ -181,25 +181,35 @@ function prompt(f, meas, threshold) {
     `- "fail": the element as rendered fails the criterion`,
     `- "pass": it meets the criterion; the checker's uncertainty was a false alarm`,
     `- "cannot_tell": a person must look at the live page (state changes, hidden content, image text, or the crop does not show enough)`,
-    `Respond with JSON only: {"verdict": "pass"|"fail"|"cannot_tell", "confidence": 0.0-1.0, "reason": "<one or two sentences, specific to what you see>"}`
+    `Respond with JSON only, nothing before or after it: {"verdict": "pass"|"fail"|"cannot_tell", "confidence": 0.0-1.0, "reason": "<one sentence, under 40 words, specific to what you see>"}`
   );
   return lines.join('\n');
 }
 
-async function ask(f, cropPng, meas, threshold) {
+function parseVerdict(raw) {
+  const text = raw.replace(/<think>[\s\S]*?<\/think>/g, '').trim();
+  const m = text.match(/\{[\s\S]*\}/);
+  try {
+    const o = JSON.parse(m ? m[0] : text);
+    if (['pass', 'fail', 'cannot_tell'].includes(o.verdict)) return o;
+  } catch {}
+  // Truncated or wrapped JSON: salvage the fields by regex rather than lose the call.
+  const v = raw.match(/"verdict"\s*:\s*"(pass|fail|cannot_tell)"/);
+  if (!v) return null;
+  const c = raw.match(/"confidence"\s*:\s*([0-9.]+)/);
+  const r = raw.match(/"reason"\s*:\s*"([^"]*)/);
+  return { verdict: v[1], confidence: c ? Number(c[1]) : null, reason: r ? r[1] + (raw.includes(r[1] + '"') ? '' : ' […]') : '' };
+}
+
+async function callModel(content, image) {
   const body = {
     model: MODEL,
     stream: false,
-    format: 'json',
+    // No JSON mode: with qwen3-vl in Ollama it spends the budget thinking and returns nothing.
+    // think:false plus a JSON-only instruction is fast; the object is pulled out of the text.
     think: false,
-    options: { temperature: 0.1, num_predict: 400 },
-    messages: [
-      {
-        role: 'user',
-        content: prompt(f, meas, threshold),
-        images: [cropPng.toString('base64')],
-      },
-    ],
+    options: { temperature: 0, num_predict: 700 },
+    messages: [{ role: 'user', content, images: [image] }],
   };
   const r = await fetch(`${OLLAMA}/api/chat`, {
     method: 'POST',
@@ -208,18 +218,27 @@ async function ask(f, cropPng, meas, threshold) {
   });
   if (!r.ok) throw new Error(`ollama ${r.status}: ${(await r.text()).slice(0, 200)}`);
   const j = await r.json();
-  let out;
-  try {
-    out = JSON.parse(j.message.content);
-  } catch {
-    out = { verdict: 'cannot_tell', confidence: 0, reason: `model returned non-JSON: ${String(j.message.content).slice(0, 120)}` };
+  return { raw: (j.message.content || '').trim() || (j.message.thinking || '').trim(), ms: Math.round((j.total_duration || 0) / 1e6) };
+}
+
+async function ask(f, cropPng, meas, threshold) {
+  const image = cropPng.toString('base64');
+  let { raw, ms } = await callModel(prompt(f, meas, threshold), image);
+  let out = parseVerdict(raw);
+  if (!out) {
+    // One retry with the instruction sharpened; the model occasionally narrates instead of answering.
+    const nudge = '\n\nOutput the JSON object and nothing else. Do not think out loud. Keep "reason" under 40 words.';
+    const again = await callModel(prompt(f, meas, threshold) + nudge, image);
+    ms += again.ms;
+    raw = again.raw;
+    out = parseVerdict(raw);
   }
-  const verdict = ['pass', 'fail', 'cannot_tell'].includes(out.verdict) ? out.verdict : 'cannot_tell';
+  if (!out) out = { verdict: 'cannot_tell', confidence: 0, reason: `model returned no usable answer: ${raw.slice(0, 120)}` };
   return {
-    verdict,
+    verdict: out.verdict,
     confidence: Number.isFinite(Number(out.confidence)) ? clamp(Number(out.confidence), 0, 1) : null,
     reason: String(out.reason || '').slice(0, 400),
-    ms: Math.round((j.total_duration || 0) / 1e6),
+    ms,
   };
 }
 
