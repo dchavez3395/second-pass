@@ -6,353 +6,262 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
   :root {
-    --bg: #ffffff; --panel: #f5f6f8; --line: #dcdfe4; --text: #1a1d21; --muted: #6b7280;
-    --accent: #2563eb; --ok: #15803d; --bad: #b91c1c; --look: #b45309; --code: #eef0f3; --sel: #e8f0fe;
+    --bg: #ffffff; --panel: #f6f7f9; --line: #dfe3e8; --text: #1f2328; --muted: #6b7280;
+    --accent: #2563eb; --ok: #15803d; --bad: #b91c1c; --warn: #b45309; --okbg: #ecfdf3; --badbg: #fef2f2; --warnbg: #fffbeb;
   }
   @media (prefers-color-scheme: dark) {
     :root:not([data-theme="light"]) {
-      --bg: #111316; --panel: #191c21; --line: #2a2f37; --text: #e6e8eb; --muted: #9aa3ad;
-      --accent: #60a5fa; --ok: #4ade80; --bad: #f87171; --look: #fbbf24; --code: #0d0f12; --sel: #1e2a3f;
+      --bg: #111316; --panel: #1a1d22; --line: #2b3038; --text: #e6e8eb; --muted: #9aa3ad;
+      --accent: #60a5fa; --ok: #4ade80; --bad: #f87171; --warn: #fbbf24; --okbg: #12261a; --badbg: #2a1515; --warnbg: #2a2110;
     }
   }
   * { box-sizing: border-box; }
-  html, body { height: 100%; }
-  body { margin: 0; background: var(--bg); color: var(--text); font: 13.5px/1.45 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; display: flex; flex-direction: column; }
-  header { display: flex; flex-wrap: wrap; gap: 10px 16px; align-items: center; padding: 8px 14px; border-bottom: 1px solid var(--line); background: var(--panel); }
-  header h1 { font-size: 15px; margin: 0; font-weight: 600; }
-  header label { color: var(--muted); font-size: 12.5px; display: inline-flex; gap: 6px; align-items: center; }
-  select, input[type=text], textarea { font: inherit; color: var(--text); background: var(--bg); border: 1px solid var(--line); border-radius: 6px; padding: 5px 8px; }
-  textarea { width: 100%; min-height: 64px; resize: vertical; }
-  button { font: inherit; padding: 5px 10px; border-radius: 6px; border: 1px solid var(--line); background: var(--bg); color: var(--text); cursor: pointer; }
+  body { margin: 0; background: var(--bg); color: var(--text); font: 14px/1.5 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+  a { color: var(--accent); }
+  header { display: flex; flex-wrap: wrap; gap: 8px 18px; align-items: center; padding: 10px 20px; border-bottom: 1px solid var(--line); background: var(--panel); position: sticky; top: 0; z-index: 5; }
+  header h1 { font-size: 16px; margin: 0; font-weight: 600; }
+  select, input[type=text], textarea { font: inherit; color: var(--text); background: var(--bg); border: 1px solid var(--line); border-radius: 6px; padding: 6px 9px; }
+  button { font: inherit; padding: 6px 12px; border-radius: 6px; border: 1px solid var(--line); background: var(--bg); color: var(--text); cursor: pointer; }
   button:hover { border-color: var(--muted); }
   button.primary { background: var(--accent); color: #fff; border-color: var(--accent); }
-  button.on { outline: 2px solid var(--accent); }
-  button kbd { font: 11px ui-monospace, monospace; padding: 0 4px; border: 1px solid var(--line); border-radius: 4px; margin-right: 5px; color: var(--muted); }
-  button.confirm { border-color: var(--ok); } button.reject { border-color: var(--bad); } button.look { border-color: var(--look); }
-  .progress { margin-left: auto; color: var(--muted); font-variant-numeric: tabular-nums; font-size: 12.5px; }
-  .progress b { color: var(--text); }
-  main { flex: 1; display: grid; grid-template-columns: 300px minmax(440px, 1fr) minmax(420px, 1fr); min-height: 0; }
-  @media (max-width: 1200px) { main { grid-template-columns: 260px 1fr; } .shot { grid-column: 1 / -1; min-height: 420px; } }
+  button.ok { color: var(--ok); border-color: var(--ok); } button.bad { color: var(--bad); border-color: var(--bad); } button.warn { color: var(--warn); border-color: var(--warn); }
+  button.sm { padding: 3px 9px; font-size: 13px; }
+  .tabs { display: flex; gap: 4px; }
+  .tabs button { border: none; background: none; padding: 6px 10px; border-bottom: 2px solid transparent; border-radius: 0; color: var(--muted); }
+  .tabs button.on { color: var(--text); border-bottom-color: var(--accent); }
+  main { max-width: 1100px; margin: 0 auto; padding: 18px 20px 60px; }
 
-  /* criteria column */
-  .crit { overflow: auto; border-right: 1px solid var(--line); }
-  .crit .sec { padding: 10px 12px 4px; font-size: 11px; letter-spacing: .06em; text-transform: uppercase; color: var(--muted); font-weight: 600; position: sticky; top: 0; background: var(--bg); }
-  .crit .row { display: grid; grid-template-columns: 30px 1fr auto; gap: 6px; align-items: center; padding: 5px 12px; cursor: pointer; border-left: 3px solid transparent; }
-  .crit .row:hover { background: var(--panel); }
-  .crit .row.sel { background: var(--sel); border-left-color: var(--accent); }
-  .crit .row.dim { opacity: .55; }
-  .crit .lvl { font-size: 10.5px; color: var(--muted); border: 1px solid var(--line); border-radius: 4px; text-align: center; padding: 1px 0; }
-  .crit .name { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
-  .crit .name small { color: var(--muted); }
-  .crit .badge { font-size: 11px; color: var(--muted); border-radius: 999px; padding: 1px 7px; background: var(--panel); border: 1px solid var(--line); }
-  .crit .badge.fail { color: var(--bad); border-color: var(--bad); }
-  .crit .badge.open { color: var(--look); border-color: var(--look); }
-  .dot { display: inline-block; width: 8px; height: 8px; border-radius: 50%; margin-right: 6px; background: var(--line); vertical-align: 0; }
-  .dot.Supports { background: var(--ok); } .dot.Partially { background: var(--look); } .dot.Does { background: var(--bad); } .dot.Applicable { background: var(--muted); }
+  /* summary */
+  .summary { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 12px; margin-bottom: 18px; }
+  .stat { border: 1px solid var(--line); border-radius: 10px; padding: 12px 14px; }
+  .stat .n { font-size: 26px; font-weight: 600; line-height: 1.1; }
+  .stat .l { color: var(--muted); font-size: 12.5px; }
+  .stat.ok .n { color: var(--ok); } .stat.bad .n { color: var(--bad); } .stat.warn .n { color: var(--warn); }
+  .bar { height: 8px; border-radius: 4px; background: var(--line); overflow: hidden; display: flex; margin: 6px 0 16px; }
+  .bar i { display: block; height: 100%; } .bar .c { background: var(--bad); } .bar .i { background: var(--ok); } .bar .l { background: var(--warn); }
 
-  /* criterion panel */
-  .panel { overflow: auto; padding: 14px 16px; border-right: 1px solid var(--line); }
-  .panel h2 { font-size: 18px; margin: 0 0 2px; font-weight: 600; }
-  .panel h2 small { color: var(--muted); font-weight: 400; font-size: 13px; margin-left: 8px; }
-  .panel a { color: var(--accent); }
-  .guide { margin: 8px 0 12px; padding: 8px 12px; background: var(--panel); border-radius: 6px; font-size: 12.5px; color: var(--muted); }
-  .guide b { color: var(--text); font-weight: 600; }
-  .status { display: flex; flex-wrap: wrap; gap: 6px; margin: 10px 0 8px; }
-  .status button.Supports.on { background: var(--ok); color: #fff; border-color: var(--ok); outline: none; }
-  .status button.Partially.on { background: var(--look); color: #fff; border-color: var(--look); outline: none; }
-  .status button.Does.on { background: var(--bad); color: #fff; border-color: var(--bad); outline: none; }
-  .status button.Not.on { background: var(--muted); color: #fff; border-color: var(--muted); outline: none; }
-  h3 { font-size: 11px; letter-spacing: .06em; text-transform: uppercase; color: var(--muted); margin: 16px 0 6px; font-weight: 600; }
-  .group { border: 1px solid var(--line); border-radius: 8px; margin: 8px 0; padding: 10px 12px; }
-  .group.sel { border-color: var(--accent); box-shadow: 0 0 0 2px var(--sel); }
-  .group .head { display: flex; flex-wrap: wrap; gap: 6px 10px; align-items: baseline; cursor: pointer; }
-  .group .swatch { display: inline-block; width: 12px; height: 12px; border-radius: 3px; border: 1px solid var(--line); vertical-align: -1px; }
-  .pill { font-size: 11px; border: 1px solid var(--line); border-radius: 999px; padding: 1px 8px; color: var(--muted); }
-  .pill.violation { color: var(--bad); border-color: var(--bad); } .pill.incomplete { color: var(--look); border-color: var(--look); }
-  .meas { font-variant-numeric: tabular-nums; }
-  .meas b.pass { color: var(--ok); } .meas b.fail { color: var(--bad); }
-  .why { color: var(--muted); font-size: 12.5px; margin: 4px 0 8px; }
-  .acts { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-top: 6px; }
-  .acts input[type=text] { flex: 1; min-width: 160px; }
-  .decided { margin-top: 6px; padding: 8px 10px; border-radius: 6px; background: var(--panel); font-size: 12.5px; }
-  .decided b.confirm { color: var(--bad); } .decided b.reject { color: var(--ok); } .decided b.look { color: var(--look); }
-  .model { margin-top: 6px; padding: 8px 10px; border-radius: 6px; border: 1px dashed var(--line); font-size: 12.5px; }
-  .model.agree { border-color: var(--ok); } .model.disagree { border-color: var(--bad); }
-  .nodes { display: grid; grid-template-columns: repeat(auto-fill, minmax(190px, 1fr)); gap: 8px; margin-top: 8px; }
-  .node { border: 1px solid var(--line); border-radius: 6px; padding: 6px; font-size: 12px; cursor: pointer; }
-  .node:hover { border-color: var(--accent); }
-  .node img { width: 100%; height: 70px; object-fit: contain; background: #fff; border-radius: 4px; display: block; margin-bottom: 4px; }
-  .node .t { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
-  .node .m { color: var(--muted); }
-  .node .m b.fail { color: var(--bad); } .node .m b.pass { color: var(--ok); }
-  .node .v { font-size: 11px; margin-top: 3px; }
-  .node .v.confirm { color: var(--bad); } .node .v.reject { color: var(--ok); } .node .v.look { color: var(--look); }
-  .node .ov { display: none; gap: 3px; margin-top: 4px; } .node:hover .ov { display: flex; }
-  .node .ov button { padding: 1px 6px; font-size: 11px; }
-  .task { border: 1px solid var(--line); border-radius: 6px; padding: 8px 10px; margin: 6px 0; font-size: 12.5px; display: grid; grid-template-columns: auto 1fr auto; gap: 8px; align-items: start; }
-  .task .sev { font-weight: 700; padding: 0 6px; border-radius: 4px; border: 1px solid var(--line); }
-  .task .sev.s3 { color: var(--bad); border-color: var(--bad); } .task .sev.s2 { color: var(--look); border-color: var(--look); }
-  .taskform { border: 1px dashed var(--line); border-radius: 8px; padding: 10px 12px; margin-top: 8px; display: grid; gap: 6px; }
-  .taskform .r { display: flex; gap: 6px; flex-wrap: wrap; } .taskform .r input[type=text] { flex: 1; }
-  .empty { color: var(--muted); padding: 24px 0; }
-  .hint { color: var(--muted); font-size: 12px; }
+  /* issues table */
+  table { width: 100%; border-collapse: collapse; }
+  th { text-align: left; font-size: 12px; text-transform: uppercase; letter-spacing: .05em; color: var(--muted); padding: 8px 10px; border-bottom: 1px solid var(--line); }
+  td { padding: 10px; border-bottom: 1px solid var(--line); vertical-align: top; }
+  tr.issue { cursor: pointer; } tr.issue:hover td { background: var(--panel); }
+  tr.issue td:first-child { width: 22px; color: var(--muted); }
+  .title { font-weight: 600; }
+  .sub { color: var(--muted); font-size: 12.5px; }
+  .tag { display: inline-block; font-size: 11.5px; border: 1px solid var(--line); border-radius: 999px; padding: 0 8px; color: var(--muted); margin-left: 6px; vertical-align: 1px; }
+  .tag.fail { color: var(--bad); border-color: var(--bad); } .tag.open { color: var(--warn); border-color: var(--warn); }
+  .sw { display: inline-block; width: 12px; height: 12px; border-radius: 3px; border: 1px solid var(--line); vertical-align: -1px; margin-right: 3px; }
+  .num { font-variant-numeric: tabular-nums; white-space: nowrap; }
+  .num b.pass { color: var(--ok); } .num b.fail { color: var(--bad); }
+  .st { white-space: nowrap; font-size: 13px; }
+  .st .c { color: var(--bad); } .st .i { color: var(--ok); } .st .l { color: var(--warn); }
+  .acts { white-space: nowrap; display: flex; gap: 6px; justify-content: flex-end; }
 
-  /* screenshot workspace */
-  .shot { position: relative; overflow: auto; background: #202225; }
-  .shot .stage { position: relative; transform-origin: 0 0; }
-  .shot img { display: block; }
-  .shot canvas { display: none; }
-  .shot .fb { position: absolute; border: 2px solid rgba(255,45,85,.9); background: rgba(255,45,85,.08); cursor: pointer; }
-  .shot .fb.other { border-color: rgba(96,165,250,.8); background: rgba(96,165,250,.05); }
-  .shot .fb.dim { opacity: .35; }
-  .shot .fb:hover { background: rgba(255,45,85,.22); }
-  .shot .fb.decided { border-style: dashed; }
-  .shot .mark { position: absolute; width: 14px; height: 14px; border: 2px solid #fff; border-radius: 50%; box-shadow: 0 0 0 2px #000; transform: translate(-50%, -50%); pointer-events: none; }
-  .shot.dropper { cursor: crosshair; }
-  .readout { position: sticky; top: 8px; left: 8px; z-index: 5; background: var(--bg); color: var(--text); border: 1px solid var(--line); border-radius: 8px; padding: 8px 12px; display: none; font-size: 12.5px; width: max-content; max-width: calc(100% - 16px); margin: 8px; }
+  /* instances */
+  tr.detail td { background: var(--panel); padding: 8px 10px 14px 32px; }
+  .why { color: var(--muted); font-size: 13px; margin: 0 0 10px; }
+  .groupacts { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; margin-bottom: 10px; }
+  .groupacts input { flex: 1; min-width: 200px; }
+  .inst { display: grid; grid-template-columns: 150px 1fr auto; gap: 12px; align-items: center; background: var(--bg); border: 1px solid var(--line); border-radius: 8px; padding: 8px 10px; margin: 6px 0; }
+  .inst.confirm { border-left: 4px solid var(--bad); } .inst.reject { border-left: 4px solid var(--ok); } .inst.look { border-left: 4px solid var(--warn); }
+  .inst img { width: 150px; height: 60px; object-fit: contain; background: #fff; border-radius: 4px; border: 1px solid var(--line); display: block; }
+  .inst .t { font-weight: 500; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .inst code { display: block; font: 12px/1.4 ui-monospace, Menlo, Consolas, monospace; color: var(--muted); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .inst .m { font-size: 13px; }
+  .inst .d { font-size: 12.5px; margin-top: 2px; } .inst .d.confirm { color: var(--bad); } .inst .d.reject { color: var(--ok); } .inst .d.look { color: var(--warn); }
+  .inst .ai { font-size: 12px; color: var(--muted); margin-top: 2px; }
+  .inst .ai b.agree { color: var(--ok); } .inst .ai b.disagree { color: var(--bad); }
+  .reasonrow { display: flex; gap: 6px; margin: 4px 0 0; } .reasonrow[hidden] { display: none; } .reasonrow input { flex: 1; }
+
+  /* worksheet */
+  .ws td.status select { min-width: 160px; }
+  .ws textarea { width: 100%; min-height: 38px; }
+  .ws .sug { font-size: 12px; color: var(--muted); }
+  .ws .sug b { cursor: pointer; color: var(--accent); }
+
+  /* view on page */
+  .viewer { position: fixed; inset: 0; background: rgba(0,0,0,.85); z-index: 20; display: none; flex-direction: column; }
+  .viewer.show { display: flex; }
+  .vbar { display: flex; flex-wrap: wrap; gap: 8px 14px; align-items: center; padding: 8px 14px; background: var(--bg); border-bottom: 1px solid var(--line); }
+  .vbar .info { flex: 1; min-width: 200px; }
+  .vbar .info b.pass { color: var(--ok); } .vbar .info b.fail { color: var(--bad); }
+  .vbody { flex: 1; overflow: auto; position: relative; }
+  .stage { position: relative; transform-origin: 0 0; margin: 0 auto; }
+  .stage img { display: block; }
+  .stage canvas { display: none; }
+  .hl { position: absolute; border: 3px solid #ff2d55; box-shadow: 0 0 0 9999px rgba(0,0,0,.45); pointer-events: none; border-radius: 2px; }
+  .ghost { position: absolute; border: 2px solid rgba(96,165,250,.9); cursor: pointer; }
+  .ghost:hover { background: rgba(96,165,250,.2); }
+  .mark { position: absolute; width: 14px; height: 14px; border: 2px solid #fff; border-radius: 50%; box-shadow: 0 0 0 2px #000; transform: translate(-50%,-50%); pointer-events: none; }
+  .vbody.dropper { cursor: crosshair; }
+  .readout { position: sticky; top: 10px; margin: 10px; z-index: 3; background: var(--bg); border: 1px solid var(--line); border-radius: 8px; padding: 8px 12px; display: none; width: max-content; max-width: 90%; }
   .readout.show { display: block; }
-  .readout .big { font-size: 20px; font-weight: 600; }
-  .readout .big.pass { color: var(--ok); } .readout .big.fail { color: var(--bad); }
-  .readout .sw { display: inline-block; width: 14px; height: 14px; border-radius: 3px; border: 1px solid var(--line); vertical-align: -2px; margin-right: 4px; }
-  .tip { position: absolute; z-index: 6; background: rgba(0,0,0,.85); color: #fff; padding: 4px 8px; border-radius: 4px; font-size: 12px; pointer-events: none; display: none; max-width: 320px; }
-  .flash { position: fixed; right: 16px; bottom: 16px; background: var(--text); color: var(--bg); padding: 8px 12px; border-radius: 6px; opacity: 0; transition: opacity .2s; z-index: 10; }
+  .readout .big { font-size: 20px; font-weight: 600; } .readout .big.pass { color: var(--ok); } .readout .big.fail { color: var(--bad); }
+  .flash { position: fixed; right: 16px; bottom: 16px; background: var(--text); color: var(--bg); padding: 8px 12px; border-radius: 6px; opacity: 0; transition: opacity .2s; z-index: 30; }
   .flash.show { opacity: 1; }
+  .empty { color: var(--muted); padding: 30px 0; text-align: center; }
+  .help { color: var(--muted); font-size: 12.5px; margin: 14px 0 0; }
 </style>
 </head>
 <body>
 <header>
   <h1>Second Pass</h1>
-  <label>Site <select id="site"></select></label>
-  <label><input type="checkbox" id="onlyEvidence" checked> only criteria with evidence</label>
-  <label><input type="checkbox" id="aaa"> include AAA</label>
-  <button id="dropper" title="Click two points on the screenshot to measure their contrast (E)"><kbd>E</kbd>Eyedropper</button>
-  <button id="export" title="Fill the Project Accessibility Sheets template for this site">Export worksheet</button>
-  <span class="progress" id="progress"></span>
+  <select id="site"></select>
+  <div class="tabs"><button class="on" data-tab="issues">Issues</button><button data-tab="worksheet">Worksheet</button></div>
+  <span style="margin-left:auto"></span>
+  <button id="export">Export worksheet (.xlsx)</button>
 </header>
 
 <main>
-  <nav class="crit" id="crit"></nav>
-  <section class="panel" id="panel"></section>
-  <section class="shot" id="shot">
-    <div class="readout" id="readout"></div>
-    <div class="stage" id="stage"></div>
-    <div class="tip" id="tip"></div>
-  </section>
+  <div id="issues"></div>
+  <div id="worksheet" hidden></div>
 </main>
+
+<div class="viewer" id="viewer">
+  <div class="vbar">
+    <button id="v-prev" title="previous (←)">◀</button><button id="v-next" title="next (→)">▶</button>
+    <div class="info" id="v-info"></div>
+    <button class="bad sm" id="v-confirm">Confirm</button>
+    <button class="ok sm" id="v-ignore">Ignore</button>
+    <button class="warn sm" id="v-look">Not sure</button>
+    <button class="sm" id="v-drop" title="measure two points (E)">Eyedropper</button>
+    <button class="sm" id="v-close" title="close (Esc)">Close ✕</button>
+  </div>
+  <div class="vbody" id="vbody"><div class="readout" id="readout"></div><div class="stage" id="stage"></div></div>
+</div>
 <div class="flash" id="flash"></div>
 
 <script>
 const $ = (s, r = document) => r.querySelector(s);
 const esc = (s) => String(s ?? '').replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
 const MODEL_TO_HUMAN = { fail: 'confirm', pass: 'reject', cannot_tell: 'look' };
-const HUMAN_LABEL = { confirm: 'Confirmed — real failure', reject: 'Rejected — not a problem', look: 'Needs a closer look' };
+const LABEL = { confirm: 'Confirmed', reject: 'Ignored', look: 'Not sure' };
 
-let S = null;            // site payload
-let selCrit = null;      // criterion id
-let selGroup = null;     // group id
-let openGroups = new Set();
-let taskFormFor = null;  // group id with an open issue form
-let dropper = false, dropA = null;
-let scale = 1;
+let S = null, open = new Set(), tab = 'issues';
+let V = { list: [], i: 0, dropper: false, a: null, scale: 1 };
 
-// ---- loading ----------------------------------------------------------------
+// ---- data ---------------------------------------------------------------------
 
 async function loadSites() {
   const sites = await (await fetch('/api/sites')).json();
   const sel = $('#site');
-  sel.innerHTML = sites.map((s) => `<option value="${esc(s.site)}">${esc(s.site)} — ${s.decided}/${s.findings} decided, ${s.criteriaDone} criteria</option>`).join('');
-  const want = decodeURIComponent(location.hash.slice(1)) || (sites[0] && sites[0].site);
+  sel.innerHTML = sites.map((s) => `<option value="${esc(s.site)}">${esc(s.site)} — ${s.decided}/${s.findings} reviewed</option>`).join('');
+  const want = decodeURIComponent(location.hash.slice(1));
   if (want && sites.some((s) => s.site === want)) sel.value = want;
   await loadSite(sel.value);
 }
-
-async function loadSite(site, keep = false) {
+async function loadSite(site) {
   S = await (await fetch(`/api/site?site=${encodeURIComponent(site)}`)).json();
   S.byId = Object.fromEntries(S.findings.map((f) => [f.id, f]));
   S.groupById = Object.fromEntries(S.groups.map((g) => [g.id, g]));
+  S.critById = Object.fromEntries(S.wcag.criteria.map((c) => [c.id, c]));
   location.hash = site;
-  if (!keep) { selCrit = null; selGroup = null; openGroups = new Set(); taskFormFor = null; }
-  if (!selCrit) {
-    const first = criteriaRows().find((c) => c.groups.length);
-    selCrit = first ? first.id : null;
+  render();
+}
+const critName = (id) => (S.critById[id] ? `${S.critById[id].id} ${S.critById[id].name}` : id);
+const dec = (id) => S.decisions[id];
+function tally(ids) { const t = { confirm: 0, reject: 0, look: 0, todo: 0 }; for (const id of ids) t[dec(id) ? dec(id).verdict : 'todo']++; return t; }
+
+// ---- issues tab ----------------------------------------------------------------
+
+function render() {
+  $('#issues').hidden = tab !== 'issues';
+  $('#worksheet').hidden = tab !== 'worksheet';
+  document.querySelectorAll('.tabs button').forEach((b) => b.classList.toggle('on', b.dataset.tab === tab));
+  tab === 'issues' ? renderIssues() : renderWorksheet();
+}
+
+function renderIssues() {
+  const all = S.findings.map((f) => f.id);
+  const t = tally(all);
+  const pct = (n) => (all.length ? (100 * n) / all.length : 0);
+  let html = `<div class="summary">
+    <div class="stat"><div class="n">${all.length}</div><div class="l">items flagged on <a href="${esc(S.url)}" target="_blank" rel="noopener">${esc(S.site)}</a> in ${S.groups.length} issue${S.groups.length === 1 ? '' : 's'}</div></div>
+    <div class="stat bad"><div class="n">${t.confirm}</div><div class="l">confirmed — real problems</div></div>
+    <div class="stat ok"><div class="n">${t.reject}</div><div class="l">ignored — not a problem</div></div>
+    <div class="stat warn"><div class="n">${t.look}</div><div class="l">not sure yet</div></div>
+    <div class="stat"><div class="n">${t.todo}</div><div class="l">still to review</div></div>
+  </div>
+  <div class="bar"><i class="c" style="width:${pct(t.confirm)}%"></i><i class="i" style="width:${pct(t.reject)}%"></i><i class="l" style="width:${pct(t.look)}%"></i></div>`;
+
+  // Issues sorted: axe failures first, then by count.
+  const groups = [...S.groups].sort((a, b) => (a.kind === b.kind ? b.ids.length - a.ids.length : a.kind === 'violation' ? -1 : 1));
+  html += `<table><thead><tr><th></th><th>Issue</th><th>Count</th><th>Measured</th><th>Status</th><th></th></tr></thead><tbody>`;
+  for (const g of groups) {
+    const gt = tally(g.ids);
+    const sw = (g.label.match(/rgba?\([^)]*\)/g) || []).map((c) => `<span class="sw" style="background:${esc(c)}"></span>`).join('');
+    const m = g.measured;
+    const isOpen = open.has(g.id);
+    html += `<tr class="issue" data-g="${esc(g.id)}">
+      <td>${isOpen ? '▾' : '▸'}</td>
+      <td><div class="title">${esc(g.help)}<span class="tag ${g.kind === 'violation' ? 'fail' : 'open'}">${g.kind === 'violation' ? 'axe: fail' : 'axe: unsure'}</span><span class="tag">${esc(critName(g.criterion))}</span></div>
+          <div class="sub">${sw}${esc(g.label)}</div></td>
+      <td class="num">${g.ids.length}</td>
+      <td class="num">${m ? `<b class="${m.worst >= m.threshold ? 'pass' : 'fail'}">${m.worst}:1</b>${m.best !== m.worst ? ` – ${m.best}:1` : ''}<div class="sub">needs ${m.threshold}:1${m.below ? ` · ${m.below} below` : ''}</div>` : '<span class="sub">—</span>'}</td>
+      <td class="st">${gt.todo === g.ids.length ? '<span class="sub">not reviewed</span>' : `${gt.confirm ? `<span class="c">${gt.confirm} confirmed</span> ` : ''}${gt.reject ? `<span class="i">${gt.reject} ignored</span> ` : ''}${gt.look ? `<span class="l">${gt.look} not sure</span> ` : ''}${gt.todo ? `<span class="sub">${gt.todo} left</span>` : ''}`}</td>
+      <td><div class="acts"><button class="sm" data-view="${esc(g.id)}">View on page</button><button class="sm" data-toggle="${esc(g.id)}">${isOpen ? 'Hide' : 'Details'}</button></div></td>
+    </tr>`;
+    if (isOpen) html += `<tr class="detail"><td colspan="6">${detailHtml(g)}</td></tr>`;
   }
-  renderAll();
+  html += `</tbody></table>`;
+  if (!groups.length) html += `<div class="empty">Nothing flagged on this page.</div>`;
+  html += `<p class="help"><b>Confirm</b> = a real accessibility problem. <b>Ignore</b> = the checker was wrong, and you say why. <b>Not sure</b> = come back to it. Do a whole issue at once, or open Details and go item by item. <b>View on page</b> walks through the items on the screenshot. The AI's opinion appears only after you've decided.</p>`;
+  $('#issues').innerHTML = html;
+
+  $('#issues').querySelectorAll('tr.issue').forEach((r) => r.onclick = (e) => { if (e.target.tagName === 'BUTTON' || e.target.tagName === 'A') return; toggle(r.dataset.g); });
+  $('#issues').querySelectorAll('[data-toggle]').forEach((b) => b.onclick = () => toggle(b.dataset.toggle));
+  $('#issues').querySelectorAll('[data-view]').forEach((b) => b.onclick = () => openViewer(b.dataset.view));
+  $('#issues').querySelectorAll('[data-gact]').forEach((b) => b.onclick = () => decide(S.groupById[b.dataset.g].ids.filter((id) => !dec(id)), b.dataset.gact, b.dataset.g));
+  $('#issues').querySelectorAll('[data-greason]').forEach((i) => i.onkeydown = (e) => { if (e.key === 'Enter') { e.preventDefault(); decide(S.groupById[i.dataset.greason].ids.filter((id) => !dec(id)), i.dataset.pending || 'confirm', i.dataset.greason, i.value); } });
+  $('#issues').querySelectorAll('[data-iact]').forEach((b) => b.onclick = () => decide([b.dataset.id], b.dataset.iact, null, null, b.dataset.id));
+  $('#issues').querySelectorAll('[data-ireason]').forEach((i) => i.onkeydown = (e) => { if (e.key === 'Enter') { e.preventDefault(); decide([i.dataset.ireason], 'reject', null, i.value); } });
+  $('#issues').querySelectorAll('[data-iview]').forEach((b) => b.onclick = () => openViewer(null, b.dataset.iview));
 }
 
-function criteriaRows() {
-  const byCrit = {};
-  for (const g of S.groups) (byCrit[g.criterion] ||= []).push(g);
-  return S.wcag.criteria.map((c) => ({ ...c, groups: byCrit[c.id] || [], rec: S.criteria[c.id] || null }));
-}
+function toggle(gid) { open.has(gid) ? open.delete(gid) : open.add(gid); renderIssues(); }
 
-function groupDecided(g) { return g.ids.every((id) => S.decisions[id]); }
-function groupVerdict(g) {
-  const vs = new Set(g.ids.map((id) => S.decisions[id] && S.decisions[id].verdict).filter(Boolean));
-  return vs.size === 1 ? [...vs][0] : vs.size ? 'mixed' : null;
-}
-
-// ---- render -------------------------------------------------------------------
-
-function renderAll() { renderCriteria(); renderPanel(); renderShot(); renderProgress(); }
-
-function renderProgress() {
-  const rows = criteriaRows().filter((c) => c.level !== 'AAA' || $('#aaa').checked);
-  const done = rows.filter((c) => c.rec && c.rec.status && c.rec.status !== 'Not Evaluated').length;
-  const dec = Object.keys(S.decisions).length;
-  $('#progress').innerHTML = `<b>${done}</b>/${rows.length} criteria · <b>${dec}</b>/${S.findings.length} findings decided · ${S.tasks.length} issues logged`;
-}
-
-function renderCriteria() {
-  const only = $('#onlyEvidence').checked, aaa = $('#aaa').checked;
-  const rows = criteriaRows().filter((c) => (aaa || c.level !== 'AAA') && (!only || c.groups.length || c.rec || c.id === selCrit));
-  let html = '', lastG = null;
-  for (const c of rows) {
-    if (c.guideline !== lastG) { html += `<div class="sec">${esc(c.guideline)}</div>`; lastG = c.guideline; }
-    const fails = c.groups.filter((g) => g.kind === 'violation').reduce((a, g) => a + g.ids.length, 0);
-    const open = c.groups.filter((g) => g.kind === 'incomplete').reduce((a, g) => a + g.ids.length, 0);
-    const st = c.rec && c.rec.status ? c.rec.status : 'Not Evaluated';
-    const dotCls = st === 'Not Applicable' ? 'Applicable' : st.split(' ')[0];
-    html += `<div class="row ${c.id === selCrit ? 'sel' : ''} ${c.groups.length || c.rec ? '' : 'dim'}" data-c="${esc(c.id)}">
-      <span class="lvl">${esc(c.level)}</span>
-      <span class="name" title="${esc(c.name)} — ${esc(st)}"><span class="dot ${esc(dotCls)}"></span>${esc(c.id)} <small>${esc(c.name)}</small></span>
-      <span>${fails ? `<span class="badge fail" title="axe failures">${fails}</span>` : ''}${open ? `<span class="badge open" title="axe could not decide">${open}</span>` : ''}</span>
+function detailHtml(g) {
+  const gt = tally(g.ids);
+  let html = `<p class="why">${esc(g.why)} <a href="${esc(g.helpUrl)}" target="_blank" rel="noopener">about this rule ↗</a></p>`;
+  if (gt.todo) {
+    html += `<div class="groupacts"><span class="sub">All ${gt.todo} remaining:</span>
+      <button class="bad sm" data-gact="confirm" data-g="${esc(g.id)}">Confirm all</button>
+      <button class="ok sm" data-gact="reject" data-g="${esc(g.id)}">Ignore all</button>
+      <button class="warn sm" data-gact="look" data-g="${esc(g.id)}">Not sure</button>
+      <input type="text" data-greason="${esc(g.id)}" placeholder="Reason (needed to ignore) — Enter saves">
     </div>`;
-  }
-  $('#crit').innerHTML = html;
-  $('#crit').querySelectorAll('.row').forEach((r) => r.onclick = () => { selCrit = r.dataset.c; selGroup = null; renderAll(); });
-}
-
-function measHtml(m) {
-  if (!m) return '';
-  const cls = (v) => (v >= m.threshold ? 'pass' : 'fail');
-  return `<span class="meas">worst <b class="${cls(m.worst)}">${m.worst}:1</b>${m.best !== m.worst ? ` · best <b class="${cls(m.best)}">${m.best}:1</b>` : ''} · needs ${m.threshold}:1${m.below ? ` · <b class="fail">${m.below} of ${m.n} below</b>` : ` · ${m.n} measured`}</span>`;
-}
-
-function renderPanel() {
-  const c = criteriaRows().find((x) => x.id === selCrit);
-  const P = $('#panel');
-  if (!c) {
-    const rows = criteriaRows().filter((x) => x.groups.length);
-    P.innerHTML = `<h2>${esc(S.site)} <small>${esc(S.title)}</small></h2>
-      <p class="hint">${S.findings.length} findings in ${S.groups.length} groups across ${rows.length} criteria. Pick a criterion on the left.</p>`;
-    return;
-  }
-  const st = c.rec && c.rec.status ? c.rec.status : 'Not Evaluated';
-  const guidance = c.guidance.filter((g) => g.role !== 'Video');
-  let html = `<h2>${esc(c.id)} ${esc(c.name)} <small>Level ${esc(c.level)}${c.link ? ` · <a href="${esc(c.link)}" target="_blank" rel="noopener">Understanding ↗</a>` : ''} · <a href="${esc(S.url)}" target="_blank" rel="noopener">live page ↗</a></small></h2>`;
-  if (guidance.length) html += `<div class="guide">${guidance.map((g) => `<div><b>${esc(g.role)}:</b> ${esc(g.text)}</div>`).join('')}</div>`;
-
-  html += `<div class="status">${S.wcag.statuses.map((s) => `<button class="${esc(s.split(' ')[0])} ${s === st ? 'on' : ''}" data-status="${esc(s)}">${esc(s)}</button>`).join('')}</div>`;
-  html += `<textarea id="notes" placeholder="Notes for the worksheet — what you found, where, and what to do. Saved when you click away.">${esc(c.rec ? c.rec.notes : '')}</textarea>`;
-  if (c.canned) html += `<div class="hint">Template wording for a pass: <a href="#" id="canned">${esc(c.canned)}</a></div>`;
-
-  const tasks = S.tasks.filter((t) => t.criterion === c.id);
-  if (tasks.length) {
-    html += `<h3>Issues logged for this criterion</h3>` + tasks.map((t) => `<div class="task"><span class="sev s${t.severity}">${t.severity}</span><div><b>${esc(t.shortname)}</b> <span class="hint">· ${esc(t.status)}</span><div class="hint">${esc(t.notes)}</div>${t.reference ? `<div class="hint"><code>${esc(t.reference.slice(0, 120))}</code></div>` : ''}</div><button data-deltask="${esc(t.id)}" title="remove">✕</button></div>`).join('');
-  }
-
-  html += `<h3>Evidence — ${c.groups.length} group${c.groups.length === 1 ? '' : 's'}, ${c.groups.reduce((a, g) => a + g.ids.length, 0)} findings</h3>`;
-  if (!c.groups.length) html += `<div class="empty">Nothing automated maps to this criterion. Evaluate it by hand and set the status above.</div>`;
-  for (const g of c.groups) html += groupHtml(g);
-  P.innerHTML = html;
-
-  P.querySelectorAll('.status button').forEach((b) => b.onclick = () => saveCriterion(b.dataset.status));
-  $('#notes').onblur = () => saveCriterion(null);
-  $('#notes').onkeydown = (e) => { if (e.key === 'Enter' && (e.ctrlKey || e.metaKey)) $('#notes').blur(); };
-  const cn = $('#canned'); if (cn) cn.onclick = (e) => { e.preventDefault(); const n = $('#notes'); n.value = (n.value ? n.value + ' ' : '') + c.canned; saveCriterion(null); };
-  P.querySelectorAll('[data-deltask]').forEach((b) => b.onclick = () => saveTask({ id: b.dataset.deltask, site: S.site, deleted: true }));
-  wireGroups();
-}
-
-function groupHtml(g) {
-  const decided = groupDecided(g), v = groupVerdict(g), open = openGroups.has(g.id);
-  const sw = (g.label.match(/rgba?\([^)]*\)/g) || []).map((c) => `<span class="swatch" style="background:${esc(c)}"></span>`).join('');
-  let html = `<div class="group ${g.id === selGroup ? 'sel' : ''}" data-g="${esc(g.id)}">
-    <div class="head" data-toggle="${esc(g.id)}">
-      <span class="pill ${esc(g.kind)}">${g.kind === 'violation' ? 'axe: fail' : 'axe: could not decide'}</span>
-      <b>${esc(g.rule)}</b> <span>${sw} ${esc(g.label)}</span>
-      <span class="pill">${g.ids.length} node${g.ids.length === 1 ? '' : 's'}</span>
-      ${measHtml(g.measured)}
-      <span class="hint">${open ? '▾ hide nodes' : '▸ show nodes'}</span>
-    </div>
-    <div class="why">${esc(g.why)} <a href="${esc(g.helpUrl)}" target="_blank" rel="noopener">rule ↗</a></div>`;
-
-  if (decided) {
-    const reasons = [...new Set(g.ids.map((id) => S.decisions[id].reason).filter(Boolean))];
-    html += `<div class="decided"><b class="${esc(v)}">${v === 'mixed' ? 'Mixed decisions' : esc(HUMAN_LABEL[v])}</b>${reasons.length ? ' — ' + esc(reasons.join(' / ')) : ''} <button data-undo="${esc(g.id)}" style="margin-left:8px">Undo</button> <button data-issue="${esc(g.id)}">Log issue</button></div>`;
-    html += modelHtml(g);
   } else {
-    html += `<div class="acts">
-      <button class="confirm" data-act="confirm" data-g="${esc(g.id)}"><kbd>C</kbd>Confirm all</button>
-      <button class="reject" data-act="reject" data-g="${esc(g.id)}"><kbd>R</kbd>Reject all</button>
-      <button class="look" data-act="look" data-g="${esc(g.id)}"><kbd>L</kbd>Closer look</button>
-      <input type="text" data-reason="${esc(g.id)}" placeholder="Reason — required to reject. Enter = confirm, or the pending action.">
-      <button data-issue="${esc(g.id)}">Log issue</button>
-    </div>`;
-    const partial = g.ids.filter((id) => S.decisions[id]).length;
-    if (partial) html += `<div class="hint">${partial} of ${g.ids.length} decided individually.</div>`;
+    html += `<div class="groupacts"><span class="sub">All reviewed.</span> <button class="sm" data-gact="reopen" data-g="${esc(g.id)}">Undo all</button></div>`;
   }
-  if (taskFormFor === g.id) html += taskFormHtml(g);
-  if (open) html += `<div class="nodes">${g.ids.map((id) => nodeHtml(S.byId[id])).join('')}</div>`;
-  return html + `</div>`;
+  for (const id of g.ids) html += instHtml(S.byId[id], g);
+  return html;
 }
 
-function modelHtml(g) {
-  const ps = g.ids.map((id) => S.proposals[id]).filter((p) => p && p.verdict);
-  if (!ps.length) return `<div class="model hint">No model proposal for this group.</div>`;
-  const tally = { pass: 0, fail: 0, cannot_tell: 0 };
-  let agree = 0;
-  for (const id of g.ids) { const p = S.proposals[id]; if (!p || !p.verdict) continue; tally[p.verdict]++; if (MODEL_TO_HUMAN[p.verdict] === S.decisions[id].verdict) agree++; }
-  const cls = agree === ps.length ? 'agree' : agree === 0 ? 'disagree' : '';
-  const sample = ps.find((p) => p.reason) || ps[0];
-  return `<div class="model ${cls}"><b>Model, revealed after your decision:</b> ${tally.fail} fail · ${tally.pass} pass · ${tally.cannot_tell} can't tell — agreed with you on ${agree} of ${ps.length}. <span class="hint">${esc(sample.model)}: “${esc(sample.reason)}”</span></div>`;
-}
-
-function nodeHtml(f) {
-  const p = S.proposals[f.id], m = p && p.measured, d = S.decisions[f.id];
-  const b = f.box || {};
-  return `<div class="node" data-n="${esc(f.id)}" title="${esc(f.target)}">
-    ${f.crop ? `<img src="/crops/${encodeURIComponent(f.crop)}" alt="">` : ''}
-    <div class="t">${esc(b.text || f.html.replace(/<[^>]+>/g, ' ').trim() || f.target)}</div>
-    ${m && m.ok && m.fg ? `<div class="m"><b class="${m.ratio >= m.threshold ? 'pass' : 'fail'}">${m.ratio}:1</b>${m.best && m.best !== m.ratio ? ` – ${m.best}:1` : ''} / ${m.threshold}${m.note ? ' ⚠' : ''}</div>` : `<div class="m">${b.x != null ? 'no measurement' : 'not on screen'}</div>`}
-    ${d ? `<div class="v ${esc(d.verdict)}">${esc(HUMAN_LABEL[d.verdict].split(' — ')[0])}${d.via === 'group' ? '' : ' (individually)'}</div>` : ''}
-    <div class="ov"><button data-nact="confirm" data-n="${esc(f.id)}" title="confirm this one">C</button><button data-nact="reject" data-n="${esc(f.id)}" title="reject this one">R</button><button data-nact="look" data-n="${esc(f.id)}" title="closer look">L</button>${d ? `<button data-nact="reopen" data-n="${esc(f.id)}" title="undo">U</button>` : ''}</div>
+function instHtml(f, g) {
+  const d = dec(f.id), p = S.proposals[f.id], m = p && p.measured, b = f.box || {};
+  const revealed = p && p.verdict;
+  let ai = '';
+  if (d && revealed) { const agree = MODEL_TO_HUMAN[p.verdict] === d.verdict; ai = `<div class="ai">AI said <b class="${agree ? 'agree' : 'disagree'}">${esc(p.verdict.replace('_', ' '))}</b>${p.confidence != null ? ` (${p.confidence})` : ''} — ${esc(p.reason)}</div>`; }
+  return `<div class="inst ${d ? esc(d.verdict) : ''}" data-id="${esc(f.id)}">
+    <div>${f.crop ? `<img src="/crops/${encodeURIComponent(f.crop)}" alt="">` : '<div class="sub">no crop</div>'}</div>
+    <div>
+      <div class="t">${esc(b.text || f.html.replace(/<[^>]+>/g, ' ').trim() || f.target)}</div>
+      <code title="${esc(f.html)}">${esc(f.html)}</code>
+      ${m && m.ok && m.fg ? `<div class="m num"><b class="${m.ratio >= m.threshold ? 'pass' : 'fail'}">${m.ratio}:1</b>${m.best && m.best !== m.ratio ? ` – ${m.best}:1` : ''} <span class="sub">needs ${m.threshold}:1${m.note ? ' · ' + esc(m.note) : ''}</span></div>` : ''}
+      ${d ? `<div class="d ${esc(d.verdict)}">${LABEL[d.verdict]}${d.reason ? ' — ' + esc(d.reason) : ''}</div>` : ''}
+      ${ai}
+      ${!d ? `<div class="reasonrow" hidden><input type="text" data-ireason="${esc(f.id)}" placeholder="Why ignore this one? Enter saves"></div>` : ''}
+    </div>
+    <div class="acts">${d
+      ? `<button class="sm" data-iact="reopen" data-id="${esc(f.id)}">Undo</button>`
+      : `<button class="bad sm" data-iact="confirm" data-id="${esc(f.id)}">Confirm</button><button class="ok sm" data-iact="reject" data-id="${esc(f.id)}">Ignore</button><button class="warn sm" data-iact="look" data-id="${esc(f.id)}">Not sure</button>`}
+      <button class="sm" data-iview="${esc(f.id)}">View</button></div>
   </div>`;
 }
 
-function taskFormHtml(g) {
-  const m = g.measured;
-  const notes = m ? `Measured ${m.worst}:1 at worst${m.best !== m.worst ? ` (${m.best}:1 at best)` : ''} against a ${m.threshold}:1 minimum; ${m.below} of ${m.n} elements below. ${g.why}` : g.why;
-  return `<div class="taskform" data-tf="${esc(g.id)}">
-    <div class="r"><label>Severity <select id="tf-sev"><option value="3">3 — High</option><option value="2" selected>2 — Medium</option><option value="1">1 — Low</option></select></label>
-      <input type="text" id="tf-name" placeholder="Issue shortname" value="${esc(g.rule)}: ${esc(g.label)}"></div>
-    <textarea id="tf-notes">${esc(notes)}</textarea>
-    <input type="text" id="tf-ref" value="${esc(g.ids.map((id) => S.byId[id].target).join(' ; ').slice(0, 500))}">
-    <div class="r"><button class="primary" id="tf-save">Add to task list</button><button id="tf-cancel">Cancel</button></div>
-  </div>`;
-}
+// ---- decisions ------------------------------------------------------------------
 
-function wireGroups() {
-  const P = $('#panel');
-  P.querySelectorAll('[data-toggle]').forEach((h) => h.onclick = (e) => { if (e.target.tagName === 'A') return; const id = h.dataset.toggle; openGroups.has(id) ? openGroups.delete(id) : openGroups.add(id); selGroup = id; renderPanel(); renderShot(); });
-  P.querySelectorAll('.group').forEach((el) => el.addEventListener('mouseenter', () => highlight(el.dataset.g)));
-  P.querySelectorAll('[data-act]').forEach((b) => b.onclick = () => decideGroup(b.dataset.g, b.dataset.act));
-  P.querySelectorAll('[data-reason]').forEach((i) => i.onkeydown = (e) => { if (e.key === 'Enter') { e.preventDefault(); decideGroup(i.dataset.reason, i.dataset.pending || 'confirm'); } });
-  P.querySelectorAll('[data-undo]').forEach((b) => b.onclick = () => decideGroup(b.dataset.undo, 'reopen'));
-  P.querySelectorAll('[data-issue]').forEach((b) => b.onclick = () => { taskFormFor = b.dataset.issue; selGroup = b.dataset.issue; renderPanel(); const n = $('#tf-name'); if (n) n.focus(); });
-  P.querySelectorAll('[data-nact]').forEach((b) => b.onclick = (e) => { e.stopPropagation(); decideNode(b.dataset.n, b.dataset.nact); });
-  P.querySelectorAll('.node').forEach((n) => n.onclick = () => scrollShotTo(n.dataset.n));
-  const tf = P.querySelector('[data-tf]');
-  if (tf) {
-    $('#tf-save').onclick = () => saveTask({ site: S.site, criterion: selCrit, group: tf.dataset.tf, severity: $('#tf-sev').value, shortname: $('#tf-name').value, notes: $('#tf-notes').value, reference: $('#tf-ref').value });
-    $('#tf-cancel').onclick = () => { taskFormFor = null; renderPanel(); };
-  }
-}
-
-// ---- actions --------------------------------------------------------------------
-
-function flash(msg, ms = 1500) { const el = $('#flash'); el.textContent = msg; el.classList.add('show'); clearTimeout(flash.t); flash.t = setTimeout(() => el.classList.remove('show'), ms); }
-
+function flash(msg, ms = 1600) { const el = $('#flash'); el.textContent = msg; el.classList.add('show'); clearTimeout(flash.t); flash.t = setTimeout(() => el.classList.remove('show'), ms); }
 async function post(url, body) {
   const r = await fetch(url, { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(body) });
   const j = await r.json();
@@ -360,196 +269,183 @@ async function post(url, body) {
   return j;
 }
 
-async function decideGroup(gid, verdict) {
-  const g = S.groupById[gid]; if (!g) return;
-  const input = $(`[data-reason="${CSS.escape(gid)}"]`);
-  const reason = input ? input.value.trim() : '';
-  if (verdict === 'reject' && !reason) {
-    if (!input) return;
-    input.dataset.pending = 'reject'; input.placeholder = 'Why is this not a problem? Enter to save.'; input.focus();
-    const rb = $(`[data-act="reject"][data-g="${CSS.escape(gid)}"]`); if (rb) rb.classList.add('on');
-    return;
-  }
-  const ids = verdict === 'reopen' ? g.ids : g.ids.filter((id) => !S.decisions[id]);
+async function decide(ids, verdict, gid, reason, singleId) {
   if (!ids.length) return;
-  const ok = await post('/api/decision', { ids, verdict, reason, group: gid });
+  if (verdict === 'reopen') ids = gid ? S.groupById[gid].ids : ids;
+  if (reason == null) {
+    const inp = gid ? $(`[data-greason="${CSS.escape(gid)}"]`) : singleId ? $(`[data-ireason="${CSS.escape(singleId)}"]`) : null;
+    reason = inp ? inp.value.trim() : '';
+    if (verdict === 'reject' && !reason) {
+      if (inp) { inp.closest('.reasonrow') && (inp.closest('.reasonrow').hidden = false); inp.dataset.pending = 'reject'; inp.placeholder = 'Why is this not a problem? Enter saves.'; inp.focus(); return; }
+      reason = window.prompt('Why is this not a problem?') || '';
+      if (!reason.trim()) return;
+    }
+  }
+  if (verdict === 'reject' && !reason.trim()) { flash('Ignoring needs a reason', 2200); return; }
+  const ok = await post('/api/decision', { ids, verdict, reason: reason || '', group: gid || undefined });
   if (!ok) return;
-  selGroup = gid;
-  await loadSite(S.site, true);
-  if (verdict !== 'reopen') {
-    const gg = S.groupById[gid];
-    const ps = gg.ids.map((id) => S.proposals[id]).filter((p) => p && p.verdict);
-    const agree = gg.ids.filter((id) => S.proposals[id] && MODEL_TO_HUMAN[S.proposals[id].verdict] === verdict).length;
-    flash(ps.length ? `${HUMAN_LABEL[verdict].split(' — ')[0]} ${ids.length} · model agreed on ${agree}/${ps.length}` : `${HUMAN_LABEL[verdict].split(' — ')[0]} ${ids.length}`, 2200);
-  } else flash('Reopened');
+  await loadSite(S.site);
+  if (verdict === 'reopen') { flash('Undone'); return; }
+  const ps = ids.map((id) => S.proposals[id]).filter((p) => p && p.verdict);
+  const agree = ps.filter((p) => MODEL_TO_HUMAN[p.verdict] === verdict).length;
+  flash(`${LABEL[verdict]} ${ids.length}${ps.length ? ` · AI agreed on ${agree}/${ps.length}` : ''}`, 2400);
+  if ($('#viewer').classList.contains('show')) { V.list = V.list.map((id) => id); showViewerItem(); }
 }
 
-async function decideNode(id, verdict) {
-  let reason = '';
-  if (verdict === 'reject') { reason = window.prompt('Reason for rejecting this one:') || ''; if (!reason.trim()) return; }
-  const ok = await post('/api/decision', { ids: [id], verdict, reason });
-  if (!ok) return;
-  await loadSite(S.site, true);
+// ---- worksheet tab -------------------------------------------------------------
+
+function suggest(c) {
+  const ids = S.groups.filter((g) => g.criterion === c.id).flatMap((g) => g.ids);
+  if (!ids.length) return null;
+  const t = tally(ids);
+  if (t.todo === ids.length) return null;
+  if (t.confirm) return { status: 'Does Not Support', why: `${t.confirm} confirmed` };
+  if (t.look) return { status: 'Not Evaluated', why: `${t.look} not sure` };
+  return { status: 'Supports', why: `all ${t.reject} ignored` };
 }
 
-async function saveCriterion(status) {
-  const cur = S.criteria[selCrit] || {};
-  const notes = $('#notes') ? $('#notes').value : cur.notes || '';
-  const st = status || cur.status || 'Not Evaluated';
-  if (st === (cur.status || 'Not Evaluated') && notes.trim() === (cur.notes || '').trim()) return;
-  const r = await post('/api/criterion', { site: S.site, criterion: selCrit, status: st, notes });
+function renderWorksheet() {
+  const rows = S.wcag.criteria.filter((c) => c.level !== 'AAA' && c.id !== 'best-practice');
+  let html = `<p class="sub">The Review sheet from the template: a status and a note per criterion. Where you've reviewed the flagged items, a status is suggested. Save happens as you go.</p>
+  <table class="ws"><thead><tr><th>Level</th><th>Criterion</th><th>Evidence</th><th>Status</th><th>Notes</th></tr></thead><tbody>`;
+  let lastG = null;
+  for (const c of rows) {
+    if (c.guideline !== lastG) { html += `<tr><td colspan="5" style="background:var(--panel);font-weight:600">${esc(c.guideline)}</td></tr>`; lastG = c.guideline; }
+    const rec = S.criteria[c.id] || {};
+    const ids = S.groups.filter((g) => g.criterion === c.id).flatMap((g) => g.ids);
+    const sg = suggest(c);
+    html += `<tr data-c="${esc(c.id)}"><td class="sub">${esc(c.level)}</td>
+      <td><b>${esc(c.id)}</b> ${esc(c.name)}${c.link ? ` <a href="${esc(c.link)}" target="_blank" rel="noopener" title="Understanding">↗</a>` : ''}</td>
+      <td class="sub">${ids.length ? `${ids.length} flagged` : '—'}</td>
+      <td class="status"><select data-cs="${esc(c.id)}">${S.wcag.statuses.map((s) => `<option ${s === (rec.status || 'Not Evaluated') ? 'selected' : ''}>${esc(s)}</option>`).join('')}</select>
+        ${sg && sg.status !== (rec.status || 'Not Evaluated') ? `<div class="sug">suggested: <b data-sug="${esc(c.id)}" data-status="${esc(sg.status)}">${esc(sg.status)}</b> (${esc(sg.why)})</div>` : ''}</td>
+      <td><textarea data-cn="${esc(c.id)}" placeholder="${esc(c.canned || '')}">${esc(rec.notes || '')}</textarea></td></tr>`;
+  }
+  html += `</tbody></table>`;
+  $('#worksheet').innerHTML = html;
+  $('#worksheet').querySelectorAll('[data-cs]').forEach((s) => s.onchange = () => saveCriterion(s.dataset.cs, s.value, $(`[data-cn="${CSS.escape(s.dataset.cs)}"]`).value));
+  $('#worksheet').querySelectorAll('[data-cn]').forEach((t) => t.onblur = () => saveCriterion(t.dataset.cn, $(`[data-cs="${CSS.escape(t.dataset.cn)}"]`).value, t.value));
+  $('#worksheet').querySelectorAll('[data-sug]').forEach((b) => b.onclick = () => saveCriterion(b.dataset.sug, b.dataset.status, $(`[data-cn="${CSS.escape(b.dataset.sug)}"]`).value, true));
+}
+
+async function saveCriterion(id, status, notes, rerender) {
+  const cur = S.criteria[id] || {};
+  if ((cur.status || 'Not Evaluated') === status && (cur.notes || '').trim() === notes.trim()) return;
+  const r = await post('/api/criterion', { site: S.site, criterion: id, status, notes });
   if (!r) return;
-  S.criteria[selCrit] = r;
-  if (status) { renderCriteria(); renderPanel(); }
-  renderProgress();
-  flash(status ? `${selCrit}: ${status}` : 'Notes saved');
+  S.criteria[id] = r;
+  flash(`${id}: ${status}`);
+  if (rerender) renderWorksheet();
 }
 
-async function saveTask(t) {
-  const r = await post('/api/task', t);
-  if (!r) return;
-  taskFormFor = null;
-  await loadSite(S.site, true);
-  flash(t.deleted ? 'Issue removed' : 'Added to task list');
-}
+// ---- view on page ---------------------------------------------------------------
 
-// ---- screenshot workspace ---------------------------------------------------
-
-function boxesFor() {
-  const c = criteriaRows().find((x) => x.id === selCrit);
-  const ids = c ? c.groups.flatMap((g) => g.ids) : [];
-  return ids.map((id) => S.byId[id]).filter((f) => f.box && (f.box.w || f.box.h));
-}
-
-function renderShot() {
+function openViewer(gid, singleId) {
+  V.list = gid ? S.groupById[gid].ids.filter((id) => S.byId[id].box) : singleId ? [singleId] : [];
+  V.gid = gid || (singleId ? S.groups.find((g) => g.ids.includes(singleId)).id : null);
+  if (!V.list.length) { flash('None of these have a position on the screenshot'); return; }
+  V.i = 0;
+  $('#viewer').classList.add('show');
   const stage = $('#stage');
-  const shotEl = $('#shot');
-  if (!S.shot) { stage.innerHTML = '<div class="empty" style="padding:24px">No screenshot.</div>'; return; }
   const src = `/screens/${encodeURIComponent(S.shot)}`;
   let img = stage.querySelector('img');
   if (!img || img.dataset.src !== src) {
-    stage.innerHTML = `<img src="${src}" data-src="${src}" alt="Full-page screenshot of ${esc(S.site)}"><canvas></canvas>`;
+    stage.innerHTML = `<img src="${src}" data-src="${src}" alt=""><canvas></canvas>`;
     img = stage.querySelector('img');
-    img.onload = () => { const cv = stage.querySelector('canvas'); cv.width = img.naturalWidth; cv.height = img.naturalHeight; cv.getContext('2d').drawImage(img, 0, 0); layoutShot(); };
-  } else if (img.complete && img.naturalWidth) layoutShot();
+    img.onload = () => { const cv = stage.querySelector('canvas'); cv.width = img.naturalWidth; cv.height = img.naturalHeight; cv.getContext('2d').drawImage(img, 0, 0); layoutViewer(); showViewerItem(); };
+  } else { layoutViewer(); showViewerItem(); }
+}
 
-  function layoutShot() {
-    const pageW = (S.viewport && S.viewport.width) || img.naturalWidth;
-    scale = (shotEl.clientWidth - 2) / pageW;
-    stage.style.transform = `scale(${scale})`;
-    stage.style.width = pageW + 'px';
-    stage.style.height = img.naturalHeight + 'px';
-    // the scaled stage still occupies its unscaled height in flow; trim the scroll range
-    stage.style.marginBottom = `-${img.naturalHeight * (1 - scale)}px`;
-    stage.querySelectorAll('.fb, .mark').forEach((e) => e.remove());
-    for (const f of boxesFor()) {
-      const g = S.groups.find((x) => x.ids.includes(f.id));
-      const el = document.createElement('div');
-      el.className = 'fb' + (g && g.id === selGroup ? '' : selGroup ? ' other dim' : ' other') + (S.decisions[f.id] ? ' decided' : '');
-      el.style.left = f.box.x + 'px'; el.style.top = f.box.y + 'px'; el.style.width = Math.max(6, f.box.w) + 'px'; el.style.height = Math.max(6, f.box.h) + 'px';
-      el.dataset.id = f.id; el.dataset.g = g ? g.id : '';
-      el.onclick = (e) => { if (dropper) return; e.stopPropagation(); selGroup = g.id; openGroups.add(g.id); renderPanel(); renderShot(); const ge = $(`.group[data-g="${CSS.escape(g.id)}"]`); if (ge) ge.scrollIntoView({ block: 'start', behavior: 'smooth' }); };
-      el.onmouseenter = (e) => showTip(e, f);
-      el.onmouseleave = hideTip;
-      stage.appendChild(el);
-    }
+function layoutViewer() {
+  const stage = $('#stage'), img = stage.querySelector('img'), body = $('#vbody');
+  const pageW = (S.viewport && S.viewport.width) || img.naturalWidth;
+  V.scale = Math.min(1, (body.clientWidth - 40) / pageW);
+  stage.style.transform = `scale(${V.scale})`;
+  stage.style.width = pageW + 'px';
+  stage.style.height = img.naturalHeight + 'px';
+  stage.style.marginBottom = `-${img.naturalHeight * (1 - V.scale)}px`;
+  stage.style.marginLeft = `${Math.max(0, (body.clientWidth - pageW * V.scale) / 2)}px`;
+}
+
+function showViewerItem() {
+  const stage = $('#stage');
+  stage.querySelectorAll('.hl, .ghost, .mark').forEach((e) => e.remove());
+  const id = V.list[V.i], f = S.byId[id], b = f.box, d = dec(id), p = S.proposals[id], m = p && p.measured;
+  // the current one, spotlighted; the rest of the group as clickable outlines
+  for (const oid of (V.gid ? S.groupById[V.gid].ids : [])) {
+    if (oid === id || !S.byId[oid].box) continue;
+    const ob = S.byId[oid].box, g = document.createElement('div');
+    g.className = 'ghost'; g.style.left = ob.x + 'px'; g.style.top = ob.y + 'px'; g.style.width = Math.max(6, ob.w) + 'px'; g.style.height = Math.max(6, ob.h) + 'px';
+    g.onclick = () => { const i = V.list.indexOf(oid); if (i >= 0) { V.i = i; showViewerItem(); } };
+    stage.appendChild(g);
   }
+  const hl = document.createElement('div');
+  hl.className = 'hl'; hl.style.left = (b.x - 4) + 'px'; hl.style.top = (b.y - 4) + 'px'; hl.style.width = (Math.max(6, b.w) + 8) + 'px'; hl.style.height = (Math.max(6, b.h) + 8) + 'px';
+  stage.appendChild(hl);
+  const body = $('#vbody');
+  body.scrollTo({ top: Math.max(0, (b.y + b.h / 2) * V.scale - body.clientHeight / 2 + 40), behavior: 'smooth' });
+  const g = S.groupById[V.gid];
+  $('#v-info').innerHTML = `<b>${V.i + 1} / ${V.list.length}</b> · ${esc(g ? g.help : f.help)} · “${esc(b.text || f.target)}”${m && m.ok && m.fg ? ` · <b class="${m.ratio >= m.threshold ? 'pass' : 'fail'}">${m.ratio}:1</b>${m.best && m.best !== m.ratio ? `–${m.best}:1` : ''} <span class="sub">needs ${m.threshold}:1</span>` : ''}${d ? ` · <b>${LABEL[d.verdict]}</b>${d.reason ? ' — ' + esc(d.reason) : ''}` : ''}`;
+  $('#v-confirm').disabled = $('#v-ignore').disabled = $('#v-look').disabled = !!d;
 }
 
-function highlight(gid) {
-  $('#stage').querySelectorAll('.fb').forEach((el) => {
-    const mine = el.dataset.g === gid || el.dataset.g === selGroup;
-    el.classList.toggle('dim', (gid || selGroup) ? !mine : false);
-  });
-}
+function closeViewer() { $('#viewer').classList.remove('show'); setDropper(false); }
+function stepViewer(n) { if (!V.list.length) return; V.i = (V.i + n + V.list.length) % V.list.length; showViewerItem(); }
 
-function scrollShotTo(id) {
-  const f = S.byId[id]; if (!f || !f.box) return;
-  const shotEl = $('#shot');
-  shotEl.scrollTo({ top: Math.max(0, (f.box.y + f.box.h / 2) * scale - shotEl.clientHeight / 2), behavior: 'smooth' });
-  const el = $('#stage').querySelector(`.fb[data-id="${CSS.escape(id)}"]`);
-  if (el) { el.style.outline = '3px solid #fff'; setTimeout(() => (el.style.outline = ''), 1200); }
-}
-
-function showTip(e, f) {
-  const t = $('#tip'); const p = S.proposals[f.id], m = p && p.measured, b = f.box || {};
-  t.innerHTML = `${esc(b.text || f.target)}${m && m.ok && m.fg ? `<br>${m.ratio}:1${m.best && m.best !== m.ratio ? `–${m.best}:1` : ''} / needs ${m.threshold}:1` : ''}${S.decisions[f.id] ? `<br>${esc(HUMAN_LABEL[S.decisions[f.id].verdict])}` : ''}`;
-  t.style.display = 'block';
-  moveTip(e);
-  e.target.onmousemove = moveTip;
-}
-function moveTip(e) { const t = $('#tip'), s = $('#shot'), r = s.getBoundingClientRect(); t.style.left = (e.clientX - r.left + s.scrollLeft + 12) + 'px'; t.style.top = (e.clientY - r.top + s.scrollTop + 12) + 'px'; }
-function hideTip() { $('#tip').style.display = 'none'; }
-
-// ---- eyedropper -------------------------------------------------------------------
-
+// eyedropper inside the viewer
 function lum([r, g, b]) { const f = (c) => { c /= 255; return c <= 0.03928 ? c / 12.92 : Math.pow((c + 0.055) / 1.055, 2.4); }; return 0.2126 * f(r) + 0.7152 * f(g) + 0.0722 * f(b); }
 function ratio(a, b) { const la = lum(a), lb = lum(b); return (Math.max(la, lb) + 0.05) / (Math.min(la, lb) + 0.05); }
 const hex = (c) => '#' + c.map((v) => v.toString(16).padStart(2, '0')).join('');
-
-function toggleDropper(on) {
-  dropper = on === undefined ? !dropper : on;
-  dropA = null;
-  $('#dropper').classList.toggle('on', dropper);
-  $('#shot').classList.toggle('dropper', dropper);
+function setDropper(on) {
+  V.dropper = on; V.a = null;
+  $('#vbody').classList.toggle('dropper', on);
+  $('#v-drop').classList.toggle('primary', on);
   $('#stage').querySelectorAll('.mark').forEach((m) => m.remove());
-  const ro = $('#readout');
-  ro.classList.toggle('show', dropper);
-  if (dropper) ro.innerHTML = `<b>Eyedropper.</b> Click the text, then click the background — the lightest or darkest part behind it. <span class="hint">Esc to leave.</span>`;
+  const ro = $('#readout'); ro.classList.toggle('show', on);
+  if (on) ro.innerHTML = `<b>Eyedropper.</b> Click the text, then click the background behind it — try the lightest and the darkest spot.`;
 }
-
 $('#stage').addEventListener('click', (e) => {
-  if (!dropper) return;
+  if (!V.dropper) return;
   const cv = $('#stage').querySelector('canvas'); if (!cv) return;
   const r = $('#stage').getBoundingClientRect();
-  const x = Math.round((e.clientX - r.left) / scale), y = Math.round((e.clientY - r.top) / scale);
-  const d = cv.getContext('2d').getImageData(x, y, 1, 1).data;
-  const c = [d[0], d[1], d[2]];
+  const x = Math.round((e.clientX - r.left) / V.scale), y = Math.round((e.clientY - r.top) / V.scale);
+  const d = cv.getContext('2d').getImageData(x, y, 1, 1).data, c = [d[0], d[1], d[2]];
   const mark = document.createElement('div'); mark.className = 'mark'; mark.style.left = x + 'px'; mark.style.top = y + 'px'; mark.style.background = hex(c); $('#stage').appendChild(mark);
   const ro = $('#readout');
-  if (!dropA) { dropA = c; ro.innerHTML = `<span class="sw" style="background:${hex(c)}"></span>${hex(c)} — now click the background.`; return; }
-  const rt = ratio(dropA, c);
-  const line = `${rt.toFixed(2)}:1 (${hex(dropA)} on ${hex(c)})`;
-  ro.innerHTML = `<span class="big ${rt >= 4.5 ? 'pass' : 'fail'}">${rt.toFixed(2)}:1</span> &nbsp;<span class="sw" style="background:${hex(dropA)}"></span>${hex(dropA)} on <span class="sw" style="background:${hex(c)}"></span>${hex(c)}
-    &nbsp;<span class="hint">${rt >= 4.5 ? 'passes AA for any text' : rt >= 3 ? 'passes only large text (24px, or 18.66px bold)' : 'fails AA'}</span>
-    &nbsp;<button id="ro-note">Add to notes</button> <button id="ro-again">Again</button>`;
-  $('#ro-note').onclick = () => { const n = $('#notes'); if (n) { n.value = (n.value ? n.value + '\n' : '') + `Sampled ${line}.`; saveCriterion(null); } };
-  $('#ro-again').onclick = () => { dropA = null; $('#stage').querySelectorAll('.mark').forEach((m) => m.remove()); ro.innerHTML = `Click the text, then the background.`; };
-  dropA = null;
+  if (!V.a) { V.a = c; ro.innerHTML = `<span class="sw" style="background:${hex(c)}"></span>${hex(c)} — now click the background.`; return; }
+  const rt = ratio(V.a, c);
+  ro.innerHTML = `<span class="big ${rt >= 4.5 ? 'pass' : 'fail'}">${rt.toFixed(2)}:1</span> &nbsp;<span class="sw" style="background:${hex(V.a)}"></span>${hex(V.a)} on <span class="sw" style="background:${hex(c)}"></span>${hex(c)} &nbsp;<span class="sub">${rt >= 4.5 ? 'passes for any text' : rt >= 3 ? 'large text only (24px, or 18.66px bold)' : 'fails'}</span> &nbsp;<button class="sm" id="ro-again">Again</button>`;
+  $('#ro-again').onclick = () => setDropper(true);
+  V.a = null;
 });
 
-// ---- wiring ----------------------------------------------------------------------
+$('#v-prev').onclick = () => stepViewer(-1);
+$('#v-next').onclick = () => stepViewer(1);
+$('#v-close').onclick = closeViewer;
+$('#v-drop').onclick = () => setDropper(!V.dropper);
+$('#v-confirm').onclick = () => decide([V.list[V.i]], 'confirm');
+$('#v-look').onclick = () => decide([V.list[V.i]], 'look');
+$('#v-ignore').onclick = () => { const reason = window.prompt('Why is this not a problem?') || ''; if (reason.trim()) decide([V.list[V.i]], 'reject', null, reason); };
+window.addEventListener('resize', () => { if ($('#viewer').classList.contains('show')) { layoutViewer(); showViewerItem(); } });
 
-$('#site').onchange = () => loadSite($('#site').value);
-$('#onlyEvidence').onchange = renderCriteria;
-$('#aaa').onchange = () => { renderCriteria(); renderProgress(); };
-$('#dropper').onclick = () => toggleDropper();
+// ---- wiring ------------------------------------------------------------------------
+
+$('#site').onchange = () => { open = new Set(); loadSite($('#site').value); };
+document.querySelectorAll('.tabs button').forEach((b) => b.onclick = () => { tab = b.dataset.tab; render(); });
 $('#export').onclick = () => { window.open(`/api/export?site=${encodeURIComponent(S.site)}`, '_blank'); flash('Building the worksheet…', 2500); };
-window.addEventListener('resize', () => S && renderShot());
-$('#panel').addEventListener('mouseleave', () => highlight(null));
-
 document.addEventListener('keydown', (e) => {
   const tag = e.target.tagName;
-  if (tag === 'INPUT' || tag === 'TEXTAREA' || tag === 'SELECT' || e.ctrlKey || e.metaKey || e.altKey) { if (e.key === 'Escape') e.target.blur(); return; }
-  const k = e.key.toLowerCase();
-  if (e.key === 'Escape') { if (dropper) toggleDropper(false); return; }
-  if (k === 'e') { toggleDropper(); e.preventDefault(); return; }
-  if (!S) return;
-  const c = criteriaRows().find((x) => x.id === selCrit);
-  const gs = c ? c.groups : [];
-  if (k === 'j' || k === 'k') {
-    if (!gs.length) return;
-    let i = gs.findIndex((g) => g.id === selGroup);
-    i = k === 'j' ? Math.min(gs.length - 1, i + 1) : Math.max(0, i - 1);
-    selGroup = gs[i].id; renderPanel(); renderShot();
-    const ge = $(`.group[data-g="${CSS.escape(selGroup)}"]`); if (ge) ge.scrollIntoView({ block: 'nearest' });
-    scrollShotTo(gs[i].ids[0]);
-    e.preventDefault(); return;
-  }
-  if (['c', 'r', 'l'].includes(k) && selGroup) { decideGroup(selGroup, { c: 'confirm', r: 'reject', l: 'look' }[k]); e.preventDefault(); return; }
-  if (k === 'u' && selGroup) { decideGroup(selGroup, 'reopen'); e.preventDefault(); return; }
-  if (k === 'n' && selGroup) { taskFormFor = selGroup; renderPanel(); const n = $('#tf-name'); if (n) n.focus(); e.preventDefault(); return; }
-  if (k === 'o' && selGroup) { openGroups.has(selGroup) ? openGroups.delete(selGroup) : openGroups.add(selGroup); renderPanel(); e.preventDefault(); }
+  if (tag === 'INPUT' || tag === 'TEXTAREA' || tag === 'SELECT') { if (e.key === 'Escape') e.target.blur(); return; }
+  if (!$('#viewer').classList.contains('show')) return;
+  if (e.key === 'Escape') closeViewer();
+  else if (e.key === 'ArrowRight') stepViewer(1);
+  else if (e.key === 'ArrowLeft') stepViewer(-1);
+  else if (e.key.toLowerCase() === 'e') setDropper(!V.dropper);
+  else if (e.key.toLowerCase() === 'c') $('#v-confirm').click();
+  else if (e.key.toLowerCase() === 'i') $('#v-ignore').click();
+  else if (e.key.toLowerCase() === 'n') $('#v-look').click();
+  else return;
+  e.preventDefault();
 });
 
 loadSites();

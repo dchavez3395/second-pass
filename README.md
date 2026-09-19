@@ -93,39 +93,30 @@ not shown until the reviewer has decided.
 npm run review          # http://localhost:8901
 ```
 
-One page per site, laid out like an agency audit worksheet. WCAG 2.2 criteria
-down the left (from the Vincent Design *Project Accessibility Sheets* template,
-with its guidance text, statuses and severities); the selected criterion in the
-middle with its status — Supports / Partially Supports / Does Not Support / Not
-Evaluated / Not Applicable — and notes; under it the evidence the pipeline
-gathered for that criterion, **grouped by cause** (same rule, same reason axe
-gave, same text colour, background and size band), each group showing the
-worst- and best-case measured contrast against the threshold. One decision
-resolves a group; any node can be overridden individually.
+Laid out like the Equalize Digital Accessibility Checker, which is what the
+reviewer already knows: a summary strip, then one row per **issue** (findings
+grouped by cause — same rule, same reason axe gave, same text colour,
+background and size band) with its count, its worst- and best-case measured
+contrast, and its review status. **Details** opens the items: crop, code,
+measurement, and Confirm / Ignore (reason required) / Not sure per item or for
+the whole issue at once. **View on page** walks the items on the full-page
+screenshot with the element spotlighted, ◀ ▶ to step, the same three buttons,
+and an eyedropper for two-point contrast checks — the worksheet's "lightest and
+darkest part of the image against the text" method.
 
-The full-page screenshot on the right is the workspace: every finding for the
-criterion is a box on it, click a box to jump to its group, hover a group to
-light up its boxes. The **eyedropper** (E) measures any two points — the
-"lightest and darkest part of the image against the text" method from the
-worksheet — and can drop the result into the notes.
+The AI's opinion on an item is shown only after that item is decided.
 
-Keys: **J/K** move between groups · **C** confirm · **R** reject (reason
-required) · **L** closer look · **U** undo · **O** show nodes · **N** log an
-issue · **E** eyedropper.
-
-The model's proposals for a group are revealed only after the group is decided.
+The **Worksheet** tab is the template's Review sheet: a status and a note per
+WCAG 2.2 A/AA criterion, with a status suggested from what has been reviewed.
+**Export worksheet** fills a copy of the template (`export.py`, needs Python with
+openpyxl; `SECOND_PASS_TEMPLATE` points at the template) into `exports/`.
 
 Records, append-only JSONL, latest wins — commit them, they are the corpus:
-`decisions.jsonl` (one line per finding, group decisions marked `via: group`),
-`criteria.jsonl` (status and notes per site and criterion), `tasks.jsonl` (the
-issue list). `review-log.md` is regenerated on every write: totals, rejection
-rate per rule, model-vs-person agreement with false alarms and misses, the
-per-site worksheet, and every decision with its reason.
-
-**Export worksheet** fills a copy of the template for the site — criterion
-statuses and notes into *Review WCAG V2.2*, logged issues into *Task List* —
-via `export.py` (needs Python with openpyxl; set `SECOND_PASS_TEMPLATE` to point
-at the template). Output lands in `exports/`.
+`decisions.jsonl` (one line per finding), `criteria.jsonl` (status and notes per
+site and criterion), `tasks.jsonl` (logged issues). `review-log.md` is
+regenerated on every write: totals, rejection rate per rule, model-vs-person
+agreement with false alarms and misses, the per-site worksheet, and every
+decision with its reason.
 
 ## urls.txt
 
