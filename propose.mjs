@@ -100,10 +100,24 @@ function contrast(a, b) {
   return (Math.max(la, lb) + 0.05) / (Math.min(la, lb) + 0.05);
 }
 
+function parseRgb(s) {
+  const m = /rgba?\(\s*(\d+)\s*,\s*(\d+)\s*,\s*(\d+)(?:\s*,\s*([\d.]+))?/.exec(s || '');
+  if (!m) return null;
+  if (m[4] !== undefined && Number(m[4]) === 0) return null; // transparent
+  return [Number(m[1]), Number(m[2]), Number(m[3])];
+}
+const dist = (a, b) => Math.hypot(a[0] - b[0], a[1] - b[1], a[2] - b[2]);
+
 /**
- * Contrast from pixels inside the element's own box. Colours are bucketed
- * (8 levels per channel); the biggest bucket is the background; the text is
- * the bucket with at least 0.5% coverage that contrasts most with it.
+ * Contrast from pixels inside the element's own box, the way an auditor does it
+ * for text over an image: the text colour against the lightest AND darkest thing
+ * behind it. Worst case is the number that counts.
+ *
+ * Colours are bucketed (8 levels per channel). If the element's computed text
+ * colour is known, every bucket with real coverage that is not the text (or its
+ * anti-aliasing) is treated as background; `ratio` is the minimum contrast across
+ * them and `best` the maximum. Without a text colour it falls back to: biggest
+ * bucket = background, most-contrasting bucket with coverage = text.
  */
 function measure(png, box) {
   const x0 = clamp(Math.floor(box.x), 0, png.width - 1);
@@ -127,17 +141,90 @@ function measure(png, box) {
   const list = [...buckets.values()]
     .map((e) => ({ n: e.n, rgb: [Math.round(e.r / e.n), Math.round(e.g / e.n), Math.round(e.b / e.n)] }))
     .sort((a, b) => b.n - a.n);
+  const area = (x1 - x0) * (y1 - y0);
+  const floor = Math.max(12, total * 0.01);
+  const text = parseRgb(box.color);
+
+  if (text) {
+    // Worst case: the text colour against every background patch with coverage.
+    // Glyph edges are anti-aliased blends of text and background; counting them
+    // as background would invent low ratios. So: mark text-like pixels, grow the
+    // mask by two pixels, and sample background only outside it.
+    const W = x1 - x0, H = y1 - y0;
+    const mask = new Uint8Array(W * H);
+    let textPx = 0;
+    for (let y = 0; y < H; y++) {
+      for (let x = 0; x < W; x++) {
+        const i = ((y + y0) * png.width + (x + x0)) * 4;
+        if (dist([png.data[i], png.data[i + 1], png.data[i + 2]], text) < 60) { mask[y * W + x] = 1; textPx++; }
+      }
+    }
+    const grown = new Uint8Array(W * H);
+    for (let y = 0; y < H; y++) {
+      for (let x = 0; x < W; x++) {
+        if (!mask[y * W + x]) continue;
+        for (let dy = -2; dy <= 2; dy++) for (let dx = -2; dx <= 2; dx++) {
+          const yy = y + dy, xx = x + dx;
+          if (yy >= 0 && yy < H && xx >= 0 && xx < W) grown[yy * W + xx] = 1;
+        }
+      }
+    }
+    const bgBuckets = new Map();
+    let bgTotal = 0;
+    for (let y = 0; y < H; y++) {
+      for (let x = 0; x < W; x++) {
+        if (grown[y * W + x]) continue;
+        const i = ((y + y0) * png.width + (x + x0)) * 4;
+        const r = png.data[i], g = png.data[i + 1], b = png.data[i + 2];
+        const key = ((r >> 5) << 6) | ((g >> 5) << 3) | (b >> 5);
+        const e = bgBuckets.get(key) || { n: 0, r: 0, g: 0, b: 0 };
+        e.n++; e.r += r; e.g += g; e.b += b;
+        bgBuckets.set(key, e);
+        bgTotal++;
+      }
+    }
+    const bgs = [...bgBuckets.values()]
+      .filter((e) => e.n >= Math.max(12, bgTotal * 0.02))
+      .map((e) => ({ n: e.n, rgb: [Math.round(e.r / e.n), Math.round(e.g / e.n), Math.round(e.b / e.n)] }));
+    if (bgs.length && textPx > 0) {
+      let worst = null, best = null;
+      for (const c of bgs) {
+        const r = contrast(text, c.rgb);
+        if (!worst || r < worst.r) worst = { r, c };
+        if (!best || r > best.r) best = { r, c };
+      }
+      const res = {
+        ok: true,
+        method: 'text colour vs. every background patch (worst case)',
+        ratio: Number(worst.r.toFixed(2)),
+        best: Number(best.r.toFixed(2)),
+        fg: text,
+        bg: worst.c.rgb,
+        bgLightest: best.c.rgb,
+        fgShare: Number((textPx / total).toFixed(3)),
+        bgShare: Number((worst.c.n / Math.max(1, bgTotal)).toFixed(3)),
+        patches: bgs.length,
+        sampled: total,
+      };
+      if (area > 300 * 200) res.note = 'large region — background patches may include things that are not behind the text';
+      else if (textPx < total * 0.02) res.note = 'very little text pixel coverage — check the crop';
+      else if (bgs.length > 1 && best.r / worst.r > 1.5) res.note = `background varies under the text: ${res.ratio}:1 at worst, ${res.best}:1 at best`;
+      return res;
+    }
+  }
+
+  // Fallback: no usable text colour. Biggest bucket is the background; the most
+  // contrasting bucket with coverage is the text. This is the flattering number.
   const bg = list[0];
-  const floor = Math.max(12, total * 0.005);
   let fg = null, best = 1;
   for (const c of list.slice(1)) {
     if (c.n < floor) continue;
     const r = contrast(c.rgb, bg.rgb);
     if (r > best) { best = r; fg = c; }
   }
-  const area = (x1 - x0) * (y1 - y0);
   const res = {
     ok: true,
+    method: 'dominant colour vs. most-contrasting colour (best case)',
     ratio: fg ? Number(best.toFixed(2)) : 1,
     bg: bg.rgb,
     fg: fg ? fg.rgb : null,
@@ -169,7 +256,7 @@ function prompt(f, meas, threshold) {
   if (f.rule === 'color-contrast' || f.rule === 'link-in-text-block') {
     lines.push(`Required contrast for this text size: ${threshold}:1.`);
     if (meas && meas.ok && meas.fg) {
-      lines.push(`Measured from the screenshot pixels inside the element: ${meas.ratio}:1 between rgb(${meas.fg}) and rgb(${meas.bg}).${meas.note ? ' Caveat: ' + meas.note + '.' : ''}`);
+      lines.push(`Measured from the screenshot pixels inside the element (${meas.method}): ${meas.ratio}:1 between text rgb(${meas.fg}) and background rgb(${meas.bg})${meas.best && meas.best !== meas.ratio ? `; best case ${meas.best}:1` : ''}.${meas.note ? ' Caveat: ' + meas.note + '.' : ''}`);
     } else if (meas) {
       lines.push(`Pixel measurement was not possible: ${meas.note}.`);
     }
@@ -269,7 +356,12 @@ async function main() {
   const tally = { pass: 0, fail: 0, cannot_tell: 0 };
   for (const f of queue) {
     n++;
-    const rec = { id: f.id, site: f.site, rule: f.rule, model: has('measure-only') ? null : MODEL, at: new Date().toISOString() };
+    const prev = done[f.id];
+    const rec = { id: f.id, site: f.site, rule: f.rule, model: has('measure-only') ? (prev && prev.model) || null : MODEL, at: new Date().toISOString() };
+    if (has('measure-only') && prev && prev.verdict) {
+      // Re-measuring must not erase the model's earlier answer.
+      Object.assign(rec, { verdict: prev.verdict, confidence: prev.confidence, reason: prev.reason, ms: prev.ms });
+    }
     try {
       if (!f.shot || !f.box || (f.box.w === 0 && f.box.h === 0)) {
         rec.skipped = 'no screenshot box for this element';

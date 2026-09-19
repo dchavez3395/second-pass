@@ -7,299 +7,552 @@
 <style>
   :root {
     --bg: #ffffff; --panel: #f5f6f8; --line: #dcdfe4; --text: #1a1d21; --muted: #6b7280;
-    --accent: #2563eb; --ok: #15803d; --bad: #b91c1c; --look: #b45309; --code: #eef0f3;
+    --accent: #2563eb; --ok: #15803d; --bad: #b91c1c; --look: #b45309; --code: #eef0f3; --sel: #e8f0fe;
   }
   @media (prefers-color-scheme: dark) {
     :root:not([data-theme="light"]) {
       --bg: #111316; --panel: #191c21; --line: #2a2f37; --text: #e6e8eb; --muted: #9aa3ad;
-      --accent: #60a5fa; --ok: #4ade80; --bad: #f87171; --look: #fbbf24; --code: #0d0f12;
+      --accent: #60a5fa; --ok: #4ade80; --bad: #f87171; --look: #fbbf24; --code: #0d0f12; --sel: #1e2a3f;
     }
   }
   * { box-sizing: border-box; }
   html, body { height: 100%; }
-  body { margin: 0; background: var(--bg); color: var(--text); font: 14px/1.45 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; display: flex; flex-direction: column; }
-  header { display: flex; flex-wrap: wrap; gap: 12px 18px; align-items: center; padding: 10px 16px; border-bottom: 1px solid var(--line); background: var(--panel); }
+  body { margin: 0; background: var(--bg); color: var(--text); font: 13.5px/1.45 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; display: flex; flex-direction: column; }
+  header { display: flex; flex-wrap: wrap; gap: 10px 16px; align-items: center; padding: 8px 14px; border-bottom: 1px solid var(--line); background: var(--panel); }
   header h1 { font-size: 15px; margin: 0; font-weight: 600; }
-  header label { color: var(--muted); font-size: 13px; display: inline-flex; gap: 6px; align-items: center; }
-  select, input[type=text] { font: inherit; color: var(--text); background: var(--bg); border: 1px solid var(--line); border-radius: 6px; padding: 5px 8px; }
-  .progress { margin-left: auto; color: var(--muted); font-variant-numeric: tabular-nums; }
-  .progress b { color: var(--text); }
-  main { flex: 1; display: grid; grid-template-columns: minmax(360px, 5fr) minmax(360px, 6fr); min-height: 0; }
-  @media (max-width: 900px) { main { grid-template-columns: 1fr; } }
-  .evidence { padding: 16px; overflow: auto; border-right: 1px solid var(--line); }
-  .shot { position: relative; overflow: hidden; background: #000; min-height: 320px; }
-  .shot img { position: absolute; left: 0; top: 0; transform-origin: 0 0; display: block; }
-  .shot .box { position: absolute; border: 3px solid #ff2d55; box-shadow: 0 0 0 9999px rgba(0,0,0,.45); pointer-events: none; }
-  .shot .note { position: absolute; left: 12px; bottom: 12px; background: rgba(0,0,0,.7); color: #fff; padding: 6px 10px; border-radius: 6px; font-size: 12px; }
-  .site { color: var(--muted); font-size: 13px; }
-  .site a { color: var(--accent); }
-  h2 { font-size: 20px; margin: 4px 0 2px; font-weight: 600; }
-  .meta { display: flex; flex-wrap: wrap; gap: 6px 10px; margin: 8px 0 14px; font-size: 12px; }
-  .pill { border: 1px solid var(--line); border-radius: 999px; padding: 2px 9px; color: var(--muted); }
-  .pill.impact-critical, .pill.impact-serious { color: var(--bad); border-color: var(--bad); }
-  .pill.impact-moderate { color: var(--look); border-color: var(--look); }
-  .pill.kind-incomplete { color: var(--look); border-color: var(--look); }
-  .pill.kind-violation { color: var(--bad); border-color: var(--bad); }
-  .pill a { color: inherit; text-decoration: none; }
-  section { margin: 14px 0; }
-  section h3 { font-size: 11px; letter-spacing: .06em; text-transform: uppercase; color: var(--muted); margin: 0 0 6px; font-weight: 600; }
-  .why { padding: 10px 12px; border-left: 3px solid var(--look); background: var(--panel); border-radius: 0 6px 6px 0; }
-  .why p { margin: 0; } .why p + p { margin-top: 6px; }
-  pre { margin: 0; padding: 10px 12px; background: var(--code); border: 1px solid var(--line); border-radius: 6px; overflow: auto; font: 12px/1.5 ui-monospace, Menlo, Consolas, monospace; white-space: pre-wrap; word-break: break-all; }
-  .decided { padding: 10px 12px; border-radius: 6px; background: var(--panel); border: 1px solid var(--line); }
-  .measure { display: flex; gap: 14px; align-items: center; padding: 10px 12px; border-radius: 6px; background: var(--panel); border: 1px solid var(--line); flex-wrap: wrap; }
-  .measure .ratio { font-size: 22px; font-weight: 600; font-variant-numeric: tabular-nums; }
-  .measure .ratio.pass { color: var(--ok); } .measure .ratio.fail { color: var(--bad); }
-  .measure .sw { display: inline-block; width: 16px; height: 16px; border-radius: 3px; border: 1px solid var(--line); vertical-align: -3px; margin-right: 4px; }
-  .measure .caveat { width: 100%; color: var(--muted); font-size: 12px; }
-  .cropimg { max-width: 100%; max-height: 180px; border: 1px solid var(--line); border-radius: 6px; background: #fff; display: block; }
-  .model { padding: 10px 12px; border-radius: 6px; border: 1px dashed var(--line); }
-  .model.agree { border-color: var(--ok); } .model.disagree { border-color: var(--bad); }
-  .model .v { font-weight: 600; text-transform: uppercase; font-size: 12px; letter-spacing: .04em; }
-  .model .v.pass { color: var(--ok); } .model .v.fail { color: var(--bad); } .model .v.cannot_tell { color: var(--look); }
-  .model .tag { float: right; font-size: 12px; color: var(--muted); }
-  .decided b.confirm { color: var(--ok); } .decided b.reject { color: var(--bad); } .decided b.look { color: var(--look); }
-  footer { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; padding: 10px 16px; border-top: 1px solid var(--line); background: var(--panel); }
-  button { font: inherit; padding: 7px 12px; border-radius: 6px; border: 1px solid var(--line); background: var(--bg); color: var(--text); cursor: pointer; }
-  button kbd { font: 11px ui-monospace, monospace; padding: 1px 5px; border: 1px solid var(--line); border-radius: 4px; margin-right: 6px; color: var(--muted); }
+  header label { color: var(--muted); font-size: 12.5px; display: inline-flex; gap: 6px; align-items: center; }
+  select, input[type=text], textarea { font: inherit; color: var(--text); background: var(--bg); border: 1px solid var(--line); border-radius: 6px; padding: 5px 8px; }
+  textarea { width: 100%; min-height: 64px; resize: vertical; }
+  button { font: inherit; padding: 5px 10px; border-radius: 6px; border: 1px solid var(--line); background: var(--bg); color: var(--text); cursor: pointer; }
+  button:hover { border-color: var(--muted); }
+  button.primary { background: var(--accent); color: #fff; border-color: var(--accent); }
+  button.on { outline: 2px solid var(--accent); }
+  button kbd { font: 11px ui-monospace, monospace; padding: 0 4px; border: 1px solid var(--line); border-radius: 4px; margin-right: 5px; color: var(--muted); }
   button.confirm { border-color: var(--ok); } button.reject { border-color: var(--bad); } button.look { border-color: var(--look); }
-  button.pending { outline: 2px solid var(--accent); }
-  #reason { flex: 1; min-width: 220px; }
-  .nav { display: flex; gap: 6px; }
-  .hint { width: 100%; color: var(--muted); font-size: 12px; }
-  .empty { padding: 40px; color: var(--muted); }
-  .flash { position: fixed; right: 16px; top: 60px; background: var(--text); color: var(--bg); padding: 8px 12px; border-radius: 6px; opacity: 0; transition: opacity .2s; }
+  .progress { margin-left: auto; color: var(--muted); font-variant-numeric: tabular-nums; font-size: 12.5px; }
+  .progress b { color: var(--text); }
+  main { flex: 1; display: grid; grid-template-columns: 300px minmax(440px, 1fr) minmax(420px, 1fr); min-height: 0; }
+  @media (max-width: 1200px) { main { grid-template-columns: 260px 1fr; } .shot { grid-column: 1 / -1; min-height: 420px; } }
+
+  /* criteria column */
+  .crit { overflow: auto; border-right: 1px solid var(--line); }
+  .crit .sec { padding: 10px 12px 4px; font-size: 11px; letter-spacing: .06em; text-transform: uppercase; color: var(--muted); font-weight: 600; position: sticky; top: 0; background: var(--bg); }
+  .crit .row { display: grid; grid-template-columns: 30px 1fr auto; gap: 6px; align-items: center; padding: 5px 12px; cursor: pointer; border-left: 3px solid transparent; }
+  .crit .row:hover { background: var(--panel); }
+  .crit .row.sel { background: var(--sel); border-left-color: var(--accent); }
+  .crit .row.dim { opacity: .55; }
+  .crit .lvl { font-size: 10.5px; color: var(--muted); border: 1px solid var(--line); border-radius: 4px; text-align: center; padding: 1px 0; }
+  .crit .name { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .crit .name small { color: var(--muted); }
+  .crit .badge { font-size: 11px; color: var(--muted); border-radius: 999px; padding: 1px 7px; background: var(--panel); border: 1px solid var(--line); }
+  .crit .badge.fail { color: var(--bad); border-color: var(--bad); }
+  .crit .badge.open { color: var(--look); border-color: var(--look); }
+  .dot { display: inline-block; width: 8px; height: 8px; border-radius: 50%; margin-right: 6px; background: var(--line); vertical-align: 0; }
+  .dot.Supports { background: var(--ok); } .dot.Partially { background: var(--look); } .dot.Does { background: var(--bad); } .dot.Applicable { background: var(--muted); }
+
+  /* criterion panel */
+  .panel { overflow: auto; padding: 14px 16px; border-right: 1px solid var(--line); }
+  .panel h2 { font-size: 18px; margin: 0 0 2px; font-weight: 600; }
+  .panel h2 small { color: var(--muted); font-weight: 400; font-size: 13px; margin-left: 8px; }
+  .panel a { color: var(--accent); }
+  .guide { margin: 8px 0 12px; padding: 8px 12px; background: var(--panel); border-radius: 6px; font-size: 12.5px; color: var(--muted); }
+  .guide b { color: var(--text); font-weight: 600; }
+  .status { display: flex; flex-wrap: wrap; gap: 6px; margin: 10px 0 8px; }
+  .status button.Supports.on { background: var(--ok); color: #fff; border-color: var(--ok); outline: none; }
+  .status button.Partially.on { background: var(--look); color: #fff; border-color: var(--look); outline: none; }
+  .status button.Does.on { background: var(--bad); color: #fff; border-color: var(--bad); outline: none; }
+  .status button.Not.on { background: var(--muted); color: #fff; border-color: var(--muted); outline: none; }
+  h3 { font-size: 11px; letter-spacing: .06em; text-transform: uppercase; color: var(--muted); margin: 16px 0 6px; font-weight: 600; }
+  .group { border: 1px solid var(--line); border-radius: 8px; margin: 8px 0; padding: 10px 12px; }
+  .group.sel { border-color: var(--accent); box-shadow: 0 0 0 2px var(--sel); }
+  .group .head { display: flex; flex-wrap: wrap; gap: 6px 10px; align-items: baseline; cursor: pointer; }
+  .group .swatch { display: inline-block; width: 12px; height: 12px; border-radius: 3px; border: 1px solid var(--line); vertical-align: -1px; }
+  .pill { font-size: 11px; border: 1px solid var(--line); border-radius: 999px; padding: 1px 8px; color: var(--muted); }
+  .pill.violation { color: var(--bad); border-color: var(--bad); } .pill.incomplete { color: var(--look); border-color: var(--look); }
+  .meas { font-variant-numeric: tabular-nums; }
+  .meas b.pass { color: var(--ok); } .meas b.fail { color: var(--bad); }
+  .why { color: var(--muted); font-size: 12.5px; margin: 4px 0 8px; }
+  .acts { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-top: 6px; }
+  .acts input[type=text] { flex: 1; min-width: 160px; }
+  .decided { margin-top: 6px; padding: 8px 10px; border-radius: 6px; background: var(--panel); font-size: 12.5px; }
+  .decided b.confirm { color: var(--bad); } .decided b.reject { color: var(--ok); } .decided b.look { color: var(--look); }
+  .model { margin-top: 6px; padding: 8px 10px; border-radius: 6px; border: 1px dashed var(--line); font-size: 12.5px; }
+  .model.agree { border-color: var(--ok); } .model.disagree { border-color: var(--bad); }
+  .nodes { display: grid; grid-template-columns: repeat(auto-fill, minmax(190px, 1fr)); gap: 8px; margin-top: 8px; }
+  .node { border: 1px solid var(--line); border-radius: 6px; padding: 6px; font-size: 12px; cursor: pointer; }
+  .node:hover { border-color: var(--accent); }
+  .node img { width: 100%; height: 70px; object-fit: contain; background: #fff; border-radius: 4px; display: block; margin-bottom: 4px; }
+  .node .t { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .node .m { color: var(--muted); }
+  .node .m b.fail { color: var(--bad); } .node .m b.pass { color: var(--ok); }
+  .node .v { font-size: 11px; margin-top: 3px; }
+  .node .v.confirm { color: var(--bad); } .node .v.reject { color: var(--ok); } .node .v.look { color: var(--look); }
+  .node .ov { display: none; gap: 3px; margin-top: 4px; } .node:hover .ov { display: flex; }
+  .node .ov button { padding: 1px 6px; font-size: 11px; }
+  .task { border: 1px solid var(--line); border-radius: 6px; padding: 8px 10px; margin: 6px 0; font-size: 12.5px; display: grid; grid-template-columns: auto 1fr auto; gap: 8px; align-items: start; }
+  .task .sev { font-weight: 700; padding: 0 6px; border-radius: 4px; border: 1px solid var(--line); }
+  .task .sev.s3 { color: var(--bad); border-color: var(--bad); } .task .sev.s2 { color: var(--look); border-color: var(--look); }
+  .taskform { border: 1px dashed var(--line); border-radius: 8px; padding: 10px 12px; margin-top: 8px; display: grid; gap: 6px; }
+  .taskform .r { display: flex; gap: 6px; flex-wrap: wrap; } .taskform .r input[type=text] { flex: 1; }
+  .empty { color: var(--muted); padding: 24px 0; }
+  .hint { color: var(--muted); font-size: 12px; }
+
+  /* screenshot workspace */
+  .shot { position: relative; overflow: auto; background: #202225; }
+  .shot .stage { position: relative; transform-origin: 0 0; }
+  .shot img { display: block; }
+  .shot canvas { display: none; }
+  .shot .fb { position: absolute; border: 2px solid rgba(255,45,85,.9); background: rgba(255,45,85,.08); cursor: pointer; }
+  .shot .fb.other { border-color: rgba(96,165,250,.8); background: rgba(96,165,250,.05); }
+  .shot .fb.dim { opacity: .35; }
+  .shot .fb:hover { background: rgba(255,45,85,.22); }
+  .shot .fb.decided { border-style: dashed; }
+  .shot .mark { position: absolute; width: 14px; height: 14px; border: 2px solid #fff; border-radius: 50%; box-shadow: 0 0 0 2px #000; transform: translate(-50%, -50%); pointer-events: none; }
+  .shot.dropper { cursor: crosshair; }
+  .readout { position: sticky; top: 8px; left: 8px; z-index: 5; background: var(--bg); color: var(--text); border: 1px solid var(--line); border-radius: 8px; padding: 8px 12px; display: none; font-size: 12.5px; width: max-content; max-width: calc(100% - 16px); margin: 8px; }
+  .readout.show { display: block; }
+  .readout .big { font-size: 20px; font-weight: 600; }
+  .readout .big.pass { color: var(--ok); } .readout .big.fail { color: var(--bad); }
+  .readout .sw { display: inline-block; width: 14px; height: 14px; border-radius: 3px; border: 1px solid var(--line); vertical-align: -2px; margin-right: 4px; }
+  .tip { position: absolute; z-index: 6; background: rgba(0,0,0,.85); color: #fff; padding: 4px 8px; border-radius: 4px; font-size: 12px; pointer-events: none; display: none; max-width: 320px; }
+  .flash { position: fixed; right: 16px; bottom: 16px; background: var(--text); color: var(--bg); padding: 8px 12px; border-radius: 6px; opacity: 0; transition: opacity .2s; z-index: 10; }
   .flash.show { opacity: 1; }
 </style>
 </head>
 <body>
 <header>
-  <h1>Second Pass review</h1>
-  <label>Show
-    <select id="kind">
-      <option value="incomplete">axe could not decide</option>
-      <option value="violation">axe reported a failure</option>
-      <option value="all">both</option>
-    </select>
-  </label>
-  <label>Site <select id="site"><option value="">all</option></select></label>
-  <label>Rule <select id="rule"><option value="">all</option></select></label>
-  <label><input type="checkbox" id="hideDecided" checked> hide decided</label>
+  <h1>Second Pass</h1>
+  <label>Site <select id="site"></select></label>
+  <label><input type="checkbox" id="onlyEvidence" checked> only criteria with evidence</label>
+  <label><input type="checkbox" id="aaa"> include AAA</label>
+  <button id="dropper" title="Click two points on the screenshot to measure their contrast (E)"><kbd>E</kbd>Eyedropper</button>
+  <button id="export" title="Fill the Project Accessibility Sheets template for this site">Export worksheet</button>
   <span class="progress" id="progress"></span>
 </header>
 
 <main>
-  <div class="evidence" id="evidence"></div>
-  <div class="shot" id="shot"></div>
+  <nav class="crit" id="crit"></nav>
+  <section class="panel" id="panel"></section>
+  <section class="shot" id="shot">
+    <div class="readout" id="readout"></div>
+    <div class="stage" id="stage"></div>
+    <div class="tip" id="tip"></div>
+  </section>
 </main>
-
-<footer>
-  <button class="confirm" data-verdict="confirm"><kbd>C</kbd>Confirm — real problem</button>
-  <button class="reject" data-verdict="reject"><kbd>R</kbd>Reject — not a problem</button>
-  <button class="look" data-verdict="look"><kbd>L</kbd>Closer look</button>
-  <input type="text" id="reason" placeholder="Reason — required to reject, optional otherwise. Enter saves.">
-  <div class="nav">
-    <button id="prev" title="previous (K or ←)">←</button>
-    <button id="next" title="next (J or →)">→</button>
-    <button id="reopen" title="reopen this finding (U)">Undo</button>
-  </div>
-  <div class="hint">Keys: <b>C</b> confirm · <b>R</b> reject (then type the reason, Enter) · <b>L</b> closer look · <b>J</b>/<b>K</b> next/previous · <b>.</b> reuse last reason · <b>U</b> reopen. The model's verdict stays hidden until you decide. Decisions land in <code>decisions.jsonl</code>; <code>review-log.md</code> is rebuilt on every one.</div>
-</footer>
 <div class="flash" id="flash"></div>
 
 <script>
-const $ = (s) => document.querySelector(s);
+const $ = (s, r = document) => r.querySelector(s);
 const esc = (s) => String(s ?? '').replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
-
-let hold = null;
-let all = [], decisions = {}, proposals = {}, list = [], idx = 0, pending = null, lastReason = '';
 const MODEL_TO_HUMAN = { fail: 'confirm', pass: 'reject', cannot_tell: 'look' };
-const HUMAN_LABEL = { confirm: 'Confirmed', reject: 'Rejected', look: 'Needs a closer look' };
+const HUMAN_LABEL = { confirm: 'Confirmed — real failure', reject: 'Rejected — not a problem', look: 'Needs a closer look' };
 
-async function load(keepIndex) {
-  const r = await fetch('/api/queue');
-  const j = await r.json();
-  all = j.findings; decisions = j.decisions; proposals = j.proposals || {};
-  fillSelect($('#site'), [...new Set(all.map((f) => f.site))].sort());
-  fillSelect($('#rule'), [...new Set(all.map((f) => f.rule))].sort());
-  const cur = list[idx] && list[idx].id;
-  applyFilters();
-  if (keepIndex && cur) { const i = list.findIndex((f) => f.id === cur); if (i >= 0) idx = i; }
-  render();
+let S = null;            // site payload
+let selCrit = null;      // criterion id
+let selGroup = null;     // group id
+let openGroups = new Set();
+let taskFormFor = null;  // group id with an open issue form
+let dropper = false, dropA = null;
+let scale = 1;
+
+// ---- loading ----------------------------------------------------------------
+
+async function loadSites() {
+  const sites = await (await fetch('/api/sites')).json();
+  const sel = $('#site');
+  sel.innerHTML = sites.map((s) => `<option value="${esc(s.site)}">${esc(s.site)} — ${s.decided}/${s.findings} decided, ${s.criteriaDone} criteria</option>`).join('');
+  const want = decodeURIComponent(location.hash.slice(1)) || (sites[0] && sites[0].site);
+  if (want && sites.some((s) => s.site === want)) sel.value = want;
+  await loadSite(sel.value);
 }
 
-function fillSelect(sel, values) {
-  const cur = sel.value;
-  sel.innerHTML = '<option value="">all</option>' + values.map((v) => `<option>${esc(v)}</option>`).join('');
-  sel.value = values.includes(cur) ? cur : '';
+async function loadSite(site, keep = false) {
+  S = await (await fetch(`/api/site?site=${encodeURIComponent(site)}`)).json();
+  S.byId = Object.fromEntries(S.findings.map((f) => [f.id, f]));
+  S.groupById = Object.fromEntries(S.groups.map((g) => [g.id, g]));
+  location.hash = site;
+  if (!keep) { selCrit = null; selGroup = null; openGroups = new Set(); taskFormFor = null; }
+  if (!selCrit) {
+    const first = criteriaRows().find((c) => c.groups.length);
+    selCrit = first ? first.id : null;
+  }
+  renderAll();
 }
 
-function applyFilters() {
-  const kind = $('#kind').value, site = $('#site').value, rule = $('#rule').value, hide = $('#hideDecided').checked;
-  list = all.filter((f) =>
-    (kind === 'all' || f.kind === kind) &&
-    (!site || f.site === site) &&
-    (!rule || f.rule === rule) &&
-    (!hide || !decisions[f.id] || f.id === hold)
-  );
-  if (idx >= list.length) idx = Math.max(0, list.length - 1);
+function criteriaRows() {
+  const byCrit = {};
+  for (const g of S.groups) (byCrit[g.criterion] ||= []).push(g);
+  return S.wcag.criteria.map((c) => ({ ...c, groups: byCrit[c.id] || [], rec: S.criteria[c.id] || null }));
 }
 
-function render() {
-  const scope = all.filter((f) => $('#kind').value === 'all' || f.kind === $('#kind').value);
-  const done = scope.filter((f) => decisions[f.id]).length;
-  $('#progress').innerHTML = `<b>${done}</b> / ${scope.length} decided · ${list.length} in view`;
-  pending = null; document.querySelectorAll('footer button.pending').forEach((b) => b.classList.remove('pending'));
+function groupDecided(g) { return g.ids.every((id) => S.decisions[id]); }
+function groupVerdict(g) {
+  const vs = new Set(g.ids.map((id) => S.decisions[id] && S.decisions[id].verdict).filter(Boolean));
+  return vs.size === 1 ? [...vs][0] : vs.size ? 'mixed' : null;
+}
 
-  const f = list[idx];
-  if (!f) {
-    $('#evidence').innerHTML = `<div class="empty">Nothing left in this view. Change the filters, or untick “hide decided” to revisit.</div>`;
-    $('#shot').innerHTML = '';
+// ---- render -------------------------------------------------------------------
+
+function renderAll() { renderCriteria(); renderPanel(); renderShot(); renderProgress(); }
+
+function renderProgress() {
+  const rows = criteriaRows().filter((c) => c.level !== 'AAA' || $('#aaa').checked);
+  const done = rows.filter((c) => c.rec && c.rec.status && c.rec.status !== 'Not Evaluated').length;
+  const dec = Object.keys(S.decisions).length;
+  $('#progress').innerHTML = `<b>${done}</b>/${rows.length} criteria · <b>${dec}</b>/${S.findings.length} findings decided · ${S.tasks.length} issues logged`;
+}
+
+function renderCriteria() {
+  const only = $('#onlyEvidence').checked, aaa = $('#aaa').checked;
+  const rows = criteriaRows().filter((c) => (aaa || c.level !== 'AAA') && (!only || c.groups.length || c.rec || c.id === selCrit));
+  let html = '', lastG = null;
+  for (const c of rows) {
+    if (c.guideline !== lastG) { html += `<div class="sec">${esc(c.guideline)}</div>`; lastG = c.guideline; }
+    const fails = c.groups.filter((g) => g.kind === 'violation').reduce((a, g) => a + g.ids.length, 0);
+    const open = c.groups.filter((g) => g.kind === 'incomplete').reduce((a, g) => a + g.ids.length, 0);
+    const st = c.rec && c.rec.status ? c.rec.status : 'Not Evaluated';
+    const dotCls = st === 'Not Applicable' ? 'Applicable' : st.split(' ')[0];
+    html += `<div class="row ${c.id === selCrit ? 'sel' : ''} ${c.groups.length || c.rec ? '' : 'dim'}" data-c="${esc(c.id)}">
+      <span class="lvl">${esc(c.level)}</span>
+      <span class="name" title="${esc(c.name)} — ${esc(st)}"><span class="dot ${esc(dotCls)}"></span>${esc(c.id)} <small>${esc(c.name)}</small></span>
+      <span>${fails ? `<span class="badge fail" title="axe failures">${fails}</span>` : ''}${open ? `<span class="badge open" title="axe could not decide">${open}</span>` : ''}</span>
+    </div>`;
+  }
+  $('#crit').innerHTML = html;
+  $('#crit').querySelectorAll('.row').forEach((r) => r.onclick = () => { selCrit = r.dataset.c; selGroup = null; renderAll(); });
+}
+
+function measHtml(m) {
+  if (!m) return '';
+  const cls = (v) => (v >= m.threshold ? 'pass' : 'fail');
+  return `<span class="meas">worst <b class="${cls(m.worst)}">${m.worst}:1</b>${m.best !== m.worst ? ` · best <b class="${cls(m.best)}">${m.best}:1</b>` : ''} · needs ${m.threshold}:1${m.below ? ` · <b class="fail">${m.below} of ${m.n} below</b>` : ` · ${m.n} measured`}</span>`;
+}
+
+function renderPanel() {
+  const c = criteriaRows().find((x) => x.id === selCrit);
+  const P = $('#panel');
+  if (!c) {
+    const rows = criteriaRows().filter((x) => x.groups.length);
+    P.innerHTML = `<h2>${esc(S.site)} <small>${esc(S.title)}</small></h2>
+      <p class="hint">${S.findings.length} findings in ${S.groups.length} groups across ${rows.length} criteria. Pick a criterion on the left.</p>`;
     return;
   }
-  const d = decisions[f.id];
-  const wcag = f.wcag.map((w) => `<span class="pill">WCAG ${esc(w)}</span>`).join('');
-  const level = f.tags.filter((t) => /^wcag2\d?(a|aa|aaa)$/.test(t)).map((t) => t.replace(/^wcag2\d?/, '').toUpperCase());
-  $('#evidence').innerHTML = `
-    <div class="site">${esc(f.site)} · <a href="${esc(f.url)}" target="_blank" rel="noopener">open live page ↗</a>${f.title ? ' · ' + esc(f.title) : ''}</div>
-    <h2>${esc(f.help)}</h2>
-    <div class="meta">
-      <span class="pill kind-${f.kind}">${f.kind === 'incomplete' ? 'axe could not decide' : 'axe says: fail'}</span>
-      <span class="pill impact-${esc(f.impact)}">${esc(f.impact || 'impact unknown')}</span>
-      ${wcag}${level.length ? `<span class="pill">Level ${esc([...new Set(level)].join('/'))}</span>` : ''}
-      <span class="pill"><a href="${esc(f.helpUrl)}" target="_blank" rel="noopener">${esc(f.rule)} ↗</a></span>
-      <span class="pill">node ${f.nodeIndex + 1} of ${f.nodeCount} for this rule</span>
+  const st = c.rec && c.rec.status ? c.rec.status : 'Not Evaluated';
+  const guidance = c.guidance.filter((g) => g.role !== 'Video');
+  let html = `<h2>${esc(c.id)} ${esc(c.name)} <small>Level ${esc(c.level)}${c.link ? ` · <a href="${esc(c.link)}" target="_blank" rel="noopener">Understanding ↗</a>` : ''} · <a href="${esc(S.url)}" target="_blank" rel="noopener">live page ↗</a></small></h2>`;
+  if (guidance.length) html += `<div class="guide">${guidance.map((g) => `<div><b>${esc(g.role)}:</b> ${esc(g.text)}</div>`).join('')}</div>`;
+
+  html += `<div class="status">${S.wcag.statuses.map((s) => `<button class="${esc(s.split(' ')[0])} ${s === st ? 'on' : ''}" data-status="${esc(s)}">${esc(s)}</button>`).join('')}</div>`;
+  html += `<textarea id="notes" placeholder="Notes for the worksheet — what you found, where, and what to do. Saved when you click away.">${esc(c.rec ? c.rec.notes : '')}</textarea>`;
+  if (c.canned) html += `<div class="hint">Template wording for a pass: <a href="#" id="canned">${esc(c.canned)}</a></div>`;
+
+  const tasks = S.tasks.filter((t) => t.criterion === c.id);
+  if (tasks.length) {
+    html += `<h3>Issues logged for this criterion</h3>` + tasks.map((t) => `<div class="task"><span class="sev s${t.severity}">${t.severity}</span><div><b>${esc(t.shortname)}</b> <span class="hint">· ${esc(t.status)}</span><div class="hint">${esc(t.notes)}</div>${t.reference ? `<div class="hint"><code>${esc(t.reference.slice(0, 120))}</code></div>` : ''}</div><button data-deltask="${esc(t.id)}" title="remove">✕</button></div>`).join('');
+  }
+
+  html += `<h3>Evidence — ${c.groups.length} group${c.groups.length === 1 ? '' : 's'}, ${c.groups.reduce((a, g) => a + g.ids.length, 0)} findings</h3>`;
+  if (!c.groups.length) html += `<div class="empty">Nothing automated maps to this criterion. Evaluate it by hand and set the status above.</div>`;
+  for (const g of c.groups) html += groupHtml(g);
+  P.innerHTML = html;
+
+  P.querySelectorAll('.status button').forEach((b) => b.onclick = () => saveCriterion(b.dataset.status));
+  $('#notes').onblur = () => saveCriterion(null);
+  $('#notes').onkeydown = (e) => { if (e.key === 'Enter' && (e.ctrlKey || e.metaKey)) $('#notes').blur(); };
+  const cn = $('#canned'); if (cn) cn.onclick = (e) => { e.preventDefault(); const n = $('#notes'); n.value = (n.value ? n.value + ' ' : '') + c.canned; saveCriterion(null); };
+  P.querySelectorAll('[data-deltask]').forEach((b) => b.onclick = () => saveTask({ id: b.dataset.deltask, site: S.site, deleted: true }));
+  wireGroups();
+}
+
+function groupHtml(g) {
+  const decided = groupDecided(g), v = groupVerdict(g), open = openGroups.has(g.id);
+  const sw = (g.label.match(/rgba?\([^)]*\)/g) || []).map((c) => `<span class="swatch" style="background:${esc(c)}"></span>`).join('');
+  let html = `<div class="group ${g.id === selGroup ? 'sel' : ''}" data-g="${esc(g.id)}">
+    <div class="head" data-toggle="${esc(g.id)}">
+      <span class="pill ${esc(g.kind)}">${g.kind === 'violation' ? 'axe: fail' : 'axe: could not decide'}</span>
+      <b>${esc(g.rule)}</b> <span>${sw} ${esc(g.label)}</span>
+      <span class="pill">${g.ids.length} node${g.ids.length === 1 ? '' : 's'}</span>
+      ${measHtml(g.measured)}
+      <span class="hint">${open ? '▾ hide nodes' : '▸ show nodes'}</span>
     </div>
-    ${f.description ? `<p style="color:var(--muted);margin:0 0 12px">${esc(f.description)}</p>` : ''}
-    <section><h3>Why axe stopped here</h3><div class="why">${f.messages.length ? f.messages.map((m) => `<p>${esc(m)}</p>`).join('') : '<p>axe gave no per-node explanation.</p>'}</div></section>
-    <section><h3>Element</h3><pre>${esc(f.html)}</pre></section>
-    <section><h3>Selector</h3><pre>${esc(f.target)}</pre></section>
-    ${measureHtml(f)}
-    ${d ? `<section><h3>Your decision</h3><div class="decided"><b class="${esc(d.verdict)}">${esc(HUMAN_LABEL[d.verdict])}</b>${d.reason ? ' — ' + esc(d.reason) : ''}<div style="color:var(--muted);font-size:12px">${esc(d.at.slice(0, 16).replace('T', ' '))}</div></div></section>` : ''}
-    ${d ? modelHtml(f, proposals[f.id], d) : (proposals[f.id] ? `<section><h3>Model</h3><div class="model" style="color:var(--muted)">Has an opinion. Hidden until you decide.</div></section>` : '')}
-  `;
-  $('#reason').value = '';
-  renderShot(f);
-}
+    <div class="why">${esc(g.why)} <a href="${esc(g.helpUrl)}" target="_blank" rel="noopener">rule ↗</a></div>`;
 
-function measureHtml(f) {
-  const p = proposals[f.id];
-  const m = p && p.measured;
-  const b = f.box || {};
-  let out = '';
-  if (m && m.ok && m.fg) {
-    const ok = m.ratio >= m.threshold;
-    const sw = (rgb) => `<span class="sw" style="background:rgb(${rgb.join(',')})"></span>rgb(${rgb.join(', ')})`;
-    out += `<section><h3>Measured from the screenshot</h3><div class="measure">
-      <span class="ratio ${ok ? 'pass' : 'fail'}">${m.ratio}:1</span>
-      <span>needs ${m.threshold}:1${b.fontSize ? ` · ${b.fontSize}px / ${esc(b.fontWeight)}` : ''}</span>
-      <span>text ${sw(m.fg)}</span><span>background ${sw(m.bg)}</span>
-      ${m.note ? `<span class="caveat">Caveat: ${esc(m.note)}.</span>` : ''}
-      <span class="caveat">Dominant colour in the element's box vs. the most-contrasting colour with real coverage. Evidence, not a verdict — the pixels can be a border, a placeholder, or an icon.</span>
-    </div></section>`;
-  } else if (m && m.note) {
-    out += `<section><h3>Measured from the screenshot</h3><div class="measure"><span class="caveat">${esc(m.note)}.</span></div></section>`;
+  if (decided) {
+    const reasons = [...new Set(g.ids.map((id) => S.decisions[id].reason).filter(Boolean))];
+    html += `<div class="decided"><b class="${esc(v)}">${v === 'mixed' ? 'Mixed decisions' : esc(HUMAN_LABEL[v])}</b>${reasons.length ? ' — ' + esc(reasons.join(' / ')) : ''} <button data-undo="${esc(g.id)}" style="margin-left:8px">Undo</button> <button data-issue="${esc(g.id)}">Log issue</button></div>`;
+    html += modelHtml(g);
+  } else {
+    html += `<div class="acts">
+      <button class="confirm" data-act="confirm" data-g="${esc(g.id)}"><kbd>C</kbd>Confirm all</button>
+      <button class="reject" data-act="reject" data-g="${esc(g.id)}"><kbd>R</kbd>Reject all</button>
+      <button class="look" data-act="look" data-g="${esc(g.id)}"><kbd>L</kbd>Closer look</button>
+      <input type="text" data-reason="${esc(g.id)}" placeholder="Reason — required to reject. Enter = confirm, or the pending action.">
+      <button data-issue="${esc(g.id)}">Log issue</button>
+    </div>`;
+    const partial = g.ids.filter((id) => S.decisions[id]).length;
+    if (partial) html += `<div class="hint">${partial} of ${g.ids.length} decided individually.</div>`;
   }
-  if (f.crop) out += `<section><h3>What the model was shown</h3><img class="cropimg" src="/crops/${encodeURIComponent(f.crop)}" alt="Crop of the element"></section>`;
-  return out;
+  if (taskFormFor === g.id) html += taskFormHtml(g);
+  if (open) html += `<div class="nodes">${g.ids.map((id) => nodeHtml(S.byId[id])).join('')}</div>`;
+  return html + `</div>`;
 }
 
-function modelHtml(f, p, d) {
-  if (!p || !p.verdict) return `<section><h3>Model</h3><div class="model" style="color:var(--muted)">No model proposal for this finding${p && p.skipped ? ' — ' + esc(p.skipped) : ''}.</div></section>`;
-  const agree = MODEL_TO_HUMAN[p.verdict] === d.verdict;
-  return `<section><h3>Model — revealed after your decision</h3><div class="model ${agree ? 'agree' : 'disagree'}">
-    <span class="tag">${esc(p.model || '')}${p.confidence != null ? ` · confidence ${p.confidence}` : ''}</span>
-    <span class="v ${esc(p.verdict)}">${esc(p.verdict.replace('_', ' '))}</span> — ${agree ? 'agrees with you' : '<b>disagrees with you</b>'}
-    <p style="margin:6px 0 0">${esc(p.reason)}</p>
-  </div></section>`;
+function modelHtml(g) {
+  const ps = g.ids.map((id) => S.proposals[id]).filter((p) => p && p.verdict);
+  if (!ps.length) return `<div class="model hint">No model proposal for this group.</div>`;
+  const tally = { pass: 0, fail: 0, cannot_tell: 0 };
+  let agree = 0;
+  for (const id of g.ids) { const p = S.proposals[id]; if (!p || !p.verdict) continue; tally[p.verdict]++; if (MODEL_TO_HUMAN[p.verdict] === S.decisions[id].verdict) agree++; }
+  const cls = agree === ps.length ? 'agree' : agree === 0 ? 'disagree' : '';
+  const sample = ps.find((p) => p.reason) || ps[0];
+  return `<div class="model ${cls}"><b>Model, revealed after your decision:</b> ${tally.fail} fail · ${tally.pass} pass · ${tally.cannot_tell} can't tell — agreed with you on ${agree} of ${ps.length}. <span class="hint">${esc(sample.model)}: “${esc(sample.reason)}”</span></div>`;
 }
 
-function renderShot(f) {
-  const shot = $('#shot');
-  if (!f.shot) { shot.innerHTML = '<div class="note">No screenshot for this site.</div>'; return; }
-  shot.innerHTML = `<img src="/screens/${encodeURIComponent(f.shot)}" alt="Screenshot of ${esc(f.site)}"><div class="box" hidden></div><div class="note" hidden></div>`;
-  const img = shot.querySelector('img'), box = shot.querySelector('.box'), note = shot.querySelector('.note');
-  img.onload = () => {
-    const W = shot.clientWidth, H = shot.clientHeight;
-    const pageW = (f.viewport && f.viewport.width) || img.naturalWidth;
-    const scale = W / pageW;
-    img.style.transform = `scale(${scale})`;
-    const b = f.box;
-    if (!b || (b.w === 0 && b.h === 0)) {
-      img.style.top = '0px';
-      note.hidden = false; note.textContent = 'Element has no on-screen box (hidden, off-canvas, or removed after load). Use the selector on the live page.';
-      return;
-    }
-    const cy = (b.y + b.h / 2) * scale;
-    const maxTop = Math.max(0, img.naturalHeight * scale - H);
-    const top = Math.min(maxTop, Math.max(0, cy - H / 2));
-    img.style.top = `-${top}px`;
-    box.hidden = false;
-    box.style.left = `${b.x * scale - 4}px`;
-    box.style.top = `${b.y * scale - top - 4}px`;
-    box.style.width = `${Math.max(8, b.w * scale) + 2}px`;
-    box.style.height = `${Math.max(8, b.h * scale) + 2}px`;
-    if (b.y > ((f.viewport && f.viewport.height) || 900)) { note.hidden = false; note.textContent = `Below the fold — ${Math.round(b.y)}px down the page.`; }
-  };
+function nodeHtml(f) {
+  const p = S.proposals[f.id], m = p && p.measured, d = S.decisions[f.id];
+  const b = f.box || {};
+  return `<div class="node" data-n="${esc(f.id)}" title="${esc(f.target)}">
+    ${f.crop ? `<img src="/crops/${encodeURIComponent(f.crop)}" alt="">` : ''}
+    <div class="t">${esc(b.text || f.html.replace(/<[^>]+>/g, ' ').trim() || f.target)}</div>
+    ${m && m.ok && m.fg ? `<div class="m"><b class="${m.ratio >= m.threshold ? 'pass' : 'fail'}">${m.ratio}:1</b>${m.best && m.best !== m.ratio ? ` – ${m.best}:1` : ''} / ${m.threshold}${m.note ? ' ⚠' : ''}</div>` : `<div class="m">${b.x != null ? 'no measurement' : 'not on screen'}</div>`}
+    ${d ? `<div class="v ${esc(d.verdict)}">${esc(HUMAN_LABEL[d.verdict].split(' — ')[0])}${d.via === 'group' ? '' : ' (individually)'}</div>` : ''}
+    <div class="ov"><button data-nact="confirm" data-n="${esc(f.id)}" title="confirm this one">C</button><button data-nact="reject" data-n="${esc(f.id)}" title="reject this one">R</button><button data-nact="look" data-n="${esc(f.id)}" title="closer look">L</button>${d ? `<button data-nact="reopen" data-n="${esc(f.id)}" title="undo">U</button>` : ''}</div>
+  </div>`;
 }
 
-function flash(msg, ms = 1200) { const el = $('#flash'); el.textContent = msg; el.classList.add('show'); clearTimeout(flash.t); flash.t = setTimeout(() => el.classList.remove('show'), ms); }
+function taskFormHtml(g) {
+  const m = g.measured;
+  const notes = m ? `Measured ${m.worst}:1 at worst${m.best !== m.worst ? ` (${m.best}:1 at best)` : ''} against a ${m.threshold}:1 minimum; ${m.below} of ${m.n} elements below. ${g.why}` : g.why;
+  return `<div class="taskform" data-tf="${esc(g.id)}">
+    <div class="r"><label>Severity <select id="tf-sev"><option value="3">3 — High</option><option value="2" selected>2 — Medium</option><option value="1">1 — Low</option></select></label>
+      <input type="text" id="tf-name" placeholder="Issue shortname" value="${esc(g.rule)}: ${esc(g.label)}"></div>
+    <textarea id="tf-notes">${esc(notes)}</textarea>
+    <input type="text" id="tf-ref" value="${esc(g.ids.map((id) => S.byId[id].target).join(' ; ').slice(0, 500))}">
+    <div class="r"><button class="primary" id="tf-save">Add to task list</button><button id="tf-cancel">Cancel</button></div>
+  </div>`;
+}
 
-async function decide(verdict) {
-  const f = list[idx]; if (!f) return;
-  const reason = $('#reason').value.trim();
+function wireGroups() {
+  const P = $('#panel');
+  P.querySelectorAll('[data-toggle]').forEach((h) => h.onclick = (e) => { if (e.target.tagName === 'A') return; const id = h.dataset.toggle; openGroups.has(id) ? openGroups.delete(id) : openGroups.add(id); selGroup = id; renderPanel(); renderShot(); });
+  P.querySelectorAll('.group').forEach((el) => el.addEventListener('mouseenter', () => highlight(el.dataset.g)));
+  P.querySelectorAll('[data-act]').forEach((b) => b.onclick = () => decideGroup(b.dataset.g, b.dataset.act));
+  P.querySelectorAll('[data-reason]').forEach((i) => i.onkeydown = (e) => { if (e.key === 'Enter') { e.preventDefault(); decideGroup(i.dataset.reason, i.dataset.pending || 'confirm'); } });
+  P.querySelectorAll('[data-undo]').forEach((b) => b.onclick = () => decideGroup(b.dataset.undo, 'reopen'));
+  P.querySelectorAll('[data-issue]').forEach((b) => b.onclick = () => { taskFormFor = b.dataset.issue; selGroup = b.dataset.issue; renderPanel(); const n = $('#tf-name'); if (n) n.focus(); });
+  P.querySelectorAll('[data-nact]').forEach((b) => b.onclick = (e) => { e.stopPropagation(); decideNode(b.dataset.n, b.dataset.nact); });
+  P.querySelectorAll('.node').forEach((n) => n.onclick = () => scrollShotTo(n.dataset.n));
+  const tf = P.querySelector('[data-tf]');
+  if (tf) {
+    $('#tf-save').onclick = () => saveTask({ site: S.site, criterion: selCrit, group: tf.dataset.tf, severity: $('#tf-sev').value, shortname: $('#tf-name').value, notes: $('#tf-notes').value, reference: $('#tf-ref').value });
+    $('#tf-cancel').onclick = () => { taskFormFor = null; renderPanel(); };
+  }
+}
+
+// ---- actions --------------------------------------------------------------------
+
+function flash(msg, ms = 1500) { const el = $('#flash'); el.textContent = msg; el.classList.add('show'); clearTimeout(flash.t); flash.t = setTimeout(() => el.classList.remove('show'), ms); }
+
+async function post(url, body) {
+  const r = await fetch(url, { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(body) });
+  const j = await r.json();
+  if (!r.ok) { flash(j.error || 'not saved', 2500); return null; }
+  return j;
+}
+
+async function decideGroup(gid, verdict) {
+  const g = S.groupById[gid]; if (!g) return;
+  const input = $(`[data-reason="${CSS.escape(gid)}"]`);
+  const reason = input ? input.value.trim() : '';
   if (verdict === 'reject' && !reason) {
-    pending = 'reject';
-    document.querySelectorAll('footer button').forEach((b) => b.classList.toggle('pending', b.dataset.verdict === 'reject'));
-    $('#reason').focus(); $('#reason').placeholder = 'Why is this not a problem? Enter to save.';
+    if (!input) return;
+    input.dataset.pending = 'reject'; input.placeholder = 'Why is this not a problem? Enter to save.'; input.focus();
+    const rb = $(`[data-act="reject"][data-g="${CSS.escape(gid)}"]`); if (rb) rb.classList.add('on');
     return;
   }
-  const r = await fetch('/api/decision', { method: 'POST', headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify({ id: f.id, site: f.site, rule: f.rule, target: f.target, verdict, reason }) });
-  const j = await r.json();
-  if (!r.ok) { flash(j.error || 'not saved'); return; }
-  if (reason) lastReason = reason;
-  $('#reason').blur();
-  const wasHiding = $('#hideDecided').checked;
-  if (verdict !== 'reopen' && j.proposal && j.proposal.verdict) {
-    const agree = MODEL_TO_HUMAN[j.proposal.verdict] === verdict;
-    flash(`${HUMAN_LABEL[verdict]} · model said ${j.proposal.verdict.replace('_', ' ')} — ${agree ? 'agrees' : 'DISAGREES'}`, agree ? 1400 : 2600);
-    if (wasHiding && !agree) {
-      // A disagreement is worth a look: stay on it with the model's view shown; J moves on.
-      await load(true);
-      hold = f.id; applyFilters(); const i = list.findIndex((x) => x.id === f.id); if (i >= 0) idx = i; render();
-      return;
-    }
-  } else {
-    flash({ confirm: 'Confirmed', reject: 'Rejected', look: 'Marked for a closer look', reopen: 'Reopened' }[verdict]);
-  }
-  await load(!wasHiding || verdict === 'reopen'); // hiding decided: the next one slides into this index
+  const ids = verdict === 'reopen' ? g.ids : g.ids.filter((id) => !S.decisions[id]);
+  if (!ids.length) return;
+  const ok = await post('/api/decision', { ids, verdict, reason, group: gid });
+  if (!ok) return;
+  selGroup = gid;
+  await loadSite(S.site, true);
+  if (verdict !== 'reopen') {
+    const gg = S.groupById[gid];
+    const ps = gg.ids.map((id) => S.proposals[id]).filter((p) => p && p.verdict);
+    const agree = gg.ids.filter((id) => S.proposals[id] && MODEL_TO_HUMAN[S.proposals[id].verdict] === verdict).length;
+    flash(ps.length ? `${HUMAN_LABEL[verdict].split(' — ')[0]} ${ids.length} · model agreed on ${agree}/${ps.length}` : `${HUMAN_LABEL[verdict].split(' — ')[0]} ${ids.length}`, 2200);
+  } else flash('Reopened');
 }
 
-document.querySelectorAll('footer button[data-verdict]').forEach((b) => b.addEventListener('click', () => decide(b.dataset.verdict)));
-$('#prev').onclick = () => { idx = Math.max(0, idx - 1); render(); };
-$('#next').onclick = () => { if (hold) { hold = null; applyFilters(); render(); return; } idx = Math.min(list.length - 1, idx + 1); render(); };
-$('#reopen').onclick = () => decide('reopen');
-['#kind', '#site', '#rule', '#hideDecided'].forEach((s) => $(s).addEventListener('change', () => { idx = 0; hold = null; applyFilters(); render(); }));
-$('#reason').addEventListener('keydown', (e) => {
-  if (e.key === 'Enter') { e.preventDefault(); decide(pending || 'confirm'); }
-  if (e.key === 'Escape') { $('#reason').blur(); }
+async function decideNode(id, verdict) {
+  let reason = '';
+  if (verdict === 'reject') { reason = window.prompt('Reason for rejecting this one:') || ''; if (!reason.trim()) return; }
+  const ok = await post('/api/decision', { ids: [id], verdict, reason });
+  if (!ok) return;
+  await loadSite(S.site, true);
+}
+
+async function saveCriterion(status) {
+  const cur = S.criteria[selCrit] || {};
+  const notes = $('#notes') ? $('#notes').value : cur.notes || '';
+  const st = status || cur.status || 'Not Evaluated';
+  if (st === (cur.status || 'Not Evaluated') && notes.trim() === (cur.notes || '').trim()) return;
+  const r = await post('/api/criterion', { site: S.site, criterion: selCrit, status: st, notes });
+  if (!r) return;
+  S.criteria[selCrit] = r;
+  if (status) { renderCriteria(); renderPanel(); }
+  renderProgress();
+  flash(status ? `${selCrit}: ${status}` : 'Notes saved');
+}
+
+async function saveTask(t) {
+  const r = await post('/api/task', t);
+  if (!r) return;
+  taskFormFor = null;
+  await loadSite(S.site, true);
+  flash(t.deleted ? 'Issue removed' : 'Added to task list');
+}
+
+// ---- screenshot workspace ---------------------------------------------------
+
+function boxesFor() {
+  const c = criteriaRows().find((x) => x.id === selCrit);
+  const ids = c ? c.groups.flatMap((g) => g.ids) : [];
+  return ids.map((id) => S.byId[id]).filter((f) => f.box && (f.box.w || f.box.h));
+}
+
+function renderShot() {
+  const stage = $('#stage');
+  const shotEl = $('#shot');
+  if (!S.shot) { stage.innerHTML = '<div class="empty" style="padding:24px">No screenshot.</div>'; return; }
+  const src = `/screens/${encodeURIComponent(S.shot)}`;
+  let img = stage.querySelector('img');
+  if (!img || img.dataset.src !== src) {
+    stage.innerHTML = `<img src="${src}" data-src="${src}" alt="Full-page screenshot of ${esc(S.site)}"><canvas></canvas>`;
+    img = stage.querySelector('img');
+    img.onload = () => { const cv = stage.querySelector('canvas'); cv.width = img.naturalWidth; cv.height = img.naturalHeight; cv.getContext('2d').drawImage(img, 0, 0); layoutShot(); };
+  } else if (img.complete && img.naturalWidth) layoutShot();
+
+  function layoutShot() {
+    const pageW = (S.viewport && S.viewport.width) || img.naturalWidth;
+    scale = (shotEl.clientWidth - 2) / pageW;
+    stage.style.transform = `scale(${scale})`;
+    stage.style.width = pageW + 'px';
+    stage.style.height = img.naturalHeight + 'px';
+    // the scaled stage still occupies its unscaled height in flow; trim the scroll range
+    stage.style.marginBottom = `-${img.naturalHeight * (1 - scale)}px`;
+    stage.querySelectorAll('.fb, .mark').forEach((e) => e.remove());
+    for (const f of boxesFor()) {
+      const g = S.groups.find((x) => x.ids.includes(f.id));
+      const el = document.createElement('div');
+      el.className = 'fb' + (g && g.id === selGroup ? '' : selGroup ? ' other dim' : ' other') + (S.decisions[f.id] ? ' decided' : '');
+      el.style.left = f.box.x + 'px'; el.style.top = f.box.y + 'px'; el.style.width = Math.max(6, f.box.w) + 'px'; el.style.height = Math.max(6, f.box.h) + 'px';
+      el.dataset.id = f.id; el.dataset.g = g ? g.id : '';
+      el.onclick = (e) => { if (dropper) return; e.stopPropagation(); selGroup = g.id; openGroups.add(g.id); renderPanel(); renderShot(); const ge = $(`.group[data-g="${CSS.escape(g.id)}"]`); if (ge) ge.scrollIntoView({ block: 'start', behavior: 'smooth' }); };
+      el.onmouseenter = (e) => showTip(e, f);
+      el.onmouseleave = hideTip;
+      stage.appendChild(el);
+    }
+  }
+}
+
+function highlight(gid) {
+  $('#stage').querySelectorAll('.fb').forEach((el) => {
+    const mine = el.dataset.g === gid || el.dataset.g === selGroup;
+    el.classList.toggle('dim', (gid || selGroup) ? !mine : false);
+  });
+}
+
+function scrollShotTo(id) {
+  const f = S.byId[id]; if (!f || !f.box) return;
+  const shotEl = $('#shot');
+  shotEl.scrollTo({ top: Math.max(0, (f.box.y + f.box.h / 2) * scale - shotEl.clientHeight / 2), behavior: 'smooth' });
+  const el = $('#stage').querySelector(`.fb[data-id="${CSS.escape(id)}"]`);
+  if (el) { el.style.outline = '3px solid #fff'; setTimeout(() => (el.style.outline = ''), 1200); }
+}
+
+function showTip(e, f) {
+  const t = $('#tip'); const p = S.proposals[f.id], m = p && p.measured, b = f.box || {};
+  t.innerHTML = `${esc(b.text || f.target)}${m && m.ok && m.fg ? `<br>${m.ratio}:1${m.best && m.best !== m.ratio ? `–${m.best}:1` : ''} / needs ${m.threshold}:1` : ''}${S.decisions[f.id] ? `<br>${esc(HUMAN_LABEL[S.decisions[f.id].verdict])}` : ''}`;
+  t.style.display = 'block';
+  moveTip(e);
+  e.target.onmousemove = moveTip;
+}
+function moveTip(e) { const t = $('#tip'), s = $('#shot'), r = s.getBoundingClientRect(); t.style.left = (e.clientX - r.left + s.scrollLeft + 12) + 'px'; t.style.top = (e.clientY - r.top + s.scrollTop + 12) + 'px'; }
+function hideTip() { $('#tip').style.display = 'none'; }
+
+// ---- eyedropper -------------------------------------------------------------------
+
+function lum([r, g, b]) { const f = (c) => { c /= 255; return c <= 0.03928 ? c / 12.92 : Math.pow((c + 0.055) / 1.055, 2.4); }; return 0.2126 * f(r) + 0.7152 * f(g) + 0.0722 * f(b); }
+function ratio(a, b) { const la = lum(a), lb = lum(b); return (Math.max(la, lb) + 0.05) / (Math.min(la, lb) + 0.05); }
+const hex = (c) => '#' + c.map((v) => v.toString(16).padStart(2, '0')).join('');
+
+function toggleDropper(on) {
+  dropper = on === undefined ? !dropper : on;
+  dropA = null;
+  $('#dropper').classList.toggle('on', dropper);
+  $('#shot').classList.toggle('dropper', dropper);
+  $('#stage').querySelectorAll('.mark').forEach((m) => m.remove());
+  const ro = $('#readout');
+  ro.classList.toggle('show', dropper);
+  if (dropper) ro.innerHTML = `<b>Eyedropper.</b> Click the text, then click the background — the lightest or darkest part behind it. <span class="hint">Esc to leave.</span>`;
+}
+
+$('#stage').addEventListener('click', (e) => {
+  if (!dropper) return;
+  const cv = $('#stage').querySelector('canvas'); if (!cv) return;
+  const r = $('#stage').getBoundingClientRect();
+  const x = Math.round((e.clientX - r.left) / scale), y = Math.round((e.clientY - r.top) / scale);
+  const d = cv.getContext('2d').getImageData(x, y, 1, 1).data;
+  const c = [d[0], d[1], d[2]];
+  const mark = document.createElement('div'); mark.className = 'mark'; mark.style.left = x + 'px'; mark.style.top = y + 'px'; mark.style.background = hex(c); $('#stage').appendChild(mark);
+  const ro = $('#readout');
+  if (!dropA) { dropA = c; ro.innerHTML = `<span class="sw" style="background:${hex(c)}"></span>${hex(c)} — now click the background.`; return; }
+  const rt = ratio(dropA, c);
+  const line = `${rt.toFixed(2)}:1 (${hex(dropA)} on ${hex(c)})`;
+  ro.innerHTML = `<span class="big ${rt >= 4.5 ? 'pass' : 'fail'}">${rt.toFixed(2)}:1</span> &nbsp;<span class="sw" style="background:${hex(dropA)}"></span>${hex(dropA)} on <span class="sw" style="background:${hex(c)}"></span>${hex(c)}
+    &nbsp;<span class="hint">${rt >= 4.5 ? 'passes AA for any text' : rt >= 3 ? 'passes only large text (24px, or 18.66px bold)' : 'fails AA'}</span>
+    &nbsp;<button id="ro-note">Add to notes</button> <button id="ro-again">Again</button>`;
+  $('#ro-note').onclick = () => { const n = $('#notes'); if (n) { n.value = (n.value ? n.value + '\n' : '') + `Sampled ${line}.`; saveCriterion(null); } };
+  $('#ro-again').onclick = () => { dropA = null; $('#stage').querySelectorAll('.mark').forEach((m) => m.remove()); ro.innerHTML = `Click the text, then the background.`; };
+  dropA = null;
 });
+
+// ---- wiring ----------------------------------------------------------------------
+
+$('#site').onchange = () => loadSite($('#site').value);
+$('#onlyEvidence').onchange = renderCriteria;
+$('#aaa').onchange = () => { renderCriteria(); renderProgress(); };
+$('#dropper').onclick = () => toggleDropper();
+$('#export').onclick = () => { window.open(`/api/export?site=${encodeURIComponent(S.site)}`, '_blank'); flash('Building the worksheet…', 2500); };
+window.addEventListener('resize', () => S && renderShot());
+$('#panel').addEventListener('mouseleave', () => highlight(null));
+
 document.addEventListener('keydown', (e) => {
-  if (e.target === $('#reason') || e.target.tagName === 'SELECT' || e.metaKey || e.ctrlKey || e.altKey) return;
+  const tag = e.target.tagName;
+  if (tag === 'INPUT' || tag === 'TEXTAREA' || tag === 'SELECT' || e.ctrlKey || e.metaKey || e.altKey) { if (e.key === 'Escape') e.target.blur(); return; }
   const k = e.key.toLowerCase();
-  if (k === 'c') decide('confirm');
-  else if (k === 'r') decide('reject');
-  else if (k === 'l') decide('look');
-  else if (k === 'u') decide('reopen');
-  else if (k === 'j' || e.key === 'ArrowRight') $('#next').click();
-  else if (k === 'k' || e.key === 'ArrowLeft') $('#prev').click();
-  else if (k === '.') { $('#reason').value = lastReason; $('#reason').focus(); }
-  else return;
-  e.preventDefault();
+  if (e.key === 'Escape') { if (dropper) toggleDropper(false); return; }
+  if (k === 'e') { toggleDropper(); e.preventDefault(); return; }
+  if (!S) return;
+  const c = criteriaRows().find((x) => x.id === selCrit);
+  const gs = c ? c.groups : [];
+  if (k === 'j' || k === 'k') {
+    if (!gs.length) return;
+    let i = gs.findIndex((g) => g.id === selGroup);
+    i = k === 'j' ? Math.min(gs.length - 1, i + 1) : Math.max(0, i - 1);
+    selGroup = gs[i].id; renderPanel(); renderShot();
+    const ge = $(`.group[data-g="${CSS.escape(selGroup)}"]`); if (ge) ge.scrollIntoView({ block: 'nearest' });
+    scrollShotTo(gs[i].ids[0]);
+    e.preventDefault(); return;
+  }
+  if (['c', 'r', 'l'].includes(k) && selGroup) { decideGroup(selGroup, { c: 'confirm', r: 'reject', l: 'look' }[k]); e.preventDefault(); return; }
+  if (k === 'u' && selGroup) { decideGroup(selGroup, 'reopen'); e.preventDefault(); return; }
+  if (k === 'n' && selGroup) { taskFormFor = selGroup; renderPanel(); const n = $('#tf-name'); if (n) n.focus(); e.preventDefault(); return; }
+  if (k === 'o' && selGroup) { openGroups.has(selGroup) ? openGroups.delete(selGroup) : openGroups.add(selGroup); renderPanel(); e.preventDefault(); }
 });
-window.addEventListener('resize', () => list[idx] && renderShot(list[idx]));
-load();
+
+loadSites();
 </script>
 </body>
 </html>

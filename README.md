@@ -93,17 +93,39 @@ not shown until the reviewer has decided.
 npm run review          # http://localhost:8901
 ```
 
-One finding at a time: the element, its markup, why axe stopped, the WCAG
-criterion, and the screenshot with the element boxed. Keys: **C** confirm,
-**R** reject (a reason is required), **L** closer look, **J/K** move, **.** reuse
-the last reason, **U** reopen. Filters by kind (axe could not decide / axe
-reported a failure), site and rule.
+One page per site, laid out like an agency audit worksheet. WCAG 2.2 criteria
+down the left (from the Vincent Design *Project Accessibility Sheets* template,
+with its guidance text, statuses and severities); the selected criterion in the
+middle with its status — Supports / Partially Supports / Does Not Support / Not
+Evaluated / Not Applicable — and notes; under it the evidence the pipeline
+gathered for that criterion, **grouped by cause** (same rule, same reason axe
+gave, same text colour, background and size band), each group showing the
+worst- and best-case measured contrast against the threshold. One decision
+resolves a group; any node can be overridden individually.
 
-Every decision appends to `decisions.jsonl` (the corpus — commit it). `review-log.md`
-is regenerated on each one: totals, rejection rate per rule, model-vs-person
-agreement with false alarms and misses per rule, every disagreement side by side,
-and every decision with its reason. After each decision the page reveals what the
-model said; on a disagreement it stays put so you can see why before moving on.
+The full-page screenshot on the right is the workspace: every finding for the
+criterion is a box on it, click a box to jump to its group, hover a group to
+light up its boxes. The **eyedropper** (E) measures any two points — the
+"lightest and darkest part of the image against the text" method from the
+worksheet — and can drop the result into the notes.
+
+Keys: **J/K** move between groups · **C** confirm · **R** reject (reason
+required) · **L** closer look · **U** undo · **O** show nodes · **N** log an
+issue · **E** eyedropper.
+
+The model's proposals for a group are revealed only after the group is decided.
+
+Records, append-only JSONL, latest wins — commit them, they are the corpus:
+`decisions.jsonl` (one line per finding, group decisions marked `via: group`),
+`criteria.jsonl` (status and notes per site and criterion), `tasks.jsonl` (the
+issue list). `review-log.md` is regenerated on every write: totals, rejection
+rate per rule, model-vs-person agreement with false alarms and misses, the
+per-site worksheet, and every decision with its reason.
+
+**Export worksheet** fills a copy of the template for the site — criterion
+statuses and notes into *Review WCAG V2.2*, logged issues into *Task List* —
+via `export.py` (needs Python with openpyxl; set `SECOND_PASS_TEMPLATE` to point
+at the template). Output lands in `exports/`.
 
 ## urls.txt
 

@@ -7,3 +7,6 @@ diagnose-full.log
 review-server.log
 diagnostics/crops/
 propose.log
+exports/
+measure.log
+review-server.log
