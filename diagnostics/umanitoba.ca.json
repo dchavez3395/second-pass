@@ -11,7 +11,7 @@
     "buttons": 6,
     "inputs": 5,
     "headings": 37,
-    "textLength": 4981,
+    "textLength": 5017,
     "lang": "en",
     "iframes": 0
   },
@@ -19,7 +19,7 @@
     "width": 1366,
     "height": 900
   },
-  "scannedAt": "2026-09-18T05:02:59.890Z",
+  "scannedAt": "2026-09-19T06:25:50.832Z",
   "axe": {
     "violationRules": 0,
     "violationNodes": 0,
@@ -69,7 +69,12 @@
             "x": 40,
             "y": 841,
             "w": 1286,
-            "h": 42
+            "h": 42,
+            "fontSize": 17,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "We use cookies to give you the best website experience. By continuing to use our"
           }
         }
       ]
@@ -100,11 +105,11 @@
       "sample": [
         {
           "target": ".hero__link__header > h2",
-          "html": "<h2>Introducing the Cholakis School of Dental Hygiene</h2>"
+          "html": "<h2>You're invited to the Bisons Block Party!</h2>"
         },
         {
           "target": ".hero__link__header > p",
-          "html": "<p>UM alum Dr. Ernest Cholakis gifts $2 million to transform dental hygiene education and expand community outreach</p>"
+          "html": "<p>Get free tickets to the Homecoming soccer and football games, enjoy Billy the Bison's birthday party, fun activities and so much more! Join us September 26!</p>"
         },
         {
           "target": ".grid__item:nth-child(1) > .field--name-field-basic-text-content.field--type-text-long.clearfix > .link-list > li:nth-child(1) > a",
@@ -114,30 +119,40 @@
       "items": [
         {
           "target": ".hero__link__header > h2",
-          "html": "<h2>Introducing the Cholakis School of Dental Hygiene</h2>",
+          "html": "<h2>You're invited to the Bisons Block Party!</h2>",
           "impact": "serious",
           "messages": [
             "Element's background color could not be determined due to a pseudo element"
           ],
           "box": {
             "x": 806,
-            "y": 584.671875,
+            "y": 556.671875,
             "w": 520,
-            "h": 84
+            "h": 84,
+            "fontSize": 36,
+            "fontWeight": "900",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "You're invited to the Bisons Block Party!"
           }
         },
         {
           "target": ".hero__link__header > p",
-          "html": "<p>UM alum Dr. Ernest Cholakis gifts $2 million to transform dental hygiene education and expand community outreach</p>",
+          "html": "<p>Get free tickets to the Homecoming soccer and football games, enjoy Billy the Bison's birthday party, fun activities and so much more! Join us September 26!</p>",
           "impact": "serious",
           "messages": [
             "Element's background color could not be determined due to a pseudo element"
           ],
           "box": {
             "x": 806,
-            "y": 678.671875,
+            "y": 650.671875,
             "w": 520,
-            "h": 56
+            "h": 84,
+            "fontSize": 17,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Get free tickets to the Homecoming soccer and football games, enjoy Billy the Bi"
           }
         },
         {
@@ -151,7 +166,12 @@
             "x": 54.75,
             "y": 1697.875,
             "w": 131.15625,
-            "h": 20
+            "h": 20,
+            "fontSize": 17,
+            "fontWeight": "400",
+            "color": "rgb(34, 34, 34)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Find a program"
           }
         },
         {
@@ -165,7 +185,12 @@
             "x": 54.75,
             "y": 1730.625,
             "w": 137.8125,
-            "h": 20
+            "h": 20,
+            "fontSize": 17,
+            "fontWeight": "400",
+            "color": "rgb(34, 34, 34)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Tuition and fees"
           }
         },
         {
@@ -179,7 +204,12 @@
             "x": 54.75,
             "y": 1763.375,
             "w": 276.546875,
-            "h": 20
+            "h": 20,
+            "fontSize": 17,
+            "fontWeight": "400",
+            "color": "rgb(34, 34, 34)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Undergraduate student experience"
           }
         },
         {
@@ -193,7 +223,12 @@
             "x": 54.75,
             "y": 1796.125,
             "w": 203.78125,
-            "h": 20
+            "h": 20,
+            "fontSize": 17,
+            "fontWeight": "400",
+            "color": "rgb(34, 34, 34)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "International admissions"
           }
         },
         {
@@ -207,7 +242,12 @@
             "x": 54.75,
             "y": 1828.875,
             "w": 238.765625,
-            "h": 20
+            "h": 20,
+            "fontSize": 17,
+            "fontWeight": "400",
+            "color": "rgb(34, 34, 34)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Indigenous community at UM"
           }
         },
         {
@@ -221,7 +261,12 @@
             "x": 40,
             "y": 1949.46875,
             "w": 122.21875,
-            "h": 49.59375
+            "h": 49.59375,
+            "fontSize": 16,
+            "fontWeight": "500",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(30, 99, 173)",
+            "text": "Apply now"
           }
         },
         {
@@ -235,7 +280,12 @@
             "x": 490.078125,
             "y": 1697.875,
             "w": 131.15625,
-            "h": 20
+            "h": 20,
+            "fontSize": 17,
+            "fontWeight": "400",
+            "color": "rgb(34, 34, 34)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Find a program"
           }
         },
         {
@@ -249,7 +299,12 @@
             "x": 490.078125,
             "y": 1730.625,
             "w": 271.46875,
-            "h": 20
+            "h": 20,
+            "fontSize": 17,
+            "fontWeight": "400",
+            "color": "rgb(34, 34, 34)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Funding, awards, and financial aid"
           }
         },
         {
@@ -263,7 +318,12 @@
             "x": 490.078125,
             "y": 1763.375,
             "w": 106.265625,
-            "h": 20
+            "h": 20,
+            "fontSize": 17,
+            "fontWeight": "400",
+            "color": "rgb(34, 34, 34)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Admissions"
           }
         },
         {
@@ -277,7 +337,12 @@
             "x": 475.328125,
             "y": 1883.96875,
             "w": 122.21875,
-            "h": 49.59375
+            "h": 49.59375,
+            "fontSize": 16,
+            "fontWeight": "500",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(30, 99, 173)",
+            "text": "Apply now"
           }
         },
         {
@@ -291,7 +356,12 @@
             "x": 925.40625,
             "y": 1697.890625,
             "w": 187.875,
-            "h": 20
+            "h": 20,
+            "fontSize": 17,
+            "fontWeight": "400",
+            "color": "rgb(34, 34, 34)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Programs and courses"
           }
         },
         {
@@ -305,7 +375,12 @@
             "x": 925.40625,
             "y": 1730.640625,
             "w": 147.25,
-            "h": 20
+            "h": 20,
+            "fontSize": 17,
+            "fontWeight": "400",
+            "color": "rgb(34, 34, 34)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Student supports"
           }
         },
         {
@@ -319,7 +394,12 @@
             "x": 910.65625,
             "y": 1851.234375,
             "w": 122.21875,
-            "h": 49.59375
+            "h": 49.59375,
+            "fontSize": 16,
+            "fontWeight": "500",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(30, 99, 173)",
+            "text": "Apply now"
           }
         },
         {
@@ -333,7 +413,12 @@
             "x": 80,
             "y": 2716.0625,
             "w": 276,
-            "h": 20.390625
+            "h": 20.390625,
+            "fontSize": 17,
+            "fontWeight": "700",
+            "color": "rgb(251, 179, 21)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "More than"
           }
         },
         {
@@ -347,7 +432,12 @@
             "x": 390,
             "y": 2716.0625,
             "w": 276,
-            "h": 20.390625
+            "h": 20.390625,
+            "fontSize": 17,
+            "fontWeight": "700",
+            "color": "rgb(251, 179, 21)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "UM awards"
           }
         },
         {
@@ -361,7 +451,12 @@
             "x": 700,
             "y": 2715.890625,
             "w": 276,
-            "h": 20.390625
+            "h": 20.390625,
+            "fontSize": 17,
+            "fontWeight": "700",
+            "color": "rgb(251, 179, 21)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "We are a member of the"
           }
         },
         {
@@ -375,7 +470,12 @@
             "x": 1010,
             "y": 2716.0625,
             "w": 276,
-            "h": 20.390625
+            "h": 20.390625,
+            "fontSize": 17,
+            "fontWeight": "700",
+            "color": "rgb(251, 179, 21)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "More than"
           }
         },
         {
@@ -389,7 +489,12 @@
             "x": 40,
             "y": 842,
             "w": 1119.953125,
-            "h": 39
+            "h": 39,
+            "fontSize": 15,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "We use cookies to give you the best website experience. By continuing to use our"
           }
         }
       ]

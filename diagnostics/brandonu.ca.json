@@ -11,7 +11,7 @@
     "buttons": 1,
     "inputs": 7,
     "headings": 14,
-    "textLength": 2299,
+    "textLength": 2225,
     "lang": "en-US",
     "iframes": 0
   },
@@ -19,7 +19,7 @@
     "width": 1366,
     "height": 900
   },
-  "scannedAt": "2026-09-18T04:57:52.686Z",
+  "scannedAt": "2026-09-19T06:26:22.085Z",
   "axe": {
     "violationRules": 3,
     "violationNodes": 13,
@@ -69,7 +69,12 @@
             "x": 1304,
             "y": 838,
             "w": 50,
-            "h": 50
+            "h": 50,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Open the Web Accessibility Menu"
           }
         }
       ]
@@ -123,7 +128,12 @@
             "x": 212,
             "y": 12.5,
             "w": 68.703125,
-            "h": 27
+            "h": 27,
+            "fontSize": 12,
+            "fontWeight": "700",
+            "color": "rgb(0, 48, 87)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Translate"
           }
         },
         {
@@ -137,7 +147,12 @@
             "x": 860.953125,
             "y": 18,
             "w": 71.375,
-            "h": 16
+            "h": 16,
+            "fontSize": 13,
+            "fontWeight": "400",
+            "color": "rgb(0, 48, 87)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Webmail"
           }
         },
         {
@@ -151,7 +166,12 @@
             "x": 951.421875,
             "y": 18,
             "w": 94.78125,
-            "h": 16
+            "h": 16,
+            "fontSize": 13,
+            "fontWeight": "400",
+            "color": "rgb(0, 48, 87)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Campus Map"
           }
         },
         {
@@ -165,7 +185,12 @@
             "x": 1065.296875,
             "y": 18,
             "w": 87.703125,
-            "h": 16
+            "h": 16,
+            "fontSize": 13,
+            "fontWeight": "400",
+            "color": "rgb(0, 48, 87)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Contact Us"
           }
         },
         {
@@ -179,7 +204,12 @@
             "x": 229,
             "y": 370.046875,
             "w": 431.1875,
-            "h": 33
+            "h": 33,
+            "fontSize": 30,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Road to Nationals"
           }
         },
         {
@@ -193,7 +223,12 @@
             "x": 229,
             "y": 411.046875,
             "w": 431.1875,
-            "h": 57.609375
+            "h": 57.609375,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "The Brandon University Bobcats will host the 2027 CCAA men’s national soccer cha"
           }
         },
         {
@@ -207,7 +242,12 @@
             "x": 555.828125,
             "y": 592.65625,
             "w": 86.328125,
-            "h": 24
+            "h": 24,
+            "fontSize": 20,
+            "fontWeight": "700",
+            "color": "rgb(0, 48, 87)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Programs"
           }
         },
         {
@@ -221,7 +261,12 @@
             "x": 529,
             "y": 622.65625,
             "w": 140,
-            "h": 42
+            "h": 42,
+            "fontSize": 14,
+            "fontWeight": "400",
+            "color": "rgb(0, 48, 87)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Find the program that's right for you"
           }
         },
         {
@@ -235,7 +280,12 @@
             "x": 698.671875,
             "y": 592.65625,
             "w": 112.65625,
-            "h": 24
+            "h": 24,
+            "fontSize": 20,
+            "fontWeight": "700",
+            "color": "rgb(0, 48, 87)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Scholarships"
           }
         },
         {
@@ -249,7 +299,12 @@
             "x": 685,
             "y": 622.65625,
             "w": 140,
-            "h": 42
+            "h": 42,
+            "fontSize": 14,
+            "fontWeight": "400",
+            "color": "rgb(0, 48, 87)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "View our Scholarships and Bursaries"
           }
         },
         {
@@ -263,7 +318,12 @@
             "x": 876.65625,
             "y": 592.65625,
             "w": 68.6875,
-            "h": 24
+            "h": 24,
+            "fontSize": 20,
+            "fontWeight": "700",
+            "color": "rgb(0, 48, 87)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Visit Us"
           }
         },
         {
@@ -277,7 +337,12 @@
             "x": 841,
             "y": 622.65625,
             "w": 140,
-            "h": 42
+            "h": 42,
+            "fontSize": 14,
+            "fontWeight": "400",
+            "color": "rgb(0, 48, 87)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Book a campus tour or be a student for a day"
           }
         },
         {
@@ -291,7 +356,12 @@
             "x": 1017.453125,
             "y": 592.65625,
             "w": 99.09375,
-            "h": 24
+            "h": 24,
+            "fontSize": 20,
+            "fontWeight": "700",
+            "color": "rgb(0, 48, 87)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Apply Now"
           }
         },
         {
@@ -305,7 +375,12 @@
             "x": 997,
             "y": 622.65625,
             "w": 140,
-            "h": 42
+            "h": 42,
+            "fontSize": 14,
+            "fontWeight": "400",
+            "color": "rgb(0, 48, 87)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Ready to apply to BU? Start your application"
           }
         },
         {
@@ -319,7 +394,12 @@
             "x": 213,
             "y": 534.65625,
             "w": 257.5,
-            "h": 27
+            "h": 27,
+            "fontSize": 18,
+            "fontWeight": "700",
+            "color": "rgb(0, 48, 87)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "FACULTIES AND SCHOOLS"
           }
         },
         {
@@ -333,7 +413,12 @@
             "x": 230,
             "y": 575.65625,
             "w": 89.6875,
-            "h": 17
+            "h": 17,
+            "fontSize": 14,
+            "fontWeight": "400",
+            "color": "rgb(0, 48, 87)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Faculty of Arts"
           }
         },
         {
@@ -347,7 +432,12 @@
             "x": 230,
             "y": 603.65625,
             "w": 124.984375,
-            "h": 17
+            "h": 17,
+            "fontSize": 14,
+            "fontWeight": "400",
+            "color": "rgb(0, 48, 87)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Faculty of Education"
           }
         },
         {
@@ -361,7 +451,12 @@
             "x": 230,
             "y": 631.65625,
             "w": 169.203125,
-            "h": 17
+            "h": 17,
+            "fontSize": 14,
+            "fontWeight": "400",
+            "color": "rgb(0, 48, 87)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Faculty of Graduate Studies"
           }
         },
         {
@@ -375,7 +470,12 @@
             "x": 230,
             "y": 659.65625,
             "w": 109.765625,
-            "h": 17
+            "h": 17,
+            "fontSize": 14,
+            "fontWeight": "400",
+            "color": "rgb(0, 48, 87)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Faculty of Science"
           }
         },
         {
@@ -389,7 +489,12 @@
             "x": 230,
             "y": 687.65625,
             "w": 152.796875,
-            "h": 17
+            "h": 17,
+            "fontSize": 14,
+            "fontWeight": "400",
+            "color": "rgb(0, 48, 87)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Faculty of Health Studies"
           }
         },
         {
@@ -403,7 +508,12 @@
             "x": 230,
             "y": 715.65625,
             "w": 95.671875,
-            "h": 17
+            "h": 17,
+            "fontSize": 14,
+            "fontWeight": "400",
+            "color": "rgb(0, 48, 87)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "School of Music"
           }
         },
         {
@@ -417,7 +527,12 @@
             "x": 213,
             "y": 756.65625,
             "w": 257.5,
-            "h": 27
+            "h": 27,
+            "fontSize": 18,
+            "fontWeight": "700",
+            "color": "rgb(0, 48, 87)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "RESEARCH"
           }
         },
         {
@@ -431,7 +546,12 @@
             "x": 230,
             "y": 797.65625,
             "w": 166.28125,
-            "h": 17
+            "h": 17,
+            "fontSize": 14,
+            "fontWeight": "400",
+            "color": "rgb(0, 48, 87)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Office of Research Services"
           }
         },
         {
@@ -445,7 +565,12 @@
             "x": 230,
             "y": 825.65625,
             "w": 131.515625,
-            "h": 17
+            "h": 17,
+            "fontSize": 14,
+            "fontWeight": "400",
+            "color": "rgb(0, 48, 87)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Research Experts List"
           }
         },
         {
@@ -459,7 +584,12 @@
             "x": 230,
             "y": 853.65625,
             "w": 94.25,
-            "h": 17
+            "h": 17,
+            "fontSize": 14,
+            "fontWeight": "400",
+            "color": "rgb(0, 48, 87)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Research News"
           }
         },
         {
@@ -473,7 +603,12 @@
             "x": 230,
             "y": 879.65625,
             "w": 243,
-            "h": 129.5
+            "h": 129.5,
+            "fontSize": 14,
+            "fontWeight": "400",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Research Centres and Institutes BU CARES Research Centre Centre for Critical Stu"
           }
         },
         {
@@ -487,7 +622,12 @@
             "x": 245.75,
             "y": 913.15625,
             "w": 170.8125,
-            "h": 17
+            "h": 17,
+            "fontSize": 14,
+            "fontWeight": "400",
+            "color": "rgb(0, 48, 87)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "BU CARES Research Centre"
           }
         },
         {
@@ -501,7 +641,12 @@
             "x": 245.75,
             "y": 941.15625,
             "w": 174.46875,
-            "h": 38
+            "h": 38,
+            "fontSize": 14,
+            "fontWeight": "400",
+            "color": "rgb(0, 48, 87)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Centre for Critical Studies of Rural Mental Health"
           }
         },
         {
@@ -515,7 +660,12 @@
             "x": 245.75,
             "y": 990.15625,
             "w": 173.75,
-            "h": 17
+            "h": 17,
+            "fontSize": 14,
+            "fontWeight": "400",
+            "color": "rgb(0, 48, 87)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Rural Development Institute"
           }
         },
         {
@@ -529,7 +679,12 @@
             "x": 213,
             "y": 1031.15625,
             "w": 257.5,
-            "h": 27
+            "h": 27,
+            "fontSize": 18,
+            "fontWeight": "700",
+            "color": "rgb(0, 48, 87)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "RELATED SITES"
           }
         },
         {
@@ -543,7 +698,12 @@
             "x": 230,
             "y": 1072.15625,
             "w": 133.34375,
-            "h": 17
+            "h": 17,
+            "fontSize": 14,
+            "fontWeight": "400",
+            "color": "rgb(0, 48, 87)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Healthy Living Centre"
           }
         },
         {
@@ -557,7 +717,12 @@
             "x": 230,
             "y": 1100.15625,
             "w": 71.59375,
-            "h": 17
+            "h": 17,
+            "fontSize": 14,
+            "fontWeight": "400",
+            "color": "rgb(0, 48, 87)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "BU Bobcats"
           }
         },
         {
@@ -571,7 +736,12 @@
             "x": 230,
             "y": 1128.15625,
             "w": 90.515625,
-            "h": 17
+            "h": 17,
+            "fontSize": 14,
+            "fontWeight": "400",
+            "color": "rgb(0, 48, 87)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Campus Books"
           }
         },
         {
@@ -585,7 +755,12 @@
             "x": 230,
             "y": 1156.15625,
             "w": 42.921875,
-            "h": 17
+            "h": 17,
+            "fontSize": 14,
+            "fontWeight": "400",
+            "color": "rgb(0, 48, 87)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Mini-U"
           }
         },
         {
@@ -599,7 +774,12 @@
             "x": 230,
             "y": 1184.15625,
             "w": 36.921875,
-            "h": 17
+            "h": 17,
+            "fontSize": 14,
+            "fontWeight": "400",
+            "color": "rgb(0, 48, 87)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "BUSU"
           }
         },
         {
@@ -613,7 +793,12 @@
             "x": 213,
             "y": 1225.15625,
             "w": 257.5,
-            "h": 27
+            "h": 27,
+            "fontSize": 18,
+            "fontWeight": "700",
+            "color": "rgb(0, 48, 87)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "CONNECT WITH US"
           }
         },
         {
@@ -627,7 +812,12 @@
             "x": 641.03125,
             "y": 1722.46875,
             "w": 69.296875,
-            "h": 13
+            "h": 13,
+            "fontSize": 11.2,
+            "fontWeight": "400",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "© 2014–2026"
           }
         },
         {
@@ -641,7 +831,12 @@
             "x": 721.515625,
             "y": 1720.46875,
             "w": 110.515625,
-            "h": 16
+            "h": 16,
+            "fontSize": 13,
+            "fontWeight": "400",
+            "color": "rgb(0, 48, 87)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Brandon University"
           }
         },
         {
@@ -655,7 +850,12 @@
             "x": 848.03125,
             "y": 1720.46875,
             "w": 63.375,
-            "h": 16
+            "h": 16,
+            "fontSize": 13,
+            "fontWeight": "400",
+            "color": "rgb(0, 48, 87)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Contact Us"
           }
         },
         {
@@ -669,7 +869,12 @@
             "x": 927.40625,
             "y": 1720.46875,
             "w": 89.03125,
-            "h": 16
+            "h": 16,
+            "fontSize": 13,
+            "fontWeight": "400",
+            "color": "rgb(0, 48, 87)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Emergency Info"
           }
         },
         {
@@ -683,7 +888,12 @@
             "x": 1032.4375,
             "y": 1720.46875,
             "w": 71.171875,
-            "h": 16
+            "h": 16,
+            "fontSize": 13,
+            "fontWeight": "400",
+            "color": "rgb(0, 48, 87)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Accessibility"
           }
         },
         {
@@ -697,7 +907,12 @@
             "x": 1119.609375,
             "y": 1720.46875,
             "w": 33.390625,
-            "h": 16
+            "h": 16,
+            "fontSize": 13,
+            "fontWeight": "400",
+            "color": "rgb(0, 48, 87)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Log in"
           }
         }
       ]
@@ -747,7 +962,12 @@
             "x": 585,
             "y": 562.65625,
             "w": 28,
-            "h": 19
+            "h": 19,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(0, 48, 87)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": ""
           }
         },
         {
@@ -765,7 +985,12 @@
             "x": 735,
             "y": 562.65625,
             "w": 40,
-            "h": 19
+            "h": 19,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(0, 48, 87)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": ""
           }
         },
         {
@@ -783,7 +1008,12 @@
             "x": 891,
             "y": 562.65625,
             "w": 40,
-            "h": 19
+            "h": 19,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(0, 48, 87)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": ""
           }
         },
         {
@@ -801,7 +1031,12 @@
             "x": 1051,
             "y": 562.65625,
             "w": 32,
-            "h": 19
+            "h": 19,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(0, 48, 87)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": ""
           }
         },
         {
@@ -819,7 +1054,12 @@
             "x": 583,
             "y": 724.65625,
             "w": 32,
-            "h": 19
+            "h": 19,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(0, 48, 87)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": ""
           }
         },
         {
@@ -837,7 +1077,12 @@
             "x": 739,
             "y": 724.65625,
             "w": 32,
-            "h": 19
+            "h": 19,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(0, 48, 87)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": ""
           }
         },
         {
@@ -855,7 +1100,12 @@
             "x": 893,
             "y": 724.65625,
             "w": 36,
-            "h": 19
+            "h": 19,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(0, 48, 87)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": ""
           }
         },
         {
@@ -873,7 +1123,12 @@
             "x": 1047,
             "y": 724.65625,
             "w": 40,
-            "h": 19
+            "h": 19,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(0, 48, 87)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": ""
           }
         }
       ]
@@ -910,7 +1165,12 @@
             "x": 0,
             "y": 0,
             "w": 0,
-            "h": 0
+            "h": 0,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": ""
           }
         }
       ]
@@ -943,7 +1203,12 @@
             "x": 672,
             "y": 496.65625,
             "w": 9,
-            "h": 9
+            "h": 9,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(0, 48, 87)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "2"
           }
         },
         {
@@ -958,7 +1223,12 @@
             "x": 672,
             "y": 496.65625,
             "w": 9,
-            "h": 9
+            "h": 9,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(0, 48, 87)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "2"
           }
         },
         {
@@ -973,7 +1243,12 @@
             "x": 685,
             "y": 496.65625,
             "w": 9,
-            "h": 9
+            "h": 9,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(0, 48, 87)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "3"
           }
         },
         {
@@ -988,7 +1263,12 @@
             "x": 698,
             "y": 496.65625,
             "w": 9,
-            "h": 9
+            "h": 9,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(0, 48, 87)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "4"
           }
         }
       ]

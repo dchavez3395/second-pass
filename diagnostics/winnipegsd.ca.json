@@ -11,7 +11,7 @@
     "buttons": 14,
     "inputs": 8,
     "headings": 0,
-    "textLength": 1938,
+    "textLength": 1939,
     "lang": "en",
     "iframes": 2
   },
@@ -19,7 +19,7 @@
     "width": 1366,
     "height": 900
   },
-  "scannedAt": "2026-09-18T05:01:56.928Z",
+  "scannedAt": "2026-09-19T06:27:22.073Z",
   "axe": {
     "violationRules": 1,
     "violationNodes": 2,
@@ -80,7 +80,12 @@
             "x": 428.4375,
             "y": 76,
             "w": 130.234375,
-            "h": 60
+            "h": 60,
+            "fontSize": 16,
+            "fontWeight": "700",
+            "color": "rgb(60, 60, 60)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "OUR DIVISION"
           }
         },
         {
@@ -94,7 +99,12 @@
             "x": 558.671875,
             "y": 76,
             "w": 139.703125,
-            "h": 60
+            "h": 60,
+            "fontSize": 16,
+            "fontWeight": "700",
+            "color": "rgb(60, 60, 60)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "REGISTRATION"
           }
         },
         {
@@ -108,7 +118,12 @@
             "x": 698.375,
             "y": 76,
             "w": 99.125,
-            "h": 60
+            "h": 60,
+            "fontSize": 16,
+            "fontWeight": "700",
+            "color": "rgb(60, 60, 60)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "SCHOOLS"
           }
         },
         {
@@ -122,7 +137,12 @@
             "x": 797.5,
             "y": 76,
             "w": 106.234375,
-            "h": 60
+            "h": 60,
+            "fontSize": 16,
+            "fontWeight": "700",
+            "color": "rgb(60, 60, 60)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "STUDENTS"
           }
         },
         {
@@ -136,7 +156,12 @@
             "x": 903.734375,
             "y": 76,
             "w": 93.78125,
-            "h": 60
+            "h": 60,
+            "fontSize": 16,
+            "fontWeight": "700",
+            "color": "rgb(60, 60, 60)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "FAMILIES"
           }
         },
         {
@@ -150,7 +175,12 @@
             "x": 997.515625,
             "y": 76,
             "w": 103.5625,
-            "h": 60
+            "h": 60,
+            "fontSize": 16,
+            "fontWeight": "700",
+            "color": "rgb(60, 60, 60)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "LEARNING"
           }
         },
         {
@@ -164,7 +194,12 @@
             "x": 1101.078125,
             "y": 76,
             "w": 134.6875,
-            "h": 60
+            "h": 60,
+            "fontSize": 16,
+            "fontWeight": "700",
+            "color": "rgb(60, 60, 60)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "GOVERNANCE"
           }
         },
         {
@@ -178,7 +213,12 @@
             "x": 1235.765625,
             "y": 76,
             "w": 98.234375,
-            "h": 60
+            "h": 60,
+            "fontSize": 16,
+            "fontWeight": "700",
+            "color": "rgb(60, 60, 60)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "CAREERS"
           }
         },
         {
@@ -192,7 +232,12 @@
             "x": 1192.8125,
             "y": 136,
             "w": 141.1875,
-            "h": 60
+            "h": 60,
+            "fontSize": 16,
+            "fontWeight": "700",
+            "color": "rgb(60, 60, 60)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "MEDIA CENTRE"
           }
         },
         {
@@ -206,12 +251,17 @@
             "x": 20,
             "y": 1446.640625,
             "w": 236.484375,
-            "h": 56
+            "h": 56,
+            "fontSize": 28,
+            "fontWeight": "600",
+            "color": "rgb(29, 51, 99)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Upcoming Events"
           }
         },
         {
           "target": ".info",
-          "html": "<span class=\"info t_sd-f\">Today is Fri. <time datetime=\"2026-09-18\">Sep 18, 2026</time> - </span>",
+          "html": "<span class=\"info t_sd-f\">Today is Sat. <time datetime=\"2026-09-19\">Sep 19, 2026</time> - </span>",
           "impact": "serious",
           "messages": [
             "Element's background color could not be determined due to a background image"
@@ -220,21 +270,31 @@
             "x": 826,
             "y": 1461.640625,
             "w": 352,
-            "h": 20
+            "h": 20,
+            "fontSize": 16,
+            "fontWeight": "700",
+            "color": "rgb(130, 120, 24)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Today is Sat. Sep 19, 2026 -"
           }
         },
         {
-          "target": "time[datetime=\"2026-09-18\"]",
-          "html": "<time datetime=\"2026-09-18\">Sep 18, 2026</time>",
+          "target": "time[datetime=\"2026-09-19\"]",
+          "html": "<time datetime=\"2026-09-19\">Sep 19, 2026</time>",
           "impact": "serious",
           "messages": [
             "Element's background color could not be determined due to a background image"
           ],
           "box": {
-            "x": 923.5,
+            "x": 927.953125,
             "y": 1462.640625,
             "w": 96.078125,
-            "h": 17
+            "h": 17,
+            "fontSize": 16,
+            "fontWeight": "700",
+            "color": "rgb(130, 120, 24)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Sep 19, 2026"
           }
         },
         {
@@ -248,7 +308,12 @@
             "x": 20,
             "y": 1520.640625,
             "w": 238,
-            "h": 36
+            "h": 36,
+            "fontSize": 20,
+            "fontWeight": "700",
+            "color": "rgb(0, 92, 171)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Thu. Sep. 24"
           }
         },
         {
@@ -262,7 +327,12 @@
             "x": 20,
             "y": 1570.640625,
             "w": 173.4375,
-            "h": 55.078125
+            "h": 55.078125,
+            "fontSize": 24,
+            "fontWeight": "400",
+            "color": "rgb(29, 51, 99)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Dagwaagin Pow Wow"
           }
         },
         {
@@ -276,7 +346,12 @@
             "x": 20,
             "y": 1637.796875,
             "w": 238,
-            "h": 27
+            "h": 27,
+            "fontSize": 18,
+            "fontWeight": "400",
+            "color": "rgb(33, 33, 33)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "10:00 AM - 1:30 PM"
           }
         },
         {
@@ -290,7 +365,12 @@
             "x": 292,
             "y": 1520.640625,
             "w": 238,
-            "h": 36
+            "h": 36,
+            "fontSize": 20,
+            "fontWeight": "700",
+            "color": "rgb(0, 92, 171)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Wed. Sep. 30"
           }
         },
         {
@@ -304,7 +384,12 @@
             "x": 292,
             "y": 1570.640625,
             "w": 172.078125,
-            "h": 83.15625
+            "h": 83.15625,
+            "fontSize": 24,
+            "fontWeight": "400",
+            "color": "rgb(29, 51, 99)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "National Day for Truth & Reconciliation"
           }
         },
         {
@@ -318,7 +403,12 @@
             "x": 292,
             "y": 1665.875,
             "w": 238,
-            "h": 27
+            "h": 27,
+            "fontSize": 18,
+            "fontWeight": "400",
+            "color": "rgb(33, 33, 33)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "All Day"
           }
         },
         {
@@ -332,7 +422,12 @@
             "x": 564,
             "y": 1520.640625,
             "w": 238,
-            "h": 36
+            "h": 36,
+            "fontSize": 20,
+            "fontWeight": "700",
+            "color": "rgb(0, 92, 171)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Mon. Oct. 5"
           }
         },
         {
@@ -346,7 +441,12 @@
             "x": 564,
             "y": 1570.640625,
             "w": 136.078125,
-            "h": 55.078125
+            "h": 55.078125,
+            "fontSize": 24,
+            "fontWeight": "400",
+            "color": "rgb(29, 51, 99)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Public Board Meeting"
           }
         },
         {
@@ -360,7 +460,12 @@
             "x": 564,
             "y": 1637.796875,
             "w": 238,
-            "h": 27
+            "h": 27,
+            "fontSize": 18,
+            "fontWeight": "400",
+            "color": "rgb(33, 33, 33)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "7:00 PM - 9:00 PM"
           }
         },
         {
@@ -374,7 +479,12 @@
             "x": 836,
             "y": 1520.640625,
             "w": 238,
-            "h": 36
+            "h": 36,
+            "fontSize": 20,
+            "fontWeight": "700",
+            "color": "rgb(0, 92, 171)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Tue. Oct. 6"
           }
         },
         {
@@ -388,7 +498,12 @@
             "x": 836,
             "y": 1570.640625,
             "w": 181.421875,
-            "h": 55.078125
+            "h": 55.078125,
+            "fontSize": 24,
+            "fontWeight": "400",
+            "color": "rgb(29, 51, 99)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Non-Instructional Day"
           }
         },
         {
@@ -402,7 +517,12 @@
             "x": 836,
             "y": 1637.796875,
             "w": 238,
-            "h": 27
+            "h": 27,
+            "fontSize": 18,
+            "fontWeight": "400",
+            "color": "rgb(33, 33, 33)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "8:30 AM - 4:30 PM"
           }
         },
         {
@@ -416,7 +536,12 @@
             "x": 1108,
             "y": 1520.640625,
             "w": 238,
-            "h": 36
+            "h": 36,
+            "fontSize": 20,
+            "fontWeight": "700",
+            "color": "rgb(0, 92, 171)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Mon. Oct. 12"
           }
         },
         {
@@ -430,7 +555,12 @@
             "x": 1108,
             "y": 1570.640625,
             "w": 141.421875,
-            "h": 27
+            "h": 27,
+            "fontSize": 24,
+            "fontWeight": "400",
+            "color": "rgb(29, 51, 99)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Thanksgiving"
           }
         },
         {
@@ -444,7 +574,12 @@
             "x": 1108,
             "y": 1609.71875,
             "w": 238,
-            "h": 27
+            "h": 27,
+            "fontSize": 18,
+            "fontWeight": "400",
+            "color": "rgb(33, 33, 33)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "All Day"
           }
         }
       ]
@@ -494,7 +629,12 @@
             "x": 590.921875,
             "y": 0,
             "w": 28,
-            "h": 32
+            "h": 32,
+            "fontSize": 12,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": ""
           }
         },
         {
@@ -512,7 +652,12 @@
             "x": 1095,
             "y": 40.5,
             "w": 0,
-            "h": 0
+            "h": 0,
+            "fontSize": 18.08,
+            "fontWeight": "400",
+            "color": "rgb(0, 92, 171)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": ""
           }
         }
       ]

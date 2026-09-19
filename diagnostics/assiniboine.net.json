@@ -11,7 +11,7 @@
     "buttons": 2,
     "inputs": 2,
     "headings": 17,
-    "textLength": 4529,
+    "textLength": 4568,
     "lang": "en",
     "iframes": 2
   },
@@ -19,7 +19,7 @@
     "width": 1366,
     "height": 900
   },
-  "scannedAt": "2026-09-18T05:03:24.595Z",
+  "scannedAt": "2026-09-19T06:26:45.842Z",
   "axe": {
     "violationRules": 0,
     "violationNodes": 0,
@@ -80,7 +80,12 @@
             "x": 105.28125,
             "y": 1605.46875,
             "w": 516.6875,
-            "h": 48.828125
+            "h": 48.828125,
+            "fontSize": 39.0626,
+            "fontWeight": "600",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "News"
           }
         },
         {
@@ -94,7 +99,12 @@
             "x": 683,
             "y": 1605.46875,
             "w": 577.71875,
-            "h": 48.828125
+            "h": 48.828125,
+            "fontSize": 39.0626,
+            "fontWeight": "600",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Events"
           }
         },
         {
@@ -108,7 +118,12 @@
             "x": 685.53125,
             "y": 1693.359375,
             "w": 28.921875,
-            "h": 23
+            "h": 23,
+            "fontSize": 16,
+            "fontWeight": "700",
+            "color": "rgb(197, 0, 62)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "SEP"
           }
         },
         {
@@ -122,7 +137,12 @@
             "x": 685.84375,
             "y": 1716.359375,
             "w": 28.3125,
-            "h": 41
+            "h": 41,
+            "fontSize": 28,
+            "fontWeight": "700",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "21"
           }
         },
         {
@@ -136,7 +156,12 @@
             "x": 768,
             "y": 1694.359375,
             "w": 164.09375,
-            "h": 30
+            "h": 30,
+            "fontSize": 20,
+            "fontWeight": "700",
+            "color": "rgb(71, 10, 104)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "FALL FEAST 2026"
           }
         },
         {
@@ -150,7 +175,12 @@
             "x": 768,
             "y": 1736.359375,
             "w": 203.03125,
-            "h": 21
+            "h": 21,
+            "fontSize": 14,
+            "fontWeight": "700",
+            "color": "rgb(76, 76, 76)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "September 21, 2026 5:30 pm"
           }
         },
         {
@@ -164,7 +194,12 @@
             "x": 975.171875,
             "y": 1736.359375,
             "w": 185.265625,
-            "h": 21
+            "h": 21,
+            "fontSize": 14,
+            "fontWeight": "700",
+            "color": "rgb(76, 76, 76)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "September 21, 2026 8:00 pm"
           }
         },
         {
@@ -178,7 +213,12 @@
             "x": 685.53125,
             "y": 1818.359375,
             "w": 28.921875,
-            "h": 23
+            "h": 23,
+            "fontSize": 16,
+            "fontWeight": "700",
+            "color": "rgb(197, 0, 62)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "SEP"
           }
         },
         {
@@ -192,7 +232,12 @@
             "x": 683.109375,
             "y": 1841.359375,
             "w": 33.78125,
-            "h": 41
+            "h": 41,
+            "fontSize": 28,
+            "fontWeight": "700",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "28"
           }
         },
         {
@@ -206,7 +251,12 @@
             "x": 768,
             "y": 1789.359375,
             "w": 384.140625,
-            "h": 60
+            "h": 60,
+            "fontSize": 20,
+            "fontWeight": "700",
+            "color": "rgb(71, 10, 104)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "TRUTH AND RECONCILIATION: EVENTS & ACTIVITIES"
           }
         },
         {
@@ -220,7 +270,12 @@
             "x": 768,
             "y": 1861.359375,
             "w": 208.171875,
-            "h": 21
+            "h": 21,
+            "fontSize": 14,
+            "fontWeight": "700",
+            "color": "rgb(76, 76, 76)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "September 28, 2026 11:30 am"
           }
         },
         {
@@ -234,7 +289,12 @@
             "x": 980.3125,
             "y": 1861.359375,
             "w": 166.734375,
-            "h": 21
+            "h": 21,
+            "fontSize": 14,
+            "fontWeight": "700",
+            "color": "rgb(76, 76, 76)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "October 02, 2026 1:30 pm"
           }
         },
         {
@@ -248,7 +308,12 @@
             "x": 683.71875,
             "y": 1914.359375,
             "w": 32.546875,
-            "h": 23
+            "h": 23,
+            "fontSize": 16,
+            "fontWeight": "700",
+            "color": "rgb(197, 0, 62)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "OCT"
           }
         },
         {
@@ -262,7 +327,12 @@
             "x": 686.609375,
             "y": 1937.359375,
             "w": 26.78125,
-            "h": 41
+            "h": 41,
+            "fontSize": 28,
+            "fontWeight": "700",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "17"
           }
         },
         {
@@ -276,7 +346,12 @@
             "x": 768,
             "y": 1915.359375,
             "w": 231.90625,
-            "h": 30
+            "h": 30,
+            "fontSize": 20,
+            "fontWeight": "700",
+            "color": "rgb(71, 10, 104)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "REWIND THE UNWINDER"
           }
         },
         {
@@ -290,7 +365,12 @@
             "x": 768,
             "y": 1957.359375,
             "w": 182.265625,
-            "h": 21
+            "h": 21,
+            "fontSize": 14,
+            "fontWeight": "700",
+            "color": "rgb(76, 76, 76)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "October 17, 2026 7:00 pm"
           }
         },
         {
@@ -304,7 +384,12 @@
             "x": 954.40625,
             "y": 1957.359375,
             "w": 163.765625,
-            "h": 21
+            "h": 21,
+            "fontSize": 14,
+            "fontWeight": "700",
+            "color": "rgb(76, 76, 76)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "October 18, 2026 1:00 am"
           }
         },
         {
@@ -318,7 +403,12 @@
             "x": 683.71875,
             "y": 2010.359375,
             "w": 32.546875,
-            "h": 23
+            "h": 23,
+            "fontSize": 16,
+            "fontWeight": "700",
+            "color": "rgb(197, 0, 62)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "OCT"
           }
         },
         {
@@ -332,7 +422,12 @@
             "x": 682.921875,
             "y": 2033.359375,
             "w": 34.171875,
-            "h": 41
+            "h": 41,
+            "fontSize": 28,
+            "fontWeight": "700",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "20"
           }
         },
         {
@@ -346,7 +441,12 @@
             "x": 768,
             "y": 2011.359375,
             "w": 404.34375,
-            "h": 30
+            "h": 30,
+            "fontSize": 20,
+            "fontWeight": "700",
+            "color": "rgb(71, 10, 104)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "NEEPAWA TRAINING CENTRE OPEN HOUSE"
           }
         },
         {
@@ -360,7 +460,12 @@
             "x": 768,
             "y": 2053.359375,
             "w": 187.859375,
-            "h": 21
+            "h": 21,
+            "fontSize": 14,
+            "fontWeight": "700",
+            "color": "rgb(76, 76, 76)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "October 20, 2026 6:00 pm"
           }
         },
         {
@@ -374,7 +479,12 @@
             "x": 960,
             "y": 2053.359375,
             "w": 169.625,
-            "h": 21
+            "h": 21,
+            "fontSize": 14,
+            "fontWeight": "700",
+            "color": "rgb(76, 76, 76)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "October 20, 2026 8:00 pm"
           }
         },
         {
@@ -388,7 +498,12 @@
             "x": 683,
             "y": 2173.890625,
             "w": 577.71875,
-            "h": 48.828125
+            "h": 48.828125,
+            "fontSize": 39.0626,
+            "fontWeight": "600",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Upcoming Games"
           }
         },
         {
@@ -402,7 +517,12 @@
             "x": 685.53125,
             "y": 2261.78125,
             "w": 28.921875,
-            "h": 23
+            "h": 23,
+            "fontSize": 16,
+            "fontWeight": "700",
+            "color": "rgb(197, 0, 62)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "SEP"
           }
         },
         {
@@ -416,7 +536,12 @@
             "x": 685.75,
             "y": 2284.78125,
             "w": 28.484375,
-            "h": 41
+            "h": 41,
+            "fontSize": 28,
+            "fontWeight": "700",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "18"
           }
         },
         {
@@ -430,12 +555,17 @@
             "x": 768,
             "y": 2261.78125,
             "w": 140.109375,
-            "h": 23
+            "h": 23,
+            "fontSize": 16,
+            "fontWeight": "700",
+            "color": "rgb(71, 10, 104)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Women's Volleyball"
           }
         },
         {
           "target": ".views-row:nth-child(1) > .node--type-athletic-event.node--view-mode-upcoming.node > .content-details > .team-wrapper > .home.team > .field--name-field-opposing-team.field--type-entity-reference.field__item",
-          "html": "<div class=\"field field--name-field-opposing-team field--type-entity-reference field--label-hidden field__item\">U of W Wesmen (ss)</div>",
+          "html": "<div class=\"field field--name-field-opposing-team field--type-entity-reference field--label-hidden field__item\">Memorial University</div>",
           "impact": "serious",
           "messages": [
             "Element's background color could not be determined due to a background image"
@@ -443,8 +573,13 @@
           "box": {
             "x": 768,
             "y": 2291.328125,
-            "w": 144.1875,
-            "h": 23
+            "w": 145.0625,
+            "h": 23,
+            "fontSize": 16,
+            "fontWeight": "700",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Memorial University"
           }
         },
         {
@@ -458,12 +593,17 @@
             "x": 768,
             "y": 2330.328125,
             "w": 479.921875,
-            "h": 19
+            "h": 19,
+            "fontSize": 12.8,
+            "fontWeight": "700",
+            "color": "rgb(76, 76, 76)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "EXHIBITION"
           }
         },
         {
           "target": ".views-row:nth-child(1) > .node--type-athletic-event.node--view-mode-upcoming.node > .content-details > .node__content > .more-link-wrapper > .more-link",
-          "html": "<a class=\"more-link\" href=\"/games/assiniboine-vs-university-winnipeg\">View game</a>",
+          "html": "<a class=\"more-link\" href=\"/games/assiniboine-vs-memorial-university\">View game</a>",
           "impact": "serious",
           "messages": [
             "Element's background color could not be determined due to a background image"
@@ -472,7 +612,12 @@
             "x": 768,
             "y": 2365.328125,
             "w": 492.71875,
-            "h": 19
+            "h": 19,
+            "fontSize": 12.8,
+            "fontWeight": "700",
+            "color": "rgb(71, 10, 104)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "VIEW GAME"
           }
         },
         {
@@ -486,21 +631,31 @@
             "x": 685.53125,
             "y": 2400.328125,
             "w": 28.921875,
-            "h": 23
+            "h": 23,
+            "fontSize": 16,
+            "fontWeight": "700",
+            "color": "rgb(197, 0, 62)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "SEP"
           }
         },
         {
           "target": ".views-row:nth-child(2) > .node--type-athletic-event.node--view-mode-upcoming.node > .content-header > footer > .node__submitted-day",
-          "html": "<span class=\"node__submitted-day\">18</span>",
+          "html": "<span class=\"node__submitted-day\">19</span>",
           "impact": "serious",
           "messages": [
             "Element's background color could not be determined due to a background image"
           ],
           "box": {
-            "x": 685.75,
+            "x": 685.71875,
             "y": 2423.328125,
-            "w": 28.484375,
-            "h": 41
+            "w": 28.546875,
+            "h": 41,
+            "fontSize": 28,
+            "fontWeight": "700",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "19"
           }
         },
         {
@@ -514,12 +669,17 @@
             "x": 768,
             "y": 2400.328125,
             "w": 140.109375,
-            "h": 23
+            "h": 23,
+            "fontSize": 16,
+            "fontWeight": "700",
+            "color": "rgb(71, 10, 104)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Women's Volleyball"
           }
         },
         {
           "target": ".views-row:nth-child(2) > .node--type-athletic-event.node--view-mode-upcoming.node > .content-details > .team-wrapper > .home.team > .field--name-field-opposing-team.field--type-entity-reference.field__item",
-          "html": "<div class=\"field field--name-field-opposing-team field--type-entity-reference field--label-hidden field__item\">Concordia Thunder</div>",
+          "html": "<div class=\"field field--name-field-opposing-team field--type-entity-reference field--label-hidden field__item\">University of Manitoba</div>",
           "impact": "serious",
           "messages": [
             "Element's background color could not be determined due to a background image"
@@ -527,8 +687,13 @@
           "box": {
             "x": 768,
             "y": 2429.875,
-            "w": 139.6875,
-            "h": 23
+            "w": 164.03125,
+            "h": 23,
+            "fontSize": 16,
+            "fontWeight": "700",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "University of Manitoba"
           }
         },
         {
@@ -542,12 +707,17 @@
             "x": 768,
             "y": 2468.875,
             "w": 479.921875,
-            "h": 19
+            "h": 19,
+            "fontSize": 12.8,
+            "fontWeight": "700",
+            "color": "rgb(76, 76, 76)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "EXHIBITION"
           }
         },
         {
           "target": ".views-row:nth-child(2) > .node--type-athletic-event.node--view-mode-upcoming.node > .content-details > .node__content > .more-link-wrapper > .more-link",
-          "html": "<a class=\"more-link\" href=\"/games/assiniboine-vs-concordia-university\">View game</a>",
+          "html": "<a class=\"more-link\" href=\"/games/assiniboine-vs-university-manitoba\">View game</a>",
           "impact": "serious",
           "messages": [
             "Element's background color could not be determined due to a background image"
@@ -556,7 +726,12 @@
             "x": 768,
             "y": 2503.875,
             "w": 492.71875,
-            "h": 19
+            "h": 19,
+            "fontSize": 12.8,
+            "fontWeight": "700",
+            "color": "rgb(71, 10, 104)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "VIEW GAME"
           }
         },
         {
@@ -570,26 +745,36 @@
             "x": 685.53125,
             "y": 2538.875,
             "w": 28.921875,
-            "h": 23
+            "h": 23,
+            "fontSize": 16,
+            "fontWeight": "700",
+            "color": "rgb(197, 0, 62)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "SEP"
           }
         },
         {
           "target": ".views-row:nth-child(3) > .node--type-athletic-event.node--view-mode-upcoming.node > .content-header > footer > .node__submitted-day",
-          "html": "<span class=\"node__submitted-day\">18</span>",
+          "html": "<span class=\"node__submitted-day\">19</span>",
           "impact": "serious",
           "messages": [
             "Element's background color could not be determined due to a background image"
           ],
           "box": {
-            "x": 685.75,
+            "x": 685.71875,
             "y": 2561.875,
-            "w": 28.484375,
-            "h": 41
+            "w": 28.546875,
+            "h": 41,
+            "fontSize": 28,
+            "fontWeight": "700",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "19"
           }
         },
         {
-          "target": ".views-row:nth-child(3) > .node--type-athletic-event.node--view-mode-upcoming.node > .content-details > .team-wrapper > .away.team > .field--name-field-team.field--type-entity-reference.field__item > a[href$=\"womens-volleyball\"][hreflang=\"en\"]",
-          "html": "<a href=\"/teams/womens-volleyball\" hreflang=\"en\">Women's Volleyball</a>",
+          "target": ".views-row:nth-child(3) > .node--type-athletic-event.node--view-mode-upcoming.node > .content-details > .team-wrapper > .away.team > .field--name-field-team.field--type-entity-reference.field__item > a[href$=\"mens-soccer\"]",
+          "html": "<a href=\"/teams/mens-soccer\" hreflang=\"en\">Men's Soccer</a>",
           "impact": "serious",
           "messages": [
             "Element's background color could not be determined due to a background image"
@@ -597,13 +782,18 @@
           "box": {
             "x": 768,
             "y": 2538.875,
-            "w": 140.109375,
-            "h": 23
+            "w": 95.796875,
+            "h": 23,
+            "fontSize": 16,
+            "fontWeight": "700",
+            "color": "rgb(71, 10, 104)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Men's Soccer"
           }
         },
         {
           "target": ".views-row:nth-child(3) > .node--type-athletic-event.node--view-mode-upcoming.node > .content-details > .team-wrapper > .home.team > .field--name-field-opposing-team.field--type-entity-reference.field__item",
-          "html": "<div class=\"field field--name-field-opposing-team field--type-entity-reference field--label-hidden field__item\">Memorial University</div>",
+          "html": "<div class=\"field field--name-field-opposing-team field--type-entity-reference field--label-hidden field__item\">Providence University College Pilots</div>",
           "impact": "serious",
           "messages": [
             "Element's background color could not be determined due to a background image"
@@ -611,13 +801,18 @@
           "box": {
             "x": 768,
             "y": 2568.421875,
-            "w": 145.0625,
-            "h": 23
+            "w": 262.5,
+            "h": 23,
+            "fontSize": 16,
+            "fontWeight": "700",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Providence University College Pilots"
           }
         },
         {
           "target": ".views-row:nth-child(3) > .node--type-athletic-event.node--view-mode-upcoming.node > .content-details > .node__content > .category-wrapper > .field--name-field-athletic-event-category.field--type-entity-reference.field__item",
-          "html": "<div class=\"field field--name-field-athletic-event-category field--type-entity-reference field--label-hidden field__item\">Exhibition</div>",
+          "html": "<div class=\"field field--name-field-athletic-event-category field--type-entity-reference field--label-hidden field__item\">Regular Season</div>",
           "impact": "serious",
           "messages": [
             "Element's background color could not be determined due to a background image"
@@ -626,12 +821,17 @@
             "x": 768,
             "y": 2607.421875,
             "w": 479.921875,
-            "h": 19
+            "h": 19,
+            "fontSize": 12.8,
+            "fontWeight": "700",
+            "color": "rgb(76, 76, 76)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "REGULAR SEASON"
           }
         },
         {
           "target": ".views-row:nth-child(3) > .node--type-athletic-event.node--view-mode-upcoming.node > .content-details > .node__content > .more-link-wrapper > .more-link",
-          "html": "<a class=\"more-link\" href=\"/games/assiniboine-vs-memorial-university\">View game</a>",
+          "html": "<a class=\"more-link\" href=\"/games/assiniboine-vs-providence-university-20\">View game</a>",
           "impact": "serious",
           "messages": [
             "Element's background color could not be determined due to a background image"
@@ -640,7 +840,12 @@
             "x": 768,
             "y": 2642.421875,
             "w": 492.71875,
-            "h": 19
+            "h": 19,
+            "fontSize": 12.8,
+            "fontWeight": "700",
+            "color": "rgb(71, 10, 104)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "VIEW GAME"
           }
         },
         {
@@ -654,7 +859,12 @@
             "x": 685.53125,
             "y": 2677.421875,
             "w": 28.921875,
-            "h": 23
+            "h": 23,
+            "fontSize": 16,
+            "fontWeight": "700",
+            "color": "rgb(197, 0, 62)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "SEP"
           }
         },
         {
@@ -668,12 +878,17 @@
             "x": 685.71875,
             "y": 2700.421875,
             "w": 28.546875,
-            "h": 41
+            "h": 41,
+            "fontSize": 28,
+            "fontWeight": "700",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "19"
           }
         },
         {
-          "target": "a[href$=\"mens-soccer\"]",
-          "html": "<a href=\"/teams/mens-soccer\" hreflang=\"en\">Men's Soccer</a>",
+          "target": "a[href$=\"womens-soccer\"]",
+          "html": "<a href=\"/teams/womens-soccer\" hreflang=\"en\">Women's Soccer</a>",
           "impact": "serious",
           "messages": [
             "Element's background color could not be determined due to a background image"
@@ -681,8 +896,13 @@
           "box": {
             "x": 768,
             "y": 2677.421875,
-            "w": 95.796875,
-            "h": 23
+            "w": 118.984375,
+            "h": 23,
+            "fontSize": 16,
+            "fontWeight": "700",
+            "color": "rgb(71, 10, 104)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Women's Soccer"
           }
         },
         {
@@ -696,7 +916,12 @@
             "x": 768,
             "y": 2706.96875,
             "w": 262.5,
-            "h": 23
+            "h": 23,
+            "fontSize": 16,
+            "fontWeight": "700",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Providence University College Pilots"
           }
         },
         {
@@ -710,12 +935,17 @@
             "x": 768,
             "y": 2745.96875,
             "w": 479.921875,
-            "h": 19
+            "h": 19,
+            "fontSize": 12.8,
+            "fontWeight": "700",
+            "color": "rgb(76, 76, 76)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "REGULAR SEASON"
           }
         },
         {
           "target": ".views-row:nth-child(4) > .node--type-athletic-event.node--view-mode-upcoming.node > .content-details > .node__content > .more-link-wrapper > .more-link",
-          "html": "<a class=\"more-link\" href=\"/games/assiniboine-vs-providence-university-20\">View game</a>",
+          "html": "<a class=\"more-link\" href=\"/games/assiniboine-vs-providence-university-21\">View game</a>",
           "impact": "serious",
           "messages": [
             "Element's background color could not be determined due to a background image"
@@ -724,7 +954,12 @@
             "x": 768,
             "y": 2780.96875,
             "w": 492.71875,
-            "h": 19
+            "h": 19,
+            "fontSize": 12.8,
+            "fontWeight": "700",
+            "color": "rgb(71, 10, 104)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "VIEW GAME"
           }
         },
         {
@@ -738,7 +973,12 @@
             "x": 685.53125,
             "y": 2815.96875,
             "w": 28.921875,
-            "h": 23
+            "h": 23,
+            "fontSize": 16,
+            "fontWeight": "700",
+            "color": "rgb(197, 0, 62)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "SEP"
           }
         },
         {
@@ -752,7 +992,12 @@
             "x": 685.71875,
             "y": 2838.96875,
             "w": 28.546875,
-            "h": 41
+            "h": 41,
+            "fontSize": 28,
+            "fontWeight": "700",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "19"
           }
         },
         {
@@ -766,12 +1011,17 @@
             "x": 768,
             "y": 2815.96875,
             "w": 140.109375,
-            "h": 23
+            "h": 23,
+            "fontSize": 16,
+            "fontWeight": "700",
+            "color": "rgb(71, 10, 104)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Women's Volleyball"
           }
         },
         {
           "target": ".views-row:nth-child(5) > .node--type-athletic-event.node--view-mode-upcoming.node > .content-details > .team-wrapper > .home.team > .field--name-field-opposing-team.field--type-entity-reference.field__item",
-          "html": "<div class=\"field field--name-field-opposing-team field--type-entity-reference field--label-hidden field__item\">University of Manitoba</div>",
+          "html": "<div class=\"field field--name-field-opposing-team field--type-entity-reference field--label-hidden field__item\">Lakehead University Thunderwolves</div>",
           "impact": "serious",
           "messages": [
             "Element's background color could not be determined due to a background image"
@@ -779,8 +1029,13 @@
           "box": {
             "x": 768,
             "y": 2845.515625,
-            "w": 164.03125,
-            "h": 23
+            "w": 262.8125,
+            "h": 23,
+            "fontSize": 16,
+            "fontWeight": "700",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Lakehead University Thunderwolves"
           }
         },
         {
@@ -794,12 +1049,17 @@
             "x": 768,
             "y": 2884.515625,
             "w": 479.921875,
-            "h": 19
+            "h": 19,
+            "fontSize": 12.8,
+            "fontWeight": "700",
+            "color": "rgb(76, 76, 76)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "EXHIBITION"
           }
         },
         {
           "target": ".views-row:nth-child(5) > .node--type-athletic-event.node--view-mode-upcoming.node > .content-details > .node__content > .more-link-wrapper > .more-link",
-          "html": "<a class=\"more-link\" href=\"/games/assiniboine-vs-university-manitoba\">View game</a>",
+          "html": "<a class=\"more-link\" href=\"/games/assiniboine-vs-lakehead-university\">View game</a>",
           "impact": "serious",
           "messages": [
             "Element's background color could not be determined due to a background image"
@@ -808,7 +1068,12 @@
             "x": 768,
             "y": 2919.515625,
             "w": 492.71875,
-            "h": 19
+            "h": 19,
+            "fontSize": 12.8,
+            "fontWeight": "700",
+            "color": "rgb(71, 10, 104)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "VIEW GAME"
           }
         },
         {
@@ -822,7 +1087,12 @@
             "x": 150.03125,
             "y": 3709.0625,
             "w": 1095.9375,
-            "h": 117.1875
+            "h": 117.1875,
+            "fontSize": 25,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Assiniboine College is privileged to provide learning opportunities on the lands"
           }
         }
       ]

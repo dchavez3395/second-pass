@@ -5,13 +5,13 @@
   "title": "Pembina Trails School Division",
   "finalUrl": "https://www.pembinatrails.ca/",
   "shape": {
-    "elements": 2541,
-    "images": 45,
-    "links": 725,
-    "buttons": 26,
+    "elements": 2524,
+    "images": 44,
+    "links": 722,
+    "buttons": 25,
     "inputs": 12,
-    "headings": 8,
-    "textLength": 1188,
+    "headings": 7,
+    "textLength": 1051,
     "lang": "en",
     "iframes": 3
   },
@@ -19,16 +19,16 @@
     "width": 1366,
     "height": 900
   },
-  "scannedAt": "2026-09-18T04:59:02.257Z",
+  "scannedAt": "2026-09-19T06:27:33.107Z",
   "axe": {
     "violationRules": 1,
-    "violationNodes": 3,
+    "violationNodes": 4,
     "passRules": 30,
-    "passNodes": 544,
+    "passNodes": 522,
     "incompleteRules": 1,
     "incompleteNodes": 18,
     "inapplicableRules": 33,
-    "testedNodes": 565
+    "testedNodes": 544
   },
   "incomplete": [
     {
@@ -56,12 +56,12 @@
       "nodes": 18,
       "sample": [
         {
-          "target": "#slick-slide02 > .ci-txt > h1 > a",
-          "html": "<a href=\"/free-transit-pass-information-.46994\" tabindex=\"0\">Free Transit Pass information </a>"
+          "target": "h1 > a[href$=\"fast-facts-for-families\"]",
+          "html": "<a href=\"/fast-facts-for-families\" tabindex=\"0\">Fast Facts For Families</a>"
         },
         {
-          "target": "#slick-slide02 > .ci-txt > .btn-primary.btn",
-          "html": "<a href=\"/free-transit-pass-information-.46994\" class=\"btn btn-primary\" tabindex=\"0\"><span class=\"seo-desc\">Free Transit Pass information </span>Read More</a>"
+          "target": ".btn-primary.btn[href$=\"fast-facts-for-families\"]",
+          "html": "<a href=\"/fast-facts-for-families\" class=\"btn btn-primary\" tabindex=\"0\"><span class=\"seo-desc\">Fast Facts For Families</span>Read More</a>"
         },
         {
           "target": ".slick-current.ci-item[data-slick-index=\"0\"] > a[target=\"\\\"_blank\\\"\"] > .ci-text",
@@ -70,22 +70,27 @@
       ],
       "items": [
         {
-          "target": "#slick-slide02 > .ci-txt > h1 > a",
-          "html": "<a href=\"/free-transit-pass-information-.46994\" tabindex=\"0\">Free Transit Pass information </a>",
+          "target": "h1 > a[href$=\"fast-facts-for-families\"]",
+          "html": "<a href=\"/fast-facts-for-families\" tabindex=\"0\">Fast Facts For Families</a>",
           "impact": "serious",
           "messages": [
             "Element's background color could not be determined due to a pseudo element"
           ],
           "box": {
             "x": 70,
-            "y": 287.65625,
-            "w": 266.421875,
-            "h": 79.546875
+            "y": 308.421875,
+            "w": 355.171875,
+            "h": 38,
+            "fontSize": 34,
+            "fontWeight": "400",
+            "color": "rgb(22, 60, 109)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Fast Facts For Families"
           }
         },
         {
-          "target": "#slick-slide02 > .ci-txt > .btn-primary.btn",
-          "html": "<a href=\"/free-transit-pass-information-.46994\" class=\"btn btn-primary\" tabindex=\"0\"><span class=\"seo-desc\">Free Transit Pass information </span>Read More</a>",
+          "target": ".btn-primary.btn[href$=\"fast-facts-for-families\"]",
+          "html": "<a href=\"/fast-facts-for-families\" class=\"btn btn-primary\" tabindex=\"0\"><span class=\"seo-desc\">Fast Facts For Families</span>Read More</a>",
           "impact": "serious",
           "messages": [
             "Element's background color could not be determined due to a pseudo element"
@@ -94,7 +99,12 @@
             "x": 70,
             "y": 446.609375,
             "w": 140,
-            "h": 60.796875
+            "h": 60.796875,
+            "fontSize": 14,
+            "fontWeight": "700",
+            "color": "rgb(22, 60, 109)",
+            "background": "rgb(255, 255, 255)",
+            "text": "Fast Facts For Families Read More"
           }
         },
         {
@@ -108,7 +118,12 @@
             "x": 136.5,
             "y": 737.40625,
             "w": 131,
-            "h": 16.796875
+            "h": 16.796875,
+            "fontSize": 14,
+            "fontWeight": "700",
+            "color": "rgb(22, 60, 109)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Edsby"
           }
         },
         {
@@ -122,7 +137,12 @@
             "x": 357.5,
             "y": 737.40625,
             "w": 131,
-            "h": 16.796875
+            "h": 16.796875,
+            "fontSize": 14,
+            "fontWeight": "700",
+            "color": "rgb(22, 60, 109)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Division Calendar"
           }
         },
         {
@@ -136,11 +156,16 @@
             "x": 578.5,
             "y": 737.40625,
             "w": 131,
-            "h": 16.796875
+            "h": 16.796875,
+            "fontSize": 14,
+            "fontWeight": "700",
+            "color": "rgb(22, 60, 109)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "School Locator"
           }
         },
         {
-          "target": ".ci-item[data-slick-index=\"3\"][aria-hidden=\"false\"] > a[target=\"\\\"_blank\\\"\"] > .ci-text",
+          "target": "div[data-slick-index=\"3\"] > a[target=\"\\\"_blank\\\"\"] > .ci-text",
           "html": "<span class=\"ci-text\">Transportation</span>",
           "impact": "serious",
           "messages": [
@@ -150,7 +175,12 @@
             "x": 799.5,
             "y": 737.40625,
             "w": 131,
-            "h": 16.796875
+            "h": 16.796875,
+            "fontSize": 14,
+            "fontWeight": "700",
+            "color": "rgb(22, 60, 109)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Transportation"
           }
         },
         {
@@ -164,7 +194,12 @@
             "x": 1020.5,
             "y": 737.40625,
             "w": 131,
-            "h": 33.59375
+            "h": 33.59375,
+            "fontSize": 14,
+            "fontWeight": "700",
+            "color": "rgb(22, 60, 109)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Public Concerns and Complaints"
           }
         },
         {
@@ -178,7 +213,12 @@
             "x": 70,
             "y": 1569.125,
             "w": 820.65625,
-            "h": 21.25
+            "h": 21.25,
+            "fontSize": 17,
+            "fontWeight": "700",
+            "color": "rgb(128, 130, 132)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Get in touch with us"
           }
         },
         {
@@ -192,7 +232,12 @@
             "x": 70,
             "y": 1606.375,
             "w": 820.65625,
-            "h": 24
+            "h": 24,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(128, 130, 132)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "181 Henlow Bay Winnipeg, MB R3Y 1M7"
           }
         },
         {
@@ -206,7 +251,12 @@
             "x": 70,
             "y": 1639.375,
             "w": 152.25,
-            "h": 16
+            "h": 16,
+            "fontSize": 14,
+            "fontWeight": "400",
+            "color": "rgb(22, 60, 109)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "View Map For Directions"
           }
         },
         {
@@ -220,7 +270,12 @@
             "x": 70,
             "y": 1675.375,
             "w": 69,
-            "h": 16.796875
+            "h": 16.796875,
+            "fontSize": 14,
+            "fontWeight": "400",
+            "color": "rgb(128, 130, 132)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Phone:"
           }
         },
         {
@@ -234,7 +289,12 @@
             "x": 139,
             "y": 1675.375,
             "w": 87.1875,
-            "h": 16.796875
+            "h": 16.796875,
+            "fontSize": 14,
+            "fontWeight": "400",
+            "color": "rgb(128, 130, 132)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "204-488-1757"
           }
         },
         {
@@ -248,7 +308,12 @@
             "x": 70,
             "y": 1702.171875,
             "w": 69,
-            "h": 16.796875
+            "h": 16.796875,
+            "fontSize": 14,
+            "fontWeight": "400",
+            "color": "rgb(128, 130, 132)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Email:"
           }
         },
         {
@@ -262,7 +327,12 @@
             "x": 139,
             "y": 1702.171875,
             "w": 138.734375,
-            "h": 16.796875
+            "h": 16.796875,
+            "fontSize": 14,
+            "fontWeight": "400",
+            "color": "rgb(22, 60, 109)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "info@pembinatrails.ca"
           }
         },
         {
@@ -276,7 +346,12 @@
             "x": 925.65625,
             "y": 1667.125,
             "w": 420.328125,
-            "h": 21.25
+            "h": 21.25,
+            "fontSize": 17,
+            "fontWeight": "700",
+            "color": "rgb(128, 130, 132)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Follow Us"
           }
         },
         {
@@ -290,7 +365,12 @@
             "x": 21,
             "y": 1792.375,
             "w": 282.296875,
-            "h": 33.390625
+            "h": 33.390625,
+            "fontSize": 12,
+            "fontWeight": "400",
+            "color": "rgb(128, 130, 132)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "© Pembina Trails School Division. All rights reserved."
           }
         },
         {
@@ -304,7 +384,12 @@
             "x": 320.296875,
             "y": 1792.375,
             "w": 74.6875,
-            "h": 14
+            "h": 14,
+            "fontSize": 12,
+            "fontWeight": "400",
+            "color": "rgba(128, 130, 132, 0.8)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Privacy Policy"
           }
         },
         {
@@ -318,7 +403,12 @@
             "x": 427.984375,
             "y": 1792.375,
             "w": 47.359375,
-            "h": 14
+            "h": 14,
+            "fontSize": 12,
+            "fontWeight": "400",
+            "color": "rgba(128, 130, 132, 0.8)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Site Map"
           }
         }
       ]
@@ -351,8 +441,31 @@
         "2.4.4",
         "4.1.2"
       ],
-      "nodes": 3,
+      "nodes": 4,
       "items": [
+        {
+          "target": ".ci-r-holder > .ci-wrap > .ci-hold:nth-child(1) > .ci-day-holder > a[href=\"#\"]",
+          "html": "<a href=\"#\"> </a>",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": {
+            "x": 617.640625,
+            "y": 58.5,
+            "w": 0,
+            "h": 0,
+            "fontSize": 12,
+            "fontWeight": "400",
+            "color": "rgb(60, 60, 60)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": ""
+          }
+        },
         {
           "target": ".ci-hold:nth-child(5) > .ci-social-networks.list-unstyled > li:nth-child(1) > a[target=\"_blank\"]",
           "html": "<a href=\"https://pembinatrails.edsby.com/\" target=\"_blank\">",
@@ -368,7 +481,12 @@
             "x": 1092,
             "y": 45,
             "w": 24,
-            "h": 20
+            "h": 20,
+            "fontSize": 12,
+            "fontWeight": "400",
+            "color": "rgb(60, 60, 60)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": ""
           }
         },
         {
@@ -386,7 +504,12 @@
             "x": 538,
             "y": 1334.125,
             "w": 24,
-            "h": 26
+            "h": 26,
+            "fontSize": 18,
+            "fontWeight": "400",
+            "color": "rgb(22, 60, 109)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": ""
           }
         },
         {
@@ -404,7 +527,12 @@
             "x": 929.65625,
             "y": 1709.375,
             "w": 24,
-            "h": 26
+            "h": 26,
+            "fontSize": 18,
+            "fontWeight": "400",
+            "color": "rgb(22, 60, 109)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": ""
           }
         }
       ]

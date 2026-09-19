@@ -5,13 +5,13 @@
   "title": "University of Winnipeg",
   "finalUrl": "https://www.uwinnipeg.ca/",
   "shape": {
-    "elements": 612,
+    "elements": 613,
     "images": 19,
     "links": 129,
     "buttons": 14,
     "inputs": 1,
     "headings": 23,
-    "textLength": 3325,
+    "textLength": 3400,
     "lang": "en",
     "iframes": 1
   },
@@ -19,7 +19,7 @@
     "width": 1366,
     "height": 900
   },
-  "scannedAt": "2026-09-18T04:57:41.621Z",
+  "scannedAt": "2026-09-19T06:26:11.036Z",
   "axe": {
     "violationRules": 1,
     "violationNodes": 8,
@@ -80,7 +80,12 @@
             "x": 531.265625,
             "y": 50,
             "w": 153.828125,
-            "h": 104
+            "h": 104,
+            "fontSize": 18,
+            "fontWeight": "700",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Admissions"
           }
         },
         {
@@ -94,7 +99,12 @@
             "x": 685.09375,
             "y": 50,
             "w": 149.03125,
-            "h": 104
+            "h": 104,
+            "fontSize": 18,
+            "fontWeight": "700",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Academics"
           }
         },
         {
@@ -108,7 +118,12 @@
             "x": 834.125,
             "y": 50,
             "w": 135.21875,
-            "h": 104
+            "h": 104,
+            "fontSize": 18,
+            "fontWeight": "700",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Research"
           }
         },
         {
@@ -122,7 +137,12 @@
             "x": 969.34375,
             "y": 50,
             "w": 161.4375,
-            "h": 104
+            "h": 104,
+            "fontSize": 18,
+            "fontWeight": "700",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Campus Life"
           }
         },
         {
@@ -136,7 +156,12 @@
             "x": 1130.78125,
             "y": 50,
             "w": 109.703125,
-            "h": 104
+            "h": 104,
+            "fontSize": 18,
+            "fontWeight": "700",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "About"
           }
         },
         {
@@ -150,7 +175,12 @@
             "x": 1240.484375,
             "y": 50,
             "w": 105.515625,
-            "h": 104
+            "h": 104,
+            "fontSize": 18,
+            "fontWeight": "700",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "News"
           }
         },
         {
@@ -164,7 +194,12 @@
             "x": 445,
             "y": 232.8125,
             "w": 476,
-            "h": 30
+            "h": 30,
+            "fontSize": 30,
+            "fontWeight": "1000",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "WHEN YOU"
           }
         },
         {
@@ -178,7 +213,12 @@
             "x": 445,
             "y": 262.8125,
             "w": 476,
-            "h": 30
+            "h": 30,
+            "fontSize": 30,
+            "fontWeight": "1000",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "BELONG,"
           }
         },
         {
@@ -192,7 +232,12 @@
             "x": 1171.40625,
             "y": 509.3125,
             "w": 67.4375,
-            "h": 15
+            "h": 15,
+            "fontSize": 13.3333,
+            "fontWeight": "400",
+            "color": "rgba(0, 0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Play/Pause"
           }
         },
         {
@@ -204,9 +249,14 @@
           ],
           "box": {
             "x": 1145.96875,
-            "y": 4839.828125,
+            "y": 4850.140625,
             "w": 200,
-            "h": 65.1875
+            "h": 65.1875,
+            "fontSize": 16,
+            "fontWeight": "800",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "DONATE"
           }
         }
       ]
@@ -253,7 +303,12 @@
             "x": 0,
             "y": 50,
             "w": 1366,
-            "h": 719.8125
+            "h": 719.8125,
+            "fontSize": 10,
+            "fontWeight": "400",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": ""
           }
         }
       ]
@@ -292,9 +347,14 @@
           ],
           "box": {
             "x": 56.203125,
-            "y": 3616.296875,
+            "y": 3626.609375,
             "w": 27.578125,
-            "h": 20
+            "h": 20,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Sep"
           }
         },
         {
@@ -306,9 +366,14 @@
           ],
           "box": {
             "x": 30,
-            "y": 3630.296875,
+            "y": 3640.609375,
             "w": 80,
-            "h": 36
+            "h": 36,
+            "fontSize": 30,
+            "fontWeight": "800",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "17"
           }
         },
         {
@@ -320,9 +385,14 @@
           ],
           "box": {
             "x": 504.859375,
-            "y": 3616.296875,
+            "y": 3626.609375,
             "w": 27.578125,
-            "h": 20
+            "h": 20,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Sep"
           }
         },
         {
@@ -334,9 +404,14 @@
           ],
           "box": {
             "x": 478.65625,
-            "y": 3630.296875,
+            "y": 3640.609375,
             "w": 80,
-            "h": 36
+            "h": 36,
+            "fontSize": 30,
+            "fontWeight": "800",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "21"
           }
         },
         {
@@ -348,9 +423,14 @@
           ],
           "box": {
             "x": 953.53125,
-            "y": 3616.296875,
+            "y": 3626.609375,
             "w": 27.578125,
-            "h": 20
+            "h": 20,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Sep"
           }
         },
         {
@@ -362,9 +442,14 @@
           ],
           "box": {
             "x": 927.328125,
-            "y": 3630.296875,
+            "y": 3640.609375,
             "w": 80,
-            "h": 36
+            "h": 36,
+            "fontSize": 30,
+            "fontWeight": "800",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "22"
           }
         },
         {

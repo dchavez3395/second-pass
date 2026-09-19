@@ -19,7 +19,7 @@
     "width": 1366,
     "height": 900
   },
-  "scannedAt": "2026-09-18T04:58:41.663Z",
+  "scannedAt": "2026-09-19T06:27:10.761Z",
   "axe": {
     "violationRules": 1,
     "violationNodes": 1,
@@ -80,7 +80,12 @@
             "x": 1290,
             "y": 84.046875,
             "w": 96,
-            "h": 44
+            "h": 44,
+            "fontSize": 17,
+            "fontWeight": "600",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(0, 114, 188)",
+            "text": ""
           }
         },
         {
@@ -94,7 +99,12 @@
             "x": 72,
             "y": 3010.140625,
             "w": 647,
-            "h": 140.78125
+            "h": 140.78125,
+            "fontSize": 64,
+            "fontWeight": "300",
+            "color": "rgb(0, 62, 106)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Un milieu d’études à taille humaine."
           }
         },
         {
@@ -108,7 +118,12 @@
             "x": 72,
             "y": 3182.921875,
             "w": 647,
-            "h": 52.1875
+            "h": 52.1875,
+            "fontSize": 18,
+            "fontWeight": "400",
+            "color": "rgb(12, 17, 29)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "L’USB offre un environnement accueillant et stimulant pensé pour ton épanouissem"
           }
         },
         {
@@ -122,7 +137,12 @@
             "x": 87,
             "y": 3269.109375,
             "w": 205.75,
-            "h": 21.25
+            "h": 21.25,
+            "fontSize": 17,
+            "fontWeight": "600",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Découvre pourquoi l’USB"
           }
         },
         {
@@ -136,7 +156,12 @@
             "x": 350.734375,
             "y": 3269.109375,
             "w": 182.90625,
-            "h": 21.25
+            "h": 21.25,
+            "fontSize": 17,
+            "fontWeight": "600",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Demande d'admission"
           }
         },
         {
@@ -150,7 +175,12 @@
             "x": 781,
             "y": 2910.140625,
             "w": 365.59375,
-            "h": 154
+            "h": 154,
+            "fontSize": 35,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Journée des conseillers et conseillères d’écoles secondaires"
           }
         },
         {
@@ -164,7 +194,12 @@
             "x": 781,
             "y": 3072.140625,
             "w": 365.59375,
-            "h": 20.796875
+            "h": 20.796875,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Mardi 22 septembre 2026"
           }
         },
         {
@@ -178,7 +213,12 @@
             "x": 781,
             "y": 3124.9375,
             "w": 205.59375,
-            "h": 104.375
+            "h": 104.375,
+            "fontSize": 18,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Des séances d’information et d’échange permettant de découvrir les nouveautés à "
           }
         },
         {
@@ -192,7 +232,12 @@
             "x": 781,
             "y": 3276.3125,
             "w": 114.109375,
-            "h": 21.25
+            "h": 21.25,
+            "fontSize": 17,
+            "fontWeight": "600",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "En savoir plus"
           }
         },
         {
@@ -206,7 +251,12 @@
             "x": 1274.59375,
             "y": 2910.140625,
             "w": 365.59375,
-            "h": 38.5
+            "h": 38.5,
+            "fontSize": 35,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Bienvenue à l’USB!"
           }
         },
         {
@@ -220,7 +270,12 @@
             "x": 1274.59375,
             "y": 2980.640625,
             "w": 205.59375,
-            "h": 104.375
+            "h": 104.375,
+            "fontSize": 18,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "L’équipe de bienvenue est là, en personne, par téléphone ou en ligne pour répond"
           }
         },
         {
@@ -234,7 +289,12 @@
             "x": 1274.59375,
             "y": 3132.015625,
             "w": 114.109375,
-            "h": 21.25
+            "h": 21.25,
+            "fontSize": 17,
+            "fontWeight": "600",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "En savoir plus"
           }
         },
         {
@@ -248,7 +308,12 @@
             "x": 731,
             "y": 6093.671875,
             "w": 355.734375,
-            "h": 77
+            "h": 77,
+            "fontSize": 35,
+            "fontWeight": "400",
+            "color": "rgb(0, 62, 106)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Population étudiante de l’USB"
           }
         },
         {
@@ -262,7 +327,12 @@
             "x": 64,
             "y": 6220.671875,
             "w": 282.359375,
-            "h": 77
+            "h": 77,
+            "fontSize": 35,
+            "fontWeight": "400",
+            "color": "rgb(0, 62, 106)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Taille moyenne d’une classe"
           }
         },
         {
@@ -276,7 +346,12 @@
             "x": 140,
             "y": 8020.5625,
             "w": 184.796875,
-            "h": 18
+            "h": 18,
+            "fontSize": 14,
+            "fontWeight": "700",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "SARA"
           }
         },
         {
@@ -290,7 +365,12 @@
             "x": 140,
             "y": 8046.5625,
             "w": 184.796875,
-            "h": 50.390625
+            "h": 50.390625,
+            "fontSize": 14,
+            "fontWeight": "400",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Baccalauréat ès sciences avec majeure conjointe en biochimie-microbiologie"
           }
         },
         {
@@ -304,7 +384,12 @@
             "x": 1096,
             "y": 8020.953125,
             "w": 184.796875,
-            "h": 18
+            "h": 18,
+            "fontSize": 14,
+            "fontWeight": "700",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "MATHIAS"
           }
         },
         {
@@ -318,7 +403,12 @@
             "x": 1096,
             "y": 8046.953125,
             "w": 184.796875,
-            "h": 33.59375
+            "h": 33.59375,
+            "fontSize": 14,
+            "fontWeight": "400",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Diplôme en communication multimédia"
           }
         }
       ]
@@ -361,7 +451,12 @@
             "x": 1241,
             "y": 809.140625,
             "w": 1,
-            "h": 1
+            "h": 1,
+            "fontSize": 64,
+            "fontWeight": "300",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Un aperçu du campus extérieur de l'Université de Saint-Boniface et de la populat"
           }
         }
       ]
@@ -408,7 +503,12 @@
             "x": 687.3125,
             "y": 522.25,
             "w": 614.6875,
-            "h": 339.890625
+            "h": 339.890625,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": ""
           }
         }
       ]
@@ -453,7 +553,12 @@
             "x": 0,
             "y": 3603.5625,
             "w": 1366,
-            "h": 738
+            "h": 738,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgb(0, 0, 0)",
+            "text": ""
           }
         }
       ]
