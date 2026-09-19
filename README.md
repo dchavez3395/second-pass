@@ -9,7 +9,24 @@ Three layers, each a script:
 |---|---|---|
 | 01 baseline | `audit.mjs` | axe violations per site, the number everyone publishes |
 | 01b scan audit | `diagnose.mjs` | proof the scan actually looked (nodes tested, screenshots) plus the **incomplete** list: findings axe raised and could not resolve |
-| 02 review | `review.mjs` | a local page that serves those findings one at a time for a human decision; writes `decisions.jsonl` and `review-log.md` |
+| 03 measurement + model | `propose.mjs` | cuts each element out of the real screenshot, computes the contrast ratio from pixels, and asks a local vision model for a verdict with a reason; writes `proposals.jsonl` |
+| 02 review | `review.mjs` | a local page that serves those findings one at a time for a human decision, blind to the model; writes `decisions.jsonl` and `review-log.md` |
+
+## What this shows
+
+Automated accessibility checkers report the failures they can express as rules
+and stay silent about the rest. On 34 Manitoba public-sector home pages, axe
+reported 558 failures and raised 862 findings it could not resolve — mostly
+text on backgrounds it could not see through. The six sites that scored zero
+failures carry 153 of those open questions between them.
+
+A model can propose answers to those questions. It cannot be trusted to give
+them. So the pipeline here puts the model *before* the person and hides its
+answer until the person has decided. What comes out is a corpus of human
+decisions with reasons, plus a measured record of how often the model agreed,
+raised false alarms, missed real failures, and was confidently wrong — per rule.
+That last table is the thing you need before AI-assisted findings can go in
+front of a client.
 
 ## Phase 01 — baseline
 
@@ -49,6 +66,27 @@ reasoning, the WCAG criterion and the element's on-page box, and screenshots eac
 page (viewport and full page) into `diagnostics/screens/`. Verdict per site says
 whether a zero means clean or means nothing loaded. Report: `scan-audit.md`.
 
+## Phase 03 — measurement and model
+
+```
+node propose.mjs                     every review item without a proposal
+node propose.mjs --site umanitoba.ca
+node propose.mjs --measure-only      pixels only, no model
+node propose.mjs --model gemma3:12b  default qwen3-vl:8b via Ollama at 127.0.0.1:11434
+```
+
+For each finding: crop the element from the full-page screenshot with the
+element boxed (`diagnostics/crops/`); for contrast rules, compute the ratio from
+the pixels inside the element (dominant colour = background, most-contrasting
+colour with real coverage = text) against the 3:1 / 4.5:1 threshold for its font
+size; then send the crop, markup, axe's reason, computed styles and the
+measurement to a local vision model and take back `{verdict, confidence,
+reason}` as JSON. Appends to `proposals.jsonl`. Resumable. About five seconds a
+finding on a mid-range GPU.
+
+The measurement is evidence and is shown to the reviewer. The model's verdict is
+not shown until the reviewer has decided.
+
 ## Phase 02 — review
 
 ```
@@ -62,9 +100,10 @@ the last reason, **U** reopen. Filters by kind (axe could not decide / axe
 reported a failure), site and rule.
 
 Every decision appends to `decisions.jsonl` (the corpus — commit it). `review-log.md`
-is regenerated on each one: totals, rejection rate per rule, and every decision
-with its reason. The rejection rate is the finding: how often the tool's flag did
-not survive a person looking at it.
+is regenerated on each one: totals, rejection rate per rule, model-vs-person
+agreement with false alarms and misses per rule, every disagreement side by side,
+and every decision with its reason. After each decision the page reveals what the
+model said; on a disagreement it stays put so you can see why before moving on.
 
 ## urls.txt
 

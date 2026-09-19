@@ -5,3 +5,5 @@ summary.csv
 diagnostics/screens/
 diagnose-full.log
 review-server.log
+diagnostics/crops/
+propose.log

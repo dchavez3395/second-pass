@@ -19,7 +19,7 @@
     "width": 1366,
     "height": 900
   },
-  "scannedAt": "2026-09-18T04:56:24.000Z",
+  "scannedAt": "2026-09-19T06:25:26.827Z",
   "axe": {
     "violationRules": 5,
     "violationNodes": 26,
@@ -80,7 +80,12 @@
             "x": 900.59375,
             "y": 133.21875,
             "w": 232.109375,
-            "h": 46
+            "h": 46,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgba(14, 33, 33, 0.8)",
+            "background": "rgb(255, 255, 255)",
+            "text": "Search"
           }
         },
         {
@@ -94,7 +99,12 @@
             "x": 224.046875,
             "y": 214.21875,
             "w": 136.296875,
-            "h": 51.796875
+            "h": 51.796875,
+            "fontSize": 18,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Locations"
           }
         },
         {
@@ -108,7 +118,12 @@
             "x": 361.34375,
             "y": 214.21875,
             "w": 199.953125,
-            "h": 51.796875
+            "h": 51.796875,
+            "fontSize": 18,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Programs & Services"
           }
         },
         {
@@ -122,7 +137,12 @@
             "x": 562.296875,
             "y": 214.21875,
             "w": 152.6875,
-            "h": 51.796875
+            "h": 51.796875,
+            "fontSize": 18,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Patient Info"
           }
         },
         {
@@ -136,7 +156,12 @@
             "x": 715.984375,
             "y": 214.21875,
             "w": 131.5,
-            "h": 51.796875
+            "h": 51.796875,
+            "fontSize": 18,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "About Us"
           }
         },
         {
@@ -150,7 +175,12 @@
             "x": 848.484375,
             "y": 214.21875,
             "w": 118.8125,
-            "h": 51.796875
+            "h": 51.796875,
+            "fontSize": 18,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Careers"
           }
         },
         {
@@ -164,7 +194,12 @@
             "x": 968.296875,
             "y": 214.21875,
             "w": 173.640625,
-            "h": 51.796875
+            "h": 51.796875,
+            "fontSize": 18,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "News / Events"
           }
         },
         {
@@ -178,7 +213,12 @@
             "x": 149,
             "y": 857.015625,
             "w": 360.828125,
-            "h": 22
+            "h": 22,
+            "fontSize": 18,
+            "fontWeight": "600",
+            "color": "rgb(51, 68, 221)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "World Patient Safety Day – Safe Care for Life"
           }
         },
         {
@@ -192,7 +232,12 @@
             "x": 149,
             "y": 890.8125,
             "w": 113.5,
-            "h": 15
+            "h": 15,
+            "fontSize": 13,
+            "fontWeight": "400",
+            "color": "rgba(51, 51, 51, 0.6)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "September 15, 2026"
           }
         },
         {
@@ -206,7 +251,12 @@
             "x": 149,
             "y": 918.3125,
             "w": 561,
-            "h": 96
+            "h": 96,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "World Patient Safety Day brings together governments, partners and communities t"
           }
         },
         {
@@ -220,7 +270,12 @@
             "x": 549.390625,
             "y": 986.3125,
             "w": 77.796875,
-            "h": 34
+            "h": 34,
+            "fontSize": 12,
+            "fontWeight": "600",
+            "color": "rgb(77, 178, 179)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Read More"
           }
         },
         {
@@ -234,7 +289,12 @@
             "x": 149,
             "y": 1053.3125,
             "w": 292.734375,
-            "h": 22
+            "h": 22,
+            "fontSize": 18,
+            "fontWeight": "600",
+            "color": "rgb(51, 68, 221)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Dynacare Labour Disruption Update"
           }
         },
         {
@@ -248,7 +308,12 @@
             "x": 149,
             "y": 1087.109375,
             "w": 108.265625,
-            "h": 15
+            "h": 15,
+            "fontSize": 13,
+            "fontWeight": "400",
+            "color": "rgba(51, 51, 51, 0.6)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "September 4, 2026"
           }
         },
         {
@@ -262,7 +327,12 @@
             "x": 149,
             "y": 1114.609375,
             "w": 561,
-            "h": 120
+            "h": 120,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Manitoba’s Health System Response September 4, 2026 — Shared Health, Manitoba Re"
           }
         },
         {
@@ -276,7 +346,12 @@
             "x": 149,
             "y": 1206.609375,
             "w": 77.796875,
-            "h": 34
+            "h": 34,
+            "fontSize": 12,
+            "fontWeight": "600",
+            "color": "rgb(77, 178, 179)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Read More"
           }
         },
         {
@@ -290,7 +365,12 @@
             "x": 149,
             "y": 1273.609375,
             "w": 401.875,
-            "h": 22
+            "h": 22,
+            "fontSize": 18,
+            "fontWeight": "600",
+            "color": "rgb(51, 68, 221)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Recruitment underway for Chief Executive Officer"
           }
         },
         {
@@ -304,7 +384,12 @@
             "x": 149,
             "y": 1307.40625,
             "w": 108.265625,
-            "h": 15
+            "h": 15,
+            "fontSize": 13,
+            "fontWeight": "400",
+            "color": "rgba(51, 51, 51, 0.6)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "September 4, 2026"
           }
         },
         {
@@ -318,7 +403,12 @@
             "x": 149,
             "y": 1334.90625,
             "w": 561,
-            "h": 120
+            "h": 120,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "An exciting opportunity is available for a visionary leader to join the Northern"
           }
         },
         {
@@ -332,7 +422,12 @@
             "x": 149,
             "y": 1402.90625,
             "w": 520.984375,
-            "h": 58
+            "h": 58,
+            "fontSize": 12,
+            "fontWeight": "600",
+            "color": "rgb(77, 178, 179)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Read More"
           }
         }
       ]
@@ -428,7 +523,7 @@
       "items": [
         {
           "target": "iframe abbr[data-utime=\"1789648519\"] > .timestampContent",
-          "html": "<span class=\"timestampContent\">16 hours ago</span>",
+          "html": "<span class=\"timestampContent\">on Thursday</span>",
           "impact": "serious",
           "messages": [
             "Element has insufficient color contrast of 3.04 (foreground color: #90949c, background color: #ffffff, font size: 8.3pt (11px), font weight: normal). Expected contrast ratio of 4.5:1"
@@ -480,7 +575,12 @@
             "x": 0,
             "y": 266.015625,
             "w": 1366,
-            "h": 281.734375
+            "h": 281.734375,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(51, 68, 221)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": ""
           }
         },
         {
@@ -498,12 +598,17 @@
             "x": 1366,
             "y": 266.015625,
             "w": 1366,
-            "h": 281.734375
+            "h": 281.734375,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(51, 68, 221)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": ""
           }
         },
         {
-          "target": "iframe #u_0_1_tV",
-          "html": "<a href=\"https://www.facebook.com/northernhealthregion?ref=embed_page\" target=\"_blank\" id=\"u_0_1_tV\"></a>",
+          "target": "iframe #u_0_1_S6",
+          "html": "<a href=\"https://www.facebook.com/northernhealthregion?ref=embed_page\" target=\"_blank\" id=\"u_0_1_S6\"></a>",
           "impact": "serious",
           "messages": [
             "Element does not have text that is visible to screen readers",
@@ -528,7 +633,7 @@
           "box": null
         },
         {
-          "target": "iframe #u_1_8_Xn > ._5pcr.userContentWrapper[data-ft=\"{\\\"tn\\\":\\\"-R\\\"}\"] > ._1dwg._1w_m._q7o > ._3x-2._2p_a[data-ft=\"{\\\"tn\\\":\\\"H\\\"}\"] > div[data-ft=\"{\\\"tn\\\":\\\"H\\\"}\"] > .mtm > ._2l7q > a",
+          "target": "iframe #u_1_6_IU > ._5pcr.userContentWrapper[data-ft=\"{\\\"tn\\\":\\\"-R\\\"}\"] > ._1dwg._1w_m._q7o > ._3x-2._2p_a[data-ft=\"{\\\"tn\\\":\\\"H\\\"}\"] > div[data-ft=\"{\\\"tn\\\":\\\"H\\\"}\"] > .mtm > ._2l7q > a",
           "html": "<a href=\"https://www.facebook.com/photo.php?fbid=1703236241809011&set=a.492687362863911&type=3&ref=embed_page\" target=\"_blank\">",
           "impact": "serious",
           "messages": [
@@ -541,8 +646,8 @@
           "box": null
         },
         {
-          "target": "iframe #u_1_8_Xn > ._5pcr.userContentWrapper[data-ft=\"{\\\"tn\\\":\\\"-R\\\"}\"] > ._1dwg._1w_m._q7o > div:nth-child(2) > .l_c3pyo2v0u._5eit._4d-l > ._302 > span > a",
-          "html": "<a href=\"/northernhealthregion/posts/pfbid0rvfrgDSknHmdLVGnaT1hyAJ1dFdKo5v1qDuNMRvo4m4rdfyYNxpqdpQHuhi5gYD2l?ref=embed_page\" target=\"_blank\"><i class=\"img sp_JtTaN8Jb8oq sx_53fd32\"></i></a>",
+          "target": "iframe #u_1_6_IU > ._5pcr.userContentWrapper[data-ft=\"{\\\"tn\\\":\\\"-R\\\"}\"] > ._1dwg._1w_m._q7o > div:nth-child(2) > .l_c3pyo2v0u._5eit._4d-l > ._302 > span > a",
+          "html": "<a href=\"/northernhealthregion/posts/pfbid02vn7ZrtNadkLERzeY9CocLF9WYarmTqP6FqNCAWPMUSh399e7Bmr7TJJhV3jrAw4Xl?ref=embed_page\" target=\"_blank\"><i class=\"img sp_JtTaN8Jb8oq sx_53fd32\"></i></a>",
           "impact": "serious",
           "messages": [
             "Element does not have text that is visible to screen readers",
@@ -554,7 +659,7 @@
           "box": null
         },
         {
-          "target": "iframe #u_1_9_or > ._5pcr.userContentWrapper[data-ft=\"{\\\"tn\\\":\\\"-R\\\"}\"] > ._1dwg._1w_m._q7o > ._3x-2._2p_a[data-ft=\"{\\\"tn\\\":\\\"H\\\"}\"] > div[data-ft=\"{\\\"tn\\\":\\\"H\\\"}\"] > .mtm > ._2l7q > a",
+          "target": "iframe #u_1_8_as > ._5pcr.userContentWrapper[data-ft=\"{\\\"tn\\\":\\\"-R\\\"}\"] > ._1dwg._1w_m._q7o > ._3x-2._2p_a[data-ft=\"{\\\"tn\\\":\\\"H\\\"}\"] > div[data-ft=\"{\\\"tn\\\":\\\"H\\\"}\"] > .mtm > ._2l7q > a",
           "html": "<a href=\"https://www.facebook.com/photo.php?fbid=1702588021873833&set=a.492687362863911&type=3&ref=embed_page\" target=\"_blank\">",
           "impact": "serious",
           "messages": [
@@ -567,8 +672,8 @@
           "box": null
         },
         {
-          "target": "iframe #u_1_9_or > ._5pcr.userContentWrapper[data-ft=\"{\\\"tn\\\":\\\"-R\\\"}\"] > ._1dwg._1w_m._q7o > div:nth-child(2) > .l_c3pyo2v0u._5eit._4d-l > ._302 > span > a",
-          "html": "<a href=\"/northernhealthregion/posts/pfbid06utH469wz3r1r9ETBtTvWJdbDG4kLj2tETA2TFxdUQFB32yq4ZF9Ch2t9zQ77WB1l?ref=embed_page\" target=\"_blank\"><i class=\"img sp_JtTaN8Jb8oq sx_53fd32\"></i></a>",
+          "target": "iframe #u_1_8_as > ._5pcr.userContentWrapper[data-ft=\"{\\\"tn\\\":\\\"-R\\\"}\"] > ._1dwg._1w_m._q7o > div:nth-child(2) > .l_c3pyo2v0u._5eit._4d-l > ._302 > span > a",
+          "html": "<a href=\"/northernhealthregion/posts/pfbid02AmKzEm5mqHt29aK4aoGrDnyNzmbbKpZwEMjk3tSa6fpeLYQa8oj7P8pA9WouME34l?ref=embed_page\" target=\"_blank\"><i class=\"img sp_JtTaN8Jb8oq sx_53fd32\"></i></a>",
           "impact": "serious",
           "messages": [
             "Element does not have text that is visible to screen readers",
@@ -580,7 +685,7 @@
           "box": null
         },
         {
-          "target": "iframe #u_1_7_1U > ._5pcr.userContentWrapper[data-ft=\"{\\\"tn\\\":\\\"-R\\\"}\"] > ._1dwg._1w_m._q7o > ._3x-2._2p_a[data-ft=\"{\\\"tn\\\":\\\"H\\\"}\"] > div[data-ft=\"{\\\"tn\\\":\\\"H\\\"}\"] > .mtm > ._2l7q > a",
+          "target": "iframe #u_1_5_U3 > ._5pcr.userContentWrapper[data-ft=\"{\\\"tn\\\":\\\"-R\\\"}\"] > ._1dwg._1w_m._q7o > ._3x-2._2p_a[data-ft=\"{\\\"tn\\\":\\\"H\\\"}\"] > div[data-ft=\"{\\\"tn\\\":\\\"H\\\"}\"] > .mtm > ._2l7q > a",
           "html": "<a href=\"https://www.facebook.com/photo.php?fbid=1702280081904627&set=a.492687362863911&type=3&ref=embed_page\" target=\"_blank\">",
           "impact": "serious",
           "messages": [
@@ -593,8 +698,8 @@
           "box": null
         },
         {
-          "target": "iframe #u_1_7_1U > ._5pcr.userContentWrapper[data-ft=\"{\\\"tn\\\":\\\"-R\\\"}\"] > ._1dwg._1w_m._q7o > div:nth-child(2) > .l_c3pyo2v0u._5eit._4d-l > ._302 > span > a",
-          "html": "<a href=\"/northernhealthregion/posts/pfbid0hNks6HRr6HRJMb6jiYrQx63hiBdwtBmwyyY4eYWKczbLLaK58Fx88dJWRjYLHhgml?ref=embed_page\" target=\"_blank\"><i class=\"img sp_JtTaN8Jb8oq sx_53fd32\"></i></a>",
+          "target": "iframe #u_1_5_U3 > ._5pcr.userContentWrapper[data-ft=\"{\\\"tn\\\":\\\"-R\\\"}\"] > ._1dwg._1w_m._q7o > div:nth-child(2) > .l_c3pyo2v0u._5eit._4d-l > ._302 > span > a",
+          "html": "<a href=\"/northernhealthregion/posts/pfbid02kkF3iJnU7yhJN114txArg9tutdv6393knnms69v7vDqMGMiYVGmuTa6epZhHzd6Bl?ref=embed_page\" target=\"_blank\"><i class=\"img sp_JtTaN8Jb8oq sx_53fd32\"></i></a>",
           "impact": "serious",
           "messages": [
             "Element does not have text that is visible to screen readers",
@@ -606,7 +711,7 @@
           "box": null
         },
         {
-          "target": "iframe #u_1_6_94 > ._5pcr.userContentWrapper[data-ft=\"{\\\"tn\\\":\\\"-R\\\"}\"] > ._1dwg._1w_m._q7o > ._3x-2._2p_a[data-ft=\"{\\\"tn\\\":\\\"H\\\"}\"] > div[data-ft=\"{\\\"tn\\\":\\\"H\\\"}\"] > .mtm > ._2l7q > a",
+          "target": "iframe #u_1_7_Y\\/ > ._5pcr.userContentWrapper[data-ft=\"{\\\"tn\\\":\\\"-R\\\"}\"] > ._1dwg._1w_m._q7o > ._3x-2._2p_a[data-ft=\"{\\\"tn\\\":\\\"H\\\"}\"] > div[data-ft=\"{\\\"tn\\\":\\\"H\\\"}\"] > .mtm > ._2l7q > a",
           "html": "<a href=\"https://www.facebook.com/photo.php?fbid=1697774572355178&set=a.492687362863911&type=3&ref=embed_page\" target=\"_blank\">",
           "impact": "serious",
           "messages": [
@@ -619,8 +724,8 @@
           "box": null
         },
         {
-          "target": "iframe #u_1_6_94 > ._5pcr.userContentWrapper[data-ft=\"{\\\"tn\\\":\\\"-R\\\"}\"] > ._1dwg._1w_m._q7o > div:nth-child(2) > .l_c3pyo2v0u._5eit._4d-l > ._302 > span > a",
-          "html": "<a href=\"/northernhealthregion/posts/pfbid02vVx7CtfwEdq8UQiCUTv7LonrJ9buhv9GHcd2RV2eNypg3CKoknJmPzyt26yHJyRql?ref=embed_page\" target=\"_blank\"><i class=\"img sp_JtTaN8Jb8oq sx_53fd32\"></i></a>",
+          "target": "iframe #u_1_7_Y\\/ > ._5pcr.userContentWrapper[data-ft=\"{\\\"tn\\\":\\\"-R\\\"}\"] > ._1dwg._1w_m._q7o > div:nth-child(2) > .l_c3pyo2v0u._5eit._4d-l > ._302 > span > a",
+          "html": "<a href=\"/northernhealthregion/posts/pfbid0rxJvHj3aPKnSPm4Lw6qbNicxsvWkrjqhVyMjMmRxBHxd8D7NFSBuJQxMnojMreZyl?ref=embed_page\" target=\"_blank\"><i class=\"img sp_JtTaN8Jb8oq sx_53fd32\"></i></a>",
           "impact": "serious",
           "messages": [
             "Element does not have text that is visible to screen readers",
@@ -632,7 +737,7 @@
           "box": null
         },
         {
-          "target": "iframe #u_1_5_jK > ._5pcr.userContentWrapper[data-ft=\"{\\\"tn\\\":\\\"-R\\\"}\"] > ._1dwg._1w_m._q7o > ._3x-2._2p_a[data-ft=\"{\\\"tn\\\":\\\"H\\\"}\"] > div[data-ft=\"{\\\"tn\\\":\\\"H\\\"}\"] > .mtm > ._2l7q > a",
+          "target": "iframe #u_1_9_7n > ._5pcr.userContentWrapper[data-ft=\"{\\\"tn\\\":\\\"-R\\\"}\"] > ._1dwg._1w_m._q7o > ._3x-2._2p_a[data-ft=\"{\\\"tn\\\":\\\"H\\\"}\"] > div[data-ft=\"{\\\"tn\\\":\\\"H\\\"}\"] > .mtm > ._2l7q > a",
           "html": "<a href=\"https://www.facebook.com/photo.php?fbid=1697713685694600&set=a.492687362863911&type=3&ref=embed_page\" target=\"_blank\">",
           "impact": "serious",
           "messages": [
@@ -645,8 +750,8 @@
           "box": null
         },
         {
-          "target": "iframe #u_1_5_jK > ._5pcr.userContentWrapper[data-ft=\"{\\\"tn\\\":\\\"-R\\\"}\"] > ._1dwg._1w_m._q7o > div:nth-child(2) > .l_c3pyo2v0u._5eit._4d-l > ._302 > span > a",
-          "html": "<a href=\"/northernhealthregion/posts/pfbid02EWDf42M5jmErpTsGesufkkhquAGsSUsMdMHSd6cxMrML94y4J19bM3QfNanmWQYxl?ref=embed_page\" target=\"_blank\"><i class=\"img sp_JtTaN8Jb8oq sx_53fd32\"></i></a>",
+          "target": "iframe #u_1_9_7n > ._5pcr.userContentWrapper[data-ft=\"{\\\"tn\\\":\\\"-R\\\"}\"] > ._1dwg._1w_m._q7o > div:nth-child(2) > .l_c3pyo2v0u._5eit._4d-l > ._302 > span > a",
+          "html": "<a href=\"/northernhealthregion/posts/pfbid0AxaU8riitTCdDYnFKSQjq8Ugs4fmuUiEd7fSqf6avHd5P5mmYzmhaSxdAmCLtbukl?ref=embed_page\" target=\"_blank\"><i class=\"img sp_JtTaN8Jb8oq sx_53fd32\"></i></a>",
           "impact": "serious",
           "messages": [
             "Element does not have text that is visible to screen readers",
@@ -687,7 +792,12 @@
             "x": 224.046875,
             "y": 214.21875,
             "w": 136.296875,
-            "h": 51.796875
+            "h": 51.796875,
+            "fontSize": 18,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Locations"
           }
         },
         {
@@ -702,7 +812,12 @@
             "x": 361.34375,
             "y": 214.21875,
             "w": 199.953125,
-            "h": 51.796875
+            "h": 51.796875,
+            "fontSize": 18,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Programs & Services"
           }
         },
         {
@@ -717,7 +832,12 @@
             "x": 562.296875,
             "y": 214.21875,
             "w": 152.6875,
-            "h": 51.796875
+            "h": 51.796875,
+            "fontSize": 18,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Patient Info"
           }
         },
         {
@@ -732,7 +852,12 @@
             "x": 715.984375,
             "y": 214.21875,
             "w": 131.5,
-            "h": 51.796875
+            "h": 51.796875,
+            "fontSize": 18,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "About Us"
           }
         },
         {
@@ -747,7 +872,12 @@
             "x": 848.484375,
             "y": 214.21875,
             "w": 118.8125,
-            "h": 51.796875
+            "h": 51.796875,
+            "fontSize": 18,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Careers"
           }
         },
         {
@@ -762,7 +892,12 @@
             "x": 968.296875,
             "y": 214.21875,
             "w": 173.640625,
-            "h": 51.796875
+            "h": 51.796875,
+            "fontSize": 18,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "News / Events"
           }
         },
         {
@@ -777,7 +912,12 @@
             "x": 431.859375,
             "y": 1904.734375,
             "w": 146.359375,
-            "h": 15
+            "h": 15,
+            "fontSize": 12.96,
+            "fontWeight": "700",
+            "color": "rgb(223, 233, 162)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Health Links – Info Santé"
           }
         },
         {
@@ -792,7 +932,12 @@
             "x": 431.859375,
             "y": 1924.171875,
             "w": 165.671875,
-            "h": 15
+            "h": 15,
+            "fontSize": 12.96,
+            "fontWeight": "700",
+            "color": "rgb(223, 233, 162)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Northern Health Foundation"
           }
         },
         {
@@ -807,7 +952,12 @@
             "x": 431.859375,
             "y": 1943.609375,
             "w": 83.765625,
-            "h": 15
+            "h": 15,
+            "fontSize": 12.96,
+            "fontWeight": "700",
+            "color": "rgb(223, 233, 162)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Shared Health"
           }
         }
       ]

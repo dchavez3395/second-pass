@@ -132,7 +132,19 @@ async function diagnose(browser, url) {
             const el = document.querySelector(sel);
             if (!el) continue;
             const b = el.getBoundingClientRect();
-            out[sel] = { x: b.x, y: b.y, w: b.width, h: b.height };
+            const cs = getComputedStyle(el);
+            out[sel] = {
+              x: b.x,
+              y: b.y,
+              w: b.width,
+              h: b.height,
+              // What the contrast threshold depends on, and what axe saw before it gave up.
+              fontSize: parseFloat(cs.fontSize),
+              fontWeight: cs.fontWeight,
+              color: cs.color,
+              background: cs.backgroundColor,
+              text: (el.innerText || el.value || el.getAttribute('aria-label') || '').replace(/\s+/g, ' ').trim().slice(0, 80),
+            };
           } catch {}
         }
         return out;

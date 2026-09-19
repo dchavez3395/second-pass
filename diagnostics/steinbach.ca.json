@@ -5,13 +5,13 @@
   "title": "City of Steinbach",
   "finalUrl": "https://www.steinbach.ca/",
   "shape": {
-    "elements": 531,
+    "elements": 521,
     "images": 42,
     "links": 89,
     "buttons": 2,
     "inputs": 2,
     "headings": 14,
-    "textLength": 3489,
+    "textLength": 3475,
     "lang": "en",
     "iframes": 1
   },
@@ -19,16 +19,16 @@
     "width": 1366,
     "height": 900
   },
-  "scannedAt": "2026-09-18T04:50:59.975Z",
+  "scannedAt": "2026-09-19T06:19:55.359Z",
   "axe": {
     "violationRules": 6,
     "violationNodes": 69,
     "passRules": 31,
-    "passNodes": 352,
+    "passNodes": 351,
     "incompleteRules": 1,
-    "incompleteNodes": 37,
+    "incompleteNodes": 36,
     "inapplicableRules": 32,
-    "testedNodes": 458
+    "testedNodes": 456
   },
   "incomplete": [
     {
@@ -53,12 +53,8 @@
         "1.4.3"
       ],
       "why": "Element's background color could not be determined due to a background image",
-      "nodes": 37,
+      "nodes": 36,
       "sample": [
-        {
-          "target": ".nav-utility > .garbage-day > .label",
-          "html": "<span class=\"label\">Garbage Day</span>"
-        },
         {
           "target": ".nav-utility > form > .search-bar-container > input",
           "html": "<input placeholder=\"Enter a search term\" type=\"text\" name=\"q\" value=\"\" style=\"\">"
@@ -66,23 +62,13 @@
         {
           "target": ".nav-utility > ul > li:nth-child(1) > a[href$=\"myaccount.steinbach.ca\"][target=\"_blank\"]",
           "html": "<a target=\"_blank\" href=\"https://myaccount.steinbach.ca\">My Utility Account</a>"
+        },
+        {
+          "target": ".nav-utility > ul > li:nth-child(2) > a[target=\"_blank\"]",
+          "html": "<a target=\"_blank\" href=\"https://steinbach.perfectmind.com/SocialSite/MemberRegistration/MemberSignIn\">My Recreation Account</a>"
         }
       ],
       "items": [
-        {
-          "target": ".nav-utility > .garbage-day > .label",
-          "html": "<span class=\"label\">Garbage Day</span>",
-          "impact": "serious",
-          "messages": [
-            "Element's background color could not be determined due to a background image"
-          ],
-          "box": {
-            "x": 482.625,
-            "y": 20,
-            "w": 86.296875,
-            "h": 18
-          }
-        },
         {
           "target": ".nav-utility > form > .search-bar-container > input",
           "html": "<input placeholder=\"Enter a search term\" type=\"text\" name=\"q\" value=\"\" style=\"\">",
@@ -94,7 +80,12 @@
             "x": 1223,
             "y": 19,
             "w": 30,
-            "h": 21.421875
+            "h": 21.421875,
+            "fontSize": 15,
+            "fontWeight": "400",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": ""
           }
         },
         {
@@ -108,7 +99,12 @@
             "x": 635.921875,
             "y": 20,
             "w": 122.21875,
-            "h": 18
+            "h": 18,
+            "fontSize": 15,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "My Utility Account"
           }
         },
         {
@@ -122,7 +118,12 @@
             "x": 773.140625,
             "y": 20,
             "w": 154.84375,
-            "h": 18
+            "h": 18,
+            "fontSize": 15,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "My Recreation Account"
           }
         },
         {
@@ -136,7 +137,12 @@
             "x": 942.984375,
             "y": 20,
             "w": 51.796875,
-            "h": 18
+            "h": 18,
+            "fontSize": 15,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Careers"
           }
         },
         {
@@ -150,7 +156,12 @@
             "x": 1009.78125,
             "y": 20,
             "w": 51.609375,
-            "h": 18
+            "h": 18,
+            "fontSize": 15,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Contact"
           }
         },
         {
@@ -164,7 +175,12 @@
             "x": 1076.390625,
             "y": 20,
             "w": 50.296875,
-            "h": 18
+            "h": 18,
+            "fontSize": 15,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Notices"
           }
         },
         {
@@ -178,7 +194,12 @@
             "x": 1141.6875,
             "y": 20,
             "w": 81.3125,
-            "h": 18
+            "h": 18,
+            "fontSize": 15,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Accessibility"
           }
         },
         {
@@ -192,7 +213,12 @@
             "x": 440.921875,
             "y": 54.703125,
             "w": 78.03125,
-            "h": 21
+            "h": 21,
+            "fontSize": 18,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Residents"
           }
         },
         {
@@ -206,7 +232,12 @@
             "x": 543.953125,
             "y": 54.703125,
             "w": 172.765625,
-            "h": 21
+            "h": 21,
+            "fontSize": 18,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Experience Steinbach"
           }
         },
         {
@@ -220,7 +251,12 @@
             "x": 741.71875,
             "y": 54.703125,
             "w": 193.421875,
-            "h": 21
+            "h": 21,
+            "fontSize": 18,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Departments & Services"
           }
         },
         {
@@ -234,7 +270,12 @@
             "x": 960.140625,
             "y": 54.703125,
             "w": 66.578125,
-            "h": 21
+            "h": 21,
+            "fontSize": 18,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "City Hall"
           }
         },
         {
@@ -248,7 +289,12 @@
             "x": 1051.71875,
             "y": 54.703125,
             "w": 201.28125,
-            "h": 21
+            "h": 21,
+            "fontSize": 18,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Business & Development"
           }
         },
         {
@@ -262,7 +308,12 @@
             "x": 405.5,
             "y": 155,
             "w": 555,
-            "h": 47.296875
+            "h": 47.296875,
+            "fontSize": 43,
+            "fontWeight": "600",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Strong Roots, Real Growth"
           }
         },
         {
@@ -276,7 +327,12 @@
             "x": 405.5,
             "y": 220.296875,
             "w": 555,
-            "h": 31.421875
+            "h": 31.421875,
+            "fontSize": 22,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Committed to Community Growth and Progress"
           }
         },
         {
@@ -290,7 +346,12 @@
             "x": 470.5,
             "y": 475.71875,
             "w": 460,
-            "h": 25.703125
+            "h": 25.703125,
+            "fontSize": 18,
+            "fontWeight": "700",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "2026 Municipal Elections on October 28"
           }
         },
         {
@@ -304,7 +365,12 @@
             "x": 470.5,
             "y": 516.421875,
             "w": 460,
-            "h": 60
+            "h": 60,
+            "fontSize": 14,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "The next general Municipal Elections is Wednesday, October 28, 2026. Find info a"
           }
         },
         {
@@ -318,7 +384,12 @@
             "x": 470.5,
             "y": 518.421875,
             "w": 429.09375,
-            "h": 36
+            "h": 36,
+            "fontSize": 14,
+            "fontWeight": "700",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "The next general Municipal Elections is Wednesday, October 28, 2026."
           }
         },
         {
@@ -332,7 +403,12 @@
             "x": 116,
             "y": 1292.203125,
             "w": 36,
-            "h": 12.84375
+            "h": 12.84375,
+            "fontSize": 9,
+            "fontWeight": "700",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "SEP"
           }
         },
         {
@@ -346,7 +422,12 @@
             "x": 408.5,
             "y": 1292.203125,
             "w": 36,
-            "h": 12.84375
+            "h": 12.84375,
+            "fontSize": 9,
+            "fontWeight": "700",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "SEP"
           }
         },
         {
@@ -360,7 +441,12 @@
             "x": 701,
             "y": 1292.203125,
             "w": 36,
-            "h": 12.84375
+            "h": 12.84375,
+            "fontSize": 9,
+            "fontWeight": "700",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "SEP"
           }
         },
         {
@@ -374,7 +460,12 @@
             "x": 993.5,
             "y": 1292.203125,
             "w": 36,
-            "h": 12.84375
+            "h": 12.84375,
+            "fontSize": 9,
+            "fontWeight": "700",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "SEP"
           }
         },
         {
@@ -388,7 +479,12 @@
             "x": 724.25,
             "y": 4430.3359375,
             "w": 210,
-            "h": 25.703125
+            "h": 25.703125,
+            "fontSize": 18,
+            "fontWeight": "700",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Aquatic Centre"
           }
         },
         {
@@ -402,7 +498,12 @@
             "x": 1016.75,
             "y": 4430.3359375,
             "w": 210,
-            "h": 25.703125
+            "h": 25.703125,
+            "fontSize": 18,
+            "fontWeight": "700",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Emergency Services"
           }
         },
         {
@@ -416,7 +517,12 @@
             "x": 724.25,
             "y": 4570.8515625,
             "w": 210,
-            "h": 25.703125
+            "h": 25.703125,
+            "fontSize": 18,
+            "fontWeight": "700",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Public Works"
           }
         },
         {
@@ -430,7 +536,12 @@
             "x": 1016.75,
             "y": 4570.8515625,
             "w": 210,
-            "h": 25.703125
+            "h": 25.703125,
+            "fontSize": 18,
+            "fontWeight": "700",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Administration"
           }
         },
         {
@@ -444,7 +555,12 @@
             "x": 724.25,
             "y": 4711.3671875,
             "w": 210,
-            "h": 25.703125
+            "h": 25.703125,
+            "fontSize": 18,
+            "fontWeight": "700",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Engineering"
           }
         },
         {
@@ -458,7 +574,12 @@
             "x": 1016.75,
             "y": 4656.109375,
             "w": 210,
-            "h": 51.40625
+            "h": 51.40625,
+            "fontSize": 18,
+            "fontWeight": "700",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Planning & Zoning Building Inspection"
           }
         },
         {
@@ -472,7 +593,12 @@
             "x": 1016.75,
             "y": 4767.0703125,
             "w": 210,
-            "h": 25.703125
+            "h": 25.703125,
+            "fontSize": 18,
+            "fontWeight": "700",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Water & Wastewater"
           }
         },
         {
@@ -486,7 +612,12 @@
             "x": 1016.75,
             "y": 4907.5859375,
             "w": 210,
-            "h": 25.703125
+            "h": 25.703125,
+            "fontSize": 18,
+            "fontWeight": "700",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Parks & Recreation"
           }
         },
         {
@@ -545,7 +676,12 @@
             "x": 203,
             "y": 5351.78125,
             "w": 180,
-            "h": 80
+            "h": 80,
+            "fontSize": 28,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Moving to Steinbach"
           }
         },
         {
@@ -559,7 +695,12 @@
             "x": 615.5703125,
             "y": 5371.78125,
             "w": 134.859375,
-            "h": 40
+            "h": 40,
+            "fontSize": 28,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Recreation"
           }
         }
       ]
@@ -608,7 +749,12 @@
             "x": 1227.0625,
             "y": 15,
             "w": 25.9375,
-            "h": 23.421875
+            "h": 23.421875,
+            "fontSize": 15,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": ""
           }
         }
       ]
@@ -647,7 +793,12 @@
             "x": 470.5,
             "y": 606.421875,
             "w": 168.375,
-            "h": 45.703125
+            "h": 45.703125,
+            "fontSize": 18,
+            "fontWeight": "700",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(0, 152, 170)",
+            "text": "Election 2026"
           }
         },
         {
@@ -661,7 +812,12 @@
             "x": 173,
             "y": 871.90625,
             "w": 183.8125,
-            "h": 45.703125
+            "h": 45.703125,
+            "fontSize": 18,
+            "fontWeight": "700",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(0, 152, 170)",
+            "text": "Aquatic Centre"
           }
         },
         {
@@ -675,7 +831,12 @@
             "x": 379.5,
             "y": 871.90625,
             "w": 217.703125,
-            "h": 45.703125
+            "h": 45.703125,
+            "fontSize": 18,
+            "fontWeight": "700",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(0, 152, 170)",
+            "text": "Community Events"
           }
         },
         {
@@ -689,7 +850,12 @@
             "x": 619.890625,
             "y": 871.90625,
             "w": 174.75,
-            "h": 45.703125
+            "h": 45.703125,
+            "fontSize": 18,
+            "fontWeight": "700",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(0, 152, 170)",
+            "text": "Permit & Fees"
           }
         },
         {
@@ -703,7 +869,12 @@
             "x": 817.328125,
             "y": 871.90625,
             "w": 182.53125,
-            "h": 45.703125
+            "h": 45.703125,
+            "fontSize": 18,
+            "fontWeight": "700",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(0, 152, 170)",
+            "text": "Property Taxes"
           }
         },
         {
@@ -717,7 +888,12 @@
             "x": 1022.546875,
             "y": 871.90625,
             "w": 147.765625,
-            "h": 45.703125
+            "h": 45.703125,
+            "fontSize": 18,
+            "fontWeight": "700",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(0, 152, 170)",
+            "text": "Water Bills"
           }
         },
         {
@@ -731,7 +907,12 @@
             "x": 168.125,
             "y": 935.609375,
             "w": 186.46875,
-            "h": 45.703125
+            "h": 45.703125,
+            "fontSize": 18,
+            "fontWeight": "700",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(0, 152, 170)",
+            "text": "Parking Tickets"
           }
         },
         {
@@ -745,7 +926,12 @@
             "x": 377.28125,
             "y": 935.609375,
             "w": 221.328125,
-            "h": 45.703125
+            "h": 45.703125,
+            "fontSize": 18,
+            "fontWeight": "700",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(0, 152, 170)",
+            "text": "Council & Meetings"
           }
         },
         {
@@ -759,7 +945,12 @@
             "x": 621.296875,
             "y": 935.609375,
             "w": 303.625,
-            "h": 45.703125
+            "h": 45.703125,
+            "fontSize": 18,
+            "fontWeight": "700",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(0, 152, 170)",
+            "text": "Waste & Recycling Collection"
           }
         },
         {
@@ -773,7 +964,12 @@
             "x": 947.609375,
             "y": 935.609375,
             "w": 227.5625,
-            "h": 45.703125
+            "h": 45.703125,
+            "fontSize": 18,
+            "fontWeight": "700",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(0, 152, 170)",
+            "text": "Sump Pumps – FAQs"
           }
         },
         {
@@ -787,7 +983,12 @@
             "x": 238.0625,
             "y": 999.3125,
             "w": 306.3125,
-            "h": 45.703125
+            "h": 45.703125,
+            "fontSize": 18,
+            "fontWeight": "700",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(0, 152, 170)",
+            "text": "Public Notice Feedback Form"
           }
         },
         {
@@ -801,7 +1002,12 @@
             "x": 567.0625,
             "y": 999.3125,
             "w": 351.796875,
-            "h": 45.703125
+            "h": 45.703125,
+            "fontSize": 18,
+            "fontWeight": "700",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(0, 152, 170)",
+            "text": "Property & Development Info Map"
           }
         },
         {
@@ -815,7 +1021,12 @@
             "x": 941.546875,
             "y": 999.3125,
             "w": 168.375,
-            "h": 45.703125
+            "h": 45.703125,
+            "fontSize": 18,
+            "fontWeight": "700",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(0, 152, 170)",
+            "text": "Election 2026"
           }
         },
         {
@@ -829,7 +1040,12 @@
             "x": 123.0859375,
             "y": 1297.3515625,
             "w": 19.828125,
-            "h": 25.703125
+            "h": 25.703125,
+            "fontSize": 18,
+            "fontWeight": "700",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "16"
           }
         },
         {
@@ -843,7 +1059,12 @@
             "x": 415.5859375,
             "y": 1297.3515625,
             "w": 19.828125,
-            "h": 25.703125
+            "h": 25.703125,
+            "fontSize": 18,
+            "fontWeight": "700",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "14"
           }
         },
         {
@@ -857,7 +1078,12 @@
             "x": 708.0859375,
             "y": 1297.3515625,
             "w": 19.828125,
-            "h": 25.703125
+            "h": 25.703125,
+            "fontSize": 18,
+            "fontWeight": "700",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "11"
           }
         },
         {
@@ -871,7 +1097,12 @@
             "x": 1000.5859375,
             "y": 1297.3515625,
             "w": 19.828125,
-            "h": 25.703125
+            "h": 25.703125,
+            "fontSize": 18,
+            "fontWeight": "700",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "10"
           }
         },
         {
@@ -885,7 +1116,12 @@
             "x": 580.1875,
             "y": 1682.203125,
             "w": 185.609375,
-            "h": 55.703125
+            "h": 55.703125,
+            "fontSize": 18,
+            "fontWeight": "700",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(0, 152, 170)",
+            "text": "View More"
           }
         },
         {
@@ -899,7 +1135,12 @@
             "x": 113,
             "y": 1865.90625,
             "w": 591.40625,
-            "h": 38
+            "h": 38,
+            "fontSize": 32,
+            "fontWeight": "500",
+            "color": "rgb(0, 152, 170)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Fall 2026 Swimming Lesson Registration ›"
           }
         },
         {
@@ -913,7 +1154,12 @@
             "x": 113,
             "y": 1962.796875,
             "w": 386,
-            "h": 21
+            "h": 21,
+            "fontSize": 18,
+            "fontWeight": "400",
+            "color": "rgb(0, 152, 170)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "viewing online on our new registration software"
           }
         },
         {
@@ -927,7 +1173,12 @@
             "x": 113,
             "y": 2018.5,
             "w": 276.578125,
-            "h": 21
+            "h": 21,
+            "fontSize": 18,
+            "fontWeight": "400",
+            "color": "rgb(0, 152, 170)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Click here to create a new account"
           }
         },
         {
@@ -941,7 +1192,12 @@
             "x": 245.640625,
             "y": 2207.015625,
             "w": 303.390625,
-            "h": 21
+            "h": 21,
+            "fontSize": 18,
+            "fontWeight": "400",
+            "color": "rgb(0, 152, 170)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "online on Steinbach.PerfectMind.com"
           }
         },
         {
@@ -955,7 +1211,12 @@
             "x": 245.640625,
             "y": 2288.421875,
             "w": 303.390625,
-            "h": 21
+            "h": 21,
+            "fontSize": 18,
+            "fontWeight": "400",
+            "color": "rgb(0, 152, 170)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "online on Steinbach.PerfectMind.com"
           }
         },
         {
@@ -969,7 +1230,12 @@
             "x": 245.640625,
             "y": 2476.9375,
             "w": 303.390625,
-            "h": 21
+            "h": 21,
+            "fontSize": 18,
+            "fontWeight": "400",
+            "color": "rgb(0, 152, 170)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "online on Steinbach.PerfectMind.com"
           }
         },
         {
@@ -983,7 +1249,12 @@
             "x": 113,
             "y": 2530.640625,
             "w": 326.859375,
-            "h": 45.703125
+            "h": 45.703125,
+            "fontSize": 18,
+            "fontWeight": "700",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(0, 152, 170)",
+            "text": "Course and Lesson Registration"
           }
         },
         {
@@ -997,7 +1268,12 @@
             "x": 113,
             "y": 2902.9375,
             "w": 208.15625,
-            "h": 45.703125
+            "h": 45.703125,
+            "fontSize": 18,
+            "fontWeight": "700",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(0, 152, 170)",
+            "text": "Youth Rec Hockey"
           }
         },
         {
@@ -1011,7 +1287,12 @@
             "x": 113,
             "y": 3124.640625,
             "w": 432.171875,
-            "h": 38
+            "h": 38,
+            "fontSize": 32,
+            "fontWeight": "500",
+            "color": "rgb(0, 152, 170)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Community Compost Depots ›"
           }
         },
         {
@@ -1025,7 +1306,12 @@
             "x": 113,
             "y": 3412.34375,
             "w": 157.765625,
-            "h": 45.703125
+            "h": 45.703125,
+            "fontSize": 18,
+            "fontWeight": "700",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(0, 152, 170)",
+            "text": "Composting"
           }
         },
         {
@@ -1039,7 +1325,12 @@
             "x": 113,
             "y": 3925.640625,
             "w": 258.71875,
-            "h": 45.703125
+            "h": 45.703125,
+            "fontSize": 18,
+            "fontWeight": "700",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(0, 152, 170)",
+            "text": "Steinbach 2026 Election"
           }
         },
         {
@@ -1053,7 +1344,12 @@
             "x": 113,
             "y": 3989.34375,
             "w": 306.625,
-            "h": 45.703125
+            "h": 45.703125,
+            "fontSize": 18,
+            "fontWeight": "700",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(0, 152, 170)",
+            "text": "Voters List Registration Form"
           }
         },
         {
@@ -1067,7 +1363,12 @@
             "x": 113,
             "y": 4053.046875,
             "w": 276.578125,
-            "h": 45.703125
+            "h": 45.703125,
+            "fontSize": 18,
+            "fontWeight": "700",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(0, 152, 170)",
+            "text": "Election Worker Positions"
           }
         },
         {
@@ -1081,7 +1382,12 @@
             "x": 724.25,
             "y": 4865.1796875,
             "w": 210,
-            "h": 25.703125
+            "h": 25.703125,
+            "fontSize": 18,
+            "fontWeight": "700",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Waste & Recycling"
           }
         },
         {
@@ -1095,7 +1401,12 @@
             "x": 724.25,
             "y": 5005.6953125,
             "w": 210,
-            "h": 25.703125
+            "h": 25.703125,
+            "fontSize": 18,
+            "fontWeight": "700",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Capital Projects"
           }
         },
         {
@@ -1109,7 +1420,12 @@
             "x": 113,
             "y": 4425.34375,
             "w": 135.109375,
-            "h": 45.703125
+            "h": 45.703125,
+            "fontSize": 18,
+            "fontWeight": "700",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(0, 152, 170)",
+            "text": "Directory"
           }
         },
         {
@@ -1123,7 +1439,12 @@
             "x": 270.796875,
             "y": 4425.34375,
             "w": 161.515625,
-            "h": 45.703125
+            "h": 45.703125,
+            "fontSize": 18,
+            "fontWeight": "700",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(0, 152, 170)",
+            "text": "Accessibility"
           }
         },
         {
@@ -1146,7 +1467,12 @@
             "x": 1012.3046875,
             "y": 5371.78125,
             "w": 121.390625,
-            "h": 40
+            "h": 40,
+            "fontSize": 28,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Residents"
           }
         },
         {
@@ -1160,7 +1486,12 @@
             "x": 333,
             "y": 5489.640625,
             "w": 365.3125,
-            "h": 17.140625
+            "h": 17.140625,
+            "fontSize": 12,
+            "fontWeight": "400",
+            "color": "rgb(154, 160, 164)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "©2026 City of Steinbach 225 Reimer Avenue, Steinbach, MB R5G 2J1"
           }
         },
         {
@@ -1174,7 +1505,12 @@
             "x": 333,
             "y": 5506.78125,
             "w": 365.3125,
-            "h": 12.84375
+            "h": 12.84375,
+            "fontSize": 9,
+            "fontWeight": "400",
+            "color": "rgb(154, 160, 164)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Site by Metric Marketing"
           }
         },
         {
@@ -1188,7 +1524,12 @@
             "x": 362.21875,
             "y": 5507.78125,
             "w": 68.953125,
-            "h": 10
+            "h": 10,
+            "fontSize": 9,
+            "fontWeight": "400",
+            "color": "rgb(154, 160, 164)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Metric Marketing"
           }
         }
       ]
@@ -1231,7 +1572,12 @@
             "x": 183,
             "y": 4636.234375,
             "w": 415,
-            "h": 631
+            "h": 631,
+            "fontSize": 18,
+            "fontWeight": "400",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": ""
           }
         }
       ]
@@ -1277,7 +1623,12 @@
             "x": 412.5,
             "y": 462.71875,
             "w": 26,
-            "h": 26
+            "h": 26,
+            "fontSize": 18,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": ""
           }
         },
         {
@@ -1295,7 +1646,12 @@
             "x": 113,
             "y": 1628.203125,
             "w": 1,
-            "h": 1
+            "h": 1,
+            "fontSize": 18,
+            "fontWeight": "400",
+            "color": "rgb(54, 66, 74)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": ""
           }
         },
         {
@@ -1313,7 +1669,12 @@
             "x": 405.5,
             "y": 1628.203125,
             "w": 1,
-            "h": 1
+            "h": 1,
+            "fontSize": 18,
+            "fontWeight": "400",
+            "color": "rgb(54, 66, 74)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": ""
           }
         },
         {
@@ -1331,7 +1692,12 @@
             "x": 698,
             "y": 1628.203125,
             "w": 1,
-            "h": 1
+            "h": 1,
+            "fontSize": 18,
+            "fontWeight": "400",
+            "color": "rgb(54, 66, 74)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": ""
           }
         },
         {
@@ -1349,7 +1715,12 @@
             "x": 990.5,
             "y": 1628.203125,
             "w": 1,
-            "h": 1
+            "h": 1,
+            "fontSize": 18,
+            "fontWeight": "400",
+            "color": "rgb(54, 66, 74)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": ""
           }
         },
         {
@@ -1367,7 +1738,12 @@
             "x": 710.5,
             "y": 4394.609375,
             "w": 15,
-            "h": 15
+            "h": 15,
+            "fontSize": 18,
+            "fontWeight": "400",
+            "color": "rgb(0, 152, 170)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": ""
           }
         },
         {
@@ -1385,7 +1761,12 @@
             "x": 1003,
             "y": 4394.609375,
             "w": 15,
-            "h": 15
+            "h": 15,
+            "fontSize": 18,
+            "fontWeight": "400",
+            "color": "rgb(0, 152, 170)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": ""
           }
         },
         {
@@ -1403,7 +1784,12 @@
             "x": 710.5,
             "y": 4535.125,
             "w": 15,
-            "h": 15
+            "h": 15,
+            "fontSize": 18,
+            "fontWeight": "400",
+            "color": "rgb(0, 152, 170)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": ""
           }
         },
         {
@@ -1421,7 +1807,12 @@
             "x": 1003,
             "y": 4535.125,
             "w": 15,
-            "h": 15
+            "h": 15,
+            "fontSize": 18,
+            "fontWeight": "400",
+            "color": "rgb(0, 152, 170)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": ""
           }
         },
         {
@@ -1439,7 +1830,12 @@
             "x": 710.5,
             "y": 4675.640625,
             "w": 15,
-            "h": 15
+            "h": 15,
+            "fontSize": 18,
+            "fontWeight": "400",
+            "color": "rgb(0, 152, 170)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": ""
           }
         },
         {
@@ -1457,7 +1853,12 @@
             "x": 1003,
             "y": 4675.640625,
             "w": 15,
-            "h": 15
+            "h": 15,
+            "fontSize": 18,
+            "fontWeight": "400",
+            "color": "rgb(0, 152, 170)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": ""
           }
         },
         {
@@ -1475,7 +1876,12 @@
             "x": 1003,
             "y": 4731.34375,
             "w": 15,
-            "h": 15
+            "h": 15,
+            "fontSize": 18,
+            "fontWeight": "400",
+            "color": "rgb(0, 152, 170)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": ""
           }
         },
         {
@@ -1493,7 +1899,12 @@
             "x": 710.5,
             "y": 4871.859375,
             "w": 15,
-            "h": 15
+            "h": 15,
+            "fontSize": 18,
+            "fontWeight": "400",
+            "color": "rgb(0, 152, 170)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": ""
           }
         },
         {
@@ -1511,7 +1922,12 @@
             "x": 1003,
             "y": 4871.859375,
             "w": 15,
-            "h": 15
+            "h": 15,
+            "fontSize": 18,
+            "fontWeight": "400",
+            "color": "rgb(0, 152, 170)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": ""
           }
         },
         {
@@ -1529,7 +1945,12 @@
             "x": 710.5,
             "y": 5012.375,
             "w": 15,
-            "h": 15
+            "h": 15,
+            "fontSize": 18,
+            "fontWeight": "400",
+            "color": "rgb(0, 152, 170)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": ""
           }
         },
         {
@@ -1547,7 +1968,12 @@
             "x": 113,
             "y": 4592.90625,
             "w": 15,
-            "h": 15
+            "h": 15,
+            "fontSize": 18,
+            "fontWeight": "400",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": ""
           }
         }
       ]
@@ -1595,7 +2021,12 @@
             "x": 113,
             "y": 37.828125,
             "w": 169,
-            "h": 21
+            "h": 21,
+            "fontSize": 18,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": ""
           }
         },
         {
@@ -1613,7 +2044,12 @@
             "x": 698,
             "y": 1937.09375,
             "w": 1,
-            "h": 21
+            "h": 21,
+            "fontSize": 18,
+            "fontWeight": "400",
+            "color": "rgb(0, 152, 170)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": ""
           }
         },
         {
@@ -1631,7 +2067,12 @@
             "x": 698,
             "y": 2823.53125,
             "w": 1,
-            "h": 21
+            "h": 21,
+            "fontSize": 18,
+            "fontWeight": "400",
+            "color": "rgb(0, 152, 170)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": ""
           }
         },
         {
@@ -1649,7 +2090,12 @@
             "x": 698,
             "y": 3195.828125,
             "w": 1,
-            "h": 21
+            "h": 21,
+            "fontSize": 18,
+            "fontWeight": "400",
+            "color": "rgb(0, 152, 170)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": ""
           }
         },
         {
@@ -1667,7 +2113,12 @@
             "x": 698,
             "y": 3705.234375,
             "w": 1,
-            "h": 21
+            "h": 21,
+            "fontSize": 18,
+            "fontWeight": "400",
+            "color": "rgb(0, 152, 170)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": ""
           }
         },
         {
@@ -1685,7 +2136,12 @@
             "x": 113,
             "y": 5489.640625,
             "w": 40,
-            "h": 40
+            "h": 40,
+            "fontSize": 20,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(154, 160, 164)",
+            "text": ""
           }
         },
         {
@@ -1703,7 +2159,12 @@
             "x": 168,
             "y": 5489.640625,
             "w": 40,
-            "h": 40
+            "h": 40,
+            "fontSize": 20,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(154, 160, 164)",
+            "text": ""
           }
         },
         {
@@ -1721,7 +2182,12 @@
             "x": 223,
             "y": 5489.640625,
             "w": 40,
-            "h": 40
+            "h": 40,
+            "fontSize": 20,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(154, 160, 164)",
+            "text": ""
           }
         },
         {
@@ -1739,7 +2205,12 @@
             "x": 278,
             "y": 5489.640625,
             "w": 40,
-            "h": 40
+            "h": 40,
+            "fontSize": 20,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(154, 160, 164)",
+            "text": ""
           }
         }
       ]
@@ -1772,7 +2243,12 @@
             "x": 1223,
             "y": 19,
             "w": 30,
-            "h": 21.421875
+            "h": 21.421875,
+            "fontSize": 15,
+            "fontWeight": "400",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": ""
           }
         },
         {
@@ -1787,7 +2263,12 @@
             "x": 1227.0625,
             "y": 15,
             "w": 25.9375,
-            "h": 23.421875
+            "h": 23.421875,
+            "fontSize": 15,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": ""
           }
         }
       ]

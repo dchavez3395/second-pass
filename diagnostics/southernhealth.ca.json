@@ -19,16 +19,16 @@
     "width": 1366,
     "height": 900
   },
-  "scannedAt": "2026-09-18T04:56:00.277Z",
+  "scannedAt": "2026-09-19T06:25:01.562Z",
   "axe": {
-    "violationRules": 4,
-    "violationNodes": 26,
+    "violationRules": 5,
+    "violationNodes": 27,
     "passRules": 35,
-    "passNodes": 411,
+    "passNodes": 528,
     "incompleteRules": 1,
-    "incompleteNodes": 14,
+    "incompleteNodes": 17,
     "inapplicableRules": 26,
-    "testedNodes": 451
+    "testedNodes": 572
   },
   "incomplete": [
     {
@@ -53,7 +53,7 @@
         "1.4.3"
       ],
       "why": "Element's background color could not be determined due to a background image",
-      "nodes": 14,
+      "nodes": 17,
       "sample": [
         {
           "target": ".swp-input--search",
@@ -80,7 +80,12 @@
             "x": 861.59375,
             "y": 95.203125,
             "w": 218.765625,
-            "h": 42
+            "h": 42,
+            "fontSize": 14,
+            "fontWeight": "400",
+            "color": "rgba(14, 33, 33, 0.8)",
+            "background": "rgb(255, 255, 255)",
+            "text": "Search"
           }
         },
         {
@@ -94,7 +99,12 @@
             "x": 1006.703125,
             "y": 431.0625,
             "w": 305.215576171875,
-            "h": 122.9266357421875
+            "h": 122.9266357421875,
+            "fontSize": 24,
+            "fontWeight": "700",
+            "color": "rgb(51, 102, 153)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Access kindergarten clinics or For more info access your local public health off"
           }
         },
         {
@@ -108,7 +118,12 @@
             "x": 196,
             "y": 949.203125,
             "w": 232.6875,
-            "h": 22
+            "h": 22,
+            "fontSize": 18,
+            "fontWeight": "600",
+            "color": "rgb(51, 68, 221)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Get an A+ for a packed lunch"
           }
         },
         {
@@ -122,7 +137,12 @@
             "x": 196,
             "y": 986,
             "w": 114.234375,
-            "h": 15
+            "h": 15,
+            "fontSize": 13,
+            "fontWeight": "400",
+            "color": "rgba(51, 51, 51, 0.6)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "September 10, 2026"
           }
         },
         {
@@ -136,7 +156,12 @@
             "x": 196,
             "y": 1017,
             "w": 452,
-            "h": 64
+            "h": 64,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Sports/hydration drinks are being heavily marketed to kids but can be harmful to"
           }
         },
         {
@@ -150,7 +175,12 @@
             "x": 462.921875,
             "y": 1055,
             "w": 77.0625,
-            "h": 19
+            "h": 19,
+            "fontSize": 16,
+            "fontWeight": "600",
+            "color": "rgb(51, 68, 221)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Read More"
           }
         },
         {
@@ -164,7 +194,12 @@
             "x": 196,
             "y": 1104,
             "w": 449.34375,
-            "h": 41.796875
+            "h": 41.796875,
+            "fontSize": 18,
+            "fontWeight": "600",
+            "color": "rgb(51, 68, 221)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Dynacare Labour Disruption Update: Manitoba’s Health System Response"
           }
         },
         {
@@ -178,7 +213,12 @@
             "x": 196,
             "y": 1160.59375,
             "w": 108.265625,
-            "h": 15
+            "h": 15,
+            "fontSize": 13,
+            "fontWeight": "400",
+            "color": "rgba(51, 51, 51, 0.6)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "September 4, 2026"
           }
         },
         {
@@ -192,7 +232,12 @@
             "x": 196,
             "y": 1191.59375,
             "w": 452,
-            "h": 160
+            "h": 160,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Shared Health, Manitoba Regional Health Authorities, CancerCare Manitoba (CCMB) "
           }
         },
         {
@@ -206,7 +251,12 @@
             "x": 196,
             "y": 1293.59375,
             "w": 444.828125,
-            "h": 51
+            "h": 51,
+            "fontSize": 16,
+            "fontWeight": "600",
+            "color": "rgb(51, 68, 221)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Read More"
           }
         },
         {
@@ -220,7 +270,12 @@
             "x": 196,
             "y": 1374.59375,
             "w": 445.65625,
-            "h": 22
+            "h": 22,
+            "fontSize": 18,
+            "fontWeight": "600",
+            "color": "rgb(51, 68, 221)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Canadian Breast Cancer Network | Upcoming Webinars"
           }
         },
         {
@@ -234,7 +289,12 @@
             "x": 196,
             "y": 1411.390625,
             "w": 108.265625,
-            "h": 15
+            "h": 15,
+            "fontSize": 13,
+            "fontWeight": "400",
+            "color": "rgba(51, 51, 51, 0.6)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "September 4, 2026"
           }
         },
         {
@@ -248,7 +308,12 @@
             "x": 196,
             "y": 1442.390625,
             "w": 452,
-            "h": 128
+            "h": 128,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Experts Answer Your Questions About Navigating Work and Cancer Managing work dur"
           }
         },
         {
@@ -262,8 +327,40 @@
             "x": 328.421875,
             "y": 1544.390625,
             "w": 77.0625,
-            "h": 19
+            "h": 19,
+            "fontSize": 16,
+            "fontWeight": "600",
+            "color": "rgb(51, 68, 221)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Read More"
           }
+        },
+        {
+          "target": "iframe #u_1_k_yD > ._2165._2pi4[title=\"Like\"]",
+          "html": "<div class=\"_2pi4 _36iq _4lk2 _3xre _2165\" title=\"Like\"><i class=\"_3-8_ _2yf7 _5jp _2166 img sp_JtTaN8Jb8oq sx_c9745f\"></i><i class=\"_3-8_ _2yf7 _3wdt _2166 img sp_JtTaN8Jb8oq sx_58ea8a\"></i>5</div>",
+          "impact": "serious",
+          "messages": [
+            "Element content is too short to determine if it is actual text content"
+          ],
+          "box": null
+        },
+        {
+          "target": "iframe #u_1_j_Hk > table > tbody > tr > ._435r:nth-child(2) > ._29bd[target=\"_blank\"] > ._1p4p._2pi4[title=\"Comment\"]",
+          "html": "<div class=\"_2pi4 _36iq _4lk2 _3xre _1p4p\" title=\"Comment\"><i class=\"_3-8_ _2yf7 _5jp _4mlr img sp_JtTaN8Jb8oq sx_dc3b79\"></i><i class=\"_3-8_ _2yf7 _3wdt _4mlr img sp_JtTaN8Jb8oq sx_21181b\"></i>Comment</div>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it is overlapped by another element"
+          ],
+          "box": null
+        },
+        {
+          "target": "iframe #u_1_l_8Z > ._50sk._2pi4[title=\"Share\"]",
+          "html": "<div class=\"_2pi4 _36iq _4lk2 _3xre _50sk\" title=\"Share\"><i class=\"_3-8_ _2yf7 _5jp _2167 img sp_JtTaN8Jb8oq sx_242da6\"></i><i class=\"_3-8_ _2yf7 _3wdt _2167 img sp_JtTaN8Jb8oq sx_a40aa4\"></i>Share</div>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because it is overlapped by another element"
+          ],
+          "box": null
         }
       ]
     }
@@ -327,7 +424,7 @@
           "html": "<div role=\"feed\">",
           "impact": "critical",
           "messages": [
-            "Element has children which are not allowed: table, a, img, [role=button]"
+            "Element has children which are not allowed: table, a[aria-label], a, img, [role=button]"
           ],
           "box": null
         }
@@ -354,7 +451,7 @@
       "wcag": [
         "1.4.3"
       ],
-      "nodes": 7,
+      "nodes": 8,
       "items": [
         {
           "target": ".search-submit",
@@ -367,7 +464,12 @@
             "x": 1087.359375,
             "y": 95.203125,
             "w": 82.625,
-            "h": 42
+            "h": 42,
+            "fontSize": 14,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(113, 178, 201)",
+            "text": "Search"
           }
         },
         {
@@ -381,7 +483,12 @@
             "x": 256.21875,
             "y": 222.203125,
             "w": 50.328125,
-            "h": 18
+            "h": 18,
+            "fontSize": 15.2,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Find Us"
           }
         },
         {
@@ -395,7 +502,12 @@
             "x": 391.5,
             "y": 222.203125,
             "w": 93.046875,
-            "h": 18
+            "h": 18,
+            "fontSize": 15.2,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Health Topics"
           }
         },
         {
@@ -409,7 +521,12 @@
             "x": 528.90625,
             "y": 203.203125,
             "w": 151.546875,
-            "h": 18
+            "h": 18,
+            "fontSize": 15.2,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Info | Patient & Public"
           }
         },
         {
@@ -423,7 +540,12 @@
             "x": 725.625,
             "y": 222.203125,
             "w": 51.359375,
-            "h": 18
+            "h": 18,
+            "fontSize": 15.2,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Careers"
           }
         },
         {
@@ -437,7 +559,12 @@
             "x": 876.90625,
             "y": 222.203125,
             "w": 62.0625,
-            "h": 18
+            "h": 18,
+            "fontSize": 15.2,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "About Us"
           }
         },
         {
@@ -451,8 +578,22 @@
             "x": 1027.828125,
             "y": 222.203125,
             "w": 73.515625,
-            "h": 18
+            "h": 18,
+            "fontSize": 15.2,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Contact Us"
           }
+        },
+        {
+          "target": "iframe abbr[data-utime=\"1789761656\"] > .timestampContent",
+          "html": "<span class=\"timestampContent\">10 hours ago</span>",
+          "impact": "serious",
+          "messages": [
+            "Element has insufficient color contrast of 3.04 (foreground color: #90949c, background color: #ffffff, font size: 8.3pt (11px), font weight: normal). Expected contrast ratio of 4.5:1"
+          ],
+          "box": null
         }
       ]
     },
@@ -482,7 +623,7 @@
         "2.4.4",
         "4.1.2"
       ],
-      "nodes": 17,
+      "nodes": 16,
       "items": [
         {
           "target": "#depicter-1-section-482 > .depicter-layers-container > .depicter-layers-wrapper > .depicter-layers-fold > .depicter-shape-layer.depicter-layer-frame.depicter-pos-absolute > a",
@@ -499,7 +640,12 @@
             "x": -1366,
             "y": 253.203125,
             "w": 1366,
-            "h": 355.7291259765625
+            "h": 355.7291259765625,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": ""
           }
         },
         {
@@ -517,7 +663,12 @@
             "x": 1002.4375,
             "y": 493.671875,
             "w": 315.176025390625,
-            "h": 74.703125
+            "h": 74.703125,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": ""
           }
         },
         {
@@ -535,12 +686,17 @@
             "x": 996.75,
             "y": 400.46875,
             "w": 315.176025390625,
-            "h": 74.703125
+            "h": 74.703125,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": ""
           }
         },
         {
-          "target": "iframe #u_0_1_cs",
-          "html": "<a href=\"https://www.facebook.com/southernhealthsantesud?ref=embed_page\" target=\"_blank\" id=\"u_0_1_cs\"></a>",
+          "target": "iframe #u_0_1_HH",
+          "html": "<a href=\"https://www.facebook.com/southernhealthsantesud?ref=embed_page\" target=\"_blank\" id=\"u_0_1_HH\"></a>",
           "impact": "serious",
           "messages": [
             "Element does not have text that is visible to screen readers",
@@ -553,7 +709,7 @@
         },
         {
           "target": "iframe .lfloat._3-8_[target=\"_blank\"]",
-          "html": "<a class=\"_3-8_ lfloat\" href=\"https://www.facebook.com/106961021200818?ref=embed_page\" target=\"_blank\">",
+          "html": "<a class=\"_3-8_ lfloat\" href=\"https://www.facebook.com/106961021200818?ref=embed_page\" target=\"_blank\"></a>",
           "impact": "serious",
           "messages": [
             "Element does not have text that is visible to screen readers",
@@ -565,7 +721,20 @@
           "box": null
         },
         {
-          "target": "iframe #u_1_c_vg > ._5pcr.userContentWrapper[data-ft=\"{\\\"tn\\\":\\\"-R\\\"}\"] > ._1dwg._1w_m._q7o > ._2p_a._3x-2[data-ft=\"{\\\"tn\\\":\\\"H\\\"}\"] > div[data-ft=\"{\\\"tn\\\":\\\"H\\\"}\"] > .mtm > ._2l7q > a[target=\"_blank\"]",
+          "target": "iframe #u_1_b_2h > ._5pcr.userContentWrapper[data-ft=\"{\\\"tn\\\":\\\"-R\\\"}\"] > ._1dwg._1w_m._q7o > div:nth-child(3) > .l_c3pyo2v0u._5eit._4d-l > ._302 > span > a[target=\"_blank\"]",
+          "html": "<a href=\"/southernhealthsantesud/posts/pfbid0ePzEN8ib69KHhR9iU8Ryd8y37wL9ySQNyD8mEPYRVSAsWRkbgfYPs9R45rfmsmyjl?ref=embed_page\" target=\"_blank\"><i class=\"img sp_JtTaN8Jb8oq sx_53fd32\"></i></a>",
+          "impact": "serious",
+          "messages": [
+            "Element does not have text that is visible to screen readers",
+            "aria-label attribute does not exist or is empty",
+            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
+            "Element has no title attribute",
+            "Element is in tab order and does not have accessible text"
+          ],
+          "box": null
+        },
+        {
+          "target": "iframe #u_1_c_fi > ._5pcr.userContentWrapper[data-ft=\"{\\\"tn\\\":\\\"-R\\\"}\"] > ._1dwg._1w_m._q7o > ._2p_a._3x-2[data-ft=\"{\\\"tn\\\":\\\"H\\\"}\"] > div[data-ft=\"{\\\"tn\\\":\\\"H\\\"}\"] > .mtm > ._2l7q > a[target=\"_blank\"]",
           "html": "<a href=\"https://www.facebook.com/photo.php?fbid=1943515430102591&set=a.764353114685501&type=3&ref=embed_page\" target=\"_blank\">",
           "impact": "serious",
           "messages": [
@@ -578,8 +747,8 @@
           "box": null
         },
         {
-          "target": "iframe #u_1_c_vg > ._5pcr.userContentWrapper[data-ft=\"{\\\"tn\\\":\\\"-R\\\"}\"] > ._1dwg._1w_m._q7o > div:nth-child(2) > .l_c3pyo2v0u._5eit._4d-l > ._302 > span > a[target=\"_blank\"]",
-          "html": "<a href=\"/southernhealthsantesud/posts/pfbid0mbiUA6wSGLR2bZRdWF1XtLCnDykQ2jB2K3etSd6UunqMU7hCBvsV9FndSyRJghSul?ref=embed_page\" target=\"_blank\"><i class=\"img sp_JtTaN8Jb8oq sx_53fd32\"></i></a>",
+          "target": "iframe #u_1_c_fi > ._5pcr.userContentWrapper[data-ft=\"{\\\"tn\\\":\\\"-R\\\"}\"] > ._1dwg._1w_m._q7o > div:nth-child(2) > .l_c3pyo2v0u._5eit._4d-l > ._302 > span > a[target=\"_blank\"]",
+          "html": "<a href=\"/southernhealthsantesud/posts/pfbid02qTABLmsG7i1m9Lsgs6ibfosCJEHe7R8RuS36yazh5wJwCvmhtHgN7c1FRdjmzjM3l?ref=embed_page\" target=\"_blank\"><i class=\"img sp_JtTaN8Jb8oq sx_53fd32\"></i></a>",
           "impact": "serious",
           "messages": [
             "Element does not have text that is visible to screen readers",
@@ -591,8 +760,8 @@
           "box": null
         },
         {
-          "target": "iframe #u_1_5_gH > ._5pcr.userContentWrapper[data-ft=\"{\\\"tn\\\":\\\"-R\\\"}\"] > ._1dwg._1w_m._q7o > div:nth-child(3) > .l_c3pyo2v0u._5eit._4d-l > ._302 > span > a[target=\"_blank\"]",
-          "html": "<a href=\"/southernhealthsantesud/posts/pfbid02HX4fVG3ADdkHoc6UgbzFDfLYEhbdM4dwUd6TURkHL1XsS6Z6zGGchMVw7dQ2Lc8Zl?ref=embed_page\" target=\"_blank\"><i class=\"img sp_JtTaN8Jb8oq sx_53fd32\"></i></a>",
+          "target": "iframe #u_1_5_Kv > ._5pcr.userContentWrapper[data-ft=\"{\\\"tn\\\":\\\"-R\\\"}\"] > ._1dwg._1w_m._q7o > div:nth-child(3) > .l_c3pyo2v0u._5eit._4d-l > ._302 > span > a[target=\"_blank\"]",
+          "html": "<a href=\"/southernhealthsantesud/posts/pfbid0DyRUa6QoNGm59JWJ41Ts8hJxxQFgooLWZiP7KhPVSrMCQcGspUgbM2878sJ3WHQDl?ref=embed_page\" target=\"_blank\"><i class=\"img sp_JtTaN8Jb8oq sx_53fd32\"></i></a>",
           "impact": "serious",
           "messages": [
             "Element does not have text that is visible to screen readers",
@@ -604,7 +773,7 @@
           "box": null
         },
         {
-          "target": "iframe #u_1_b_TA > ._5pcr.userContentWrapper[data-ft=\"{\\\"tn\\\":\\\"-R\\\"}\"] > ._1dwg._1w_m._q7o > ._2p_a._3x-2[data-ft=\"{\\\"tn\\\":\\\"H\\\"}\"] > div[data-ft=\"{\\\"tn\\\":\\\"H\\\"}\"] > .mtm > ._2l7q > a[target=\"_blank\"]",
+          "target": "iframe #u_1_d_ZN > ._5pcr.userContentWrapper[data-ft=\"{\\\"tn\\\":\\\"-R\\\"}\"] > ._1dwg._1w_m._q7o > ._2p_a._3x-2[data-ft=\"{\\\"tn\\\":\\\"H\\\"}\"] > div[data-ft=\"{\\\"tn\\\":\\\"H\\\"}\"] > .mtm > ._2l7q > a[target=\"_blank\"]",
           "html": "<a href=\"https://www.facebook.com/photo.php?fbid=1939733213814146&set=a.764353114685501&type=3&ref=embed_page\" target=\"_blank\">",
           "impact": "serious",
           "messages": [
@@ -617,8 +786,8 @@
           "box": null
         },
         {
-          "target": "iframe #u_1_b_TA > ._5pcr.userContentWrapper[data-ft=\"{\\\"tn\\\":\\\"-R\\\"}\"] > ._1dwg._1w_m._q7o > div:nth-child(2) > .l_c3pyo2v0u._5eit._4d-l > ._302 > span > a[target=\"_blank\"]",
-          "html": "<a href=\"/southernhealthsantesud/posts/pfbid07mFL5hJ5cEQfAGDAaMRFkx7ocp5XijztNUfTDdUWfDWBEHDfuwN3o4Ry1WuX1Hutl?ref=embed_page\" target=\"_blank\"><i class=\"img sp_JtTaN8Jb8oq sx_53fd32\"></i></a>",
+          "target": "iframe #u_1_d_ZN > ._5pcr.userContentWrapper[data-ft=\"{\\\"tn\\\":\\\"-R\\\"}\"] > ._1dwg._1w_m._q7o > div:nth-child(2) > .l_c3pyo2v0u._5eit._4d-l > ._302 > span > a[target=\"_blank\"]",
+          "html": "<a href=\"/southernhealthsantesud/posts/pfbid02Bch3GNDuTSQusuQobyP9ymtPEjGsJzVW4p1usjp1NMecYRH8aV9jFSDL9zSo8jXfl?ref=embed_page\" target=\"_blank\"><i class=\"img sp_JtTaN8Jb8oq sx_53fd32\"></i></a>",
           "impact": "serious",
           "messages": [
             "Element does not have text that is visible to screen readers",
@@ -630,34 +799,8 @@
           "box": null
         },
         {
-          "target": "iframe #u_1_d_M6 > ._5pcr.userContentWrapper[data-ft=\"{\\\"tn\\\":\\\"-R\\\"}\"] > ._1dwg._1w_m._q7o > div:nth-child(3) > .l_c3pyo2v0u._5eit._4d-l > ._302 > span > a[target=\"_blank\"]",
-          "html": "<a href=\"/southernhealthsantesud/posts/pfbid029gXogzUGBburZF7uYc7aePiayGwwCHNdBGm2RTrAzLh1PpvVexyThiTaRg6ZkpFnl?ref=embed_page\" target=\"_blank\"><i class=\"img sp_JtTaN8Jb8oq sx_53fd32\"></i></a>",
-          "impact": "serious",
-          "messages": [
-            "Element does not have text that is visible to screen readers",
-            "aria-label attribute does not exist or is empty",
-            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
-            "Element has no title attribute",
-            "Element is in tab order and does not have accessible text"
-          ],
-          "box": null
-        },
-        {
-          "target": "iframe #u_1_a_\\+s > ._5pcr.userContentWrapper[data-ft=\"{\\\"tn\\\":\\\"-R\\\"}\"] > ._1dwg._1w_m._q7o > ._2p_a._3x-2[data-ft=\"{\\\"tn\\\":\\\"H\\\"}\"] > div[data-ft=\"{\\\"tn\\\":\\\"H\\\"}\"] > .mtm > ._2l7q > a[target=\"_blank\"]",
-          "html": "<a href=\"https://www.facebook.com/photo.php?fbid=1939714657149335&set=a.764353114685501&type=3&ref=embed_page\" target=\"_blank\">",
-          "impact": "serious",
-          "messages": [
-            "Element does not have text that is visible to screen readers",
-            "aria-label attribute does not exist or is empty",
-            "aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty",
-            "Element has no title attribute",
-            "Element is in tab order and does not have accessible text"
-          ],
-          "box": null
-        },
-        {
-          "target": "iframe #u_1_a_\\+s > ._5pcr.userContentWrapper[data-ft=\"{\\\"tn\\\":\\\"-R\\\"}\"] > ._1dwg._1w_m._q7o > div:nth-child(2) > .l_c3pyo2v0u._5eit._4d-l > ._302 > span > a[target=\"_blank\"]",
-          "html": "<a href=\"/southernhealthsantesud/posts/pfbid022dDFWA5rp9NedWu2Bf9iFki9Q8jQfXSgHhnGZeYSCQM2jwxA5ys1x65jm6qt8NZvl?ref=embed_page\" target=\"_blank\"><i class=\"img sp_JtTaN8Jb8oq sx_53fd32\"></i></a>",
+          "target": "iframe #u_1_a_bY > ._5pcr.userContentWrapper[data-ft=\"{\\\"tn\\\":\\\"-R\\\"}\"] > ._1dwg._1w_m._q7o > div:nth-child(3) > .l_c3pyo2v0u._5eit._4d-l > ._302 > span > a[target=\"_blank\"]",
+          "html": "<a href=\"/southernhealthsantesud/posts/pfbid068tcmpquLRySbJmbL8ZF23bpcV7irzvLk6QSLVsRYRtUzhfyLByho4qgEPi12YUil?ref=embed_page\" target=\"_blank\"><i class=\"img sp_JtTaN8Jb8oq sx_53fd32\"></i></a>",
           "impact": "serious",
           "messages": [
             "Element does not have text that is visible to screen readers",
@@ -683,7 +826,12 @@
             "x": 636.546875,
             "y": 1843.390625,
             "w": 60,
-            "h": 58
+            "h": 58,
+            "fontSize": 48,
+            "fontWeight": "600",
+            "color": "rgb(219, 233, 239)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": ""
           }
         },
         {
@@ -701,7 +849,12 @@
             "x": 696.546875,
             "y": 1843.390625,
             "w": 60,
-            "h": 58
+            "h": 58,
+            "fontSize": 48,
+            "fontWeight": "600",
+            "color": "rgb(219, 233, 239)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": ""
           }
         },
         {
@@ -719,7 +872,12 @@
             "x": 756.546875,
             "y": 1843.390625,
             "w": 60,
-            "h": 58
+            "h": 58,
+            "fontSize": 48,
+            "fontWeight": "600",
+            "color": "rgb(219, 233, 239)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": ""
           }
         },
         {
@@ -737,8 +895,41 @@
             "x": 636.546875,
             "y": 1939.390625,
             "w": 60,
-            "h": 58
+            "h": 58,
+            "fontSize": 48,
+            "fontWeight": "600",
+            "color": "rgb(219, 233, 239)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": ""
           }
+        }
+      ]
+    },
+    {
+      "id": "target-size",
+      "impact": "serious",
+      "help": "All touch targets must be 24px large, or leave sufficient space",
+      "description": "Ensure touch targets have sufficient size and space",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/target-size?application=playwright",
+      "tags": [
+        "cat.sensory-and-visual-cues",
+        "wcag22aa",
+        "wcag258"
+      ],
+      "wcag": [
+        "2.5.8"
+      ],
+      "nodes": 1,
+      "items": [
+        {
+          "target": "iframe #u_1_b_2h > ._5pcr.userContentWrapper[data-ft=\"{\\\"tn\\\":\\\"-R\\\"}\"] > ._1dwg._1w_m._q7o > div:nth-child(3) > .l_c3pyo2v0u._5eit._4d-l > ._3dp._29k > div > ._6a > ._6b._6a:nth-child(2) > ._39g5[target=\"_blank\"]",
+          "html": "<a href=\"/southernhealthsantesud/posts/pfbid0ePzEN8ib69KHhR9iU8Ryd8y37wL9ySQNyD8mEPYRVSAsWRkbgfYPs9R45rfmsmyjl?ref=embed_page\" target=\"_blank\" class=\"_39g5\">",
+          "impact": "serious",
+          "messages": [
+            "Target has insufficient size (64.2px by 12px, should be at least 24px by 24px)",
+            "Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 14px instead of at least 24px."
+          ],
+          "box": null
         }
       ]
     }

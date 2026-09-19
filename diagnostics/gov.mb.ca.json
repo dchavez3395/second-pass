@@ -11,7 +11,7 @@
     "buttons": 4,
     "inputs": 2,
     "headings": 19,
-    "textLength": 1788,
+    "textLength": 1688,
     "lang": "en",
     "iframes": 0
   },
@@ -19,7 +19,7 @@
     "width": 1366,
     "height": 900
   },
-  "scannedAt": "2026-09-18T04:54:12.724Z",
+  "scannedAt": "2026-09-19T06:23:10.505Z",
   "axe": {
     "violationRules": 3,
     "violationNodes": 6,
@@ -73,7 +73,12 @@
             "x": 172,
             "y": 151.609375,
             "w": 1024,
-            "h": 258
+            "h": 258,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "THE PORT OF CHURCHILL IS OPEN LEARN MORE"
           }
         },
         {
@@ -87,7 +92,12 @@
             "x": 967,
             "y": 791.609375,
             "w": 209,
-            "h": 289.265625
+            "h": 289.265625,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Flood Information LEARN MORE"
           }
         }
       ]
@@ -133,7 +143,12 @@
             "x": 879,
             "y": 280.796875,
             "w": 297,
-            "h": 54.8125
+            "h": 54.8125,
+            "fontSize": 22.4,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "THE PORT OF CHURCHILL IS OPEN"
           }
         }
       ]
@@ -176,7 +191,12 @@
             "x": -852,
             "y": 151.609375,
             "w": 8192,
-            "h": 258
+            "h": 258,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgb(248, 248, 248)",
+            "text": "REQUEST YOUR NEW PLASTIC HEALTH CARD APPLY TODAY! THE PORT OF CHURCHILL IS OPEN "
           }
         },
         {
@@ -192,7 +212,12 @@
             "x": 758,
             "y": 791.609375,
             "w": 1045,
-            "h": 289.265625
+            "h": 289.265625,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Follow us LEARN MORE Flood Information LEARN MORE Manitoba 511 LEARN MORE Follow"
           }
         }
       ]
@@ -228,7 +253,12 @@
             "x": 191,
             "y": 1030.5625,
             "w": 216,
-            "h": 22.40625
+            "h": 22.40625,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Premier Wab Kinew"
           }
         },
         {
@@ -242,7 +272,12 @@
             "x": 191,
             "y": 1075.375,
             "w": 216,
-            "h": 22.40625
+            "h": 22.40625,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Cabinet Ministers"
           }
         }
       ]
@@ -280,7 +315,12 @@
             "x": 172,
             "y": 151.609375,
             "w": 1024,
-            "h": 258
+            "h": 258,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "THE PORT OF CHURCHILL IS OPEN LEARN MORE"
           }
         },
         {
@@ -294,7 +334,12 @@
             "x": 967,
             "y": 791.609375,
             "w": 209,
-            "h": 289.265625
+            "h": 289.265625,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Flood Information LEARN MORE"
           }
         }
       ]

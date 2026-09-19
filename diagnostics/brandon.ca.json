@@ -19,7 +19,7 @@
     "width": 1366,
     "height": 900
   },
-  "scannedAt": "2026-09-18T04:50:47.544Z",
+  "scannedAt": "2026-09-19T06:19:42.858Z",
   "axe": {
     "violationRules": 2,
     "violationNodes": 8,
@@ -80,7 +80,12 @@
             "x": 360.5,
             "y": 366,
             "w": 645,
-            "h": 50
+            "h": 50,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(68, 71, 70)",
+            "background": "rgb(255, 255, 255)",
+            "text": "search"
           }
         },
         {
@@ -94,7 +99,12 @@
             "x": 375.5,
             "y": 516,
             "w": 99,
-            "h": 48
+            "h": 48,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Agendas and Minutes"
           }
         },
         {
@@ -108,7 +118,12 @@
             "x": 504.5,
             "y": 516,
             "w": 99,
-            "h": 24
+            "h": 24,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Budget"
           }
         },
         {
@@ -122,7 +137,12 @@
             "x": 633.5,
             "y": 516,
             "w": 99,
-            "h": 48
+            "h": 48,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Property Taxes"
           }
         },
         {
@@ -136,7 +156,12 @@
             "x": 762.5,
             "y": 516,
             "w": 99,
-            "h": 48
+            "h": 48,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Report an Issue"
           }
         },
         {
@@ -150,7 +175,12 @@
             "x": 891.5,
             "y": 516,
             "w": 99,
-            "h": 24
+            "h": 24,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Election 2026"
           }
         },
         {
@@ -164,7 +194,12 @@
             "x": 64.515625,
             "y": 1010.828125,
             "w": 224.453125,
-            "h": 59.796875
+            "h": 59.796875,
+            "fontSize": 24,
+            "fontWeight": "600",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Recreation Programs"
           }
         },
         {
@@ -178,7 +213,12 @@
             "x": 390.5,
             "y": 982.03125,
             "w": 247.5,
-            "h": 88.59375
+            "h": 88.59375,
+            "fontSize": 24,
+            "fontWeight": "600",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Garbage, Recycling and Organics"
           }
         },
         {
@@ -192,7 +232,12 @@
             "x": 728,
             "y": 982.03125,
             "w": 247.5,
-            "h": 88.59375
+            "h": 88.59375,
+            "fontSize": 24,
+            "fontWeight": "600",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Building and Renovating"
           }
         },
         {
@@ -206,7 +251,12 @@
             "x": 1075.53125,
             "y": 1010.828125,
             "w": 227.4375,
-            "h": 59.796875
+            "h": 59.796875,
+            "fontSize": 24,
+            "fontWeight": "600",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Police News Releases"
           }
         },
         {
@@ -220,7 +270,12 @@
             "x": 85.765625,
             "y": 1271.453125,
             "w": 181.96875,
-            "h": 59.796875
+            "h": 59.796875,
+            "fontSize": 24,
+            "fontWeight": "600",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "City Government"
           }
         },
         {
@@ -234,7 +289,12 @@
             "x": 420.9375,
             "y": 1271.453125,
             "w": 186.625,
-            "h": 59.796875
+            "h": 59.796875,
+            "fontSize": 24,
+            "fontWeight": "600",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Payment Options"
           }
         },
         {
@@ -248,7 +308,12 @@
             "x": 728,
             "y": 1242.65625,
             "w": 247.5,
-            "h": 88.59375
+            "h": 88.59375,
+            "fontSize": 24,
+            "fontWeight": "600",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Parks and Greenspaces"
           }
         },
         {
@@ -262,7 +327,12 @@
             "x": 1141.984375,
             "y": 1271.453125,
             "w": 94.515625,
-            "h": 59.796875
+            "h": 59.796875,
+            "fontSize": 24,
+            "fontWeight": "600",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Business"
           }
         },
         {
@@ -276,7 +346,12 @@
             "x": 473,
             "y": 3188.40625,
             "w": 307.5,
-            "h": 168
+            "h": 168,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "City of Brandon 410 9th Street Brandon, MB R7A 6A2 Phone: 204.729.2186 Mon - Fri"
           }
         },
         {
@@ -290,7 +365,12 @@
             "x": 473,
             "y": 3190.40625,
             "w": 112.1875,
-            "h": 19
+            "h": 19,
+            "fontSize": 16,
+            "fontWeight": "700",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "City of Brandon"
           }
         },
         {
@@ -304,7 +384,12 @@
             "x": 524.96875,
             "y": 3262.40625,
             "w": 100,
-            "h": 19
+            "h": 19,
+            "fontSize": 16,
+            "fontWeight": "700",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "204.729.2186"
           }
         },
         {
@@ -318,7 +403,12 @@
             "x": 810.5,
             "y": 3178.40625,
             "w": 307.5,
-            "h": 40
+            "h": 40,
+            "fontSize": 20,
+            "fontWeight": "600",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Resources"
           }
         },
         {
@@ -332,7 +422,12 @@
             "x": 810.5,
             "y": 3235.40625,
             "w": 142.640625,
-            "h": 19
+            "h": 19,
+            "fontSize": 16,
+            "fontWeight": "700",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Update My Account"
           }
         },
         {
@@ -346,7 +441,12 @@
             "x": 810.5,
             "y": 3259.40625,
             "w": 56.28125,
-            "h": 19
+            "h": 19,
+            "fontSize": 16,
+            "fontWeight": "700",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Careers"
           }
         },
         {
@@ -360,7 +460,12 @@
             "x": 810.5,
             "y": 3283.40625,
             "w": 40.296875,
-            "h": 19
+            "h": 19,
+            "fontSize": 16,
+            "fontWeight": "700",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "News"
           }
         },
         {
@@ -374,7 +479,12 @@
             "x": 810.5,
             "y": 3307.40625,
             "w": 131.90625,
-            "h": 19
+            "h": 19,
+            "fontSize": 16,
+            "fontWeight": "700",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Website Feedback"
           }
         },
         {
@@ -388,7 +498,12 @@
             "x": 1148,
             "y": 3178.40625,
             "w": 195,
-            "h": 40
+            "h": 40,
+            "fontSize": 20,
+            "fontWeight": "600",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Connect with Us"
           }
         },
         {
@@ -402,7 +517,12 @@
             "x": 23,
             "y": 3462.40625,
             "w": 146.671875,
-            "h": 18
+            "h": 18,
+            "fontSize": 14,
+            "fontWeight": "600",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "© 2026 City of Brandon"
           }
         },
         {
@@ -416,7 +536,12 @@
             "x": 180.640625,
             "y": 3462.40625,
             "w": 86.5625,
-            "h": 18
+            "h": 18,
+            "fontSize": 14,
+            "fontWeight": "700",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Privacy Policy"
           }
         },
         {
@@ -430,7 +555,12 @@
             "x": 278.171875,
             "y": 3462.40625,
             "w": 52.6875,
-            "h": 18
+            "h": 18,
+            "fontSize": 14,
+            "fontWeight": "700",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Sitemap"
           }
         },
         {
@@ -444,7 +574,12 @@
             "x": 1214.96875,
             "y": 3462.40625,
             "w": 68.84375,
-            "h": 18
+            "h": 18,
+            "fontSize": 14,
+            "fontWeight": "600",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Made with"
           }
         },
         {
@@ -458,7 +593,12 @@
             "x": 1283.8125,
             "y": 3462.40625,
             "w": 59.1875,
-            "h": 18
+            "h": 18,
+            "fontSize": 14,
+            "fontWeight": "700",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Govstack"
           }
         }
       ]
@@ -503,7 +643,12 @@
             "x": 0,
             "y": 150,
             "w": 1366,
-            "h": 630
+            "h": 630,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": ""
           }
         },
         {
@@ -519,7 +664,12 @@
             "x": 0,
             "y": 2275.8125,
             "w": 1366,
-            "h": 623.796875
+            "h": 623.796875,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": ""
           }
         },
         {
@@ -535,7 +685,12 @@
             "x": 0,
             "y": 3118.40625,
             "w": 1366,
-            "h": 484
+            "h": 484,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": ""
           }
         }
       ]
@@ -568,7 +723,12 @@
             "x": 562.21875,
             "y": 75,
             "w": 12.40625,
-            "h": 75
+            "h": 75,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Expand sub pages Home, Property & Environment"
           }
         },
         {
@@ -583,7 +743,12 @@
             "x": 699.359375,
             "y": 75,
             "w": 14.109375,
-            "h": 75
+            "h": 75,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Expand sub pages Parks & Recreation"
           }
         },
         {
@@ -598,7 +763,12 @@
             "x": 1020.921875,
             "y": 75,
             "w": 12.40625,
-            "h": 75
+            "h": 75,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Expand sub pages Roads, Parking & Transportation"
           }
         },
         {
@@ -613,7 +783,12 @@
             "x": 1208.5625,
             "y": 75,
             "w": 12.40625,
-            "h": 75
+            "h": 75,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Expand sub pages Business, Building & Development"
           }
         },
         {
@@ -628,7 +803,12 @@
             "x": 1323,
             "y": 75,
             "w": 20,
-            "h": 75
+            "h": 75,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Expand sub pages City Hall"
           }
         }
       ]

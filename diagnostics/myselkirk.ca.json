@@ -5,30 +5,30 @@
   "title": "City of Selkirk, Manitoba",
   "finalUrl": "https://www.myselkirk.ca/",
   "shape": {
-    "elements": 2745,
+    "elements": 2724,
     "images": 45,
-    "links": 475,
+    "links": 474,
     "buttons": 20,
     "inputs": 32,
-    "headings": 30,
-    "textLength": 5361,
+    "headings": 26,
+    "textLength": 5260,
     "lang": "en-CA",
-    "iframes": 2
+    "iframes": 1
   },
   "viewport": {
     "width": 1366,
     "height": 900
   },
-  "scannedAt": "2026-09-18T04:51:39.769Z",
+  "scannedAt": "2026-09-19T06:20:36.457Z",
   "axe": {
     "violationRules": 4,
     "violationNodes": 7,
     "passRules": 34,
-    "passNodes": 714,
+    "passNodes": 642,
     "incompleteRules": 1,
-    "incompleteNodes": 11,
+    "incompleteNodes": 9,
     "inapplicableRules": 28,
-    "testedNodes": 732
+    "testedNodes": 658
   },
   "incomplete": [
     {
@@ -53,90 +53,77 @@
         "1.4.3"
       ],
       "why": "Element's background color could not be determined because it is overlapped by another element",
-      "nodes": 11,
+      "nodes": 9,
       "sample": [
         {
-          "target": "#SR7_31_1-189-51",
-          "html": "<h1 id=\"SR7_31_1-189-51\" class=\"sr7-layer\" aria-hidden=\"true\" style=\"transform-origin: 50...\" data-type=\"text\">"
+          "target": "#SR7_31_1-188-43",
+          "html": "<h3 id=\"SR7_31_1-188-43\" class=\"sr7-layer\" aria-hidden=\"true\" style=\"transform-origin: 50...\" data-type=\"text\">"
         },
         {
-          "target": "#SR7_31_1-189-44",
-          "html": "<a id=\"SR7_31_1-189-44\" class=\"sr7-layer\" href=\"https://www.myselkir...\" target=\"_self\" data-mouselistener=\"true\" aria-hidden=\"true\" style=\"transform-origin: 50...\" data-type=\"text\" data-subtype=\"butt"
+          "target": "#SR7_31_1-188-42",
+          "html": "<a id=\"SR7_31_1-188-42\" class=\"sr7-layer\" href=\"https://www.myselkir...\" target=\"_self\" data-mouselistener=\"true\" aria-hidden=\"true\" style=\"transform-origin: 50...\" data-type=\"text\" data-subtype=\"butt"
         },
         {
-          "target": "#SR7_31_1-189-41",
-          "html": "<h3 id=\"SR7_31_1-189-41\" class=\"sr7-layer\" aria-hidden=\"true\" style=\"transform-origin: 50...\" data-type=\"text\">"
+          "target": "#SR7_31_1-188-38",
+          "html": "<h1 id=\"SR7_31_1-188-38\" class=\"sr7-layer\" aria-hidden=\"true\" style=\"transform-origin: 50...\" data-type=\"text\">"
         }
       ],
       "items": [
         {
-          "target": "#SR7_31_1-189-51",
-          "html": "<h1 id=\"SR7_31_1-189-51\" class=\"sr7-layer\" aria-hidden=\"true\" style=\"transform-origin: 50...\" data-type=\"text\">",
+          "target": "#SR7_31_1-188-43",
+          "html": "<h3 id=\"SR7_31_1-188-43\" class=\"sr7-layer\" aria-hidden=\"true\" style=\"transform-origin: 50...\" data-type=\"text\">",
           "impact": "serious",
           "messages": [
             "Element's background color could not be determined because it is overlapped by another element"
           ],
           "box": {
-            "x": 807,
-            "y": 614,
-            "w": 444.453125,
-            "h": 55
+            "x": 362,
+            "y": 319,
+            "w": 416.890625,
+            "h": 59,
+            "fontSize": 49,
+            "fontWeight": "800",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "October 28, 2026"
           }
         },
         {
-          "target": "#SR7_31_1-189-44",
-          "html": "<a id=\"SR7_31_1-189-44\" class=\"sr7-layer\" href=\"https://www.myselkir...\" target=\"_self\" data-mouselistener=\"true\" aria-hidden=\"true\" style=\"transform-origin: 50...\" data-type=\"text\" data-subtype=\"button\">",
+          "target": "#SR7_31_1-188-42",
+          "html": "<a id=\"SR7_31_1-188-42\" class=\"sr7-layer\" href=\"https://www.myselkir...\" target=\"_self\" data-mouselistener=\"true\" aria-hidden=\"true\" style=\"transform-origin: 50...\" data-type=\"text\" data-subtype=\"button\">",
           "impact": "serious",
           "messages": [
             "Element's background color could not be determined because it is overlapped by another element"
           ],
           "box": {
-            "x": 829,
-            "y": 499,
-            "w": 417.71875,
-            "h": 72
+            "x": 818,
+            "y": 547,
+            "w": 294.796875,
+            "h": 54,
+            "fontSize": 22,
+            "fontWeight": "500",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(100, 144, 232)",
+            "text": "CLICK FOR MORE INFO"
           }
         },
         {
-          "target": "#SR7_31_1-189-41",
-          "html": "<h3 id=\"SR7_31_1-189-41\" class=\"sr7-layer\" aria-hidden=\"true\" style=\"transform-origin: 50...\" data-type=\"text\">",
+          "target": "#SR7_31_1-188-38",
+          "html": "<h1 id=\"SR7_31_1-188-38\" class=\"sr7-layer\" aria-hidden=\"true\" style=\"transform-origin: 50...\" data-type=\"text\">",
           "impact": "serious",
           "messages": [
             "Element's background color could not be determined because it is overlapped by another element"
           ],
           "box": {
-            "x": 547,
-            "y": 232,
-            "w": 339,
-            "h": 52
-          }
-        },
-        {
-          "target": "#SR7_31_1-189-45",
-          "html": "<h1 id=\"SR7_31_1-189-45\" class=\"sr7-layer\" aria-hidden=\"true\" style=\"transform-origin: 50...\" data-type=\"text\">",
-          "impact": "serious",
-          "messages": [
-            "Element's background color could not be determined because it is overlapped by another element"
-          ],
-          "box": {
-            "x": 170,
-            "y": 376,
-            "w": 1093.71875,
-            "h": 80
-          }
-        },
-        {
-          "target": "#SR7_31_1-189-40",
-          "html": "<h1 id=\"SR7_31_1-189-40\" class=\"sr7-layer\" aria-hidden=\"true\" style=\"transform-origin: 50...\" data-type=\"text\">",
-          "impact": "serious",
-          "messages": [
-            "Element's background color could not be determined because it is overlapped by another element"
-          ],
-          "box": {
-            "x": 333,
-            "y": 298,
-            "w": 745.34375,
-            "h": 71
+            "x": 362,
+            "y": 251,
+            "w": 736.296875,
+            "h": 71,
+            "fontSize": 61,
+            "fontWeight": "800",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "2026 Municipal Election"
           }
         },
         {
@@ -150,7 +137,12 @@
             "x": 909,
             "y": 1400.5,
             "w": 177,
-            "h": 38
+            "h": 38,
+            "fontSize": 13,
+            "fontWeight": "400",
+            "color": "rgb(139, 141, 148)",
+            "background": "rgb(253, 253, 253)",
+            "text": "Select Month September 2026 (6) August 2026 (9) July 2026 (7) June 2026 (11) May"
           }
         },
         {
@@ -164,7 +156,12 @@
             "x": 183,
             "y": 5433.046875,
             "w": 313.328125,
-            "h": 24
+            "h": 24,
+            "fontSize": 17,
+            "fontWeight": "300",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Contact Us"
           }
         },
         {
@@ -178,7 +175,12 @@
             "x": 183,
             "y": 5472.046875,
             "w": 313.328125,
-            "h": 88
+            "h": 88,
+            "fontSize": 13,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "City of Selkirk 200 Eaton Avenue Selkirk, Manitoba, Canada R1A 0W6"
           }
         },
         {
@@ -192,7 +194,12 @@
             "x": 183,
             "y": 5570.046875,
             "w": 313.328125,
-            "h": 44
+            "h": 44,
+            "fontSize": 13,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Phone: 204-785-4900 Email: CitizenSupport@cityofselkirk.com"
           }
         },
         {
@@ -206,7 +213,12 @@
             "x": 526.328125,
             "y": 5433.046875,
             "w": 313.328125,
-            "h": 24
+            "h": 24,
+            "fontSize": 17,
+            "fontWeight": "300",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Search MySelkirk.ca"
           }
         },
         {
@@ -220,7 +232,12 @@
             "x": 1029.109375,
             "y": 5705.046875,
             "w": 153.890625,
-            "h": 21
+            "h": 21,
+            "fontSize": 12,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Where it all comes together"
           }
         }
       ]
@@ -250,17 +267,22 @@
       "nodes": 1,
       "items": [
         {
-          "target": "#SR7_31_1-189-44",
-          "html": "<a id=\"SR7_31_1-189-44\" class=\"sr7-layer\" href=\"https://www.myselkir...\" target=\"_self\" data-mouselistener=\"true\" aria-hidden=\"true\" style=\"transform-origin: 50...\" data-type=\"text\" data-subtype=\"button\">",
+          "target": "#SR7_31_1-188-42",
+          "html": "<a id=\"SR7_31_1-188-42\" class=\"sr7-layer\" href=\"https://www.myselkir...\" target=\"_self\" data-mouselistener=\"true\" aria-hidden=\"true\" style=\"transform-origin: 50...\" data-type=\"text\" data-subtype=\"button\">",
           "impact": "serious",
           "messages": [
             "Focusable content should have tabindex=\"-1\" or be removed from the DOM"
           ],
           "box": {
-            "x": 829,
-            "y": 499,
-            "w": 417.71875,
-            "h": 72
+            "x": 818,
+            "y": 547,
+            "w": 294.796875,
+            "h": 54,
+            "fontSize": 22,
+            "fontWeight": "500",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(100, 144, 232)",
+            "text": "CLICK FOR MORE INFO"
           }
         }
       ]
@@ -290,7 +312,7 @@
       "items": [
         {
           "target": "#form_email_1",
-          "html": "<input type=\"email\" autocomplete=\"email\" class=\"mailpoet_text\" id=\"form_email_1\" name=\"data[form_field_MDc0...\" title=\"Email Address\" value=\"\" style=\"width: 100%; box-siz...\" data-automation-id=\"form_email\" data-parsley-errors-...=\".mailpoet_error_1vs9...\" data-parsley-require...=\"true\" ...>",
+          "html": "<input type=\"email\" autocomplete=\"email\" class=\"mailpoet_text\" id=\"form_email_1\" name=\"data[form_field_MDc0...\" title=\"Email Address\" value=\"\" style=\"width: 100%; box-siz...\" data-automation-id=\"form_email\" data-parsley-errors-...=\".mailpoet_error_12np...\" data-parsley-require...=\"true\" ...>",
           "impact": "serious",
           "messages": [
             "Element has insufficient color contrast of 3.25 (foreground color: #8b8d94, background color: #fdfdfd, font size: 11.3pt (15px), font weight: normal). Expected contrast ratio of 4.5:1"
@@ -299,12 +321,17 @@
             "x": 919,
             "y": 908,
             "w": 254,
-            "h": 38
+            "h": 38,
+            "fontSize": 15,
+            "fontWeight": "400",
+            "color": "rgb(139, 141, 148)",
+            "background": "rgb(253, 253, 253)",
+            "text": ""
           }
         },
         {
           "target": "#form_first_name_1",
-          "html": "<input type=\"text\" autocomplete=\"given-name\" class=\"mailpoet_text\" id=\"form_first_name_1\" name=\"data[form_field_Yjgy...\" title=\"First name\" value=\"\" style=\"width: 100%; box-siz...\" data-automation-id=\"form_first_name\" data-parsley-errors-...=\".mailpoet_error_4edl...\" ...>",
+          "html": "<input type=\"text\" autocomplete=\"given-name\" class=\"mailpoet_text\" id=\"form_first_name_1\" name=\"data[form_field_Yjgy...\" title=\"First name\" value=\"\" style=\"width: 100%; box-siz...\" data-automation-id=\"form_first_name\" data-parsley-errors-...=\".mailpoet_error_rtl1...\" ...>",
           "impact": "serious",
           "messages": [
             "Element has insufficient color contrast of 3.25 (foreground color: #8b8d94, background color: #fdfdfd, font size: 11.3pt (15px), font weight: normal). Expected contrast ratio of 4.5:1"
@@ -313,12 +340,17 @@
             "x": 919,
             "y": 984,
             "w": 254,
-            "h": 38
+            "h": 38,
+            "fontSize": 15,
+            "fontWeight": "400",
+            "color": "rgb(139, 141, 148)",
+            "background": "rgb(253, 253, 253)",
+            "text": ""
           }
         },
         {
           "target": "#form_last_name_1",
-          "html": "<input type=\"text\" autocomplete=\"family-name\" class=\"mailpoet_text\" id=\"form_last_name_1\" name=\"data[form_field_ZTQ1...\" title=\"Last name\" value=\"\" style=\"width: 100%; box-siz...\" data-automation-id=\"form_last_name\" data-parsley-errors-...=\".mailpoet_error_5snw...\" ...>",
+          "html": "<input type=\"text\" autocomplete=\"family-name\" class=\"mailpoet_text\" id=\"form_last_name_1\" name=\"data[form_field_ZTQ1...\" title=\"Last name\" value=\"\" style=\"width: 100%; box-siz...\" data-automation-id=\"form_last_name\" data-parsley-errors-...=\".mailpoet_error_qrxd...\" ...>",
           "impact": "serious",
           "messages": [
             "Element has insufficient color contrast of 3.25 (foreground color: #8b8d94, background color: #fdfdfd, font size: 11.3pt (15px), font weight: normal). Expected contrast ratio of 4.5:1"
@@ -327,7 +359,12 @@
             "x": 919,
             "y": 1060,
             "w": 254,
-            "h": 38
+            "h": 38,
+            "fontSize": 15,
+            "fontWeight": "400",
+            "color": "rgb(139, 141, 148)",
+            "background": "rgb(253, 253, 253)",
+            "text": ""
           }
         },
         {
@@ -341,7 +378,12 @@
             "x": 919,
             "y": 1210,
             "w": 254,
-            "h": 52.5
+            "h": 52.5,
+            "fontSize": 15,
+            "fontWeight": "700",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(100, 144, 232)",
+            "text": "Stay in the know!"
           }
         }
       ]
@@ -378,7 +420,12 @@
             "x": 0,
             "y": 0,
             "w": 0,
-            "h": 0
+            "h": 0,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": ""
           }
         }
       ]
@@ -411,7 +458,12 @@
             "x": 1013.90625,
             "y": 5,
             "w": 16,
-            "h": 36
+            "h": 36,
+            "fontSize": 13,
+            "fontWeight": "400",
+            "color": "rgb(28, 76, 142)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Search"
           }
         }
       ]

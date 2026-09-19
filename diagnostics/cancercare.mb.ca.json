@@ -5,7 +5,7 @@
   "title": "CCMB Homepage",
   "finalUrl": "https://www.cancercare.mb.ca/home/",
   "shape": {
-    "elements": 727,
+    "elements": 726,
     "images": 12,
     "links": 172,
     "buttons": 15,
@@ -19,7 +19,7 @@
     "width": 1366,
     "height": 900
   },
-  "scannedAt": "2026-09-18T05:04:42.830Z",
+  "scannedAt": "2026-09-19T06:25:38.299Z",
   "axe": {
     "violationRules": 3,
     "violationNodes": 11,
@@ -80,7 +80,12 @@
             "x": 192.890625,
             "y": 81.421875,
             "w": 161.703125,
-            "h": 40
+            "h": 40,
+            "fontSize": 15,
+            "fontWeight": "400",
+            "color": "rgb(0, 50, 91)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "PATIENTS & FAMILY"
           }
         },
         {
@@ -94,7 +99,12 @@
             "x": 354.59375,
             "y": 81.421875,
             "w": 170.296875,
-            "h": 40
+            "h": 40,
+            "fontSize": 15,
+            "fontWeight": "400",
+            "color": "rgb(0, 50, 91)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "TREATMENT & CARE"
           }
         },
         {
@@ -108,7 +118,12 @@
             "x": 524.890625,
             "y": 81.421875,
             "w": 109.1875,
-            "h": 40
+            "h": 40,
+            "fontSize": 15,
+            "fontWeight": "400",
+            "color": "rgb(0, 50, 91)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "SCREENING"
           }
         },
         {
@@ -122,7 +137,12 @@
             "x": 634.078125,
             "y": 81.421875,
             "w": 103.359375,
-            "h": 40
+            "h": 40,
+            "fontSize": 15,
+            "fontWeight": "400",
+            "color": "rgb(0, 50, 91)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "RESEARCH"
           }
         },
         {
@@ -136,7 +156,12 @@
             "x": 737.4375,
             "y": 81.421875,
             "w": 208.9375,
-            "h": 40
+            "h": 40,
+            "fontSize": 15,
+            "fontWeight": "400",
+            "color": "rgb(0, 50, 91)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "HEALTH PROFESSIONALS"
           }
         },
         {
@@ -150,7 +175,12 @@
             "x": 946.375,
             "y": 81.421875,
             "w": 130.3125,
-            "h": 40
+            "h": 40,
+            "fontSize": 15,
+            "fontWeight": "400",
+            "color": "rgb(0, 50, 91)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "WAYS TO HELP"
           }
         },
         {
@@ -164,7 +194,12 @@
             "x": 1076.6875,
             "y": 81.421875,
             "w": 96.40625,
-            "h": 40
+            "h": 40,
+            "fontSize": 15,
+            "fontWeight": "400",
+            "color": "rgb(0, 50, 91)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "ABOUT US"
           }
         },
         {
@@ -178,7 +213,12 @@
             "x": 113,
             "y": 555.421875,
             "w": 60.015625,
-            "h": 33.390625
+            "h": 33.390625,
+            "fontSize": 24,
+            "fontWeight": "500",
+            "color": "rgb(0, 50, 91)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "News"
           }
         }
       ]
@@ -222,7 +262,12 @@
             "x": 113,
             "y": 3070.4375,
             "w": 555,
-            "h": 277.5
+            "h": 277.5,
+            "fontSize": 15,
+            "fontWeight": "400",
+            "color": "rgb(85, 85, 85)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": ""
           }
         },
         {
@@ -236,7 +281,12 @@
             "x": 698,
             "y": 2796.21875,
             "w": 554.984375,
-            "h": 348.734375
+            "h": 348.734375,
+            "fontSize": 15,
+            "fontWeight": "400",
+            "color": "rgb(85, 85, 85)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": ""
           }
         }
       ]
@@ -275,7 +325,12 @@
             "x": 1113.25,
             "y": 639.609375,
             "w": 85.046875,
-            "h": 17
+            "h": 17,
+            "fontSize": 15,
+            "fontWeight": "400",
+            "color": "rgb(0, 101, 184)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "read more..."
           }
         },
         {
@@ -290,7 +345,12 @@
             "x": 288.90625,
             "y": 732.25,
             "w": 85.046875,
-            "h": 17
+            "h": 17,
+            "fontSize": 15,
+            "fontWeight": "400",
+            "color": "rgb(0, 101, 184)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "read more..."
           }
         },
         {
@@ -305,7 +365,12 @@
             "x": 417.34375,
             "y": 824.890625,
             "w": 85.046875,
-            "h": 17
+            "h": 17,
+            "fontSize": 15,
+            "fontWeight": "400",
+            "color": "rgb(0, 101, 184)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "read more..."
           }
         },
         {
@@ -320,7 +385,12 @@
             "x": 378.125,
             "y": 917.53125,
             "w": 85.046875,
-            "h": 17
+            "h": 17,
+            "fontSize": 15,
+            "fontWeight": "400",
+            "color": "rgb(0, 101, 184)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "read more..."
           }
         },
         {
@@ -335,7 +405,12 @@
             "x": 113,
             "y": 3041.015625,
             "w": 223.984375,
-            "h": 17
+            "h": 17,
+            "fontSize": 15,
+            "fontWeight": "400",
+            "color": "rgb(0, 101, 184)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "cancercarefdn.mb.ca/steves-story"
           }
         },
         {
@@ -350,7 +425,12 @@
             "x": 698,
             "y": 2745.375,
             "w": 76.71875,
-            "h": 17
+            "h": 17,
+            "fontSize": 15,
+            "fontWeight": "400",
+            "color": "rgb(0, 101, 184)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Learn more"
           }
         }
       ]
@@ -384,7 +464,7 @@
       "nodes": 3,
       "items": [
         {
-          "target": ".active-revslide:nth-child(1) > .hasclicklistener > a[target=\"_self\"]",
+          "target": ".hasclicklistener > a[target=\"_self\"]",
           "html": "<a style=\"width:100%;height:100%;display:block\" target=\"_self\" href=\"https://secure.erbium.com/ui/register/e-MRJ0EyX97x\"><span style=\"width:100%;height:100%;display:block\"></span></a>",
           "impact": "serious",
           "messages": [
@@ -396,9 +476,14 @@
           ],
           "box": {
             "x": 15,
-            "y": 86.38020324707031,
+            "y": 121.171875,
             "w": 1336,
-            "h": 418
+            "h": 418,
+            "fontSize": 10,
+            "fontWeight": "400",
+            "color": "rgb(255, 115, 2)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": ""
           }
         },
         {
@@ -416,7 +501,12 @@
             "x": 113,
             "y": 3070.4375,
             "w": 555,
-            "h": 277.5
+            "h": 277.5,
+            "fontSize": 15,
+            "fontWeight": "400",
+            "color": "rgb(85, 85, 85)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": ""
           }
         },
         {
@@ -434,7 +524,12 @@
             "x": 698,
             "y": 2796.21875,
             "w": 555,
-            "h": 348.734375
+            "h": 348.734375,
+            "fontSize": 15,
+            "fontWeight": "400",
+            "color": "rgb(85, 85, 85)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": ""
           }
         }
       ]

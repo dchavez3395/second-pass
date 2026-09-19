@@ -19,7 +19,7 @@
     "width": 1366,
     "height": 900
   },
-  "scannedAt": "2026-09-18T04:51:11.548Z",
+  "scannedAt": "2026-09-19T06:20:07.053Z",
   "axe": {
     "violationRules": 1,
     "violationNodes": 2,
@@ -80,7 +80,12 @@
             "x": 483,
             "y": 707,
             "w": 400,
-            "h": 96
+            "h": 96,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "This website uses cookies to enhance usability and provide you with a more perso"
           }
         },
         {
@@ -94,7 +99,12 @@
             "x": 360.5,
             "y": 340,
             "w": 638.5625,
-            "h": 50
+            "h": 50,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(68, 71, 70)",
+            "background": "rgb(255, 255, 255)",
+            "text": "search"
           }
         },
         {
@@ -108,7 +118,12 @@
             "x": 191.75,
             "y": 1451.1875,
             "w": 982.5,
-            "h": 36
+            "h": 36,
+            "fontSize": 30,
+            "fontWeight": "600",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Fall Clean-Up - Yard Waste Collection"
           }
         },
         {
@@ -122,7 +137,12 @@
             "x": 191.75,
             "y": 1497.1875,
             "w": 982.5,
-            "h": 24
+            "h": 24,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "The City of Portage la Prairie is once again offering free curbside yard waste c"
           }
         }
       ]
@@ -167,7 +187,12 @@
             "x": 0,
             "y": 1292.1875,
             "w": 1366,
-            "h": 465
+            "h": 465,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": ""
           }
         },
         {
@@ -181,9 +206,14 @@
           ],
           "box": {
             "x": 0,
-            "y": 3164.84375,
+            "y": 3172.40625,
             "w": 1366,
-            "h": 205
+            "h": 205,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": ""
           }
         }
       ]

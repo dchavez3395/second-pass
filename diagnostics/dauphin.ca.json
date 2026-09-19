@@ -11,7 +11,7 @@
     "buttons": 64,
     "inputs": 4,
     "headings": 53,
-    "textLength": 2228,
+    "textLength": 2171,
     "lang": "en",
     "iframes": 3
   },
@@ -19,7 +19,7 @@
     "width": 1366,
     "height": 900
   },
-  "scannedAt": "2026-09-18T04:53:49.126Z",
+  "scannedAt": "2026-09-19T06:22:47.442Z",
   "axe": {
     "violationRules": 5,
     "violationNodes": 13,
@@ -80,7 +80,12 @@
             "x": 142.875,
             "y": 855.390625,
             "w": 137.71875,
-            "h": 19
+            "h": 19,
+            "fontSize": 14.4,
+            "fontWeight": "600",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "FORM DIRECTORY"
           }
         },
         {
@@ -94,7 +99,12 @@
             "x": 349.78125,
             "y": 855.390625,
             "w": 121.5,
-            "h": 19
+            "h": 19,
+            "fontSize": 14.4,
+            "fontWeight": "600",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "CITY CONTACTS"
           }
         },
         {
@@ -108,7 +118,12 @@
             "x": 540.484375,
             "y": 855.390625,
             "w": 119.5625,
-            "h": 19
+            "h": 19,
+            "fontSize": 14.4,
+            "fontWeight": "600",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "CITY INQUIRIES"
           }
         },
         {
@@ -122,7 +137,12 @@
             "x": 731.03125,
             "y": 855.390625,
             "w": 155.046875,
-            "h": 19
+            "h": 19,
+            "fontSize": 14.4,
+            "fontWeight": "600",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "COUNCIL MEETINGS"
           }
         },
         {
@@ -136,7 +156,12 @@
             "x": 953.484375,
             "y": 855.390625,
             "w": 62.890625,
-            "h": 19
+            "h": 19,
+            "fontSize": 14.4,
+            "fontWeight": "600",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "BYLAWS"
           }
         },
         {
@@ -150,7 +175,12 @@
             "x": 1089.15625,
             "y": 855.390625,
             "w": 160.3125,
-            "h": 19
+            "h": 19,
+            "fontSize": 14.4,
+            "fontWeight": "600",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "WASTE & RECYCLING"
           }
         },
         {
@@ -164,7 +194,12 @@
             "x": 112,
             "y": 360,
             "w": 1033.109375,
-            "h": 33
+            "h": 33,
+            "fontSize": 24,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "WELCOME TO THE"
           }
         },
         {
@@ -178,7 +213,12 @@
             "x": 112,
             "y": 393,
             "w": 1033.109375,
-            "h": 71
+            "h": 71,
+            "fontSize": 56,
+            "fontWeight": "600",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "City of Dauphin"
           }
         },
         {
@@ -192,7 +232,12 @@
             "x": 111,
             "y": 932,
             "w": 557,
-            "h": 90.8125
+            "h": 90.8125,
+            "fontSize": 44,
+            "fontWeight": "600",
+            "color": "rgb(138, 29, 3)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "STAY INFORMED Latest Notices"
           }
         },
         {
@@ -206,12 +251,17 @@
             "x": 111,
             "y": 932,
             "w": 557,
-            "h": 37.40625
+            "h": 37.40625,
+            "fontSize": 20,
+            "fontWeight": "600",
+            "color": "rgb(128, 121, 20)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "STAY INFORMED"
           }
         },
         {
-          "target": ".iconPost[data-target=\"#latestNews\"][href=\"#\"]:nth-child(1) > time[datetime=\"September 15, 2026\"]",
-          "html": "<time datetime=\"September 15, 2026\">September 15, 2026</time>",
+          "target": "time[datetime=\"September 18, 2026\"]",
+          "html": "<time datetime=\"September 18, 2026\">September 18, 2026</time>",
           "impact": "serious",
           "messages": [
             "Element's background color could not be determined due to a background image"
@@ -220,12 +270,17 @@
             "x": 175,
             "y": 1022.8125,
             "w": 461,
-            "h": 19
+            "h": 19,
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "color": "rgb(102, 102, 102)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "SEPTEMBER 18, 2026"
           }
         },
         {
           "target": ".iconPost[data-target=\"#latestNews\"][href=\"#\"]:nth-child(1) > h4",
-          "html": "<h4>Downtown Safety Patrol Pilot Continues with New Service Provider</h4>",
+          "html": "<h4>Fall Clean-Up Begins October 13</h4>",
           "impact": "serious",
           "messages": [
             "Element's background color could not be determined due to a background image"
@@ -234,7 +289,12 @@
             "x": 175,
             "y": 1041.8125,
             "w": 461,
-            "h": 21.125
+            "h": 21.125,
+            "fontSize": 17.6,
+            "fontWeight": "600",
+            "color": "rgb(53, 53, 53)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Fall Clean-Up Begins October 13"
           }
         },
         {
@@ -248,12 +308,17 @@
             "x": 175,
             "y": 1111.9375,
             "w": 461,
-            "h": 19
+            "h": 19,
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "color": "rgb(102, 102, 102)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "SEPTEMBER 15, 2026"
           }
         },
         {
           "target": ".iconPost[data-target=\"#latestNews\"][href=\"#\"]:nth-child(2) > h4",
-          "html": "<h4>Road Closure - September 15, 2026</h4>",
+          "html": "<h4>Downtown Safety Patrol Pilot Continues with New Service Provider</h4>",
           "impact": "serious",
           "messages": [
             "Element's background color could not be determined due to a background image"
@@ -262,7 +327,50 @@
             "x": 175,
             "y": 1130.9375,
             "w": 461,
-            "h": 21.125
+            "h": 21.125,
+            "fontSize": 17.6,
+            "fontWeight": "600",
+            "color": "rgb(53, 53, 53)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Downtown Safety Patrol Pilot Continues with New Service Provider"
+          }
+        },
+        {
+          "target": ".iconPost[data-target=\"#latestNews\"][href=\"#\"]:nth-child(3) > time[datetime=\"September 15, 2026\"]",
+          "html": "<time datetime=\"September 15, 2026\">September 15, 2026</time>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 175,
+            "y": 1201.0625,
+            "w": 461,
+            "h": 19,
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "color": "rgb(102, 102, 102)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "SEPTEMBER 15, 2026"
+          }
+        },
+        {
+          "target": ".iconPost[data-target=\"#latestNews\"][href=\"#\"]:nth-child(3) > h4",
+          "html": "<h4>Road Closure - September 15, 2026</h4>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a background image"
+          ],
+          "box": {
+            "x": 175,
+            "y": 1220.0625,
+            "w": 461,
+            "h": 21.125,
+            "fontSize": 17.6,
+            "fontWeight": "600",
+            "color": "rgb(53, 53, 53)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Road Closure - September 15, 2026"
           }
         },
         {
@@ -274,42 +382,19 @@
           ],
           "box": {
             "x": 175,
-            "y": 1201.0625,
-            "w": 461,
-            "h": 19
-          }
-        },
-        {
-          "target": ".iconPost[data-target=\"#latestNews\"][href=\"#\"]:nth-child(3) > h4",
-          "html": "<h4>Street Fair Road Closure - September 18, 2026 </h4>",
-          "impact": "serious",
-          "messages": [
-            "Element's background color could not be determined due to a background image"
-          ],
-          "box": {
-            "x": 175,
-            "y": 1220.0625,
-            "w": 461,
-            "h": 21.125
-          }
-        },
-        {
-          "target": "time[datetime=\"September 04, 2026\"]",
-          "html": "<time datetime=\"September 04, 2026\">September 04, 2026</time>",
-          "impact": "serious",
-          "messages": [
-            "Element's background color could not be determined due to a background image"
-          ],
-          "box": {
-            "x": 175,
             "y": 1290.1875,
             "w": 461,
-            "h": 19
+            "h": 19,
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "color": "rgb(102, 102, 102)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "SEPTEMBER 14, 2026"
           }
         },
         {
           "target": ".iconPost[data-target=\"#latestNews\"][href=\"#\"]:nth-child(4) > h4",
-          "html": "<h4>Temporary Parking Changes at the Dauphin Regional Health Centre</h4>",
+          "html": "<h4>Street Fair Road Closure - September 18, 2026 </h4>",
           "impact": "serious",
           "messages": [
             "Element's background color could not be determined due to a background image"
@@ -318,7 +403,12 @@
             "x": 175,
             "y": 1309.1875,
             "w": 461,
-            "h": 21.125
+            "h": 21.125,
+            "fontSize": 17.6,
+            "fontWeight": "600",
+            "color": "rgb(53, 53, 53)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Street Fair Road Closure - September 18, 2026"
           }
         },
         {
@@ -332,7 +422,12 @@
             "x": 483.890625,
             "y": 1377.3125,
             "w": 183.109375,
-            "h": 25
+            "h": 25,
+            "fontSize": 16,
+            "fontWeight": "600",
+            "color": "rgb(138, 29, 3)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "VIEW ALL NOTICES"
           }
         },
         {
@@ -346,7 +441,12 @@
             "x": 698,
             "y": 932,
             "w": 557,
-            "h": 90.8125
+            "h": 90.8125,
+            "fontSize": 44,
+            "fontWeight": "600",
+            "color": "rgb(138, 29, 3)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "WHAT'S HAPPENING City Calendar"
           }
         },
         {
@@ -360,7 +460,12 @@
             "x": 698,
             "y": 932,
             "w": 557,
-            "h": 37.40625
+            "h": 37.40625,
+            "fontSize": 20,
+            "fontWeight": "600",
+            "color": "rgb(128, 121, 20)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "WHAT'S HAPPENING"
           }
         },
         {
@@ -374,7 +479,12 @@
             "x": 1080.609375,
             "y": 1377.3125,
             "w": 173.390625,
-            "h": 25
+            "h": 25,
+            "fontSize": 16,
+            "fontWeight": "600",
+            "color": "rgb(138, 29, 3)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "VIEW ALL EVENTS"
           }
         },
         {
@@ -388,7 +498,12 @@
             "x": 96,
             "y": 1482.3125,
             "w": 1014,
-            "h": 82.8125
+            "h": 82.8125,
+            "fontSize": 44,
+            "fontWeight": "600",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "CITY OF DAUPHIN Council Meetings"
           }
         },
         {
@@ -402,7 +517,12 @@
             "x": 96,
             "y": 1482.3125,
             "w": 1014,
-            "h": 37.40625
+            "h": 37.40625,
+            "fontSize": 20,
+            "fontWeight": "600",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "CITY OF DAUPHIN"
           }
         },
         {
@@ -416,7 +536,12 @@
             "x": 990.328125,
             "y": 1533.125,
             "w": 279.671875,
-            "h": 25
+            "h": 25,
+            "fontSize": 16,
+            "fontWeight": "600",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "VIEW ALL COUNCIL MEETINGS"
           }
         },
         {
@@ -430,7 +555,12 @@
             "x": 0,
             "y": 1750.40625,
             "w": 1366,
-            "h": 90.8125
+            "h": 90.8125,
+            "fontSize": 44,
+            "fontWeight": "600",
+            "color": "rgb(138, 29, 3)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "STAY INFORMED Discover Dauphin"
           }
         },
         {
@@ -444,7 +574,12 @@
             "x": 0,
             "y": 1750.40625,
             "w": 1366,
-            "h": 37.40625
+            "h": 37.40625,
+            "fontSize": 20,
+            "fontWeight": "600",
+            "color": "rgb(128, 121, 20)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "STAY INFORMED"
           }
         },
         {
@@ -458,7 +593,12 @@
             "x": 389.5,
             "y": 2021.03125,
             "w": 278.5,
-            "h": 36.40625
+            "h": 36.40625,
+            "fontSize": 24,
+            "fontWeight": "600",
+            "color": "rgb(128, 121, 20)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Tourism Dauphin"
           }
         },
         {
@@ -472,7 +612,12 @@
             "x": 389.5,
             "y": 2057.4375,
             "w": 278.5,
-            "h": 61.171875
+            "h": 61.171875,
+            "fontSize": 13.6,
+            "fontWeight": "400",
+            "color": "rgb(56, 56, 56)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Click here to visit the Tourism Dauphin website and start planning your next adv"
           }
         },
         {
@@ -486,7 +631,12 @@
             "x": 389.5,
             "y": 2134.609375,
             "w": 278.5,
-            "h": 22.796875
+            "h": 22.796875,
+            "fontSize": 15.2,
+            "fontWeight": "700",
+            "color": "rgb(138, 29, 3)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "EXPLORE"
           }
         },
         {
@@ -500,7 +650,12 @@
             "x": 976.5,
             "y": 2021.03125,
             "w": 278.5,
-            "h": 36.40625
+            "h": 36.40625,
+            "fontSize": 24,
+            "fontWeight": "600",
+            "color": "rgb(128, 121, 20)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Economic Development"
           }
         },
         {
@@ -514,7 +669,12 @@
             "x": 976.5,
             "y": 2057.4375,
             "w": 278.5,
-            "h": 61.171875
+            "h": 61.171875,
+            "fontSize": 13.6,
+            "fontWeight": "400",
+            "color": "rgb(56, 56, 56)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Click here to find local information to help propel your business into making sm"
           }
         },
         {
@@ -528,7 +688,12 @@
             "x": 976.5,
             "y": 2134.609375,
             "w": 278.5,
-            "h": 22.796875
+            "h": 22.796875,
+            "fontSize": 15.2,
+            "fontWeight": "700",
+            "color": "rgb(138, 29, 3)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "EXPLORE"
           }
         },
         {
@@ -542,7 +707,12 @@
             "x": 1086.421875,
             "y": 2535.390625,
             "w": 168.578125,
-            "h": 18
+            "h": 18,
+            "fontSize": 12.8,
+            "fontWeight": "700",
+            "color": "rgb(56, 56, 56)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "WEBSITE BY:"
           }
         }
       ]
@@ -585,7 +755,12 @@
             "x": 0,
             "y": 0,
             "w": 1366,
-            "h": 900
+            "h": 900,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(37, 37, 37)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "WELCOME TO THE City of Dauphin READ MORE"
           }
         }
       ]
@@ -621,7 +796,12 @@
             "x": 0,
             "y": 0,
             "w": 1366,
-            "h": 900
+            "h": 900,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(37, 37, 37)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "WELCOME TO THE City of Dauphin READ MORE"
           }
         }
       ]
@@ -657,7 +837,12 @@
             "x": 0,
             "y": 60,
             "w": 197.671875,
-            "h": 84
+            "h": 84,
+            "fontSize": 15.2,
+            "fontWeight": "700",
+            "color": "rgb(56, 56, 56)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "SERVICES"
           }
         },
         {
@@ -671,7 +856,12 @@
             "x": 197.671875,
             "y": 60,
             "w": 197.65625,
-            "h": 84
+            "h": 84,
+            "fontSize": 15.2,
+            "fontWeight": "700",
+            "color": "rgb(56, 56, 56)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "GOVERNMENT"
           }
         },
         {
@@ -685,7 +875,12 @@
             "x": 395.328125,
             "y": 60,
             "w": 197.671875,
-            "h": 84
+            "h": 84,
+            "fontSize": 15.2,
+            "fontWeight": "700",
+            "color": "rgb(56, 56, 56)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "BUSINESS"
           }
         },
         {
@@ -699,7 +894,12 @@
             "x": 625.5,
             "y": 24,
             "w": 115,
-            "h": 104
+            "h": 104,
+            "fontSize": 15.2,
+            "fontWeight": "700",
+            "color": "rgb(56, 56, 56)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "CITY OF DAUPHIN"
           }
         },
         {
@@ -713,7 +913,12 @@
             "x": 773,
             "y": 60,
             "w": 197.65625,
-            "h": 84
+            "h": 84,
+            "fontSize": 15.2,
+            "fontWeight": "700",
+            "color": "rgb(56, 56, 56)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "COMMUNITY"
           }
         },
         {
@@ -727,7 +932,12 @@
             "x": 970.65625,
             "y": 60,
             "w": 197.671875,
-            "h": 84
+            "h": 84,
+            "fontSize": 15.2,
+            "fontWeight": "700",
+            "color": "rgb(56, 56, 56)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "DISCOVER DAUPHIN"
           }
         }
       ]
@@ -757,7 +967,7 @@
       "items": [
         {
           "target": "#weatherwidget-io-0 .currentDesc",
-          "html": "<div class=\"currentDesc ng-binding\">clear sky</div>",
+          "html": "<div class=\"currentDesc ng-binding\">light rain</div>",
           "impact": "serious",
           "messages": [
             "Element has insufficient color contrast of 1.29 (foreground color: #ffffff, background color: #e2e2e2, font size: 9.2pt (12.32px), font weight: normal). Expected contrast ratio of 4.5:1"
@@ -794,7 +1004,12 @@
             "x": 988.421875,
             "y": 19,
             "w": 12.796875,
-            "h": 20.484375
+            "h": 20.484375,
+            "fontSize": 12.8,
+            "fontWeight": "400",
+            "color": "rgb(56, 56, 56)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Facebook"
           }
         },
         {
@@ -809,7 +1024,12 @@
             "x": 1005.375,
             "y": 19,
             "w": 12.796875,
-            "h": 20.484375
+            "h": 20.484375,
+            "fontSize": 12.8,
+            "fontWeight": "400",
+            "color": "rgb(56, 56, 56)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Instagram"
           }
         },
         {
@@ -824,7 +1044,12 @@
             "x": 1022.328125,
             "y": 19,
             "w": 12.796875,
-            "h": 20.484375
+            "h": 20.484375,
+            "fontSize": 12.8,
+            "fontWeight": "400",
+            "color": "rgb(56, 56, 56)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Youtube"
           }
         },
         {
@@ -839,7 +1064,12 @@
             "x": 1318,
             "y": 6.59375,
             "w": 16,
-            "h": 47.1875
+            "h": 47.1875,
+            "fontSize": 20.8,
+            "fontWeight": "600",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "TYPE HERE TO SEARCH CONTENTS IN OUR WEBSITE SEARCH HERE"
           }
         }
       ]

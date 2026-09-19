@@ -19,7 +19,7 @@
     "width": 1366,
     "height": 900
   },
-  "scannedAt": "2026-09-18T05:02:47.450Z",
+  "scannedAt": "2026-09-19T06:24:36.834Z",
   "axe": {
     "violationRules": 0,
     "violationNodes": 0,
@@ -80,7 +80,12 @@
             "x": 836.59375,
             "y": 67,
             "w": 278.046875,
-            "h": 46
+            "h": 46,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgba(14, 33, 33, 0.8)",
+            "background": "rgb(255, 255, 255)",
+            "text": "Search"
           }
         },
         {
@@ -94,7 +99,12 @@
             "x": 367.765625,
             "y": 280,
             "w": 630.453125,
-            "h": 22
+            "h": 22,
+            "fontSize": 16,
+            "fontWeight": "700",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "DYNACARE LABOUR DISRUPTION UPDATE: EXTENDED HOURS LOCATION FINDER"
           }
         },
         {
@@ -108,7 +118,12 @@
             "x": 201,
             "y": 740.71875,
             "w": 258.3125,
-            "h": 22
+            "h": 22,
+            "fontSize": 16,
+            "fontWeight": "700",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "TERRITORIAL LANDS STATEMENT"
           }
         },
         {
@@ -122,7 +137,12 @@
             "x": 201,
             "y": 783.71875,
             "w": 586.09375,
-            "h": 192
+            "h": 192,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "The Winnipeg Health Region provides services to all nations on the traditional a"
           }
         },
         {
@@ -136,7 +156,12 @@
             "x": 201,
             "y": 991.71875,
             "w": 586.09375,
-            "h": 160
+            "h": 160,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "We acknowledge the five Dakota communities in Manitoba that are not signatories "
           }
         },
         {
@@ -150,7 +175,12 @@
             "x": 201,
             "y": 1167.71875,
             "w": 586.09375,
-            "h": 64
+            "h": 64,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "We commit ourselves, in a good way, to learning about truth and reconciliation, "
           }
         },
         {
@@ -164,7 +194,12 @@
             "x": 171,
             "y": 1875.34375,
             "w": 233.5,
-            "h": 166.375
+            "h": 166.375,
+            "fontSize": 13.44,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0.8)",
+            "text": "Public Health Working with all to promote health and prevent disease and injury."
           }
         },
         {
@@ -178,7 +213,12 @@
             "x": 187,
             "y": 1895.34375,
             "w": 89.5,
-            "h": 18
+            "h": 18,
+            "fontSize": 13.44,
+            "fontWeight": "700",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Public Health"
           }
         },
         {
@@ -192,7 +232,12 @@
             "x": 210.78125,
             "y": 2002.84375,
             "w": 68.59375,
-            "h": 18
+            "h": 18,
+            "fontSize": 13.44,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Read more"
           }
         },
         {
@@ -206,7 +251,12 @@
             "x": 434.5,
             "y": 1875.34375,
             "w": 233.5,
-            "h": 166.375
+            "h": 166.375,
+            "fontSize": 13.44,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0.8)",
+            "text": "Mental Health & Addictions Recovery Restoring, promoting and maintaining well-be"
           }
         },
         {
@@ -220,7 +270,12 @@
             "x": 450.5,
             "y": 1895.34375,
             "w": 184.234375,
-            "h": 44.875
+            "h": 44.875,
+            "fontSize": 13.44,
+            "fontWeight": "700",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Mental Health & Addictions Recovery"
           }
         },
         {
@@ -234,7 +289,12 @@
             "x": 474.28125,
             "y": 2002.84375,
             "w": 68.59375,
-            "h": 18
+            "h": 18,
+            "fontSize": 13.44,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Read more"
           }
         },
         {
@@ -248,7 +308,12 @@
             "x": 698,
             "y": 1875.34375,
             "w": 233.5,
-            "h": 166.375
+            "h": 166.375,
+            "fontSize": 13.44,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0.8)",
+            "text": "Home Care Information about applying for, and receiving, home care services. Rea"
           }
         },
         {
@@ -262,7 +327,12 @@
             "x": 714,
             "y": 1895.34375,
             "w": 73.96875,
-            "h": 18
+            "h": 18,
+            "fontSize": 13.44,
+            "fontWeight": "700",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Home Care"
           }
         },
         {
@@ -276,7 +346,12 @@
             "x": 737.78125,
             "y": 2002.84375,
             "w": 68.59375,
-            "h": 18
+            "h": 18,
+            "fontSize": 13.44,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Read more"
           }
         },
         {
@@ -290,7 +365,12 @@
             "x": 961.5,
             "y": 1875.34375,
             "w": 233.5,
-            "h": 166.375
+            "h": 166.375,
+            "fontSize": 13.44,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0.8)",
+            "text": "Indigenous Health Supporting the holistic needs of First Nations, Métis, and Inu"
           }
         },
         {
@@ -304,7 +384,12 @@
             "x": 977.5,
             "y": 1895.34375,
             "w": 122.703125,
-            "h": 18
+            "h": 18,
+            "fontSize": 13.44,
+            "fontWeight": "700",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Indigenous Health"
           }
         },
         {
@@ -318,7 +403,12 @@
             "x": 1001.28125,
             "y": 2002.84375,
             "w": 68.59375,
-            "h": 18
+            "h": 18,
+            "fontSize": 13.44,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Read more"
           }
         },
         {
@@ -332,7 +422,12 @@
             "x": 171,
             "y": 2255.34375,
             "w": 233.5,
-            "h": 166.375
+            "h": 166.375,
+            "fontSize": 13.44,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0.8)",
+            "text": "Long Term Care PCHs, paneling and options for assistance with remaining in your "
           }
         },
         {
@@ -346,7 +441,12 @@
             "x": 187,
             "y": 2275.34375,
             "w": 105.078125,
-            "h": 18
+            "h": 18,
+            "fontSize": 13.44,
+            "fontWeight": "700",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Long Term Care"
           }
         },
         {
@@ -360,7 +460,12 @@
             "x": 210.78125,
             "y": 2382.84375,
             "w": 68.59375,
-            "h": 18
+            "h": 18,
+            "fontSize": 13.44,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Read more"
           }
         },
         {
@@ -374,7 +479,12 @@
             "x": 434.5,
             "y": 2255.34375,
             "w": 233.5,
-            "h": 166.375
+            "h": 166.375,
+            "fontSize": 13.44,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0.8)",
+            "text": "Careers See the latest postings for clinical, non-clinical and administrative jo"
           }
         },
         {
@@ -388,7 +498,12 @@
             "x": 450.5,
             "y": 2275.34375,
             "w": 51.453125,
-            "h": 18
+            "h": 18,
+            "fontSize": 13.44,
+            "fontWeight": "700",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Careers"
           }
         },
         {
@@ -402,7 +517,12 @@
             "x": 474.28125,
             "y": 2382.84375,
             "w": 68.59375,
-            "h": 18
+            "h": 18,
+            "fontSize": 13.44,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Read more"
           }
         },
         {
@@ -416,7 +536,12 @@
             "x": 698,
             "y": 2255.34375,
             "w": 233.5,
-            "h": 166.375
+            "h": 166.375,
+            "fontSize": 13.44,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0.8)",
+            "text": "Client Relations Need help navigating your own patient journey, or that of a lov"
           }
         },
         {
@@ -430,7 +555,12 @@
             "x": 714,
             "y": 2275.34375,
             "w": 105.671875,
-            "h": 18
+            "h": 18,
+            "fontSize": 13.44,
+            "fontWeight": "700",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Client Relations"
           }
         },
         {
@@ -444,7 +574,12 @@
             "x": 737.78125,
             "y": 2382.84375,
             "w": 68.59375,
-            "h": 18
+            "h": 18,
+            "fontSize": 13.44,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Read more"
           }
         },
         {
@@ -458,7 +593,12 @@
             "x": 961.5,
             "y": 2255.34375,
             "w": 233.5,
-            "h": 166.375
+            "h": 166.375,
+            "fontSize": 13.44,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0.8)",
+            "text": "Find a Doctor Helping you connect with a family doctor or other primary care pro"
           }
         },
         {
@@ -472,7 +612,12 @@
             "x": 977.5,
             "y": 2275.34375,
             "w": 89.359375,
-            "h": 18
+            "h": 18,
+            "fontSize": 13.44,
+            "fontWeight": "700",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Find a Doctor"
           }
         },
         {
@@ -486,7 +631,12 @@
             "x": 1001.28125,
             "y": 2382.84375,
             "w": 68.59375,
-            "h": 18
+            "h": 18,
+            "fontSize": 13.44,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Read more"
           }
         }
       ]

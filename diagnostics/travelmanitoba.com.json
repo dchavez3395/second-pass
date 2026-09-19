@@ -5,13 +5,13 @@
   "title": "Travel Manitoba, Canada: Start Planning Your Trip",
   "finalUrl": "https://www.travelmanitoba.com/",
   "shape": {
-    "elements": 2291,
+    "elements": 2299,
     "images": 40,
-    "links": 399,
+    "links": 402,
     "buttons": 100,
     "inputs": 16,
-    "headings": 78,
-    "textLength": 7579,
+    "headings": 79,
+    "textLength": 7606,
     "lang": "en",
     "iframes": 7
   },
@@ -19,16 +19,16 @@
     "width": 1366,
     "height": 900
   },
-  "scannedAt": "2026-09-18T04:55:11.396Z",
+  "scannedAt": "2026-09-19T06:24:12.040Z",
   "axe": {
     "violationRules": 4,
-    "violationNodes": 54,
+    "violationNodes": 55,
     "passRules": 29,
-    "passNodes": 765,
+    "passNodes": 773,
     "incompleteRules": 3,
-    "incompleteNodes": 76,
+    "incompleteNodes": 77,
     "inapplicableRules": 34,
-    "testedNodes": 895
+    "testedNodes": 905
   },
   "incomplete": [
     {
@@ -91,24 +91,43 @@
         "1.4.3"
       ],
       "why": "Element's background color could not be determined because element contains an image node",
-      "nodes": 41,
+      "nodes": 42,
       "sample": [
         {
-          "target": ".nav--header__inner > .has-children.nav__item[data-has-subnav=\"\"]:nth-child(1) > .nav__link[target=\"\"][rel=\"noopener\"]",
-          "html": "<a href=\"https://www.travelmanitoba.com/media/\" target=\"\" rel=\"noopener\" class=\"nav__link  \">\n\n                \n                Travel Media\n            </a>"
+          "target": ".nav--header__inner > .nav__item:nth-child(1) > .dms-ext-link.nav__link[target=\"_self\"]",
+          "html": "<a href=\"https://industry.travelmanitoba.com/\" target=\"_self\" rel=\"noopener\" class=\"nav__link dms-ext-link\">\n\n                \n                Tourism Industry\n            </a>"
         },
         {
           "target": ".nav--header__inner > .has-children.nav__item[data-has-subnav=\"\"]:nth-child(2) > .nav__link[target=\"\"][rel=\"noopener\"]",
-          "html": "<a href=\"https://www.travelmanitoba.com/meetings/\" target=\"\" rel=\"noopener\" class=\"nav__link  \">\n\n                \n                Meetings &amp; Conventions\n            </a>"
+          "html": "<a href=\"https://www.travelmanitoba.com/media/\" target=\"\" rel=\"noopener\" class=\"nav__link  \">\n\n                \n                Travel Media\n            </a>"
         },
         {
           "target": ".nav--header__inner > .has-children.nav__item[data-has-subnav=\"\"]:nth-child(3) > .nav__link[target=\"\"][rel=\"noopener\"]",
-          "html": "<a href=\"https://www.travelmanitoba.com/travel-trade/\" target=\"\" rel=\"noopener\" class=\"nav__link  \">\n\n                \n                Travel Trade\n            </a>"
+          "html": "<a href=\"https://www.travelmanitoba.com/meetings/\" target=\"\" rel=\"noopener\" class=\"nav__link  \">\n\n                \n                Meetings &amp; Conventions\n            </a>"
         }
       ],
       "items": [
         {
-          "target": ".nav--header__inner > .has-children.nav__item[data-has-subnav=\"\"]:nth-child(1) > .nav__link[target=\"\"][rel=\"noopener\"]",
+          "target": ".nav--header__inner > .nav__item:nth-child(1) > .dms-ext-link.nav__link[target=\"_self\"]",
+          "html": "<a href=\"https://industry.travelmanitoba.com/\" target=\"_self\" rel=\"noopener\" class=\"nav__link dms-ext-link\">\n\n                \n                Tourism Industry\n            </a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined because element contains an image node"
+          ],
+          "box": {
+            "x": 225.203125,
+            "y": 36.609375,
+            "w": 120.4375,
+            "h": 15.59375,
+            "fontSize": 13,
+            "fontWeight": "600",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "TOURISM INDUSTRY"
+          }
+        },
+        {
+          "target": ".nav--header__inner > .has-children.nav__item[data-has-subnav=\"\"]:nth-child(2) > .nav__link[target=\"\"][rel=\"noopener\"]",
           "html": "<a href=\"https://www.travelmanitoba.com/media/\" target=\"\" rel=\"noopener\" class=\"nav__link  \">\n\n                \n                Travel Media\n            </a>",
           "impact": "serious",
           "messages": [
@@ -118,11 +137,16 @@
             "x": 375.640625,
             "y": 36.609375,
             "w": 89.21875,
-            "h": 15.59375
+            "h": 15.59375,
+            "fontSize": 13,
+            "fontWeight": "600",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "TRAVEL MEDIA"
           }
         },
         {
-          "target": ".nav--header__inner > .has-children.nav__item[data-has-subnav=\"\"]:nth-child(2) > .nav__link[target=\"\"][rel=\"noopener\"]",
+          "target": ".nav--header__inner > .has-children.nav__item[data-has-subnav=\"\"]:nth-child(3) > .nav__link[target=\"\"][rel=\"noopener\"]",
           "html": "<a href=\"https://www.travelmanitoba.com/meetings/\" target=\"\" rel=\"noopener\" class=\"nav__link  \">\n\n                \n                Meetings &amp; Conventions\n            </a>",
           "impact": "serious",
           "messages": [
@@ -132,11 +156,16 @@
             "x": 494.859375,
             "y": 36.609375,
             "w": 168.53125,
-            "h": 15.59375
+            "h": 15.59375,
+            "fontSize": 13,
+            "fontWeight": "600",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "MEETINGS & CONVENTIONS"
           }
         },
         {
-          "target": ".nav--header__inner > .has-children.nav__item[data-has-subnav=\"\"]:nth-child(3) > .nav__link[target=\"\"][rel=\"noopener\"]",
+          "target": ".nav--header__inner > .has-children.nav__item[data-has-subnav=\"\"]:nth-child(4) > .nav__link[target=\"\"][rel=\"noopener\"]",
           "html": "<a href=\"https://www.travelmanitoba.com/travel-trade/\" target=\"\" rel=\"noopener\" class=\"nav__link  \">\n\n                \n                Travel Trade\n            </a>",
           "impact": "serious",
           "messages": [
@@ -146,11 +175,16 @@
             "x": 693.390625,
             "y": 36.609375,
             "w": 88.875,
-            "h": 15.59375
+            "h": 15.59375,
+            "fontSize": 13,
+            "fontWeight": "600",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "TRAVEL TRADE"
           }
         },
         {
-          "target": ".nav--header__inner > .nav__item:nth-child(4) > .dms-ext-link[href$=\"huntfishmanitoba.ca/\"][aria-describedby=\"audioeye_new_window_message\"]",
+          "target": ".nav--header__inner > .nav__item:nth-child(5) > a[href$=\"huntfishmanitoba.ca/\"][aria-describedby=\"audioeye_new_window_message\"][target=\"_blank\"]",
           "html": "<a href=\"https://huntfishmanitoba.ca/\" target=\"_blank\" rel=\"noopener\" class=\"nav__link dms-ext-link\" aria-describedby=\"audioeye_new_window_message\">\n\n                \n                Hunt Fish Manitoba\n            </a>",
           "impact": "serious",
           "messages": [
@@ -160,11 +194,16 @@
             "x": 812.265625,
             "y": 36.609375,
             "w": 133.515625,
-            "h": 15.59375
+            "h": 15.59375,
+            "fontSize": 13,
+            "fontWeight": "600",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "HUNT FISH MANITOBA"
           }
         },
         {
-          "target": ".nav--header__inner > .has-children.nav__item[data-has-subnav=\"\"]:nth-child(5) > .nav__link[target=\"\"][rel=\"noopener\"]",
+          "target": ".nav--header__inner > .has-children.nav__item[data-has-subnav=\"\"]:nth-child(6) > .nav__link[target=\"\"][rel=\"noopener\"]",
           "html": "<a href=\"https://www.travelmanitoba.com/manitoba-north/\" target=\"\" rel=\"noopener\" class=\"nav__link  \">\n\n                \n                Manitoba North\n            </a>",
           "impact": "serious",
           "messages": [
@@ -174,7 +213,12 @@
             "x": 975.78125,
             "y": 36.609375,
             "w": 111.640625,
-            "h": 15.59375
+            "h": 15.59375,
+            "fontSize": 13,
+            "fontWeight": "600",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "MANITOBA NORTH"
           }
         },
         {
@@ -188,7 +232,12 @@
             "x": 1134.75,
             "y": 36.609375,
             "w": 36.25,
-            "h": 15.59375
+            "h": 15.59375,
+            "fontSize": 13,
+            "fontWeight": "600",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "FR"
           }
         },
         {
@@ -202,7 +251,12 @@
             "x": 1107.421875,
             "y": 36.609375,
             "w": 27.328125,
-            "h": 15.59375
+            "h": 15.59375,
+            "fontSize": 13,
+            "fontWeight": "600",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "EN"
           }
         },
         {
@@ -216,7 +270,12 @@
             "x": 292,
             "y": 71.609375,
             "w": 113.375,
-            "h": 16.796875
+            "h": 16.796875,
+            "fontSize": 14,
+            "fontWeight": "700",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "THINGS TO DO"
           }
         },
         {
@@ -230,7 +289,12 @@
             "x": 431.984375,
             "y": 71.609375,
             "w": 150.859375,
-            "h": 16.796875
+            "h": 16.796875,
+            "fontSize": 14,
+            "fontWeight": "700",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "MANITOBA EVENTS"
           }
         },
         {
@@ -244,7 +308,12 @@
             "x": 609.453125,
             "y": 71.609375,
             "w": 113.3125,
-            "h": 16.796875
+            "h": 16.796875,
+            "fontSize": 14,
+            "fontWeight": "700",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "PLACES TO GO"
           }
         },
         {
@@ -258,7 +327,12 @@
             "x": 749.390625,
             "y": 71.609375,
             "w": 124.53125,
-            "h": 16.796875
+            "h": 16.796875,
+            "fontSize": 14,
+            "fontWeight": "700",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "WHERE TO STAY"
           }
         },
         {
@@ -272,7 +346,12 @@
             "x": 900.53125,
             "y": 71.609375,
             "w": 136.859375,
-            "h": 16.796875
+            "h": 16.796875,
+            "fontSize": 14,
+            "fontWeight": "700",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "TRIP ESSENTIALS"
           }
         },
         {
@@ -286,7 +365,12 @@
             "x": 1064,
             "y": 71.609375,
             "w": 100,
-            "h": 16.796875
+            "h": 16.796875,
+            "fontSize": 14,
+            "fontWeight": "700",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "CONTACT US"
           }
         },
         {
@@ -300,7 +384,12 @@
             "x": 20,
             "y": 1448.9375,
             "w": 428.65625,
-            "h": 76.796875
+            "h": 76.796875,
+            "fontSize": 24,
+            "fontWeight": "500",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(19, 19, 19, 0.55)",
+            "text": "Indigenous Experiences"
           }
         },
         {
@@ -314,7 +403,12 @@
             "x": 468.65625,
             "y": 1448.9375,
             "w": 428.671875,
-            "h": 76.796875
+            "h": 76.796875,
+            "fontSize": 24,
+            "fontWeight": "500",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(19, 19, 19, 0.55)",
+            "text": "Urban Escapes"
           }
         },
         {
@@ -328,7 +422,12 @@
             "x": 917.328125,
             "y": 1448.9375,
             "w": 428.65625,
-            "h": 76.796875
+            "h": 76.796875,
+            "fontSize": 24,
+            "fontWeight": "500",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(19, 19, 19, 0.55)",
+            "text": "Stunning Stays"
           }
         },
         {
@@ -342,7 +441,12 @@
             "x": 20,
             "y": 1796.9375,
             "w": 428.65625,
-            "h": 76.796875
+            "h": 76.796875,
+            "fontSize": 24,
+            "fontWeight": "500",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(19, 19, 19, 0.55)",
+            "text": "Road Trips"
           }
         },
         {
@@ -356,7 +460,12 @@
             "x": 332.515625,
             "y": 1841.734375,
             "w": 108.140625,
-            "h": 18
+            "h": 18,
+            "fontSize": 12,
+            "fontWeight": "600",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Leisure Travel Vans"
           }
         },
         {
@@ -370,7 +479,12 @@
             "x": 468.65625,
             "y": 1796.9375,
             "w": 428.671875,
-            "h": 76.796875
+            "h": 76.796875,
+            "fontSize": 24,
+            "fontWeight": "500",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(19, 19, 19, 0.55)",
+            "text": "Explore Manitoba's North"
           }
         },
         {
@@ -384,7 +498,12 @@
             "x": 20,
             "y": 2980.4375,
             "w": 428.65625,
-            "h": 76.796875
+            "h": 76.796875,
+            "fontSize": 24,
+            "fontWeight": "500",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(19, 19, 19, 0.55)",
+            "text": "Food & Drink"
           }
         },
         {
@@ -398,7 +517,12 @@
             "x": 468.65625,
             "y": 2980.4375,
             "w": 428.671875,
-            "h": 76.796875
+            "h": 76.796875,
+            "fontSize": 24,
+            "fontWeight": "500",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(19, 19, 19, 0.55)",
+            "text": "Spas & Wellness"
           }
         },
         {
@@ -412,7 +536,12 @@
             "x": 761.453125,
             "y": 3025.234375,
             "w": 127.875,
-            "h": 18
+            "h": 18,
+            "fontSize": 12,
+            "fontWeight": "600",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Credit Travel Manitoba"
           }
         },
         {
@@ -426,7 +555,12 @@
             "x": 917.328125,
             "y": 2980.4375,
             "w": 428.65625,
-            "h": 76.796875
+            "h": 76.796875,
+            "fontSize": 24,
+            "fontWeight": "500",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(19, 19, 19, 0.55)",
+            "text": "Family Fun"
           }
         },
         {
@@ -440,7 +574,12 @@
             "x": 20,
             "y": 3328.4375,
             "w": 428.65625,
-            "h": 76.796875
+            "h": 76.796875,
+            "fontSize": 24,
+            "fontWeight": "500",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(19, 19, 19, 0.55)",
+            "text": "Road Trips and Day Trips"
           }
         },
         {
@@ -454,7 +593,12 @@
             "x": 332.515625,
             "y": 3373.234375,
             "w": 108.140625,
-            "h": 18
+            "h": 18,
+            "fontSize": 12,
+            "fontWeight": "600",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Leisure Travel Vans"
           }
         },
         {
@@ -468,7 +612,12 @@
             "x": 468.65625,
             "y": 3328.4375,
             "w": 428.671875,
-            "h": 76.796875
+            "h": 76.796875,
+            "fontSize": 24,
+            "fontWeight": "500",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(19, 19, 19, 0.55)",
+            "text": "Arts, Culture & History"
           }
         },
         {
@@ -482,7 +631,12 @@
             "x": 917.328125,
             "y": 3328.4375,
             "w": 428.65625,
-            "h": 76.796875
+            "h": 76.796875,
+            "fontSize": 24,
+            "fontWeight": "500",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(19, 19, 19, 0.55)",
+            "text": "Outdoor Adventures"
           }
         },
         {
@@ -496,7 +650,12 @@
             "x": 0,
             "y": 7817.96875,
             "w": 297.984375,
-            "h": 39.5
+            "h": 39.5,
+            "fontSize": 30,
+            "fontWeight": "600",
+            "color": "rgb(19, 19, 19)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Featured Events"
           }
         },
         {
@@ -510,7 +669,12 @@
             "x": 40,
             "y": 8228.46875,
             "w": 269,
-            "h": 45.59375
+            "h": 45.59375,
+            "fontSize": 19,
+            "fontWeight": "700",
+            "color": "rgb(19, 19, 19)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "African Movie Festival in Manitoba"
           }
         },
         {
@@ -524,7 +688,12 @@
             "x": 40,
             "y": 8286.0625,
             "w": 269,
-            "h": 54
+            "h": 54,
+            "fontSize": 15,
+            "fontWeight": "400",
+            "color": "rgb(65, 64, 66)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "300 Memorial Blvd Winnipeg, Manitoba R3C 1V1"
           }
         },
         {
@@ -538,7 +707,12 @@
             "x": 36,
             "y": 8378.0625,
             "w": 125.875,
-            "h": 37.390625
+            "h": 37.390625,
+            "fontSize": 14.5,
+            "fontWeight": "600",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(214, 36, 0)",
+            "text": "MORE INFO"
           }
         },
         {
@@ -552,7 +726,12 @@
             "x": 379,
             "y": 8228.46875,
             "w": 269,
-            "h": 45.59375
+            "h": 45.59375,
+            "fontSize": 19,
+            "fontWeight": "700",
+            "color": "rgb(19, 19, 19)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "African Movie Festial in Manitoba"
           }
         },
         {
@@ -566,7 +745,12 @@
             "x": 379,
             "y": 8286.0625,
             "w": 269,
-            "h": 27
+            "h": 27,
+            "fontSize": 15,
+            "fontWeight": "400",
+            "color": "rgb(65, 64, 66)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Winnipeg, Manitoba R3C 1V1"
           }
         },
         {
@@ -580,12 +764,17 @@
             "x": 375,
             "y": 8378.0625,
             "w": 125.875,
-            "h": 37.390625
+            "h": 37.390625,
+            "fontSize": 14.5,
+            "fontWeight": "600",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(214, 36, 0)",
+            "text": "MORE INFO"
           }
         },
         {
           "target": ".card--event.card[data-set-view=\"\"]:nth-child(3) > .card__int > .fade-up-50.card__body.delay--2 > .card__body-info > .card__title",
-          "html": "<h3 class=\"card__title\">\n                    Artist Talk With Raymond Boisjoly\n                </h3>",
+          "html": "<h3 class=\"card__title\">\n                    Yummiest Salsa Competition\n                </h3>",
           "impact": "serious",
           "messages": [
             "Element's background color could not be determined due to a pseudo element"
@@ -594,26 +783,36 @@
             "x": 718,
             "y": 8228.46875,
             "w": 269,
-            "h": 45.59375
+            "h": 22.796875,
+            "fontSize": 19,
+            "fontWeight": "700",
+            "color": "rgb(19, 19, 19)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Yummiest Salsa Competition"
           }
         },
         {
           "target": ".card--event.card[data-set-view=\"\"]:nth-child(3) > .card__int > .fade-up-50.card__body.delay--2 > .card__body-info > .card__summary",
-          "html": "<p class=\"card__summary\">\n                    460 Portage Ave<br>Winnipeg, Manitoba R3C 0E8<br>\n                </p>",
+          "html": "<p class=\"card__summary\">\n                    100 Center Avenue<br>Blumenort, Manitoba R0A 0C1<br>\n                </p>",
           "impact": "serious",
           "messages": [
             "Element's background color could not be determined due to a pseudo element"
           ],
           "box": {
             "x": 718,
-            "y": 8286.0625,
+            "y": 8263.265625,
             "w": 269,
-            "h": 54
+            "h": 54,
+            "fontSize": 15,
+            "fontWeight": "400",
+            "color": "rgb(65, 64, 66)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "100 Center Avenue Blumenort, Manitoba R0A 0C1"
           }
         },
         {
           "target": ".card--event.card[data-set-view=\"\"]:nth-child(3) > .card__int > .fade-up-50.card__body.delay--2 > footer > .featured-events.btn--details.btn",
-          "html": "<a href=\"https://www.travelmanitoba.com/events/artist-talk-with-raymond-boisjoly/\" target=\"_self\" rel=\"noopener\" class=\"btn btn--details featured-events\">\n                                        More Info\n                </a>",
+          "html": "<a href=\"https://www.travelmanitoba.com/events/yummiest-salsa-competition/\" target=\"_self\" rel=\"noopener\" class=\"btn btn--details featured-events\">\n                                        More Info\n                </a>",
           "impact": "serious",
           "messages": [
             "Element's background color could not be determined due to a pseudo element"
@@ -622,12 +821,17 @@
             "x": 714,
             "y": 8378.0625,
             "w": 125.875,
-            "h": 37.390625
+            "h": 37.390625,
+            "fontSize": 14.5,
+            "fontWeight": "600",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(214, 36, 0)",
+            "text": "MORE INFO"
           }
         },
         {
           "target": ".card--event.card[data-set-view=\"\"]:nth-child(4) > .card__int > .fade-up-50.card__body.delay--2 > .card__body-info > .card__title",
-          "html": "<h3 class=\"card__title\">\n                    Culture Days Manitoba/Nuit Blanche...\n                </h3>",
+          "html": "<h3 class=\"card__title\">\n                    Métis Kitchen Party\n                </h3>",
           "impact": "serious",
           "messages": [
             "Element's background color could not be determined due to a pseudo element"
@@ -636,26 +840,36 @@
             "x": 1057,
             "y": 8228.46875,
             "w": 269,
-            "h": 45.59375
+            "h": 22.796875,
+            "fontSize": 19,
+            "fontWeight": "700",
+            "color": "rgb(19, 19, 19)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Métis Kitchen Party"
           }
         },
         {
           "target": ".card--event.card[data-set-view=\"\"]:nth-child(4) > .card__int > .fade-up-50.card__body.delay--2 > .card__body-info > .card__summary",
-          "html": "<p class=\"card__summary\">\n                    Winnipeg, Manitoba R3B 0S6<br>\n                </p>",
+          "html": "<p class=\"card__summary\">\n                    61105 PR 406<br>Whitemouth, Manitoba R0E 2G0<br>\n                </p>",
           "impact": "serious",
           "messages": [
             "Element's background color could not be determined due to a pseudo element"
           ],
           "box": {
             "x": 1057,
-            "y": 8286.0625,
+            "y": 8263.265625,
             "w": 269,
-            "h": 27
+            "h": 54,
+            "fontSize": 15,
+            "fontWeight": "400",
+            "color": "rgb(65, 64, 66)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "61105 PR 406 Whitemouth, Manitoba R0E 2G0"
           }
         },
         {
           "target": ".card--event.card[data-set-view=\"\"]:nth-child(4) > .card__int > .fade-up-50.card__body.delay--2 > footer > .featured-events.btn--details.btn",
-          "html": "<a href=\"https://www.travelmanitoba.com/events/culture-days-manitoba-nuit-blanche-winnipeg/\" target=\"_self\" rel=\"noopener\" class=\"btn btn--details featured-events\">\n                                        More Info\n                </a>",
+          "html": "<a href=\"https://www.travelmanitoba.com/events/métis-kitchen-party-4/\" target=\"_self\" rel=\"noopener\" class=\"btn btn--details featured-events\">\n                                        More Info\n                </a>",
           "impact": "serious",
           "messages": [
             "Element's background color could not be determined due to a pseudo element"
@@ -664,7 +878,12 @@
             "x": 1053,
             "y": 8378.0625,
             "w": 125.875,
-            "h": 37.390625
+            "h": 37.390625,
+            "fontSize": 14.5,
+            "fontWeight": "600",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(214, 36, 0)",
+            "text": "MORE INFO"
           }
         },
         {
@@ -678,7 +897,12 @@
             "x": 32,
             "y": 818.453125,
             "w": 719.296875,
-            "h": 58.546875
+            "h": 58.546875,
+            "fontSize": 13.008,
+            "fontWeight": "400",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "We want you to know that we place cookies on your device. These cookies help enh"
           }
         }
       ]
@@ -729,7 +953,12 @@
             "x": 0,
             "y": 0,
             "w": 0,
-            "h": 0
+            "h": 0,
+            "fontSize": 18,
+            "fontWeight": "400",
+            "color": "rgb(65, 64, 66)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "< Back Arts, Culture & History < Back Canadian Museum For Human Rights French Ma"
           }
         },
         {
@@ -743,7 +972,12 @@
             "x": 0,
             "y": 0,
             "w": 0,
-            "h": 0
+            "h": 0,
+            "fontSize": 18,
+            "fontWeight": "400",
+            "color": "rgb(65, 64, 66)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "< Back Canadian Museum For Human Rights French Manitoba Historic Places Indigeno"
           }
         },
         {
@@ -757,7 +991,12 @@
             "x": 0,
             "y": 0,
             "w": 0,
-            "h": 0
+            "h": 0,
+            "fontSize": 18,
+            "fontWeight": "400",
+            "color": "rgb(65, 64, 66)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "< Back Parks Wildlife Viewing Fishing Northern Lights Travel Deals Beaches & Boa"
           }
         },
         {
@@ -771,7 +1010,12 @@
             "x": 0,
             "y": 0,
             "w": 0,
-            "h": 0
+            "h": 0,
+            "fontSize": 18,
+            "fontWeight": "400",
+            "color": "rgb(65, 64, 66)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "< Back Winnipeg Churchill Eastern Region Central Region Interlake Region Parklan"
           }
         },
         {
@@ -785,7 +1029,12 @@
             "x": 0,
             "y": 0,
             "w": 0,
-            "h": 0
+            "h": 0,
+            "fontSize": 18,
+            "fontWeight": "400",
+            "color": "rgb(65, 64, 66)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "< Back Brandon Clear Lake Country Flin Flon Gimli Morden-Winkler Neepawa Portage"
           }
         },
         {
@@ -799,7 +1048,12 @@
             "x": 0,
             "y": 0,
             "w": 0,
-            "h": 0
+            "h": 0,
+            "fontSize": 18,
+            "fontWeight": "400",
+            "color": "rgb(65, 64, 66)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "< Back Island Getaway on the Prairies Adventure From Here on Out Wheat City Wand"
           }
         },
         {
@@ -813,7 +1067,12 @@
             "x": 0,
             "y": 0,
             "w": 0,
-            "h": 0
+            "h": 0,
+            "fontSize": 18,
+            "fontWeight": "400",
+            "color": "rgb(65, 64, 66)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "< Back Bed & Breakfasts Cabins & Cottages Campgrounds & RV Parks < Back Private "
           }
         },
         {
@@ -827,7 +1086,12 @@
             "x": 0,
             "y": 0,
             "w": 0,
-            "h": 0
+            "h": 0,
+            "fontSize": 18,
+            "fontWeight": "400",
+            "color": "rgb(65, 64, 66)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "< Back Private Campgrounds Provincial Campgrounds"
           }
         },
         {
@@ -841,7 +1105,12 @@
             "x": 0,
             "y": 0,
             "w": 0,
-            "h": 0
+            "h": 0,
+            "fontSize": 18,
+            "fontWeight": "400",
+            "color": "rgb(65, 64, 66)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "< Back oTENTiks Vacation Farms Yurts"
           }
         },
         {
@@ -855,7 +1124,12 @@
             "x": 0,
             "y": 0,
             "w": 0,
-            "h": 0
+            "h": 0,
+            "fontSize": 18,
+            "fontWeight": "400",
+            "color": "rgb(65, 64, 66)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "< Back About Manitoba < Back History Educational Resources Email Signup < Back U"
           }
         },
         {
@@ -869,7 +1143,12 @@
             "x": 0,
             "y": 0,
             "w": 0,
-            "h": 0
+            "h": 0,
+            "fontSize": 18,
+            "fontWeight": "400",
+            "color": "rgb(65, 64, 66)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "< Back History Educational Resources"
           }
         },
         {
@@ -883,7 +1162,12 @@
             "x": 0,
             "y": 0,
             "w": 0,
-            "h": 0
+            "h": 0,
+            "fontSize": 18,
+            "fontWeight": "400",
+            "color": "rgb(65, 64, 66)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "< Back Update Your Information"
           }
         },
         {
@@ -897,7 +1181,12 @@
             "x": 0,
             "y": 0,
             "w": 0,
-            "h": 0
+            "h": 0,
+            "fontSize": 18,
+            "fontWeight": "400",
+            "color": "rgb(65, 64, 66)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "< Back Visitor Guides Request Form"
           }
         },
         {
@@ -911,7 +1200,12 @@
             "x": 0,
             "y": 0,
             "w": 0,
-            "h": 0
+            "h": 0,
+            "fontSize": 18,
+            "fontWeight": "400",
+            "color": "rgb(65, 64, 66)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "< Back Manitoba Brew Pass Manitoba Perogy Trail Manitoba Kid's Choice Pass Trave"
           }
         },
         {
@@ -925,7 +1219,12 @@
             "x": 0,
             "y": 0,
             "w": 0,
-            "h": 0
+            "h": 0,
+            "fontSize": 18,
+            "fontWeight": "400",
+            "color": "rgb(65, 64, 66)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "< Back How To Play Frequently Asked Questions"
           }
         },
         {
@@ -939,7 +1238,12 @@
             "x": 0,
             "y": 0,
             "w": 0,
-            "h": 0
+            "h": 0,
+            "fontSize": 18,
+            "fontWeight": "400",
+            "color": "rgb(65, 64, 66)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "< Back Adventure Dog Contest Manitoba's 2026 Adventure Dog Contest Regulations"
           }
         },
         {
@@ -953,7 +1257,12 @@
             "x": 0,
             "y": 0,
             "w": 0,
-            "h": 0
+            "h": 0,
+            "fontSize": 15.75,
+            "fontWeight": "600",
+            "color": "rgb(105, 105, 105)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Marketing Cookies"
           }
         },
         {
@@ -967,7 +1276,12 @@
             "x": 0,
             "y": 0,
             "w": 0,
-            "h": 0
+            "h": 0,
+            "fontSize": 15.75,
+            "fontWeight": "600",
+            "color": "rgb(105, 105, 105)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Functional Cookies"
           }
         },
         {
@@ -981,7 +1295,12 @@
             "x": 0,
             "y": 0,
             "w": 0,
-            "h": 0
+            "h": 0,
+            "fontSize": 15.75,
+            "fontWeight": "600",
+            "color": "rgb(105, 105, 105)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Performance Cookies"
           }
         },
         {
@@ -995,7 +1314,12 @@
             "x": 0,
             "y": 0,
             "w": 0,
-            "h": 0
+            "h": 0,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(65, 64, 66)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Your PrivacyWhen you visit our website, we may store or retrieve information on "
           }
         },
         {
@@ -1009,7 +1333,12 @@
             "x": 0,
             "y": 0,
             "w": 0,
-            "h": 0
+            "h": 0,
+            "fontSize": 14,
+            "fontWeight": "700",
+            "color": "rgb(105, 105, 105)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Your Privacy"
           }
         },
         {
@@ -1023,7 +1352,12 @@
             "x": 0,
             "y": 0,
             "w": 0,
-            "h": 0
+            "h": 0,
+            "fontSize": 13.008,
+            "fontWeight": "400",
+            "color": "rgb(105, 105, 105)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "When you visit our website, we may store or retrieve information on your browser"
           }
         },
         {
@@ -1037,7 +1371,12 @@
             "x": 0,
             "y": 0,
             "w": 0,
-            "h": 0
+            "h": 0,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(65, 64, 66)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Marketing Cookies Marketing Cookies ActiveThese cookies may be set through our s"
           }
         },
         {
@@ -1051,7 +1390,12 @@
             "x": 0,
             "y": 0,
             "w": 0,
-            "h": 0
+            "h": 0,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "on"
           }
         },
         {
@@ -1065,7 +1409,12 @@
             "x": 0,
             "y": 0,
             "w": 0,
-            "h": 0
+            "h": 0,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(65, 64, 66)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Functional Cookies Functional Cookies ActiveThese cookies enable the website to "
           }
         },
         {
@@ -1079,7 +1428,12 @@
             "x": 0,
             "y": 0,
             "w": 0,
-            "h": 0
+            "h": 0,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "on"
           }
         },
         {
@@ -1093,7 +1447,12 @@
             "x": 0,
             "y": 0,
             "w": 0,
-            "h": 0
+            "h": 0,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(65, 64, 66)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Performance Cookies Performance Cookies ActiveThese cookies allow us to count vi"
           }
         },
         {
@@ -1107,7 +1466,12 @@
             "x": 0,
             "y": 0,
             "w": 0,
-            "h": 0
+            "h": 0,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "on"
           }
         },
         {
@@ -1121,7 +1485,12 @@
             "x": 0,
             "y": 0,
             "w": 0,
-            "h": 0
+            "h": 0,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(65, 64, 66)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Strictly Necessary CookiesAlways ActiveThese cookies are necessary for the websi"
           }
         },
         {
@@ -1135,7 +1504,12 @@
             "x": 0,
             "y": 0,
             "w": 0,
-            "h": 0
+            "h": 0,
+            "fontSize": 12.8,
+            "fontWeight": "400",
+            "color": "rgb(10, 10, 10)",
+            "background": "rgb(255, 255, 255)",
+            "text": ""
           }
         },
         {
@@ -1149,7 +1523,12 @@
             "x": 0,
             "y": 0,
             "w": 0,
-            "h": 0
+            "h": 0,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "on"
           }
         },
         {
@@ -1163,7 +1542,12 @@
             "x": 0,
             "y": 0,
             "w": 0,
-            "h": 0
+            "h": 0,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "on"
           }
         },
         {
@@ -1177,7 +1561,12 @@
             "x": 0,
             "y": 0,
             "w": 0,
-            "h": 0
+            "h": 0,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "on"
           }
         },
         {
@@ -1191,7 +1580,12 @@
             "x": 0,
             "y": 0,
             "w": 0,
-            "h": 0
+            "h": 0,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "on"
           }
         }
       ]
@@ -1240,7 +1634,12 @@
             "x": 1294,
             "y": 40,
             "w": 40,
-            "h": 40
+            "h": 40,
+            "fontSize": 20,
+            "fontWeight": "400",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": ""
           }
         }
       ]
@@ -1279,7 +1678,12 @@
             "x": 753,
             "y": 3779.21875,
             "w": 523,
-            "h": 136
+            "h": 136,
+            "fontSize": 20,
+            "fontWeight": "400",
+            "color": "rgb(19, 19, 19)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Search for hidden gems, hotel packages, date night ideas and more with our Trave"
           }
         },
         {
@@ -1293,11 +1697,16 @@
             "x": 749,
             "y": 3929.21875,
             "w": 188.84375,
-            "h": 37.390625
+            "h": 37.390625,
+            "fontSize": 14.5,
+            "fontWeight": "600",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(214, 36, 0)",
+            "text": "VIEW ALL DETAILS!"
           }
         },
         {
-          "target": ".dms-ext-link[href$=\"4xLvCwM\"][aria-describedby=\"audioeye_new_window_message\"]:nth-child(1) > .card__subtitle--upper.card__subtitle",
+          "target": "a[href$=\"4xLvCwM\"][aria-describedby=\"audioeye_new_window_message\"][target=\"_blank\"]:nth-child(1) > .card__subtitle--upper.card__subtitle",
           "html": "<div class=\"card__subtitle card__subtitle--upper\">\n                            Royal Winnipeg Ballet\n                        </div>",
           "impact": "serious",
           "messages": [
@@ -1307,7 +1716,12 @@
             "x": 40,
             "y": 4587.828125,
             "w": 269,
-            "h": 19.1875
+            "h": 19.1875,
+            "fontSize": 16,
+            "fontWeight": "600",
+            "color": "rgb(214, 36, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "ROYAL WINNIPEG BALLET"
           }
         },
         {
@@ -1321,7 +1735,12 @@
             "x": 40,
             "y": 4646.8125,
             "w": 269,
-            "h": 189
+            "h": 189,
+            "fontSize": 15,
+            "fontWeight": "400",
+            "color": "rgb(65, 64, 66)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Experience the Royal Winnipeg Ballet’s Studio Series, an intimate evening of bal"
           }
         },
         {
@@ -1335,11 +1754,16 @@
             "x": 36,
             "y": 4915.796875,
             "w": 142.53125,
-            "h": 37.390625
+            "h": 37.390625,
+            "fontSize": 14.5,
+            "fontWeight": "600",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(214, 36, 0)",
+            "text": "BOOK TODAY!"
           }
         },
         {
-          "target": ".dms-ext-link[href$=\"4haNoCF\"][aria-describedby=\"audioeye_new_window_message\"]:nth-child(1) > .card__subtitle--upper.card__subtitle",
+          "target": "a[href$=\"4haNoCF\"][aria-describedby=\"audioeye_new_window_message\"][target=\"_blank\"]:nth-child(1) > .card__subtitle--upper.card__subtitle",
           "html": "<div class=\"card__subtitle card__subtitle--upper\">\n                            Frontiers North Adventures\n                        </div>",
           "impact": "serious",
           "messages": [
@@ -1349,7 +1773,12 @@
             "x": 379,
             "y": 4587.828125,
             "w": 269,
-            "h": 38.375
+            "h": 38.375,
+            "fontSize": 16,
+            "fontWeight": "600",
+            "color": "rgb(214, 36, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "FRONTIERS NORTH ADVENTURES"
           }
         },
         {
@@ -1363,7 +1792,12 @@
             "x": 379,
             "y": 4688.796875,
             "w": 269,
-            "h": 189
+            "h": 189,
+            "fontSize": 15,
+            "fontWeight": "400",
+            "color": "rgb(65, 64, 66)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Enjoy a seven-course meal featuring local and regional fare, all served beneath "
           }
         },
         {
@@ -1377,7 +1811,12 @@
             "x": 375,
             "y": 4915.796875,
             "w": 142.53125,
-            "h": 37.390625
+            "h": 37.390625,
+            "fontSize": 14.5,
+            "fontWeight": "600",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(214, 36, 0)",
+            "text": "BOOK TODAY!"
           }
         },
         {
@@ -1391,7 +1830,12 @@
             "x": 718,
             "y": 4587.828125,
             "w": 269,
-            "h": 19.1875
+            "h": 19.1875,
+            "fontSize": 16,
+            "fontWeight": "600",
+            "color": "rgb(214, 36, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "PERIMETER AVIATION"
           }
         },
         {
@@ -1405,7 +1849,12 @@
             "x": 718,
             "y": 4646.8125,
             "w": 269,
-            "h": 135
+            "h": 135,
+            "fontSize": 15,
+            "fontWeight": "400",
+            "color": "rgb(65, 64, 66)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Experience angling excursions, wild rivers, water-coloured sunsets, and the roar"
           }
         },
         {
@@ -1419,7 +1868,12 @@
             "x": 714,
             "y": 4915.796875,
             "w": 125.875,
-            "h": 37.390625
+            "h": 37.390625,
+            "fontSize": 14.5,
+            "fontWeight": "600",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(214, 36, 0)",
+            "text": "MORE INFO"
           }
         },
         {
@@ -1433,7 +1887,12 @@
             "x": 1057,
             "y": 4587.828125,
             "w": 269,
-            "h": 19.1875
+            "h": 19.1875,
+            "fontSize": 16,
+            "fontWeight": "600",
+            "color": "rgb(214, 36, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "NANUK OPERATIONS"
           }
         },
         {
@@ -1447,7 +1906,12 @@
             "x": 1057,
             "y": 4669.609375,
             "w": 269,
-            "h": 189
+            "h": 189,
+            "fontSize": 15,
+            "fontWeight": "400",
+            "color": "rgb(65, 64, 66)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Our Nights Under Lights package gives you some of the best chances in the world "
           }
         },
         {
@@ -1461,7 +1925,12 @@
             "x": 1053,
             "y": 4915.796875,
             "w": 125.875,
-            "h": 37.390625
+            "h": 37.390625,
+            "fontSize": 14.5,
+            "fontWeight": "600",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(214, 36, 0)",
+            "text": "MORE INFO"
           }
         },
         {
@@ -1475,7 +1944,12 @@
             "x": 753,
             "y": 5129.015625,
             "w": 523,
-            "h": 19.1875
+            "h": 19.1875,
+            "fontSize": 16,
+            "fontWeight": "600",
+            "color": "rgb(214, 36, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "SOUTH BEACH CASINO AND RESORT"
           }
         },
         {
@@ -1489,7 +1963,12 @@
             "x": 753,
             "y": 5287.953125,
             "w": 523,
-            "h": 170
+            "h": 170,
+            "fontSize": 20,
+            "fontWeight": "400",
+            "color": "rgb(65, 64, 66)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Mango’s Restaurant features exciting new menus for breakfast and dine-in. Check "
           }
         },
         {
@@ -1503,7 +1982,12 @@
             "x": 749,
             "y": 5471.953125,
             "w": 125.875,
-            "h": 37.390625
+            "h": 37.390625,
+            "fontSize": 14.5,
+            "fontWeight": "600",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(214, 36, 0)",
+            "text": "MORE INFO"
           }
         },
         {
@@ -1517,7 +2001,12 @@
             "x": 753,
             "y": 5820.796875,
             "w": 523,
-            "h": 19.1875
+            "h": 19.1875,
+            "fontSize": 16,
+            "fontWeight": "600",
+            "color": "rgb(214, 36, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "CALM AIR INTERNATIONAL LP"
           }
         },
         {
@@ -1531,7 +2020,12 @@
             "x": 753,
             "y": 5886.171875,
             "w": 523,
-            "h": 136
+            "h": 136,
+            "fontSize": 20,
+            "fontWeight": "400",
+            "color": "rgb(65, 64, 66)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Discover the serene skies with Calm Air – your gateway to Winnipeg, Flin Flon, T"
           }
         },
         {
@@ -1545,7 +2039,12 @@
             "x": 749,
             "y": 6036.171875,
             "w": 125.875,
-            "h": 37.390625
+            "h": 37.390625,
+            "fontSize": 14.5,
+            "fontWeight": "600",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(214, 36, 0)",
+            "text": "MORE INFO"
           }
         },
         {
@@ -1559,7 +2058,12 @@
             "x": 40,
             "y": 6733.078125,
             "w": 269,
-            "h": 162
+            "h": 162,
+            "fontSize": 15,
+            "fontWeight": "400",
+            "color": "rgb(65, 64, 66)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Here, you’re at the centre of everything. Manitoba is located at the longitudina"
           }
         },
         {
@@ -1573,7 +2077,12 @@
             "x": 36,
             "y": 6933.078125,
             "w": 125.875,
-            "h": 37.390625
+            "h": 37.390625,
+            "fontSize": 14.5,
+            "fontWeight": "600",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(214, 36, 0)",
+            "text": "MORE INFO"
           }
         },
         {
@@ -1587,7 +2096,12 @@
             "x": 379,
             "y": 6698.28125,
             "w": 269,
-            "h": 38.375
+            "h": 38.375,
+            "fontSize": 16,
+            "fontWeight": "600",
+            "color": "rgb(214, 36, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "INDIGENOUS TOURISM MANITOBA"
           }
         },
         {
@@ -1601,7 +2115,12 @@
             "x": 379,
             "y": 6776.453125,
             "w": 269,
-            "h": 81
+            "h": 81,
+            "fontSize": 15,
+            "fontWeight": "400",
+            "color": "rgb(65, 64, 66)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Experience Manitoba with the Indigenous Peoples who have called these lands home"
           }
         },
         {
@@ -1615,11 +2134,16 @@
             "x": 375,
             "y": 6933.078125,
             "w": 156.546875,
-            "h": 37.390625
+            "h": 37.390625,
+            "fontSize": 14.5,
+            "fontWeight": "600",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(214, 36, 0)",
+            "text": "EXPLORE NOW!"
           }
         },
         {
-          "target": ".dms-ext-link[href$=\"calmair.com/\"][aria-describedby=\"audioeye_new_window_message\"]:nth-child(1) > .card__subtitle--upper.card__subtitle",
+          "target": "a[href$=\"calmair.com/\"][aria-describedby=\"audioeye_new_window_message\"][target=\"_blank\"]:nth-child(1) > .card__subtitle--upper.card__subtitle",
           "html": "<div class=\"card__subtitle card__subtitle--upper\">\n                            Calm Air\n                        </div>",
           "impact": "serious",
           "messages": [
@@ -1629,7 +2153,12 @@
             "x": 718,
             "y": 6698.28125,
             "w": 269,
-            "h": 19.1875
+            "h": 19.1875,
+            "fontSize": 16,
+            "fontWeight": "600",
+            "color": "rgb(214, 36, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "CALM AIR"
           }
         },
         {
@@ -1643,7 +2172,12 @@
             "x": 718,
             "y": 6780.0625,
             "w": 269,
-            "h": 108
+            "h": 108,
+            "fontSize": 15,
+            "fontWeight": "400",
+            "color": "rgb(65, 64, 66)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Calm Air partners with local operators to bring visitors to Churchill for the mo"
           }
         },
         {
@@ -1657,7 +2191,12 @@
             "x": 714,
             "y": 6933.078125,
             "w": 142.53125,
-            "h": 37.390625
+            "h": 37.390625,
+            "fontSize": 14.5,
+            "fontWeight": "600",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(214, 36, 0)",
+            "text": "BOOK TODAY!"
           }
         },
         {
@@ -1671,7 +2210,12 @@
             "x": 1057,
             "y": 6698.28125,
             "w": 269,
-            "h": 19.1875
+            "h": 19.1875,
+            "fontSize": 16,
+            "fontWeight": "600",
+            "color": "rgb(214, 36, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "PLACES TO GO"
           }
         },
         {
@@ -1685,7 +2229,12 @@
             "x": 1057,
             "y": 6780.0625,
             "w": 269,
-            "h": 108
+            "h": 108,
+            "fontSize": 15,
+            "fontWeight": "400",
+            "color": "rgb(65, 64, 66)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "These must-see destinations deliver the best of our province. Discover some of M"
           }
         },
         {
@@ -1699,7 +2248,12 @@
             "x": 1053,
             "y": 6933.078125,
             "w": 156.546875,
-            "h": 37.390625
+            "h": 37.390625,
+            "fontSize": 14.5,
+            "fontWeight": "600",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(214, 36, 0)",
+            "text": "EXPLORE NOW!"
           }
         },
         {
@@ -1713,7 +2267,12 @@
             "x": 753,
             "y": 7380.859375,
             "w": 523,
-            "h": 136
+            "h": 136,
+            "fontSize": 20,
+            "fontWeight": "400",
+            "color": "rgb(19, 19, 19)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Discover the serene skies with Calm Air – your gateway to Winnipeg, Flin Flon, T"
           }
         },
         {
@@ -1727,7 +2286,12 @@
             "x": 749,
             "y": 7530.859375,
             "w": 142.53125,
-            "h": 37.390625
+            "h": 37.390625,
+            "fontSize": 14.5,
+            "fontWeight": "600",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(214, 36, 0)",
+            "text": "BOOK TODAY!"
           }
         },
         {
@@ -1741,7 +2305,12 @@
             "x": 462,
             "y": 9792.921875,
             "w": 299.453125,
-            "h": 27
+            "h": 27,
+            "fontSize": 15,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "2026 Travel Manitoba. All Rights Reserved"
           }
         }
       ]
@@ -1789,7 +2358,12 @@
             "x": 20,
             "y": 4268.234375,
             "w": 309,
-            "h": 273.59375
+            "h": 273.59375,
+            "fontSize": 20,
+            "fontWeight": "400",
+            "color": "rgb(65, 64, 66)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": ""
           }
         },
         {
@@ -1807,7 +2381,12 @@
             "x": 359,
             "y": 4268.234375,
             "w": 309,
-            "h": 273.59375
+            "h": 273.59375,
+            "fontSize": 20,
+            "fontWeight": "400",
+            "color": "rgb(65, 64, 66)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": ""
           }
         },
         {
@@ -1825,7 +2404,12 @@
             "x": 698,
             "y": 4268.234375,
             "w": 309,
-            "h": 273.59375
+            "h": 273.59375,
+            "fontSize": 20,
+            "fontWeight": "400",
+            "color": "rgb(65, 64, 66)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": ""
           }
         },
         {
@@ -1843,7 +2427,12 @@
             "x": 1037,
             "y": 4268.234375,
             "w": 309,
-            "h": 273.59375
+            "h": 273.59375,
+            "fontSize": 20,
+            "fontWeight": "400",
+            "color": "rgb(65, 64, 66)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": ""
           }
         },
         {
@@ -1861,7 +2450,12 @@
             "x": 20,
             "y": 5005.1875,
             "w": 663,
-            "h": 578
+            "h": 578,
+            "fontSize": 20,
+            "fontWeight": "400",
+            "color": "rgb(65, 64, 66)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": ""
           }
         },
         {
@@ -1879,7 +2473,12 @@
             "x": 20,
             "y": 5633.1875,
             "w": 663,
-            "h": 578
+            "h": 578,
+            "fontSize": 20,
+            "fontWeight": "400",
+            "color": "rgb(65, 64, 66)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": ""
           }
         },
         {
@@ -1897,7 +2496,12 @@
             "x": 20,
             "y": 6378.6875,
             "w": 309,
-            "h": 273.59375
+            "h": 273.59375,
+            "fontSize": 20,
+            "fontWeight": "400",
+            "color": "rgb(65, 64, 66)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": ""
           }
         },
         {
@@ -1915,7 +2519,12 @@
             "x": 93.5,
             "y": 7975.46875,
             "w": 162,
-            "h": 198
+            "h": 198,
+            "fontSize": 20,
+            "fontWeight": "400",
+            "color": "rgb(65, 64, 66)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "• SEP 19 - SEP 20 •"
           }
         },
         {
@@ -1933,12 +2542,17 @@
             "x": 432.5,
             "y": 7975.46875,
             "w": 162,
-            "h": 198
+            "h": 198,
+            "fontSize": 20,
+            "fontWeight": "400",
+            "color": "rgb(65, 64, 66)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "• SEP 19 - SEP 20 •"
           }
         },
         {
           "target": ".card--event.card[data-set-view=\"\"]:nth-child(3) > .card__int > .card__image-wrapper--event.card__image-wrapper > .card__link--event.featured-events.fade-in",
-          "html": "<a href=\"https://www.travelmanitoba.com/events/artist-talk-with-raymond-boisjoly/\" class=\"card__link card__link--event delay--1 fade-in featured-events\" target=\"_self\" rel=\"noopener\">",
+          "html": "<a href=\"https://www.travelmanitoba.com/events/yummiest-salsa-competition/\" class=\"card__link card__link--event delay--1 fade-in featured-events\" target=\"_self\" rel=\"noopener\">",
           "impact": "serious",
           "messages": [
             "Element does not have text that is visible to screen readers",
@@ -1951,12 +2565,17 @@
             "x": 771.5,
             "y": 7975.46875,
             "w": 162,
-            "h": 198
+            "h": 198,
+            "fontSize": 20,
+            "fontWeight": "400",
+            "color": "rgb(65, 64, 66)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "• SEP 19 •"
           }
         },
         {
           "target": ".card--event.card[data-set-view=\"\"]:nth-child(4) > .card__int > .card__image-wrapper--event.card__image-wrapper > .card__link--event.featured-events.fade-in",
-          "html": "<a href=\"https://www.travelmanitoba.com/events/culture-days-manitoba-nuit-blanche-winnipeg/\" class=\"card__link card__link--event delay--1 fade-in featured-events\" target=\"_self\" rel=\"noopener\">",
+          "html": "<a href=\"https://www.travelmanitoba.com/events/métis-kitchen-party-4/\" class=\"card__link card__link--event delay--1 fade-in featured-events\" target=\"_self\" rel=\"noopener\">",
           "impact": "serious",
           "messages": [
             "Element does not have text that is visible to screen readers",
@@ -1969,7 +2588,12 @@
             "x": 1110.5,
             "y": 7975.46875,
             "w": 162,
-            "h": 198
+            "h": 198,
+            "fontSize": 20,
+            "fontWeight": "400",
+            "color": "rgb(65, 64, 66)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "• SEP 19 •"
           }
         },
         {
@@ -1987,11 +2611,16 @@
             "x": 34,
             "y": 9267.328125,
             "w": 311,
-            "h": 88.390625
+            "h": 88.390625,
+            "fontSize": 20,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(214, 36, 0)",
+            "text": ""
           }
         },
         {
-          "target": "li:nth-child(2) > .footer-logos__wrapper.dms-ext-link[aria-describedby=\"audioeye_new_window_message\"]",
+          "target": "li:nth-child(2) > .footer-logos__wrapper[aria-describedby=\"audioeye_new_window_message\"][target=\"_blank\"]",
           "html": "<a href=\"https://www.thegreenwebfoundation.org/\" class=\"footer-logos__wrapper dms-ext-link\" target=\"_blank\" aria-describedby=\"audioeye_new_window_message\">",
           "impact": "serious",
           "messages": [
@@ -2005,7 +2634,12 @@
             "x": 367.921875,
             "y": 9655.421875,
             "w": 232,
-            "h": 100
+            "h": 100,
+            "fontSize": 18,
+            "fontWeight": "400",
+            "color": "rgb(214, 36, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": ""
           }
         }
       ]
@@ -2028,11 +2662,30 @@
       "wcag": [
         "1.3.1"
       ],
-      "nodes": 6,
+      "nodes": 7,
       "items": [
         {
-          "target": ".nav--header__inner > .has-children.nav__item[data-has-subnav=\"\"]:nth-child(1)",
-          "html": "<li class=\"nav__item has-children\" style=\"animation-delay:0.1s;\" data-has-subnav=\"\"><a href=\"https://www.travelmanitoba.com/media/\" target=\"\" rel=\"noopener\" class=\"nav__link  \">\n\n                \n                Travel Media\n            </a></li>",
+          "target": ".nav--header__inner > .nav__item:nth-child(1)",
+          "html": "<li class=\"nav__item \" style=\"animation-delay:0.1s;\"><a href=\"https://industry.travelmanitoba.com/\" target=\"_self\" rel=\"noopener\" class=\"nav__link dms-ext-link\">\n\n                \n                Tourism Industry\n            </a></li>",
+          "impact": "serious",
+          "messages": [
+            "List item does not have a <ul>, <ol> parent element"
+          ],
+          "box": {
+            "x": 225.203125,
+            "y": 36.609375,
+            "w": 120.4375,
+            "h": 15.59375,
+            "fontSize": 20,
+            "fontWeight": "400",
+            "color": "rgb(65, 64, 66)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "TOURISM INDUSTRY"
+          }
+        },
+        {
+          "target": ".nav--header__inner > .has-children.nav__item[data-has-subnav=\"\"]:nth-child(2)",
+          "html": "<li class=\"nav__item has-children\" style=\"animation-delay:0.2s;\" data-has-subnav=\"\"><a href=\"https://www.travelmanitoba.com/media/\" target=\"\" rel=\"noopener\" class=\"nav__link  \">\n\n                \n                Travel Media\n            </a></li>",
           "impact": "serious",
           "messages": [
             "List item does not have a <ul>, <ol> parent element"
@@ -2041,12 +2694,17 @@
             "x": 375.640625,
             "y": 36.609375,
             "w": 89.21875,
-            "h": 15.59375
+            "h": 15.59375,
+            "fontSize": 20,
+            "fontWeight": "400",
+            "color": "rgb(65, 64, 66)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "TRAVEL MEDIA"
           }
         },
         {
-          "target": ".nav--header__inner > .has-children.nav__item[data-has-subnav=\"\"]:nth-child(2)",
-          "html": "<li class=\"nav__item has-children\" style=\"animation-delay:0.2s;\" data-has-subnav=\"\"><a href=\"https://www.travelmanitoba.com/meetings/\" target=\"\" rel=\"noopener\" class=\"nav__link  \">\n\n                \n                Meetings &amp; Conventions\n            </a></li>",
+          "target": ".nav--header__inner > .has-children.nav__item[data-has-subnav=\"\"]:nth-child(3)",
+          "html": "<li class=\"nav__item has-children\" style=\"animation-delay:0.3s;\" data-has-subnav=\"\"><a href=\"https://www.travelmanitoba.com/meetings/\" target=\"\" rel=\"noopener\" class=\"nav__link  \">\n\n                \n                Meetings &amp; Conventions\n            </a></li>",
           "impact": "serious",
           "messages": [
             "List item does not have a <ul>, <ol> parent element"
@@ -2055,12 +2713,17 @@
             "x": 494.859375,
             "y": 36.609375,
             "w": 168.53125,
-            "h": 15.59375
+            "h": 15.59375,
+            "fontSize": 20,
+            "fontWeight": "400",
+            "color": "rgb(65, 64, 66)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "MEETINGS & CONVENTIONS"
           }
         },
         {
-          "target": ".nav--header__inner > .has-children.nav__item[data-has-subnav=\"\"]:nth-child(3)",
-          "html": "<li class=\"nav__item has-children\" style=\"animation-delay:0.3s;\" data-has-subnav=\"\"><a href=\"https://www.travelmanitoba.com/travel-trade/\" target=\"\" rel=\"noopener\" class=\"nav__link  \">\n\n                \n                Travel Trade\n            </a></li>",
+          "target": ".nav--header__inner > .has-children.nav__item[data-has-subnav=\"\"]:nth-child(4)",
+          "html": "<li class=\"nav__item has-children\" style=\"animation-delay:0.4s;\" data-has-subnav=\"\"><a href=\"https://www.travelmanitoba.com/travel-trade/\" target=\"\" rel=\"noopener\" class=\"nav__link  \">\n\n                \n                Travel Trade\n            </a></li>",
           "impact": "serious",
           "messages": [
             "List item does not have a <ul>, <ol> parent element"
@@ -2069,12 +2732,17 @@
             "x": 693.390625,
             "y": 36.609375,
             "w": 88.875,
-            "h": 15.59375
+            "h": 15.59375,
+            "fontSize": 20,
+            "fontWeight": "400",
+            "color": "rgb(65, 64, 66)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "TRAVEL TRADE"
           }
         },
         {
-          "target": ".nav--header__inner > .nav__item:nth-child(4)",
-          "html": "<li class=\"nav__item \" style=\"animation-delay:0.4s;\"><a href=\"https://huntfishmanitoba.ca/\" target=\"_blank\" rel=\"noopener\" class=\"nav__link dms-ext-link\" aria-describedby=\"audioeye_new_window_message\">\n\n                \n                Hunt Fish Manitoba\n            </a></li>",
+          "target": ".nav--header__inner > .nav__item:nth-child(5)",
+          "html": "<li class=\"nav__item \" style=\"animation-delay:0.5s;\"><a href=\"https://huntfishmanitoba.ca/\" target=\"_blank\" rel=\"noopener\" class=\"nav__link dms-ext-link\" aria-describedby=\"audioeye_new_window_message\">\n\n                \n                Hunt Fish Manitoba\n            </a></li>",
           "impact": "serious",
           "messages": [
             "List item does not have a <ul>, <ol> parent element"
@@ -2083,12 +2751,17 @@
             "x": 812.265625,
             "y": 36.609375,
             "w": 133.515625,
-            "h": 15.59375
+            "h": 15.59375,
+            "fontSize": 20,
+            "fontWeight": "400",
+            "color": "rgb(65, 64, 66)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "HUNT FISH MANITOBA"
           }
         },
         {
-          "target": ".nav--header__inner > .has-children.nav__item[data-has-subnav=\"\"]:nth-child(5)",
-          "html": "<li class=\"nav__item has-children\" style=\"animation-delay:0.5s;\" data-has-subnav=\"\"><a href=\"https://www.travelmanitoba.com/manitoba-north/\" target=\"\" rel=\"noopener\" class=\"nav__link  \">\n\n                \n                Manitoba North\n            </a></li>",
+          "target": ".nav--header__inner > .has-children.nav__item[data-has-subnav=\"\"]:nth-child(6)",
+          "html": "<li class=\"nav__item has-children\" style=\"animation-delay:0.6s;\" data-has-subnav=\"\"><a href=\"https://www.travelmanitoba.com/manitoba-north/\" target=\"\" rel=\"noopener\" class=\"nav__link  \">\n\n                \n                Manitoba North\n            </a></li>",
           "impact": "serious",
           "messages": [
             "List item does not have a <ul>, <ol> parent element"
@@ -2097,7 +2770,12 @@
             "x": 975.78125,
             "y": 36.609375,
             "w": 111.640625,
-            "h": 15.59375
+            "h": 15.59375,
+            "fontSize": 20,
+            "fontWeight": "400",
+            "color": "rgb(65, 64, 66)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "MANITOBA NORTH"
           }
         },
         {
@@ -2111,7 +2789,12 @@
             "x": 1102.421875,
             "y": 31.609375,
             "w": 73.578125,
-            "h": 25.59375
+            "h": 25.59375,
+            "fontSize": 20,
+            "fontWeight": "600",
+            "color": "rgb(65, 64, 66)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "FR EN"
           }
         }
       ]

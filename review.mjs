@@ -5,11 +5,15 @@
  * diagnose.mjs leaves behind the findings axe could not resolve on its own.
  * This serves them one at a time to a person, with the evidence assembled:
  * the element and its markup, axe's own reason for hesitating, the WCAG
- * criterion, and the screenshot with the element boxed. The person decides.
+ * criterion, the screenshot with the element boxed, and — where propose.mjs
+ * has run — the contrast measured from pixels. The person decides.
+ *
+ * The model's proposal is withheld until the decision is saved, then revealed
+ * and compared. Blind first, so the corpus is the person's judgment and not
+ * the person agreeing with a machine.
  *
  * Every decision is appended to decisions.jsonl as it is made, and
- * review-log.md is regenerated from that file. Nothing here decides anything;
- * the log is only worth something because a human wrote every line of it.
+ * review-log.md is regenerated from that file.
  *
  * Usage:
  *   node review.mjs               http://localhost:8901
@@ -18,13 +22,18 @@
  * No dependencies beyond node itself.
  */
 import { createServer } from 'node:http';
-import { readFileSync, readdirSync, existsSync, appendFileSync, writeFileSync, statSync } from 'node:fs';
+import { readFileSync, existsSync, appendFileSync, writeFileSync, statSync } from 'node:fs';
 import path from 'node:path';
+import {
+  ROOT,
+  SHOTS,
+  CROPS,
+  DECISIONS,
+  loadFindings,
+  loadDecisions,
+  loadProposals,
+} from './lib/findings.mjs';
 
-const ROOT = process.cwd();
-const DIAG = path.join(ROOT, 'diagnostics');
-const SHOTS = path.join(DIAG, 'screens');
-const DECISIONS = path.join(ROOT, 'decisions.jsonl');
 const LOG = path.join(ROOT, 'review-log.md');
 
 function argStr(name, fallback) {
@@ -33,83 +42,31 @@ function argStr(name, fallback) {
 }
 const PORT = Number(argStr('port', '8901'));
 
-// ---- data -----------------------------------------------------------------
-
-function loadFindings() {
-  if (!existsSync(DIAG)) return [];
-  const out = [];
-  for (const f of readdirSync(DIAG).filter((n) => n.endsWith('.json')).sort()) {
-    let rec;
-    try {
-      rec = JSON.parse(readFileSync(path.join(DIAG, f), 'utf8'));
-    } catch {
-      continue;
-    }
-    if (!rec.ok) continue;
-    const site = new URL(rec.url).hostname.replace(/^www\./, '');
-    const shot = existsSync(path.join(SHOTS, `${site}.full.png`))
-      ? `${site}.full.png`
-      : existsSync(path.join(SHOTS, `${site}.png`))
-        ? `${site}.png`
-        : null;
-    const push = (kind, rule) => {
-      const items = rule.items || rule.sample || [];
-      items.forEach((n, i) => {
-        out.push({
-          id: `${site}|${kind}|${rule.id}|${i}`,
-          site,
-          url: rec.url,
-          title: rec.title || '',
-          kind, // 'incomplete' = axe could not decide; 'violation' = axe says fail
-          rule: rule.id,
-          help: rule.help,
-          description: rule.description || '',
-          helpUrl: rule.helpUrl || '',
-          wcag: rule.wcag || [],
-          tags: rule.tags || [],
-          impact: n.impact || rule.impact || '',
-          target: n.target,
-          html: n.html,
-          messages: n.messages || (i === 0 && rule.why ? [rule.why] : []),
-          box: n.box || null,
-          shot,
-          viewport: rec.viewport || null,
-          nodeIndex: i,
-          nodeCount: items.length,
-        });
-      });
-    };
-    for (const r of rec.incomplete || []) push('incomplete', r);
-    for (const r of rec.violations || []) push('violation', r);
-  }
-  return out;
-}
-
-function loadDecisions() {
-  if (!existsSync(DECISIONS)) return {};
-  const latest = {};
-  for (const line of readFileSync(DECISIONS, 'utf8').split('\n')) {
-    if (!line.trim()) continue;
-    try {
-      const d = JSON.parse(line);
-      if (d.verdict === 'reopen') delete latest[d.id];
-      else latest[d.id] = d;
-    } catch {}
-  }
-  return latest;
-}
-
 const VERDICTS = { confirm: 'Confirmed', reject: 'Rejected', look: 'Needs a closer look' };
+// Model verdicts map onto the human's: fail ~ confirm, pass ~ reject, cannot_tell ~ look.
+const MODEL_TO_HUMAN = { fail: 'confirm', pass: 'reject', cannot_tell: 'look' };
 
-function writeLog(findings, decisions) {
+/** Strip the model's verdict; keep the measurement, which is evidence rather than judgment. */
+function evidenceOnly(p) {
+  if (!p) return null;
+  const { verdict, confidence, reason, ...rest } = p;
+  return rest;
+}
+
+// ---- log ------------------------------------------------------------------
+
+function writeLog(findings, decisions, proposals) {
   const decided = findings.filter((f) => decisions[f.id]);
   const count = (arr, v) => arr.filter((f) => decisions[f.id].verdict === v).length;
+  const pct = (a, b) => (b ? Math.round((100 * a) / b) + '%' : '—');
+  const cell = (s) => String(s || '').replace(/\|/g, '\\|').replace(/\n/g, ' ');
 
   let md = `# Second Pass — review log\n\n`;
   md += `Regenerated ${new Date().toISOString().slice(0, 16).replace('T', ' ')} from \`decisions.jsonl\`. `;
   md += `Every line below is a human decision on a finding an automated tool raised. `;
   md += `Where the tool flagged something it could not resolve ("incomplete"), the person resolved it. `;
-  md += `Where the tool reported a failure, the person confirmed or rejected it.\n\n`;
+  md += `Where the tool reported a failure, the person confirmed or rejected it. `;
+  md += `The model's proposal was hidden until each decision was saved.\n\n`;
 
   md += `## Totals\n\n`;
   md += `| | Findings | Reviewed | Confirmed | Rejected | Closer look |\n|---|---:|---:|---:|---:|---:|\n`;
@@ -127,8 +84,47 @@ function writeLog(findings, decisions) {
   for (const rule of Object.keys(byRule).sort()) {
     const arr = byRule[rule];
     const rej = count(arr, 'reject');
-    const settled = rej + count(arr, 'confirm');
-    md += `| \`${rule}\` | ${[...new Set(arr.flatMap((f) => f.wcag))].join(', ')} | ${arr.length} | ${count(arr, 'confirm')} | ${rej} | ${count(arr, 'look')} | ${settled ? Math.round((100 * rej) / settled) + '%' : '—'} |\n`;
+    md += `| \`${rule}\` | ${[...new Set(arr.flatMap((f) => f.wcag))].join(', ')} | ${arr.length} | ${count(arr, 'confirm')} | ${rej} | ${count(arr, 'look')} | ${pct(rej, rej + count(arr, 'confirm'))} |\n`;
+  }
+
+  // Model vs human — only over findings that have both.
+  const both = decided.filter((f) => proposals[f.id] && proposals[f.id].verdict);
+  md += `\n## Model vs. person\n\n`;
+  if (!both.length) {
+    md += `_No findings have both a model proposal and a human decision yet. Run \`node propose.mjs\` first._\n`;
+  } else {
+    const agree = both.filter((f) => MODEL_TO_HUMAN[proposals[f.id].verdict] === decisions[f.id].verdict);
+    const settled = both.filter((f) => decisions[f.id].verdict !== 'look');
+    const fp = settled.filter((f) => proposals[f.id].verdict === 'fail' && decisions[f.id].verdict === 'reject');
+    const fn = settled.filter((f) => proposals[f.id].verdict === 'pass' && decisions[f.id].verdict === 'confirm');
+    const confidentWrong = both.filter(
+      (f) => (proposals[f.id].confidence ?? 0) >= 0.8 && MODEL_TO_HUMAN[proposals[f.id].verdict] !== decisions[f.id].verdict && decisions[f.id].verdict !== 'look'
+    );
+    const models = [...new Set(both.map((f) => proposals[f.id].model))].join(', ');
+    md += `Model: \`${models}\`, local via Ollama, shown the element crop, markup, axe's reason, computed styles and the pixel measurement. `;
+    md += `The person decided first, blind.\n\n`;
+    md += `| | Count |\n|---|---:|\n`;
+    md += `| Findings with both a proposal and a decision | ${both.length} |\n`;
+    md += `| Model agreed with the person | ${agree.length} (${pct(agree.length, both.length)}) |\n`;
+    md += `| Model said fail, person rejected (false alarm) | ${fp.length} (${pct(fp.length, settled.length)} of settled) |\n`;
+    md += `| Model said pass, person confirmed (missed failure) | ${fn.length} (${pct(fn.length, settled.length)} of settled) |\n`;
+    md += `| Wrong at 0.8+ confidence | ${confidentWrong.length} |\n\n`;
+
+    md += `| Rule | Both | Agreed | False alarms | Missed |\n|---|---:|---:|---:|---:|\n`;
+    const rules = [...new Set(both.map((f) => f.rule))].sort();
+    for (const rule of rules) {
+      const arr = both.filter((f) => f.rule === rule);
+      md += `| \`${rule}\` | ${arr.length} | ${arr.filter((f) => agree.includes(f)).length} | ${arr.filter((f) => fp.includes(f)).length} | ${arr.filter((f) => fn.includes(f)).length} |\n`;
+    }
+
+    const dis = both.filter((f) => !agree.includes(f));
+    if (dis.length) {
+      md += `\n### Where they disagreed\n\n| Site | Rule | Element | Model said | Person said |\n|---|---|---|---|---|\n`;
+      for (const f of dis) {
+        const p = proposals[f.id], d = decisions[f.id];
+        md += `| ${f.site} | \`${f.rule}\` | \`${cell(f.target).slice(0, 60)}\` | **${p.verdict}** (${p.confidence ?? '?'}) — ${cell(p.reason).slice(0, 140)} | **${VERDICTS[d.verdict]}** — ${cell(d.reason).slice(0, 140)} |\n`;
+      }
+    }
   }
 
   md += `\n## Decisions\n\n`;
@@ -136,11 +132,12 @@ function writeLog(findings, decisions) {
   for (const f of decided) (bySite[f.site] ||= []).push(f);
   for (const site of Object.keys(bySite).sort()) {
     md += `### ${site}\n\n`;
-    md += `| Rule | WCAG | Element | axe said | Verdict | Reason |\n|---|---|---|---|---|---|\n`;
+    md += `| Rule | WCAG | Element | axe said | Measured | Verdict | Reason |\n|---|---|---|---|---|---|---|\n`;
     for (const f of bySite[site]) {
       const d = decisions[f.id];
-      const cell = (s) => String(s || '').replace(/\|/g, '\\|').replace(/\n/g, ' ');
-      md += `| \`${f.rule}\` | ${f.wcag.join(', ')} | \`${cell(f.target).slice(0, 80)}\` | ${cell(f.messages[0]).slice(0, 120)} | **${VERDICTS[d.verdict] || d.verdict}** | ${cell(d.reason)} |\n`;
+      const m = proposals[f.id] && proposals[f.id].measured;
+      const meas = m && m.ok && m.fg ? `${m.ratio}:1 / ${m.threshold}` : '';
+      md += `| \`${f.rule}\` | ${f.wcag.join(', ')} | \`${cell(f.target).slice(0, 80)}\` | ${cell(f.messages[0]).slice(0, 120)} | ${meas} | **${VERDICTS[d.verdict] || d.verdict}** | ${cell(d.reason)} |\n`;
     }
     md += `\n`;
   }
@@ -157,6 +154,13 @@ function send(res, code, body, type = 'application/json') {
   res.end(body);
 }
 
+function servePng(res, dir, name) {
+  const file = path.join(dir, path.basename(name));
+  if (!existsSync(file)) return send(res, 404, 'not found', 'text/plain');
+  res.writeHead(200, { 'Content-Type': MIME['.png'], 'Content-Length': statSync(file).size });
+  res.end(readFileSync(file));
+}
+
 const server = createServer((req, res) => {
   const u = new URL(req.url, `http://localhost:${PORT}`);
 
@@ -167,7 +171,11 @@ const server = createServer((req, res) => {
   if (req.method === 'GET' && u.pathname === '/api/queue') {
     const findings = loadFindings();
     const decisions = loadDecisions();
-    return send(res, 200, JSON.stringify({ findings, decisions }));
+    const all = loadProposals();
+    // Undecided findings get the measurement only; the verdict is revealed after deciding.
+    const proposals = {};
+    for (const id of Object.keys(all)) proposals[id] = decisions[id] ? all[id] : evidenceOnly(all[id]);
+    return send(res, 200, JSON.stringify({ findings, decisions, proposals }));
   }
 
   if (req.method === 'POST' && u.pathname === '/api/decision') {
@@ -196,18 +204,16 @@ const server = createServer((req, res) => {
         at: new Date().toISOString(),
       };
       appendFileSync(DECISIONS, JSON.stringify(rec) + '\n');
-      writeLog(loadFindings(), loadDecisions());
-      return send(res, 200, JSON.stringify(rec));
+      const proposals = loadProposals();
+      writeLog(loadFindings(), loadDecisions(), proposals);
+      // Now that the decision is on disk, the model's view can be shown.
+      return send(res, 200, JSON.stringify({ decision: rec, proposal: d.verdict === 'reopen' ? null : proposals[d.id] || null }));
     });
     return;
   }
 
-  if (req.method === 'GET' && u.pathname.startsWith('/screens/')) {
-    const file = path.join(SHOTS, path.basename(u.pathname));
-    if (!existsSync(file)) return send(res, 404, 'not found', 'text/plain');
-    res.writeHead(200, { 'Content-Type': MIME['.png'], 'Content-Length': statSync(file).size });
-    return res.end(readFileSync(file));
-  }
+  if (req.method === 'GET' && u.pathname.startsWith('/screens/')) return servePng(res, SHOTS, u.pathname);
+  if (req.method === 'GET' && u.pathname.startsWith('/crops/')) return servePng(res, CROPS, u.pathname);
 
   send(res, 404, 'not found', 'text/plain');
 });
@@ -215,7 +221,8 @@ const server = createServer((req, res) => {
 server.listen(PORT, '127.0.0.1', () => {
   const n = loadFindings();
   const d = Object.keys(loadDecisions()).length;
+  const p = Object.values(loadProposals()).filter((x) => x.verdict).length;
   console.log(`Second Pass review — http://localhost:${PORT}`);
-  console.log(`${n.length} findings across ${new Set(n.map((f) => f.site)).size} sites, ${d} decided.`);
+  console.log(`${n.length} findings across ${new Set(n.map((f) => f.site)).size} sites, ${d} decided, ${p} with a model proposal.`);
   console.log(`Decisions append to decisions.jsonl; review-log.md is regenerated on every one.`);
 });

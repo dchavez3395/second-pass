@@ -11,7 +11,7 @@
     "buttons": 80,
     "inputs": 10,
     "headings": 16,
-    "textLength": 2178,
+    "textLength": 2166,
     "lang": "en-CA",
     "iframes": 0
   },
@@ -19,7 +19,7 @@
     "width": 1366,
     "height": 900
   },
-  "scannedAt": "2026-09-18T04:55:23.883Z",
+  "scannedAt": "2026-09-19T06:24:25.143Z",
   "axe": {
     "violationRules": 2,
     "violationNodes": 9,
@@ -73,7 +73,12 @@
             "x": 27.3125,
             "y": 289.234375,
             "w": 70,
-            "h": 70
+            "h": 70,
+            "fontSize": 16,
+            "fontWeight": "600",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(255, 255, 255, 0.9)",
+            "text": "Previous"
           }
         },
         {
@@ -87,7 +92,12 @@
             "x": 1268.6875,
             "y": 289.234375,
             "w": 70,
-            "h": 70
+            "h": 70,
+            "fontSize": 16,
+            "fontWeight": "600",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(255, 255, 255, 0.9)",
+            "text": "Next"
           }
         }
       ]
@@ -141,7 +151,12 @@
             "x": 117,
             "y": 548.53125,
             "w": 700,
-            "h": 40.46875
+            "h": 40.46875,
+            "fontSize": 36.8,
+            "fontWeight": "600",
+            "color": "rgb(68, 68, 68)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Shared Health"
           }
         },
         {
@@ -155,7 +170,12 @@
             "x": 117,
             "y": 622.109375,
             "w": 700,
-            "h": 72
+            "h": 72,
+            "fontSize": 19.2,
+            "fontWeight": "400",
+            "color": "rgb(68, 68, 68)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Shared Health is Manitoba’s provincial health authority, providing provincial pl"
           }
         },
         {
@@ -169,12 +189,17 @@
             "x": 117,
             "y": 722.90625,
             "w": 700,
-            "h": 96
+            "h": 96,
+            "fontSize": 19.2,
+            "fontWeight": "400",
+            "color": "rgb(68, 68, 68)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Shared Health is a designated bilingual health authority which has more than 18,"
           }
         },
         {
           "target": ".g-grid:nth-child(2) > .g-block > .g-content > .g-array-item > .g-array-item-date",
-          "html": "<span class=\"g-array-item-date\">\n                                                                                    September 14, 2026\n                                                                            </span>",
+          "html": "<span class=\"g-array-item-date\">\n                                                                                    September 18, 2026\n                                                                            </span>",
           "impact": "serious",
           "messages": [
             "Element's background color could not be determined due to a background image"
@@ -183,12 +208,17 @@
             "x": 901,
             "y": 606.640625,
             "w": 142.21875,
-            "h": 20
+            "h": 20,
+            "fontSize": 15.2,
+            "fontWeight": "400",
+            "color": "rgb(68, 68, 68)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "September 18, 2026"
           }
         },
         {
           "target": ".g-grid:nth-child(2) > .g-block > .g-content > .g-array-item > .g-array-item-title > .g-item-title > a",
-          "html": "<a href=\"https://sharedhealthmb.ca/news/2026-09-14-liver-disease-research-program-making-positive-strides-in-manitoba/\">\n                                                Liver disease research program making positive strides in Manitoba\n                                            </a>",
+          "html": "<a href=\"https://sharedhealthmb.ca/news/2026-09-18-answering-the-call-at-manitobas-addiction-helplines/\">\n                                                Answering the Call at Manitoba’s Addiction Helplines\n                                            </a>",
           "impact": "serious",
           "messages": [
             "Element's background color could not be determined due to a background image"
@@ -196,13 +226,18 @@
           "box": {
             "x": 913,
             "y": 633.640625,
-            "w": 302.96875,
-            "h": 50.40625
+            "w": 277.59375,
+            "h": 50.40625,
+            "fontSize": 17.6,
+            "fontWeight": "600",
+            "color": "rgb(0, 30, 97)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Answering the Call at Manitoba’s Addiction Helplines"
           }
         },
         {
           "target": ".g-grid:nth-child(3) > .g-block > .g-content > .g-array-item > .g-array-item-date",
-          "html": "<span class=\"g-array-item-date\">\n                                                                                    September 9, 2026\n                                                                            </span>",
+          "html": "<span class=\"g-array-item-date\">\n                                                                                    September 14, 2026\n                                                                            </span>",
           "impact": "serious",
           "messages": [
             "Element's background color could not be determined due to a background image"
@@ -210,13 +245,18 @@
           "box": {
             "x": 901,
             "y": 719.453125,
-            "w": 133.53125,
-            "h": 20
+            "w": 142.21875,
+            "h": 20,
+            "fontSize": 15.2,
+            "fontWeight": "400",
+            "color": "rgb(68, 68, 68)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "September 14, 2026"
           }
         },
         {
           "target": ".g-grid:nth-child(3) > .g-block > .g-content > .g-array-item > .g-array-item-title > .g-item-title > a",
-          "html": "<a href=\"https://sharedhealthmb.ca/news/2026-09-09-shared-health-continues-to-offer-temporary-extended-lab-hours/\">\n                                                Shared Health Continues to Offer Temporary Extended Lab Hours\n                                            </a>",
+          "html": "<a href=\"https://sharedhealthmb.ca/news/2026-09-14-liver-disease-research-program-making-positive-strides-in-manitoba/\">\n                                                Liver disease research program making positive strides in Manitoba\n                                            </a>",
           "impact": "serious",
           "messages": [
             "Element's background color could not be determined due to a background image"
@@ -224,13 +264,18 @@
           "box": {
             "x": 913,
             "y": 746.453125,
-            "w": 282.71875,
-            "h": 50.40625
+            "w": 302.96875,
+            "h": 50.40625,
+            "fontSize": 17.6,
+            "fontWeight": "600",
+            "color": "rgb(0, 30, 97)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Liver disease research program making positive strides in Manitoba"
           }
         },
         {
           "target": ".g-grid:nth-child(4) > .g-block > .g-content > .g-array-item > .g-array-item-date",
-          "html": "<span class=\"g-array-item-date\">\n                                                                                    September 8, 2026\n                                                                            </span>",
+          "html": "<span class=\"g-array-item-date\">\n                                                                                    September 9, 2026\n                                                                            </span>",
           "impact": "serious",
           "messages": [
             "Element's background color could not be determined due to a background image"
@@ -239,12 +284,17 @@
             "x": 901,
             "y": 832.265625,
             "w": 133.53125,
-            "h": 20
+            "h": 20,
+            "fontSize": 15.2,
+            "fontWeight": "400",
+            "color": "rgb(68, 68, 68)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "September 9, 2026"
           }
         },
         {
           "target": ".g-grid:nth-child(4) > .g-block > .g-content > .g-array-item > .g-array-item-title > .g-item-title > a",
-          "html": "<a href=\"https://sharedhealthmb.ca/news/2026-09-08-dynacare-labour-disruption-update-extended-hours-location-finder/\">\n                                                Dynacare Labour Disruption Update: Extended Hours Location Finder\n                                            </a>",
+          "html": "<a href=\"https://sharedhealthmb.ca/news/2026-09-09-shared-health-continues-to-offer-temporary-extended-lab-hours/\">\n                                                Shared Health Continues to Offer Temporary Extended Lab Hours\n                                            </a>",
           "impact": "serious",
           "messages": [
             "Element's background color could not be determined due to a background image"
@@ -252,8 +302,13 @@
           "box": {
             "x": 913,
             "y": 859.265625,
-            "w": 311.390625,
-            "h": 50.40625
+            "w": 282.71875,
+            "h": 50.40625,
+            "fontSize": 17.6,
+            "fontWeight": "600",
+            "color": "rgb(0, 30, 97)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Shared Health Continues to Offer Temporary Extended Lab Hours"
           }
         }
       ]
@@ -294,7 +349,12 @@
             "x": 117,
             "y": 26,
             "w": 1132,
-            "h": 24
+            "h": 24,
+            "fontSize": 13.6,
+            "fontWeight": "400",
+            "color": "rgb(119, 119, 119)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "En Français / English"
           }
         },
         {
@@ -308,7 +368,12 @@
             "x": 1117.5,
             "y": 28,
             "w": 74.46875,
-            "h": 19
+            "h": 19,
+            "fontSize": 13.6,
+            "fontWeight": "600",
+            "color": "rgb(70, 197, 224)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "En Français"
           }
         }
       ]
@@ -356,7 +421,12 @@
             "x": 937,
             "y": 49.5,
             "w": 36,
-            "h": 43
+            "h": 43,
+            "fontSize": 32,
+            "fontWeight": "600",
+            "color": "rgb(0, 30, 97)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": ""
           }
         },
         {
@@ -374,7 +444,12 @@
             "x": 973,
             "y": 49.5,
             "w": 36,
-            "h": 43
+            "h": 43,
+            "fontSize": 32,
+            "fontWeight": "600",
+            "color": "rgb(0, 30, 97)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": ""
           }
         },
         {
@@ -392,7 +467,12 @@
             "x": 0,
             "y": 181.953125,
             "w": 1366,
-            "h": 284.578125
+            "h": 284.578125,
+            "fontSize": 16,
+            "fontWeight": "600",
+            "color": "rgb(70, 197, 224)",
+            "background": "rgb(255, 255, 255)",
+            "text": ""
           }
         },
         {
@@ -410,7 +490,12 @@
             "x": 1077,
             "y": 2113.390625,
             "w": 23.125,
-            "h": 22
+            "h": 22,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": ""
           }
         },
         {
@@ -428,7 +513,12 @@
             "x": 1104.28125,
             "y": 2113.390625,
             "w": 23.125,
-            "h": 22
+            "h": 22,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": ""
           }
         },
         {
@@ -446,7 +536,12 @@
             "x": 1131.5625,
             "y": 2113.390625,
             "w": 23.125,
-            "h": 22
+            "h": 22,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": ""
           }
         },
         {
@@ -464,7 +559,12 @@
             "x": 1158.84375,
             "y": 2113.390625,
             "w": 23.125,
-            "h": 22
+            "h": 22,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": ""
           }
         }
       ]

@@ -19,7 +19,7 @@
     "width": 1366,
     "height": 900
   },
-  "scannedAt": "2026-09-18T05:02:35.528Z",
+  "scannedAt": "2026-09-19T06:23:55.288Z",
   "axe": {
     "violationRules": 0,
     "violationNodes": 0,
@@ -80,7 +80,12 @@
             "x": 139,
             "y": 679.796875,
             "w": 244.71875,
-            "h": 45
+            "h": 45,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Report your workplace injury to the WCB. Learn more."
           }
         },
         {
@@ -94,7 +99,12 @@
             "x": 139,
             "y": 682.796875,
             "w": 244.71875,
-            "h": 39
+            "h": 39,
+            "fontSize": 16,
+            "fontWeight": "700",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Report your workplace injury to the WCB."
           }
         },
         {
@@ -108,7 +118,12 @@
             "x": 416,
             "y": 682.796875,
             "w": 191.203125,
-            "h": 59
+            "h": 59,
+            "fontSize": 16,
+            "fontWeight": "700",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Sign up to attend our Committee Leadership Conference."
           }
         },
         {
@@ -122,7 +137,12 @@
             "x": 520.828125,
             "y": 719.796875,
             "w": 112.75,
-            "h": 25
+            "h": 25,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Learn more."
           }
         },
         {
@@ -136,7 +156,12 @@
             "x": 693,
             "y": 679.796875,
             "w": 224.671875,
-            "h": 65
+            "h": 65,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "We’re committed to a safe working environment. Read our Code of Conduct."
           }
         },
         {
@@ -150,7 +175,12 @@
             "x": 693,
             "y": 702.796875,
             "w": 224.671875,
-            "h": 39
+            "h": 39,
+            "fontSize": 16,
+            "fontWeight": "700",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Read our Code of Conduct."
           }
         },
         {
@@ -164,7 +194,12 @@
             "x": 970,
             "y": 682.796875,
             "w": 257,
-            "h": 60
+            "h": 60,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "We have posted information about a recent cybersecurity incident. Learn more."
           }
         },
         {
@@ -178,7 +213,12 @@
             "x": 1043.890625,
             "y": 722.796875,
             "w": 100.140625,
-            "h": 19
+            "h": 19,
+            "fontSize": 16,
+            "fontWeight": "700",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Learn more."
           }
         },
         {
@@ -192,7 +232,12 @@
             "x": 89,
             "y": 983.1875,
             "w": 74.546875,
-            "h": 22
+            "h": 22,
+            "fontSize": 18,
+            "fontWeight": "400",
+            "color": "rgb(88, 89, 91)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Benefits"
           }
         },
         {
@@ -206,7 +251,12 @@
             "x": 523.65625,
             "y": 1032.984375,
             "w": 97.734375,
-            "h": 22
+            "h": 22,
+            "fontSize": 18,
+            "fontWeight": "400",
+            "color": "rgb(88, 89, 91)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Clearances"
           }
         },
         {
@@ -220,7 +270,12 @@
             "x": 160,
             "y": 1672.328125,
             "w": 106.46875,
-            "h": 22
+            "h": 22,
+            "fontSize": 18,
+            "fontWeight": "600",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Learn more"
           }
         },
         {
@@ -234,7 +289,12 @@
             "x": 438,
             "y": 1672.328125,
             "w": 106.46875,
-            "h": 22
+            "h": 22,
+            "fontSize": 18,
+            "fontWeight": "600",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Learn more"
           }
         },
         {
@@ -248,7 +308,12 @@
             "x": 716,
             "y": 1672.328125,
             "w": 106.46875,
-            "h": 22
+            "h": 22,
+            "fontSize": 18,
+            "fontWeight": "600",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Learn more"
           }
         },
         {
@@ -262,7 +327,12 @@
             "x": 994,
             "y": 1672.328125,
             "w": 106.46875,
-            "h": 22
+            "h": 22,
+            "fontSize": 18,
+            "fontWeight": "600",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Learn more"
           }
         },
         {
@@ -276,7 +346,12 @@
             "x": 159,
             "y": 1970.125,
             "w": 1048,
-            "h": 32
+            "h": 32,
+            "fontSize": 32,
+            "fontWeight": "600",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Workplace safety training and certification"
           }
         },
         {
@@ -290,7 +365,12 @@
             "x": 403,
             "y": 2032.125,
             "w": 560,
-            "h": 45
+            "h": 45,
+            "fontSize": 18,
+            "fontWeight": "500",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Explore our Training Portal, access high-calibre training, become a SAFE Work En"
           }
         },
         {
@@ -304,7 +384,12 @@
             "x": 139,
             "y": 3089.34375,
             "w": 1088,
-            "h": 32
+            "h": 32,
+            "fontSize": 32,
+            "fontWeight": "600",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Workshops"
           }
         },
         {
@@ -318,7 +403,12 @@
             "x": 370.5,
             "y": 3151.34375,
             "w": 625,
-            "h": 45
+            "h": 45,
+            "fontSize": 18,
+            "fontWeight": "500",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "To register for WCB Basics and Return to Work Basics workshops, please visit the"
           }
         },
         {
@@ -332,7 +422,12 @@
             "x": 581.296875,
             "y": 3170.84375,
             "w": 339.921875,
-            "h": 28
+            "h": 28,
+            "fontSize": 18,
+            "fontWeight": "700",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "SAFE Work Manitoba training portal"
           }
         }
       ]
@@ -382,7 +477,12 @@
             "x": 520.828125,
             "y": 719.796875,
             "w": 112.75,
-            "h": 25
+            "h": 25,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Learn more."
           }
         },
         {
@@ -397,7 +497,12 @@
             "x": 1043.890625,
             "y": 719.796875,
             "w": 117.140625,
-            "h": 25
+            "h": 25,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Learn more."
           }
         }
       ]

@@ -19,7 +19,7 @@
     "width": 1366,
     "height": 900
   },
-  "scannedAt": "2026-09-18T05:02:24.121Z",
+  "scannedAt": "2026-09-19T06:23:20.672Z",
   "axe": {
     "violationRules": 0,
     "violationNodes": 0,
@@ -80,7 +80,12 @@
             "x": 60,
             "y": 690.921875,
             "w": 278.8125,
-            "h": 44.1875
+            "h": 44.1875,
+            "fontSize": 36,
+            "fontWeight": "600",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Your account"
           }
         },
         {
@@ -94,7 +99,12 @@
             "x": 482,
             "y": 690.921875,
             "w": 203.53125,
-            "h": 44.1875
+            "h": 44.1875,
+            "fontSize": 36,
+            "fontWeight": "600",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Outages"
           }
         },
         {
@@ -108,7 +118,12 @@
             "x": 904,
             "y": 690.921875,
             "w": 350.484375,
-            "h": 44.1875
+            "h": 44.1875,
+            "fontSize": 36,
+            "fontWeight": "600",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Permits & service"
           }
         },
         {
@@ -122,7 +137,12 @@
             "x": 801,
             "y": 2982.34375,
             "w": 36,
-            "h": 36
+            "h": 36,
+            "fontSize": 18,
+            "fontWeight": "500",
+            "color": "rgba(0, 0, 0, 0)",
+            "background": "rgb(255, 255, 255)",
+            "text": "Facebook"
           }
         },
         {
@@ -136,7 +156,12 @@
             "x": 857,
             "y": 2982.34375,
             "w": 36,
-            "h": 36
+            "h": 36,
+            "fontSize": 18,
+            "fontWeight": "500",
+            "color": "rgba(0, 0, 0, 0)",
+            "background": "rgb(255, 255, 255)",
+            "text": "X"
           }
         },
         {
@@ -150,7 +175,12 @@
             "x": 913,
             "y": 2982.34375,
             "w": 36,
-            "h": 36
+            "h": 36,
+            "fontSize": 18,
+            "fontWeight": "500",
+            "color": "rgba(0, 0, 0, 0)",
+            "background": "rgb(255, 255, 255)",
+            "text": "YouTube"
           }
         },
         {
@@ -164,7 +194,12 @@
             "x": 969,
             "y": 2982.34375,
             "w": 36,
-            "h": 36
+            "h": 36,
+            "fontSize": 18,
+            "fontWeight": "500",
+            "color": "rgba(0, 0, 0, 0)",
+            "background": "rgb(255, 255, 255)",
+            "text": "LinkedIn"
           }
         },
         {
@@ -178,7 +213,12 @@
             "x": 1025,
             "y": 2982.34375,
             "w": 36,
-            "h": 36
+            "h": 36,
+            "fontSize": 18,
+            "fontWeight": "500",
+            "color": "rgba(0, 0, 0, 0)",
+            "background": "rgb(255, 255, 255)",
+            "text": "Instagram"
           }
         },
         {
@@ -192,7 +232,12 @@
             "x": 1081,
             "y": 2982.34375,
             "w": 36,
-            "h": 36
+            "h": 36,
+            "fontSize": 18,
+            "fontWeight": "500",
+            "color": "rgba(0, 0, 0, 0)",
+            "background": "rgb(255, 255, 255)",
+            "text": "Bluesky"
           }
         }
       ]

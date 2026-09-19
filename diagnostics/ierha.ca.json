@@ -19,7 +19,7 @@
     "width": 1366,
     "height": 900
   },
-  "scannedAt": "2026-09-18T04:56:12.198Z",
+  "scannedAt": "2026-09-19T06:25:14.027Z",
   "axe": {
     "violationRules": 2,
     "violationNodes": 17,
@@ -80,7 +80,12 @@
             "x": 887.796875,
             "y": 215,
             "w": 213.203125,
-            "h": 42
+            "h": 42,
+            "fontSize": 14,
+            "fontWeight": "400",
+            "color": "rgba(14, 33, 33, 0.8)",
+            "background": "rgb(255, 255, 255)",
+            "text": "Search"
           }
         },
         {
@@ -94,7 +99,12 @@
             "x": 927.796875,
             "y": 777.4375,
             "w": 135.75,
-            "h": 16
+            "h": 16,
+            "fontSize": 14,
+            "fontWeight": "400",
+            "color": "rgb(66, 66, 66)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "September 16, 2026"
           }
         },
         {
@@ -108,7 +118,12 @@
             "x": 939.796875,
             "y": 809.4375,
             "w": 215.1875,
-            "h": 70.171875
+            "h": 70.171875,
+            "fontSize": 18,
+            "fontWeight": "600",
+            "color": "rgb(78, 132, 196)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Options for non-urgent health care including additional clinic hours"
           }
         },
         {
@@ -122,7 +137,12 @@
             "x": 927.796875,
             "y": 913.609375,
             "w": 130.6875,
-            "h": 16
+            "h": 16,
+            "fontSize": 14,
+            "fontWeight": "400",
+            "color": "rgb(66, 66, 66)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "September 8, 2026"
           }
         },
         {
@@ -136,7 +156,12 @@
             "x": 939.796875,
             "y": 945.609375,
             "w": 215.1875,
-            "h": 46.78125
+            "h": 46.78125,
+            "fontSize": 18,
+            "fontWeight": "600",
+            "color": "rgb(78, 132, 196)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Dynacare Labour Disruption Update"
           }
         },
         {
@@ -150,7 +175,12 @@
             "x": 927.796875,
             "y": 1026.390625,
             "w": 130.453125,
-            "h": 16
+            "h": 16,
+            "fontSize": 14,
+            "fontWeight": "400",
+            "color": "rgb(66, 66, 66)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "September 4, 2026"
           }
         },
         {
@@ -164,7 +194,12 @@
             "x": 939.796875,
             "y": 1058.390625,
             "w": 215.1875,
-            "h": 70.171875
+            "h": 70.171875,
+            "fontSize": 18,
+            "fontWeight": "600",
+            "color": "rgb(78, 132, 196)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Quick Care Clinic Closed Friday, September, 4"
           }
         }
       ]
@@ -205,7 +240,12 @@
             "x": 1108,
             "y": 215,
             "w": 86.984375,
-            "h": 42
+            "h": 42,
+            "fontSize": 14,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(78, 132, 196)",
+            "text": "Search"
           }
         },
         {
@@ -219,7 +259,12 @@
             "x": 224.546875,
             "y": 292.5,
             "w": 127.59375,
-            "h": 19
+            "h": 19,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "News & Updates"
           }
         },
         {
@@ -233,7 +278,12 @@
             "x": 416.6875,
             "y": 292.5,
             "w": 59.03125,
-            "h": 19
+            "h": 19,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Find Us"
           }
         },
         {
@@ -247,7 +297,12 @@
             "x": 559.765625,
             "y": 283,
             "w": 88.609375,
-            "h": 38
+            "h": 38,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Programs & Services"
           }
         },
         {
@@ -261,7 +316,12 @@
             "x": 686.0625,
             "y": 273,
             "w": 151.734375,
-            "h": 19
+            "h": 19,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Patient Information"
           }
         },
         {
@@ -275,7 +335,12 @@
             "x": 866.75,
             "y": 292.5,
             "w": 106.078125,
-            "h": 19
+            "h": 19,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Work With Us"
           }
         },
         {
@@ -289,7 +354,12 @@
             "x": 1030.984375,
             "y": 292.5,
             "w": 71.84375,
-            "h": 19
+            "h": 19,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "About Us"
           }
         },
         {
@@ -303,7 +373,12 @@
             "x": 181,
             "y": 868.4375,
             "w": 223.96875,
-            "h": 41
+            "h": 41,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(78, 132, 196)",
+            "text": "View our Strategic Plan"
           }
         },
         {
@@ -317,7 +392,12 @@
             "x": 202,
             "y": 1468.5625,
             "w": 181.40625,
-            "h": 16
+            "h": 16,
+            "fontSize": 14.4,
+            "fontWeight": "700",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Treaty Acknowledgement"
           }
         },
         {
@@ -331,7 +411,12 @@
             "x": 202,
             "y": 1507.375,
             "w": 654.796875,
-            "h": 302.4375
+            "h": 302.4375,
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Interlake-Eastern Regional Health Authority (RHA) delivers services on First Nat"
           }
         },
         {
@@ -345,7 +430,12 @@
             "x": 1002.15625,
             "y": 1537.375,
             "w": 78.453125,
-            "h": 16
+            "h": 16,
+            "fontSize": 14.4,
+            "fontWeight": "700",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Contact Us"
           }
         },
         {
@@ -359,7 +449,12 @@
             "x": 983.640625,
             "y": 1566.1875,
             "w": 115.484375,
-            "h": 16
+            "h": 16,
+            "fontSize": 14.4,
+            "fontWeight": "700",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "News & Updates"
           }
         },
         {
@@ -373,7 +468,12 @@
             "x": 992.921875,
             "y": 1595,
             "w": 96.921875,
-            "h": 16
+            "h": 16,
+            "fontSize": 14.4,
+            "fontWeight": "700",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Work With Us"
           }
         },
         {
@@ -387,7 +487,12 @@
             "x": 1007.90625,
             "y": 1652.625,
             "w": 66.96875,
-            "h": 16
+            "h": 16,
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Follow us"
           }
         }
       ]
@@ -435,7 +540,12 @@
             "x": 993.75,
             "y": 1686.4375,
             "w": 25.203125,
-            "h": 34
+            "h": 34,
+            "fontSize": 28.8,
+            "fontWeight": "700",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": ""
           }
         },
         {
@@ -453,7 +563,12 @@
             "x": 1028.78125,
             "y": 1686.4375,
             "w": 25.203125,
-            "h": 34
+            "h": 34,
+            "fontSize": 28.8,
+            "fontWeight": "700",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": ""
           }
         },
         {
@@ -471,7 +586,12 @@
             "x": 1063.8125,
             "y": 1686.4375,
             "w": 25.203125,
-            "h": 34
+            "h": 34,
+            "fontSize": 28.8,
+            "fontWeight": "700",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": ""
           }
         }
       ]

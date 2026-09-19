@@ -47,6 +47,17 @@
   .why p { margin: 0; } .why p + p { margin-top: 6px; }
   pre { margin: 0; padding: 10px 12px; background: var(--code); border: 1px solid var(--line); border-radius: 6px; overflow: auto; font: 12px/1.5 ui-monospace, Menlo, Consolas, monospace; white-space: pre-wrap; word-break: break-all; }
   .decided { padding: 10px 12px; border-radius: 6px; background: var(--panel); border: 1px solid var(--line); }
+  .measure { display: flex; gap: 14px; align-items: center; padding: 10px 12px; border-radius: 6px; background: var(--panel); border: 1px solid var(--line); flex-wrap: wrap; }
+  .measure .ratio { font-size: 22px; font-weight: 600; font-variant-numeric: tabular-nums; }
+  .measure .ratio.pass { color: var(--ok); } .measure .ratio.fail { color: var(--bad); }
+  .measure .sw { display: inline-block; width: 16px; height: 16px; border-radius: 3px; border: 1px solid var(--line); vertical-align: -3px; margin-right: 4px; }
+  .measure .caveat { width: 100%; color: var(--muted); font-size: 12px; }
+  .cropimg { max-width: 100%; max-height: 180px; border: 1px solid var(--line); border-radius: 6px; background: #fff; display: block; }
+  .model { padding: 10px 12px; border-radius: 6px; border: 1px dashed var(--line); }
+  .model.agree { border-color: var(--ok); } .model.disagree { border-color: var(--bad); }
+  .model .v { font-weight: 600; text-transform: uppercase; font-size: 12px; letter-spacing: .04em; }
+  .model .v.pass { color: var(--ok); } .model .v.fail { color: var(--bad); } .model .v.cannot_tell { color: var(--look); }
+  .model .tag { float: right; font-size: 12px; color: var(--muted); }
   .decided b.confirm { color: var(--ok); } .decided b.reject { color: var(--bad); } .decided b.look { color: var(--look); }
   footer { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; padding: 10px 16px; border-top: 1px solid var(--line); background: var(--panel); }
   button { font: inherit; padding: 7px 12px; border-radius: 6px; border: 1px solid var(--line); background: var(--bg); color: var(--text); cursor: pointer; }
@@ -92,7 +103,7 @@
     <button id="next" title="next (J or →)">→</button>
     <button id="reopen" title="reopen this finding (U)">Undo</button>
   </div>
-  <div class="hint">Keys: <b>C</b> confirm · <b>R</b> reject (then type the reason, Enter) · <b>L</b> closer look · <b>J</b>/<b>K</b> next/previous · <b>.</b> reuse last reason · <b>U</b> reopen. Decisions land in <code>decisions.jsonl</code>; <code>review-log.md</code> is rebuilt on every one.</div>
+  <div class="hint">Keys: <b>C</b> confirm · <b>R</b> reject (then type the reason, Enter) · <b>L</b> closer look · <b>J</b>/<b>K</b> next/previous · <b>.</b> reuse last reason · <b>U</b> reopen. The model's verdict stays hidden until you decide. Decisions land in <code>decisions.jsonl</code>; <code>review-log.md</code> is rebuilt on every one.</div>
 </footer>
 <div class="flash" id="flash"></div>
 
@@ -100,12 +111,15 @@
 const $ = (s) => document.querySelector(s);
 const esc = (s) => String(s ?? '').replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
 
-let all = [], decisions = {}, list = [], idx = 0, pending = null, lastReason = '';
+let hold = null;
+let all = [], decisions = {}, proposals = {}, list = [], idx = 0, pending = null, lastReason = '';
+const MODEL_TO_HUMAN = { fail: 'confirm', pass: 'reject', cannot_tell: 'look' };
+const HUMAN_LABEL = { confirm: 'Confirmed', reject: 'Rejected', look: 'Needs a closer look' };
 
 async function load(keepIndex) {
   const r = await fetch('/api/queue');
   const j = await r.json();
-  all = j.findings; decisions = j.decisions;
+  all = j.findings; decisions = j.decisions; proposals = j.proposals || {};
   fillSelect($('#site'), [...new Set(all.map((f) => f.site))].sort());
   fillSelect($('#rule'), [...new Set(all.map((f) => f.rule))].sort());
   const cur = list[idx] && list[idx].id;
@@ -126,7 +140,7 @@ function applyFilters() {
     (kind === 'all' || f.kind === kind) &&
     (!site || f.site === site) &&
     (!rule || f.rule === rule) &&
-    (!hide || !decisions[f.id])
+    (!hide || !decisions[f.id] || f.id === hold)
   );
   if (idx >= list.length) idx = Math.max(0, list.length - 1);
 }
@@ -160,10 +174,44 @@ function render() {
     <section><h3>Why axe stopped here</h3><div class="why">${f.messages.length ? f.messages.map((m) => `<p>${esc(m)}</p>`).join('') : '<p>axe gave no per-node explanation.</p>'}</div></section>
     <section><h3>Element</h3><pre>${esc(f.html)}</pre></section>
     <section><h3>Selector</h3><pre>${esc(f.target)}</pre></section>
-    ${d ? `<section><h3>Your decision</h3><div class="decided"><b class="${esc(d.verdict)}">${esc({ confirm: 'Confirmed', reject: 'Rejected', look: 'Needs a closer look' }[d.verdict])}</b>${d.reason ? ' — ' + esc(d.reason) : ''}<div style="color:var(--muted);font-size:12px">${esc(d.at.slice(0, 16).replace('T', ' '))}</div></div></section>` : ''}
+    ${measureHtml(f)}
+    ${d ? `<section><h3>Your decision</h3><div class="decided"><b class="${esc(d.verdict)}">${esc(HUMAN_LABEL[d.verdict])}</b>${d.reason ? ' — ' + esc(d.reason) : ''}<div style="color:var(--muted);font-size:12px">${esc(d.at.slice(0, 16).replace('T', ' '))}</div></div></section>` : ''}
+    ${d ? modelHtml(f, proposals[f.id], d) : (proposals[f.id] ? `<section><h3>Model</h3><div class="model" style="color:var(--muted)">Has an opinion. Hidden until you decide.</div></section>` : '')}
   `;
   $('#reason').value = '';
   renderShot(f);
+}
+
+function measureHtml(f) {
+  const p = proposals[f.id];
+  const m = p && p.measured;
+  const b = f.box || {};
+  let out = '';
+  if (m && m.ok && m.fg) {
+    const ok = m.ratio >= m.threshold;
+    const sw = (rgb) => `<span class="sw" style="background:rgb(${rgb.join(',')})"></span>rgb(${rgb.join(', ')})`;
+    out += `<section><h3>Measured from the screenshot</h3><div class="measure">
+      <span class="ratio ${ok ? 'pass' : 'fail'}">${m.ratio}:1</span>
+      <span>needs ${m.threshold}:1${b.fontSize ? ` · ${b.fontSize}px / ${esc(b.fontWeight)}` : ''}</span>
+      <span>text ${sw(m.fg)}</span><span>background ${sw(m.bg)}</span>
+      ${m.note ? `<span class="caveat">Caveat: ${esc(m.note)}.</span>` : ''}
+      <span class="caveat">Dominant colour in the element's box vs. the most-contrasting colour with real coverage. Evidence, not a verdict — the pixels can be a border, a placeholder, or an icon.</span>
+    </div></section>`;
+  } else if (m && m.note) {
+    out += `<section><h3>Measured from the screenshot</h3><div class="measure"><span class="caveat">${esc(m.note)}.</span></div></section>`;
+  }
+  if (f.crop) out += `<section><h3>What the model was shown</h3><img class="cropimg" src="/crops/${encodeURIComponent(f.crop)}" alt="Crop of the element"></section>`;
+  return out;
+}
+
+function modelHtml(f, p, d) {
+  if (!p || !p.verdict) return `<section><h3>Model</h3><div class="model" style="color:var(--muted)">No model proposal for this finding${p && p.skipped ? ' — ' + esc(p.skipped) : ''}.</div></section>`;
+  const agree = MODEL_TO_HUMAN[p.verdict] === d.verdict;
+  return `<section><h3>Model — revealed after your decision</h3><div class="model ${agree ? 'agree' : 'disagree'}">
+    <span class="tag">${esc(p.model || '')}${p.confidence != null ? ` · confidence ${p.confidence}` : ''}</span>
+    <span class="v ${esc(p.verdict)}">${esc(p.verdict.replace('_', ' '))}</span> — ${agree ? 'agrees with you' : '<b>disagrees with you</b>'}
+    <p style="margin:6px 0 0">${esc(p.reason)}</p>
+  </div></section>`;
 }
 
 function renderShot(f) {
@@ -195,7 +243,7 @@ function renderShot(f) {
   };
 }
 
-function flash(msg) { const el = $('#flash'); el.textContent = msg; el.classList.add('show'); setTimeout(() => el.classList.remove('show'), 1200); }
+function flash(msg, ms = 1200) { const el = $('#flash'); el.textContent = msg; el.classList.add('show'); clearTimeout(flash.t); flash.t = setTimeout(() => el.classList.remove('show'), ms); }
 
 async function decide(verdict) {
   const f = list[idx]; if (!f) return;
@@ -208,19 +256,31 @@ async function decide(verdict) {
   }
   const r = await fetch('/api/decision', { method: 'POST', headers: { 'Content-Type': 'application/json' },
     body: JSON.stringify({ id: f.id, site: f.site, rule: f.rule, target: f.target, verdict, reason }) });
-  if (!r.ok) { flash((await r.json()).error || 'not saved'); return; }
+  const j = await r.json();
+  if (!r.ok) { flash(j.error || 'not saved'); return; }
   if (reason) lastReason = reason;
-  flash({ confirm: 'Confirmed', reject: 'Rejected', look: 'Marked for a closer look', reopen: 'Reopened' }[verdict]);
   $('#reason').blur();
   const wasHiding = $('#hideDecided').checked;
+  if (verdict !== 'reopen' && j.proposal && j.proposal.verdict) {
+    const agree = MODEL_TO_HUMAN[j.proposal.verdict] === verdict;
+    flash(`${HUMAN_LABEL[verdict]} · model said ${j.proposal.verdict.replace('_', ' ')} — ${agree ? 'agrees' : 'DISAGREES'}`, agree ? 1400 : 2600);
+    if (wasHiding && !agree) {
+      // A disagreement is worth a look: stay on it with the model's view shown; J moves on.
+      await load(true);
+      hold = f.id; applyFilters(); const i = list.findIndex((x) => x.id === f.id); if (i >= 0) idx = i; render();
+      return;
+    }
+  } else {
+    flash({ confirm: 'Confirmed', reject: 'Rejected', look: 'Marked for a closer look', reopen: 'Reopened' }[verdict]);
+  }
   await load(!wasHiding || verdict === 'reopen'); // hiding decided: the next one slides into this index
 }
 
 document.querySelectorAll('footer button[data-verdict]').forEach((b) => b.addEventListener('click', () => decide(b.dataset.verdict)));
 $('#prev').onclick = () => { idx = Math.max(0, idx - 1); render(); };
-$('#next').onclick = () => { idx = Math.min(list.length - 1, idx + 1); render(); };
+$('#next').onclick = () => { if (hold) { hold = null; applyFilters(); render(); return; } idx = Math.min(list.length - 1, idx + 1); render(); };
 $('#reopen').onclick = () => decide('reopen');
-['#kind', '#site', '#rule', '#hideDecided'].forEach((s) => $(s).addEventListener('change', () => { idx = 0; applyFilters(); render(); }));
+['#kind', '#site', '#rule', '#hideDecided'].forEach((s) => $(s).addEventListener('change', () => { idx = 0; hold = null; applyFilters(); render(); }));
 $('#reason').addEventListener('keydown', (e) => {
   if (e.key === 'Enter') { e.preventDefault(); decide(pending || 'confirm'); }
   if (e.key === 'Escape') { $('#reason').blur(); }

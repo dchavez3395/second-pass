@@ -5,13 +5,13 @@
   "title": "City of Thompson - Home",
   "finalUrl": "https://www.thompson.ca/",
   "shape": {
-    "elements": 1139,
+    "elements": 1132,
     "images": 23,
-    "links": 220,
+    "links": 218,
     "buttons": 62,
     "inputs": 4,
-    "headings": 50,
-    "textLength": 2543,
+    "headings": 49,
+    "textLength": 2846,
     "lang": "en",
     "iframes": 1
   },
@@ -19,16 +19,16 @@
     "width": 1366,
     "height": 900
   },
-  "scannedAt": "2026-09-18T04:51:26.495Z",
+  "scannedAt": "2026-09-19T06:20:21.876Z",
   "axe": {
     "violationRules": 7,
     "violationNodes": 16,
     "passRules": 30,
-    "passNodes": 457,
+    "passNodes": 482,
     "incompleteRules": 2,
     "incompleteNodes": 34,
     "inapplicableRules": 32,
-    "testedNodes": 507
+    "testedNodes": 532
   },
   "incomplete": [
     {
@@ -67,9 +67,14 @@
           ],
           "box": {
             "x": 1027.609375,
-            "y": 100.9921875,
+            "y": 59.9921875,
             "w": 18.109375,
-            "h": 17.59375
+            "h": 17.59375,
+            "fontSize": 17.6,
+            "fontWeight": "500",
+            "color": "rgb(238, 207, 146)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": ""
           }
         }
       ]
@@ -121,9 +126,14 @@
           ],
           "box": {
             "x": 69.796875,
-            "y": 103.953125,
+            "y": 62.953125,
             "w": 282.96875,
-            "h": 15
+            "h": 15,
+            "fontSize": 12.8,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "226 MYSTERY LAKE ROAD, THOMPSON MB"
           }
         },
         {
@@ -135,9 +145,14 @@
           ],
           "box": {
             "x": 400.34375,
-            "y": 103.953125,
+            "y": 62.953125,
             "w": 91.015625,
-            "h": 15
+            "h": 15,
+            "fontSize": 12.8,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "204-677-7910"
           }
         },
         {
@@ -149,9 +164,14 @@
           ],
           "box": {
             "x": 538.9375,
-            "y": 103.953125,
+            "y": 62.953125,
             "w": 240.84375,
-            "h": 15
+            "h": 15,
+            "fontSize": 12.8,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "COMMUNICATIONS@THOMPSON.CA"
           }
         },
         {
@@ -163,9 +183,14 @@
           ],
           "box": {
             "x": 1014.8125,
-            "y": 99.59375,
+            "y": 58.59375,
             "w": 300,
-            "h": 21.1875
+            "h": 21.1875,
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Search Our Website"
           }
         },
         {
@@ -179,7 +204,12 @@
             "x": 31,
             "y": 559.21875,
             "w": 1304,
-            "h": 24
+            "h": 24,
+            "fontSize": 20,
+            "fontWeight": "700",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "WHEN IS MY GARBAGE DAY?"
           }
         },
         {
@@ -193,7 +223,12 @@
             "x": 31,
             "y": 583.21875,
             "w": 1304,
-            "h": 67
+            "h": 67,
+            "fontSize": 56,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "CHECK SCHEDULE"
           }
         },
         {
@@ -207,7 +242,12 @@
             "x": 595.59375,
             "y": 651.8125,
             "w": 174.796875,
-            "h": 42.1875
+            "h": 42.1875,
+            "fontSize": 19.2,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "LEARN MORE"
           }
         },
         {
@@ -221,7 +261,12 @@
             "x": 251.15625,
             "y": 2383.8125,
             "w": 375.3125,
-            "h": 17
+            "h": 17,
+            "fontSize": 14.4,
+            "fontWeight": "800",
+            "color": "rgb(30, 59, 77)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "PHONE NUMBERS"
           }
         },
         {
@@ -235,7 +280,12 @@
             "x": 251.15625,
             "y": 2417.8125,
             "w": 141.40625,
-            "h": 18
+            "h": 18,
+            "fontSize": 14.4,
+            "fontWeight": "600",
+            "color": "rgb(30, 59, 77)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "MAYOR & COUNCIL 204-677-7926"
           }
         },
         {
@@ -249,7 +299,12 @@
             "x": 525.578125,
             "y": 2416.8125,
             "w": 100.890625,
-            "h": 21.609375
+            "h": 21.609375,
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "color": "rgb(30, 59, 77)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "204-677-7926"
           }
         },
         {
@@ -263,7 +318,12 @@
             "x": 251.15625,
             "y": 2444.21875,
             "w": 116.359375,
-            "h": 18
+            "h": 18,
+            "fontSize": 14.4,
+            "fontWeight": "600",
+            "color": "rgb(30, 59, 77)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "CITY MANAGER 204-677-7951"
           }
         },
         {
@@ -277,7 +337,12 @@
             "x": 525.578125,
             "y": 2443.21875,
             "w": 100.890625,
-            "h": 21.609375
+            "h": 21.609375,
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "color": "rgb(30, 59, 77)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "204-677-7951"
           }
         },
         {
@@ -291,7 +356,12 @@
             "x": 251.15625,
             "y": 2470.625,
             "w": 151.859375,
-            "h": 18
+            "h": 18,
+            "fontSize": 14.4,
+            "fontWeight": "600",
+            "color": "rgb(30, 59, 77)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "GENERAL INQUIRIES 204-677-7910"
           }
         },
         {
@@ -305,7 +375,12 @@
             "x": 525.578125,
             "y": 2469.625,
             "w": 100.890625,
-            "h": 21.609375
+            "h": 21.609375,
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "color": "rgb(30, 59, 77)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "204-677-7910"
           }
         },
         {
@@ -319,7 +394,12 @@
             "x": 251.15625,
             "y": 2497.03125,
             "w": 219.734375,
-            "h": 18
+            "h": 18,
+            "fontSize": 14.4,
+            "fontWeight": "600",
+            "color": "rgb(30, 59, 77)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "DIRECTOR OF PUBLIC WORKS 204-677-7973"
           }
         },
         {
@@ -333,7 +413,12 @@
             "x": 525.578125,
             "y": 2496.03125,
             "w": 100.890625,
-            "h": 21.609375
+            "h": 21.609375,
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "color": "rgb(30, 59, 77)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "204-677-7973"
           }
         },
         {
@@ -347,7 +432,12 @@
             "x": 251.15625,
             "y": 2532.03125,
             "w": 305.78125,
-            "h": 24
+            "h": 24,
+            "fontSize": 16,
+            "fontWeight": "600",
+            "color": "rgb(30, 59, 77)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "VIEW THE FULL STAFF DIRECTORY"
           }
         },
         {
@@ -361,7 +451,12 @@
             "x": 706.484375,
             "y": 2383.8125,
             "w": 375.3125,
-            "h": 17
+            "h": 17,
+            "fontSize": 14.4,
+            "fontWeight": "800",
+            "color": "rgb(30, 59, 77)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "EMERGENCY NUMBERS"
           }
         },
         {
@@ -375,7 +470,12 @@
             "x": 706.484375,
             "y": 2417.8125,
             "w": 135.03125,
-            "h": 18
+            "h": 18,
+            "fontSize": 14.4,
+            "fontWeight": "600",
+            "color": "rgb(30, 59, 77)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "AMBULANCE/FIRE 204-677-7911"
           }
         },
         {
@@ -389,7 +489,12 @@
             "x": 980.90625,
             "y": 2416.8125,
             "w": 100.890625,
-            "h": 21.609375
+            "h": 21.609375,
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "color": "rgb(30, 59, 77)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "204-677-7911"
           }
         },
         {
@@ -403,7 +508,12 @@
             "x": 706.484375,
             "y": 2444.21875,
             "w": 60.078125,
-            "h": 18
+            "h": 18,
+            "fontSize": 14.4,
+            "fontWeight": "600",
+            "color": "rgb(30, 59, 77)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "R.C.M.P 204-677-6911"
           }
         },
         {
@@ -417,7 +527,12 @@
             "x": 980.90625,
             "y": 2443.21875,
             "w": 100.890625,
-            "h": 21.609375
+            "h": 21.609375,
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "color": "rgb(30, 59, 77)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "204-677-6911"
           }
         },
         {
@@ -431,7 +546,12 @@
             "x": 706.484375,
             "y": 2470.625,
             "w": 236.53125,
-            "h": 18
+            "h": 18,
+            "fontSize": 14.4,
+            "fontWeight": "600",
+            "color": "rgb(30, 59, 77)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "COMMUNITY SAFETY OFFICERS 204-677-7916"
           }
         },
         {
@@ -445,7 +565,12 @@
             "x": 980.90625,
             "y": 2469.625,
             "w": 100.890625,
-            "h": 21.609375
+            "h": 21.609375,
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "color": "rgb(30, 59, 77)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "204-677-7916"
           }
         },
         {
@@ -459,7 +584,12 @@
             "x": 706.484375,
             "y": 2497.03125,
             "w": 75.890625,
-            "h": 18
+            "h": 18,
+            "fontSize": 14.4,
+            "fontWeight": "600",
+            "color": "rgb(30, 59, 77)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "HOSPITAL 204-677-2381"
           }
         },
         {
@@ -473,7 +603,12 @@
             "x": 980.90625,
             "y": 2496.03125,
             "w": 100.890625,
-            "h": 21.609375
+            "h": 21.609375,
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "color": "rgb(30, 59, 77)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "204-677-2381"
           }
         },
         {
@@ -487,7 +622,12 @@
             "x": 1153.3125,
             "y": 2383.8125,
             "w": 197.65625,
-            "h": 17
+            "h": 17,
+            "fontSize": 14.4,
+            "fontWeight": "800",
+            "color": "rgb(30, 59, 77)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "DOWNLOAD OUR APP"
           }
         },
         {
@@ -501,7 +641,12 @@
             "x": 15,
             "y": 2605.34375,
             "w": 240,
-            "h": 30
+            "h": 30,
+            "fontSize": 12.8,
+            "fontWeight": "600",
+            "color": "rgb(30, 59, 77)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "2026 © CITY OF CITY OF THOMPSON, MB"
           }
         },
         {
@@ -515,7 +660,12 @@
             "x": 365.71875,
             "y": 2614.34375,
             "w": 311.3125,
-            "h": 15
+            "h": 15,
+            "fontSize": 12.8,
+            "fontWeight": "600",
+            "color": "rgb(30, 59, 77)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "226 MYSTERY LAKE ROAD THOMPSON, MB R8N 1S6"
           }
         },
         {
@@ -529,7 +679,12 @@
             "x": 730.03125,
             "y": 2614.34375,
             "w": 84.734375,
-            "h": 15
+            "h": 15,
+            "fontSize": 12.8,
+            "fontWeight": "600",
+            "color": "rgb(30, 59, 77)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "204-677-7910"
           }
         },
         {
@@ -543,7 +698,12 @@
             "x": 867.765625,
             "y": 2614.34375,
             "w": 220.203125,
-            "h": 15
+            "h": 15,
+            "fontSize": 12.8,
+            "fontWeight": "600",
+            "color": "rgb(30, 59, 77)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "COMMUNICATIONS@THOMPSON.CA"
           }
         },
         {
@@ -557,7 +717,12 @@
             "x": 1194.734375,
             "y": 2610.3125,
             "w": 156.265625,
-            "h": 23.65625
+            "h": 23.65625,
+            "fontSize": 12.8,
+            "fontWeight": "600",
+            "color": "rgb(30, 59, 77)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "WEBSITE BY:"
           }
         },
         {
@@ -571,7 +736,12 @@
             "x": 1333.3125,
             "y": 354.3125,
             "w": 18,
-            "h": 120.984375
+            "h": 120.984375,
+            "fontSize": 14.4,
+            "fontWeight": "700",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "POLL QUESTION"
           }
         }
       ]
@@ -614,7 +784,12 @@
             "x": 0,
             "y": 38,
             "w": 1366,
-            "h": 720
+            "h": 720,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(55, 73, 87)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "WHEN IS MY GARBAGE DAY? CHECK SCHEDULE LEARN MORE"
           }
         }
       ]
@@ -650,7 +825,12 @@
             "x": 0,
             "y": 38,
             "w": 1366,
-            "h": 720
+            "h": 720,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(55, 73, 87)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "WHEN IS MY GARBAGE DAY? CHECK SCHEDULE LEARN MORE"
           }
         }
       ]
@@ -684,9 +864,14 @@
           ],
           "box": {
             "x": 440.1875,
-            "y": 142.140625,
+            "y": 101.140625,
             "w": 43.1875,
-            "h": 110.59375
+            "h": 110.59375,
+            "fontSize": 17.6,
+            "fontWeight": "700",
+            "color": "rgb(30, 59, 77)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "HOME"
           }
         },
         {
@@ -698,9 +883,14 @@
           ],
           "box": {
             "x": 483.375,
-            "y": 142.140625,
+            "y": 101.140625,
             "w": 111.125,
-            "h": 110.59375
+            "h": 110.59375,
+            "fontSize": 17.6,
+            "fontWeight": "700",
+            "color": "rgb(30, 59, 77)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "SERVICES"
           }
         },
         {
@@ -712,9 +902,14 @@
           ],
           "box": {
             "x": 594.5,
-            "y": 142.140625,
+            "y": 101.140625,
             "w": 166.25,
-            "h": 110.59375
+            "h": 110.59375,
+            "fontSize": 17.6,
+            "fontWeight": "700",
+            "color": "rgb(30, 59, 77)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "VISIT AND PLAY"
           }
         },
         {
@@ -726,9 +921,14 @@
           ],
           "box": {
             "x": 760.75,
-            "y": 142.140625,
+            "y": 101.140625,
             "w": 113.1875,
-            "h": 110.59375
+            "h": 110.59375,
+            "fontSize": 17.6,
+            "fontWeight": "700",
+            "color": "rgb(30, 59, 77)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "BUSINESS"
           }
         },
         {
@@ -740,9 +940,14 @@
           ],
           "box": {
             "x": 873.9375,
-            "y": 142.140625,
+            "y": 101.140625,
             "w": 117.5625,
-            "h": 110.59375
+            "h": 110.59375,
+            "fontSize": 17.6,
+            "fontWeight": "700",
+            "color": "rgb(30, 59, 77)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "CITY HALL"
           }
         },
         {
@@ -754,9 +959,14 @@
           ],
           "box": {
             "x": 991.5,
-            "y": 142.140625,
+            "y": 101.140625,
             "w": 203.65625,
-            "h": 110.59375
+            "h": 110.59375,
+            "fontSize": 17.6,
+            "fontWeight": "700",
+            "color": "rgb(30, 59, 77)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "NEWS AND NOTICES"
           }
         },
         {
@@ -768,9 +978,14 @@
           ],
           "box": {
             "x": 1195.15625,
-            "y": 142.140625,
+            "y": 101.140625,
             "w": 119.65625,
-            "h": 110.59375
+            "h": 110.59375,
+            "fontSize": 17.6,
+            "fontWeight": "700",
+            "color": "rgb(55, 73, 87)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "I'D LIKE TO"
           }
         }
       ]
@@ -817,7 +1032,12 @@
             "x": 24,
             "y": 1907.4375,
             "w": 15.90625,
-            "h": 26.390625
+            "h": 26.390625,
+            "fontSize": 17.6,
+            "fontWeight": "400",
+            "color": "rgb(30, 59, 77)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": ""
           }
         },
         {
@@ -837,7 +1057,12 @@
             "x": 1326.09375,
             "y": 1907.4375,
             "w": 15.90625,
-            "h": 26.390625
+            "h": 26.390625,
+            "fontSize": 17.6,
+            "fontWeight": "400",
+            "color": "rgb(30, 59, 77)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": ""
           }
         },
         {
@@ -857,7 +1082,12 @@
             "x": 664,
             "y": 1912.4375,
             "w": 14,
-            "h": 14
+            "h": 14,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(55, 73, 87)",
+            "background": "rgb(160, 165, 166)",
+            "text": ""
           }
         },
         {
@@ -877,7 +1107,12 @@
             "x": 688,
             "y": 1912.4375,
             "w": 14,
-            "h": 14
+            "h": 14,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(55, 73, 87)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": ""
           }
         }
       ]
@@ -923,7 +1158,12 @@
             "x": 15,
             "y": 2383.8125,
             "w": 197.609375,
-            "h": 51.875
+            "h": 51.875,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(55, 73, 87)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": ""
           }
         }
       ]
@@ -971,7 +1211,12 @@
             "x": 1324.5,
             "y": 696,
             "w": 26.5,
-            "h": 24
+            "h": 24,
+            "fontSize": 20,
+            "fontWeight": "400",
+            "color": "rgb(7, 99, 36)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": ""
           }
         }
       ]
@@ -1002,9 +1247,14 @@
           ],
           "box": {
             "x": 1014.8125,
-            "y": 99.59375,
+            "y": 58.59375,
             "w": 300,
-            "h": 21.1875
+            "h": 21.1875,
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Search Our Website"
           }
         }
       ]

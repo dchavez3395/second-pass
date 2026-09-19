@@ -19,7 +19,7 @@
     "width": 1366,
     "height": 900
   },
-  "scannedAt": "2026-09-18T04:54:34.660Z",
+  "scannedAt": "2026-09-19T06:23:32.600Z",
   "axe": {
     "violationRules": 3,
     "violationNodes": 13,
@@ -79,7 +79,12 @@
             "x": 1088.40625,
             "y": 103.5,
             "w": 184,
-            "h": 25
+            "h": 25,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(56, 56, 56)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Search in https://www.mpi.mb.ca/ submit search"
           }
         },
         {
@@ -93,7 +98,12 @@
             "x": 40,
             "y": 1450.9375,
             "w": 62.390625,
-            "h": 23
+            "h": 23,
+            "fontSize": 19,
+            "fontWeight": "700",
+            "color": "rgb(84, 199, 218)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "More about Licensing & ID"
           }
         },
         {
@@ -107,7 +117,12 @@
             "x": 316.5,
             "y": 1389.375,
             "w": 62.390625,
-            "h": 23
+            "h": 23,
+            "fontSize": 19,
+            "fontWeight": "700",
+            "color": "rgb(84, 199, 218)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "More about Registration"
           }
         },
         {
@@ -121,7 +136,12 @@
             "x": 593,
             "y": 1431.75,
             "w": 62.390625,
-            "h": 23
+            "h": 23,
+            "fontSize": 19,
+            "fontWeight": "700",
+            "color": "rgb(84, 199, 218)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "More about Insurance"
           }
         },
         {
@@ -135,7 +155,12 @@
             "x": 869.5,
             "y": 1427.75,
             "w": 62.390625,
-            "h": 23
+            "h": 23,
+            "fontSize": 19,
+            "fontWeight": "700",
+            "color": "rgb(84, 199, 218)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "More about Claims"
           }
         },
         {
@@ -149,7 +174,12 @@
             "x": 1146,
             "y": 1389.375,
             "w": 62.390625,
-            "h": 23
+            "h": 23,
+            "fontSize": 19,
+            "fontWeight": "700",
+            "color": "rgb(84, 199, 218)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "More about Road Safety"
           }
         }
       ]
@@ -192,7 +222,12 @@
             "x": 1379.65625,
             "y": -909,
             "w": 1366,
-            "h": 900
+            "h": 900,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(56, 56, 56)",
+            "background": "rgb(255, 255, 255)",
+            "text": "Video Modal"
           }
         }
       ]
@@ -246,7 +281,12 @@
             "x": 412.171875,
             "y": 25,
             "w": 534.84375,
-            "h": 24
+            "h": 24,
+            "fontSize": 20,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Storm damage? Open a claim online. Click here to get started."
           }
         },
         {
@@ -260,7 +300,12 @@
             "x": 728.734375,
             "y": 25,
             "w": 214.03125,
-            "h": 24
+            "h": 24,
+            "fontSize": 20,
+            "fontWeight": "700",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Click here to get started"
           }
         },
         {
@@ -274,7 +319,12 @@
             "x": 441.34375,
             "y": 104.796875,
             "w": 108.625,
-            "h": 22.390625
+            "h": 22.390625,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Online Services"
           }
         },
         {
@@ -288,7 +338,12 @@
             "x": 565.96875,
             "y": 104.796875,
             "w": 77.984375,
-            "h": 22.390625
+            "h": 22.390625,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Contact Us"
           }
         },
         {
@@ -302,7 +357,12 @@
             "x": 659.953125,
             "y": 104.796875,
             "w": 92.59375,
-            "h": 22.390625
+            "h": 22.390625,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Report Fraud"
           }
         },
         {
@@ -316,7 +376,12 @@
             "x": 768.546875,
             "y": 104.796875,
             "w": 55.6875,
-            "h": 22.390625
+            "h": 22.390625,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Careers"
           }
         },
         {
@@ -330,7 +395,12 @@
             "x": 840.234375,
             "y": 104.796875,
             "w": 168.421875,
-            "h": 22.390625
+            "h": 22.390625,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Land Acknowledgement"
           }
         },
         {
@@ -344,7 +414,12 @@
             "x": 1016.65625,
             "y": 104.796875,
             "w": 19.375,
-            "h": 22.390625
+            "h": 22.390625,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "FR Switch site language to French"
           }
         },
         {
@@ -358,7 +433,12 @@
             "x": 100,
             "y": 652.90625,
             "w": 93.3125,
-            "h": 22
+            "h": 22,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Learn More"
           }
         },
         {
@@ -372,7 +452,12 @@
             "x": 40,
             "y": 1072,
             "w": 1286,
-            "h": 84
+            "h": 84,
+            "fontSize": 60,
+            "fontWeight": "700",
+            "color": "rgb(84, 199, 218)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "What brings you here?"
           }
         },
         {
@@ -386,7 +471,12 @@
             "x": 40,
             "y": 1210,
             "w": 180,
-            "h": 122
+            "h": 122,
+            "fontSize": 20,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Licensing & ID"
           }
         },
         {
@@ -400,7 +490,12 @@
             "x": 40,
             "y": 1332,
             "w": 142.28125,
-            "h": 38.1875
+            "h": 38.1875,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "New or Returning to Manitoba"
           }
         },
         {
@@ -414,7 +509,12 @@
             "x": 40,
             "y": 1374.375,
             "w": 165.3125,
-            "h": 38.1875
+            "h": 38.1875,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "What you need to know about driver testing"
           }
         },
         {
@@ -428,7 +528,12 @@
             "x": 40,
             "y": 1416.75,
             "w": 99.578125,
-            "h": 19
+            "h": 19,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Driver Z Login"
           }
         },
         {
@@ -442,7 +547,12 @@
             "x": 40,
             "y": 1450.9375,
             "w": 62.390625,
-            "h": 23
+            "h": 23,
+            "fontSize": 19,
+            "fontWeight": "700",
+            "color": "rgb(84, 199, 218)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "More about Licensing & ID"
           }
         },
         {
@@ -456,7 +566,12 @@
             "x": 316.5,
             "y": 1210,
             "w": 180,
-            "h": 122
+            "h": 122,
+            "fontSize": 20,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Registration"
           }
         },
         {
@@ -470,7 +585,12 @@
             "x": 316.5,
             "y": 1332,
             "w": 167.59375,
-            "h": 19
+            "h": 19,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Registering your vehicle"
           }
         },
         {
@@ -484,7 +604,12 @@
             "x": 316.5,
             "y": 1355.1875,
             "w": 167.859375,
-            "h": 19
+            "h": 19,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Certificate of inspection"
           }
         },
         {
@@ -498,7 +623,12 @@
             "x": 316.5,
             "y": 1389.375,
             "w": 62.390625,
-            "h": 23
+            "h": 23,
+            "fontSize": 19,
+            "fontWeight": "700",
+            "color": "rgb(84, 199, 218)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "More about Registration"
           }
         },
         {
@@ -512,7 +642,12 @@
             "x": 593,
             "y": 1210,
             "w": 180,
-            "h": 122
+            "h": 122,
+            "fontSize": 20,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Insurance"
           }
         },
         {
@@ -526,7 +661,12 @@
             "x": 593,
             "y": 1332,
             "w": 144.984375,
-            "h": 19
+            "h": 19,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Insuring your vehicle"
           }
         },
         {
@@ -540,7 +680,12 @@
             "x": 593,
             "y": 1355.1875,
             "w": 176.65625,
-            "h": 19
+            "h": 19,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Paying for your insurance"
           }
         },
         {
@@ -554,7 +699,12 @@
             "x": 593,
             "y": 1378.375,
             "w": 170.671875,
-            "h": 38.1875
+            "h": 38.1875,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Where do your premium dollars go?"
           }
         },
         {
@@ -568,7 +718,12 @@
             "x": 593,
             "y": 1431.75,
             "w": 62.390625,
-            "h": 23
+            "h": 23,
+            "fontSize": 19,
+            "fontWeight": "700",
+            "color": "rgb(84, 199, 218)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "More about Insurance"
           }
         },
         {
@@ -582,7 +737,12 @@
             "x": 869.5,
             "y": 1210,
             "w": 180,
-            "h": 122
+            "h": 122,
+            "fontSize": 20,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Claims"
           }
         },
         {
@@ -596,7 +756,12 @@
             "x": 869.5,
             "y": 1332,
             "w": 133.609375,
-            "h": 38.1875
+            "h": 38.1875,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Reporting a vehicle collision claim"
           }
         },
         {
@@ -610,7 +775,12 @@
             "x": 869.5,
             "y": 1374.375,
             "w": 155.0625,
-            "h": 38.1875
+            "h": 38.1875,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Repairing your vehicle damage"
           }
         },
         {
@@ -624,7 +794,12 @@
             "x": 869.5,
             "y": 1427.75,
             "w": 62.390625,
-            "h": 23
+            "h": 23,
+            "fontSize": 19,
+            "fontWeight": "700",
+            "color": "rgb(84, 199, 218)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "More about Claims"
           }
         },
         {
@@ -638,7 +813,12 @@
             "x": 1146,
             "y": 1210,
             "w": 180,
-            "h": 122
+            "h": 122,
+            "fontSize": 20,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Road Safety"
           }
         },
         {
@@ -652,7 +832,12 @@
             "x": 1146,
             "y": 1332,
             "w": 164.15625,
-            "h": 19
+            "h": 19,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "MPI’s Driver Z program"
           }
         },
         {
@@ -666,7 +851,12 @@
             "x": 1146,
             "y": 1355.1875,
             "w": 167.0625,
-            "h": 19
+            "h": 19,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "They’re counting on you"
           }
         },
         {
@@ -680,7 +870,12 @@
             "x": 1146,
             "y": 1389.375,
             "w": 62.390625,
-            "h": 23
+            "h": 23,
+            "fontSize": 19,
+            "fontWeight": "700",
+            "color": "rgb(84, 199, 218)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "More about Road Safety"
           }
         },
         {
@@ -694,7 +889,12 @@
             "x": 40,
             "y": 1596.734375,
             "w": 611,
-            "h": 74
+            "h": 74,
+            "fontSize": 60,
+            "fontWeight": "700",
+            "color": "rgb(84, 199, 218)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": ""
           }
         },
         {
@@ -708,7 +908,12 @@
             "x": 40,
             "y": 1674.734375,
             "w": 643,
-            "h": 24
+            "h": 24,
+            "fontSize": 16,
+            "fontWeight": "700",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Type your search and press return"
           }
         },
         {
@@ -722,7 +927,12 @@
             "x": 40,
             "y": 1983.0625,
             "w": 1286,
-            "h": 72
+            "h": 72,
+            "fontSize": 60,
+            "fontWeight": "600",
+            "color": "rgb(0, 129, 147)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Tools"
           }
         },
         {
@@ -736,7 +946,12 @@
             "x": 125.75,
             "y": 2224.40625,
             "w": 150,
-            "h": 54
+            "h": 54,
+            "fontSize": 18,
+            "fontWeight": "700",
+            "color": "rgb(56, 56, 56)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Online Credit Card Payment"
           }
         },
         {
@@ -750,7 +965,12 @@
             "x": 447.25,
             "y": 2224.40625,
             "w": 150,
-            "h": 27
+            "h": 27,
+            "fontSize": 18,
+            "fontWeight": "700",
+            "color": "rgb(56, 56, 56)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Driving Quizzes"
           }
         },
         {
@@ -764,7 +984,12 @@
             "x": 768.75,
             "y": 2224.40625,
             "w": 150,
-            "h": 54
+            "h": 54,
+            "fontSize": 18,
+            "fontWeight": "700",
+            "color": "rgb(56, 56, 56)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Proving My Identity"
           }
         },
         {
@@ -778,7 +1003,12 @@
             "x": 1090.25,
             "y": 2224.40625,
             "w": 150,
-            "h": 27
+            "h": 27,
+            "fontSize": 18,
+            "fontWeight": "700",
+            "color": "rgb(56, 56, 56)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Driver Z Login"
           }
         },
         {
@@ -792,7 +1022,12 @@
             "x": 624.578125,
             "y": 2420.40625,
             "w": 116.84375,
-            "h": 19
+            "h": 19,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "View More Tools"
           }
         },
         {
@@ -806,7 +1041,12 @@
             "x": 40,
             "y": 2672.734375,
             "w": 230,
-            "h": 25.203125
+            "h": 25.203125,
+            "fontSize": 18,
+            "fontWeight": "700",
+            "color": "rgb(238, 238, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Connect"
           }
         },
         {
@@ -820,7 +1060,12 @@
             "x": 40,
             "y": 2731.9375,
             "w": 230,
-            "h": 60.46875
+            "h": 60.46875,
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "color": "rgb(238, 238, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "In Winnipeg: 204-985-7000 Toll Free: 1-800-665-2410 Email us"
           }
         },
         {
@@ -834,7 +1079,12 @@
             "x": 122.53125,
             "y": 2732.9375,
             "w": 93.515625,
-            "h": 17
+            "h": 17,
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "color": "rgb(238, 238, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "204-985-7000"
           }
         },
         {
@@ -848,7 +1098,12 @@
             "x": 100.171875,
             "y": 2753.09375,
             "w": 106.875,
-            "h": 17
+            "h": 17,
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "color": "rgb(238, 238, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "1-800-665-2410"
           }
         },
         {
@@ -862,7 +1117,12 @@
             "x": 40,
             "y": 2773.25,
             "w": 51.90625,
-            "h": 17
+            "h": 17,
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "color": "rgb(238, 238, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Email us"
           }
         },
         {
@@ -876,7 +1136,12 @@
             "x": 40,
             "y": 2812.5625,
             "w": 230,
-            "h": 80.625
+            "h": 80.625,
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "color": "rgb(238, 238, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Contact Centre Hours: Monday to Friday: 7:30am–7pm Saturday: 8:30am–4:30pm Sunda"
           }
         },
         {
@@ -890,7 +1155,12 @@
             "x": 40,
             "y": 2914.34375,
             "w": 83.34375,
-            "h": 17
+            "h": 17,
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "color": "rgb(238, 238, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Report Fraud"
           }
         },
         {
@@ -904,7 +1174,12 @@
             "x": 40,
             "y": 2934.5,
             "w": 197.125,
-            "h": 17
+            "h": 17,
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "color": "rgb(238, 238, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Additional Contact Information"
           }
         },
         {
@@ -918,7 +1193,12 @@
             "x": 40,
             "y": 2977.65625,
             "w": 230,
-            "h": 20.15625
+            "h": 20.15625,
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "color": "rgb(238, 238, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Follow us on:"
           }
         },
         {
@@ -932,7 +1212,12 @@
             "x": 40,
             "y": 3027.8125,
             "w": 230,
-            "h": 20.15625
+            "h": 20.15625,
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "color": "rgb(238, 238, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "© 2023 Manitoba Public Insurance"
           }
         },
         {
@@ -946,7 +1231,12 @@
             "x": 391.984375,
             "y": 2672.734375,
             "w": 230,
-            "h": 25.203125
+            "h": 25.203125,
+            "fontSize": 18,
+            "fontWeight": "700",
+            "color": "rgb(238, 238, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Find a Service"
           }
         },
         {
@@ -960,7 +1250,12 @@
             "x": 391.984375,
             "y": 2731.9375,
             "w": 230,
-            "h": 15.671875
+            "h": 15.671875,
+            "fontSize": 11.2,
+            "fontWeight": "700",
+            "color": "rgb(238, 238, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "CATEGORY"
           }
         },
         {
@@ -974,7 +1269,12 @@
             "x": 391.984375,
             "y": 2755.609375,
             "w": 191,
-            "h": 33.78125
+            "h": 33.78125,
+            "fontSize": 14,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgb(85, 85, 85)",
+            "text": "Select... Brokers Glass Shops Service/Claim Centre Winter Tire Retailers"
           }
         },
         {
@@ -988,7 +1288,12 @@
             "x": 391.984375,
             "y": 2808.1875,
             "w": 46.53125,
-            "h": 12
+            "h": 12,
+            "fontSize": 12,
+            "fontWeight": "700",
+            "color": "rgb(84, 199, 218)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "SEARCH"
           }
         },
         {
@@ -1002,7 +1307,12 @@
             "x": 743.96875,
             "y": 2672.734375,
             "w": 230,
-            "h": 25.203125
+            "h": 25.203125,
+            "fontSize": 18,
+            "fontWeight": "700",
+            "color": "rgb(238, 238, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Newsroom"
           }
         },
         {
@@ -1016,7 +1326,12 @@
             "x": 743.96875,
             "y": 2732.9375,
             "w": 90.421875,
-            "h": 17
+            "h": 17,
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "color": "rgb(238, 238, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "News releases"
           }
         },
         {
@@ -1030,7 +1345,12 @@
             "x": 743.96875,
             "y": 2758.6875,
             "w": 101.9375,
-            "h": 17
+            "h": 17,
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "color": "rgb(238, 238, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Rate application"
           }
         },
         {
@@ -1044,7 +1364,12 @@
             "x": 743.96875,
             "y": 2784.4375,
             "w": 106.0625,
-            "h": 17
+            "h": 17,
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "color": "rgb(238, 238, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Financial reports"
           }
         },
         {
@@ -1058,7 +1383,12 @@
             "x": 743.96875,
             "y": 2810.1875,
             "w": 119.59375,
-            "h": 17
+            "h": 17,
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "color": "rgb(238, 238, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Public engagement"
           }
         },
         {
@@ -1072,7 +1402,12 @@
             "x": 743.96875,
             "y": 2835.9375,
             "w": 119.109375,
-            "h": 17
+            "h": 17,
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "color": "rgb(238, 238, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Autopac rate guide"
           }
         },
         {
@@ -1086,7 +1421,12 @@
             "x": 743.96875,
             "y": 2861.6875,
             "w": 191.03125,
-            "h": 17
+            "h": 17,
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "color": "rgb(238, 238, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Manitoba Collision Dashboard"
           }
         },
         {
@@ -1100,7 +1440,12 @@
             "x": 1095.953125,
             "y": 2672.734375,
             "w": 230,
-            "h": 25.203125
+            "h": 25.203125,
+            "fontSize": 18,
+            "fontWeight": "700",
+            "color": "rgb(238, 238, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Company"
           }
         },
         {
@@ -1114,7 +1459,12 @@
             "x": 1095.953125,
             "y": 2732.9375,
             "w": 75.484375,
-            "h": 17
+            "h": 17,
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "color": "rgb(238, 238, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Who we are"
           }
         },
         {
@@ -1128,7 +1478,12 @@
             "x": 1095.953125,
             "y": 2758.6875,
             "w": 137.59375,
-            "h": 17
+            "h": 17,
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "color": "rgb(238, 238, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Annual business plans"
           }
         },
         {
@@ -1142,7 +1497,12 @@
             "x": 1095.953125,
             "y": 2784.4375,
             "w": 150.796875,
-            "h": 17
+            "h": 17,
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "color": "rgb(238, 238, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Indigenous Engagement"
           }
         },
         {
@@ -1156,7 +1516,12 @@
             "x": 1095.953125,
             "y": 2810.1875,
             "w": 113.265625,
-            "h": 17
+            "h": 17,
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "color": "rgb(238, 238, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Financial reserves"
           }
         },
         {
@@ -1170,7 +1535,12 @@
             "x": 1095.953125,
             "y": 2835.9375,
             "w": 85.40625,
-            "h": 17
+            "h": 17,
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "color": "rgb(238, 238, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Sustainability"
           }
         },
         {
@@ -1184,7 +1554,12 @@
             "x": 1095.953125,
             "y": 2861.6875,
             "w": 78.828125,
-            "h": 17
+            "h": 17,
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "color": "rgb(238, 238, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Accessibility"
           }
         },
         {
@@ -1198,7 +1573,12 @@
             "x": 1095.953125,
             "y": 2887.4375,
             "w": 162.203125,
-            "h": 17
+            "h": 17,
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "color": "rgb(238, 238, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "French Language Services"
           }
         },
         {
@@ -1212,7 +1592,12 @@
             "x": 1095.953125,
             "y": 2913.1875,
             "w": 98.3125,
-            "h": 17
+            "h": 17,
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "color": "rgb(238, 238, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Insurance fraud"
           }
         },
         {
@@ -1226,7 +1611,12 @@
             "x": 1095.953125,
             "y": 2938.9375,
             "w": 162.046875,
-            "h": 37.15625
+            "h": 37.15625,
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "color": "rgb(238, 238, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "How you can protect your information"
           }
         },
         {
@@ -1240,7 +1630,12 @@
             "x": 1095.953125,
             "y": 2984.84375,
             "w": 147.453125,
-            "h": 17
+            "h": 17,
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "color": "rgb(238, 238, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Protecting your privacy"
           }
         },
         {
@@ -1254,7 +1649,12 @@
             "x": 1095.953125,
             "y": 3035,
             "w": 67.359375,
-            "h": 17
+            "h": 17,
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "color": "rgb(238, 238, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Disclaimer"
           }
         }
       ]
@@ -1303,7 +1703,12 @@
             "x": 1290.40625,
             "y": 16,
             "w": 51.59375,
-            "h": 42
+            "h": 42,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": ""
           }
         }
       ]
@@ -1342,7 +1747,12 @@
             "x": 40,
             "y": 419.09375,
             "w": 1240.6875,
-            "h": 72
+            "h": 72,
+            "fontSize": 60,
+            "fontWeight": "700",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Do barriers affect your access to MPI services?"
           }
         },
         {
@@ -1356,7 +1766,12 @@
             "x": 40,
             "y": 491.09375,
             "w": 768,
-            "h": 116.8125
+            "h": 116.8125,
+            "fontSize": 36,
+            "fontWeight": "300",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "We want to hear from you. Complete our survey and help shape our 2027/2028 Acces"
           }
         },
         {
@@ -1370,7 +1785,12 @@
             "x": 604.84375,
             "y": 932.8125,
             "w": 156.3125,
-            "h": 66.390625
+            "h": 66.390625,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "What brings you here?"
           }
         },
         {
@@ -1384,7 +1804,12 @@
             "x": 664.703125,
             "y": 1772.546875,
             "w": 36.59375,
-            "h": 66.390625
+            "h": 66.390625,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(84, 199, 218)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Tools"
           }
         },
         {
@@ -1398,7 +1823,12 @@
             "x": 643.46875,
             "y": 2604.546875,
             "w": 79.0625,
-            "h": 66.390625
+            "h": 66.390625,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(84, 199, 218)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Back to top"
           }
         }
       ]
@@ -1431,7 +1861,12 @@
             "x": 1016.65625,
             "y": 104.796875,
             "w": 19.375,
-            "h": 22.390625
+            "h": 22.390625,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "FR Switch site language to French"
           }
         },
         {
@@ -1446,7 +1881,12 @@
             "x": 316.5,
             "y": 1332,
             "w": 167.59375,
-            "h": 19
+            "h": 19,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Registering your vehicle"
           }
         },
         {
@@ -1461,7 +1901,12 @@
             "x": 316.5,
             "y": 1355.1875,
             "w": 167.859375,
-            "h": 19
+            "h": 19,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Certificate of inspection"
           }
         },
         {
@@ -1476,7 +1921,12 @@
             "x": 593,
             "y": 1332,
             "w": 144.984375,
-            "h": 19
+            "h": 19,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Insuring your vehicle"
           }
         },
         {
@@ -1491,7 +1941,12 @@
             "x": 1146,
             "y": 1332,
             "w": 164.15625,
-            "h": 19
+            "h": 19,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "MPI’s Driver Z program"
           }
         },
         {
@@ -1506,7 +1961,12 @@
             "x": 1146,
             "y": 1355.1875,
             "w": 167.0625,
-            "h": 19
+            "h": 19,
+            "fontSize": 16,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "They’re counting on you"
           }
         },
         {
@@ -1521,7 +1981,12 @@
             "x": 40,
             "y": 2914.34375,
             "w": 83.34375,
-            "h": 17
+            "h": 17,
+            "fontSize": 14.4,
+            "fontWeight": "400",
+            "color": "rgb(238, 238, 238)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Report Fraud"
           }
         }
       ]

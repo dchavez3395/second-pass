@@ -11,7 +11,7 @@
     "buttons": 61,
     "inputs": 8,
     "headings": 37,
-    "textLength": 3905,
+    "textLength": 4088,
     "lang": "en",
     "iframes": 3
   },
@@ -19,16 +19,16 @@
     "width": 1366,
     "height": 900
   },
-  "scannedAt": "2026-09-18T05:05:05.785Z",
+  "scannedAt": "2026-09-19T06:20:50.960Z",
   "axe": {
     "violationRules": 8,
     "violationNodes": 96,
     "passRules": 28,
     "passNodes": 885,
     "incompleteRules": 2,
-    "incompleteNodes": 33,
+    "incompleteNodes": 34,
     "inapplicableRules": 32,
-    "testedNodes": 1014
+    "testedNodes": 1015
   },
   "incomplete": [
     {
@@ -53,11 +53,11 @@
         "1.4.3"
       ],
       "why": "Element has a 1:1 contrast ratio with the background",
-      "nodes": 31,
+      "nodes": 32,
       "sample": [
         {
           "target": "#weatherwidget-io-0 .currentTemp",
-          "html": "<div class=\"currentTemp ng-binding\">8°C</div>"
+          "html": "<div class=\"currentTemp ng-binding\">14°C</div>"
         },
         {
           "target": "#weatherwidget-io-0 .currentDesc",
@@ -65,13 +65,13 @@
         },
         {
           "target": ".hcalendar[href$=\"waste-recycling-calendar\"] > .hcalendar-calendar",
-          "html": "<span class=\"hcalendar-calendar\">Today's Waste &amp; Recycling Schedule <span>Area 5 - Blue</span></span>"
+          "html": "<span class=\"hcalendar-calendar\">Today's Waste &amp; Recycling Schedule <span>Area 1 - Purple</span></span>"
         }
       ],
       "items": [
         {
           "target": "#weatherwidget-io-0 .currentTemp",
-          "html": "<div class=\"currentTemp ng-binding\">8°C</div>",
+          "html": "<div class=\"currentTemp ng-binding\">14°C</div>",
           "impact": "serious",
           "messages": [
             "Element has a 1:1 contrast ratio with the background"
@@ -89,7 +89,7 @@
         },
         {
           "target": ".hcalendar[href$=\"waste-recycling-calendar\"] > .hcalendar-calendar",
-          "html": "<span class=\"hcalendar-calendar\">Today's Waste &amp; Recycling Schedule <span>Area 5 - Blue</span></span>",
+          "html": "<span class=\"hcalendar-calendar\">Today's Waste &amp; Recycling Schedule <span>Area 1 - Purple</span></span>",
           "impact": "serious",
           "messages": [
             "Element's background color could not be determined due to a background image"
@@ -98,12 +98,17 @@
             "x": 673.328125,
             "y": 28.59375,
             "w": 187.015625,
-            "h": 36
+            "h": 36,
+            "fontSize": 11.2,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Today's Waste & Recycling Schedule Area 1 - Purple"
           }
         },
         {
           "target": ".hcalendar[href$=\"waste-recycling-calendar\"] > .hcalendar-calendar > span",
-          "html": "<span>Area 5 - Blue</span>",
+          "html": "<span>Area 1 - Purple</span>",
           "impact": "serious",
           "messages": [
             "Element's background color could not be determined due to a background image"
@@ -112,7 +117,12 @@
             "x": 673.328125,
             "y": 44.59375,
             "w": 187.015625,
-            "h": 20
+            "h": 20,
+            "fontSize": 15.008,
+            "fontWeight": "700",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Area 1 - Purple"
           }
         },
         {
@@ -126,7 +136,12 @@
             "x": 1125.265625,
             "y": 38.203125,
             "w": 142.609375,
-            "h": 15
+            "h": 15,
+            "fontSize": 11.2,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "What can we help you find?"
           }
         },
         {
@@ -140,7 +155,12 @@
             "x": 74.625,
             "y": 119.09375,
             "w": 63.59375,
-            "h": 24
+            "h": 24,
+            "fontSize": 19.2,
+            "fontWeight": "500",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "HOME"
           }
         },
         {
@@ -154,7 +174,12 @@
             "x": 281.40625,
             "y": 96.09375,
             "w": 151.46875,
-            "h": 70
+            "h": 70,
+            "fontSize": 19.2,
+            "fontWeight": "500",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "CITY HALL"
           }
         },
         {
@@ -168,7 +193,12 @@
             "x": 556.0625,
             "y": 96.09375,
             "w": 88.1875,
-            "h": 70
+            "h": 70,
+            "fontSize": 19.2,
+            "fontWeight": "500",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "LIVE"
           }
         },
         {
@@ -182,7 +212,12 @@
             "x": 767.421875,
             "y": 96.09375,
             "w": 106.203125,
-            "h": 70
+            "h": 70,
+            "fontSize": 19.2,
+            "fontWeight": "500",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "WORK"
           }
         },
         {
@@ -196,7 +231,12 @@
             "x": 996.8125,
             "y": 96.09375,
             "w": 96.296875,
-            "h": 70
+            "h": 70,
+            "fontSize": 19.2,
+            "fontWeight": "500",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "VISIT"
           }
         },
         {
@@ -210,7 +250,12 @@
             "x": 1216.296875,
             "y": 96.09375,
             "w": 95.078125,
-            "h": 70
+            "h": 70,
+            "fontSize": 19.2,
+            "fontWeight": "500",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "PLAY"
           }
         },
         {
@@ -224,7 +269,12 @@
             "x": 91.125,
             "y": 826,
             "w": 154.53125,
-            "h": 43
+            "h": 43,
+            "fontSize": 16,
+            "fontWeight": "500",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "CITY OF WINKLER NEWSLETTER"
           }
         },
         {
@@ -238,7 +288,12 @@
             "x": 349.59375,
             "y": 826,
             "w": 124.5,
-            "h": 43
+            "h": 43,
+            "fontSize": 16,
+            "fontWeight": "500",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "STREET LIGHT OUTAGE"
           }
         },
         {
@@ -252,7 +307,12 @@
             "x": 567.71875,
             "y": 826,
             "w": 117.375,
-            "h": 43
+            "h": 43,
+            "fontSize": 16,
+            "fontWeight": "500",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "UTILITY BILL ESTIMATOR"
           }
         },
         {
@@ -266,7 +326,12 @@
             "x": 781,
             "y": 826,
             "w": 212.4375,
-            "h": 43
+            "h": 43,
+            "fontSize": 16,
+            "fontWeight": "500",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "HOW TO PAY A CITY BILL ONLINE"
           }
         },
         {
@@ -280,7 +345,12 @@
             "x": 1064.234375,
             "y": 826,
             "w": 97.984375,
-            "h": 43
+            "h": 43,
+            "fontSize": 16,
+            "fontWeight": "500",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "SERVICE REQUESTS"
           }
         },
         {
@@ -294,12 +364,17 @@
             "x": 1236.03125,
             "y": 826,
             "w": 86.265625,
-            "h": 43
+            "h": 43,
+            "fontSize": 16,
+            "fontWeight": "500",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "E-SERVICES"
           }
         },
         {
-          "target": "#\\#imageCaption0 > h2",
-          "html": "<h2>Welcome to the</h2>",
+          "target": "#\\#imageCaption1 > h2",
+          "html": "<h2>September 18</h2>",
           "impact": "serious",
           "messages": [
             "Element's background color could not be determined due to a pseudo element"
@@ -308,12 +383,17 @@
             "x": 81.953125,
             "y": 256.75,
             "w": 546.390625,
-            "h": 33
+            "h": 33,
+            "fontSize": 24,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "SEPTEMBER 18"
           }
         },
         {
-          "target": "#\\#imageCaption0 > h3",
-          "html": "<h3>City of Winkler</h3>",
+          "target": "#\\#imageCaption1 > h3",
+          "html": "<h3>Home Opener Celebration</h3>",
           "impact": "serious",
           "messages": [
             "Element's background color could not be determined due to a pseudo element"
@@ -322,21 +402,50 @@
             "x": 81.953125,
             "y": 289.75,
             "w": 546.390625,
-            "h": 52
+            "h": 52,
+            "fontSize": 38.4,
+            "fontWeight": "700",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Home Opener Celebration"
           }
         },
         {
-          "target": "#\\#imageCaption0 > a[title=\"Click here to read more\"]",
-          "html": "<a href=\"https://www.cityofwinkler.ca/p/upcoming-events\" title=\"Click here to read more\">Read More</a>",
+          "target": "#\\#imageCaption1 > p",
+          "html": "<p>Join us in celebrating the Flyers home opener in the Centennial Arena this Friday! Enjoy barbecue, live music, and kid's activities from 4-7pm, with the game starting at 7pm.</p>",
           "impact": "serious",
           "messages": [
             "Element's background color could not be determined due to a pseudo element"
           ],
           "box": {
             "x": 81.953125,
-            "y": 358.75,
+            "y": 357.75,
+            "w": 546.390625,
+            "h": 112,
+            "fontSize": 19.2,
+            "fontWeight": "400",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Join us in celebrating the Flyers home opener in the Centennial Arena this Frida"
+          }
+        },
+        {
+          "target": "#\\#imageCaption1 > a[title=\"Click here to read more\"]",
+          "html": "<a href=\"https://playwinkler.ca/events/home-opener-celebration\" title=\"Click here to read more\">Read More</a>",
+          "impact": "serious",
+          "messages": [
+            "Element's background color could not be determined due to a pseudo element"
+          ],
+          "box": {
+            "x": 81.953125,
+            "y": 486.75,
             "w": 142.703125,
-            "h": 24
+            "h": 24,
+            "fontSize": 17.6,
+            "fontWeight": "700",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "READ MORE"
           }
         },
         {
@@ -350,7 +459,12 @@
             "x": 343.765625,
             "y": 1819.578125,
             "w": 310.609375,
-            "h": 19.1875
+            "h": 19.1875,
+            "fontSize": 16,
+            "fontWeight": "700",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "CONTACT US"
           }
         },
         {
@@ -364,7 +478,12 @@
             "x": 361.375,
             "y": 1850.765625,
             "w": 264.109375,
-            "h": 15
+            "h": 15,
+            "fontSize": 12.8,
+            "fontWeight": "400",
+            "color": "rgb(38, 50, 56)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "185 Main Street Winkler, Manitoba R6W 1B4"
           }
         },
         {
@@ -378,7 +497,12 @@
             "x": 364.578125,
             "y": 1874.765625,
             "w": 96.734375,
-            "h": 15
+            "h": 15,
+            "fontSize": 12.8,
+            "fontWeight": "400",
+            "color": "rgb(38, 50, 56)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "(204) 325-9524"
           }
         },
         {
@@ -392,7 +516,12 @@
             "x": 364.578125,
             "y": 1898.765625,
             "w": 140.015625,
-            "h": 15
+            "h": 15,
+            "fontSize": 12.8,
+            "fontWeight": "400",
+            "color": "rgb(38, 50, 56)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "admin@cityofwinkler.ca"
           }
         },
         {
@@ -406,7 +535,12 @@
             "x": 654.375,
             "y": 1819.578125,
             "w": 244.21875,
-            "h": 19.1875
+            "h": 19.1875,
+            "fontSize": 16,
+            "fontWeight": "700",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "WINKLER RECREATION"
           }
         },
         {
@@ -420,7 +554,12 @@
             "x": 654.375,
             "y": 1846.765625,
             "w": 244.21875,
-            "h": 72
+            "h": 72,
+            "fontSize": 12.8,
+            "fontWeight": "400",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Need more information about Winkler Campground, recreation or rentals? Get in to"
           }
         },
         {
@@ -434,7 +573,12 @@
             "x": 654.375,
             "y": 1922.765625,
             "w": 185.3125,
-            "h": 15
+            "h": 15,
+            "fontSize": 12.8,
+            "fontWeight": "400",
+            "color": "rgb(38, 50, 56)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "recreation@cityofwinkler.ca"
           }
         },
         {
@@ -448,7 +592,12 @@
             "x": 978.59375,
             "y": 1819.578125,
             "w": 346.4375,
-            "h": 19.1875
+            "h": 19.1875,
+            "fontSize": 16,
+            "fontWeight": "700",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "OFFICE HOURS"
           }
         },
         {
@@ -462,7 +611,12 @@
             "x": 978.59375,
             "y": 1846.765625,
             "w": 346.4375,
-            "h": 24
+            "h": 24,
+            "fontSize": 12.8,
+            "fontWeight": "400",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Regular hours of operation are:"
           }
         },
         {
@@ -476,7 +630,12 @@
             "x": 978.59375,
             "y": 1874.765625,
             "w": 317.546875,
-            "h": 15
+            "h": 15,
+            "fontSize": 12.8,
+            "fontWeight": "700",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Mon - Thurs: 9:00 am - 5:00 pm (Excluding holidays)"
           }
         },
         {
@@ -490,7 +649,12 @@
             "x": 978.59375,
             "y": 1898.765625,
             "w": 281.171875,
-            "h": 15
+            "h": 15,
+            "fontSize": 12.8,
+            "fontWeight": "700",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "Friday 9:00 am – 4:30 pm (Excluding holidays)"
           }
         }
       ]
@@ -533,7 +697,12 @@
             "x": 58.265625,
             "y": 1280.203125,
             "w": 5.421875,
-            "h": 15
+            "h": 15,
+            "fontSize": 18.6667,
+            "fontWeight": "400",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgb(151, 145, 140)",
+            "text": "‹"
           }
         },
         {
@@ -547,7 +716,12 @@
             "x": 70.0625,
             "y": 1280.203125,
             "w": 5.421875,
-            "h": 15
+            "h": 15,
+            "fontSize": 18.6667,
+            "fontWeight": "400",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgb(151, 145, 140)",
+            "text": "›"
           }
         }
       ]
@@ -590,7 +764,12 @@
             "x": 0,
             "y": -25,
             "w": 1366,
-            "h": 805
+            "h": 805,
+            "fontSize": 18.6667,
+            "fontWeight": "400",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "SEPTEMBER 18 Home Opener Celebration Join us in celebrating the Flyers home open"
           }
         }
       ]
@@ -626,7 +805,12 @@
             "x": 0,
             "y": -25,
             "w": 1366,
-            "h": 805
+            "h": 805,
+            "fontSize": 18.6667,
+            "fontWeight": "400",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "SEPTEMBER 18 Home Opener Celebration Join us in celebrating the Flyers home open"
           }
         }
       ]
@@ -662,7 +846,12 @@
             "x": 54.625,
             "y": 96.09375,
             "w": 103.59375,
-            "h": 70
+            "h": 70,
+            "fontSize": 19.2,
+            "fontWeight": "500",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "HOME"
           }
         },
         {
@@ -676,7 +865,12 @@
             "x": 281.40625,
             "y": 96.09375,
             "w": 151.46875,
-            "h": 70
+            "h": 70,
+            "fontSize": 19.2,
+            "fontWeight": "500",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "CITY HALL"
           }
         },
         {
@@ -690,7 +884,12 @@
             "x": 556.0625,
             "y": 96.09375,
             "w": 88.1875,
-            "h": 70
+            "h": 70,
+            "fontSize": 19.2,
+            "fontWeight": "500",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "LIVE"
           }
         },
         {
@@ -704,7 +903,12 @@
             "x": 767.421875,
             "y": 96.09375,
             "w": 106.203125,
-            "h": 70
+            "h": 70,
+            "fontSize": 19.2,
+            "fontWeight": "500",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "WORK"
           }
         },
         {
@@ -718,7 +922,12 @@
             "x": 996.8125,
             "y": 96.09375,
             "w": 96.296875,
-            "h": 70
+            "h": 70,
+            "fontSize": 19.2,
+            "fontWeight": "500",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "VISIT"
           }
         },
         {
@@ -732,7 +941,12 @@
             "x": 1216.296875,
             "y": 96.09375,
             "w": 95.078125,
-            "h": 70
+            "h": 70,
+            "fontSize": 19.2,
+            "fontWeight": "500",
+            "color": "rgb(255, 255, 255)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "PLAY"
           }
         },
         {
@@ -746,7 +960,12 @@
             "x": 1366,
             "y": 80,
             "w": 400,
-            "h": 65.375
+            "h": 65.375,
+            "fontSize": 19.2,
+            "fontWeight": "700",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "HOME"
           }
         },
         {
@@ -760,7 +979,12 @@
             "x": 1366,
             "y": 145.375,
             "w": 400,
-            "h": 65.375
+            "h": 65.375,
+            "fontSize": 19.2,
+            "fontWeight": "700",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "CITY HALL"
           }
         },
         {
@@ -774,7 +998,12 @@
             "x": 1366,
             "y": 238.75,
             "w": 400,
-            "h": 65.375
+            "h": 65.375,
+            "fontSize": 19.2,
+            "fontWeight": "700",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "CAREERS"
           }
         },
         {
@@ -788,7 +1017,12 @@
             "x": 1366,
             "y": 304.125,
             "w": 400,
-            "h": 92.375
+            "h": 92.375,
+            "fontSize": 19.2,
+            "fontWeight": "700",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "APPLICATIONS, BYLAWS, POLICIES & REPORTS"
           }
         },
         {
@@ -802,7 +1036,12 @@
             "x": 1366,
             "y": 396.5,
             "w": 400,
-            "h": 65.375
+            "h": 65.375,
+            "fontSize": 19.2,
+            "fontWeight": "700",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "BID OPPORTUNITIES"
           }
         },
         {
@@ -816,7 +1055,12 @@
             "x": 1366,
             "y": 461.875,
             "w": 400,
-            "h": 65.375
+            "h": 65.375,
+            "fontSize": 19.2,
+            "fontWeight": "700",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "BYLAWS AND ENFORCEMENT"
           }
         },
         {
@@ -830,7 +1074,12 @@
             "x": 1366,
             "y": 527.25,
             "w": 400,
-            "h": 65.375
+            "h": 65.375,
+            "fontSize": 19.2,
+            "fontWeight": "700",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "CITY COUNCIL"
           }
         },
         {
@@ -844,7 +1093,12 @@
             "x": 1366,
             "y": 620.625,
             "w": 400,
-            "h": 65.375
+            "h": 65.375,
+            "fontSize": 19.2,
+            "fontWeight": "700",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "COUNCIL MEETINGS"
           }
         },
         {
@@ -858,7 +1112,12 @@
             "x": 1366,
             "y": 686,
             "w": 400,
-            "h": 65.375
+            "h": 65.375,
+            "fontSize": 19.2,
+            "fontWeight": "700",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "COUNCIL MINUTES ARCHIVE"
           }
         },
         {
@@ -872,7 +1131,12 @@
             "x": 1366,
             "y": 751.375,
             "w": 400,
-            "h": 65.375
+            "h": 65.375,
+            "fontSize": 19.2,
+            "fontWeight": "700",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "MEETING AGENDAS"
           }
         },
         {
@@ -886,7 +1150,12 @@
             "x": 1366,
             "y": 816.75,
             "w": 400,
-            "h": 65.375
+            "h": 65.375,
+            "fontSize": 19.2,
+            "fontWeight": "700",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "PROPERTY TAX INFORMATION"
           }
         },
         {
@@ -900,7 +1169,12 @@
             "x": 1366,
             "y": 882.125,
             "w": 400,
-            "h": 65.375
+            "h": 65.375,
+            "fontSize": 19.2,
+            "fontWeight": "700",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "MUNICIPAL ELECTIONS 2026"
           }
         },
         {
@@ -914,7 +1188,12 @@
             "x": 1366,
             "y": 975.5,
             "w": 400,
-            "h": 92.375
+            "h": 92.375,
+            "fontSize": 19.2,
+            "fontWeight": "700",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "2026 REGISTERED PROSPECTIVE CANDIDATES"
           }
         },
         {
@@ -928,7 +1207,12 @@
             "x": 1366,
             "y": 1067.875,
             "w": 400,
-            "h": 65.375
+            "h": 65.375,
+            "fontSize": 19.2,
+            "fontWeight": "700",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "CITY SERVICES"
           }
         },
         {
@@ -942,7 +1226,12 @@
             "x": 1366,
             "y": 1161.25,
             "w": 400,
-            "h": 65.375
+            "h": 65.375,
+            "fontSize": 19.2,
+            "fontWeight": "700",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "SIGN UP FOR ESERVICES"
           }
         },
         {
@@ -956,7 +1245,12 @@
             "x": 1366,
             "y": 1226.625,
             "w": 400,
-            "h": 65.375
+            "h": 65.375,
+            "fontSize": 19.2,
+            "fontWeight": "700",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "PAYING ONLINE BILLS"
           }
         },
         {
@@ -970,7 +1264,12 @@
             "x": 1366,
             "y": 1292,
             "w": 400,
-            "h": 92.375
+            "h": 92.375,
+            "fontSize": 19.2,
+            "fontWeight": "700",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "SIGN UP FOR PRE-AUTHORIZED PAYMENT"
           }
         },
         {
@@ -984,7 +1283,12 @@
             "x": 1366,
             "y": 1384.375,
             "w": 400,
-            "h": 92.375
+            "h": 92.375,
+            "fontSize": 19.2,
+            "fontWeight": "700",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "PUBLIC SERVICE REQUEST PORTAL"
           }
         },
         {
@@ -998,7 +1302,12 @@
             "x": 1366,
             "y": 1476.75,
             "w": 400,
-            "h": 65.375
+            "h": 65.375,
+            "fontSize": 19.2,
+            "fontWeight": "700",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "CITY MAPS"
           }
         },
         {
@@ -1012,7 +1321,12 @@
             "x": 1366,
             "y": 1542.125,
             "w": 400,
-            "h": 65.375
+            "h": 65.375,
+            "fontSize": 19.2,
+            "fontWeight": "700",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "LOCAL NOTICES"
           }
         },
         {
@@ -1026,7 +1340,12 @@
             "x": 1366,
             "y": 1635.5,
             "w": 400,
-            "h": 65.375
+            "h": 65.375,
+            "fontSize": 19.2,
+            "fontWeight": "700",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "SUBMIT A NOTICE"
           }
         },
         {
@@ -1040,7 +1359,12 @@
             "x": 1366,
             "y": 1700.875,
             "w": 400,
-            "h": 65.375
+            "h": 65.375,
+            "fontSize": 19.2,
+            "fontWeight": "700",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "PROJECTS"
           }
         },
         {
@@ -1054,7 +1378,12 @@
             "x": 1366,
             "y": 1794.25,
             "w": 400,
-            "h": 92.375
+            "h": 92.375,
+            "fontSize": 19.2,
+            "fontWeight": "700",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "WINKLER WATER TREATMENT PLANT EXPANSION"
           }
         },
         {
@@ -1068,7 +1397,12 @@
             "x": 1366,
             "y": 1886.625,
             "w": 400,
-            "h": 92.375
+            "h": 92.375,
+            "fontSize": 19.2,
+            "fontWeight": "700",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "REGIONAL WASTEWATER TREATMENT FACILITY"
           }
         },
         {
@@ -1082,7 +1416,12 @@
             "x": 1366,
             "y": 1979,
             "w": 400,
-            "h": 92.375
+            "h": 92.375,
+            "fontSize": 19.2,
+            "fontWeight": "700",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "CENTENNIAL ARENA REDEVELOPMENT PROJECT"
           }
         },
         {
@@ -1096,7 +1435,12 @@
             "x": 1366,
             "y": 2071.375,
             "w": 400,
-            "h": 119.375
+            "h": 119.375,
+            "fontSize": 19.2,
+            "fontWeight": "700",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "CITY OF WINKLER PUBLIC TRANSPORTATION STRATEGY IMPLEMENTATION"
           }
         },
         {
@@ -1110,7 +1454,12 @@
             "x": 1366,
             "y": 2190.75,
             "w": 400,
-            "h": 65.375
+            "h": 65.375,
+            "fontSize": 19.2,
+            "fontWeight": "700",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "SERVICE REQUESTS"
           }
         },
         {
@@ -1124,7 +1473,12 @@
             "x": 1366,
             "y": 2256.125,
             "w": 400,
-            "h": 65.375
+            "h": 65.375,
+            "fontSize": 19.2,
+            "fontWeight": "700",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "LIVE"
           }
         },
         {
@@ -1138,7 +1492,12 @@
             "x": 1366,
             "y": 2349.5,
             "w": 400,
-            "h": 92.375
+            "h": 92.375,
+            "fontSize": 19.2,
+            "fontWeight": "700",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "WINKLER ON-DEMAND TRANSIT - NOW AVAILABLE!"
           }
         },
         {
@@ -1152,7 +1511,12 @@
             "x": 1366,
             "y": 2441.875,
             "w": 400,
-            "h": 65.375
+            "h": 65.375,
+            "fontSize": 19.2,
+            "fontWeight": "700",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "COMMUNITY NEWSLETTER"
           }
         },
         {
@@ -1166,7 +1530,12 @@
             "x": 1366,
             "y": 2507.25,
             "w": 400,
-            "h": 65.375
+            "h": 65.375,
+            "fontSize": 19.2,
+            "fontWeight": "700",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "COMMUNITY"
           }
         },
         {
@@ -1180,7 +1549,12 @@
             "x": 1366,
             "y": 2600.625,
             "w": 400,
-            "h": 65.375
+            "h": 65.375,
+            "fontSize": 19.2,
+            "fontWeight": "700",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "HOUSING"
           }
         },
         {
@@ -1194,7 +1568,12 @@
             "x": 1366,
             "y": 2666,
             "w": 400,
-            "h": 92.375
+            "h": 92.375,
+            "fontSize": 19.2,
+            "fontWeight": "700",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "EMERGENCY SERVICES & PREPAREDNESS"
           }
         },
         {
@@ -1208,7 +1587,12 @@
             "x": 1366,
             "y": 2758.375,
             "w": 400,
-            "h": 65.375
+            "h": 65.375,
+            "fontSize": 19.2,
+            "fontWeight": "700",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "EDUCATION"
           }
         },
         {
@@ -1222,7 +1606,12 @@
             "x": 1366,
             "y": 2823.75,
             "w": 400,
-            "h": 65.375
+            "h": 65.375,
+            "fontSize": 19.2,
+            "fontWeight": "700",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "EVENTS"
           }
         },
         {
@@ -1236,7 +1625,12 @@
             "x": 1366,
             "y": 2917.125,
             "w": 400,
-            "h": 65.375
+            "h": 65.375,
+            "fontSize": 19.2,
+            "fontWeight": "700",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "ASK THE MAYOR"
           }
         },
         {
@@ -1250,7 +1644,12 @@
             "x": 1366,
             "y": 2982.5,
             "w": 400,
-            "h": 65.375
+            "h": 65.375,
+            "fontSize": 19.2,
+            "fontWeight": "700",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "CURBSIDE GIVEAWAY WEEKEND"
           }
         },
         {
@@ -1264,7 +1663,12 @@
             "x": 1366,
             "y": 3047.875,
             "w": 400,
-            "h": 65.375
+            "h": 65.375,
+            "fontSize": 19.2,
+            "fontWeight": "700",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "BLOCK PARTIES"
           }
         },
         {
@@ -1278,7 +1682,12 @@
             "x": 1366,
             "y": 3113.25,
             "w": 400,
-            "h": 92.375
+            "h": 92.375,
+            "fontSize": 19.2,
+            "fontWeight": "700",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "NOMINATE A GOOD NEIGHBOUR"
           }
         },
         {
@@ -1292,7 +1701,12 @@
             "x": 1366,
             "y": 3205.625,
             "w": 400,
-            "h": 65.375
+            "h": 65.375,
+            "fontSize": 19.2,
+            "fontWeight": "700",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "SUBMIT AN EVENT"
           }
         },
         {
@@ -1306,7 +1720,12 @@
             "x": 1366,
             "y": 3271,
             "w": 400,
-            "h": 65.375
+            "h": 65.375,
+            "fontSize": 19.2,
+            "fontWeight": "700",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "CONNECT WINKLER"
           }
         },
         {
@@ -1320,7 +1739,12 @@
             "x": 1366,
             "y": 3364.375,
             "w": 400,
-            "h": 65.375
+            "h": 65.375,
+            "fontSize": 19.2,
+            "fontWeight": "700",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "REGISTER WITH US"
           }
         },
         {
@@ -1334,7 +1758,12 @@
             "x": 1366,
             "y": 3429.75,
             "w": 400,
-            "h": 92.375
+            "h": 92.375,
+            "fontSize": 19.2,
+            "fontWeight": "700",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "RESIDENTIAL RECYCLING WASTE & COMPOST"
           }
         },
         {
@@ -1348,7 +1777,12 @@
             "x": 1366,
             "y": 3550.125,
             "w": 400,
-            "h": 92.375
+            "h": 92.375,
+            "fontSize": 19.2,
+            "fontWeight": "700",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "WASTE & RECYCLING CALENDAR"
           }
         },
         {
@@ -1362,7 +1796,12 @@
             "x": 1366,
             "y": 3642.5,
             "w": 400,
-            "h": 92.375
+            "h": 92.375,
+            "fontSize": 19.2,
+            "fontWeight": "700",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "HOUSEHOLD HAZARDOUS WASTE & ECO CENTRE"
           }
         },
         {
@@ -1376,7 +1815,12 @@
             "x": 1366,
             "y": 3734.875,
             "w": 400,
-            "h": 65.375
+            "h": 65.375,
+            "fontSize": 19.2,
+            "fontWeight": "700",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "WATER & SEWER"
           }
         },
         {
@@ -1390,7 +1834,12 @@
             "x": 1366,
             "y": 3828.25,
             "w": 400,
-            "h": 65.375
+            "h": 65.375,
+            "fontSize": 19.2,
+            "fontWeight": "700",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "WATER CONSERVATION"
           }
         },
         {
@@ -1404,7 +1853,12 @@
             "x": 1366,
             "y": 3893.625,
             "w": 400,
-            "h": 92.375
+            "h": 92.375,
+            "fontSize": 19.2,
+            "fontWeight": "700",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "BACKFLOW PREVENTION & INSPECTION PROGRAM"
           }
         },
         {
@@ -1418,7 +1872,12 @@
             "x": 1366,
             "y": 3986,
             "w": 400,
-            "h": 65.375
+            "h": 65.375,
+            "fontSize": 19.2,
+            "fontWeight": "700",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "PROJECT RAIN BARREL"
           }
         },
         {
@@ -1432,7 +1891,12 @@
             "x": 1366,
             "y": 4051.375,
             "w": 400,
-            "h": 65.375
+            "h": 65.375,
+            "fontSize": 19.2,
+            "fontWeight": "700",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "FINDING A WATER LEAK"
           }
         },
         {
@@ -1446,7 +1910,12 @@
             "x": 1366,
             "y": 4116.75,
             "w": 400,
-            "h": 65.375
+            "h": 65.375,
+            "fontSize": 19.2,
+            "fontWeight": "700",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "LOW WATER PRESSURE"
           }
         },
         {
@@ -1460,7 +1929,12 @@
             "x": 1366,
             "y": 4182.125,
             "w": 400,
-            "h": 65.375
+            "h": 65.375,
+            "fontSize": 19.2,
+            "fontWeight": "700",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "SUMP PUMP DISCHARGE"
           }
         },
         {
@@ -1474,7 +1948,12 @@
             "x": 1366,
             "y": 4247.5,
             "w": 400,
-            "h": 65.375
+            "h": 65.375,
+            "fontSize": 19.2,
+            "fontWeight": "700",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "DISCOLOURED WATER"
           }
         },
         {
@@ -1488,7 +1967,12 @@
             "x": 1366,
             "y": 4312.875,
             "w": 400,
-            "h": 65.375
+            "h": 65.375,
+            "fontSize": 19.2,
+            "fontWeight": "700",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "FROZEN WATER PIPES"
           }
         },
         {
@@ -1502,7 +1986,12 @@
             "x": 1366,
             "y": 4378.25,
             "w": 400,
-            "h": 65.375
+            "h": 65.375,
+            "fontSize": 19.2,
+            "fontWeight": "700",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "MOWING"
           }
         },
         {
@@ -1516,7 +2005,12 @@
             "x": 1366,
             "y": 4443.625,
             "w": 400,
-            "h": 65.375
+            "h": 65.375,
+            "fontSize": 19.2,
+            "fontWeight": "700",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "SNOW CLEARING"
           }
         },
         {
@@ -1530,7 +2024,12 @@
             "x": 1366,
             "y": 4509,
             "w": 400,
-            "h": 65.375
+            "h": 65.375,
+            "fontSize": 19.2,
+            "fontWeight": "700",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "WORK"
           }
         },
         {
@@ -1544,7 +2043,12 @@
             "x": 1366,
             "y": 4602.375,
             "w": 400,
-            "h": 65.375
+            "h": 65.375,
+            "fontSize": 19.2,
+            "fontWeight": "700",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "CHAMBER OF COMMERCE"
           }
         },
         {
@@ -1558,7 +2062,12 @@
             "x": 1366,
             "y": 4667.75,
             "w": 400,
-            "h": 65.375
+            "h": 65.375,
+            "fontSize": 19.2,
+            "fontWeight": "700",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "ECONOMIC DEVELOPMENT"
           }
         },
         {
@@ -1572,7 +2081,12 @@
             "x": 1366,
             "y": 4761.125,
             "w": 400,
-            "h": 65.375
+            "h": 65.375,
+            "fontSize": 19.2,
+            "fontWeight": "700",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "MSTW DEVELOPMENT PLAN"
           }
         },
         {
@@ -1586,7 +2100,12 @@
             "x": 1366,
             "y": 4826.5,
             "w": 400,
-            "h": 65.375
+            "h": 65.375,
+            "fontSize": 19.2,
+            "fontWeight": "700",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "CITY OF WINKLER STATISTICS"
           }
         },
         {
@@ -1600,7 +2119,12 @@
             "x": 1366,
             "y": 4891.875,
             "w": 400,
-            "h": 65.375
+            "h": 65.375,
+            "fontSize": 19.2,
+            "fontWeight": "700",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "INFRASTRUCTURE"
           }
         },
         {
@@ -1614,7 +2138,12 @@
             "x": 1366,
             "y": 4957.25,
             "w": 400,
-            "h": 65.375
+            "h": 65.375,
+            "fontSize": 19.2,
+            "fontWeight": "700",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "STARTING A BUSINESS"
           }
         },
         {
@@ -1628,7 +2157,12 @@
             "x": 1366,
             "y": 5022.625,
             "w": 400,
-            "h": 65.375
+            "h": 65.375,
+            "fontSize": 19.2,
+            "fontWeight": "700",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "VISIT"
           }
         },
         {
@@ -1642,7 +2176,12 @@
             "x": 1366,
             "y": 5116,
             "w": 400,
-            "h": 65.375
+            "h": 65.375,
+            "fontSize": 19.2,
+            "fontWeight": "700",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "EVENTS"
           }
         },
         {
@@ -1656,7 +2195,12 @@
             "x": 1366,
             "y": 5181.375,
             "w": 400,
-            "h": 65.375
+            "h": 65.375,
+            "fontSize": 19.2,
+            "fontWeight": "700",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "HARVEST FESTIVAL"
           }
         },
         {
@@ -1670,7 +2214,12 @@
             "x": 1366,
             "y": 5246.75,
             "w": 400,
-            "h": 65.375
+            "h": 65.375,
+            "fontSize": 19.2,
+            "fontWeight": "700",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "WINKLER CAMPGROUND"
           }
         },
         {
@@ -1684,7 +2233,12 @@
             "x": 1366,
             "y": 5312.125,
             "w": 400,
-            "h": 92.375
+            "h": 92.375,
+            "fontSize": 19.2,
+            "fontWeight": "700",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "PW ENNS CENTENNIAL CONCERT HALL"
           }
         },
         {
@@ -1698,7 +2252,12 @@
             "x": 1366,
             "y": 5404.5,
             "w": 400,
-            "h": 65.375
+            "h": 65.375,
+            "fontSize": 19.2,
+            "fontWeight": "700",
+            "color": "rgb(51, 51, 51)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "PLAY"
           }
         }
       ]
@@ -1745,7 +2304,12 @@
             "x": 320.125,
             "y": 1308.203125,
             "w": 15,
-            "h": 15
+            "h": 15,
+            "fontSize": 18.6667,
+            "fontWeight": "400",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgb(77, 63, 51)",
+            "text": ""
           }
         },
         {
@@ -1765,7 +2329,12 @@
             "x": 341.5,
             "y": 1308.203125,
             "w": 15,
-            "h": 15
+            "h": 15,
+            "fontSize": 18.6667,
+            "fontWeight": "400",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgb(151, 145, 140)",
+            "text": ""
           }
         },
         {
@@ -1785,7 +2354,12 @@
             "x": 362.875,
             "y": 1308.203125,
             "w": 15,
-            "h": 15
+            "h": 15,
+            "fontSize": 18.6667,
+            "fontWeight": "400",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgb(151, 145, 140)",
+            "text": ""
           }
         },
         {
@@ -1805,7 +2379,12 @@
             "x": 998.8125,
             "y": 1285.96875,
             "w": 15,
-            "h": 15
+            "h": 15,
+            "fontSize": 18.6667,
+            "fontWeight": "400",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgb(77, 63, 51)",
+            "text": ""
           }
         },
         {
@@ -1825,7 +2404,12 @@
             "x": 1020.1875,
             "y": 1285.96875,
             "w": 15,
-            "h": 15
+            "h": 15,
+            "fontSize": 18.6667,
+            "fontWeight": "400",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgb(151, 145, 140)",
+            "text": ""
           }
         }
       ]
@@ -1864,7 +2448,12 @@
             "x": 55.078125,
             "y": 1356.203125,
             "w": 264.515625,
-            "h": 40
+            "h": 40,
+            "fontSize": 16,
+            "fontWeight": "700",
+            "color": "rgb(10, 123, 195)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "VIEW ALL NOTICES"
           }
         },
         {
@@ -1878,7 +2467,12 @@
             "x": 378.40625,
             "y": 1356.203125,
             "w": 264.515625,
-            "h": 40
+            "h": 40,
+            "fontSize": 16,
+            "fontWeight": "700",
+            "color": "rgb(10, 123, 195)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "SUBMIT A NOTICE"
           }
         },
         {
@@ -1892,7 +2486,12 @@
             "x": 723.078125,
             "y": 1356.203125,
             "w": 264.515625,
-            "h": 40
+            "h": 40,
+            "fontSize": 16,
+            "fontWeight": "700",
+            "color": "rgb(10, 123, 195)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "VIEW ALL EVENTS"
           }
         },
         {
@@ -1906,7 +2505,12 @@
             "x": 1046.40625,
             "y": 1356.203125,
             "w": 264.515625,
-            "h": 40
+            "h": 40,
+            "fontSize": 16,
+            "fontWeight": "700",
+            "color": "rgb(10, 123, 195)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "SUBMIT AN EVENT"
           }
         }
       ]
@@ -1942,7 +2546,12 @@
             "x": 55.078125,
             "y": 915.203125,
             "w": 587.84375,
-            "h": 425
+            "h": 425,
+            "fontSize": 18.6667,
+            "fontWeight": "400",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "GOVERNMENT Notice of Nomination AUG 26, 2026 READ MORE GOVERNMENT Notice of Publ"
           }
         }
       ]
@@ -1978,7 +2587,12 @@
             "x": 55.078125,
             "y": 915.203125,
             "w": 279,
-            "h": 365
+            "h": 365,
+            "fontSize": 18.6667,
+            "fontWeight": "400",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "GOVERNMENT Notice of Nomination AUG 26, 2026 READ MORE"
           }
         },
         {
@@ -1992,7 +2606,12 @@
             "x": 364.078125,
             "y": 915.203125,
             "w": 279,
-            "h": 365
+            "h": 365,
+            "fontSize": 18.6667,
+            "fontWeight": "400",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "GOVERNMENT Notice of Public Hearing for Variance Application No. VA2026-007 - 15"
           }
         },
         {
@@ -2006,7 +2625,12 @@
             "x": 673.078125,
             "y": 915.203125,
             "w": 279,
-            "h": 365
+            "h": 365,
+            "fontSize": 18.6667,
+            "fontWeight": "400",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "GOVERNMENT Notice of Public Hearing for Conditional Use Application No. CU2026-0"
           }
         },
         {
@@ -2020,7 +2644,12 @@
             "x": 982.078125,
             "y": 915.203125,
             "w": 279,
-            "h": 365
+            "h": 365,
+            "fontSize": 18.6667,
+            "fontWeight": "400",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "GOVERNMENT Notice of Public Hearing for Rezoning By-Law No. 2271-26 SEP 22, 2026"
           }
         },
         {
@@ -2034,7 +2663,12 @@
             "x": 1291.078125,
             "y": 915.203125,
             "w": 279,
-            "h": 365
+            "h": 365,
+            "fontSize": 18.6667,
+            "fontWeight": "400",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "GOVERNMENT Notice of Public Hearing for Rezoning By-Law No. 2377-26 SEP 22, 2026"
           }
         },
         {
@@ -2048,7 +2682,12 @@
             "x": 1600.078125,
             "y": 915.203125,
             "w": 279,
-            "h": 365
+            "h": 365,
+            "fontSize": 18.6667,
+            "fontWeight": "400",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgba(0, 0, 0, 0)",
+            "text": "GOVERNMENT Notice of Public Hearing for Subdivision No. 4463-25-8501 SEP 22, 202"
           }
         }
       ]
@@ -2081,7 +2720,12 @@
             "x": 320.125,
             "y": 1308.203125,
             "w": 15,
-            "h": 15
+            "h": 15,
+            "fontSize": 18.6667,
+            "fontWeight": "400",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgb(77, 63, 51)",
+            "text": ""
           }
         },
         {
@@ -2096,7 +2740,12 @@
             "x": 341.5,
             "y": 1308.203125,
             "w": 15,
-            "h": 15
+            "h": 15,
+            "fontSize": 18.6667,
+            "fontWeight": "400",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgb(151, 145, 140)",
+            "text": ""
           }
         },
         {
@@ -2111,7 +2760,12 @@
             "x": 362.875,
             "y": 1308.203125,
             "w": 15,
-            "h": 15
+            "h": 15,
+            "fontSize": 18.6667,
+            "fontWeight": "400",
+            "color": "rgb(0, 0, 0)",
+            "background": "rgb(151, 145, 140)",
+            "text": ""
           }
         }
       ]
