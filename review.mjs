@@ -332,18 +332,72 @@ const server = createServer(async (req, res) => {
   }
 
   if (req.method === 'GET' && u.pathname === '/api/export') {
-    // Fills the agency worksheet template for one site; see export.py.
+    // Build everything the worksheet needs, then let export.py write it into the template.
+    const p = sitePayload(site);
+    if (!p) return send(res, 404, '{"error":"no such site"}');
     const out = path.join(ROOT, 'exports');
     if (!existsSync(out)) mkdirSync(out, { recursive: true });
+    const critDef = Object.fromEntries(allCriteria().map((c) => [c.id, c]));
+    const decisions = p.decisions;
+
+    // Criterion statuses: what the reviewer set, else what the review implies.
+    const statuses = {};
+    for (const c of allCriteria()) {
+      const rec = p.criteria[c.id];
+      const ids = p.groups.filter((g) => g.criterion === c.id).flatMap((g) => g.ids);
+      const t = { confirm: 0, reject: 0, look: 0, todo: 0 };
+      for (const id of ids) t[decisions[id] ? decisions[id].verdict : 'todo']++;
+      let status = rec && rec.status ? rec.status : 'Not Evaluated';
+      let notes = rec && rec.notes ? rec.notes : '';
+      if (status === 'Not Evaluated' && ids.length && t.todo < ids.length) {
+        status = t.confirm ? 'Does Not Support' : t.look ? 'Not Evaluated' : 'Supports';
+        if (!notes) {
+          const n = ids.length, el = n === 1 ? 'element' : 'elements';
+          notes = t.confirm ? `${t.confirm} of ${n} flagged ${el} confirmed on review.` : t.look ? `${t.look} flagged ${t.look === 1 ? 'element' : 'elements'} still to check.` : `${n} flagged ${el} reviewed; none were real failures.`;
+        }
+      }
+      if (status !== 'Not Evaluated' || notes) statuses[c.id] = { status, notes };
+    }
+
+    // Task list: every logged issue, plus one derived row per issue group with confirmed items.
+    const sev = (impact) => (impact === 'critical' || impact === 'serious' ? 3 : impact === 'moderate' ? 2 : 1);
+    const tasks = p.tasks.map((t) => ({ ...t }));
+    const byId = Object.fromEntries(p.findings.map((f) => [f.id, f]));
+    for (const g of p.groups) {
+      const conf = g.ids.filter((id) => decisions[id] && decisions[id].verdict === 'confirm');
+      if (!conf.length || tasks.some((t) => t.group === g.id)) continue;
+      const reasons = [...new Set(conf.map((id) => decisions[id].reason).filter(Boolean))];
+      const m = g.measured;
+      const meas = m ? ` Measured ${m.worst}:1 at worst${m.best !== m.worst ? ` (${m.best}:1 at best)` : ''} against ${m.threshold}:1.` : '';
+      tasks.push({
+        severity: sev(g.impact),
+        shortname: `${g.help}${g.label ? ` — ${g.label}` : ''}`,
+        criterion: g.criterion,
+        status: 'Not Started',
+        notes: `${conf.length} of ${g.ids.length} ${g.ids.length === 1 ? 'element' : 'elements'} confirmed.${meas}${reasons.length ? ' Reviewer: ' + reasons.join(' / ') : ''} (${g.why})`,
+        reference: conf.map((id) => byId[id].target).join(' ; ').slice(0, 800),
+        group: g.id,
+      });
+    }
+    const input = path.join(out, `${site}.input.json`);
+    writeFileSync(input, JSON.stringify({
+      site,
+      url: p.url,
+      criteria: statuses,
+      tasks,
+      criterionNames: Object.fromEntries(Object.keys(critDef).map((k) => [k, `${critDef[k].id}: ${critDef[k].name}`])),
+    }, null, 1));
+
     const pys = [process.env.SECOND_PASS_PYTHON, 'C:\\Users\\dchav\\AppData\\Local\\Python\\pythoncore-3.14-64\\python.exe', 'python3', 'python'].filter(Boolean);
     let last = '';
     for (const py of pys) {
-      const r = spawnSync(py, [path.join(ROOT, 'export.py'), site], { cwd: ROOT, encoding: 'utf8' });
+      const r = spawnSync(py, [path.join(ROOT, 'export.py'), input], { cwd: ROOT, encoding: 'utf8' });
       if (r.status === 0) {
         const file = r.stdout.trim().split('\n').pop();
+        res.setHeader('Content-Disposition', `attachment; filename="${site}-accessibility-sheets.xlsx"`);
         return serveFile(res, file, MIME['.xlsx']);
       }
-      last = (r.stderr || r.error?.message || '').slice(0, 400);
+      last = (r.stderr || (r.error && r.error.message) || '').slice(0, 400);
     }
     return send(res, 500, JSON.stringify({ error: `export failed: ${last}` }));
   }

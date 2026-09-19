@@ -288,6 +288,14 @@ function renderIssues() {
   $('#issues').querySelectorAll('[data-iact]').forEach((b) => b.onclick = () => decide([b.dataset.id], b.dataset.iact, null, null, b.dataset.id));
   $('#issues').querySelectorAll('[data-ireason]').forEach((i) => i.onkeydown = (e) => { if (e.key === 'Enter') { e.preventDefault(); decide([i.dataset.ireason], 'reject', null, i.value); } });
   $('#issues').querySelectorAll('[data-iview]').forEach((b) => b.onclick = () => openViewer(null, b.dataset.iview));
+  $('#issues').querySelectorAll('[data-issue]').forEach((b) => b.onclick = () => { taskFormFor = b.dataset.issue; renderIssues(); const n = $('#tf-name'); if (n) n.focus(); });
+  $('#issues').querySelectorAll('[data-deltask]').forEach((b) => b.onclick = () => saveTask({ id: b.dataset.deltask, site: S.site, deleted: true }));
+  const tf = $('#issues').querySelector('[data-tf]');
+  if (tf) {
+    const g = S.groupById[tf.dataset.tf];
+    $('#tf-save').onclick = () => saveTask({ site: S.site, criterion: g.criterion, group: g.id, severity: $('#tf-sev').value, shortname: $('#tf-name').value, notes: $('#tf-notes').value, reference: $('#tf-ref').value });
+    $('#tf-cancel').onclick = () => { taskFormFor = null; renderIssues(); };
+  }
 }
 
 function toggle(gid) { open.has(gid) ? open.delete(gid) : open.add(gid); renderIssues(); }
@@ -305,8 +313,33 @@ function detailHtml(g) {
   } else {
     html += `<div class="groupacts"><span class="sub">All reviewed.</span> <button class="sm" data-gact="reopen" data-g="${esc(g.id)}">Undo all</button></div>`;
   }
+  const logged = S.tasks.filter((t) => t.group === g.id);
+  html += `<div class="groupacts" style="margin-top:4px"><span class="sub">Task list:</span> ${logged.length ? logged.map((t) => `<span class="tag">${esc(t.severity)} · ${esc(t.shortname.slice(0, 60))}</span><button class="sm" data-deltask="${esc(t.id)}">remove</button>`).join(' ') : '<span class="sub">confirmed items go in automatically at export;</span>'} <button class="sm" data-issue="${esc(g.id)}">Log an issue by hand</button></div>`;
+  if (taskFormFor === g.id) html += taskFormHtml(g);
   for (const id of g.ids) html += instHtml(S.byId[id], g);
   return html;
+}
+
+let taskFormFor = null;
+function taskFormHtml(g) {
+  const m = g.measured;
+  const notes = m ? `Measured ${m.worst}:1 at worst${m.best !== m.worst ? ` (${m.best}:1 at best)` : ''} against ${m.threshold}:1; ${m.below} of ${m.n} below. ${g.why}` : g.why;
+  const sev = g.impact === 'critical' || g.impact === 'serious' ? 3 : g.impact === 'moderate' ? 2 : 1;
+  return `<div class="groupacts" data-tf="${esc(g.id)}" style="display:grid;grid-template-columns:auto 1fr;gap:6px 10px;align-items:center;background:var(--bg);border:1px solid var(--line);border-radius:8px;padding:10px">
+    <label class="sub">Severity</label><select id="tf-sev"><option value="3" ${sev === 3 ? 'selected' : ''}>3 — High</option><option value="2" ${sev === 2 ? 'selected' : ''}>2 — Medium</option><option value="1" ${sev === 1 ? 'selected' : ''}>1 — Low</option></select>
+    <label class="sub">Issue</label><input type="text" id="tf-name" value="${esc(g.help)} — ${esc(g.label)}">
+    <label class="sub">Notes</label><textarea id="tf-notes" style="width:100%;min-height:56px">${esc(notes)}</textarea>
+    <label class="sub">Reference</label><input type="text" id="tf-ref" value="${esc(g.ids.map((id) => S.byId[id].target).join(' ; ').slice(0, 500))}">
+    <span></span><span><button class="primary sm" id="tf-save">Add to task list</button> <button class="sm" id="tf-cancel">Cancel</button></span>
+  </div>`;
+}
+
+async function saveTask(t) {
+  const r = await post('/api/task', t);
+  if (!r) return;
+  taskFormFor = null;
+  await loadSite(S.site);
+  flash(t.deleted ? 'Removed from task list' : 'Added to task list');
 }
 
 function instHtml(f, g) {
@@ -378,7 +411,7 @@ function suggest(c) {
 
 function renderWorksheet() {
   const rows = S.wcag.criteria.filter((c) => c.level !== 'AAA' && c.id !== 'best-practice');
-  let html = `<p class="sub">The Review sheet from the template: a status and a note per criterion. Where you've reviewed the flagged items, a status is suggested. Save happens as you go.</p>
+  let html = `<p class="sub">The Review sheet from the template: a status and a note per criterion. Where you've reviewed the flagged items a status is suggested, and the export uses the suggestion wherever you haven't set one yourself. Confirmed items become Task List rows automatically. Saves as you go.</p>
   <table class="ws"><thead><tr><th>Level</th><th>Criterion</th><th>Evidence</th><th>Status</th><th>Notes</th></tr></thead><tbody>`;
   let lastG = null;
   for (const c of rows) {
