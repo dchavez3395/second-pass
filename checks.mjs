@@ -58,9 +58,9 @@ const HELP = {
 };
 
 const GENERIC_LINK = /^(read more|learn more|more|click here|here|view more|see more|more info|details|link|view|go|continue|this|view game|view all|find out more|download|apply|register|watch)\.?$/i;
-const GENERIC_ALT = /^((white|black|blue|red|green|grey|gray|dark|light|small|large|new|old|main)\s+)?(image|photo|picture|logo|icon|graphic|banner|img|untitled|placeholder|thumbnail|hero|header|background)\.?$/i;
+const GENERIC_ALT = /^((white|black|blue|red|green|grey|gray|dark|light|small|large|new|old|main)\s+)?(image|photo|picture|logo|icon|graphic|banner|img|untitled|placeholder|thumbnail|hero|header|background|image description|alt text|alt|description)\.?$/i;
 const LABEL_ALT = /\b(file photo|stock photo|stock image|screenshot|placeholder|lorem ipsum|hero ?image|banner ?image|image ?\d+|photo ?\d+|untitled)\b/i;
-const FILENAME_ALT = /(\.(jpe?g|png|gif|webp|svg|bmp|tiff?)$)|(^(img|dsc|image|photo|screenshot|untitled)[-_ ]?\d+)|(^[a-z0-9_-]{8,}$)/i;
+const FILENAME_ALT = /(\.(jpe?g|png|gif|webp|svg|bmp|tiff?)$)|(^(img|dsc|dcim|image|photo|pic|screenshot|untitled)[-_ ]?\d+)|(^(?=.*\d)(?=.*[_-])[a-z0-9_-]{6,}$)/i;
 
 const clamp = (v, lo, hi) => Math.max(lo, Math.min(hi, v));
 
@@ -172,7 +172,7 @@ async function checkLinks(rec, site, raise) {
     raise({ site, check: 'link-purpose', target: l.target, html: l.html, box: l.box, text: l.name, href: l.href, context: l.context, problem: 'generic-no-context', reason: `"${l.name}" says nothing about the destination${l.contextKind === 'heading-only' ? `, and the only nearby context is the heading "${(l.context || '').replace(/^heading:\s*/i, '')}"` : ', and there is no sentence, list item or cell around it to supply the purpose'}.`, suggestion: '', confidence: 0.9, model: null });
     n++;
   }
-  const candidates = links.filter((l) => !(GENERIC_LINK.test(l.name) && bare(l)) && (GENERIC_LINK.test(l.name) || byName[l.name.toLowerCase()].size > 1 || l.name.length <= 2)).slice(0, 40);
+  const candidates = links.filter((l) => !(GENERIC_LINK.test(l.name) && bare(l)) && (GENERIC_LINK.test(l.name) || l.name.length <= 2 || GENERIC_ALT.test(l.name))).slice(0, 40);
   if (!candidates.length) return { links: links.length, candidates: 0, raised: n };
   const list = candidates.map((l, i) => `${i + 1}. text: ${JSON.stringify(l.name)} | href: ${l.href.slice(0, 80)} | around it: ${JSON.stringify(l.context.slice(0, 120))}`).join('\n');
   const prompt = `You are assisting a human accessibility auditor reviewing WCAG 2.4.4 (Link Purpose, In Context) on ${rec.url}. The auditor decides; give a careful first opinion.
@@ -217,7 +217,7 @@ async function checkHeadings(rec, site, raise) {
     const outline = visible.map((h, i) => `${i + 1}. ${'  '.repeat(Math.max(0, h.level - 1))}h${h.level}: ${JSON.stringify(h.text.slice(0, 100))}`).join('\n');
     const prompt = `You are assisting a human accessibility auditor reviewing WCAG 2.4.6 (Headings and Labels) on ${rec.url}, page title ${JSON.stringify(rec.content.title || '')}. The auditor decides; give a careful first opinion.
 
-2.4.6 asks that headings describe the topic or purpose of the content they introduce. It does not require perfect writing — only that a heading tells a screen-reader user skimming the outline what the section is about. Flag headings that are generic ("Welcome", "Untitled", "Section", "More"), that are just a date or a number, or that could not be understood without the content under them. Do not flag headings that are short but clear ("News", "Events", "Contact"), and do not flag region labels such as "Main navigation", "Footer menu" or "Breadcrumb" — those are a deliberate screen-reader pattern and they do describe their section.
+2.4.6 asks only that a heading tells a screen-reader user skimming the outline what the section is about. Be conservative: almost every real heading passes. FAIL only these: a heading that is a placeholder or filler ("Untitled", "Heading", "Section", "Lorem ipsum", "Title goes here"); a heading that is only punctuation, a number or a bare date with nothing else; a heading that is clearly the wrong element (a full sentence of body text or a button label like "Submit" marked as a heading). PASS everything else, including: short clear labels ("News", "Events", "Contact", "Follow us"); questions ("When is my garbage day?"); article titles and slogans ("Our City, Our Stories"); region labels ("Main navigation", "Footer menu", "Breadcrumb"), which are a deliberate screen-reader pattern; and headings that repeat elsewhere on the page — repetition is not a 2.4.6 failure. When in doubt, pass.
 
 Heading outline:
 ${outline}
@@ -250,6 +250,17 @@ async function main() {
   const full = Object.fromEntries(Object.keys(recs).map((s) => [s, JSON.parse(readFileSync(path.join(ROOT, 'diagnostics', `${s}.json`), 'utf8'))]));
   const done = new Set();
   if (existsSync(RUNS) && !has('redo')) for (const line of readFileSync(RUNS, 'utf8').split('\n')) { try { const r = JSON.parse(line); if (!CHECK || r.check === CHECK) done.add(`${r.site}|${r.check}`); } catch {} }
+  if (has('redo')) {
+    // Drop what the earlier run raised for these sites and checks, so stale ids do not linger.
+    const checkOf = (c) => (c.check === 'heading-order' || c.check === 'heading-text' ? 'headings' : c.check);
+    const keepRun = (r) => (SITE && r.site !== SITE) || (CHECK && r.check !== CHECK);
+    const keepRow = (c) => (SITE && c.site !== SITE) || (CHECK && checkOf(c) !== CHECK);
+    for (const [file, keep] of [[RUNS, keepRun], [OUT, keepRow]]) {
+      if (!existsSync(file)) continue;
+      const kept = readFileSync(file, 'utf8').split('\n').filter((l) => l.trim()).filter((l) => { try { return keep(JSON.parse(l)); } catch { return false; } });
+      writeFileSync(file, kept.length ? kept.join('\n') + '\n' : '');
+    }
+  }
   const axeFlagged = new Set(loadFindings().filter((f) => f.kind !== 'model').map((f) => `${f.site}|${f.target}`));
 
   let sites = Object.keys(full).filter((s) => full[s].content).sort();
