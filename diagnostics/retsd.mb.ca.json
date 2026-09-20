@@ -19,7 +19,4175 @@
     "width": 1366,
     "height": 900
   },
-  "scannedAt": "2026-09-19T06:27:44.443Z",
+  "scannedAt": "2026-09-20T00:00:00.882Z",
+  "content": {
+    "images": [
+      {
+        "target": "div > div > div > div:nth-of-type(1) > img",
+        "tag": "img",
+        "src": "https://sb45storage.blob.core.windows.net/pub/themes/Retsd/images/notification.svg",
+        "alt": "Notification",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 24,
+        "naturalHeight": 24,
+        "box": {
+          "x": 40,
+          "y": 19.1875,
+          "w": 24,
+          "h": 24
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://sb45storage.blob.core.windows.net/pub/themes/Retsd/images/notification.svg\" width=\"24\" height=\"24\" alt=\"Notification\">"
+      },
+      {
+        "target": "div:nth-of-type(1) > div > div:nth-of-type(1) > a > img:nth-of-type(2)",
+        "tag": "img",
+        "src": "https://sb45storage.blob.core.windows.net/pub/themes/Retsd/images/board-logo-max.png",
+        "alt": "River East Transcona School Division",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 1086,
+        "naturalHeight": 348,
+        "box": {
+          "x": 20,
+          "y": 141.375,
+          "w": 257.984375,
+          "h": 82.671875
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://sb45storage.blob.core.windows.net/pub/themes/Retsd/images/board-logo-max.png\" class=\"d-none d-lg-block\" alt=\"River East Transcona School Division\" width=\"1086\" height=\"348\" style=\"max-height:175px;\">"
+      },
+      {
+        "target": "div:nth-of-type(4) > ul > li:nth-of-type(1) > a > img",
+        "tag": "img",
+        "src": "https://sb45storage.blob.core.windows.net/pub/themes/Retsd/images/icon-facebook.svg?v=2",
+        "alt": "facebook",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 20,
+        "naturalHeight": 20,
+        "box": {
+          "x": 1228,
+          "y": 105.390625,
+          "w": 22,
+          "h": 22
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "https://www.facebook.com/retsd",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://sb45storage.blob.core.windows.net/pub/themes/Retsd/images/icon-facebook.svg?v=2\" style=\"width:auto ; height: 22px ;\" alt=\"facebook\">"
+      },
+      {
+        "target": "div:nth-of-type(4) > ul > li:nth-of-type(2) > a > img",
+        "tag": "img",
+        "src": "https://sb45storage.blob.core.windows.net/pub/themes/Retsd/images/icon-vimeo.svg?v=2",
+        "alt": "vimeo",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 20,
+        "naturalHeight": 20,
+        "box": {
+          "x": 1270,
+          "y": 105.390625,
+          "w": 22,
+          "h": 22
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "http://www.vimeo.com/retsdvideo",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://sb45storage.blob.core.windows.net/pub/themes/Retsd/images/icon-vimeo.svg?v=2\" style=\"width:auto ; height: 22px ;\" alt=\"vimeo\">"
+      },
+      {
+        "target": "#slick-slide00 > div:nth-of-type(1) > picture > a > img",
+        "tag": "img",
+        "src": "https://media.retsd.mb.ca/media/Default/pgg/5/Young%20Teen%20Girls%20on%20Public%20Bus%20(resized%20for%20web)-2.jpg",
+        "alt": "image description",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 1075,
+        "naturalHeight": 605,
+        "box": {
+          "x": 450.78125,
+          "y": 329.046875,
+          "w": 919,
+          "h": 517.203125
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "/free-transit-services-for-youth.37224",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://media.retsd.mb.ca/media/Default/pgg/5/Young%20Teen%20Girls%20on%20Public%20Bus%20(resized%20for%20web)-2.jpg\" alt=\"image description\">"
+      },
+      {
+        "target": "#slick-slide01 > div:nth-of-type(1) > picture > a > img",
+        "tag": "img",
+        "src": "https://media.retsd.mb.ca/media/Default/pgg/5/Trustees.jpg",
+        "alt": "image description",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 1435,
+        "naturalHeight": 807,
+        "box": {
+          "x": 450.78125,
+          "y": 329.046875,
+          "w": 919,
+          "h": 517.203125
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "/2026-school-trustee-elections.36815",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://media.retsd.mb.ca/media/Default/pgg/5/Trustees.jpg\" alt=\"image description\">"
+      },
+      {
+        "target": "#slick-slide02 > div:nth-of-type(1) > picture > a > img",
+        "tag": "img",
+        "src": "https://media.retsd.mb.ca/media/Default/pgg/5/tre_one21_2%20(1)-1.jpg",
+        "alt": "image description",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 1600,
+        "naturalHeight": 900,
+        "box": {
+          "x": 450.78125,
+          "y": 329.046875,
+          "w": 919,
+          "h": 517.203125
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "/river-east-transcona-school-division-land-statement.6989",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://media.retsd.mb.ca/media/Default/pgg/5/tre_one21_2%20(1)-1.jpg\" alt=\"image description\">"
+      },
+      {
+        "target": "#slick-slide03 > div:nth-of-type(1) > picture > a > img",
+        "tag": "img",
+        "src": "https://media.retsd.mb.ca/media/Default/pgg/5/School%20Registration%20for%20Newcomers-3.jpg",
+        "alt": "image description",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 1193,
+        "naturalHeight": 671,
+        "box": {
+          "x": 450.78125,
+          "y": 329.046875,
+          "w": 919,
+          "h": 517.203125
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "/school-registration-for-newcomer-families",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://media.retsd.mb.ca/media/Default/pgg/5/School%20Registration%20for%20Newcomers-3.jpg\" alt=\"image description\">"
+      },
+      {
+        "target": "div > div:nth-of-type(1) > a > div > img",
+        "tag": "img",
+        "src": "https://media.retsd.mb.ca/media/Default/fgg/5/RETLife.png",
+        "alt": "image description",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 88,
+        "naturalHeight": 88,
+        "box": {
+          "x": -1060.5,
+          "y": 924.25,
+          "w": 88,
+          "h": 88
+        },
+        "inLink": true,
+        "linkText": "RETLIFE",
+        "linkHref": "https://www.retlife.ca/shop/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://media.retsd.mb.ca/media/Default/fgg/5/RETLife.png\" height=\"56\" width=\"56\" alt=\"image description\">"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > a > div > img",
+        "tag": "img",
+        "src": "https://media.retsd.mb.ca/media/Default/fgg/5/tv.png",
+        "alt": "image description",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 250,
+        "naturalHeight": 320,
+        "box": {
+          "x": -807.875,
+          "y": 924.25,
+          "w": 68.75,
+          "h": 88
+        },
+        "inLink": true,
+        "linkText": "RETSD TV",
+        "linkHref": "https://www.retsd.mb.ca/page/12771/retsd-tv ",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://media.retsd.mb.ca/media/Default/fgg/5/tv.png\" height=\"56\" width=\"56\" alt=\"image description\">"
+      },
+      {
+        "target": "div > div:nth-of-type(3) > a > div > img",
+        "tag": "img",
+        "src": "https://media.retsd.mb.ca/media/Default/fgg/5/SafetyHealth2x.png",
+        "alt": "image description",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 176,
+        "naturalHeight": 176,
+        "box": {
+          "x": -574.5,
+          "y": 924.25,
+          "w": 88,
+          "h": 88
+        },
+        "inLink": true,
+        "linkText": "SAFETY & HEALTH",
+        "linkHref": "https://www.retsd.mb.ca/page/106/student-safety",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://media.retsd.mb.ca/media/Default/fgg/5/SafetyHealth2x.png\" height=\"56\" width=\"56\" alt=\"image description\">"
+      },
+      {
+        "target": "div > div:nth-of-type(4) > a > div > img",
+        "tag": "img",
+        "src": "https://media.retsd.mb.ca/media/Default/fgg/5/SchoolLocator2x.png",
+        "alt": "image description",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 176,
+        "naturalHeight": 176,
+        "box": {
+          "x": -331.5,
+          "y": 924.25,
+          "w": 88,
+          "h": 88
+        },
+        "inLink": true,
+        "linkText": "SCHOOL LOCATOR",
+        "linkHref": "http://mybaragar.com/index.cfm?event=page.SchoolLocatorPublic&DistrictCode=MB09",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://media.retsd.mb.ca/media/Default/fgg/5/SchoolLocator2x.png\" height=\"56\" width=\"56\" alt=\"image description\">"
+      },
+      {
+        "target": "div > div:nth-of-type(5) > a > div > img",
+        "tag": "img",
+        "src": "https://media.retsd.mb.ca/media/Default/fgg/5/BusingTransportationInformation2x.png",
+        "alt": "image description",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 176,
+        "naturalHeight": 176,
+        "box": {
+          "x": -88.5,
+          "y": 924.25,
+          "w": 88,
+          "h": 88
+        },
+        "inLink": true,
+        "linkText": "TRANSPORTATION",
+        "linkHref": "https://www.retsd.mb.ca/page/114/transportation",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://media.retsd.mb.ca/media/Default/fgg/5/BusingTransportationInformation2x.png\" height=\"56\" width=\"56\" alt=\"image description\">"
+      },
+      {
+        "target": "div > div:nth-of-type(6) > a > div > img",
+        "tag": "img",
+        "src": "https://media.retsd.mb.ca/media/Default/fgg/5/AdultEducation2x-1.png",
+        "alt": "image description",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 176,
+        "naturalHeight": 176,
+        "box": {
+          "x": 154.5,
+          "y": 924.25,
+          "w": 88,
+          "h": 88
+        },
+        "inLink": true,
+        "linkText": "ADULT EDUCATION",
+        "linkHref": "https://www.retsd.mb.ca/adultedu",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://media.retsd.mb.ca/media/Default/fgg/5/AdultEducation2x-1.png\" height=\"56\" width=\"56\" alt=\"image description\">"
+      },
+      {
+        "target": "div > div:nth-of-type(7) > a > div > img",
+        "tag": "img",
+        "src": "https://media.retsd.mb.ca/media/Default/fgg/5/Community2x.png",
+        "alt": "image description",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 176,
+        "naturalHeight": 176,
+        "box": {
+          "x": 397.5,
+          "y": 924.25,
+          "w": 88,
+          "h": 88
+        },
+        "inLink": true,
+        "linkText": "ENHANCING COMMUNITY ENGAGEMENT",
+        "linkHref": "https://www.retsd.mb.ca/page/17230/enhancing-community-engagement",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://media.retsd.mb.ca/media/Default/fgg/5/Community2x.png\" height=\"56\" width=\"56\" alt=\"image description\">"
+      },
+      {
+        "target": "div > div:nth-of-type(8) > a > div > img",
+        "tag": "img",
+        "src": "https://media.retsd.mb.ca/media/Default/fgg/5/InternationalEducation2x.png",
+        "alt": "image description",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 176,
+        "naturalHeight": 176,
+        "box": {
+          "x": 640.5,
+          "y": 924.25,
+          "w": 88,
+          "h": 88
+        },
+        "inLink": true,
+        "linkText": "INTERNATIONAL EDUCATION",
+        "linkHref": "https://www.retsd.mb.ca/International",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://media.retsd.mb.ca/media/Default/fgg/5/InternationalEducation2x.png\" height=\"56\" width=\"56\" alt=\"image description\">"
+      },
+      {
+        "target": "div > div:nth-of-type(9) > a > div > img",
+        "tag": "img",
+        "src": "https://media.retsd.mb.ca/media/Default/fgg/5/RETLife.png",
+        "alt": "image description",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 88,
+        "naturalHeight": 88,
+        "box": {
+          "x": 883.5,
+          "y": 924.25,
+          "w": 88,
+          "h": 88
+        },
+        "inLink": true,
+        "linkText": "RETLIFE",
+        "linkHref": "https://www.retlife.ca/shop/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://media.retsd.mb.ca/media/Default/fgg/5/RETLife.png\" height=\"56\" width=\"56\" alt=\"image description\">"
+      },
+      {
+        "target": "div > div:nth-of-type(10) > a > div > img",
+        "tag": "img",
+        "src": "https://media.retsd.mb.ca/media/Default/fgg/5/tv.png",
+        "alt": "image description",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 250,
+        "naturalHeight": 320,
+        "box": {
+          "x": 1136.125,
+          "y": 924.25,
+          "w": 68.75,
+          "h": 88
+        },
+        "inLink": true,
+        "linkText": "RETSD TV",
+        "linkHref": "https://www.retsd.mb.ca/page/12771/retsd-tv ",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://media.retsd.mb.ca/media/Default/fgg/5/tv.png\" height=\"56\" width=\"56\" alt=\"image description\">"
+      },
+      {
+        "target": "div > div:nth-of-type(11) > a > div > img",
+        "tag": "img",
+        "src": "https://media.retsd.mb.ca/media/Default/fgg/5/SafetyHealth2x.png",
+        "alt": "image description",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 176,
+        "naturalHeight": 176,
+        "box": {
+          "x": 1369.5,
+          "y": 924.25,
+          "w": 88,
+          "h": 88
+        },
+        "inLink": true,
+        "linkText": "SAFETY & HEALTH",
+        "linkHref": "https://www.retsd.mb.ca/page/106/student-safety",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://media.retsd.mb.ca/media/Default/fgg/5/SafetyHealth2x.png\" height=\"56\" width=\"56\" alt=\"image description\">"
+      },
+      {
+        "target": "div > div:nth-of-type(12) > a > div > img",
+        "tag": "img",
+        "src": "https://media.retsd.mb.ca/media/Default/fgg/5/SchoolLocator2x.png",
+        "alt": "image description",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 176,
+        "naturalHeight": 176,
+        "box": {
+          "x": 1612.5,
+          "y": 924.25,
+          "w": 88,
+          "h": 88
+        },
+        "inLink": true,
+        "linkText": "SCHOOL LOCATOR",
+        "linkHref": "http://mybaragar.com/index.cfm?event=page.SchoolLocatorPublic&DistrictCode=MB09",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://media.retsd.mb.ca/media/Default/fgg/5/SchoolLocator2x.png\" height=\"56\" width=\"56\" alt=\"image description\">"
+      },
+      {
+        "target": "div > div:nth-of-type(13) > a > div > img",
+        "tag": "img",
+        "src": "https://media.retsd.mb.ca/media/Default/fgg/5/BusingTransportationInformation2x.png",
+        "alt": "image description",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 176,
+        "naturalHeight": 176,
+        "box": {
+          "x": 1855.5,
+          "y": 924.25,
+          "w": 88,
+          "h": 88
+        },
+        "inLink": true,
+        "linkText": "TRANSPORTATION",
+        "linkHref": "https://www.retsd.mb.ca/page/114/transportation",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://media.retsd.mb.ca/media/Default/fgg/5/BusingTransportationInformation2x.png\" height=\"56\" width=\"56\" alt=\"image description\">"
+      },
+      {
+        "target": "div > div:nth-of-type(14) > a > div > img",
+        "tag": "img",
+        "src": "https://media.retsd.mb.ca/media/Default/fgg/5/AdultEducation2x-1.png",
+        "alt": "image description",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 176,
+        "naturalHeight": 176,
+        "box": {
+          "x": 2098.5,
+          "y": 924.25,
+          "w": 88,
+          "h": 88
+        },
+        "inLink": true,
+        "linkText": "ADULT EDUCATION",
+        "linkHref": "https://www.retsd.mb.ca/adultedu",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://media.retsd.mb.ca/media/Default/fgg/5/AdultEducation2x-1.png\" height=\"56\" width=\"56\" alt=\"image description\">"
+      },
+      {
+        "target": "div > div:nth-of-type(15) > a > div > img",
+        "tag": "img",
+        "src": "https://media.retsd.mb.ca/media/Default/fgg/5/Community2x.png",
+        "alt": "image description",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 176,
+        "naturalHeight": 176,
+        "box": {
+          "x": 2341.5,
+          "y": 924.25,
+          "w": 88,
+          "h": 88
+        },
+        "inLink": true,
+        "linkText": "ENHANCING COMMUNITY ENGAGEMENT",
+        "linkHref": "https://www.retsd.mb.ca/page/17230/enhancing-community-engagement",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://media.retsd.mb.ca/media/Default/fgg/5/Community2x.png\" height=\"56\" width=\"56\" alt=\"image description\">"
+      },
+      {
+        "target": "div > div:nth-of-type(16) > a > div > img",
+        "tag": "img",
+        "src": "https://media.retsd.mb.ca/media/Default/fgg/5/InternationalEducation2x.png",
+        "alt": "image description",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 176,
+        "naturalHeight": 176,
+        "box": {
+          "x": 2584.5,
+          "y": 924.25,
+          "w": 88,
+          "h": 88
+        },
+        "inLink": true,
+        "linkText": "INTERNATIONAL EDUCATION",
+        "linkHref": "https://www.retsd.mb.ca/International",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://media.retsd.mb.ca/media/Default/fgg/5/InternationalEducation2x.png\" height=\"56\" width=\"56\" alt=\"image description\">"
+      },
+      {
+        "target": "div > div:nth-of-type(17) > a > div > img",
+        "tag": "img",
+        "src": "https://media.retsd.mb.ca/media/Default/fgg/5/RETLife.png",
+        "alt": "image description",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 88,
+        "naturalHeight": 88,
+        "box": {
+          "x": 2827.5,
+          "y": 924.25,
+          "w": 88,
+          "h": 88
+        },
+        "inLink": true,
+        "linkText": "RETLIFE",
+        "linkHref": "https://www.retlife.ca/shop/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://media.retsd.mb.ca/media/Default/fgg/5/RETLife.png\" height=\"56\" width=\"56\" alt=\"image description\">"
+      },
+      {
+        "target": "div > div:nth-of-type(18) > a > div > img",
+        "tag": "img",
+        "src": "https://media.retsd.mb.ca/media/Default/fgg/5/tv.png",
+        "alt": "image description",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 250,
+        "naturalHeight": 320,
+        "box": {
+          "x": 3080.125,
+          "y": 924.25,
+          "w": 68.75,
+          "h": 88
+        },
+        "inLink": true,
+        "linkText": "RETSD TV",
+        "linkHref": "https://www.retsd.mb.ca/page/12771/retsd-tv ",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://media.retsd.mb.ca/media/Default/fgg/5/tv.png\" height=\"56\" width=\"56\" alt=\"image description\">"
+      },
+      {
+        "target": "div > div:nth-of-type(19) > a > div > img",
+        "tag": "img",
+        "src": "https://media.retsd.mb.ca/media/Default/fgg/5/SafetyHealth2x.png",
+        "alt": "image description",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 176,
+        "naturalHeight": 176,
+        "box": {
+          "x": 3313.5,
+          "y": 924.25,
+          "w": 88,
+          "h": 88
+        },
+        "inLink": true,
+        "linkText": "SAFETY & HEALTH",
+        "linkHref": "https://www.retsd.mb.ca/page/106/student-safety",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://media.retsd.mb.ca/media/Default/fgg/5/SafetyHealth2x.png\" height=\"56\" width=\"56\" alt=\"image description\">"
+      },
+      {
+        "target": "div > div:nth-of-type(20) > a > div > img",
+        "tag": "img",
+        "src": "https://media.retsd.mb.ca/media/Default/fgg/5/SchoolLocator2x.png",
+        "alt": "image description",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 176,
+        "naturalHeight": 176,
+        "box": {
+          "x": 3556.5,
+          "y": 924.25,
+          "w": 88,
+          "h": 88
+        },
+        "inLink": true,
+        "linkText": "SCHOOL LOCATOR",
+        "linkHref": "http://mybaragar.com/index.cfm?event=page.SchoolLocatorPublic&DistrictCode=MB09",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://media.retsd.mb.ca/media/Default/fgg/5/SchoolLocator2x.png\" height=\"56\" width=\"56\" alt=\"image description\">"
+      },
+      {
+        "target": "div > div:nth-of-type(21) > a > div > img",
+        "tag": "img",
+        "src": "https://media.retsd.mb.ca/media/Default/fgg/5/BusingTransportationInformation2x.png",
+        "alt": "image description",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 176,
+        "naturalHeight": 176,
+        "box": {
+          "x": 3799.5,
+          "y": 924.25,
+          "w": 88,
+          "h": 88
+        },
+        "inLink": true,
+        "linkText": "TRANSPORTATION",
+        "linkHref": "https://www.retsd.mb.ca/page/114/transportation",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://media.retsd.mb.ca/media/Default/fgg/5/BusingTransportationInformation2x.png\" height=\"56\" width=\"56\" alt=\"image description\">"
+      },
+      {
+        "target": "div > div:nth-of-type(1) > a > picture > img",
+        "tag": "img",
+        "src": "",
+        "alt": "image description",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0,
+        "box": {
+          "x": 20,
+          "y": 1325.078125,
+          "w": 104.875,
+          "h": 20.65625
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "/office-of-the-commissioner-of-teacher-professional-conduct.33265",
+        "caption": "",
+        "nearText": "",
+        "html": "<img decoding=\"async\" loading=\"lazy\" class=\"lazyload\" data-expand=\"250\" width=\"1600\" height=\"900\" data-src=\"https://sb365static.schoolbundle365.com/sb365static/images/retsd/blanknews.png\" alt=\"image description\">"
+      },
+      {
+        "target": "div > div:nth-of-type(1) > a > picture > img",
+        "tag": "img",
+        "src": "",
+        "alt": "image description",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0,
+        "box": {
+          "x": 363.5,
+          "y": 1325.078125,
+          "w": 104.875,
+          "h": 20.65625
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "/essential-context-needed-when-discussing-school-taxes.35970",
+        "caption": "",
+        "nearText": "",
+        "html": "<img decoding=\"async\" loading=\"lazy\" class=\"lazyload\" data-expand=\"250\" width=\"1600\" height=\"900\" data-src=\"https://sb365static.schoolbundle365.com/sb365static/images/retsd/blanknews.png\" alt=\"image description\">"
+      },
+      {
+        "target": "div > div:nth-of-type(1) > a > picture > img",
+        "tag": "img",
+        "src": "",
+        "alt": "image description",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0,
+        "box": {
+          "x": 707,
+          "y": 1325.078125,
+          "w": 104.875,
+          "h": 20.65625
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "/all-aboard-for-safety-the-community-of-caring-behind-student-transportation.37480",
+        "caption": "",
+        "nearText": "",
+        "html": "<img decoding=\"async\" loading=\"lazy\" class=\"lazyload\" data-expand=\"250\" width=\"1600\" height=\"900\" data-src=\"https://media.retsd.mb.ca/media/Default/pgg/5/school-bus.jpg\" alt=\"image description\">"
+      },
+      {
+        "target": "div > div:nth-of-type(1) > a > picture > img",
+        "tag": "img",
+        "src": "",
+        "alt": "image description",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0,
+        "box": {
+          "x": 1050.5,
+          "y": 1325.078125,
+          "w": 104.875,
+          "h": 20.65625
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "/kodiaks-get-support-on-the-trail-from-the-fwef.36434",
+        "caption": "",
+        "nearText": "",
+        "html": "<img decoding=\"async\" loading=\"lazy\" class=\"lazyload\" data-expand=\"250\" width=\"1600\" height=\"900\" data-src=\"https://media.retsd.mb.ca/media/Default/pgg/5/Kodiaks%20Trail%202.jpg\" alt=\"image description\">"
+      },
+      {
+        "target": "div > div:nth-of-type(1) > a > picture > img",
+        "tag": "img",
+        "src": "",
+        "alt": "image description",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0,
+        "box": {
+          "x": 20,
+          "y": 1495.609375,
+          "w": 104.875,
+          "h": 20.65625
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "/rooted-in-reconciliation--grade-10-transcona-collegiate-students-transform-disappointment-into-purpose.36117",
+        "caption": "",
+        "nearText": "",
+        "html": "<img decoding=\"async\" loading=\"lazy\" class=\"lazyload\" data-expand=\"250\" width=\"1600\" height=\"900\" data-src=\"https://media.retsd.mb.ca/media/Default/pgg/5/Image%20(10).jpg\" alt=\"image description\">"
+      },
+      {
+        "target": "div > div:nth-of-type(1) > a > picture > img",
+        "tag": "img",
+        "src": "",
+        "alt": "image description",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0,
+        "box": {
+          "x": 363.5,
+          "y": 1495.609375,
+          "w": 104.875,
+          "h": 20.65625
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "/hiring-expo--now-hiring-school-bus-drivers.36106",
+        "caption": "",
+        "nearText": "",
+        "html": "<img decoding=\"async\" loading=\"lazy\" class=\"lazyload\" data-expand=\"250\" width=\"1600\" height=\"900\" data-src=\"https://media.retsd.mb.ca/media/Default/pgg/5/Bus_ad26v2.jpg\" alt=\"image description\">"
+      },
+      {
+        "target": "div > div:nth-of-type(1) > a > picture > img",
+        "tag": "img",
+        "src": "",
+        "alt": "image description",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0,
+        "box": {
+          "x": 707,
+          "y": 1495.609375,
+          "w": 104.875,
+          "h": 20.65625
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "/finding-their-english-voices-eal-students-from-senior-years-schools-connect-for-a-day-of-learning-laughter-and-lyrics.35959",
+        "caption": "",
+        "nearText": "",
+        "html": "<img decoding=\"async\" loading=\"lazy\" class=\"lazyload\" data-expand=\"250\" width=\"1600\" height=\"900\" data-src=\"https://media.retsd.mb.ca/media/Default/pgg/5/20260525_105812.jpg\" alt=\"image description\">"
+      },
+      {
+        "target": "div > div:nth-of-type(1) > a > picture > img",
+        "tag": "img",
+        "src": "",
+        "alt": "image description",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0,
+        "box": {
+          "x": 1050.5,
+          "y": 1495.609375,
+          "w": 104.875,
+          "h": 20.65625
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "/in-appreciation-award-presented-to-the-johnson-family.35824",
+        "caption": "",
+        "nearText": "",
+        "html": "<img decoding=\"async\" loading=\"lazy\" class=\"lazyload\" data-expand=\"250\" width=\"1600\" height=\"900\" data-src=\"https://media.retsd.mb.ca/media/Default/pgg/5/DSC_5134.jpg\" alt=\"image description\">"
+      },
+      {
+        "target": "div:nth-of-type(2) > div:nth-of-type(1) > div > div:nth-of-type(1) > img",
+        "tag": "img",
+        "src": "https://sb45storage.blob.core.windows.net/pub/themes/Retsd/images/facebook-r.svg",
+        "alt": "twitter",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 151,
+        "naturalHeight": 150,
+        "box": {
+          "x": 160,
+          "y": 2194.9375,
+          "w": 32,
+          "h": 32
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://sb45storage.blob.core.windows.net/pub/themes/Retsd/images/facebook-r.svg\" style=\"width:32px; height:32px;\" alt=\"twitter\">"
+      },
+      {
+        "target": "div:nth-of-type(1) > div > div:nth-of-type(2) > picture > img",
+        "tag": "img",
+        "src": "",
+        "alt": "image",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0,
+        "box": {
+          "x": 27,
+          "y": 2220.9375,
+          "w": 45.609375,
+          "h": 18.65625
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "",
+        "html": "<img class=\"lazyload\" data-expand=\"250\" data-src=\"https://external-iad6-1.xx.fbcdn.net/emg1/v/t13/17358672466573398117?url=https%3A%2F%2Fwfdeaf.org%2Fwp-content%2Fuploads%2Fcropped-WFD-logo.png&amp;fb_obo=1&amp;utld=wfdeaf.org&amp;_nc_ht=external-iad6-1.xx.fbcdn.net&amp;ccb=18-1&amp;_nc_gid=jadJJ_Hidu0rdF0CLheJYg&amp;edm=ALdPpPkEAAAA&amp;_nc_zt=3&amp;_nc_tpa=Q5bMBQKKll02pR8CeeGex1bzmSrKS_Qn8lnFwG-"
+      },
+      {
+        "target": "div:nth-of-type(2) > div:nth-of-type(2) > div > div:nth-of-type(1) > img",
+        "tag": "img",
+        "src": "https://sb45storage.blob.core.windows.net/pub/themes/Retsd/images/facebook-r.svg",
+        "alt": "twitter",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 151,
+        "naturalHeight": 150,
+        "box": {
+          "x": 498,
+          "y": 2194.9375,
+          "w": 32,
+          "h": 32
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://sb45storage.blob.core.windows.net/pub/themes/Retsd/images/facebook-r.svg\" style=\"width:32px; height:32px;\" alt=\"twitter\">"
+      },
+      {
+        "target": "div:nth-of-type(2) > div > div:nth-of-type(2) > picture > img",
+        "tag": "img",
+        "src": "",
+        "alt": "image",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0,
+        "box": {
+          "x": 365,
+          "y": 2220.9375,
+          "w": 45.609375,
+          "h": 18.65625
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "",
+        "html": "<img class=\"lazyload\" data-expand=\"250\" data-src=\"https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/814779635_1740744994717653_3752912356327088649_n.jpg?stp=dst-jpg_s960x960_tt6&amp;_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=BJe9P-sqM-AQ7kNvwGo2-v6&amp;_nc_oc=AdpXIdoT9rAnA2LkrbvvsV8r-DSaJ8r5n35wDuhbRn5JN5fddN5EmnTeSxX2-es83Bw&amp;_nc_zt=23&amp;_nc_ht=scontent-iad3-1.xx&amp;edm=ALdPpPk"
+      },
+      {
+        "target": "div:nth-of-type(2) > div:nth-of-type(3) > div > div:nth-of-type(1) > img",
+        "tag": "img",
+        "src": "https://sb45storage.blob.core.windows.net/pub/themes/Retsd/images/facebook-r.svg",
+        "alt": "twitter",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 151,
+        "naturalHeight": 150,
+        "box": {
+          "x": 836,
+          "y": 2194.9375,
+          "w": 32,
+          "h": 32
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://sb45storage.blob.core.windows.net/pub/themes/Retsd/images/facebook-r.svg\" style=\"width:32px; height:32px;\" alt=\"twitter\">"
+      },
+      {
+        "target": "div:nth-of-type(3) > div > div:nth-of-type(2) > picture > img",
+        "tag": "img",
+        "src": "",
+        "alt": "image",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0,
+        "box": {
+          "x": 703,
+          "y": 2220.9375,
+          "w": 45.609375,
+          "h": 18.65625
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "",
+        "html": "<img class=\"lazyload\" data-expand=\"250\" data-src=\"https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/813661646_1739742221484597_6222431179504308673_n.jpg?stp=dst-jpg_p720x720_tt6&amp;_nc_cat=100&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=zF4LaclRyL4Q7kNvwELRs1M&amp;_nc_oc=AdoZQL3NWxdKIKKUYhXxgqviku84lFuOPgdMQx22kkfjeLm2kDgTZrcgq7D5_paZYjY&amp;_nc_zt=23&amp;_nc_ht=scontent-iad6-1.xx&amp;edm=ALdPpPk"
+      },
+      {
+        "target": "div:nth-of-type(2) > div:nth-of-type(4) > div > div:nth-of-type(1) > img",
+        "tag": "img",
+        "src": "https://sb45storage.blob.core.windows.net/pub/themes/Retsd/images/facebook-r.svg",
+        "alt": "twitter",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 151,
+        "naturalHeight": 150,
+        "box": {
+          "x": 1174,
+          "y": 2194.9375,
+          "w": 32,
+          "h": 32
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://sb45storage.blob.core.windows.net/pub/themes/Retsd/images/facebook-r.svg\" style=\"width:32px; height:32px;\" alt=\"twitter\">"
+      },
+      {
+        "target": "div:nth-of-type(4) > div > div:nth-of-type(2) > picture > img",
+        "tag": "img",
+        "src": "",
+        "alt": "image",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0,
+        "box": {
+          "x": 1041,
+          "y": 2220.9375,
+          "w": 45.609375,
+          "h": 18.65625
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "",
+        "html": "<img class=\"lazyload\" data-expand=\"250\" data-src=\"https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/812282816_1737877361671083_7685136168461271054_n.jpg?stp=dst-jpg_s1080x2048_tt6&amp;_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=AvMQbcn44-MQ7kNvwGhf2ha&amp;_nc_oc=AdouAEdtGrTtaTICcHQrMXcTkX7xMxR0nT4z0K_rzH3LLlMLud0xQAjoOgTBZDFYcwA&amp;_nc_zt=23&amp;_nc_ht=scontent-iad3-1.xx&amp;edm=ALdPp"
+      },
+      {
+        "target": "div:nth-of-type(1) > div > div:nth-of-type(1) > a > img",
+        "tag": "img",
+        "src": "https://sb45storage.blob.core.windows.net/pub/themes/Retsd/images/board-logo-max.png",
+        "alt": "River East Transcona School Division",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 1086,
+        "naturalHeight": 348,
+        "box": {
+          "x": 18,
+          "y": 2667.59375,
+          "w": 307,
+          "h": 98.375
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://sb45storage.blob.core.windows.net/pub/themes/Retsd/images/board-logo-max.png\" width=\"1086\" height=\"348\" style=\"width:307px;height:auto;\" alt=\"River East Transcona School Division\">"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > div:nth-of-type(2) > a > img",
+        "tag": "img",
+        "src": "https://sb45storage.blob.core.windows.net/pub/themes/Retsd/images/Footer_Mobile_App.svg",
+        "alt": "River East Transcona School Division",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 150,
+        "naturalHeight": 150,
+        "box": {
+          "x": 60,
+          "y": 3090.8125,
+          "w": 58,
+          "h": 58
+        },
+        "inLink": true,
+        "linkText": "RETSD MOBILE APP",
+        "linkHref": "/",
+        "caption": "",
+        "nearText": "RETSD MOBILE APP",
+        "html": "<img src=\"https://sb45storage.blob.core.windows.net/pub/themes/Retsd/images/Footer_Mobile_App.svg\" width=\"58px\" height=\"58px\" alt=\"River East Transcona School Division\">"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(1) > a > img",
+        "tag": "img",
+        "src": "https://sb45storage.blob.core.windows.net/pub/themes/Retsd/images/App%20Store%20Badge.svg",
+        "alt": "App Store",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 120,
+        "naturalHeight": 40,
+        "box": {
+          "x": 69,
+          "y": 3308.78125,
+          "w": 119.5625,
+          "h": 39.96875
+        },
+        "inLink": true,
+        "linkText": "App Store",
+        "linkHref": "https://apps.apple.com/tr/app/retsd/id1628491500?platform=iphone",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://sb45storage.blob.core.windows.net/pub/themes/Retsd/images/App Store Badge.svg\" alt=\"App Store\">"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(2) > a > img",
+        "tag": "img",
+        "src": "https://sb45storage.blob.core.windows.net/pub/themes/Retsd/images/google-play-badge.svg",
+        "alt": "Google Play",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 155,
+        "naturalHeight": 60,
+        "box": {
+          "x": 200.328125,
+          "y": 3298.78125,
+          "w": 154.984375,
+          "h": 59.984375
+        },
+        "inLink": true,
+        "linkText": "Google Play",
+        "linkHref": "https://play.google.com/store/apps/details?id=ca.schoolbundle.retsd",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://sb45storage.blob.core.windows.net/pub/themes/Retsd/images/google-play-badge.svg\" style=\"margin-top:-10px;\" alt=\"Google Play\">"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(1) > a > img",
+        "tag": "img",
+        "src": "https://sb45storage.blob.core.windows.net/pub/themes/Retsd/images/icon-facebook.svg?v=2",
+        "alt": "facebook",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 20,
+        "naturalHeight": 20,
+        "box": {
+          "x": 499.328125,
+          "y": 3096.796875,
+          "w": 23,
+          "h": 23
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "https://www.facebook.com/retsd",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://sb45storage.blob.core.windows.net/pub/themes/Retsd/images/icon-facebook.svg?v=2\" style=\"width: ; height: ;\" alt=\"facebook\">"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(2) > a > img",
+        "tag": "img",
+        "src": "https://sb45storage.blob.core.windows.net/pub/themes/Retsd/images/icon-vimeo.svg?v=2",
+        "alt": "vimeo",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 20,
+        "naturalHeight": 20,
+        "box": {
+          "x": 540.328125,
+          "y": 3096.796875,
+          "w": 23,
+          "h": 23
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "http://www.vimeo.com/retsdvideo",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://sb45storage.blob.core.windows.net/pub/themes/Retsd/images/icon-vimeo.svg?v=2\" style=\"width: ; height: ;\" alt=\"vimeo\">"
+      },
+      {
+        "target": "#footer > div:nth-of-type(1) > div > div:nth-of-type(4) > img",
+        "tag": "img",
+        "src": "https://media.retsd.mb.ca/media/images/maps/board.png",
+        "alt": "imageMap",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 599,
+        "naturalHeight": 593,
+        "box": {
+          "x": 930.65625,
+          "y": 2807.96875,
+          "w": 415.328125,
+          "h": 411.15625
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://media.retsd.mb.ca/media/images/maps/board.png\" width=\"684\" height=\"433\" alt=\"imageMap\" style=\"height:auto;\">"
+      },
+      {
+        "target": "div > div:nth-of-type(1) > ul > li:nth-of-type(3) > img",
+        "tag": "img",
+        "src": "https://sb45storage.blob.core.windows.net/pub/themes/Retsd/images/lock.svg",
+        "alt": "",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 10,
+        "naturalHeight": 12,
+        "box": {
+          "x": 524.890625,
+          "y": 3398.765625,
+          "w": 10,
+          "h": 13
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "Office 365",
+        "html": "<img src=\"https://sb45storage.blob.core.windows.net/pub/themes/Retsd/images/lock.svg\" width=\"10\" height=\"13\" alt=\"\">"
+      },
+      {
+        "target": "div > div:nth-of-type(1) > ul > li:nth-of-type(4) > img",
+        "tag": "img",
+        "src": "https://sb45storage.blob.core.windows.net/pub/themes/Retsd/images/lock.svg",
+        "alt": "",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 10,
+        "naturalHeight": 12,
+        "box": {
+          "x": 627.671875,
+          "y": 3398.765625,
+          "w": 10,
+          "h": 13
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "Staff—The HUB",
+        "html": "<img src=\"https://sb45storage.blob.core.windows.net/pub/themes/Retsd/images/lock.svg\" width=\"10\" height=\"13\" alt=\"\">"
+      },
+      {
+        "target": "div > div:nth-of-type(1) > ul > li:nth-of-type(5) > img",
+        "tag": "img",
+        "src": "https://sb45storage.blob.core.windows.net/pub/themes/Retsd/images/lock.svg",
+        "alt": "",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 10,
+        "naturalHeight": 12,
+        "box": {
+          "x": 758.4375,
+          "y": 3398.765625,
+          "w": 10,
+          "h": 13
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "Reset Password",
+        "html": "<img src=\"https://sb45storage.blob.core.windows.net/pub/themes/Retsd/images/lock.svg\" width=\"10\" height=\"13\" alt=\"\">"
+      },
+      {
+        "target": "div > div:nth-of-type(1) > ul > li:nth-of-type(6) > img",
+        "tag": "img",
+        "src": "https://sb45storage.blob.core.windows.net/pub/themes/Retsd/images/lock.svg",
+        "alt": "",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 10,
+        "naturalHeight": 12,
+        "box": {
+          "x": 889.5,
+          "y": 3398.765625,
+          "w": 10,
+          "h": 13
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "Website Administration",
+        "html": "<img src=\"https://sb45storage.blob.core.windows.net/pub/themes/Retsd/images/lock.svg\" width=\"10\" height=\"13\" alt=\"\">"
+      },
+      {
+        "target": "div:nth-of-type(2) > div > div:nth-of-type(2) > a > img",
+        "tag": "img",
+        "src": "https://sb45storage.blob.core.windows.net/pub/themes/Retsd/images/sb-logo.svg",
+        "alt": "SchoolBundle",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 300,
+        "naturalHeight": 38,
+        "box": {
+          "x": 1235,
+          "y": 3398.765625,
+          "w": 113,
+          "h": 14.453125
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "http://www.schoolbundle.ca/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://sb45storage.blob.core.windows.net/pub/themes/Retsd/images/sb-logo.svg\" width=\"113\" height=\"15\" alt=\"SchoolBundle\">"
+      }
+    ],
+    "links": [
+      {
+        "target": "#thmr > a:nth-of-type(1)",
+        "text": "Accessibility Screen-Reader Guide, Feedback, and Issue Reporting | New window",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://accessibe.com/blog/knowledgebase/screen-reader-guide",
+        "imgAlt": "",
+        "box": {
+          "x": 0,
+          "y": -1,
+          "w": 200,
+          "h": 1
+        },
+        "context": "",
+        "contextKind": "none",
+        "html": "<a href=\"https://accessibe.com/blog/knowledgebase/screen-reader-guide\" target=\"_blank\" rel=\"noopener\" tabindex=\"-1\" data-acsb=\"sr-trigger\" data-acsb-sr-only=\"true\" class=\"acsb-sr-only\" style=\"position: absolute; width: 200px; height: 1px; margin-top: -1px; z-index: -1; border: 0px; top: 0px; left: 0"
+      },
+      {
+        "target": "#wrapper > div > div > a",
+        "text": "School Bus Delays (A.M. & P.M.) Learn More",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/school-bus-delays-am-pm.15546",
+        "imgAlt": "",
+        "box": {
+          "x": 1234,
+          "y": 10,
+          "w": 122,
+          "h": 42.390625
+        },
+        "context": "School Bus Delays (a.m. & p.m.) School Bus Delays (A.M. & P.M.) Learn More",
+        "contextKind": "block",
+        "html": "<a href=\"/school-bus-delays-am-pm.15546\" class=\"btn-alert \" style=\"font-size:12px;font-weight: 600;\"><span class=\"seo-desc\">School Bus Delays (a.m. &amp; p.m.)</span>Learn More</a>"
+      },
+      {
+        "target": "#header > div:nth-of-type(1) > div > div:nth-of-type(1) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/",
+        "imgAlt": "River East Transcona School Division River East Transcona School Division",
+        "box": {
+          "x": 20,
+          "y": 141.375,
+          "w": 258,
+          "h": 82.671875
+        },
+        "context": "creating student success Current Temp 18.6°C TRANSLATE SIGN IN September 19, 2026 School Day 0",
+        "contextKind": "block",
+        "html": "<a href=\"/\"> <img src=\"https://sb45storage.blob.core.windows.net/pub/themes/Retsd/images/board-logo-min.png\" class=\"screen-only d-block d-lg-none\" alt=\"River East Transcona School Division\"> <img src=\"https://sb45storage.blob.core.windows.net/pub/themes/Retsd/images/board-logo-max.png\" class=\"d-none"
+      },
+      {
+        "target": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div > a",
+        "text": "Current Temp 18.6°C",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://weather.gc.ca/en/location/index.html?coords=49.889,-97.129",
+        "imgAlt": "",
+        "box": {
+          "x": 913.234375,
+          "y": 111.890625,
+          "w": 108.09375,
+          "h": 16
+        },
+        "context": "Current Temp 18.6°C TRANSLATE SIGN IN September 19, 2026 School Day 0",
+        "contextKind": "block",
+        "html": "<a href=\"https://weather.gc.ca/en/location/index.html?coords=49.889,-97.129\" target=\"_blank\"> <span class=\"text\" style=\"text-transform: capitalize;\">Current Temp</span> <span class=\"count\"> 18.6°C</span> </a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > div > a",
+        "text": "TRANSLATE",
+        "ariaLabel": "",
+        "title": "",
+        "href": "#",
+        "imgAlt": "",
+        "box": {
+          "x": 1035.328125,
+          "y": 106.890625,
+          "w": 85.328125,
+          "h": 26
+        },
+        "context": "Current Temp 18.6°C TRANSLATE SIGN IN September 19, 2026 School Day 0",
+        "contextKind": "block",
+        "html": "<a href=\"#\" class=\"dropdown-opener js-dropdown-opener\"> Translate <svg class=\"d-arrow\"> <use xlink:href=\"#icon-caret\"></use> </svg> </a>"
+      },
+      {
+        "target": "#dropdown02",
+        "text": "SIGN IN",
+        "ariaLabel": "",
+        "title": "",
+        "href": "#",
+        "imgAlt": "",
+        "box": {
+          "x": 1133.65625,
+          "y": 106.890625,
+          "w": 67.34375,
+          "h": 26
+        },
+        "context": "Current Temp 18.6°C TRANSLATE SIGN IN September 19, 2026 School Day 0",
+        "contextKind": "block",
+        "html": "<a class=\"nav-link dropdown-toggle\" href=\"#\" id=\"dropdown02\" role=\"button\" data-toggle=\"dropdown\" data-display=\"static\" aria-haspopup=\"true\" aria-expanded=\"false\"> Sign In <svg class=\"d-arrow\"> <use xlink:href=\"#icon-caret\"></use> </svg> </a>"
+      },
+      {
+        "target": "div:nth-of-type(1) > div:nth-of-type(4) > ul > li:nth-of-type(1) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.facebook.com/retsd",
+        "imgAlt": "facebook",
+        "box": {
+          "x": 1228,
+          "y": 105.390625,
+          "w": 22,
+          "h": 22
+        },
+        "context": "",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.facebook.com/retsd\" target=\"_blank\"> <img src=\"https://sb45storage.blob.core.windows.net/pub/themes/Retsd/images/icon-facebook.svg?v=2\" style=\"width:auto ; height: 22px ;\" alt=\"facebook\"> </a>"
+      },
+      {
+        "target": "div:nth-of-type(1) > div:nth-of-type(4) > ul > li:nth-of-type(2) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "http://www.vimeo.com/retsdvideo",
+        "imgAlt": "vimeo",
+        "box": {
+          "x": 1270,
+          "y": 105.390625,
+          "w": 22,
+          "h": 22
+        },
+        "context": "",
+        "contextKind": "li",
+        "html": "<a href=\"http://www.vimeo.com/retsdvideo\" target=\"_blank\"> <img src=\"https://sb45storage.blob.core.windows.net/pub/themes/Retsd/images/icon-vimeo.svg?v=2\" style=\"width:auto ; height: 22px ;\" alt=\"vimeo\"> </a>"
+      },
+      {
+        "target": "div:nth-of-type(1) > div:nth-of-type(4) > ul > li:nth-of-type(3) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.instagram.com/retsdschools",
+        "imgAlt": "",
+        "box": {
+          "x": 1312,
+          "y": 104.390625,
+          "w": 24,
+          "h": 24
+        },
+        "context": "",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.instagram.com/retsdschools\" target=\"_blank\"> <svg style=\"width: auto; height: 24px\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" width=\"64\" height=\"64\" fill=\"currentColor\"> <path d=\"M7 2C4.24 2 2 4.24 2 7v10c0 2.76 2.24 5 5 5h10c2.76 0 5-2.24 5-5V7c0-2.76-2.24-5-5-5H7z"
+      },
+      {
+        "target": "#nav > ul > li:nth-of-type(1) > a",
+        "text": "YOUR RETSD",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/your-retsd",
+        "imgAlt": "",
+        "box": {
+          "x": 4.71875,
+          "y": 265.046875,
+          "w": 128.890625,
+          "h": 60
+        },
+        "context": "YOUR RETSD",
+        "contextKind": "li",
+        "html": "<a class=\"has-drop-down-a\" href=\"/your-retsd\" tabindex=\"0\">YOUR RETSD <span class=\"inner-opener \" data-opener=\"\" role=\"button\" tabindex=\"0\" aria-label=\"inner opener\"></span></a>"
+      },
+      {
+        "target": "#nav > ul > li:nth-of-type(2) > a",
+        "text": "BOARD OF TRUSTEES",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.retsd.mb.ca/boardoftrustees",
+        "imgAlt": "",
+        "box": {
+          "x": 143.0625,
+          "y": 265.046875,
+          "w": 197.890625,
+          "h": 60
+        },
+        "context": "BOARD OF TRUSTEES",
+        "contextKind": "li",
+        "html": "<a class=\"ontenav\" href=\"https://www.retsd.mb.ca/boardoftrustees\" target=\"&quot;_blank&quot;\" tabindex=\"0\">BOARD OF TRUSTEES <span class=\"inner-opener \" data-opener=\"\" role=\"button\" tabindex=\"0\" aria-label=\"inner opener\"></span></a>"
+      },
+      {
+        "target": "#nav > ul > li:nth-of-type(3) > a",
+        "text": "SCHOOLS",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/schools",
+        "imgAlt": "",
+        "box": {
+          "x": 350.390625,
+          "y": 265.046875,
+          "w": 101.625,
+          "h": 60
+        },
+        "context": "SCHOOLS",
+        "contextKind": "li",
+        "html": "<a class=\"ontenav\" href=\"/schools\" tabindex=\"0\">SCHOOLS <span class=\"inner-opener \" data-opener=\"\" role=\"button\" tabindex=\"0\" aria-label=\"inner opener\"></span></a>"
+      },
+      {
+        "target": "#nav > ul > li:nth-of-type(4) > a",
+        "text": "PARENTS & STUDENTS",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/parents-students",
+        "imgAlt": "",
+        "box": {
+          "x": 461.46875,
+          "y": 265.046875,
+          "w": 209,
+          "h": 60
+        },
+        "context": "PARENTS & STUDENTS",
+        "contextKind": "li",
+        "html": "<a class=\"has-drop-down-a\" href=\"/parents-students\" tabindex=\"0\">PARENTS &amp; STUDENTS <span class=\"inner-opener \" data-opener=\"\" role=\"button\" tabindex=\"0\" aria-label=\"inner opener\"></span></a>"
+      },
+      {
+        "target": "#nav > ul > li:nth-of-type(5) > a",
+        "text": "PROGRAMS & SERVICES",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/programs-services",
+        "imgAlt": "",
+        "box": {
+          "x": 679.921875,
+          "y": 265.046875,
+          "w": 222.421875,
+          "h": 60
+        },
+        "context": "PROGRAMS & SERVICES",
+        "contextKind": "li",
+        "html": "<a class=\"has-drop-down-a\" href=\"/programs-services\" tabindex=\"0\">PROGRAMS &amp; SERVICES <span class=\"inner-opener \" data-opener=\"\" role=\"button\" tabindex=\"0\" aria-label=\"inner opener\"></span></a>"
+      },
+      {
+        "target": "#nav > ul > li:nth-of-type(6) > a",
+        "text": "CAREERS",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/careers",
+        "imgAlt": "",
+        "box": {
+          "x": 911.78125,
+          "y": 265.046875,
+          "w": 98,
+          "h": 60
+        },
+        "context": "CAREERS",
+        "contextKind": "li",
+        "html": "<a class=\"has-drop-down-a\" href=\"/careers\" tabindex=\"0\">CAREERS <span class=\"inner-opener \" data-opener=\"\" role=\"button\" tabindex=\"0\" aria-label=\"inner opener\"></span></a>"
+      },
+      {
+        "target": "#nav > ul > li:nth-of-type(7) > a",
+        "text": "CONTACT US",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/contact-us",
+        "imgAlt": "",
+        "box": {
+          "x": 1019.234375,
+          "y": 265.046875,
+          "w": 128.984375,
+          "h": 60
+        },
+        "context": "CONTACT US",
+        "contextKind": "li",
+        "html": "<a class=\"has-drop-down-a\" href=\"/contact-us\" tabindex=\"0\">CONTACT US <span class=\"inner-opener \" data-opener=\"\" role=\"button\" tabindex=\"0\" aria-label=\"inner opener\"></span></a>"
+      },
+      {
+        "target": "#nav > ul > li:nth-of-type(8) > a",
+        "text": "CALENDAR",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/calendar",
+        "imgAlt": "",
+        "box": {
+          "x": 1157.65625,
+          "y": 265.046875,
+          "w": 113.609375,
+          "h": 60
+        },
+        "context": "CALENDAR",
+        "contextKind": "li",
+        "html": "<a class=\"has-drop-down-a\" href=\"/calendar\" tabindex=\"0\">CALENDAR <span class=\"inner-opener \" data-opener=\"\" role=\"button\" tabindex=\"0\" aria-label=\"inner opener\"></span></a>"
+      },
+      {
+        "target": "#dropdown_03",
+        "text": "",
+        "ariaLabel": "Search Opener",
+        "title": "",
+        "href": "#",
+        "imgAlt": "",
+        "box": {
+          "x": 1302,
+          "y": 283.046875,
+          "w": 24,
+          "h": 24
+        },
+        "context": "YOUR RETSD BOARD OF TRUSTEES SCHOOLS PARENTS & STUDENTS PROGRAMS & SERVICES CAREERS CONTACT US CALENDAR",
+        "contextKind": "block",
+        "html": "<a class=\"search-opener dropdown-toggle\" href=\"#\" id=\"dropdown_03\" role=\"button\" data-toggle=\"dropdown\" data-display=\"static\" aria-haspopup=\"true\" aria-expanded=\"false\" accesskey=\"4\" tabindex=\"0\" aria-label=\"Search Opener\"> <span class=\"sr-only\">Search Opener</span> <svg> <use xlink:href=\"#icon-sear"
+      },
+      {
+        "target": "#main > section:nth-of-type(1) > div > div > a:nth-of-type(1)",
+        "text": "",
+        "ariaLabel": "Slick Previous",
+        "title": "",
+        "href": "#",
+        "imgAlt": "",
+        "box": {
+          "x": 100.375,
+          "y": 713.25,
+          "w": 60,
+          "h": 60
+        },
+        "context": "",
+        "contextKind": "none",
+        "html": "<a href=\"#\" class=\"ci-slick-prev slick-arrow\" aria-label=\"Slick Previous\" style=\"\"><svg class=\"icon arrow-icon\"><use xlink:href=\"#icon-prev-spoolite\"></use></svg></a>"
+      },
+      {
+        "target": "#slick-slide00 > div:nth-of-type(1) > picture > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/free-transit-services-for-youth.37224",
+        "imgAlt": "image description",
+        "box": {
+          "x": 450.78125,
+          "y": 329.046875,
+          "w": 915.21875,
+          "h": 517.203125
+        },
+        "context": "",
+        "contextKind": "none",
+        "html": "<a href=\"/free-transit-services-for-youth.37224\" tabindex=\"-1\"> <source data-srcset=\"https://media.retsd.mb.ca/media/Default/pgg/5/Young%20Teen%20Girls%20on%20Public%20Bus%20(resized%20for%20web)-2.jpg\"> <img src=\"https://media.retsd.mb.ca/media/Default/pgg/5/Young%20Teen%20Girls%20on%20Public%20Bus"
+      },
+      {
+        "target": "#slick-slide00 > div:nth-of-type(2) > h1 > a",
+        "text": "Free Transit Services for Youth",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/free-transit-services-for-youth.37224",
+        "imgAlt": "",
+        "box": {
+          "x": 30,
+          "y": 485.046875,
+          "w": 400.78125,
+          "h": 42
+        },
+        "context": "heading: Free Transit Services for Youth",
+        "contextKind": "heading-only",
+        "html": "<a href=\"/free-transit-services-for-youth.37224\" tabindex=\"-1\">Free Transit Services for Youth</a>"
+      },
+      {
+        "target": "#slick-slide00 > div:nth-of-type(2) > a",
+        "text": "Free Transit Services for Youth Read More",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/free-transit-services-for-youth.37224",
+        "imgAlt": "",
+        "box": {
+          "x": 40,
+          "y": 663.859375,
+          "w": 164,
+          "h": 62.390625
+        },
+        "context": "heading: Free Transit Services for Youth",
+        "contextKind": "heading-only",
+        "html": "<a href=\"/free-transit-services-for-youth.37224\" class=\"btn btn-primary\" tabindex=\"-1\"><span class=\"seo-desc\">Free Transit Services for Youth</span>Read More</a>"
+      },
+      {
+        "target": "#slick-slide01 > div:nth-of-type(1) > picture > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/2026-school-trustee-elections.36815",
+        "imgAlt": "image description",
+        "box": {
+          "x": 450.78125,
+          "y": 329.046875,
+          "w": 915.21875,
+          "h": 517.203125
+        },
+        "context": "heading: Free Transit Services for Youth",
+        "contextKind": "heading-only",
+        "html": "<a href=\"/2026-school-trustee-elections.36815\" tabindex=\"0\"> <source data-srcset=\"https://media.retsd.mb.ca/media/Default/pgg/5/Trustees.jpg\"> <img src=\"https://media.retsd.mb.ca/media/Default/pgg/5/Trustees.jpg\" alt=\"image description\"> </a>"
+      },
+      {
+        "target": "#slick-slide01 > div:nth-of-type(2) > h1 > a",
+        "text": "2026 School Trustee Elections",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/2026-school-trustee-elections.36815",
+        "imgAlt": "",
+        "box": {
+          "x": 30,
+          "y": 485.046875,
+          "w": 400.78125,
+          "h": 42
+        },
+        "context": "heading: 2026 School Trustee Elections",
+        "contextKind": "heading-only",
+        "html": "<a href=\"/2026-school-trustee-elections.36815\" tabindex=\"0\">2026 School Trustee Elections</a>"
+      },
+      {
+        "target": "#slick-slide01 > div:nth-of-type(2) > a",
+        "text": "2026 School Trustee Elections Read More",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/2026-school-trustee-elections.36815",
+        "imgAlt": "",
+        "box": {
+          "x": 40,
+          "y": 663.859375,
+          "w": 164,
+          "h": 62.390625
+        },
+        "context": "heading: 2026 School Trustee Elections",
+        "contextKind": "heading-only",
+        "html": "<a href=\"/2026-school-trustee-elections.36815\" class=\"btn btn-primary\" tabindex=\"0\"><span class=\"seo-desc\">2026 School Trustee Elections</span>Read More</a>"
+      },
+      {
+        "target": "#slick-slide02 > div:nth-of-type(1) > picture > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/river-east-transcona-school-division-land-statement.6989",
+        "imgAlt": "image description",
+        "box": {
+          "x": 450.78125,
+          "y": 329.046875,
+          "w": 915.21875,
+          "h": 517.203125
+        },
+        "context": "heading: 2026 School Trustee Elections",
+        "contextKind": "heading-only",
+        "html": "<a href=\"/river-east-transcona-school-division-land-statement.6989\" tabindex=\"-1\"> <source data-srcset=\"https://media.retsd.mb.ca/media/Default/pgg/5/tre_one21_2%20(1)-1.jpg\"> <img src=\"https://media.retsd.mb.ca/media/Default/pgg/5/tre_one21_2%20(1)-1.jpg\" alt=\"image description\"> </a>"
+      },
+      {
+        "target": "#slick-slide02 > div:nth-of-type(2) > h1 > a",
+        "text": "River East Transcona School Division Land Statement",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/river-east-transcona-school-division-land-statement.6989",
+        "imgAlt": "",
+        "box": {
+          "x": 30,
+          "y": 485.046875,
+          "w": 400.78125,
+          "h": 84
+        },
+        "context": "heading: River East Transcona School Division Land Statement | River East Transcona School Division Land Statement",
+        "contextKind": "block",
+        "html": "<a href=\"/river-east-transcona-school-division-land-statement.6989\" tabindex=\"-1\">River East Transcona School Division Land Statement </a>"
+      },
+      {
+        "target": "#slick-slide02 > div:nth-of-type(2) > a",
+        "text": "River East Transcona School Division Land Statement Read More",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/river-east-transcona-school-division-land-statement.6989",
+        "imgAlt": "",
+        "box": {
+          "x": 40,
+          "y": 663.859375,
+          "w": 164,
+          "h": 62.390625
+        },
+        "context": "heading: River East Transcona School Division Land Statement",
+        "contextKind": "heading-only",
+        "html": "<a href=\"/river-east-transcona-school-division-land-statement.6989\" class=\"btn btn-primary\" tabindex=\"-1\"><span class=\"seo-desc\">River East Transcona School Division Land Statement </span>Read More</a>"
+      },
+      {
+        "target": "#slick-slide03 > div:nth-of-type(1) > picture > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/school-registration-for-newcomer-families",
+        "imgAlt": "image description",
+        "box": {
+          "x": 450.78125,
+          "y": 329.046875,
+          "w": 915.21875,
+          "h": 517.203125
+        },
+        "context": "heading: River East Transcona School Division Land Statement",
+        "contextKind": "heading-only",
+        "html": "<a href=\"/school-registration-for-newcomer-families\" tabindex=\"-1\"> <source data-srcset=\"https://media.retsd.mb.ca/media/Default/pgg/5/School%20Registration%20for%20Newcomers-3.jpg\"> <img src=\"https://media.retsd.mb.ca/media/Default/pgg/5/School%20Registration%20for%20Newcomers-3.jpg\" alt=\"image des"
+      },
+      {
+        "target": "#slick-slide03 > div:nth-of-type(2) > h1 > a",
+        "text": "School Registration for Newcomer Families",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/school-registration-for-newcomer-families",
+        "imgAlt": "",
+        "box": {
+          "x": 30,
+          "y": 485.046875,
+          "w": 400.78125,
+          "h": 84
+        },
+        "context": "heading: School Registration for Newcomer Families | School Registration for Newcomer Families",
+        "contextKind": "block",
+        "html": "<a href=\"/school-registration-for-newcomer-families\" tabindex=\"-1\">School Registration for Newcomer Families</a>"
+      },
+      {
+        "target": "#slick-slide03 > div:nth-of-type(2) > a",
+        "text": "School Registration for Newcomer Families Read More",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/school-registration-for-newcomer-families",
+        "imgAlt": "",
+        "box": {
+          "x": 40,
+          "y": 663.859375,
+          "w": 164,
+          "h": 62.390625
+        },
+        "context": "heading: School Registration for Newcomer Families",
+        "contextKind": "heading-only",
+        "html": "<a href=\"/school-registration-for-newcomer-families\" class=\"btn btn-primary\" tabindex=\"-1\"><span class=\"seo-desc\">School Registration for Newcomer Families</span>Read More</a>"
+      },
+      {
+        "target": "#main > section:nth-of-type(1) > div > div > a:nth-of-type(2)",
+        "text": "",
+        "ariaLabel": "Slick Next",
+        "title": "",
+        "href": "#",
+        "imgAlt": "",
+        "box": {
+          "x": 295.375,
+          "y": 713.25,
+          "w": 60,
+          "h": 60
+        },
+        "context": "heading: School Registration for Newcomer Families",
+        "contextKind": "heading-only",
+        "html": "<a href=\"#\" class=\"ci-slick-next slick-arrow\" aria-label=\"Slick Next\" style=\"\"><svg class=\"icon arrow-icon\"><use xlink:href=\"#icon-next-spoolite\"></use></svg></a>"
+      },
+      {
+        "target": "#main > section:nth-of-type(2) > div > div > a:nth-of-type(1)",
+        "text": "",
+        "ariaLabel": "Slick Previous",
+        "title": "",
+        "href": "#",
+        "imgAlt": "",
+        "box": {
+          "x": 17,
+          "y": 898.953125,
+          "w": 45,
+          "h": 45
+        },
+        "context": "heading: School Registration for Newcomer Families",
+        "contextKind": "heading-only",
+        "html": "<a href=\"#\" class=\"ci-slick-prev slick-arrow\" aria-label=\"Slick Previous\" style=\"\"><svg class=\"icon arrow-icon\"><use xlink:href=\"#icon-prev\"></use></svg></a>"
+      },
+      {
+        "target": "div > div > div > div:nth-of-type(1) > a",
+        "text": "RETLIFE",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.retlife.ca/shop/",
+        "imgAlt": "image description",
+        "box": {
+          "x": -1093,
+          "y": 897.25,
+          "w": 153,
+          "h": 182.59375
+        },
+        "context": "heading: School Registration for Newcomer Families",
+        "contextKind": "heading-only",
+        "html": "<a target=\"&quot;_blank&quot;\" href=\"https://www.retlife.ca/shop/\" tabindex=\"-1\"> <div class=\"ci-icon d-flex flex-wrap align-items-center justify-content-center\"> <img src=\"https://media.retsd.mb.ca/media/Default/fgg/5/RETLife.png\" height=\"56\" width=\"56\" alt=\"image description\"> </div> <span class=\""
+      },
+      {
+        "target": "div > div > div > div:nth-of-type(2) > a",
+        "text": "RETSD TV",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.retsd.mb.ca/page/12771/retsd-tv ",
+        "imgAlt": "image description",
+        "box": {
+          "x": -850,
+          "y": 897.25,
+          "w": 153,
+          "h": 182.59375
+        },
+        "context": "heading: School Registration for Newcomer Families",
+        "contextKind": "heading-only",
+        "html": "<a target=\"&quot;_blank&quot;\" href=\"https://www.retsd.mb.ca/page/12771/retsd-tv \" tabindex=\"-1\"> <div class=\"ci-icon d-flex flex-wrap align-items-center justify-content-center\"> <img src=\"https://media.retsd.mb.ca/media/Default/fgg/5/tv.png\" height=\"56\" width=\"56\" alt=\"image description\"> </div> <s"
+      },
+      {
+        "target": "div > div > div > div:nth-of-type(3) > a",
+        "text": "SAFETY & HEALTH",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.retsd.mb.ca/page/106/student-safety",
+        "imgAlt": "image description",
+        "box": {
+          "x": -607,
+          "y": 897.25,
+          "w": 153,
+          "h": 182.59375
+        },
+        "context": "heading: School Registration for Newcomer Families",
+        "contextKind": "heading-only",
+        "html": "<a target=\"&quot;_blank&quot;\" href=\"https://www.retsd.mb.ca/page/106/student-safety\" tabindex=\"-1\"> <div class=\"ci-icon d-flex flex-wrap align-items-center justify-content-center\"> <img src=\"https://media.retsd.mb.ca/media/Default/fgg/5/SafetyHealth2x.png\" height=\"56\" width=\"56\" alt=\"image descript"
+      },
+      {
+        "target": "div > div > div > div:nth-of-type(4) > a",
+        "text": "SCHOOL LOCATOR",
+        "ariaLabel": "",
+        "title": "",
+        "href": "http://mybaragar.com/index.cfm?event=page.SchoolLocatorPublic&DistrictCode=MB09",
+        "imgAlt": "image description",
+        "box": {
+          "x": -364,
+          "y": 897.25,
+          "w": 153,
+          "h": 182.59375
+        },
+        "context": "heading: School Registration for Newcomer Families",
+        "contextKind": "heading-only",
+        "html": "<a target=\"&quot;_blank&quot;\" href=\"http://mybaragar.com/index.cfm?event=page.SchoolLocatorPublic&amp;DistrictCode=MB09\" tabindex=\"-1\"> <div class=\"ci-icon d-flex flex-wrap align-items-center justify-content-center\"> <img src=\"https://media.retsd.mb.ca/media/Default/fgg/5/SchoolLocator2x.png\" heigh"
+      },
+      {
+        "target": "div > div > div > div:nth-of-type(5) > a",
+        "text": "TRANSPORTATION",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.retsd.mb.ca/page/114/transportation",
+        "imgAlt": "image description",
+        "box": {
+          "x": -121,
+          "y": 897.25,
+          "w": 153,
+          "h": 182.59375
+        },
+        "context": "heading: School Registration for Newcomer Families",
+        "contextKind": "heading-only",
+        "html": "<a target=\"&quot;_blank&quot;\" href=\"https://www.retsd.mb.ca/page/114/transportation\" tabindex=\"-1\"> <div class=\"ci-icon d-flex flex-wrap align-items-center justify-content-center\"> <img src=\"https://media.retsd.mb.ca/media/Default/fgg/5/BusingTransportationInformation2x.png\" height=\"56\" width=\"56\" "
+      },
+      {
+        "target": "div > div > div > div:nth-of-type(6) > a",
+        "text": "ADULT EDUCATION",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.retsd.mb.ca/adultedu",
+        "imgAlt": "image description",
+        "box": {
+          "x": 122,
+          "y": 897.25,
+          "w": 153,
+          "h": 182.59375
+        },
+        "context": "heading: School Registration for Newcomer Families",
+        "contextKind": "heading-only",
+        "html": "<a target=\"&quot;_blank&quot;\" href=\"https://www.retsd.mb.ca/adultedu\" tabindex=\"0\"> <div class=\"ci-icon d-flex flex-wrap align-items-center justify-content-center\"> <img src=\"https://media.retsd.mb.ca/media/Default/fgg/5/AdultEducation2x-1.png\" height=\"56\" width=\"56\" alt=\"image description\"> </div>"
+      },
+      {
+        "target": "div > div > div > div:nth-of-type(7) > a",
+        "text": "ENHANCING COMMUNITY ENGAGEMENT",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.retsd.mb.ca/page/17230/enhancing-community-engagement",
+        "imgAlt": "image description",
+        "box": {
+          "x": 365,
+          "y": 897.25,
+          "w": 153,
+          "h": 225.78125
+        },
+        "context": "heading: School Registration for Newcomer Families",
+        "contextKind": "heading-only",
+        "html": "<a target=\"&quot;_blank&quot;\" href=\"https://www.retsd.mb.ca/page/17230/enhancing-community-engagement\" tabindex=\"0\"> <div class=\"ci-icon d-flex flex-wrap align-items-center justify-content-center\"> <img src=\"https://media.retsd.mb.ca/media/Default/fgg/5/Community2x.png\" height=\"56\" width=\"56\" alt=\""
+      },
+      {
+        "target": "div > div > div > div:nth-of-type(8) > a",
+        "text": "INTERNATIONAL EDUCATION",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.retsd.mb.ca/International",
+        "imgAlt": "image description",
+        "box": {
+          "x": 608,
+          "y": 897.25,
+          "w": 153,
+          "h": 204.1875
+        },
+        "context": "heading: School Registration for Newcomer Families",
+        "contextKind": "heading-only",
+        "html": "<a target=\"&quot;_blank&quot;\" href=\"https://www.retsd.mb.ca/International\" tabindex=\"0\"> <div class=\"ci-icon d-flex flex-wrap align-items-center justify-content-center\"> <img src=\"https://media.retsd.mb.ca/media/Default/fgg/5/InternationalEducation2x.png\" height=\"56\" width=\"56\" alt=\"image descripti"
+      },
+      {
+        "target": "div > div > div > div:nth-of-type(9) > a",
+        "text": "RETLIFE",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.retlife.ca/shop/",
+        "imgAlt": "image description",
+        "box": {
+          "x": 851,
+          "y": 897.25,
+          "w": 153,
+          "h": 182.59375
+        },
+        "context": "heading: School Registration for Newcomer Families",
+        "contextKind": "heading-only",
+        "html": "<a target=\"&quot;_blank&quot;\" href=\"https://www.retlife.ca/shop/\" tabindex=\"0\"> <div class=\"ci-icon d-flex flex-wrap align-items-center justify-content-center\"> <img src=\"https://media.retsd.mb.ca/media/Default/fgg/5/RETLife.png\" height=\"56\" width=\"56\" alt=\"image description\"> </div> <span class=\"c"
+      },
+      {
+        "target": "div > div > div > div:nth-of-type(10) > a",
+        "text": "RETSD TV",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.retsd.mb.ca/page/12771/retsd-tv ",
+        "imgAlt": "image description",
+        "box": {
+          "x": 1094,
+          "y": 897.25,
+          "w": 153,
+          "h": 182.59375
+        },
+        "context": "heading: School Registration for Newcomer Families",
+        "contextKind": "heading-only",
+        "html": "<a target=\"&quot;_blank&quot;\" href=\"https://www.retsd.mb.ca/page/12771/retsd-tv \" tabindex=\"0\"> <div class=\"ci-icon d-flex flex-wrap align-items-center justify-content-center\"> <img src=\"https://media.retsd.mb.ca/media/Default/fgg/5/tv.png\" height=\"56\" width=\"56\" alt=\"image description\"> </div> <sp"
+      },
+      {
+        "target": "div > div > div > div:nth-of-type(11) > a",
+        "text": "SAFETY & HEALTH",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.retsd.mb.ca/page/106/student-safety",
+        "imgAlt": "image description",
+        "box": {
+          "x": 1337,
+          "y": 897.25,
+          "w": 153,
+          "h": 182.59375
+        },
+        "context": "heading: School Registration for Newcomer Families",
+        "contextKind": "heading-only",
+        "html": "<a target=\"&quot;_blank&quot;\" href=\"https://www.retsd.mb.ca/page/106/student-safety\" tabindex=\"-1\"> <div class=\"ci-icon d-flex flex-wrap align-items-center justify-content-center\"> <img src=\"https://media.retsd.mb.ca/media/Default/fgg/5/SafetyHealth2x.png\" height=\"56\" width=\"56\" alt=\"image descript"
+      },
+      {
+        "target": "div > div > div > div:nth-of-type(12) > a",
+        "text": "SCHOOL LOCATOR",
+        "ariaLabel": "",
+        "title": "",
+        "href": "http://mybaragar.com/index.cfm?event=page.SchoolLocatorPublic&DistrictCode=MB09",
+        "imgAlt": "image description",
+        "box": {
+          "x": 1580,
+          "y": 897.25,
+          "w": 153,
+          "h": 182.59375
+        },
+        "context": "heading: School Registration for Newcomer Families",
+        "contextKind": "heading-only",
+        "html": "<a target=\"&quot;_blank&quot;\" href=\"http://mybaragar.com/index.cfm?event=page.SchoolLocatorPublic&amp;DistrictCode=MB09\" tabindex=\"-1\"> <div class=\"ci-icon d-flex flex-wrap align-items-center justify-content-center\"> <img src=\"https://media.retsd.mb.ca/media/Default/fgg/5/SchoolLocator2x.png\" heigh"
+      },
+      {
+        "target": "div > div > div > div:nth-of-type(13) > a",
+        "text": "TRANSPORTATION",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.retsd.mb.ca/page/114/transportation",
+        "imgAlt": "image description",
+        "box": {
+          "x": 1823,
+          "y": 897.25,
+          "w": 153,
+          "h": 182.59375
+        },
+        "context": "heading: School Registration for Newcomer Families",
+        "contextKind": "heading-only",
+        "html": "<a target=\"&quot;_blank&quot;\" href=\"https://www.retsd.mb.ca/page/114/transportation\" tabindex=\"-1\"> <div class=\"ci-icon d-flex flex-wrap align-items-center justify-content-center\"> <img src=\"https://media.retsd.mb.ca/media/Default/fgg/5/BusingTransportationInformation2x.png\" height=\"56\" width=\"56\" "
+      },
+      {
+        "target": "div > div > div > div:nth-of-type(14) > a",
+        "text": "ADULT EDUCATION",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.retsd.mb.ca/adultedu",
+        "imgAlt": "image description",
+        "box": {
+          "x": 2066,
+          "y": 897.25,
+          "w": 153,
+          "h": 182.59375
+        },
+        "context": "heading: School Registration for Newcomer Families",
+        "contextKind": "heading-only",
+        "html": "<a target=\"&quot;_blank&quot;\" href=\"https://www.retsd.mb.ca/adultedu\" tabindex=\"-1\"> <div class=\"ci-icon d-flex flex-wrap align-items-center justify-content-center\"> <img src=\"https://media.retsd.mb.ca/media/Default/fgg/5/AdultEducation2x-1.png\" height=\"56\" width=\"56\" alt=\"image description\"> </div"
+      },
+      {
+        "target": "div > div > div > div:nth-of-type(15) > a",
+        "text": "ENHANCING COMMUNITY ENGAGEMENT",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.retsd.mb.ca/page/17230/enhancing-community-engagement",
+        "imgAlt": "image description",
+        "box": {
+          "x": 2309,
+          "y": 897.25,
+          "w": 153,
+          "h": 225.78125
+        },
+        "context": "heading: School Registration for Newcomer Families",
+        "contextKind": "heading-only",
+        "html": "<a target=\"&quot;_blank&quot;\" href=\"https://www.retsd.mb.ca/page/17230/enhancing-community-engagement\" tabindex=\"-1\"> <div class=\"ci-icon d-flex flex-wrap align-items-center justify-content-center\"> <img src=\"https://media.retsd.mb.ca/media/Default/fgg/5/Community2x.png\" height=\"56\" width=\"56\" alt="
+      },
+      {
+        "target": "div > div > div > div:nth-of-type(16) > a",
+        "text": "INTERNATIONAL EDUCATION",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.retsd.mb.ca/International",
+        "imgAlt": "image description",
+        "box": {
+          "x": 2552,
+          "y": 897.25,
+          "w": 153,
+          "h": 204.1875
+        },
+        "context": "heading: School Registration for Newcomer Families",
+        "contextKind": "heading-only",
+        "html": "<a target=\"&quot;_blank&quot;\" href=\"https://www.retsd.mb.ca/International\" tabindex=\"-1\"> <div class=\"ci-icon d-flex flex-wrap align-items-center justify-content-center\"> <img src=\"https://media.retsd.mb.ca/media/Default/fgg/5/InternationalEducation2x.png\" height=\"56\" width=\"56\" alt=\"image descript"
+      },
+      {
+        "target": "div > div > div > div:nth-of-type(17) > a",
+        "text": "RETLIFE",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.retlife.ca/shop/",
+        "imgAlt": "image description",
+        "box": {
+          "x": 2795,
+          "y": 897.25,
+          "w": 153,
+          "h": 182.59375
+        },
+        "context": "heading: School Registration for Newcomer Families",
+        "contextKind": "heading-only",
+        "html": "<a target=\"&quot;_blank&quot;\" href=\"https://www.retlife.ca/shop/\" tabindex=\"-1\"> <div class=\"ci-icon d-flex flex-wrap align-items-center justify-content-center\"> <img src=\"https://media.retsd.mb.ca/media/Default/fgg/5/RETLife.png\" height=\"56\" width=\"56\" alt=\"image description\"> </div> <span class=\""
+      },
+      {
+        "target": "div > div > div > div:nth-of-type(18) > a",
+        "text": "RETSD TV",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.retsd.mb.ca/page/12771/retsd-tv ",
+        "imgAlt": "image description",
+        "box": {
+          "x": 3038,
+          "y": 897.25,
+          "w": 153,
+          "h": 182.59375
+        },
+        "context": "heading: School Registration for Newcomer Families",
+        "contextKind": "heading-only",
+        "html": "<a target=\"&quot;_blank&quot;\" href=\"https://www.retsd.mb.ca/page/12771/retsd-tv \" tabindex=\"-1\"> <div class=\"ci-icon d-flex flex-wrap align-items-center justify-content-center\"> <img src=\"https://media.retsd.mb.ca/media/Default/fgg/5/tv.png\" height=\"56\" width=\"56\" alt=\"image description\"> </div> <s"
+      },
+      {
+        "target": "div > div > div > div:nth-of-type(19) > a",
+        "text": "SAFETY & HEALTH",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.retsd.mb.ca/page/106/student-safety",
+        "imgAlt": "image description",
+        "box": {
+          "x": 3281,
+          "y": 897.25,
+          "w": 153,
+          "h": 182.59375
+        },
+        "context": "heading: School Registration for Newcomer Families",
+        "contextKind": "heading-only",
+        "html": "<a target=\"&quot;_blank&quot;\" href=\"https://www.retsd.mb.ca/page/106/student-safety\" tabindex=\"-1\"> <div class=\"ci-icon d-flex flex-wrap align-items-center justify-content-center\"> <img src=\"https://media.retsd.mb.ca/media/Default/fgg/5/SafetyHealth2x.png\" height=\"56\" width=\"56\" alt=\"image descript"
+      },
+      {
+        "target": "div > div > div > div:nth-of-type(20) > a",
+        "text": "SCHOOL LOCATOR",
+        "ariaLabel": "",
+        "title": "",
+        "href": "http://mybaragar.com/index.cfm?event=page.SchoolLocatorPublic&DistrictCode=MB09",
+        "imgAlt": "image description",
+        "box": {
+          "x": 3524,
+          "y": 897.25,
+          "w": 153,
+          "h": 182.59375
+        },
+        "context": "heading: School Registration for Newcomer Families",
+        "contextKind": "heading-only",
+        "html": "<a target=\"&quot;_blank&quot;\" href=\"http://mybaragar.com/index.cfm?event=page.SchoolLocatorPublic&amp;DistrictCode=MB09\" tabindex=\"-1\"> <div class=\"ci-icon d-flex flex-wrap align-items-center justify-content-center\"> <img src=\"https://media.retsd.mb.ca/media/Default/fgg/5/SchoolLocator2x.png\" heigh"
+      },
+      {
+        "target": "div > div > div > div:nth-of-type(21) > a",
+        "text": "TRANSPORTATION",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.retsd.mb.ca/page/114/transportation",
+        "imgAlt": "image description",
+        "box": {
+          "x": 3767,
+          "y": 897.25,
+          "w": 153,
+          "h": 182.59375
+        },
+        "context": "heading: School Registration for Newcomer Families",
+        "contextKind": "heading-only",
+        "html": "<a target=\"&quot;_blank&quot;\" href=\"https://www.retsd.mb.ca/page/114/transportation\" tabindex=\"-1\"> <div class=\"ci-icon d-flex flex-wrap align-items-center justify-content-center\"> <img src=\"https://media.retsd.mb.ca/media/Default/fgg/5/BusingTransportationInformation2x.png\" height=\"56\" width=\"56\" "
+      },
+      {
+        "target": "#main > section:nth-of-type(2) > div > div > a:nth-of-type(2)",
+        "text": "",
+        "ariaLabel": "Slick Next",
+        "title": "",
+        "href": "#",
+        "imgAlt": "",
+        "box": {
+          "x": 1304,
+          "y": 898.953125,
+          "w": 45,
+          "h": 45
+        },
+        "context": "heading: School Registration for Newcomer Families",
+        "contextKind": "heading-only",
+        "html": "<a href=\"#\" class=\"ci-slick-next slick-arrow\" aria-label=\"Slick Next\" style=\"\"><svg class=\"icon arrow-icon\"><use xlink:href=\"#icon-next\"></use></svg></a>"
+      },
+      {
+        "target": "#main > section:nth-of-type(3) > div > div:nth-of-type(1) > a",
+        "text": "VIEW ALL NEWS",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/news",
+        "imgAlt": "",
+        "box": {
+          "x": 1204.8125,
+          "y": 1230.828125,
+          "w": 141.1875,
+          "h": 28
+        },
+        "context": "heading: News & Announcements",
+        "contextKind": "heading-only",
+        "html": "<a href=\"/news\">VIEW ALL NEWS<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 6 9.1\"><path d=\"M5 .9c.3 0 .5.1.7.3.4.4.4 1 0 1.4L2.9 5.5l2.8 2.8c.4.4.4 1 0 1.4-.4.4-1 .4-1.4 0L0 5.5l4.3-4.2c.2-.3.4-.4.7-.4z\" transform=\"rotate(-180 3 5)\"></path></svg></a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div:nth-of-type(1) > div > div:nth-of-type(1) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/office-of-the-commissioner-of-teacher-professional-conduct.33265",
+        "imgAlt": "image description",
+        "box": {
+          "x": 20,
+          "y": 1327.078125,
+          "w": 104.875,
+          "h": 14
+        },
+        "context": "heading: News & Announcements | REPORTING TO THE COMMISSIONER OF TEACHER PROFESSIONAL CONDUCT Reporting to the Commissioner of Teacher Professional Conduct Read More",
+        "contextKind": "block",
+        "html": "<a href=\"/office-of-the-commissioner-of-teacher-professional-conduct.33265\"> <picture> <source data-srcset=\"https://sb365static.schoolbundle365.com/sb365static/images/retsd/blanknews.png\"> <img decoding=\"async\" loading=\"lazy\" class=\"lazyload\" data-expand=\"250\" width=\"1600\" height=\"900\" data-src=\"htt"
+      },
+      {
+        "target": "div:nth-of-type(1) > div > div:nth-of-type(2) > h2 > a",
+        "text": "REPORTING TO THE COMMISSIONER OF TEACHER PROFESSIONAL CONDUCT",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/office-of-the-commissioner-of-teacher-professional-conduct.33265",
+        "imgAlt": "",
+        "box": {
+          "x": 21,
+          "y": 1360.734375,
+          "w": 293.5,
+          "h": 60
+        },
+        "context": "heading: REPORTING TO THE COMMISSIONER OF TEACHER PROFESSIONAL CONDUCT | REPORTING TO THE COMMISSIONER OF TEACHER PROFESSIONAL CONDUCT",
+        "contextKind": "block",
+        "html": "<a href=\"/office-of-the-commissioner-of-teacher-professional-conduct.33265\">Reporting to the Commissioner of Teacher Professional Conduct</a>"
+      },
+      {
+        "target": "div:nth-of-type(1) > div > div:nth-of-type(2) > span > a",
+        "text": "Reporting to the Commissioner of Teacher Professional Conduct Read More",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/office-of-the-commissioner-of-teacher-professional-conduct.33265",
+        "imgAlt": "",
+        "box": {
+          "x": 21,
+          "y": 1442.734375,
+          "w": 73.078125,
+          "h": 19
+        },
+        "context": "heading: REPORTING TO THE COMMISSIONER OF TEACHER PROFESSIONAL CONDUCT | Reporting to the Commissioner of Teacher Professional Conduct Read More",
+        "contextKind": "block",
+        "html": "<a href=\"/office-of-the-commissioner-of-teacher-professional-conduct.33265\"><span class=\"seo-desc\">Reporting to the Commissioner of Teacher Professional Conduct</span>Read More</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div:nth-of-type(2) > div > div:nth-of-type(1) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/essential-context-needed-when-discussing-school-taxes.35970",
+        "imgAlt": "image description",
+        "box": {
+          "x": 363.5,
+          "y": 1327.078125,
+          "w": 104.875,
+          "h": 14
+        },
+        "context": "heading: REPORTING TO THE COMMISSIONER OF TEACHER PROFESSIONAL CONDUCT | ESSENTIAL CONTEXT NEEDED WHEN DISCUSSING SCHOOL TAXES Essential Context Needed When Discussing School taxes Read More",
+        "contextKind": "block",
+        "html": "<a href=\"/essential-context-needed-when-discussing-school-taxes.35970\"> <picture> <source data-srcset=\"https://sb365static.schoolbundle365.com/sb365static/images/retsd/blanknews.png\"> <img decoding=\"async\" loading=\"lazy\" class=\"lazyload\" data-expand=\"250\" width=\"1600\" height=\"900\" data-src=\"https://"
+      },
+      {
+        "target": "div:nth-of-type(2) > div > div:nth-of-type(2) > h2 > a",
+        "text": "ESSENTIAL CONTEXT NEEDED WHEN DISCUSSING SCHOOL TAXES",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/essential-context-needed-when-discussing-school-taxes.35970",
+        "imgAlt": "",
+        "box": {
+          "x": 364.5,
+          "y": 1360.734375,
+          "w": 293.5,
+          "h": 60
+        },
+        "context": "heading: ESSENTIAL CONTEXT NEEDED WHEN DISCUSSING SCHOOL TAXES | ESSENTIAL CONTEXT NEEDED WHEN DISCUSSING SCHOOL TAXES",
+        "contextKind": "block",
+        "html": "<a href=\"/essential-context-needed-when-discussing-school-taxes.35970\">Essential Context Needed When Discussing School taxes</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div > div:nth-of-type(2) > span > a",
+        "text": "Essential Context Needed When Discussing School taxes Read More",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/essential-context-needed-when-discussing-school-taxes.35970",
+        "imgAlt": "",
+        "box": {
+          "x": 364.5,
+          "y": 1442.734375,
+          "w": 73.078125,
+          "h": 19
+        },
+        "context": "heading: ESSENTIAL CONTEXT NEEDED WHEN DISCUSSING SCHOOL TAXES | Essential Context Needed When Discussing School taxes Read More",
+        "contextKind": "block",
+        "html": "<a href=\"/essential-context-needed-when-discussing-school-taxes.35970\"><span class=\"seo-desc\">Essential Context Needed When Discussing School taxes</span>Read More</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div:nth-of-type(3) > div > div:nth-of-type(1) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/all-aboard-for-safety-the-community-of-caring-behind-student-transportation.37480",
+        "imgAlt": "image description",
+        "box": {
+          "x": 707,
+          "y": 1327.078125,
+          "w": 104.875,
+          "h": 14
+        },
+        "context": "heading: ESSENTIAL CONTEXT NEEDED WHEN DISCUSSING SCHOOL TAXES | ALL ABOARD FOR SAFETY: THE COMMUNITY OF CARING BEHIND STUDENT TRANSPORTATION All Aboard for Safety: The Community of Caring Behind Student Transportation Read More",
+        "contextKind": "block",
+        "html": "<a href=\"/all-aboard-for-safety-the-community-of-caring-behind-student-transportation.37480\"> <picture> <source data-srcset=\"https://media.retsd.mb.ca/media/Default/pgg/5/school-bus.jpg\"> <img decoding=\"async\" loading=\"lazy\" class=\"lazyload\" data-expand=\"250\" width=\"1600\" height=\"900\" data-src=\"http"
+      },
+      {
+        "target": "div:nth-of-type(3) > div > div:nth-of-type(2) > h2 > a",
+        "text": "ALL ABOARD FOR SAFETY: THE COMMUNITY OF CARING BEHIND STUDENT TRANSPORTATION",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/all-aboard-for-safety-the-community-of-caring-behind-student-transportation.37480",
+        "imgAlt": "",
+        "box": {
+          "x": 708,
+          "y": 1360.734375,
+          "w": 293.5,
+          "h": 60
+        },
+        "context": "heading: ALL ABOARD FOR SAFETY: THE COMMUNITY OF CARING BEHIND STUDENT TRANSPORTATION | ALL ABOARD FOR SAFETY: THE COMMUNITY OF CARING BEHIND STUDENT TRANSPORTATION",
+        "contextKind": "block",
+        "html": "<a href=\"/all-aboard-for-safety-the-community-of-caring-behind-student-transportation.37480\">All Aboard for Safety: The Community of Caring Behind Student Transportation</a>"
+      },
+      {
+        "target": "div:nth-of-type(3) > div > div:nth-of-type(2) > span > a",
+        "text": "All Aboard for Safety: The Community of Caring Behind Student Transportation Read More",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/all-aboard-for-safety-the-community-of-caring-behind-student-transportation.37480",
+        "imgAlt": "",
+        "box": {
+          "x": 708,
+          "y": 1442.734375,
+          "w": 73.078125,
+          "h": 19
+        },
+        "context": "heading: ALL ABOARD FOR SAFETY: THE COMMUNITY OF CARING BEHIND STUDENT TRANSPORTATION | All Aboard for Safety: The Community of Caring Behind Student Transportation Read More",
+        "contextKind": "block",
+        "html": "<a href=\"/all-aboard-for-safety-the-community-of-caring-behind-student-transportation.37480\"><span class=\"seo-desc\">All Aboard for Safety: The Community of Caring Behind Student Transportation</span>Read More</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div:nth-of-type(4) > div > div:nth-of-type(1) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/kodiaks-get-support-on-the-trail-from-the-fwef.36434",
+        "imgAlt": "image description",
+        "box": {
+          "x": 1050.5,
+          "y": 1327.078125,
+          "w": 104.875,
+          "h": 14
+        },
+        "context": "heading: ALL ABOARD FOR SAFETY: THE COMMUNITY OF CARING BEHIND STUDENT TRANSPORTATION | KODIAKS GET SUPPORT ON THE TRAIL FROM THE FWEF Kodiaks get support on the Trail from the FWEF Read More",
+        "contextKind": "block",
+        "html": "<a href=\"/kodiaks-get-support-on-the-trail-from-the-fwef.36434\"> <picture> <source data-srcset=\"https://media.retsd.mb.ca/media/Default/pgg/5/Kodiaks%20Trail%202.jpg\"> <img decoding=\"async\" loading=\"lazy\" class=\"lazyload\" data-expand=\"250\" width=\"1600\" height=\"900\" data-src=\"https://media.retsd.mb.c"
+      },
+      {
+        "target": "div:nth-of-type(4) > div > div:nth-of-type(2) > h2 > a",
+        "text": "KODIAKS GET SUPPORT ON THE TRAIL FROM THE FWEF",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/kodiaks-get-support-on-the-trail-from-the-fwef.36434",
+        "imgAlt": "",
+        "box": {
+          "x": 1051.5,
+          "y": 1360.734375,
+          "w": 293.5,
+          "h": 60
+        },
+        "context": "heading: KODIAKS GET SUPPORT ON THE TRAIL FROM THE FWEF | KODIAKS GET SUPPORT ON THE TRAIL FROM THE FWEF",
+        "contextKind": "block",
+        "html": "<a href=\"/kodiaks-get-support-on-the-trail-from-the-fwef.36434\">Kodiaks get support on the Trail from the FWEF</a>"
+      },
+      {
+        "target": "div:nth-of-type(4) > div > div:nth-of-type(2) > span > a",
+        "text": "Kodiaks get support on the Trail from the FWEF Read More",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/kodiaks-get-support-on-the-trail-from-the-fwef.36434",
+        "imgAlt": "",
+        "box": {
+          "x": 1051.5,
+          "y": 1442.734375,
+          "w": 73.078125,
+          "h": 19
+        },
+        "context": "heading: KODIAKS GET SUPPORT ON THE TRAIL FROM THE FWEF | Kodiaks get support on the Trail from the FWEF Read More",
+        "contextKind": "block",
+        "html": "<a href=\"/kodiaks-get-support-on-the-trail-from-the-fwef.36434\"><span class=\"seo-desc\">Kodiaks get support on the Trail from the FWEF</span>Read More</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div:nth-of-type(5) > div > div:nth-of-type(1) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/rooted-in-reconciliation--grade-10-transcona-collegiate-students-transform-disappointment-into-purpose.36117",
+        "imgAlt": "image description",
+        "box": {
+          "x": 20,
+          "y": 1497.609375,
+          "w": 104.875,
+          "h": 14
+        },
+        "context": "heading: KODIAKS GET SUPPORT ON THE TRAIL FROM THE FWEF | ROOTED IN RECONCILIATION: GRADE 10 TRANSCONA COLLEGIATE STUDENTS TRANSFORM DISAPPOINTMENT INTO PURPOSE Rooted in Reconciliation: Grade 10 Transcona Collegiate Students Transform Disappointment into Purp",
+        "contextKind": "block",
+        "html": "<a href=\"/rooted-in-reconciliation--grade-10-transcona-collegiate-students-transform-disappointment-into-purpose.36117\"> <picture> <source data-srcset=\"https://media.retsd.mb.ca/media/Default/pgg/5/Image%20(10).jpg\"> <img decoding=\"async\" loading=\"lazy\" class=\"lazyload\" data-expand=\"250\" width=\"1600"
+      },
+      {
+        "target": "div:nth-of-type(5) > div > div:nth-of-type(2) > h2 > a",
+        "text": "ROOTED IN RECONCILIATION: GRADE 10 TRANSCONA COLLEGIATE STUDENTS TRANSFORM DISAPPOINTMENT INTO PURPOSE",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/rooted-in-reconciliation--grade-10-transcona-collegiate-students-transform-disappointment-into-purpose.36117",
+        "imgAlt": "",
+        "box": {
+          "x": 21,
+          "y": 1531.265625,
+          "w": 293.5,
+          "h": 60
+        },
+        "context": "heading: ROOTED IN RECONCILIATION: GRADE 10 TRANSCONA COLLEGIATE STUDENTS TRANSFORM DISAPPOINTMENT INTO PURPOSE | ROOTED IN RECONCILIATION: GRADE 10 TRANSCONA COLLEGIATE STUDENTS TRANSFORM DISAPPOINTMENT INTO PURPOSE",
+        "contextKind": "block",
+        "html": "<a href=\"/rooted-in-reconciliation--grade-10-transcona-collegiate-students-transform-disappointment-into-purpose.36117\">Rooted in Reconciliation: Grade 10 Transcona Collegiate Students Transform Disappointment into Purpose</a>"
+      },
+      {
+        "target": "div:nth-of-type(5) > div > div:nth-of-type(2) > span > a",
+        "text": "Rooted in Reconciliation: Grade 10 Transcona Collegiate Students Transform Disappointment into Purpose Read More",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/rooted-in-reconciliation--grade-10-transcona-collegiate-students-transform-disappointment-into-purpose.36117",
+        "imgAlt": "",
+        "box": {
+          "x": 21,
+          "y": 1613.265625,
+          "w": 73.078125,
+          "h": 19
+        },
+        "context": "heading: ROOTED IN RECONCILIATION: GRADE 10 TRANSCONA COLLEGIATE STUDENTS TRANSFORM DISAPPOINTMENT INTO PURPOSE | Rooted in Reconciliation: Grade 10 Transcona Collegiate Students Transform Disappointment into Purpose Read More",
+        "contextKind": "block",
+        "html": "<a href=\"/rooted-in-reconciliation--grade-10-transcona-collegiate-students-transform-disappointment-into-purpose.36117\"><span class=\"seo-desc\">Rooted in Reconciliation: Grade 10 Transcona Collegiate Students Transform Disappointment into Purpose</span>Read More</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div:nth-of-type(6) > div > div:nth-of-type(1) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/hiring-expo--now-hiring-school-bus-drivers.36106",
+        "imgAlt": "image description",
+        "box": {
+          "x": 363.5,
+          "y": 1497.609375,
+          "w": 104.875,
+          "h": 14
+        },
+        "context": "heading: ROOTED IN RECONCILIATION: GRADE 10 TRANSCONA COLLEGIATE STUDENTS TRANSFORM DISAPPOINTMENT INTO PURPOSE | HIRING EXPO: NOW HIRING SCHOOL BUS DRIVERS Hiring Expo: Now Hiring School Bus Drivers Read More",
+        "contextKind": "block",
+        "html": "<a href=\"/hiring-expo--now-hiring-school-bus-drivers.36106\"> <picture> <source data-srcset=\"https://media.retsd.mb.ca/media/Default/pgg/5/Bus_ad26v2.jpg\"> <img decoding=\"async\" loading=\"lazy\" class=\"lazyload\" data-expand=\"250\" width=\"1600\" height=\"900\" data-src=\"https://media.retsd.mb.ca/media/Defau"
+      },
+      {
+        "target": "div:nth-of-type(6) > div > div:nth-of-type(2) > h2 > a",
+        "text": "HIRING EXPO: NOW HIRING SCHOOL BUS DRIVERS",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/hiring-expo--now-hiring-school-bus-drivers.36106",
+        "imgAlt": "",
+        "box": {
+          "x": 364.5,
+          "y": 1531.265625,
+          "w": 293.5,
+          "h": 60
+        },
+        "context": "heading: HIRING EXPO: NOW HIRING SCHOOL BUS DRIVERS | HIRING EXPO: NOW HIRING SCHOOL BUS DRIVERS",
+        "contextKind": "block",
+        "html": "<a href=\"/hiring-expo--now-hiring-school-bus-drivers.36106\">Hiring Expo: Now Hiring School Bus Drivers</a>"
+      },
+      {
+        "target": "div:nth-of-type(6) > div > div:nth-of-type(2) > span > a",
+        "text": "Hiring Expo: Now Hiring School Bus Drivers Read More",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/hiring-expo--now-hiring-school-bus-drivers.36106",
+        "imgAlt": "",
+        "box": {
+          "x": 364.5,
+          "y": 1613.265625,
+          "w": 73.078125,
+          "h": 19
+        },
+        "context": "heading: HIRING EXPO: NOW HIRING SCHOOL BUS DRIVERS | Hiring Expo: Now Hiring School Bus Drivers Read More",
+        "contextKind": "block",
+        "html": "<a href=\"/hiring-expo--now-hiring-school-bus-drivers.36106\"><span class=\"seo-desc\">Hiring Expo: Now Hiring School Bus Drivers</span>Read More</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div:nth-of-type(7) > div > div:nth-of-type(1) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/finding-their-english-voices-eal-students-from-senior-years-schools-connect-for-a-day-of-learning-laughter-and-lyrics.35959",
+        "imgAlt": "image description",
+        "box": {
+          "x": 707,
+          "y": 1497.609375,
+          "w": 104.875,
+          "h": 14
+        },
+        "context": "heading: HIRING EXPO: NOW HIRING SCHOOL BUS DRIVERS",
+        "contextKind": "heading-only",
+        "html": "<a href=\"/finding-their-english-voices-eal-students-from-senior-years-schools-connect-for-a-day-of-learning-laughter-and-lyrics.35959\"> <picture> <source data-srcset=\"https://media.retsd.mb.ca/media/Default/pgg/5/20260525_105812.jpg\"> <img decoding=\"async\" loading=\"lazy\" class=\"lazyload\" data-expand"
+      },
+      {
+        "target": "div:nth-of-type(7) > div > div:nth-of-type(2) > h2 > a",
+        "text": "FINDING THEIR ENGLISH VOICES: EAL STUDENTS FROM SENIOR YEARS SCHOOLS CONNECT FOR A DAY OF LEARNING, LAUGHTER, AND LYRICS",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/finding-their-english-voices-eal-students-from-senior-years-schools-connect-for-a-day-of-learning-laughter-and-lyrics.35959",
+        "imgAlt": "",
+        "box": {
+          "x": 708,
+          "y": 1531.265625,
+          "w": 293.5,
+          "h": 60
+        },
+        "context": "heading: FINDING THEIR ENGLISH VOICES: EAL STUDENTS FROM SENIOR YEARS SCHOOLS CONNECT FOR A DAY OF LEARNING, LAUGHTER, AND LYRICS | FINDING THEIR ENGLISH VOICES: EAL STUDENTS FROM SENIOR YEARS SCHOOLS CONNECT FOR A DAY OF LEARNING, LAUGHTER, AND LYRICS",
+        "contextKind": "block",
+        "html": "<a href=\"/finding-their-english-voices-eal-students-from-senior-years-schools-connect-for-a-day-of-learning-laughter-and-lyrics.35959\">Finding Their English Voices: EAL Students from Senior Years Schools Connect for a Day of Learning, Laughter, and Lyrics</a>"
+      },
+      {
+        "target": "div:nth-of-type(7) > div > div:nth-of-type(2) > span > a",
+        "text": "Finding Their English Voices: EAL Students from Senior Years Schools Connect for a Day of Learning, Laughter, and Lyrics Read More",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/finding-their-english-voices-eal-students-from-senior-years-schools-connect-for-a-day-of-learning-laughter-and-lyrics.35959",
+        "imgAlt": "",
+        "box": {
+          "x": 708,
+          "y": 1613.265625,
+          "w": 73.078125,
+          "h": 19
+        },
+        "context": "heading: FINDING THEIR ENGLISH VOICES: EAL STUDENTS FROM SENIOR YEARS SCHOOLS CONNECT FOR A DAY OF LEARNING, LAUGHTER, AND LYRICS | Finding Their English Voices: EAL Students from Senior Years Schools Connect for a Day of Learning, Laughter, and Lyrics Read Mo",
+        "contextKind": "block",
+        "html": "<a href=\"/finding-their-english-voices-eal-students-from-senior-years-schools-connect-for-a-day-of-learning-laughter-and-lyrics.35959\"><span class=\"seo-desc\">Finding Their English Voices: EAL Students from Senior Years Schools Connect for a Day of Learning, Laughter, and Lyrics</span>Read More</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div:nth-of-type(8) > div > div:nth-of-type(1) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/in-appreciation-award-presented-to-the-johnson-family.35824",
+        "imgAlt": "image description",
+        "box": {
+          "x": 1050.5,
+          "y": 1497.609375,
+          "w": 104.875,
+          "h": 14
+        },
+        "context": "heading: FINDING THEIR ENGLISH VOICES: EAL STUDENTS FROM SENIOR YEARS SCHOOLS CONNECT FOR A DAY OF LEARNING, LAUGHTER, AND LYRICS | IN APPRECIATION AWARD PRESENTED TO THE JOHNSON FAMILY In Appreciation Award Presented to the Johnson Family Read More",
+        "contextKind": "block",
+        "html": "<a href=\"/in-appreciation-award-presented-to-the-johnson-family.35824\"> <picture> <source data-srcset=\"https://media.retsd.mb.ca/media/Default/pgg/5/DSC_5134.jpg\"> <img decoding=\"async\" loading=\"lazy\" class=\"lazyload\" data-expand=\"250\" width=\"1600\" height=\"900\" data-src=\"https://media.retsd.mb.ca/me"
+      },
+      {
+        "target": "div:nth-of-type(8) > div > div:nth-of-type(2) > h2 > a",
+        "text": "IN APPRECIATION AWARD PRESENTED TO THE JOHNSON FAMILY",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/in-appreciation-award-presented-to-the-johnson-family.35824",
+        "imgAlt": "",
+        "box": {
+          "x": 1051.5,
+          "y": 1531.265625,
+          "w": 293.5,
+          "h": 60
+        },
+        "context": "heading: IN APPRECIATION AWARD PRESENTED TO THE JOHNSON FAMILY | IN APPRECIATION AWARD PRESENTED TO THE JOHNSON FAMILY",
+        "contextKind": "block",
+        "html": "<a href=\"/in-appreciation-award-presented-to-the-johnson-family.35824\">In Appreciation Award Presented to the Johnson Family</a>"
+      },
+      {
+        "target": "div:nth-of-type(8) > div > div:nth-of-type(2) > span > a",
+        "text": "In Appreciation Award Presented to the Johnson Family Read More",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/in-appreciation-award-presented-to-the-johnson-family.35824",
+        "imgAlt": "",
+        "box": {
+          "x": 1051.5,
+          "y": 1613.265625,
+          "w": 73.078125,
+          "h": 19
+        },
+        "context": "heading: IN APPRECIATION AWARD PRESENTED TO THE JOHNSON FAMILY | In Appreciation Award Presented to the Johnson Family Read More",
+        "contextKind": "block",
+        "html": "<a href=\"/in-appreciation-award-presented-to-the-johnson-family.35824\"><span class=\"seo-desc\">In Appreciation Award Presented to the Johnson Family</span>Read More</a>"
+      },
+      {
+        "target": "section:nth-of-type(4) > div:nth-of-type(2) > div:nth-of-type(1) > div > a:nth-of-type(1)",
+        "text": "",
+        "ariaLabel": "Slick Previous",
+        "title": "",
+        "href": "#",
+        "imgAlt": "",
+        "box": {
+          "x": 10,
+          "y": 1776.890625,
+          "w": 60,
+          "h": 60
+        },
+        "context": "heading: Upcoming Events",
+        "contextKind": "heading-only",
+        "html": "<a href=\"#\" class=\"ci-slick-prev slick-arrow\" aria-label=\"Slick Previous\" style=\"\"><svg class=\"icon arrow-icon\"><use xlink:href=\"#icon-prev\"></use></svg></a>"
+      },
+      {
+        "target": "div > div > div > div:nth-of-type(1) > a",
+        "text": "27 NOV CO-ORDINATED DAY Co-ordinated Day All Day",
+        "ariaLabel": "",
+        "title": "",
+        "href": "javascript:;",
+        "imgAlt": "",
+        "box": {
+          "x": -1133,
+          "y": 1810.328125,
+          "w": 257,
+          "h": 83.59375
+        },
+        "context": "heading: Upcoming Events | 27 NOV CO-ORDINATED DAY Co-ordinated Day All Day",
+        "contextKind": "block",
+        "html": "<a class=\"ci-item\" href=\"javascript:;\" tabindex=\"-1\"> <div class=\"time\" data-idx=\"5\"> <strong class=\"dd\">27</strong> <strong class=\"month\"> Nov </strong> </div> <div class=\"text\"> <h2 data-idx=\"5\" name=\"event_detile\" class=\"event-opener\" style=\"color: #000;margin-bottom:0;\">Co-ordinated Day</h2> <sp"
+      },
+      {
+        "target": "div > div > div > div:nth-of-type(2) > a",
+        "text": "18 DEC EARLY DISMISSAL Early Dismissal All Day",
+        "ariaLabel": "",
+        "title": "",
+        "href": "javascript:;",
+        "imgAlt": "",
+        "box": {
+          "x": -826,
+          "y": 1810.328125,
+          "w": 257,
+          "h": 83.59375
+        },
+        "context": "heading: CO-ORDINATED DAY | 18 DEC EARLY DISMISSAL Early Dismissal All Day",
+        "contextKind": "block",
+        "html": "<a class=\"ci-item\" href=\"javascript:;\" tabindex=\"-1\"> <div class=\"time\" data-idx=\"6\"> <strong class=\"dd\">18</strong> <strong class=\"month\"> Dec </strong> </div> <div class=\"text\"> <h2 data-idx=\"6\" name=\"event_detile\" class=\"event-opener\" style=\"color: #000;margin-bottom:0;\">Early Dismissal</h2> <spa"
+      },
+      {
+        "target": "div > div > div > div:nth-of-type(3) > a",
+        "text": "21 DEC WINTER BREAK Holidays 2:00 PM - 2:30 PM",
+        "ariaLabel": "",
+        "title": "",
+        "href": "javascript:;",
+        "imgAlt": "",
+        "box": {
+          "x": -519,
+          "y": 1810.328125,
+          "w": 257,
+          "h": 83.59375
+        },
+        "context": "heading: EARLY DISMISSAL | 21 DEC WINTER BREAK Holidays 2:00 PM - 2:30 PM",
+        "contextKind": "block",
+        "html": "<a class=\"ci-item\" href=\"javascript:;\" tabindex=\"-1\"> <div class=\"time\" data-idx=\"7\"> <strong class=\"dd\">21</strong> <strong class=\"month\"> Dec </strong> </div> <div class=\"text\"> <h2 data-idx=\"7\" name=\"event_detile\" class=\"event-opener\" style=\"color: #000;margin-bottom:0;\">Winter Break </h2> <span "
+      },
+      {
+        "target": "div > div > div > div:nth-of-type(4) > a",
+        "text": "22 DEC WINTER BREAK Holidays 2:00 PM - 2:30 PM",
+        "ariaLabel": "",
+        "title": "",
+        "href": "javascript:;",
+        "imgAlt": "",
+        "box": {
+          "x": -212,
+          "y": 1810.328125,
+          "w": 257,
+          "h": 83.59375
+        },
+        "context": "heading: WINTER BREAK | 22 DEC WINTER BREAK Holidays 2:00 PM - 2:30 PM",
+        "contextKind": "block",
+        "html": "<a class=\"ci-item\" href=\"javascript:;\" tabindex=\"-1\"> <div class=\"time\" data-idx=\"8\"> <strong class=\"dd\">22</strong> <strong class=\"month\"> Dec </strong> </div> <div class=\"text\"> <h2 data-idx=\"8\" name=\"event_detile\" class=\"event-opener\" style=\"color: #000;margin-bottom:0;\">Winter Break </h2> <span "
+      },
+      {
+        "target": "div > div > div > div:nth-of-type(5) > a",
+        "text": "30 SEP TRUTH AND RECONCILIATION Holidays All Day",
+        "ariaLabel": "",
+        "title": "",
+        "href": "javascript:;",
+        "imgAlt": "",
+        "box": {
+          "x": 95,
+          "y": 1810.328125,
+          "w": 257,
+          "h": 83.59375
+        },
+        "context": "heading: WINTER BREAK | 30 SEP TRUTH AND RECONCILIATION Holidays All Day",
+        "contextKind": "block",
+        "html": "<a class=\"ci-item\" href=\"javascript:;\" tabindex=\"0\"> <div class=\"time\" data-idx=\"0\"> <strong class=\"dd\">30</strong> <strong class=\"month\"> Sep </strong> </div> <div class=\"text\"> <h2 data-idx=\"0\" name=\"event_detile\" class=\"event-opener\" style=\"color: #000;margin-bottom:0;\">Truth and Reconciliation</"
+      },
+      {
+        "target": "div > div > div > div:nth-of-type(6) > a",
+        "text": "12 OCT THANKSGIVING Holidays All Day",
+        "ariaLabel": "",
+        "title": "",
+        "href": "javascript:;",
+        "imgAlt": "",
+        "box": {
+          "x": 402,
+          "y": 1810.328125,
+          "w": 257,
+          "h": 83.59375
+        },
+        "context": "heading: TRUTH AND RECONCILIATION",
+        "contextKind": "heading-only",
+        "html": "<a class=\"ci-item\" href=\"javascript:;\" tabindex=\"0\"> <div class=\"time\" data-idx=\"1\"> <strong class=\"dd\">12</strong> <strong class=\"month\"> Oct </strong> </div> <div class=\"text\"> <h2 data-idx=\"1\" name=\"event_detile\" class=\"event-opener\" style=\"color: #000;margin-bottom:0;\">Thanksgiving</h2> <span cl"
+      },
+      {
+        "target": "div > div > div > div:nth-of-type(7) > a",
+        "text": "23 OCT CO-ORDINATED DAY Co-ordinated Day All Day",
+        "ariaLabel": "",
+        "title": "",
+        "href": "javascript:;",
+        "imgAlt": "",
+        "box": {
+          "x": 709,
+          "y": 1810.328125,
+          "w": 257,
+          "h": 83.59375
+        },
+        "context": "heading: THANKSGIVING | 23 OCT CO-ORDINATED DAY Co-ordinated Day All Day",
+        "contextKind": "block",
+        "html": "<a class=\"ci-item\" href=\"javascript:;\" tabindex=\"0\"> <div class=\"time\" data-idx=\"2\"> <strong class=\"dd\">23</strong> <strong class=\"month\"> Oct </strong> </div> <div class=\"text\"> <h2 data-idx=\"2\" name=\"event_detile\" class=\"event-opener\" style=\"color: #000;margin-bottom:0;\">Co-ordinated Day</h2> <spa"
+      },
+      {
+        "target": "div > div > div > div:nth-of-type(8) > a",
+        "text": "28 OCT CO-ORDINATED DAY Co-ordinated Day All Day",
+        "ariaLabel": "",
+        "title": "",
+        "href": "javascript:;",
+        "imgAlt": "",
+        "box": {
+          "x": 1016,
+          "y": 1810.328125,
+          "w": 257,
+          "h": 83.59375
+        },
+        "context": "heading: CO-ORDINATED DAY | 28 OCT CO-ORDINATED DAY Co-ordinated Day All Day",
+        "contextKind": "block",
+        "html": "<a class=\"ci-item\" href=\"javascript:;\" tabindex=\"0\"> <div class=\"time\" data-idx=\"3\"> <strong class=\"dd\">28</strong> <strong class=\"month\"> Oct </strong> </div> <div class=\"text\"> <h2 data-idx=\"3\" name=\"event_detile\" class=\"event-opener\" style=\"color: #000;margin-bottom:0;\">Co-ordinated Day</h2> <spa"
+      },
+      {
+        "target": "div > div > div > div:nth-of-type(9) > a",
+        "text": "11 NOV REMEMBRANCE DAY Holidays All Day",
+        "ariaLabel": "",
+        "title": "",
+        "href": "javascript:;",
+        "imgAlt": "",
+        "box": {
+          "x": 1323,
+          "y": 1810.328125,
+          "w": 257,
+          "h": 83.59375
+        },
+        "context": "heading: CO-ORDINATED DAY",
+        "contextKind": "heading-only",
+        "html": "<a class=\"ci-item\" href=\"javascript:;\" tabindex=\"-1\"> <div class=\"time\" data-idx=\"4\"> <strong class=\"dd\">11</strong> <strong class=\"month\"> Nov </strong> </div> <div class=\"text\"> <h2 data-idx=\"4\" name=\"event_detile\" class=\"event-opener\" style=\"color: #000;margin-bottom:0;\">Remembrance Day </h2> <sp"
+      },
+      {
+        "target": "div > div > div > div:nth-of-type(10) > a",
+        "text": "27 NOV CO-ORDINATED DAY Co-ordinated Day All Day",
+        "ariaLabel": "",
+        "title": "",
+        "href": "javascript:;",
+        "imgAlt": "",
+        "box": {
+          "x": 1630,
+          "y": 1810.328125,
+          "w": 257,
+          "h": 83.59375
+        },
+        "context": "heading: REMEMBRANCE DAY | 27 NOV CO-ORDINATED DAY Co-ordinated Day All Day",
+        "contextKind": "block",
+        "html": "<a class=\"ci-item\" href=\"javascript:;\" tabindex=\"-1\"> <div class=\"time\" data-idx=\"5\"> <strong class=\"dd\">27</strong> <strong class=\"month\"> Nov </strong> </div> <div class=\"text\"> <h2 data-idx=\"5\" name=\"event_detile\" class=\"event-opener\" style=\"color: #000;margin-bottom:0;\">Co-ordinated Day</h2> <sp"
+      },
+      {
+        "target": "div > div > div > div:nth-of-type(11) > a",
+        "text": "18 DEC EARLY DISMISSAL Early Dismissal All Day",
+        "ariaLabel": "",
+        "title": "",
+        "href": "javascript:;",
+        "imgAlt": "",
+        "box": {
+          "x": 1937,
+          "y": 1810.328125,
+          "w": 257,
+          "h": 83.59375
+        },
+        "context": "heading: CO-ORDINATED DAY | 18 DEC EARLY DISMISSAL Early Dismissal All Day",
+        "contextKind": "block",
+        "html": "<a class=\"ci-item\" href=\"javascript:;\" tabindex=\"-1\"> <div class=\"time\" data-idx=\"6\"> <strong class=\"dd\">18</strong> <strong class=\"month\"> Dec </strong> </div> <div class=\"text\"> <h2 data-idx=\"6\" name=\"event_detile\" class=\"event-opener\" style=\"color: #000;margin-bottom:0;\">Early Dismissal</h2> <spa"
+      },
+      {
+        "target": "div > div > div > div:nth-of-type(12) > a",
+        "text": "21 DEC WINTER BREAK Holidays 2:00 PM - 2:30 PM",
+        "ariaLabel": "",
+        "title": "",
+        "href": "javascript:;",
+        "imgAlt": "",
+        "box": {
+          "x": 2244,
+          "y": 1810.328125,
+          "w": 257,
+          "h": 83.59375
+        },
+        "context": "heading: EARLY DISMISSAL | 21 DEC WINTER BREAK Holidays 2:00 PM - 2:30 PM",
+        "contextKind": "block",
+        "html": "<a class=\"ci-item\" href=\"javascript:;\" tabindex=\"-1\"> <div class=\"time\" data-idx=\"7\"> <strong class=\"dd\">21</strong> <strong class=\"month\"> Dec </strong> </div> <div class=\"text\"> <h2 data-idx=\"7\" name=\"event_detile\" class=\"event-opener\" style=\"color: #000;margin-bottom:0;\">Winter Break </h2> <span "
+      },
+      {
+        "target": "div > div > div > div:nth-of-type(13) > a",
+        "text": "22 DEC WINTER BREAK Holidays 2:00 PM - 2:30 PM",
+        "ariaLabel": "",
+        "title": "",
+        "href": "javascript:;",
+        "imgAlt": "",
+        "box": {
+          "x": 2551,
+          "y": 1810.328125,
+          "w": 257,
+          "h": 83.59375
+        },
+        "context": "heading: WINTER BREAK | 22 DEC WINTER BREAK Holidays 2:00 PM - 2:30 PM",
+        "contextKind": "block",
+        "html": "<a class=\"ci-item\" href=\"javascript:;\" tabindex=\"-1\"> <div class=\"time\" data-idx=\"8\"> <strong class=\"dd\">22</strong> <strong class=\"month\"> Dec </strong> </div> <div class=\"text\"> <h2 data-idx=\"8\" name=\"event_detile\" class=\"event-opener\" style=\"color: #000;margin-bottom:0;\">Winter Break </h2> <span "
+      },
+      {
+        "target": "div > div > div > div:nth-of-type(14) > a",
+        "text": "30 SEP TRUTH AND RECONCILIATION Holidays All Day",
+        "ariaLabel": "",
+        "title": "",
+        "href": "javascript:;",
+        "imgAlt": "",
+        "box": {
+          "x": 2858,
+          "y": 1810.328125,
+          "w": 257,
+          "h": 83.59375
+        },
+        "context": "heading: WINTER BREAK | 30 SEP TRUTH AND RECONCILIATION Holidays All Day",
+        "contextKind": "block",
+        "html": "<a class=\"ci-item\" href=\"javascript:;\" tabindex=\"-1\"> <div class=\"time\" data-idx=\"0\"> <strong class=\"dd\">30</strong> <strong class=\"month\"> Sep </strong> </div> <div class=\"text\"> <h2 data-idx=\"0\" name=\"event_detile\" class=\"event-opener\" style=\"color: #000;margin-bottom:0;\">Truth and Reconciliation<"
+      },
+      {
+        "target": "div > div > div > div:nth-of-type(15) > a",
+        "text": "12 OCT THANKSGIVING Holidays All Day",
+        "ariaLabel": "",
+        "title": "",
+        "href": "javascript:;",
+        "imgAlt": "",
+        "box": {
+          "x": 3165,
+          "y": 1810.328125,
+          "w": 257,
+          "h": 83.59375
+        },
+        "context": "heading: TRUTH AND RECONCILIATION",
+        "contextKind": "heading-only",
+        "html": "<a class=\"ci-item\" href=\"javascript:;\" tabindex=\"-1\"> <div class=\"time\" data-idx=\"1\"> <strong class=\"dd\">12</strong> <strong class=\"month\"> Oct </strong> </div> <div class=\"text\"> <h2 data-idx=\"1\" name=\"event_detile\" class=\"event-opener\" style=\"color: #000;margin-bottom:0;\">Thanksgiving</h2> <span c"
+      },
+      {
+        "target": "div > div > div > div:nth-of-type(16) > a",
+        "text": "23 OCT CO-ORDINATED DAY Co-ordinated Day All Day",
+        "ariaLabel": "",
+        "title": "",
+        "href": "javascript:;",
+        "imgAlt": "",
+        "box": {
+          "x": 3472,
+          "y": 1810.328125,
+          "w": 257,
+          "h": 83.59375
+        },
+        "context": "heading: THANKSGIVING | 23 OCT CO-ORDINATED DAY Co-ordinated Day All Day",
+        "contextKind": "block",
+        "html": "<a class=\"ci-item\" href=\"javascript:;\" tabindex=\"-1\"> <div class=\"time\" data-idx=\"2\"> <strong class=\"dd\">23</strong> <strong class=\"month\"> Oct </strong> </div> <div class=\"text\"> <h2 data-idx=\"2\" name=\"event_detile\" class=\"event-opener\" style=\"color: #000;margin-bottom:0;\">Co-ordinated Day</h2> <sp"
+      },
+      {
+        "target": "div > div > div > div:nth-of-type(17) > a",
+        "text": "28 OCT CO-ORDINATED DAY Co-ordinated Day All Day",
+        "ariaLabel": "",
+        "title": "",
+        "href": "javascript:;",
+        "imgAlt": "",
+        "box": {
+          "x": 3779,
+          "y": 1810.328125,
+          "w": 257,
+          "h": 83.59375
+        },
+        "context": "heading: CO-ORDINATED DAY | 28 OCT CO-ORDINATED DAY Co-ordinated Day All Day",
+        "contextKind": "block",
+        "html": "<a class=\"ci-item\" href=\"javascript:;\" tabindex=\"-1\"> <div class=\"time\" data-idx=\"3\"> <strong class=\"dd\">28</strong> <strong class=\"month\"> Oct </strong> </div> <div class=\"text\"> <h2 data-idx=\"3\" name=\"event_detile\" class=\"event-opener\" style=\"color: #000;margin-bottom:0;\">Co-ordinated Day</h2> <sp"
+      },
+      {
+        "target": "div > div > div > div:nth-of-type(18) > a",
+        "text": "11 NOV REMEMBRANCE DAY Holidays All Day",
+        "ariaLabel": "",
+        "title": "",
+        "href": "javascript:;",
+        "imgAlt": "",
+        "box": {
+          "x": 4086,
+          "y": 1810.328125,
+          "w": 257,
+          "h": 83.59375
+        },
+        "context": "heading: CO-ORDINATED DAY",
+        "contextKind": "heading-only",
+        "html": "<a class=\"ci-item\" href=\"javascript:;\" tabindex=\"-1\"> <div class=\"time\" data-idx=\"4\"> <strong class=\"dd\">11</strong> <strong class=\"month\"> Nov </strong> </div> <div class=\"text\"> <h2 data-idx=\"4\" name=\"event_detile\" class=\"event-opener\" style=\"color: #000;margin-bottom:0;\">Remembrance Day </h2> <sp"
+      },
+      {
+        "target": "div > div > div > div:nth-of-type(19) > a",
+        "text": "27 NOV CO-ORDINATED DAY Co-ordinated Day All Day",
+        "ariaLabel": "",
+        "title": "",
+        "href": "javascript:;",
+        "imgAlt": "",
+        "box": {
+          "x": 4393,
+          "y": 1810.328125,
+          "w": 257,
+          "h": 83.59375
+        },
+        "context": "heading: REMEMBRANCE DAY | 27 NOV CO-ORDINATED DAY Co-ordinated Day All Day",
+        "contextKind": "block",
+        "html": "<a class=\"ci-item\" href=\"javascript:;\" tabindex=\"-1\"> <div class=\"time\" data-idx=\"5\"> <strong class=\"dd\">27</strong> <strong class=\"month\"> Nov </strong> </div> <div class=\"text\"> <h2 data-idx=\"5\" name=\"event_detile\" class=\"event-opener\" style=\"color: #000;margin-bottom:0;\">Co-ordinated Day</h2> <sp"
+      },
+      {
+        "target": "div > div > div > div:nth-of-type(20) > a",
+        "text": "18 DEC EARLY DISMISSAL Early Dismissal All Day",
+        "ariaLabel": "",
+        "title": "",
+        "href": "javascript:;",
+        "imgAlt": "",
+        "box": {
+          "x": 4700,
+          "y": 1810.328125,
+          "w": 257,
+          "h": 83.59375
+        },
+        "context": "heading: CO-ORDINATED DAY | 18 DEC EARLY DISMISSAL Early Dismissal All Day",
+        "contextKind": "block",
+        "html": "<a class=\"ci-item\" href=\"javascript:;\" tabindex=\"-1\"> <div class=\"time\" data-idx=\"6\"> <strong class=\"dd\">18</strong> <strong class=\"month\"> Dec </strong> </div> <div class=\"text\"> <h2 data-idx=\"6\" name=\"event_detile\" class=\"event-opener\" style=\"color: #000;margin-bottom:0;\">Early Dismissal</h2> <spa"
+      },
+      {
+        "target": "div > div > div > div:nth-of-type(21) > a",
+        "text": "21 DEC WINTER BREAK Holidays 2:00 PM - 2:30 PM",
+        "ariaLabel": "",
+        "title": "",
+        "href": "javascript:;",
+        "imgAlt": "",
+        "box": {
+          "x": 5007,
+          "y": 1810.328125,
+          "w": 257,
+          "h": 83.59375
+        },
+        "context": "heading: EARLY DISMISSAL | 21 DEC WINTER BREAK Holidays 2:00 PM - 2:30 PM",
+        "contextKind": "block",
+        "html": "<a class=\"ci-item\" href=\"javascript:;\" tabindex=\"-1\"> <div class=\"time\" data-idx=\"7\"> <strong class=\"dd\">21</strong> <strong class=\"month\"> Dec </strong> </div> <div class=\"text\"> <h2 data-idx=\"7\" name=\"event_detile\" class=\"event-opener\" style=\"color: #000;margin-bottom:0;\">Winter Break </h2> <span "
+      },
+      {
+        "target": "div > div > div > div:nth-of-type(22) > a",
+        "text": "22 DEC WINTER BREAK Holidays 2:00 PM - 2:30 PM",
+        "ariaLabel": "",
+        "title": "",
+        "href": "javascript:;",
+        "imgAlt": "",
+        "box": {
+          "x": 5314,
+          "y": 1810.328125,
+          "w": 257,
+          "h": 83.59375
+        },
+        "context": "heading: WINTER BREAK | 22 DEC WINTER BREAK Holidays 2:00 PM - 2:30 PM",
+        "contextKind": "block",
+        "html": "<a class=\"ci-item\" href=\"javascript:;\" tabindex=\"-1\"> <div class=\"time\" data-idx=\"8\"> <strong class=\"dd\">22</strong> <strong class=\"month\"> Dec </strong> </div> <div class=\"text\"> <h2 data-idx=\"8\" name=\"event_detile\" class=\"event-opener\" style=\"color: #000;margin-bottom:0;\">Winter Break </h2> <span "
+      },
+      {
+        "target": "section:nth-of-type(4) > div:nth-of-type(2) > div:nth-of-type(1) > div > a:nth-of-type(2)",
+        "text": "",
+        "ariaLabel": "Slick Next",
+        "title": "",
+        "href": "#",
+        "imgAlt": "",
+        "box": {
+          "x": 1296,
+          "y": 1776.890625,
+          "w": 60,
+          "h": 60
+        },
+        "context": "heading: WINTER BREAK",
+        "contextKind": "heading-only",
+        "html": "<a href=\"#\" class=\"ci-slick-next slick-arrow\" aria-label=\"Slick Next\" style=\"\"><svg class=\"icon arrow-icon\"><use xlink:href=\"#icon-next\"></use></svg></a>"
+      },
+      {
+        "target": "#main > section:nth-of-type(4) > div:nth-of-type(2) > div:nth-of-type(3) > a",
+        "text": "VIEW ALL EVENTS",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/calendar",
+        "imgAlt": "",
+        "box": {
+          "x": 588,
+          "y": 1963.921875,
+          "w": 230,
+          "h": 43.1875
+        },
+        "context": "heading: WINTER BREAK",
+        "contextKind": "heading-only",
+        "html": "<a href=\"/calendar\" class=\"btn btn-primary\">VIEW ALL EVENTS</a>"
+      },
+      {
+        "target": "section:nth-of-type(5) > div > div:nth-of-type(1) > h2 > a",
+        "text": "Follow Us",
+        "ariaLabel": "",
+        "title": "",
+        "href": "http://www.facebook.com/retsd",
+        "imgAlt": "",
+        "box": {
+          "x": 20,
+          "y": 2107.109375,
+          "w": 153.3125,
+          "h": 46
+        },
+        "context": "heading: Follow Us",
+        "contextKind": "heading-only",
+        "html": "<a href=\"http://www.facebook.com/retsd\" target=\"_blank\" style=\"font-size: 3.8rem;font-weight: bold;\">Follow Us</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(3) > div > div > a",
+        "text": "River East Transcona School Division",
+        "ariaLabel": "",
+        "title": "",
+        "href": "http://www.facebook.com/retsd",
+        "imgAlt": "",
+        "box": {
+          "x": 40,
+          "y": 2257.59375,
+          "w": 239.8125,
+          "h": 19
+        },
+        "context": "heading: Follow Us",
+        "contextKind": "heading-only",
+        "html": "<a href=\"http://www.facebook.com/retsd\" target=\"_blank\">River East Transcona School Division</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(3) > div > div > a",
+        "text": "River East Transcona School Division",
+        "ariaLabel": "",
+        "title": "",
+        "href": "http://www.facebook.com/retsd",
+        "imgAlt": "",
+        "box": {
+          "x": 378,
+          "y": 2257.59375,
+          "w": 239.8125,
+          "h": 19
+        },
+        "context": "heading: Follow Us",
+        "contextKind": "heading-only",
+        "html": "<a href=\"http://www.facebook.com/retsd\" target=\"_blank\">River East Transcona School Division</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div > div:nth-of-type(3) > p > a",
+        "text": "https://www.retsd.mb.ca/kinder-links.",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.retsd.mb.ca/kinder-links.",
+        "imgAlt": "",
+        "box": {
+          "x": 378,
+          "y": 2916.59375,
+          "w": 249,
+          "h": 19
+        },
+        "context": "Kinder Links programs provide young families with children (birth to age five) with opportunities to play, learn, and connect with each other. These FREE parent-child programs feature fun, educational",
+        "contextKind": "p",
+        "html": "<a target=\"_blank\" href=\"https://www.retsd.mb.ca/kinder-links.\">https://www.retsd.mb.ca/kinder-links.</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(3) > div > div > a",
+        "text": "River East Transcona School Division",
+        "ariaLabel": "",
+        "title": "",
+        "href": "http://www.facebook.com/retsd",
+        "imgAlt": "",
+        "box": {
+          "x": 716,
+          "y": 2257.59375,
+          "w": 239.8125,
+          "h": 19
+        },
+        "context": "heading: Follow Us",
+        "contextKind": "heading-only",
+        "html": "<a href=\"http://www.facebook.com/retsd\" target=\"_blank\">River East Transcona School Division</a>"
+      },
+      {
+        "target": "div:nth-of-type(3) > div > div:nth-of-type(3) > p > a",
+        "text": "#RailSafetyWeek",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.facebook.com/hashtag/RailSafetyWeek ",
+        "imgAlt": "",
+        "box": {
+          "x": 827.96875,
+          "y": 2496.59375,
+          "w": 112.015625,
+          "h": 19
+        },
+        "context": "Trains are faster than you think. You won’t necessarily hear or feel one coming if you’re walking along the tracks. The best way to avoid being hit by a train is to stay away from train tracks and to ",
+        "contextKind": "p",
+        "html": "<a target=\"_blank\" href=\"https://www.facebook.com/hashtag/RailSafetyWeek \">#RailSafetyWeek </a>"
+      },
+      {
+        "target": "div > div:nth-of-type(3) > div > div > a",
+        "text": "River East Transcona School Division",
+        "ariaLabel": "",
+        "title": "",
+        "href": "http://www.facebook.com/retsd",
+        "imgAlt": "",
+        "box": {
+          "x": 1054,
+          "y": 2257.59375,
+          "w": 239.8125,
+          "h": 19
+        },
+        "context": "heading: Follow Us",
+        "contextKind": "heading-only",
+        "html": "<a href=\"http://www.facebook.com/retsd\" target=\"_blank\">River East Transcona School Division</a>"
+      },
+      {
+        "target": "div:nth-of-type(4) > div > div:nth-of-type(3) > p > a:nth-of-type(1)",
+        "text": "#DemocracyDay",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.facebook.com/hashtag/DemocracyDay ",
+        "imgAlt": "",
+        "box": {
+          "x": 1190.65625,
+          "y": 2468.59375,
+          "w": 105.140625,
+          "h": 19
+        },
+        "context": "On International Day of Democracy, we celebrate the power of voice and participation. In our classrooms, students learn that listening, empathy, and collaboration are at the heart of strong communitie",
+        "contextKind": "p",
+        "html": "<a target=\"_blank\" href=\"https://www.facebook.com/hashtag/DemocracyDay \">#DemocracyDay </a>"
+      },
+      {
+        "target": "div:nth-of-type(4) > div > div:nth-of-type(3) > p > a:nth-of-type(2)",
+        "text": "#StudentVoice",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.facebook.com/hashtag/StudentVoice",
+        "imgAlt": "",
+        "box": {
+          "x": 1054,
+          "y": 2496.59375,
+          "w": 94.3125,
+          "h": 19
+        },
+        "context": "On International Day of Democracy, we celebrate the power of voice and participation. In our classrooms, students learn that listening, empathy, and collaboration are at the heart of strong communitie",
+        "contextKind": "p",
+        "html": "<a target=\"_blank\" href=\"https://www.facebook.com/hashtag/StudentVoice\">#StudentVoice</a>"
+      },
+      {
+        "target": "#footer > div:nth-of-type(1) > div > div:nth-of-type(1) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/",
+        "imgAlt": "River East Transcona School Division",
+        "box": {
+          "x": 18,
+          "y": 2667.59375,
+          "w": 307,
+          "h": 98.375
+        },
+        "context": "heading: Follow Us",
+        "contextKind": "heading-only",
+        "html": "<a href=\"/\"> <img src=\"https://sb45storage.blob.core.windows.net/pub/themes/Retsd/images/board-logo-max.png\" width=\"1086\" height=\"348\" style=\"width:307px;height:auto;\" alt=\"River East Transcona School Division\"> </a>"
+      },
+      {
+        "target": "div:nth-of-type(1) > div > div:nth-of-type(2) > div:nth-of-type(1) > a",
+        "text": "View Map",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.google.com/maps/place/589+Roch+St,+Winnipeg,+MB+R2K+2P7/@49.9198912,-97.1029396,17z/data=!3m1!4b1!4m5!3m4!1s0x52ea70fe7fac3f3f:0xd5efb38c1a6317f9!8m2!3d49.9198878!4d-97.1007509",
+        "imgAlt": "",
+        "box": {
+          "x": 70,
+          "y": 2920.96875,
+          "w": 57.265625,
+          "h": 17
+        },
+        "context": "heading: Follow Us | GET IN TOUCH ADMINISTRATION OFFICES 589 Roch St., Winnipeg, MB, R2K 2P7 View Map Phone: 204.667.7130 Fax: 204.661.5618 Office Hours: Sept–June: 8:30 a.m. – 4:30 p.m. July–August: 8 a.m. – 3:30 p.m.",
+        "contextKind": "block",
+        "html": "<a style=\"font-size: 1.4rem;color:#004C85;\" href=\"https://www.google.com/maps/place/589+Roch+St,+Winnipeg,+MB+R2K+2P7/@49.9198912,-97.1029396,17z/data=!3m1!4b1!4m5!3m4!1s0x52ea70fe7fac3f3f:0xd5efb38c1a6317f9!8m2!3d49.9198878!4d-97.1007509\" class=\"link d-print-none\" target=\"_blank\">View Map</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div:nth-of-type(1) > ul > li:nth-of-type(1) > a",
+        "text": "204.667.7130",
+        "ariaLabel": "",
+        "title": "",
+        "href": "tel:204.667.7130",
+        "imgAlt": "",
+        "box": {
+          "x": 209,
+          "y": 2955.625,
+          "w": 78.4375,
+          "h": 16.796875
+        },
+        "context": "Phone: 204.667.7130",
+        "contextKind": "li",
+        "html": "<a href=\"tel:204.667.7130\">204.667.7130</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div:nth-of-type(1) > ul > li:nth-of-type(2) > a",
+        "text": "204.661.5618",
+        "ariaLabel": "",
+        "title": "",
+        "href": "fax:204.661.5618",
+        "imgAlt": "",
+        "box": {
+          "x": 209,
+          "y": 2982.421875,
+          "w": 78.4375,
+          "h": 16.796875
+        },
+        "context": "Fax: 204.661.5618",
+        "contextKind": "li",
+        "html": "<a href=\"fax:204.661.5618\">204.661.5618</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div:nth-of-type(1) > ul > li:nth-of-type(3) > a",
+        "text": "Sept–June: 8:30 a.m. – 4:30 p.m. July–August: 8 a.m. – 3:30 p.m.",
+        "ariaLabel": "",
+        "title": "",
+        "href": "javascript:;",
+        "imgAlt": "",
+        "box": {
+          "x": 209,
+          "y": 3009.21875,
+          "w": 188.78125,
+          "h": 33.59375
+        },
+        "context": "Office Hours: Sept–June: 8:30 a.m. – 4:30 p.m. July–August: 8 a.m. – 3:30 p.m.",
+        "contextKind": "li",
+        "html": "<a href=\"javascript:;\">Sept–June: 8:30 a.m. – 4:30 p.m.<br>July–August: 8 a.m. – 3:30 p.m.</a>"
+      },
+      {
+        "target": "div:nth-of-type(1) > div > div:nth-of-type(2) > div:nth-of-type(2) > a",
+        "text": "RETSD MOBILE APP",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/",
+        "imgAlt": "River East Transcona School Division",
+        "box": {
+          "x": 60,
+          "y": 3114.8125,
+          "w": 254.03125,
+          "h": 14
+        },
+        "context": "heading: Follow Us",
+        "contextKind": "heading-only",
+        "html": "<a href=\"/\"> <img src=\"https://sb45storage.blob.core.windows.net/pub/themes/Retsd/images/Footer_Mobile_App.svg\" width=\"58px\" height=\"58px\" alt=\"River East Transcona School Division\"> <span class=\"app-name\" style=\"font-size: 2.4rem;font-weight: bold;display: inline-block;padding-top: 8px;\">RETSD MOBI"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(1) > a",
+        "text": "",
+        "ariaLabel": "App Store",
+        "title": "",
+        "href": "https://apps.apple.com/tr/app/retsd/id1628491500?platform=iphone",
+        "imgAlt": "App Store",
+        "box": {
+          "x": 69,
+          "y": 3310.78125,
+          "w": 119.5625,
+          "h": 14
+        },
+        "context": "",
+        "contextKind": "li",
+        "html": "<a href=\"https://apps.apple.com/tr/app/retsd/id1628491500?platform=iphone\" target=\"_blank\" aria-label=\"App Store\"><img src=\"https://sb45storage.blob.core.windows.net/pub/themes/Retsd/images/App Store Badge.svg\" alt=\"App Store\"></a>"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(2) > a",
+        "text": "",
+        "ariaLabel": "Google Play",
+        "title": "",
+        "href": "https://play.google.com/store/apps/details?id=ca.schoolbundle.retsd",
+        "imgAlt": "Google Play",
+        "box": {
+          "x": 200.328125,
+          "y": 3310.78125,
+          "w": 154.984375,
+          "h": 14
+        },
+        "context": "",
+        "contextKind": "li",
+        "html": "<a href=\"https://play.google.com/store/apps/details?id=ca.schoolbundle.retsd\" target=\"_blank\" aria-label=\"Google Play\"><img src=\"https://sb45storage.blob.core.windows.net/pub/themes/Retsd/images/google-play-badge.svg\" style=\"margin-top:-10px;\" alt=\"Google Play\"></a>"
+      },
+      {
+        "target": "div:nth-of-type(3) > div:nth-of-type(2) > ul > li:nth-of-type(1) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.facebook.com/retsd",
+        "imgAlt": "facebook",
+        "box": {
+          "x": 499.328125,
+          "y": 3089.796875,
+          "w": 23,
+          "h": 14
+        },
+        "context": "",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.facebook.com/retsd\" target=\"_blank\"> <img src=\"https://sb45storage.blob.core.windows.net/pub/themes/Retsd/images/icon-facebook.svg?v=2\" style=\"width: ; height: ;\" alt=\"facebook\"> </a>"
+      },
+      {
+        "target": "div:nth-of-type(3) > div:nth-of-type(2) > ul > li:nth-of-type(2) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "http://www.vimeo.com/retsdvideo",
+        "imgAlt": "vimeo",
+        "box": {
+          "x": 540.328125,
+          "y": 3089.796875,
+          "w": 23,
+          "h": 14
+        },
+        "context": "",
+        "contextKind": "li",
+        "html": "<a href=\"http://www.vimeo.com/retsdvideo\" target=\"_blank\"> <img src=\"https://sb45storage.blob.core.windows.net/pub/themes/Retsd/images/icon-vimeo.svg?v=2\" style=\"width: ; height: ;\" alt=\"vimeo\"> </a>"
+      },
+      {
+        "target": "div:nth-of-type(3) > div:nth-of-type(2) > ul > li:nth-of-type(3) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.instagram.com/retsdschools",
+        "imgAlt": "",
+        "box": {
+          "x": 581.328125,
+          "y": 3100.15625,
+          "w": 24,
+          "h": 14
+        },
+        "context": "",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.instagram.com/retsdschools\" target=\"_blank\"> <svg style=\"width: auto; height: 24px\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" width=\"64\" height=\"64\" fill=\"currentColor\"> <path d=\"M7 2C4.24 2 2 4.24 2 7v10c0 2.76 2.24 5 5 5h10c2.76 0 5-2.24 5-5V7c0-2.76-2.24-5-5-5H7z"
+      },
+      {
+        "target": "div > div:nth-of-type(1) > ul > li:nth-of-type(1) > a",
+        "text": "Privacy Policy",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/privacy-policy",
+        "imgAlt": "",
+        "box": {
+          "x": 339,
+          "y": 3398.765625,
+          "w": 71.125,
+          "h": 15
+        },
+        "context": "Privacy Policy",
+        "contextKind": "li",
+        "html": "<a href=\"/privacy-policy\" target=\"_self\" class=\"t_pb-f t_pd-f-h\">Privacy Policy</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(1) > ul > li:nth-of-type(2) > a",
+        "text": "Site Map",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/sitemap",
+        "imgAlt": "",
+        "box": {
+          "x": 444.125,
+          "y": 3398.765625,
+          "w": 46.765625,
+          "h": 15
+        },
+        "context": "Site Map",
+        "contextKind": "li",
+        "html": "<a href=\"/sitemap\" class=\"t_pb-f t_pd-f-h\">Site Map</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(1) > ul > li:nth-of-type(3) > a",
+        "text": "Office 365",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://login.microsoftonline.com/?whr=retsd.mb.ca",
+        "imgAlt": "",
+        "box": {
+          "x": 539.890625,
+          "y": 3398.765625,
+          "w": 53.78125,
+          "h": 15
+        },
+        "context": "Office 365",
+        "contextKind": "li",
+        "html": "<a href=\"https://login.microsoftonline.com/?whr=retsd.mb.ca\" target=\"'_blank\" class=\"t_pb-f t_pd-f-h\">Office 365</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(1) > ul > li:nth-of-type(4) > a",
+        "text": "Staff—The HUB",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://retsdca.sharepoint.com/",
+        "imgAlt": "",
+        "box": {
+          "x": 642.671875,
+          "y": 3398.765625,
+          "w": 81.765625,
+          "h": 15
+        },
+        "context": "Staff—The HUB",
+        "contextKind": "li",
+        "html": "<a href=\"https://retsdca.sharepoint.com/\" target=\"'_blank\" class=\"t_pb-f t_pd-f-h\">Staff—The HUB</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(1) > ul > li:nth-of-type(5) > a",
+        "text": "Reset Password",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://ssrpm.retsd.mb.ca/",
+        "imgAlt": "",
+        "box": {
+          "x": 773.4375,
+          "y": 3398.765625,
+          "w": 82.0625,
+          "h": 15
+        },
+        "context": "Reset Password",
+        "contextKind": "li",
+        "html": "<a href=\"https://ssrpm.retsd.mb.ca/\" target=\"'_blank\" class=\"t_pb-f t_pd-f-h\">Reset Password</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(1) > ul > li:nth-of-type(6) > a",
+        "text": "Website Administration",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://sitegovern.retsd.mb.ca",
+        "imgAlt": "",
+        "box": {
+          "x": 904.5,
+          "y": 3398.765625,
+          "w": 124.15625,
+          "h": 15
+        },
+        "context": "Website Administration",
+        "contextKind": "li",
+        "html": "<a href=\"https://sitegovern.retsd.mb.ca\" target=\"'_blank\" class=\"t_pb-f t_pd-f-h\">Website Administration</a>"
+      },
+      {
+        "target": "#footer > div:nth-of-type(2) > div > div:nth-of-type(2) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "http://www.schoolbundle.ca/",
+        "imgAlt": "SchoolBundle",
+        "box": {
+          "x": 1235,
+          "y": 3398.765625,
+          "w": 113,
+          "h": 15
+        },
+        "context": "heading: Follow Us | ©2025 RETSD. All rights reserved. Privacy Policy Site Map Office 365 Staff—The HUB Reset Password Website Administration",
+        "contextKind": "block",
+        "html": "<a href=\"http://www.schoolbundle.ca/\" target=\"_blank\"> <img src=\"https://sb45storage.blob.core.windows.net/pub/themes/Retsd/images/sb-logo.svg\" width=\"113\" height=\"15\" alt=\"SchoolBundle\"> </a>"
+      }
+    ],
+    "headings": [
+      {
+        "target": "#slick-slide00 > div:nth-of-type(2) > h1",
+        "level": 1,
+        "text": "Free Transit Services for Youth",
+        "visible": true,
+        "box": {
+          "x": 30,
+          "y": 485.046875,
+          "w": 400.78125,
+          "h": 42
+        },
+        "html": "<h1><a href=\"/free-transit-services-for-youth.37224\" tabindex=\"-1\">Free Transit Services for Youth</a></h1>"
+      },
+      {
+        "target": "#slick-slide01 > div:nth-of-type(2) > h1",
+        "level": 1,
+        "text": "2026 School Trustee Elections",
+        "visible": true,
+        "box": {
+          "x": 30,
+          "y": 485.046875,
+          "w": 400.78125,
+          "h": 42
+        },
+        "html": "<h1><a href=\"/2026-school-trustee-elections.36815\" tabindex=\"0\">2026 School Trustee Elections</a></h1>"
+      },
+      {
+        "target": "#slick-slide02 > div:nth-of-type(2) > h1",
+        "level": 1,
+        "text": "River East Transcona School Division Land Statement",
+        "visible": true,
+        "box": {
+          "x": 30,
+          "y": 485.046875,
+          "w": 400.78125,
+          "h": 84
+        },
+        "html": "<h1><a href=\"/river-east-transcona-school-division-land-statement.6989\" tabindex=\"-1\">River East Transcona School Division Land Statement </a></h1>"
+      },
+      {
+        "target": "#slick-slide03 > div:nth-of-type(2) > h1",
+        "level": 1,
+        "text": "School Registration for Newcomer Families",
+        "visible": true,
+        "box": {
+          "x": 30,
+          "y": 485.046875,
+          "w": 400.78125,
+          "h": 84
+        },
+        "html": "<h1><a href=\"/school-registration-for-newcomer-families\" tabindex=\"-1\">School Registration for Newcomer Families</a></h1>"
+      },
+      {
+        "target": "#main > section:nth-of-type(3) > div > div:nth-of-type(1) > h2",
+        "level": 2,
+        "text": "News & Announcements",
+        "visible": true,
+        "box": {
+          "x": 20,
+          "y": 1218.578125,
+          "w": 389.640625,
+          "h": 47.5
+        },
+        "html": "<h2>News &amp; Announcements</h2>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div:nth-of-type(1) > div > div:nth-of-type(2) > h2",
+        "level": 2,
+        "text": "REPORTING TO THE COMMISSIONER OF TEACHER PROFESSIONAL CONDUCT",
+        "visible": true,
+        "box": {
+          "x": 21,
+          "y": 1360.734375,
+          "w": 293.5,
+          "h": 80
+        },
+        "html": "<h2><a href=\"/office-of-the-commissioner-of-teacher-professional-conduct.33265\">Reporting to the Commissioner of Teacher Professional Conduct</a></h2>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div:nth-of-type(2) > div > div:nth-of-type(2) > h2",
+        "level": 2,
+        "text": "ESSENTIAL CONTEXT NEEDED WHEN DISCUSSING SCHOOL TAXES",
+        "visible": true,
+        "box": {
+          "x": 364.5,
+          "y": 1360.734375,
+          "w": 293.5,
+          "h": 80
+        },
+        "html": "<h2><a href=\"/essential-context-needed-when-discussing-school-taxes.35970\">Essential Context Needed When Discussing School taxes</a></h2>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div:nth-of-type(3) > div > div:nth-of-type(2) > h2",
+        "level": 2,
+        "text": "ALL ABOARD FOR SAFETY: THE COMMUNITY OF CARING BEHIND STUDENT TRANSPORTATION",
+        "visible": true,
+        "box": {
+          "x": 708,
+          "y": 1360.734375,
+          "w": 293.5,
+          "h": 80
+        },
+        "html": "<h2><a href=\"/all-aboard-for-safety-the-community-of-caring-behind-student-transportation.37480\">All Aboard for Safety: The Community of Caring Behind Student Transportation</a></h2>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div:nth-of-type(4) > div > div:nth-of-type(2) > h2",
+        "level": 2,
+        "text": "KODIAKS GET SUPPORT ON THE TRAIL FROM THE FWEF",
+        "visible": true,
+        "box": {
+          "x": 1051.5,
+          "y": 1360.734375,
+          "w": 293.5,
+          "h": 80
+        },
+        "html": "<h2><a href=\"/kodiaks-get-support-on-the-trail-from-the-fwef.36434\">Kodiaks get support on the Trail from the FWEF</a></h2>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div:nth-of-type(5) > div > div:nth-of-type(2) > h2",
+        "level": 2,
+        "text": "ROOTED IN RECONCILIATION: GRADE 10 TRANSCONA COLLEGIATE STUDENTS TRANSFORM DISAPPOINTMENT INTO PURPOSE",
+        "visible": true,
+        "box": {
+          "x": 21,
+          "y": 1531.265625,
+          "w": 293.5,
+          "h": 80
+        },
+        "html": "<h2><a href=\"/rooted-in-reconciliation--grade-10-transcona-collegiate-students-transform-disappointment-into-purpose.36117\">Rooted in Reconciliation: Grade 10 Transcona Collegiate Students Transform Disappointment into Purpose</a></h2>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div:nth-of-type(6) > div > div:nth-of-type(2) > h2",
+        "level": 2,
+        "text": "HIRING EXPO: NOW HIRING SCHOOL BUS DRIVERS",
+        "visible": true,
+        "box": {
+          "x": 364.5,
+          "y": 1531.265625,
+          "w": 293.5,
+          "h": 80
+        },
+        "html": "<h2><a href=\"/hiring-expo--now-hiring-school-bus-drivers.36106\">Hiring Expo: Now Hiring School Bus Drivers</a></h2>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div:nth-of-type(7) > div > div:nth-of-type(2) > h2",
+        "level": 2,
+        "text": "FINDING THEIR ENGLISH VOICES: EAL STUDENTS FROM SENIOR YEARS SCHOOLS CONNECT FOR A DAY OF LEARNING, LAUGHTER, AND LYRICS",
+        "visible": true,
+        "box": {
+          "x": 708,
+          "y": 1531.265625,
+          "w": 293.5,
+          "h": 80
+        },
+        "html": "<h2><a href=\"/finding-their-english-voices-eal-students-from-senior-years-schools-connect-for-a-day-of-learning-laughter-and-lyrics.35959\">Finding Their English Voices: EAL Students from Senior Years Schools Connect for a Day of Learning, Laughter, and Lyrics</a></h2>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div:nth-of-type(8) > div > div:nth-of-type(2) > h2",
+        "level": 2,
+        "text": "IN APPRECIATION AWARD PRESENTED TO THE JOHNSON FAMILY",
+        "visible": true,
+        "box": {
+          "x": 1051.5,
+          "y": 1531.265625,
+          "w": 293.5,
+          "h": 80
+        },
+        "html": "<h2><a href=\"/in-appreciation-award-presented-to-the-johnson-family.35824\">In Appreciation Award Presented to the Johnson Family</a></h2>"
+      },
+      {
+        "target": "#main > section:nth-of-type(4) > div:nth-of-type(1) > h1",
+        "level": 1,
+        "text": "Upcoming Events",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h1>Upcoming Events</h1>"
+      },
+      {
+        "target": "div:nth-of-type(1) > div:nth-of-type(1) > a > div:nth-of-type(2) > h2",
+        "level": 2,
+        "text": "Truth and Reconciliation",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h2 data-idx=\"0\" name=\"event_detile\" class=\"event-opener\" style=\"color: #000;margin-bottom:0;\">Truth and Reconciliation</h2>"
+      },
+      {
+        "target": "div:nth-of-type(1) > div:nth-of-type(2) > a > div:nth-of-type(2) > h2",
+        "level": 2,
+        "text": "Thanksgiving",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h2 data-idx=\"1\" name=\"event_detile\" class=\"event-opener\" style=\"color: #000;margin-bottom:0;\">Thanksgiving</h2>"
+      },
+      {
+        "target": "div:nth-of-type(1) > div:nth-of-type(3) > a > div:nth-of-type(2) > h2",
+        "level": 2,
+        "text": "Co-ordinated Day",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h2 data-idx=\"2\" name=\"event_detile\" class=\"event-opener\" style=\"color: #000;margin-bottom:0;\">Co-ordinated Day</h2>"
+      },
+      {
+        "target": "div:nth-of-type(1) > div:nth-of-type(4) > a > div:nth-of-type(2) > h2",
+        "level": 2,
+        "text": "Co-ordinated Day",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h2 data-idx=\"3\" name=\"event_detile\" class=\"event-opener\" style=\"color: #000;margin-bottom:0;\">Co-ordinated Day</h2>"
+      },
+      {
+        "target": "#main > section:nth-of-type(4) > div:nth-of-type(2) > h1",
+        "level": 1,
+        "text": "Upcoming Events",
+        "visible": true,
+        "box": {
+          "x": 20,
+          "y": 1739.140625,
+          "w": 1326,
+          "h": 43.1875
+        },
+        "html": "<h1>Upcoming Events</h1>"
+      },
+      {
+        "target": "div > div:nth-of-type(1) > a > div:nth-of-type(2) > h2",
+        "level": 2,
+        "text": "CO-ORDINATED DAY",
+        "visible": true,
+        "box": {
+          "x": -1013,
+          "y": 1816.328125,
+          "w": 112,
+          "h": 33.59375
+        },
+        "html": "<h2 data-idx=\"5\" name=\"event_detile\" class=\"event-opener\" style=\"color: #000;margin-bottom:0;\">Co-ordinated Day</h2>"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > a > div:nth-of-type(2) > h2",
+        "level": 2,
+        "text": "EARLY DISMISSAL",
+        "visible": true,
+        "box": {
+          "x": -706,
+          "y": 1816.328125,
+          "w": 112,
+          "h": 33.59375
+        },
+        "html": "<h2 data-idx=\"6\" name=\"event_detile\" class=\"event-opener\" style=\"color: #000;margin-bottom:0;\">Early Dismissal</h2>"
+      },
+      {
+        "target": "div > div:nth-of-type(3) > a > div:nth-of-type(2) > h2",
+        "level": 2,
+        "text": "WINTER BREAK",
+        "visible": true,
+        "box": {
+          "x": -399,
+          "y": 1816.328125,
+          "w": 112,
+          "h": 33.59375
+        },
+        "html": "<h2 data-idx=\"7\" name=\"event_detile\" class=\"event-opener\" style=\"color: #000;margin-bottom:0;\">Winter Break </h2>"
+      },
+      {
+        "target": "div > div:nth-of-type(4) > a > div:nth-of-type(2) > h2",
+        "level": 2,
+        "text": "WINTER BREAK",
+        "visible": true,
+        "box": {
+          "x": -92,
+          "y": 1816.328125,
+          "w": 112,
+          "h": 33.59375
+        },
+        "html": "<h2 data-idx=\"8\" name=\"event_detile\" class=\"event-opener\" style=\"color: #000;margin-bottom:0;\">Winter Break </h2>"
+      },
+      {
+        "target": "div > div:nth-of-type(5) > a > div:nth-of-type(2) > h2",
+        "level": 2,
+        "text": "TRUTH AND RECONCILIATION",
+        "visible": true,
+        "box": {
+          "x": 215,
+          "y": 1816.328125,
+          "w": 112,
+          "h": 33.59375
+        },
+        "html": "<h2 data-idx=\"0\" name=\"event_detile\" class=\"event-opener\" style=\"color: #000;margin-bottom:0;\">Truth and Reconciliation</h2>"
+      },
+      {
+        "target": "div > div:nth-of-type(6) > a > div:nth-of-type(2) > h2",
+        "level": 2,
+        "text": "THANKSGIVING",
+        "visible": true,
+        "box": {
+          "x": 522,
+          "y": 1816.328125,
+          "w": 112,
+          "h": 33.59375
+        },
+        "html": "<h2 data-idx=\"1\" name=\"event_detile\" class=\"event-opener\" style=\"color: #000;margin-bottom:0;\">Thanksgiving</h2>"
+      },
+      {
+        "target": "div > div:nth-of-type(7) > a > div:nth-of-type(2) > h2",
+        "level": 2,
+        "text": "CO-ORDINATED DAY",
+        "visible": true,
+        "box": {
+          "x": 829,
+          "y": 1816.328125,
+          "w": 112,
+          "h": 33.59375
+        },
+        "html": "<h2 data-idx=\"2\" name=\"event_detile\" class=\"event-opener\" style=\"color: #000;margin-bottom:0;\">Co-ordinated Day</h2>"
+      },
+      {
+        "target": "div > div:nth-of-type(8) > a > div:nth-of-type(2) > h2",
+        "level": 2,
+        "text": "CO-ORDINATED DAY",
+        "visible": true,
+        "box": {
+          "x": 1136,
+          "y": 1816.328125,
+          "w": 112,
+          "h": 33.59375
+        },
+        "html": "<h2 data-idx=\"3\" name=\"event_detile\" class=\"event-opener\" style=\"color: #000;margin-bottom:0;\">Co-ordinated Day</h2>"
+      },
+      {
+        "target": "div > div:nth-of-type(9) > a > div:nth-of-type(2) > h2",
+        "level": 2,
+        "text": "REMEMBRANCE DAY",
+        "visible": true,
+        "box": {
+          "x": 1443,
+          "y": 1816.328125,
+          "w": 112,
+          "h": 33.59375
+        },
+        "html": "<h2 data-idx=\"4\" name=\"event_detile\" class=\"event-opener\" style=\"color: #000;margin-bottom:0;\">Remembrance Day </h2>"
+      },
+      {
+        "target": "div > div:nth-of-type(10) > a > div:nth-of-type(2) > h2",
+        "level": 2,
+        "text": "CO-ORDINATED DAY",
+        "visible": true,
+        "box": {
+          "x": 1750,
+          "y": 1816.328125,
+          "w": 112,
+          "h": 33.59375
+        },
+        "html": "<h2 data-idx=\"5\" name=\"event_detile\" class=\"event-opener\" style=\"color: #000;margin-bottom:0;\">Co-ordinated Day</h2>"
+      },
+      {
+        "target": "div > div:nth-of-type(11) > a > div:nth-of-type(2) > h2",
+        "level": 2,
+        "text": "EARLY DISMISSAL",
+        "visible": true,
+        "box": {
+          "x": 2057,
+          "y": 1816.328125,
+          "w": 112,
+          "h": 33.59375
+        },
+        "html": "<h2 data-idx=\"6\" name=\"event_detile\" class=\"event-opener\" style=\"color: #000;margin-bottom:0;\">Early Dismissal</h2>"
+      },
+      {
+        "target": "div > div:nth-of-type(12) > a > div:nth-of-type(2) > h2",
+        "level": 2,
+        "text": "WINTER BREAK",
+        "visible": true,
+        "box": {
+          "x": 2364,
+          "y": 1816.328125,
+          "w": 112,
+          "h": 33.59375
+        },
+        "html": "<h2 data-idx=\"7\" name=\"event_detile\" class=\"event-opener\" style=\"color: #000;margin-bottom:0;\">Winter Break </h2>"
+      },
+      {
+        "target": "div > div:nth-of-type(13) > a > div:nth-of-type(2) > h2",
+        "level": 2,
+        "text": "WINTER BREAK",
+        "visible": true,
+        "box": {
+          "x": 2671,
+          "y": 1816.328125,
+          "w": 112,
+          "h": 33.59375
+        },
+        "html": "<h2 data-idx=\"8\" name=\"event_detile\" class=\"event-opener\" style=\"color: #000;margin-bottom:0;\">Winter Break </h2>"
+      },
+      {
+        "target": "div > div:nth-of-type(14) > a > div:nth-of-type(2) > h2",
+        "level": 2,
+        "text": "TRUTH AND RECONCILIATION",
+        "visible": true,
+        "box": {
+          "x": 2978,
+          "y": 1816.328125,
+          "w": 112,
+          "h": 33.59375
+        },
+        "html": "<h2 data-idx=\"0\" name=\"event_detile\" class=\"event-opener\" style=\"color: #000;margin-bottom:0;\">Truth and Reconciliation</h2>"
+      },
+      {
+        "target": "div > div:nth-of-type(15) > a > div:nth-of-type(2) > h2",
+        "level": 2,
+        "text": "THANKSGIVING",
+        "visible": true,
+        "box": {
+          "x": 3285,
+          "y": 1816.328125,
+          "w": 112,
+          "h": 33.59375
+        },
+        "html": "<h2 data-idx=\"1\" name=\"event_detile\" class=\"event-opener\" style=\"color: #000;margin-bottom:0;\">Thanksgiving</h2>"
+      },
+      {
+        "target": "div > div:nth-of-type(16) > a > div:nth-of-type(2) > h2",
+        "level": 2,
+        "text": "CO-ORDINATED DAY",
+        "visible": true,
+        "box": {
+          "x": 3592,
+          "y": 1816.328125,
+          "w": 112,
+          "h": 33.59375
+        },
+        "html": "<h2 data-idx=\"2\" name=\"event_detile\" class=\"event-opener\" style=\"color: #000;margin-bottom:0;\">Co-ordinated Day</h2>"
+      },
+      {
+        "target": "div > div:nth-of-type(17) > a > div:nth-of-type(2) > h2",
+        "level": 2,
+        "text": "CO-ORDINATED DAY",
+        "visible": true,
+        "box": {
+          "x": 3899,
+          "y": 1816.328125,
+          "w": 112,
+          "h": 33.59375
+        },
+        "html": "<h2 data-idx=\"3\" name=\"event_detile\" class=\"event-opener\" style=\"color: #000;margin-bottom:0;\">Co-ordinated Day</h2>"
+      },
+      {
+        "target": "div > div:nth-of-type(18) > a > div:nth-of-type(2) > h2",
+        "level": 2,
+        "text": "REMEMBRANCE DAY",
+        "visible": true,
+        "box": {
+          "x": 4206,
+          "y": 1816.328125,
+          "w": 112,
+          "h": 33.59375
+        },
+        "html": "<h2 data-idx=\"4\" name=\"event_detile\" class=\"event-opener\" style=\"color: #000;margin-bottom:0;\">Remembrance Day </h2>"
+      },
+      {
+        "target": "div > div:nth-of-type(19) > a > div:nth-of-type(2) > h2",
+        "level": 2,
+        "text": "CO-ORDINATED DAY",
+        "visible": true,
+        "box": {
+          "x": 4513,
+          "y": 1816.328125,
+          "w": 112,
+          "h": 33.59375
+        },
+        "html": "<h2 data-idx=\"5\" name=\"event_detile\" class=\"event-opener\" style=\"color: #000;margin-bottom:0;\">Co-ordinated Day</h2>"
+      },
+      {
+        "target": "div > div:nth-of-type(20) > a > div:nth-of-type(2) > h2",
+        "level": 2,
+        "text": "EARLY DISMISSAL",
+        "visible": true,
+        "box": {
+          "x": 4820,
+          "y": 1816.328125,
+          "w": 112,
+          "h": 33.59375
+        },
+        "html": "<h2 data-idx=\"6\" name=\"event_detile\" class=\"event-opener\" style=\"color: #000;margin-bottom:0;\">Early Dismissal</h2>"
+      },
+      {
+        "target": "div > div:nth-of-type(21) > a > div:nth-of-type(2) > h2",
+        "level": 2,
+        "text": "WINTER BREAK",
+        "visible": true,
+        "box": {
+          "x": 5127,
+          "y": 1816.328125,
+          "w": 112,
+          "h": 33.59375
+        },
+        "html": "<h2 data-idx=\"7\" name=\"event_detile\" class=\"event-opener\" style=\"color: #000;margin-bottom:0;\">Winter Break </h2>"
+      },
+      {
+        "target": "div > div:nth-of-type(22) > a > div:nth-of-type(2) > h2",
+        "level": 2,
+        "text": "WINTER BREAK",
+        "visible": true,
+        "box": {
+          "x": 5434,
+          "y": 1816.328125,
+          "w": 112,
+          "h": 33.59375
+        },
+        "html": "<h2 data-idx=\"8\" name=\"event_detile\" class=\"event-opener\" style=\"color: #000;margin-bottom:0;\">Winter Break </h2>"
+      },
+      {
+        "target": "#main > section:nth-of-type(5) > div > div:nth-of-type(1) > h2",
+        "level": 2,
+        "text": "Follow Us",
+        "visible": true,
+        "box": {
+          "x": 20,
+          "y": 2104.109375,
+          "w": 153.3125,
+          "h": 68.828125
+        },
+        "html": "<h2><a href=\"http://www.facebook.com/retsd\" target=\"_blank\" style=\"font-size: 3.8rem;font-weight: bold;\">Follow Us</a></h2>"
+      }
+    ],
+    "lang": "en",
+    "title": "River East Transcona School Division"
+  },
   "axe": {
     "violationRules": 1,
     "violationNodes": 2,

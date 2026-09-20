@@ -19,16 +19,1151 @@
     "width": 1366,
     "height": 900
   },
-  "scannedAt": "2026-09-19T06:25:01.562Z",
+  "scannedAt": "2026-09-19T23:57:17.721Z",
+  "content": {
+    "images": [
+      {
+        "target": "#custom_html-49 > div > a > img",
+        "tag": "img",
+        "src": "https://southernhealth.ca/files/logo-shss.png",
+        "alt": "Southern Health-Santé Sud logo",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "Southern Health-Santé Sud logo",
+        "naturalWidth": 166,
+        "naturalHeight": 110,
+        "box": {
+          "x": 181,
+          "y": 55.203125,
+          "w": 166,
+          "h": 110
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"/files/logo-shss.png\" title=\"Southern Health-Santé Sud logo\" alt=\"Southern Health-Santé Sud logo\">"
+      },
+      {
+        "target": "#depicter-1-element-483 > img",
+        "tag": "img",
+        "src": "https://southernhealth.ca/wp-content/uploads/dynacare-375x332.png",
+        "alt": "",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 375,
+        "naturalHeight": 332,
+        "box": {
+          "x": -516.53125,
+          "y": 312.953125,
+          "w": 266.796875,
+          "h": 236.20416259765625
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://southernhealth.ca/wp-content/uploads/dynacare-375x332.png\" alt=\"\" class=\"depicter-loaded\">"
+      },
+      {
+        "target": "#depicter-1-element-456 > img",
+        "tag": "img",
+        "src": "https://southernhealth.ca/wp-content/uploads/back-to-school-851x499.png",
+        "alt": "back to school",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 851,
+        "naturalHeight": 499,
+        "box": {
+          "x": 0,
+          "y": 253.203125,
+          "w": 605.4510498046875,
+          "h": 355.0177001953125
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://southernhealth.ca/wp-content/uploads/back-to-school-851x499.png\" alt=\"back to school\" class=\"depicter-loaded\">"
+      },
+      {
+        "target": "div:nth-of-type(1) > div > div > picture > img",
+        "tag": "img",
+        "src": "https://southernhealth.ca/wp-content/uploads/PHA2026-Cover.jpeg",
+        "alt": "alt=\"\"",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 5568,
+        "naturalHeight": 3712,
+        "box": {
+          "x": 1089,
+          "y": -157.125,
+          "w": 1920,
+          "h": 1279
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://southernhealth.ca/wp-content/uploads/PHA2026-Cover.jpeg\" data-ken-burns=\"{'scale':1.13,'duration':'5000','focalPoint':{'x':0.44,'y':0.45},'easing':'linear'}\" data-tablet-ken-burns=\"{'scale':1.61,'duration':'5000','focalPoint':{'x':0.44,'y':0.45},'easing':'linear'}\" data-mobile-ken-burns=\"{'scale':2.1,'duration':'5000','focalPoint':{'x':0.44,'y':0.45},'easing':'linear'}\" alt=\"alt="
+      },
+      {
+        "target": "#depicter-1-element-391 > img",
+        "tag": "img",
+        "src": "https://southernhealth.ca/wp-content/uploads/Important-377x226.png",
+        "alt": "",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 377,
+        "naturalHeight": 226,
+        "box": {
+          "x": 2809.29345703125,
+          "y": 320.0103759765625,
+          "w": 290.070556640625,
+          "h": 200.768798828125
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://southernhealth.ca/wp-content/uploads/Important-377x226.png\" alt=\"\" class=\"depicter-loaded\">"
+      },
+      {
+        "target": "div:nth-of-type(1) > div > div > picture > img",
+        "tag": "img",
+        "src": "https://southernhealth.ca/wp-content/uploads/@UnSi7EqQ1s3wIAI.jpg",
+        "alt": "",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 1920,
+        "naturalHeight": 1280,
+        "box": {
+          "x": 4098,
+          "y": 253.203125,
+          "w": 1366,
+          "h": 355.71875
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://southernhealth.ca/wp-content/uploads/@UnSi7EqQ1s3wIAI.jpg\" alt=\"\" data-object-fit=\"cover\" data-object-position=\"50% 50%\" style=\"object-fit: cover; object-position: 50% 50%;\">"
+      },
+      {
+        "target": "#depicter-1-element-412 > img",
+        "tag": "img",
+        "src": "https://southernhealth.ca/wp-content/uploads/SHSS-Logo-Wht-PNG-1-247x172.png",
+        "alt": "SH-SS logo",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 247,
+        "naturalHeight": 172,
+        "box": {
+          "x": 4146.375,
+          "y": 264.578125,
+          "w": 175.72998046875,
+          "h": 122.370849609375
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://southernhealth.ca/wp-content/uploads/SHSS-Logo-Wht-PNG-1-247x172.png\" alt=\"SH-SS logo\" class=\"depicter-loaded\">"
+      },
+      {
+        "target": "#depicter-1-element-419 > img",
+        "tag": "img",
+        "src": "https://southernhealth.ca/wp-content/uploads/calendar-icon-Recovered-69x80.png",
+        "alt": "",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 69,
+        "naturalHeight": 80,
+        "box": {
+          "x": 5123.921875,
+          "y": 261.734375,
+          "w": 49.0908203125,
+          "h": 56.916656494140625
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://southernhealth.ca/wp-content/uploads/calendar-icon-Recovered-69x80.png\" alt=\"\" class=\"depicter-loaded\">"
+      },
+      {
+        "target": "div:nth-of-type(1) > div > div > picture > img",
+        "tag": "img",
+        "src": "https://southernhealth.ca/wp-content/uploads/Digital-Front-Door.jpg",
+        "alt": "holding phone device",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 2440,
+        "naturalHeight": 723,
+        "box": {
+          "x": -4098,
+          "y": 253.203125,
+          "w": 1366,
+          "h": 355.71875
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://southernhealth.ca/wp-content/uploads/Digital-Front-Door.jpg\" alt=\"holding phone device\" data-object-fit=\"cover\" data-object-position=\"center bottom\" style=\"object-fit: cover; object-position: center bottom;\">"
+      },
+      {
+        "target": "#depicter-1-element-154 > img",
+        "tag": "img",
+        "src": "https://southernhealth.ca/wp-content/uploads/PDGH_Birds-Eye-View-Front-480560-578x328.jpg",
+        "alt": "Portage Regional Health Centre rendering of bird's eye view",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 578,
+        "naturalHeight": 328,
+        "box": {
+          "x": -2730.578125,
+          "y": 375.5625,
+          "w": 411.222900390625,
+          "h": 233.35833740234375
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "https://ow.ly/TISF50VLolU",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://southernhealth.ca/wp-content/uploads/PDGH_Birds-Eye-View-Front-480560-578x328.jpg\" alt=\"Portage Regional Health Centre rendering of bird's eye view\" class=\"depicter-loaded\">"
+      },
+      {
+        "target": "#depicter-1-element-155 > img",
+        "tag": "img",
+        "src": "https://southernhealth.ca/wp-content/uploads/BTHC-birds-eye-view-583x328.jpg",
+        "alt": "Boundary Trails Health Centre birds eye view",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 583,
+        "naturalHeight": 328,
+        "box": {
+          "x": -2256.046875,
+          "y": 375.5625,
+          "w": 414.7802734375,
+          "h": 233.35833740234375
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "https://ow.ly/gw4H50VLoKo",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://southernhealth.ca/wp-content/uploads/BTHC-birds-eye-view-583x328.jpg\" alt=\"Boundary Trails Health Centre birds eye view\" class=\"depicter-loaded\">"
+      },
+      {
+        "target": "#depicter-1-element-156 > img",
+        "tag": "img",
+        "src": "https://southernhealth.ca/wp-content/uploads/BRHC-rendering-520460-579x328.jpg",
+        "alt": "Rendering of Bethesda Regional Health Centre",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 579,
+        "naturalHeight": 328,
+        "box": {
+          "x": -1777.9375,
+          "y": 374.859375,
+          "w": 411.934326171875,
+          "h": 233.35833740234375
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "https://ow.ly/WsSS50VKVME",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://southernhealth.ca/wp-content/uploads/BRHC-rendering-520460-579x328.jpg\" alt=\"Rendering of Bethesda Regional Health Centre\" class=\"depicter-loaded\">"
+      },
+      {
+        "target": "#custom_html-52 > div > a > img",
+        "tag": "img",
+        "src": "https://southernhealth.ca/files/logo-shss-footer-white.png",
+        "alt": "Southern Health-Santé Sud logo",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "Southern Health-Santé Sud logo",
+        "naturalWidth": 232,
+        "naturalHeight": 153,
+        "box": {
+          "x": 186,
+          "y": 1792.390625,
+          "w": 174.78125,
+          "h": 115.265625
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"/files/logo-shss-footer-white.png\" alt=\"Southern Health-Santé Sud logo\" title=\"Southern Health-Santé Sud logo\">"
+      },
+      {
+        "target": "html > body > section > button > img",
+        "tag": "img",
+        "src": "https://southernhealth.ca/wp-content/plugins/accessibility-onetap/assets/images/admin/Original_Logo_Icon.svg",
+        "alt": "",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 150,
+        "naturalHeight": 150,
+        "box": {
+          "x": 1301,
+          "y": 132,
+          "w": 48,
+          "h": 48
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "",
+        "html": "<img class=\"design-size1 design-border1\" src=\"https://southernhealth.ca/wp-content/plugins/accessibility-onetap/assets/images/admin/Original_Logo_Icon.svg\" alt=\"\">"
+      },
+      {
+        "target": "#onetap-language-list > div > img:nth-of-type(1)",
+        "tag": "img",
+        "src": "https://southernhealth.ca/wp-content/plugins/accessibility-onetap/assets/images/english.png",
+        "alt": "United States",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 177,
+        "naturalHeight": 177,
+        "box": {
+          "x": 1392,
+          "y": 26,
+          "w": 22,
+          "h": 22
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://southernhealth.ca/wp-content/plugins/accessibility-onetap/assets/images/english.png\" class=\"onetap-active\" data-language=\"en\" alt=\"United States\">"
+      },
+      {
+        "target": "#onetap-language-list > p > img",
+        "tag": "img",
+        "src": "https://southernhealth.ca/wp-content/plugins/accessibility-onetap/assets/images/icon-drop-down-menu.png",
+        "alt": "",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 549,
+        "naturalHeight": 333,
+        "box": {
+          "x": 1475.296875,
+          "y": 35.96875,
+          "w": 10,
+          "h": 6.0625
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "English Accessibility Adjustments Powered by OneTap Hide Toolbar Content Modules Font Size Default Readable Font Line Height Default Big Cursor Letter Spacing A",
+        "html": "<img src=\"https://southernhealth.ca/wp-content/plugins/accessibility-onetap/assets/images/icon-drop-down-menu.png\" width=\"10\" height=\"10\" alt=\"\">"
+      }
+    ],
+    "links": [
+      {
+        "target": "#menu-item-17083 > a",
+        "text": "Measles",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.gov.mb.ca/health/publichealth/diseases/measles.html",
+        "imgAlt": "",
+        "box": {
+          "x": 751.78125,
+          "y": 14,
+          "w": 74.359375,
+          "h": 17
+        },
+        "context": "Measles",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.gov.mb.ca/health/publichealth/diseases/measles.html\" data-ps2id-api=\"true\"><i class=\"fa-solid fa-viruses\"></i> Measles</a>"
+      },
+      {
+        "target": "#menu-item-13588 > a",
+        "text": "Feedback",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://southernhealth.ca/forms/compliments-and-concerns/",
+        "imgAlt": "",
+        "box": {
+          "x": 858.140625,
+          "y": 14,
+          "w": 83.65625,
+          "h": 17
+        },
+        "context": "Feedback",
+        "contextKind": "li",
+        "html": "<a href=\"https://southernhealth.ca/forms/compliments-and-concerns/\" data-ps2id-api=\"true\"><i class=\"fa-solid fa-comment\"></i> Feedback</a>"
+      },
+      {
+        "target": "#menu-item-2822-fr > a",
+        "text": "Français",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://southernhealth.ca/fr/",
+        "imgAlt": "",
+        "box": {
+          "x": 973.796875,
+          "y": 14,
+          "w": 53.640625,
+          "h": 17
+        },
+        "context": "Français",
+        "contextKind": "li",
+        "html": "<a href=\"https://southernhealth.ca/fr/\" data-ps2id-api=\"true\" lang=\"fr-CA\" hreflang=\"fr-CA\">Français</a>"
+      },
+      {
+        "target": "#menu-item-2794 > a",
+        "text": "EMERGENCY",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://southernhealth.ca/emergency-schedules/",
+        "imgAlt": "",
+        "box": {
+          "x": 1069.4375,
+          "y": 14,
+          "w": 99.5625,
+          "h": 17
+        },
+        "context": "EMERGENCY",
+        "contextKind": "li",
+        "html": "<a href=\"https://southernhealth.ca/emergency-schedules/\" data-ps2id-api=\"true\"><i class=\"fa-solid fa-briefcase-medical\"></i> Emergency</a>"
+      },
+      {
+        "target": "#custom_html-49 > div > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/",
+        "imgAlt": "Southern Health-Santé Sud logo",
+        "box": {
+          "x": 181,
+          "y": 99.421875,
+          "w": 166,
+          "h": 19
+        },
+        "context": "",
+        "contextKind": "none",
+        "html": "<a href=\"/\"><img src=\"/files/logo-shss.png\" title=\"Southern Health-Santé Sud logo\" alt=\"Southern Health-Santé Sud logo\"></a>"
+      },
+      {
+        "target": "#menu-9426-particle > nav > ul > li:nth-of-type(1) > a",
+        "text": "Find Us",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://southernhealth.ca/find-us/",
+        "imgAlt": "",
+        "box": {
+          "x": 215.203125,
+          "y": 209.203125,
+          "w": 152.390625,
+          "h": 44
+        },
+        "context": "Find Us",
+        "contextKind": "li",
+        "html": "<a class=\"g-menu-item-container\" href=\"https://southernhealth.ca/find-us/\">\n                                                                <span class=\"g-menu-item-content\">\n                                    <span class=\"g-menu-item-title\">Find Us</span>\n            \n                    </span>\n "
+      },
+      {
+        "target": "#menu-9426-particle > nav > ul > li:nth-of-type(2) > a",
+        "text": "Health Topics",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://southernhealth.ca/health-topics/",
+        "imgAlt": "",
+        "box": {
+          "x": 371.84375,
+          "y": 209.203125,
+          "w": 152.390625,
+          "h": 44
+        },
+        "context": "Health Topics",
+        "contextKind": "li",
+        "html": "<a class=\"g-menu-item-container\" href=\"https://southernhealth.ca/health-topics/\">\n                                                                <span class=\"g-menu-item-content\">\n                                    <span class=\"g-menu-item-title\">Health Topics</span>\n            \n                 "
+      },
+      {
+        "target": "#menu-9426-particle > nav > ul > li:nth-of-type(3) > a",
+        "text": "Info | Patient & Public",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://southernhealth.ca/patient-info/",
+        "imgAlt": "",
+        "box": {
+          "x": 528.484375,
+          "y": 191.203125,
+          "w": 152.390625,
+          "h": 62
+        },
+        "context": "Info | Patient & Public",
+        "contextKind": "li",
+        "html": "<a class=\"g-menu-item-container\" href=\"https://southernhealth.ca/patient-info/\">\n                                                                <span class=\"g-menu-item-content\">\n                                    <span class=\"g-menu-item-title\">Info | Patient &amp; Public</span>\n            \n    "
+      },
+      {
+        "target": "#menu-9426-particle > nav > ul > li:nth-of-type(4) > a",
+        "text": "Careers",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://southernhealth.ca/careers/",
+        "imgAlt": "",
+        "box": {
+          "x": 685.125,
+          "y": 209.203125,
+          "w": 152.390625,
+          "h": 44
+        },
+        "context": "Careers",
+        "contextKind": "li",
+        "html": "<a class=\"g-menu-item-container\" href=\"https://southernhealth.ca/careers/\">\n                                                                <span class=\"g-menu-item-content\">\n                                    <span class=\"g-menu-item-title\">Careers</span>\n            \n                    </span>\n "
+      },
+      {
+        "target": "#menu-9426-particle > nav > ul > li:nth-of-type(5) > a",
+        "text": "About Us",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://southernhealth.ca/about-us/",
+        "imgAlt": "",
+        "box": {
+          "x": 841.765625,
+          "y": 209.203125,
+          "w": 152.390625,
+          "h": 44
+        },
+        "context": "About Us",
+        "contextKind": "li",
+        "html": "<a class=\"g-menu-item-container\" href=\"https://southernhealth.ca/about-us/\">\n                                                                <span class=\"g-menu-item-content\">\n                                    <span class=\"g-menu-item-title\">About Us</span>\n            \n                    </span>"
+      },
+      {
+        "target": "#menu-9426-particle > nav > ul > li:nth-of-type(6) > a",
+        "text": "Contact Us",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/contact-us/",
+        "imgAlt": "",
+        "box": {
+          "x": 998.40625,
+          "y": 209.203125,
+          "w": 152.390625,
+          "h": 44
+        },
+        "context": "Contact Us",
+        "contextKind": "li",
+        "html": "<a class=\"g-menu-item-container\" href=\"/contact-us/\">\n                                                                <span class=\"g-menu-item-content\">\n                                    <span class=\"g-menu-item-title\">Contact Us</span>\n            \n                    </span>\n                    "
+      },
+      {
+        "target": "div:nth-of-type(3) > div > div > div:nth-of-type(3) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://sharedhealthmb.ca/services/diagnostic/dynacare-work-stoppage-info/",
+        "imgAlt": "",
+        "box": {
+          "x": -1366,
+          "y": 253.203125,
+          "w": 1366,
+          "h": 355.7291259765625
+        },
+        "context": "",
+        "contextKind": "none",
+        "html": "<a href=\"https://sharedhealthmb.ca/services/diagnostic/dynacare-work-stoppage-info/\">\n<div id=\"depicter-1-element-485\" class=\"depicter-element depicter-layer depicter-1-element-485 depicter-absolute-position\" data-type=\"shape\" data-wrap=\"true\" data-name=\"Shape 10\" data-local-id=\"element-485\" data-of"
+      },
+      {
+        "target": "div:nth-of-type(3) > div > div > div:nth-of-type(1) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://southernhealth.ca/health-topics/public-health-healthy-living/",
+        "imgAlt": "",
+        "box": {
+          "x": 1002.4375,
+          "y": 493.671875,
+          "w": 315.176025390625,
+          "h": 74.703125
+        },
+        "context": "School Supplies? Indoor shoes? Kindergarten boosters? Let's check... Access kindergarten clinics or For more info access your local public health office",
+        "contextKind": "block",
+        "html": "<a href=\"https://southernhealth.ca/health-topics/public-health-healthy-living/\">\n<div id=\"depicter-1-element-463\" class=\"depicter-element depicter-layer depicter-1-element-463 depicter-absolute-position\" data-type=\"shape\" data-wrap=\"true\" data-name=\"Shape 12\" data-local-id=\"element-463\" data-offset="
+      },
+      {
+        "target": "div:nth-of-type(3) > div > div > div:nth-of-type(2) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://southernhealth.ca/news-events/events/",
+        "imgAlt": "",
+        "box": {
+          "x": 996.75,
+          "y": 400.46875,
+          "w": 315.176025390625,
+          "h": 74.703125
+        },
+        "context": "School Supplies? Indoor shoes? Kindergarten boosters? Let's check... Access kindergarten clinics or For more info access your local public health office",
+        "contextKind": "block",
+        "html": "<a href=\"https://southernhealth.ca/news-events/events/\">\n<div id=\"depicter-1-element-462\" class=\"depicter-element depicter-layer depicter-1-element-462 depicter-absolute-position\" data-type=\"shape\" data-wrap=\"true\" data-name=\"Shape 11\" data-local-id=\"element-462\" data-offset=\"x:1401px;y:207px;origin"
+      },
+      {
+        "target": "div:nth-of-type(3) > div > div > div:nth-of-type(2) > a",
+        "text": "Learn more...",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://southernhealth.ca/temporary-redirection-of-public-entrances-at-boundary-trails-health-centre/",
+        "imgAlt": "",
+        "box": {
+          "x": 3821.953125,
+          "y": 530.671875,
+          "w": 176.441650390625,
+          "h": 51.2249755859375
+        },
+        "context": "heading: 2026 Population Health Assessment | Temporary Redirection of Public Entrances at Boundary Trails Health Centre Learn more...",
+        "contextKind": "block",
+        "html": "<a href=\"https://southernhealth.ca/temporary-redirection-of-public-entrances-at-boundary-trails-health-centre/\"><button id=\"depicter-1-element-390\" class=\"depicter-element depicter-layer depicter-1-element-390 depicter-absolute-position\" data-type=\"button\" data-wrap=\"true\" data-name=\"Button 10\" data"
+      },
+      {
+        "target": "div:nth-of-type(3) > div > div > div:nth-of-type(6) > a",
+        "text": "More details",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://southernhealth.ca/communities-making-a-difference-learning-from-each-other-2/",
+        "imgAlt": "",
+        "box": {
+          "x": 5207.875,
+          "y": 515.71875,
+          "w": 158.6552734375,
+          "h": 57.62811279296875
+        },
+        "context": "heading: 2026 Population Health Assessment | COMMUNITIES MAKING A DIFFERENCE: LEARNING FROM EACH OTHER Our third annual Share and Learn More details REGISTER NOW!! OCTOBER 22, 2026",
+        "contextKind": "block",
+        "html": "<a href=\"https://southernhealth.ca/communities-making-a-difference-learning-from-each-other-2/\"><button id=\"depicter-1-element-416\" class=\"depicter-element depicter-layer depicter-1-element-416 depicter-absolute-position\" data-type=\"button\" data-wrap=\"true\" data-name=\"Button 10\" data-local-id=\"eleme"
+      },
+      {
+        "target": "div:nth-of-type(3) > div > div > div:nth-of-type(2) > a",
+        "text": "More details...",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://sharedhealthmb.ca/services/mental-health/mha-services/raam-clinic/raam-digital-front-door-dfd-virtual-drop-in-clinics/",
+        "imgAlt": "",
+        "box": {
+          "x": -2973.90625,
+          "y": 537.78125,
+          "w": 184.979248046875,
+          "h": 41.97601318359375
+        },
+        "context": "heading: 2026 Population Health Assessment | DIGITAL FRONT DOOR More details... Rapid Access to Addiction Medicine Did you know you can connect with RAAM services using your mobile device or laptop?",
+        "contextKind": "block",
+        "html": "<a href=\"https://sharedhealthmb.ca/services/mental-health/mha-services/raam-clinic/raam-digital-front-door-dfd-virtual-drop-in-clinics/\" target=\"_blank\"><button id=\"depicter-1-element-254\" class=\"depicter-element depicter-layer depicter-1-element-254 depicter-absolute-position\" data-type=\"button\" da"
+      },
+      {
+        "target": "div:nth-of-type(3) > div > div > div:nth-of-type(2) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://ow.ly/TISF50VLolU",
+        "imgAlt": "Portage Regional Health Centre rendering of bird's eye view",
+        "box": {
+          "x": -2730.578125,
+          "y": 375.5625,
+          "w": 411.222900390625,
+          "h": 233.35833740234375
+        },
+        "context": "heading: 2026 Population Health Assessment | NOW HIRING! Portage Regional Health Centre Boundary Trails Health Centre Bethesda Regional Health Centre",
+        "contextKind": "block",
+        "html": "<a href=\"https://ow.ly/TISF50VLolU\">\n<picture id=\"depicter-1-element-154\" class=\"depicter-element depicter-layer depicter-1-element-154 depicter-absolute-position\" data-type=\"image\" data-wrap=\"true\" data-name=\"Image 9\" data-local-id=\"element-154\" data-offset=\"x:2px;y:172px;origin:tl\" data-tablet-off"
+      },
+      {
+        "target": "div:nth-of-type(3) > div > div > div:nth-of-type(3) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://ow.ly/gw4H50VLoKo",
+        "imgAlt": "Boundary Trails Health Centre birds eye view",
+        "box": {
+          "x": -2256.046875,
+          "y": 375.5625,
+          "w": 414.7802734375,
+          "h": 233.35833740234375
+        },
+        "context": "heading: 2026 Population Health Assessment | NOW HIRING! Portage Regional Health Centre Boundary Trails Health Centre Bethesda Regional Health Centre",
+        "contextKind": "block",
+        "html": "<a href=\"https://ow.ly/gw4H50VLoKo\">\n<picture id=\"depicter-1-element-155\" class=\"depicter-element depicter-layer depicter-1-element-155 depicter-absolute-position\" data-type=\"image\" data-wrap=\"true\" data-name=\"Image 10\" data-local-id=\"element-155\" data-offset=\"x:669px;y:172px;origin:tl\" data-tablet-"
+      },
+      {
+        "target": "div:nth-of-type(3) > div > div > div:nth-of-type(4) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://ow.ly/WsSS50VKVME",
+        "imgAlt": "Rendering of Bethesda Regional Health Centre",
+        "box": {
+          "x": -1777.9375,
+          "y": 374.859375,
+          "w": 411.934326171875,
+          "h": 233.35833740234375
+        },
+        "context": "heading: 2026 Population Health Assessment | NOW HIRING! Portage Regional Health Centre Boundary Trails Health Centre Bethesda Regional Health Centre",
+        "contextKind": "block",
+        "html": "<a href=\"https://ow.ly/WsSS50VKVME\">\n<picture id=\"depicter-1-element-156\" class=\"depicter-element depicter-layer depicter-1-element-156 depicter-absolute-position\" data-type=\"image\" data-wrap=\"true\" data-name=\"Image 11\" data-local-id=\"element-156\" data-offset=\"x:1341px;y:171px;origin:tl\" data-tablet"
+      },
+      {
+        "target": "div > div:nth-of-type(1) > div > h4 > a",
+        "text": "Get an A+ for a packed lunch",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://southernhealth.ca/get-an-a-for-a-packed-lunch/",
+        "imgAlt": "",
+        "box": {
+          "x": 196,
+          "y": 949.203125,
+          "w": 232.6875,
+          "h": 22
+        },
+        "context": "heading: Get an A+ for a packed lunch | Get an A+ for a packed lunch September 10, 2026 Sports/hydration drinks are being heavily marketed to kids but can be harmful to their health ... Read More",
+        "contextKind": "block",
+        "html": "<a href=\"https://southernhealth.ca/get-an-a-for-a-packed-lunch/\" class=\"_self cvplbd\" target=\"_self\">Get an A+ for a packed lunch</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(1) > div > div:nth-of-type(2) > a",
+        "text": "Read More",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://southernhealth.ca/get-an-a-for-a-packed-lunch/",
+        "imgAlt": "",
+        "box": {
+          "x": 462.921875,
+          "y": 1055,
+          "w": 77.0625,
+          "h": 19
+        },
+        "context": "heading: Get an A+ for a packed lunch | Sports/hydration drinks are being heavily marketed to kids but can be harmful to their health ... Read More",
+        "contextKind": "block",
+        "html": "<a href=\"https://southernhealth.ca/get-an-a-for-a-packed-lunch/\" class=\"_self pt-cv-readmore pt-cv-textlink cvplbd\" target=\"_self\">Read More</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > div > h4 > a",
+        "text": "Dynacare Labour Disruption Update: Manitoba’s Health System Response",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://southernhealth.ca/dynacare-labour-disruption-update-manitobas-health-system-response/",
+        "imgAlt": "",
+        "box": {
+          "x": 196,
+          "y": 1104,
+          "w": 449.34375,
+          "h": 41.796875
+        },
+        "context": "heading: Dynacare Labour Disruption Update: Manitoba’s Health System Response | Dynacare Labour Disruption Update: Manitoba’s Health System Response",
+        "contextKind": "block",
+        "html": "<a href=\"https://southernhealth.ca/dynacare-labour-disruption-update-manitobas-health-system-response/\" class=\"_self cvplbd\" target=\"_self\">Dynacare Labour Disruption Update:  Manitoba’s Health System Response</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > div > div:nth-of-type(2) > a",
+        "text": "Read More",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://southernhealth.ca/dynacare-labour-disruption-update-manitobas-health-system-response/",
+        "imgAlt": "",
+        "box": {
+          "x": 196,
+          "y": 1293.59375,
+          "w": 444.828125,
+          "h": 51
+        },
+        "context": "heading: Dynacare Labour Disruption Update: Manitoba’s Health System Response",
+        "contextKind": "heading-only",
+        "html": "<a href=\"https://southernhealth.ca/dynacare-labour-disruption-update-manitobas-health-system-response/\" class=\"_self pt-cv-readmore pt-cv-textlink cvplbd\" target=\"_self\">Read More</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(3) > div > h4 > a",
+        "text": "Canadian Breast Cancer Network | Upcoming Webinars",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://southernhealth.ca/canadian-breast-cancer-network-upcoming-webinars/",
+        "imgAlt": "",
+        "box": {
+          "x": 196,
+          "y": 1374.59375,
+          "w": 445.65625,
+          "h": 22
+        },
+        "context": "heading: Canadian Breast Cancer Network | Upcoming Webinars | Canadian Breast Cancer Network | Upcoming Webinars",
+        "contextKind": "block",
+        "html": "<a href=\"https://southernhealth.ca/canadian-breast-cancer-network-upcoming-webinars/\" class=\"_self cvplbd\" target=\"_self\">Canadian Breast Cancer Network | Upcoming Webinars</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(3) > div > div:nth-of-type(2) > a",
+        "text": "Read More",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://southernhealth.ca/canadian-breast-cancer-network-upcoming-webinars/",
+        "imgAlt": "",
+        "box": {
+          "x": 328.421875,
+          "y": 1544.390625,
+          "w": 77.0625,
+          "h": 19
+        },
+        "context": "heading: Canadian Breast Cancer Network | Upcoming Webinars | Experts Answer Your Questions About Navigating Work and Cancer Managing work during or after a breast cancer diagnosis can be challenging. Join us for this life Questions & Experts session ... Read ",
+        "contextKind": "block",
+        "html": "<a href=\"https://southernhealth.ca/canadian-breast-cancer-network-upcoming-webinars/\" class=\"_self pt-cv-readmore pt-cv-textlink cvplbd\" target=\"_self\">Read More</a>"
+      },
+      {
+        "target": "#post-19 > section:nth-of-type(2) > div:nth-of-type(2) > a",
+        "text": "More News / Events",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://southernhealth.ca/news-events/",
+        "imgAlt": "",
+        "box": {
+          "x": 196,
+          "y": 1600.390625,
+          "w": 223.640625,
+          "h": 58
+        },
+        "context": "heading: Canadian Breast Cancer Network | Upcoming Webinars",
+        "contextKind": "heading-only",
+        "html": "<a class=\"wp-block-advgb-button_link advgbbtn-41ad5a42-b73a-4624-a469-9e8d8e6bdf7d\" href=\"https://southernhealth.ca/news-events/\" target=\"_self\" rel=\"noopener noreferrer\"><span><strong>More News / Events</strong></span></a>"
+      },
+      {
+        "target": "#custom_html-52 > div > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/",
+        "imgAlt": "Southern Health-Santé Sud logo",
+        "box": {
+          "x": 186,
+          "y": 1839.265625,
+          "w": 174.78125,
+          "h": 19
+        },
+        "context": "heading: Canadian Breast Cancer Network | Upcoming Webinars",
+        "contextKind": "heading-only",
+        "html": "<a href=\"/\"><img src=\"/files/logo-shss-footer-white.png\" alt=\"Southern Health-Santé Sud logo\" title=\"Southern Health-Santé Sud logo\"></a>"
+      },
+      {
+        "target": "#custom_html-53 > div > p > a:nth-of-type(1)",
+        "text": "StaffNET",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://staffnet.southernhealth.ca/",
+        "imgAlt": "",
+        "box": {
+          "x": 424.078125,
+          "y": 2014.078125,
+          "w": 56.359375,
+          "h": 17
+        },
+        "context": "StaffNET Health Links - Info Santé",
+        "contextKind": "p",
+        "html": "<a href=\"https://staffnet.southernhealth.ca/\" target=\"_blank\">StaffNET</a>"
+      },
+      {
+        "target": "#custom_html-53 > div > p > a:nth-of-type(2)",
+        "text": "Health Links - Info Santé",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://misericordia.mb.ca/programs/phcc/health-links-info-sante/",
+        "imgAlt": "",
+        "box": {
+          "x": 424.078125,
+          "y": 2039.28125,
+          "w": 160.90625,
+          "h": 17
+        },
+        "context": "StaffNET Health Links - Info Santé",
+        "contextKind": "p",
+        "html": "<a href=\"https://misericordia.mb.ca/programs/phcc/health-links-info-sante/\" target=\"_blank\">Health Links - Info Santé</a>"
+      },
+      {
+        "target": "#custom_html-56 > div > div > a:nth-of-type(1)",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://twitter.com/SouthernSante",
+        "imgAlt": "",
+        "box": {
+          "x": 636.546875,
+          "y": 1843.390625,
+          "w": 60,
+          "h": 58
+        },
+        "context": "heading: Canadian Breast Cancer Network | Upcoming Webinars",
+        "contextKind": "heading-only",
+        "html": "<a href=\"https://twitter.com/SouthernSante\" target=\"_blank\"><i class=\"fa-brands fa-square-x-twitter\"></i></a>"
+      },
+      {
+        "target": "#custom_html-56 > div > div > a:nth-of-type(2)",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.facebook.com/southernhealthsantesud",
+        "imgAlt": "",
+        "box": {
+          "x": 696.546875,
+          "y": 1843.390625,
+          "w": 60,
+          "h": 58
+        },
+        "context": "heading: Canadian Breast Cancer Network | Upcoming Webinars",
+        "contextKind": "heading-only",
+        "html": "<a href=\"https://www.facebook.com/southernhealthsantesud\" target=\"_blank\"><i class=\"fa fa-facebook-square\" aria-hidden=\"true\"></i></a>"
+      },
+      {
+        "target": "#custom_html-56 > div > div > a:nth-of-type(3)",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.instagram.com/southernhealthsantesud/",
+        "imgAlt": "",
+        "box": {
+          "x": 756.546875,
+          "y": 1843.390625,
+          "w": 60,
+          "h": 58
+        },
+        "context": "heading: Canadian Breast Cancer Network | Upcoming Webinars",
+        "contextKind": "heading-only",
+        "html": "<a href=\"https://www.instagram.com/southernhealthsantesud/\" target=\"_blank\"><i class=\"fa-brands fa-square-instagram\"></i></a>"
+      },
+      {
+        "target": "#custom_html-56 > div > div > a:nth-of-type(4)",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.linkedin.com/company/southern-health-sante-sud?trk=public_post_feed-actor-name",
+        "imgAlt": "",
+        "box": {
+          "x": 636.546875,
+          "y": 1939.390625,
+          "w": 60,
+          "h": 58
+        },
+        "context": "heading: Canadian Breast Cancer Network | Upcoming Webinars",
+        "contextKind": "heading-only",
+        "html": "<a href=\"https://www.linkedin.com/company/southern-health-sante-sud?trk=public_post_feed-actor-name\" target=\"_blank\"><i class=\"fa-brands fa-square-linkedin\"></i></a>"
+      },
+      {
+        "target": "#custom_html-56 > div > span > a",
+        "text": "Donate Today!",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/donate-today/",
+        "imgAlt": "",
+        "box": {
+          "x": 663.078125,
+          "y": 2068.390625,
+          "w": 58.9375,
+          "h": 42
+        },
+        "context": "heading: Canadian Breast Cancer Network | Upcoming Webinars",
+        "contextKind": "heading-only",
+        "html": "<a href=\"/donate-today/\">Donate<br>Today!</a>"
+      },
+      {
+        "target": "#custom_html-60 > div > a:nth-of-type(1)",
+        "text": "Report an issue",
+        "ariaLabel": "",
+        "title": "",
+        "href": "mailto:info@southernhealth.ca",
+        "imgAlt": "",
+        "box": {
+          "x": 591.4375,
+          "y": 2193.140625,
+          "w": 101.9375,
+          "h": 17
+        },
+        "context": "heading: Canadian Breast Cancer Network | Upcoming Webinars | ©2026 Southern Health-Santé Sud. All Rights Reserved. | Report an issue | Sitemap | Conditions of Use",
+        "contextKind": "block",
+        "html": "<a href=\"mailto:info@southernhealth.ca\">Report an issue</a>"
+      },
+      {
+        "target": "#custom_html-60 > div > a:nth-of-type(2)",
+        "text": "Sitemap",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/sitemap",
+        "imgAlt": "",
+        "box": {
+          "x": 740.09375,
+          "y": 2193.140625,
+          "w": 54.03125,
+          "h": 17
+        },
+        "context": "heading: Canadian Breast Cancer Network | Upcoming Webinars | ©2026 Southern Health-Santé Sud. All Rights Reserved. | Report an issue | Sitemap | Conditions of Use",
+        "contextKind": "block",
+        "html": "<a href=\"/sitemap\">Sitemap</a>"
+      },
+      {
+        "target": "#custom_html-60 > div > a:nth-of-type(3)",
+        "text": "Conditions of Use",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/conditions-of-use",
+        "imgAlt": "",
+        "box": {
+          "x": 840.84375,
+          "y": 2193.140625,
+          "w": 115.21875,
+          "h": 17
+        },
+        "context": "heading: Canadian Breast Cancer Network | Upcoming Webinars | ©2026 Southern Health-Santé Sud. All Rights Reserved. | Report an issue | Sitemap | Conditions of Use",
+        "contextKind": "block",
+        "html": "<a href=\"/conditions-of-use\">Conditions of Use</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(3) > div:nth-of-type(1) > p > a",
+        "text": "OneTap",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://wponetap.com/?utm_source=frontend-link&utm_medium=link&utm_campaign=ref-link-toolbar",
+        "imgAlt": "",
+        "box": {
+          "x": 1615.671875,
+          "y": 208.1875,
+          "w": 57.625,
+          "h": 25
+        },
+        "context": "Powered by OneTap",
+        "contextKind": "p",
+        "html": "<a href=\"https://wponetap.com/?utm_source=frontend-link&amp;utm_medium=link&amp;utm_campaign=ref-link-toolbar\" target=\"_blank\">OneTap</a>"
+      }
+    ],
+    "headings": [
+      {
+        "target": "#depicter-1-element-452",
+        "level": 1,
+        "text": "2026 Population Health Assessment",
+        "visible": true,
+        "box": {
+          "x": 1441.40625,
+          "y": 335.015625,
+          "w": 464.56005859375,
+          "h": 128.0625
+        },
+        "html": "<h1 data-animation-in=\"{'direction':'bottom','easing':'easeOutQuart','duration':1800,'movement':{'value':100,'unit':'%'},'fade':false,'type':'mask'}\" data-between-in-out=\"false\" id=\"depicter-1-element-452\" class=\"depicter-element depicter-layer depicter-1-element-452 depicter-absolute-position\" data"
+      },
+      {
+        "target": "#post-19 > section:nth-of-type(2) > h1",
+        "level": 1,
+        "text": "Southern Health-Santé Sud",
+        "visible": true,
+        "box": {
+          "x": 196,
+          "y": 660.203125,
+          "w": 974,
+          "h": 50
+        },
+        "html": "<h1 class=\"wp-block-heading has-text-align-center\">Southern Health-Santé Sud</h1>"
+      },
+      {
+        "target": "#advgb-col-65d85d39-48e1-41df-8f38-935a4837d119 > div > h2",
+        "level": 2,
+        "text": "Latest News",
+        "visible": true,
+        "box": {
+          "x": 196,
+          "y": 899.203125,
+          "w": 452,
+          "h": 28
+        },
+        "html": "<h2 class=\"wp-block-heading\">Latest News</h2>"
+      },
+      {
+        "target": "#pt-cv-view-35d7405tsv > div > div:nth-of-type(1) > div > h4",
+        "level": 4,
+        "text": "Get an A+ for a packed lunch",
+        "visible": true,
+        "box": {
+          "x": 196,
+          "y": 951.203125,
+          "w": 452,
+          "h": 19.796875
+        },
+        "html": "<h4 class=\"pt-cv-title\"><a href=\"https://southernhealth.ca/get-an-a-for-a-packed-lunch/\" class=\"_self cvplbd\" target=\"_self\">Get an A+ for a packed lunch</a></h4>"
+      },
+      {
+        "target": "#pt-cv-view-35d7405tsv > div > div:nth-of-type(2) > div > h4",
+        "level": 4,
+        "text": "Dynacare Labour Disruption Update: Manitoba’s Health System Response",
+        "visible": true,
+        "box": {
+          "x": 196,
+          "y": 1106,
+          "w": 452,
+          "h": 39.59375
+        },
+        "html": "<h4 class=\"pt-cv-title\"><a href=\"https://southernhealth.ca/dynacare-labour-disruption-update-manitobas-health-system-response/\" class=\"_self cvplbd\" target=\"_self\">Dynacare Labour Disruption Update:  Manitoba’s Health System Response</a></h4>"
+      },
+      {
+        "target": "#pt-cv-view-35d7405tsv > div > div:nth-of-type(3) > div > h4",
+        "level": 4,
+        "text": "Canadian Breast Cancer Network | Upcoming Webinars",
+        "visible": true,
+        "box": {
+          "x": 196,
+          "y": 1376.59375,
+          "w": 452,
+          "h": 19.796875
+        },
+        "html": "<h4 class=\"pt-cv-title\"><a href=\"https://southernhealth.ca/canadian-breast-cancer-network-upcoming-webinars/\" class=\"_self cvplbd\" target=\"_self\">Canadian Breast Cancer Network | Upcoming Webinars</a></h4>"
+      }
+    ],
+    "lang": "en-CA",
+    "title": "Southern Health-Santé Sud - Southern Health-Santé Sud"
+  },
   "axe": {
-    "violationRules": 5,
-    "violationNodes": 27,
+    "violationRules": 4,
+    "violationNodes": 26,
     "passRules": 35,
-    "passNodes": 528,
+    "passNodes": 426,
     "incompleteRules": 1,
     "incompleteNodes": 17,
     "inapplicableRules": 26,
-    "testedNodes": 572
+    "testedNodes": 469
   },
   "incomplete": [
     {
@@ -96,7 +1231,7 @@
             "Element's background color could not be determined because it partially overlaps other elements"
           ],
           "box": {
-            "x": 1006.703125,
+            "x": 226.0205078125,
             "y": 431.0625,
             "w": 305.215576171875,
             "h": 122.9266357421875,
@@ -336,8 +1471,8 @@
           }
         },
         {
-          "target": "iframe #u_1_k_yD > ._2165._2pi4[title=\"Like\"]",
-          "html": "<div class=\"_2pi4 _36iq _4lk2 _3xre _2165\" title=\"Like\"><i class=\"_3-8_ _2yf7 _5jp _2166 img sp_JtTaN8Jb8oq sx_c9745f\"></i><i class=\"_3-8_ _2yf7 _3wdt _2166 img sp_JtTaN8Jb8oq sx_58ea8a\"></i>5</div>",
+          "target": "iframe #u_1_k_nt > ._2165._2pi4[title=\"Like\"]",
+          "html": "<div class=\"_2pi4 _36iq _4lk2 _3xre _2165\" title=\"Like\"><i class=\"_3-8_ _2yf7 _5jp _2166 img sp_JtTaN8Jb8oq sx_c9745f\"></i><i class=\"_3-8_ _2yf7 _3wdt _2166 img sp_JtTaN8Jb8oq sx_58ea8a\"></i>7</div>",
           "impact": "serious",
           "messages": [
             "Element content is too short to determine if it is actual text content"
@@ -345,7 +1480,7 @@
           "box": null
         },
         {
-          "target": "iframe #u_1_j_Hk > table > tbody > tr > ._435r:nth-child(2) > ._29bd[target=\"_blank\"] > ._1p4p._2pi4[title=\"Comment\"]",
+          "target": "iframe #u_1_j_j\\/ > table > tbody > tr > ._435r:nth-child(2) > ._29bd[target=\"_blank\"] > ._1p4p._2pi4[title=\"Comment\"]",
           "html": "<div class=\"_2pi4 _36iq _4lk2 _3xre _1p4p\" title=\"Comment\"><i class=\"_3-8_ _2yf7 _5jp _4mlr img sp_JtTaN8Jb8oq sx_dc3b79\"></i><i class=\"_3-8_ _2yf7 _3wdt _4mlr img sp_JtTaN8Jb8oq sx_21181b\"></i>Comment</div>",
           "impact": "serious",
           "messages": [
@@ -354,7 +1489,7 @@
           "box": null
         },
         {
-          "target": "iframe #u_1_l_8Z > ._50sk._2pi4[title=\"Share\"]",
+          "target": "iframe #u_1_l_oz > ._50sk._2pi4[title=\"Share\"]",
           "html": "<div class=\"_2pi4 _36iq _4lk2 _3xre _50sk\" title=\"Share\"><i class=\"_3-8_ _2yf7 _5jp _2167 img sp_JtTaN8Jb8oq sx_242da6\"></i><i class=\"_3-8_ _2yf7 _3wdt _2167 img sp_JtTaN8Jb8oq sx_a40aa4\"></i>Share</div>",
           "impact": "serious",
           "messages": [
@@ -424,7 +1559,7 @@
           "html": "<div role=\"feed\">",
           "impact": "critical",
           "messages": [
-            "Element has children which are not allowed: table, a[aria-label], a, img, [role=button]"
+            "Element has children which are not allowed: table, a, img, [role=button]"
           ],
           "box": null
         }
@@ -588,7 +1723,7 @@
         },
         {
           "target": "iframe abbr[data-utime=\"1789761656\"] > .timestampContent",
-          "html": "<span class=\"timestampContent\">10 hours ago</span>",
+          "html": "<span class=\"timestampContent\">on Friday</span>",
           "impact": "serious",
           "messages": [
             "Element has insufficient color contrast of 3.04 (foreground color: #90949c, background color: #ffffff, font size: 8.3pt (11px), font weight: normal). Expected contrast ratio of 4.5:1"
@@ -637,7 +1772,7 @@
             "Element is in tab order and does not have accessible text"
           ],
           "box": {
-            "x": -1366,
+            "x": -2146.6826171875,
             "y": 253.203125,
             "w": 1366,
             "h": 355.7291259765625,
@@ -660,7 +1795,7 @@
             "Element is in tab order and does not have accessible text"
           ],
           "box": {
-            "x": 1002.4375,
+            "x": 221.7548828125,
             "y": 493.671875,
             "w": 315.176025390625,
             "h": 74.703125,
@@ -683,7 +1818,7 @@
             "Element is in tab order and does not have accessible text"
           ],
           "box": {
-            "x": 996.75,
+            "x": 216.0673828125,
             "y": 400.46875,
             "w": 315.176025390625,
             "h": 74.703125,
@@ -695,8 +1830,8 @@
           }
         },
         {
-          "target": "iframe #u_0_1_HH",
-          "html": "<a href=\"https://www.facebook.com/southernhealthsantesud?ref=embed_page\" target=\"_blank\" id=\"u_0_1_HH\"></a>",
+          "target": "iframe #u_0_1_Su",
+          "html": "<a href=\"https://www.facebook.com/southernhealthsantesud?ref=embed_page\" target=\"_blank\" id=\"u_0_1_Su\"></a>",
           "impact": "serious",
           "messages": [
             "Element does not have text that is visible to screen readers",
@@ -709,7 +1844,7 @@
         },
         {
           "target": "iframe .lfloat._3-8_[target=\"_blank\"]",
-          "html": "<a class=\"_3-8_ lfloat\" href=\"https://www.facebook.com/106961021200818?ref=embed_page\" target=\"_blank\"></a>",
+          "html": "<a class=\"_3-8_ lfloat\" href=\"https://www.facebook.com/106961021200818?ref=embed_page\" target=\"_blank\">",
           "impact": "serious",
           "messages": [
             "Element does not have text that is visible to screen readers",
@@ -721,8 +1856,8 @@
           "box": null
         },
         {
-          "target": "iframe #u_1_b_2h > ._5pcr.userContentWrapper[data-ft=\"{\\\"tn\\\":\\\"-R\\\"}\"] > ._1dwg._1w_m._q7o > div:nth-child(3) > .l_c3pyo2v0u._5eit._4d-l > ._302 > span > a[target=\"_blank\"]",
-          "html": "<a href=\"/southernhealthsantesud/posts/pfbid0ePzEN8ib69KHhR9iU8Ryd8y37wL9ySQNyD8mEPYRVSAsWRkbgfYPs9R45rfmsmyjl?ref=embed_page\" target=\"_blank\"><i class=\"img sp_JtTaN8Jb8oq sx_53fd32\"></i></a>",
+          "target": "iframe #u_1_b_ii > ._5pcr.userContentWrapper[data-ft=\"{\\\"tn\\\":\\\"-R\\\"}\"] > ._1dwg._1w_m._q7o > div:nth-child(3) > .l_c3pyo2v0u._5eit._4d-l > ._302 > span > a[target=\"_blank\"]",
+          "html": "<a href=\"/southernhealthsantesud/posts/pfbid02iFRwYoeQwXJZEVxM9CVuoYeQ3cn66UJ7TQ84dcSwhZ8FSzC3qnV6Mg2EbKRAL9K6l?ref=embed_page\" target=\"_blank\"><i class=\"img sp_JtTaN8Jb8oq sx_53fd32\"></i></a>",
           "impact": "serious",
           "messages": [
             "Element does not have text that is visible to screen readers",
@@ -734,7 +1869,7 @@
           "box": null
         },
         {
-          "target": "iframe #u_1_c_fi > ._5pcr.userContentWrapper[data-ft=\"{\\\"tn\\\":\\\"-R\\\"}\"] > ._1dwg._1w_m._q7o > ._2p_a._3x-2[data-ft=\"{\\\"tn\\\":\\\"H\\\"}\"] > div[data-ft=\"{\\\"tn\\\":\\\"H\\\"}\"] > .mtm > ._2l7q > a[target=\"_blank\"]",
+          "target": "iframe #u_1_a_4h > ._5pcr.userContentWrapper[data-ft=\"{\\\"tn\\\":\\\"-R\\\"}\"] > ._1dwg._1w_m._q7o > ._2p_a._3x-2[data-ft=\"{\\\"tn\\\":\\\"H\\\"}\"] > div[data-ft=\"{\\\"tn\\\":\\\"H\\\"}\"] > .mtm > ._2l7q > a[target=\"_blank\"]",
           "html": "<a href=\"https://www.facebook.com/photo.php?fbid=1943515430102591&set=a.764353114685501&type=3&ref=embed_page\" target=\"_blank\">",
           "impact": "serious",
           "messages": [
@@ -747,7 +1882,7 @@
           "box": null
         },
         {
-          "target": "iframe #u_1_c_fi > ._5pcr.userContentWrapper[data-ft=\"{\\\"tn\\\":\\\"-R\\\"}\"] > ._1dwg._1w_m._q7o > div:nth-child(2) > .l_c3pyo2v0u._5eit._4d-l > ._302 > span > a[target=\"_blank\"]",
+          "target": "iframe #u_1_a_4h > ._5pcr.userContentWrapper[data-ft=\"{\\\"tn\\\":\\\"-R\\\"}\"] > ._1dwg._1w_m._q7o > div:nth-child(2) > .l_c3pyo2v0u._5eit._4d-l > ._302 > span > a[target=\"_blank\"]",
           "html": "<a href=\"/southernhealthsantesud/posts/pfbid02qTABLmsG7i1m9Lsgs6ibfosCJEHe7R8RuS36yazh5wJwCvmhtHgN7c1FRdjmzjM3l?ref=embed_page\" target=\"_blank\"><i class=\"img sp_JtTaN8Jb8oq sx_53fd32\"></i></a>",
           "impact": "serious",
           "messages": [
@@ -760,8 +1895,8 @@
           "box": null
         },
         {
-          "target": "iframe #u_1_5_Kv > ._5pcr.userContentWrapper[data-ft=\"{\\\"tn\\\":\\\"-R\\\"}\"] > ._1dwg._1w_m._q7o > div:nth-child(3) > .l_c3pyo2v0u._5eit._4d-l > ._302 > span > a[target=\"_blank\"]",
-          "html": "<a href=\"/southernhealthsantesud/posts/pfbid0DyRUa6QoNGm59JWJ41Ts8hJxxQFgooLWZiP7KhPVSrMCQcGspUgbM2878sJ3WHQDl?ref=embed_page\" target=\"_blank\"><i class=\"img sp_JtTaN8Jb8oq sx_53fd32\"></i></a>",
+          "target": "iframe #u_1_5_fx > ._5pcr.userContentWrapper[data-ft=\"{\\\"tn\\\":\\\"-R\\\"}\"] > ._1dwg._1w_m._q7o > div:nth-child(3) > .l_c3pyo2v0u._5eit._4d-l > ._302 > span > a[target=\"_blank\"]",
+          "html": "<a href=\"/southernhealthsantesud/posts/pfbid02HLufC7mRQ6PHHd9w87vWF8efv7SwnGt7t7of6aHjc6RtE5AFat86ownRN7mY3xu2l?ref=embed_page\" target=\"_blank\"><i class=\"img sp_JtTaN8Jb8oq sx_53fd32\"></i></a>",
           "impact": "serious",
           "messages": [
             "Element does not have text that is visible to screen readers",
@@ -773,7 +1908,7 @@
           "box": null
         },
         {
-          "target": "iframe #u_1_d_ZN > ._5pcr.userContentWrapper[data-ft=\"{\\\"tn\\\":\\\"-R\\\"}\"] > ._1dwg._1w_m._q7o > ._2p_a._3x-2[data-ft=\"{\\\"tn\\\":\\\"H\\\"}\"] > div[data-ft=\"{\\\"tn\\\":\\\"H\\\"}\"] > .mtm > ._2l7q > a[target=\"_blank\"]",
+          "target": "iframe #u_1_c_2A > ._5pcr.userContentWrapper[data-ft=\"{\\\"tn\\\":\\\"-R\\\"}\"] > ._1dwg._1w_m._q7o > ._2p_a._3x-2[data-ft=\"{\\\"tn\\\":\\\"H\\\"}\"] > div[data-ft=\"{\\\"tn\\\":\\\"H\\\"}\"] > .mtm > ._2l7q > a[target=\"_blank\"]",
           "html": "<a href=\"https://www.facebook.com/photo.php?fbid=1939733213814146&set=a.764353114685501&type=3&ref=embed_page\" target=\"_blank\">",
           "impact": "serious",
           "messages": [
@@ -786,8 +1921,8 @@
           "box": null
         },
         {
-          "target": "iframe #u_1_d_ZN > ._5pcr.userContentWrapper[data-ft=\"{\\\"tn\\\":\\\"-R\\\"}\"] > ._1dwg._1w_m._q7o > div:nth-child(2) > .l_c3pyo2v0u._5eit._4d-l > ._302 > span > a[target=\"_blank\"]",
-          "html": "<a href=\"/southernhealthsantesud/posts/pfbid02Bch3GNDuTSQusuQobyP9ymtPEjGsJzVW4p1usjp1NMecYRH8aV9jFSDL9zSo8jXfl?ref=embed_page\" target=\"_blank\"><i class=\"img sp_JtTaN8Jb8oq sx_53fd32\"></i></a>",
+          "target": "iframe #u_1_c_2A > ._5pcr.userContentWrapper[data-ft=\"{\\\"tn\\\":\\\"-R\\\"}\"] > ._1dwg._1w_m._q7o > div:nth-child(2) > .l_c3pyo2v0u._5eit._4d-l > ._302 > span > a[target=\"_blank\"]",
+          "html": "<a href=\"/southernhealthsantesud/posts/pfbid0853rMCbYcKRknmxx21P2AjSqRi5AsWhNfgtyB8c4L1fiPVnB6XD5T2CRCwVu3W2il?ref=embed_page\" target=\"_blank\"><i class=\"img sp_JtTaN8Jb8oq sx_53fd32\"></i></a>",
           "impact": "serious",
           "messages": [
             "Element does not have text that is visible to screen readers",
@@ -799,8 +1934,8 @@
           "box": null
         },
         {
-          "target": "iframe #u_1_a_bY > ._5pcr.userContentWrapper[data-ft=\"{\\\"tn\\\":\\\"-R\\\"}\"] > ._1dwg._1w_m._q7o > div:nth-child(3) > .l_c3pyo2v0u._5eit._4d-l > ._302 > span > a[target=\"_blank\"]",
-          "html": "<a href=\"/southernhealthsantesud/posts/pfbid068tcmpquLRySbJmbL8ZF23bpcV7irzvLk6QSLVsRYRtUzhfyLByho4qgEPi12YUil?ref=embed_page\" target=\"_blank\"><i class=\"img sp_JtTaN8Jb8oq sx_53fd32\"></i></a>",
+          "target": "iframe #u_1_d_Hj > ._5pcr.userContentWrapper[data-ft=\"{\\\"tn\\\":\\\"-R\\\"}\"] > ._1dwg._1w_m._q7o > div:nth-child(3) > .l_c3pyo2v0u._5eit._4d-l > ._302 > span > a[target=\"_blank\"]",
+          "html": "<a href=\"/southernhealthsantesud/posts/pfbid029zLKxVmjBmu7EBeWj9bturyqPXT8i3RMwvfRmZp7u7VMCFZztPCs9XxKFLtbb4wrl?ref=embed_page\" target=\"_blank\"><i class=\"img sp_JtTaN8Jb8oq sx_53fd32\"></i></a>",
           "impact": "serious",
           "messages": [
             "Element does not have text that is visible to screen readers",
@@ -902,34 +2037,6 @@
             "background": "rgba(0, 0, 0, 0)",
             "text": ""
           }
-        }
-      ]
-    },
-    {
-      "id": "target-size",
-      "impact": "serious",
-      "help": "All touch targets must be 24px large, or leave sufficient space",
-      "description": "Ensure touch targets have sufficient size and space",
-      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/target-size?application=playwright",
-      "tags": [
-        "cat.sensory-and-visual-cues",
-        "wcag22aa",
-        "wcag258"
-      ],
-      "wcag": [
-        "2.5.8"
-      ],
-      "nodes": 1,
-      "items": [
-        {
-          "target": "iframe #u_1_b_2h > ._5pcr.userContentWrapper[data-ft=\"{\\\"tn\\\":\\\"-R\\\"}\"] > ._1dwg._1w_m._q7o > div:nth-child(3) > .l_c3pyo2v0u._5eit._4d-l > ._3dp._29k > div > ._6a > ._6b._6a:nth-child(2) > ._39g5[target=\"_blank\"]",
-          "html": "<a href=\"/southernhealthsantesud/posts/pfbid0ePzEN8ib69KHhR9iU8Ryd8y37wL9ySQNyD8mEPYRVSAsWRkbgfYPs9R45rfmsmyjl?ref=embed_page\" target=\"_blank\" class=\"_39g5\">",
-          "impact": "serious",
-          "messages": [
-            "Target has insufficient size (64.2px by 12px, should be at least 24px by 24px)",
-            "Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 14px instead of at least 24px."
-          ],
-          "box": null
         }
       ]
     }

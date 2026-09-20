@@ -10,6 +10,7 @@ Three layers, each a script:
 | 01 baseline | `audit.mjs` | axe violations per site, the number everyone publishes |
 | 01b scan audit | `diagnose.mjs` | proof the scan actually looked (nodes tested, screenshots) plus the **incomplete** list: findings axe raised and could not resolve |
 | 03 measurement + model | `propose.mjs` | cuts each element out of the real screenshot, computes the contrast ratio from pixels, and asks a local vision model for a verdict with a reason; writes `proposals.jsonl` |
+| 04 checks beyond the rules | `checks.mjs` | alt text that says what the image says, link text that says where it goes, headings that describe their section — a vision model on the captured content, plus rules where a rule suffices; writes `checks.jsonl`, reviewed as "AI found" |
 | 02 review | `review.mjs` | a local page that serves those findings one at a time for a human decision, blind to the model; writes `decisions.jsonl` and `review-log.md` |
 
 ## What this shows
@@ -86,6 +87,38 @@ finding on a mid-range GPU.
 
 The measurement is evidence and is shown to the reviewer. The model's verdict is
 not shown until the reviewer has decided.
+
+## Phase 04 — checks a rule cannot make
+
+```
+node checks.mjs                     # every site, every check; resumable
+node checks.mjs --site umanitoba.ca --check alt-text
+```
+
+`diagnose.mjs` now captures every image with its alt, every link with its
+accessible name and its 2.4.4 context (the enclosing sentence, list item or
+cell, else the nearest heading), and the heading outline. `checks.mjs` then:
+
+- **alt-text (1.1.1)** — rules catch file names, "image"/"White Logo", internal
+  labels ("file photo"), over-long alts, decorative images that are a link's
+  only content. Everything else goes to the vision model with the actual image,
+  its alt and its context: is this alt what a blind user needs?
+- **link-purpose (2.4.4)** — generic text ("Learn more") with no sentence, list
+  item or cell around it is a rule. Generic or duplicated text *with* context
+  goes to the model with that context.
+- **headings (1.3.1, 2.4.6)** — empty headings and skipped levels are rules;
+  the outline goes to the model for headings that do not describe their section.
+
+Each raised item is a claim. It appears in the review page tagged **AI found**
+with the reason (and a suggested alt where the model offered one); the
+reviewer's Confirm or Ignore is the measurement. `review-log.md` gains a "Beyond
+the rules" section: raised, confirmed, ignored and precision per check, and the
+share of all confirmed problems that had no axe rule behind them — what
+"automated tools miss" means on these pages, as reviewed.
+
+Model plumbing note (`lib/ollama.mjs`): qwen3-vl thinks out loud on text-only
+prompts regardless of `think:false`; prefilling the first characters of the
+JSON answer is what makes it answer directly.
 
 ## Phase 02 — review
 

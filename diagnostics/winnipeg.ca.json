@@ -19,7 +19,1829 @@
     "width": 1366,
     "height": 900
   },
-  "scannedAt": "2026-09-19T06:19:30.089Z",
+  "scannedAt": "2026-09-19T23:51:53.243Z",
+  "content": {
+    "images": [
+      {
+        "target": "div > div:nth-of-type(2) > div:nth-of-type(1) > a > img",
+        "tag": "img",
+        "src": "https://www.winnipeg.ca/themes/custom/confluence/img/cw-v-white-rgb.svg",
+        "alt": "Home",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 217,
+        "naturalHeight": 150,
+        "box": {
+          "x": 107,
+          "y": 62.40625,
+          "w": 173.34375,
+          "h": 120
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"/themes/custom/confluence/img/cw-v-white-rgb.svg\" alt=\"Home\">"
+      },
+      {
+        "target": "#block-homepage-hero > div > img",
+        "tag": "img",
+        "src": "https://www.winnipeg.ca/sites/default/files/styles/hero/public/2022-07/homepage-hero.jpg?itok=35iQkhfR",
+        "alt": "Large City of Winnipeg sign in uppercase white letters",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 2040,
+        "naturalHeight": 540,
+        "box": {
+          "x": 0,
+          "y": 202.40625,
+          "w": 1366,
+          "h": 361.578125
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "",
+        "html": "<img loading=\"eager\" src=\"/sites/default/files/styles/hero/public/2022-07/homepage-hero.jpg?itok=35iQkhfR\" width=\"2040\" height=\"540\" alt=\"Large City of Winnipeg sign in uppercase white letters\" typeof=\"foaf:Image\" class=\"image-style-hero\">"
+      },
+      {
+        "target": "div > div > div > div:nth-of-type(1) > img",
+        "tag": "img",
+        "src": "https://www.winnipeg.ca/sites/default/files/styles/card_image/public/2026-08/IMG-TR-Youth_Ride_Free-OCOS.png?itok=hCHSiO57",
+        "alt": "Student on a Winnipeg Transit bus",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 808,
+        "naturalHeight": 454,
+        "box": {
+          "x": 120,
+          "y": 1471.5625,
+          "w": 358,
+          "h": 201.140625
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "",
+        "html": "<img loading=\"lazy\" src=\"/sites/default/files/styles/card_image/public/2026-08/IMG-TR-Youth_Ride_Free-OCOS.png?itok=hCHSiO57\" width=\"808\" height=\"454\" alt=\"Student on a Winnipeg Transit bus\" typeof=\"foaf:Image\" class=\"image-style-card-image\">"
+      },
+      {
+        "target": "div > div > div > div:nth-of-type(1) > img",
+        "tag": "img",
+        "src": "https://www.winnipeg.ca/sites/default/files/styles/card_image/public/2022-09/Stadium-Station-IG-Field-02.jpg?itok=ZVKIJ0qp",
+        "alt": "Stadium Station at IG Field",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 808,
+        "naturalHeight": 454,
+        "box": {
+          "x": 504,
+          "y": 1471.5625,
+          "w": 358,
+          "h": 201.140625
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "",
+        "html": "<img loading=\"lazy\" src=\"/sites/default/files/styles/card_image/public/2022-09/Stadium-Station-IG-Field-02.jpg?itok=ZVKIJ0qp\" width=\"808\" height=\"454\" alt=\"Stadium Station at IG Field\" typeof=\"foaf:Image\" class=\"image-style-card-image\">"
+      },
+      {
+        "target": "div > div > div > div:nth-of-type(1) > img",
+        "tag": "img",
+        "src": "https://www.winnipeg.ca/sites/default/files/styles/card_image/public/2026-09/PF26card.jpg?itok=XIfqV3Xw",
+        "alt": "marker illustration of a diverse group of teens on orange background",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 808,
+        "naturalHeight": 454,
+        "box": {
+          "x": 888,
+          "y": 1471.5625,
+          "w": 358,
+          "h": 201.140625
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "",
+        "html": "<img loading=\"lazy\" src=\"/sites/default/files/styles/card_image/public/2026-09/PF26card.jpg?itok=XIfqV3Xw\" width=\"808\" height=\"454\" alt=\"marker illustration of a diverse group of teens on orange background\" typeof=\"foaf:Image\" class=\"image-style-card-image\">"
+      },
+      {
+        "target": "div > div > div > div:nth-of-type(1) > img",
+        "tag": "img",
+        "src": "https://www.winnipeg.ca/sites/default/files/styles/card_image/public/2025-06/construction-808x454.jpg?itok=8ic8Zgzv",
+        "alt": "Construction crew on Broadway in east bound lane",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 808,
+        "naturalHeight": 454,
+        "box": {
+          "x": 120,
+          "y": 1867.078125,
+          "w": 358,
+          "h": 201.140625
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "",
+        "html": "<img loading=\"lazy\" src=\"/sites/default/files/styles/card_image/public/2025-06/construction-808x454.jpg?itok=8ic8Zgzv\" width=\"808\" height=\"454\" alt=\"Construction crew on Broadway in east bound lane\" typeof=\"foaf:Image\" class=\"image-style-card-image\">"
+      },
+      {
+        "target": "div > div > div > div:nth-of-type(1) > img",
+        "tag": "img",
+        "src": "https://www.winnipeg.ca/sites/default/files/styles/card_image/public/2026-09/IMG-WPL-Book-stacks-2-808x454.jpg?itok=W3dK1TB1",
+        "alt": "Book stacks in Millennium Library",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 808,
+        "naturalHeight": 454,
+        "box": {
+          "x": 504,
+          "y": 1867.078125,
+          "w": 358,
+          "h": 201.140625
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "",
+        "html": "<img loading=\"lazy\" src=\"/sites/default/files/styles/card_image/public/2026-09/IMG-WPL-Book-stacks-2-808x454.jpg?itok=W3dK1TB1\" width=\"808\" height=\"454\" alt=\"Book stacks in Millennium Library\" typeof=\"foaf:Image\" class=\"image-style-card-image\">"
+      },
+      {
+        "target": "div > div > div > div:nth-of-type(1) > img",
+        "tag": "img",
+        "src": "https://www.winnipeg.ca/sites/default/files/styles/card_image/public/2023-08/2024-Boards-and-Commissions_WEB-Banner-808x454.png?itok=YPZrHLOW",
+        "alt": "Aerial view of the Provencher Bridge and Esplanade Riel facing St. Boniface",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 808,
+        "naturalHeight": 454,
+        "box": {
+          "x": 888,
+          "y": 1867.078125,
+          "w": 358,
+          "h": 201.140625
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "",
+        "html": "<img loading=\"lazy\" src=\"/sites/default/files/styles/card_image/public/2023-08/2024-Boards-and-Commissions_WEB-Banner-808x454.png?itok=YPZrHLOW\" width=\"808\" height=\"454\" alt=\"Aerial view of the Provencher Bridge and Esplanade Riel facing St. Boniface\" typeof=\"foaf:Image\" class=\"image-style-card-image\">"
+      },
+      {
+        "target": "div:nth-of-type(2) > div:nth-of-type(1) > div > a > img",
+        "tag": "img",
+        "src": "https://www.winnipeg.ca/sites/default/files/styles/card_image/public/2026-09/IMG-CWCF-Fire_Engine_Pull-20260917%204.png?itok=NGHNmSHE",
+        "alt": "Teams of employees pulling fire engines",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 808,
+        "naturalHeight": 454,
+        "box": {
+          "x": 120,
+          "y": 2366.40625,
+          "w": 262,
+          "h": 147.203125
+        },
+        "inLink": true,
+        "linkText": "City employees pull together to give back to the community September 18, 2026",
+        "linkHref": "/people-culture/our-city-our-stories/city-employees-pull-together-give-back-community",
+        "caption": "",
+        "nearText": "City employees pull together to give back to the community September 18, 2026",
+        "html": "<img loading=\"lazy\" src=\"/sites/default/files/styles/card_image/public/2026-09/IMG-CWCF-Fire_Engine_Pull-20260917%204.png?itok=NGHNmSHE\" width=\"808\" height=\"454\" alt=\"Teams of employees pulling fire engines\" typeof=\"Image\" class=\"image-style-card-image\">"
+      },
+      {
+        "target": "div:nth-of-type(2) > div:nth-of-type(2) > div > a > img",
+        "tag": "img",
+        "src": "https://www.winnipeg.ca/sites/default/files/styles/card_image/public/2022-10/20221025-Warehouse2-Gallery.jpg?itok=XUYLpUh-",
+        "alt": "Voting location supply packing underway at the election warehouse.",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 808,
+        "naturalHeight": 454,
+        "box": {
+          "x": 408,
+          "y": 2366.40625,
+          "w": 262,
+          "h": 147.203125
+        },
+        "inLink": true,
+        "linkText": "Get ready to vote! Why it’s important to take part in the democratic process September 15, 2026",
+        "linkHref": "/people-culture/our-city-our-stories/get-ready-vote-why-its-important-take-part-democratic-process",
+        "caption": "",
+        "nearText": "Get ready to vote! Why it’s important to take part in the democratic process September 15, 2026",
+        "html": "<img loading=\"lazy\" src=\"/sites/default/files/styles/card_image/public/2022-10/20221025-Warehouse2-Gallery.jpg?itok=XUYLpUh-\" width=\"808\" height=\"454\" alt=\"Voting location supply packing underway at the election warehouse.\" typeof=\"Image\" class=\"image-style-card-image\">"
+      },
+      {
+        "target": "#footer > div:nth-of-type(1) > a > img",
+        "tag": "img",
+        "src": "https://www.winnipeg.ca/themes/custom/confluence/img/cv-h-white-rgb.svg",
+        "alt": "City of Winnipeg logo",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 300,
+        "naturalHeight": 102,
+        "box": {
+          "x": 119,
+          "y": 3409.671875,
+          "w": 129.09375,
+          "h": 44
+        },
+        "inLink": true,
+        "linkText": "City of Winnipeg homepage",
+        "linkHref": "https://winnipeg.ca",
+        "caption": "",
+        "nearText": "",
+        "html": "<img alt=\"City of Winnipeg logo\" src=\"/themes/custom/confluence/img/cv-h-white-rgb.svg\">"
+      }
+    ],
+    "links": [
+      {
+        "target": "body > div:nth-of-type(1) > div > p > a",
+        "text": "Learn about cookies",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/node/8477",
+        "imgAlt": "",
+        "box": {
+          "x": 510.4375,
+          "y": 849.796875,
+          "w": 151.390625,
+          "h": 23
+        },
+        "context": "We use cookies to help improve our website for you. Learn about cookies",
+        "contextKind": "p",
+        "html": "<a data-cc-if=\"options.link\" target=\"_self\" class=\"cc_more_info\" href=\"/node/8477\">Learn about cookies</a>"
+      },
+      {
+        "target": "html > body > a:nth-of-type(1)",
+        "text": "Skip to main content",
+        "ariaLabel": "",
+        "title": "",
+        "href": "#main-content",
+        "imgAlt": "",
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 1,
+          "h": 1
+        },
+        "context": "",
+        "contextKind": "none",
+        "html": "<a href=\"#main-content\" class=\"visually-hidden focusable a-skip-link\">Skip to main content</a>"
+      },
+      {
+        "target": "html > body > a:nth-of-type(2)",
+        "text": "Skip to main menu",
+        "ariaLabel": "",
+        "title": "",
+        "href": "#block-mainmenu",
+        "imgAlt": "",
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 1,
+          "h": 1
+        },
+        "context": "",
+        "contextKind": "none",
+        "html": "<a href=\"#block-mainmenu\" class=\"visually-hidden focusable a-skip-link\">Skip to main menu</a>"
+      },
+      {
+        "target": "html > body > a:nth-of-type(3)",
+        "text": "Skip to footer",
+        "ariaLabel": "",
+        "title": "",
+        "href": "#footer",
+        "imgAlt": "",
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 1,
+          "h": 1
+        },
+        "context": "",
+        "contextKind": "none",
+        "html": "<a href=\"#footer\" class=\"visually-hidden focusable a-skip-link\">Skip to footer</a>"
+      },
+      {
+        "target": "header > div > div:nth-of-type(2) > div:nth-of-type(1) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "Home",
+        "href": "/",
+        "imgAlt": "Home",
+        "box": {
+          "x": 107,
+          "y": 62.40625,
+          "w": 173.34375,
+          "h": 120
+        },
+        "context": "City locations Connect with us Departments Newsroom Français Services & programs Recreation & leisure People & culture Building & development City governance 311 City services",
+        "contextKind": "block",
+        "html": "<a href=\"/\" title=\"Home\" rel=\"home\" class=\"logo\"> <img src=\"/themes/custom/confluence/img/cw-v-white-rgb.svg\" alt=\"Home\"> </a>"
+      },
+      {
+        "target": "#block-header > ul > li:nth-of-type(1) > a",
+        "text": "City locations",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/city-locations",
+        "imgAlt": "",
+        "box": {
+          "x": 334.140625,
+          "y": 64,
+          "w": 90.359375,
+          "h": 20
+        },
+        "context": "City locations",
+        "contextKind": "li",
+        "html": "<a href=\"/city-locations\" data-drupal-link-system-path=\"node/34646\">City locations</a>"
+      },
+      {
+        "target": "#block-header > ul > li:nth-of-type(2) > a",
+        "text": "Connect with us",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/connect",
+        "imgAlt": "",
+        "box": {
+          "x": 448.5,
+          "y": 64,
+          "w": 107.140625,
+          "h": 20
+        },
+        "context": "Connect with us",
+        "contextKind": "li",
+        "html": "<a href=\"/connect\" data-drupal-link-system-path=\"node/2398\">Connect with us</a>"
+      },
+      {
+        "target": "#block-header > ul > li:nth-of-type(3) > a",
+        "text": "Departments",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/node/25438",
+        "imgAlt": "",
+        "box": {
+          "x": 579.640625,
+          "y": 64,
+          "w": 87.375,
+          "h": 20
+        },
+        "context": "Departments",
+        "contextKind": "li",
+        "html": "<a href=\"/node/25438\" data-drupal-link-system-path=\"node/25438\">Departments</a>"
+      },
+      {
+        "target": "#block-header > ul > li:nth-of-type(4) > a",
+        "text": "Newsroom",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/news",
+        "imgAlt": "",
+        "box": {
+          "x": 691.015625,
+          "y": 64,
+          "w": 72.5625,
+          "h": 20
+        },
+        "context": "Newsroom",
+        "contextKind": "li",
+        "html": "<a href=\"/news\" data-drupal-link-system-path=\"node/2400\">Newsroom</a>"
+      },
+      {
+        "target": "#block-languageswitchercontent > a",
+        "text": "Français",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/fr",
+        "imgAlt": "",
+        "box": {
+          "x": 787.578125,
+          "y": 64,
+          "w": 55.421875,
+          "h": 20
+        },
+        "context": "City locations Connect with us Departments Newsroom Français",
+        "contextKind": "block",
+        "html": "<a href=\"/fr\" class=\"language-link\" hreflang=\"fr\" data-drupal-link-system-path=\"&lt;front&gt;\">Français</a>"
+      },
+      {
+        "target": "#menu-services--programs",
+        "text": "Services & programs",
+        "ariaLabel": "",
+        "title": "Expand menu Services & programs",
+        "href": "/services-programs",
+        "imgAlt": "",
+        "box": {
+          "x": 355,
+          "y": 120,
+          "w": 112,
+          "h": 62.40625
+        },
+        "context": "Services & programs",
+        "contextKind": "li",
+        "html": "<a href=\"/services-programs\" aria-haspopup=\"true\" aria-expanded=\"false\" title=\"Expand menu Services &amp; programs\" id=\"menu-services--programs\" data-drupal-link-system-path=\"node/4\">Services &amp; programs</a>"
+      },
+      {
+        "target": "#menu-recreation--leisure",
+        "text": "Recreation & leisure",
+        "ariaLabel": "",
+        "title": "Expand menu Recreation & leisure",
+        "href": "/recreation-leisure",
+        "imgAlt": "",
+        "box": {
+          "x": 511,
+          "y": 120,
+          "w": 112,
+          "h": 62.40625
+        },
+        "context": "Recreation & leisure",
+        "contextKind": "li",
+        "html": "<a href=\"/recreation-leisure\" aria-haspopup=\"true\" aria-expanded=\"false\" title=\"Expand menu Recreation &amp; leisure\" id=\"menu-recreation--leisure\" data-drupal-link-system-path=\"node/3\">Recreation &amp; leisure</a>"
+      },
+      {
+        "target": "#menu-people--culture",
+        "text": "People & culture",
+        "ariaLabel": "",
+        "title": "Expand menu People & culture",
+        "href": "/people-culture",
+        "imgAlt": "",
+        "box": {
+          "x": 667,
+          "y": 120,
+          "w": 112,
+          "h": 62.40625
+        },
+        "context": "People & culture",
+        "contextKind": "li",
+        "html": "<a href=\"/people-culture\" aria-haspopup=\"true\" aria-expanded=\"false\" title=\"Expand menu People &amp; culture\" id=\"menu-people--culture\" data-drupal-link-system-path=\"node/8\">People &amp; culture</a>"
+      },
+      {
+        "target": "#menu-building--development",
+        "text": "Building & development",
+        "ariaLabel": "",
+        "title": "Expand menu Building & development",
+        "href": "/building-development",
+        "imgAlt": "",
+        "box": {
+          "x": 823,
+          "y": 120,
+          "w": 112,
+          "h": 62.40625
+        },
+        "context": "Building & development",
+        "contextKind": "li",
+        "html": "<a href=\"/building-development\" aria-haspopup=\"true\" aria-expanded=\"false\" title=\"Expand menu Building &amp; development\" id=\"menu-building--development\" data-drupal-link-system-path=\"node/6\">Building &amp; development</a>"
+      },
+      {
+        "target": "#menu-city-governance",
+        "text": "City governance",
+        "ariaLabel": "",
+        "title": "Expand menu City governance",
+        "href": "/city-governance",
+        "imgAlt": "",
+        "box": {
+          "x": 979,
+          "y": 120,
+          "w": 112,
+          "h": 62.40625
+        },
+        "context": "City governance",
+        "contextKind": "li",
+        "html": "<a href=\"/city-governance\" aria-haspopup=\"true\" aria-expanded=\"false\" title=\"Expand menu City governance\" id=\"menu-city-governance\" data-drupal-link-system-path=\"node/7\">City governance</a>"
+      },
+      {
+        "target": "#menu-_11-city-services",
+        "text": "311 City services",
+        "ariaLabel": "",
+        "title": "Expand menu 311 City services",
+        "href": "/311-city-services",
+        "imgAlt": "",
+        "box": {
+          "x": 1135,
+          "y": 120,
+          "w": 112,
+          "h": 62.40625
+        },
+        "context": "311 City services",
+        "contextKind": "li",
+        "html": "<a href=\"/311-city-services\" aria-haspopup=\"true\" aria-expanded=\"false\" title=\"Expand menu 311 City services\" id=\"menu-_11-city-services\" data-drupal-link-system-path=\"node/2397\">311 City services</a>"
+      },
+      {
+        "target": "ul:nth-of-type(1) > li:nth-of-type(1) > div > span > a",
+        "text": "Potholes on city streets",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/node/25132",
+        "imgAlt": "",
+        "box": {
+          "x": 426,
+          "y": 610.984375,
+          "w": 173.890625,
+          "h": 23
+        },
+        "context": "Potholes on city streets",
+        "contextKind": "li",
+        "html": "<a href=\"/node/25132\">Potholes on city streets</a>"
+      },
+      {
+        "target": "ul:nth-of-type(1) > li:nth-of-type(2) > div > span > a",
+        "text": "Parking violation",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/node/25210",
+        "imgAlt": "",
+        "box": {
+          "x": 426,
+          "y": 666.984375,
+          "w": 126.703125,
+          "h": 23
+        },
+        "context": "Parking violation",
+        "contextKind": "li",
+        "html": "<a href=\"/node/25210\">Parking violation</a>"
+      },
+      {
+        "target": "ul:nth-of-type(1) > li:nth-of-type(3) > div > span > a",
+        "text": "Property concerns",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/node/25116",
+        "imgAlt": "",
+        "box": {
+          "x": 426,
+          "y": 722.984375,
+          "w": 137.09375,
+          "h": 23
+        },
+        "context": "Property concerns",
+        "contextKind": "li",
+        "html": "<a href=\"/node/25116\">Property concerns</a>"
+      },
+      {
+        "target": "ul:nth-of-type(1) > li:nth-of-type(4) > div > span > a",
+        "text": "Road, curb, lane, bridge & sidewalk maintenance",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/node/25135",
+        "imgAlt": "",
+        "box": {
+          "x": 426,
+          "y": 778.984375,
+          "w": 262.15625,
+          "h": 51
+        },
+        "context": "Road, curb, lane, bridge & sidewalk maintenance",
+        "contextKind": "li",
+        "html": "<a href=\"/node/25135\">Road, curb, lane, bridge &amp; sidewalk maintenance</a>"
+      },
+      {
+        "target": "ul:nth-of-type(1) > li:nth-of-type(5) > div > span > a",
+        "text": "Animal concerns",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/services-programs/animals/animal-complaints",
+        "imgAlt": "",
+        "box": {
+          "x": 426,
+          "y": 862.984375,
+          "w": 124.078125,
+          "h": 23
+        },
+        "context": "Animal concerns",
+        "contextKind": "li",
+        "html": "<a href=\"/services-programs/animals/animal-complaints\">Animal concerns</a>"
+      },
+      {
+        "target": "ul:nth-of-type(1) > li:nth-of-type(6) > div > span > a",
+        "text": "Missed recycling, garbage or yard waste collection",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/services-programs/recycling-garbage/collection-services/report-missed-collection",
+        "imgAlt": "",
+        "box": {
+          "x": 426,
+          "y": 918.984375,
+          "w": 295.34375,
+          "h": 51
+        },
+        "context": "Missed recycling, garbage or yard waste collection",
+        "contextKind": "li",
+        "html": "<a href=\"/services-programs/recycling-garbage/collection-services/report-missed-collection\">Missed recycling, garbage or yard waste collection</a>"
+      },
+      {
+        "target": "ul:nth-of-type(1) > li:nth-of-type(7) > div > span > a",
+        "text": "Crime reporting",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/node/25142",
+        "imgAlt": "",
+        "box": {
+          "x": 426,
+          "y": 1002.984375,
+          "w": 118.828125,
+          "h": 23
+        },
+        "context": "Crime reporting",
+        "contextKind": "li",
+        "html": "<a href=\"/node/25142\">Crime reporting</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > ul > li:nth-of-type(1) > a",
+        "text": "Submit a report or request",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/node/35148",
+        "imgAlt": "",
+        "box": {
+          "x": 144,
+          "y": 914.984375,
+          "w": 198.3125,
+          "h": 23
+        },
+        "context": "Submit a report or request",
+        "contextKind": "li",
+        "html": "<a href=\"/node/35148\">Submit a report or request</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > ul > li:nth-of-type(2) > a",
+        "text": "Track a service request",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/node/24498",
+        "imgAlt": "",
+        "box": {
+          "x": 144,
+          "y": 946.984375,
+          "w": 170.4375,
+          "h": 23
+        },
+        "context": "Track a service request",
+        "contextKind": "li",
+        "html": "<a href=\"/node/24498\">Track a service request</a>"
+      },
+      {
+        "target": "#block-transitupcomingbuses > div > p > a:nth-of-type(1)",
+        "text": "Navigo",
+        "ariaLabel": "",
+        "title": "",
+        "href": "http://winnipegtransit.com/navigo/",
+        "imgAlt": "",
+        "box": {
+          "x": 957.1875,
+          "y": 945.375,
+          "w": 52.140625,
+          "h": 23
+        },
+        "context": "Plan your trip with Navigo or find a bus stop.",
+        "contextKind": "p",
+        "html": "<a href=\"http://winnipegtransit.com/navigo/\" target=\"_blank\">Navigo</a>"
+      },
+      {
+        "target": "#block-transitupcomingbuses > div > p > a:nth-of-type(2)",
+        "text": "find a bus stop",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://info.winnipegtransit.com/en/stops",
+        "imgAlt": "",
+        "box": {
+          "x": 1032.53125,
+          "y": 945.375,
+          "w": 109.265625,
+          "h": 23
+        },
+        "context": "Plan your trip with Navigo or find a bus stop.",
+        "contextKind": "p",
+        "html": "<a href=\"https://info.winnipegtransit.com/en/stops\" target=\"_blank\">find a bus stop</a>"
+      },
+      {
+        "target": "div > div > div > div:nth-of-type(2) > a",
+        "text": "Sign up today",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/311-city-services/myaccount-services",
+        "imgAlt": "",
+        "box": {
+          "x": 144,
+          "y": 1269.171875,
+          "w": 150.71875,
+          "h": 44.390625
+        },
+        "context": "heading: Sign up for MyAccount",
+        "contextKind": "heading-only",
+        "html": "<a class=\"btn btn-primary my-2\" href=\"/311-city-services/myaccount-services\">Sign up today</a>"
+      },
+      {
+        "target": "div > div > div:nth-of-type(2) > h2 > a",
+        "text": "Ready to Ride",
+        "ariaLabel": "Ready to Ride",
+        "title": "",
+        "href": "/people-culture/our-city-our-stories/ready-ride-student-guide-using-your-free-youth-transit-pass",
+        "imgAlt": "",
+        "box": {
+          "x": 144,
+          "y": 1694.703125,
+          "w": 129.171875,
+          "h": 28
+        },
+        "context": "heading: Ready to Ride | Ready to Ride A student guide to using your free Youth Transit Pass",
+        "contextKind": "block",
+        "html": "<a href=\"/people-culture/our-city-our-stories/ready-ride-student-guide-using-your-free-youth-transit-pass\" aria-label=\"Ready to Ride\"> Ready to Ride </a>"
+      },
+      {
+        "target": "div > div > div:nth-of-type(2) > h3 > a",
+        "text": "Heading to Princess Auto Stadium?",
+        "ariaLabel": "Heading to Princess Auto Stadium?",
+        "title": "",
+        "href": "/people-culture/our-city-our-stories/heading-princess-auto-stadium-we-have-several-transportation-options-football-fans",
+        "imgAlt": "",
+        "box": {
+          "x": 528,
+          "y": 1694.703125,
+          "w": 234.578125,
+          "h": 52.1875
+        },
+        "context": "heading: Heading to Princess Auto Stadium? | Heading to Princess Auto Stadium? We have several transportation options for football fans",
+        "contextKind": "block",
+        "html": "<a href=\"/people-culture/our-city-our-stories/heading-princess-auto-stadium-we-have-several-transportation-options-football-fans\" aria-label=\"Heading to Princess Auto Stadium?\"> Heading to Princess Auto Stadium? </a>"
+      },
+      {
+        "target": "div > div > div:nth-of-type(2) > h3 > a",
+        "text": "Explore our recreation programs",
+        "ariaLabel": "Explore our recreation programs",
+        "title": "",
+        "href": "/recreation-leisure/recreation-programs",
+        "imgAlt": "",
+        "box": {
+          "x": 912,
+          "y": 1694.703125,
+          "w": 305.109375,
+          "h": 28
+        },
+        "context": "heading: Explore our recreation programs | Explore our recreation programs Register for Leisure Guide programs or take in free drop-in activities",
+        "contextKind": "block",
+        "html": "<a href=\"/recreation-leisure/recreation-programs\" aria-label=\"Explore our recreation programs\"> Explore our recreation programs </a>"
+      },
+      {
+        "target": "div > div > div:nth-of-type(2) > h3 > a",
+        "text": "Road construction & closures",
+        "ariaLabel": "Road construction & closures",
+        "title": "",
+        "href": "/services-programs/transportation-roads-parking/road-construction-closures",
+        "imgAlt": "",
+        "box": {
+          "x": 144,
+          "y": 2090.21875,
+          "w": 273.59375,
+          "h": 28
+        },
+        "context": "heading: Road construction & closures | Road construction & closures Winnipeggers can expect a busy and productive construction season",
+        "contextKind": "block",
+        "html": "<a href=\"/services-programs/transportation-roads-parking/road-construction-closures\" aria-label=\"Road construction &amp; closures\"> Road construction &amp; closures </a>"
+      },
+      {
+        "target": "div > div > div:nth-of-type(2) > h3 > a",
+        "text": "Our City, Our Podcast",
+        "ariaLabel": "Our City, Our Podcast",
+        "title": "",
+        "href": "/people-culture/our-city-our-podcast",
+        "imgAlt": "",
+        "box": {
+          "x": 528,
+          "y": 2090.21875,
+          "w": 201.09375,
+          "h": 28
+        },
+        "context": "heading: Our City, Our Podcast | Our City, Our Podcast On the latest episode, hear what goes into picking the books in the Winnipeg Public Library's collection.",
+        "contextKind": "block",
+        "html": "<a href=\"/people-culture/our-city-our-podcast\" aria-label=\"Our City, Our Podcast\"> Our City, Our Podcast </a>"
+      },
+      {
+        "target": "div > div > div:nth-of-type(2) > h3 > a",
+        "text": "Call for applications to Boards & Commissions",
+        "ariaLabel": "Call for applications to Boards & Commissions",
+        "title": "",
+        "href": "/city-governance/boards-commissions/citizen-appointments",
+        "imgAlt": "",
+        "box": {
+          "x": 912,
+          "y": 2090.21875,
+          "w": 301.3125,
+          "h": 52.1875
+        },
+        "context": "heading: Call for applications to Boards & Commissions | Call for applications to Boards & Commissions",
+        "contextKind": "block",
+        "html": "<a href=\"/city-governance/boards-commissions/citizen-appointments\" aria-label=\"Call for applications to Boards &amp; Commissions\"> Call for applications to Boards &amp; Commissions </a>"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > div:nth-of-type(1) > div > a",
+        "text": "City employees pull together to give back to the community September 18, 2026",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/people-culture/our-city-our-stories/city-employees-pull-together-give-back-community",
+        "imgAlt": "Teams of employees pulling fire engines",
+        "box": {
+          "x": 120,
+          "y": 2366.40625,
+          "w": 262,
+          "h": 311.765625
+        },
+        "context": "heading: Our City, Our Stories | City employees pull together to give back to the community September 18, 2026",
+        "contextKind": "block",
+        "html": "<a href=\"/people-culture/our-city-our-stories/city-employees-pull-together-give-back-community\"> <img loading=\"lazy\" src=\"/sites/default/files/styles/card_image/public/2026-09/IMG-CWCF-Fire_Engine_Pull-20260917%204.png?itok=NGHNmSHE\" width=\"808\" height=\"454\" alt=\"Teams of employees pulling fire engi"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > div:nth-of-type(2) > div > a",
+        "text": "Get ready to vote! Why it’s important to take part in the democratic process September 15, 2026",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/people-culture/our-city-our-stories/get-ready-vote-why-its-important-take-part-democratic-process",
+        "imgAlt": "Voting location supply packing underway at the election warehouse.",
+        "box": {
+          "x": 408,
+          "y": 2366.40625,
+          "w": 262,
+          "h": 335.953125
+        },
+        "context": "heading: City employees pull together to give back to the community | Get ready to vote! Why it’s important to take part in the democratic process September 15, 2026",
+        "contextKind": "block",
+        "html": "<a href=\"/people-culture/our-city-our-stories/get-ready-vote-why-its-important-take-part-democratic-process\"> <img loading=\"lazy\" src=\"/sites/default/files/styles/card_image/public/2022-10/20221025-Warehouse2-Gallery.jpg?itok=XUYLpUh-\" width=\"808\" height=\"454\" alt=\"Voting location supply packing und"
+      },
+      {
+        "target": "#tab-events",
+        "text": "Events",
+        "ariaLabel": "",
+        "title": "",
+        "href": "#tab-events-panel",
+        "imgAlt": "",
+        "box": {
+          "x": 695,
+          "y": 2361.40625,
+          "w": 274,
+          "h": 46
+        },
+        "context": "Events",
+        "contextKind": "li",
+        "html": "<a class=\"nav-link active\" id=\"tab-events\" data-toggle=\"tab\" href=\"#tab-events-panel\" role=\"tab\" aria-controls=\"tab-events-panel\" aria-selected=\"false\">Events</a>"
+      },
+      {
+        "target": "#tab-more-stories",
+        "text": "More stories",
+        "ariaLabel": "",
+        "title": "",
+        "href": "#tab-more-stories-panel",
+        "imgAlt": "",
+        "box": {
+          "x": 973,
+          "y": 2361.40625,
+          "w": 274,
+          "h": 46
+        },
+        "context": "More stories",
+        "contextKind": "li",
+        "html": "<a class=\"nav-link\" id=\"tab-more-stories\" data-toggle=\"tab\" href=\"#tab-more-stories-panel\" role=\"tab\" aria-controls=\"tab-more-stories-panel\" aria-selected=\"false\">More stories</a>"
+      },
+      {
+        "target": "#tab-events-panel > div > p > a",
+        "text": "View all events",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/people-culture/events-winnipeg",
+        "imgAlt": "",
+        "box": {
+          "x": 720,
+          "y": 2743.40625,
+          "w": 98.375,
+          "h": 20
+        },
+        "context": "View all events",
+        "contextKind": "p",
+        "html": "<a href=\"/people-culture/events-winnipeg\">View all events</a>"
+      },
+      {
+        "target": "div:nth-of-type(5) > div > div:nth-of-type(1) > div > a",
+        "text": "Careers at the City",
+        "ariaLabel": "Careers at the City",
+        "title": "",
+        "href": "/careers",
+        "imgAlt": "",
+        "box": {
+          "x": 119,
+          "y": 2915.28125,
+          "w": 360,
+          "h": 164
+        },
+        "context": "heading: Popular topics | Careers at the City Public engagement opportunities Accessibility disruption notices",
+        "contextKind": "block",
+        "html": "<a href=\"/careers\" aria-label=\"Careers at the City\" class=\"p-4 feature-secondary card--secondary\"><div class=\"card-img-top card-icon\"><div class=\"fontawesome-icons\"><div class=\"fontawesome-icon\"> <span class=\"far fa-user-plus\" data-fa-transform=\"\" data-fa-mask=\"\" style=\"--fa-primary-color: #000000; "
+      },
+      {
+        "target": "div:nth-of-type(5) > div > div:nth-of-type(2) > div > a",
+        "text": "Public engagement opportunities",
+        "ariaLabel": "Public engagement opportunities",
+        "title": "",
+        "href": "/city-governance/city-projects/public-engagement-opportunities",
+        "imgAlt": "",
+        "box": {
+          "x": 503,
+          "y": 2915.28125,
+          "w": 360,
+          "h": 164
+        },
+        "context": "heading: Careers at the City | Careers at the City Public engagement opportunities Accessibility disruption notices",
+        "contextKind": "block",
+        "html": "<a href=\"/city-governance/city-projects/public-engagement-opportunities\" aria-label=\"Public engagement opportunities\" class=\"p-4 feature-secondary card--secondary\"><div class=\"card-img-top card-icon\"><div class=\"fontawesome-icons\"><div class=\"fontawesome-icon\"> <span class=\"fas fa-messages\" data-fa-"
+      },
+      {
+        "target": "div:nth-of-type(5) > div > div:nth-of-type(3) > div > a",
+        "text": "Accessibility disruption notices",
+        "ariaLabel": "Accessibility disruption notices",
+        "title": "",
+        "href": "/services-programs/accessibility/disruption-notices",
+        "imgAlt": "",
+        "box": {
+          "x": 887,
+          "y": 2915.28125,
+          "w": 360,
+          "h": 164
+        },
+        "context": "heading: Public engagement opportunities | Careers at the City Public engagement opportunities Accessibility disruption notices",
+        "contextKind": "block",
+        "html": "<a href=\"/services-programs/accessibility/disruption-notices\" aria-label=\"Accessibility disruption notices\" class=\"p-4 feature-secondary card--secondary\"><div class=\"card-img-top card-icon\"><div class=\"fontawesome-icons\"><div class=\"fontawesome-icon\"> <span class=\"fal fa-circle-info\" data-fa-transfo"
+      },
+      {
+        "target": "#footer > div:nth-of-type(1) > a",
+        "text": "",
+        "ariaLabel": "City of Winnipeg homepage",
+        "title": "",
+        "href": "https://winnipeg.ca",
+        "imgAlt": "City of Winnipeg logo",
+        "box": {
+          "x": 119,
+          "y": 3434.046875,
+          "w": 129.09375,
+          "h": 23
+        },
+        "context": "heading: How can we make this web page better?",
+        "contextKind": "heading-only",
+        "html": "<a class=\"logo\" aria-label=\"City of Winnipeg homepage\" href=\"https://winnipeg.ca\"><img alt=\"City of Winnipeg logo\" src=\"/themes/custom/confluence/img/cv-h-white-rgb.svg\"></a>"
+      },
+      {
+        "target": "div > div:nth-of-type(1) > ul > li:nth-of-type(1) > a",
+        "text": "Home",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/homepage",
+        "imgAlt": "",
+        "box": {
+          "x": 311,
+          "y": 3487.671875,
+          "w": 46.125,
+          "h": 23
+        },
+        "context": "Home",
+        "contextKind": "li",
+        "html": "<a data-entity-substitution=\"canonical\" data-entity-type=\"node\" data-entity-uuid=\"568ca944-73c8-4a61-996f-091ad863135e\" href=\"/homepage\">Home</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(1) > ul > li:nth-of-type(2) > a",
+        "text": "Accessibility",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/services-programs/accessibility",
+        "imgAlt": "",
+        "box": {
+          "x": 311,
+          "y": 3523.671875,
+          "w": 95.03125,
+          "h": 23
+        },
+        "context": "Accessibility",
+        "contextKind": "li",
+        "html": "<a data-entity-substitution=\"canonical\" data-entity-type=\"node\" data-entity-uuid=\"deffce8a-87fc-4a6a-a242-5756c7972218\" href=\"/services-programs/accessibility\">Accessibility</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(1) > ul > li:nth-of-type(3) > a",
+        "text": "Apps",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/311-city-services#mobile-apps",
+        "imgAlt": "",
+        "box": {
+          "x": 311,
+          "y": 3559.671875,
+          "w": 38.046875,
+          "h": 23
+        },
+        "context": "Apps",
+        "contextKind": "li",
+        "html": "<a href=\"/311-city-services#mobile-apps\">Apps</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(1) > ul > li:nth-of-type(4) > a",
+        "text": "Open Data",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://data.winnipeg.ca",
+        "imgAlt": "",
+        "box": {
+          "x": 311,
+          "y": 3595.671875,
+          "w": 80.75,
+          "h": 23
+        },
+        "context": "Open Data",
+        "contextKind": "li",
+        "html": "<a href=\"https://data.winnipeg.ca\">Open Data</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(1) > ul > li:nth-of-type(5) > a",
+        "text": "Maps",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/maps",
+        "imgAlt": "",
+        "box": {
+          "x": 311,
+          "y": 3631.671875,
+          "w": 40.546875,
+          "h": 23
+        },
+        "context": "Maps",
+        "contextKind": "li",
+        "html": "<a data-entity-substitution=\"canonical\" data-entity-type=\"node\" data-entity-uuid=\"839c6764-7f3e-400d-83ab-0172e0aa3ae5\" href=\"/maps\">Maps</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > ul > li:nth-of-type(1) > a",
+        "text": "Services & programs",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/services-programs",
+        "imgAlt": "",
+        "box": {
+          "x": 503,
+          "y": 3487.671875,
+          "w": 157.4375,
+          "h": 23
+        },
+        "context": "Services & programs",
+        "contextKind": "li",
+        "html": "<a data-entity-substitution=\"canonical\" data-entity-type=\"node\" data-entity-uuid=\"ae9857fe-3a64-4c7e-a882-4619de7827bb\" href=\"/services-programs\">Services &amp; programs</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > ul > li:nth-of-type(2) > a",
+        "text": "Recreation & leisure",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/recreation-leisure",
+        "imgAlt": "",
+        "box": {
+          "x": 503,
+          "y": 3523.671875,
+          "w": 154.390625,
+          "h": 23
+        },
+        "context": "Recreation & leisure",
+        "contextKind": "li",
+        "html": "<a data-entity-substitution=\"canonical\" data-entity-type=\"node\" data-entity-uuid=\"f90bf697-dc76-49bf-8088-da35c0df54e4\" href=\"/recreation-leisure\">Recreation &amp; leisure</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > ul > li:nth-of-type(3) > a",
+        "text": "People & culture",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/people-culture",
+        "imgAlt": "",
+        "box": {
+          "x": 503,
+          "y": 3559.671875,
+          "w": 127.328125,
+          "h": 23
+        },
+        "context": "People & culture",
+        "contextKind": "li",
+        "html": "<a data-entity-substitution=\"canonical\" data-entity-type=\"node\" data-entity-uuid=\"c2a54f4e-8f55-4042-8ea0-870c5c17e08b\" href=\"/people-culture\">People &amp; culture</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > ul > li:nth-of-type(4) > a",
+        "text": "Building & development",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/building-development",
+        "imgAlt": "",
+        "box": {
+          "x": 503,
+          "y": 3595.671875,
+          "w": 103,
+          "h": 51
+        },
+        "context": "Building & development",
+        "contextKind": "li",
+        "html": "<a data-entity-substitution=\"canonical\" data-entity-type=\"node\" data-entity-uuid=\"010b6376-8057-4c7b-b863-6eea50aa8c54\" href=\"/building-development\">Building &amp; development</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > ul > li:nth-of-type(5) > a",
+        "text": "City governance",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/city-governance",
+        "imgAlt": "",
+        "box": {
+          "x": 503,
+          "y": 3659.671875,
+          "w": 124.046875,
+          "h": 23
+        },
+        "context": "City governance",
+        "contextKind": "li",
+        "html": "<a data-entity-substitution=\"canonical\" data-entity-type=\"node\" data-entity-uuid=\"8d45cae9-42aa-4c24-9cb6-480ab94b0f10\" href=\"/city-governance\">City governance</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(3) > ul > li:nth-of-type(1) > a",
+        "text": "Departments",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://winnipeg.ca/interhom/toc/departments.asp",
+        "imgAlt": "",
+        "box": {
+          "x": 695,
+          "y": 3487.671875,
+          "w": 101.28125,
+          "h": 23
+        },
+        "context": "Departments",
+        "contextKind": "li",
+        "html": "<a href=\"https://winnipeg.ca/interhom/toc/departments.asp\">Departments</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(3) > ul > li:nth-of-type(2) > a",
+        "text": "Contact 311",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/contact311",
+        "imgAlt": "",
+        "box": {
+          "x": 695,
+          "y": 3523.671875,
+          "w": 91.6875,
+          "h": 23
+        },
+        "context": "Contact 311",
+        "contextKind": "li",
+        "html": "<a href=\"/contact311\">Contact 311</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(3) > ul > li:nth-of-type(3) > a",
+        "text": "City locations",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/connect/city-locations",
+        "imgAlt": "",
+        "box": {
+          "x": 695,
+          "y": 3559.671875,
+          "w": 104.921875,
+          "h": 23
+        },
+        "context": "City locations",
+        "contextKind": "li",
+        "html": "<a data-entity-substitution=\"canonical\" data-entity-type=\"node\" data-entity-uuid=\"d983a697-e2b9-49e7-9de2-cffc8668907e\" href=\"/connect/city-locations\">City locations</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(3) > ul > li:nth-of-type(4) > a",
+        "text": "Our City, Our Stories",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/people-culture/our-city-our-stories",
+        "imgAlt": "",
+        "box": {
+          "x": 695,
+          "y": 3595.671875,
+          "w": 156.84375,
+          "h": 23
+        },
+        "context": "Our City, Our Stories",
+        "contextKind": "li",
+        "html": "<a data-entity-substitution=\"canonical\" data-entity-type=\"node\" data-entity-uuid=\"df36f4e3-e5f4-40e8-98ea-0db945079cb8\" href=\"/people-culture/our-city-our-stories\">Our City, Our Stories</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(3) > ul > li:nth-of-type(5) > a",
+        "text": "Public Engagement",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://engage.winnipeg.ca/",
+        "imgAlt": "",
+        "box": {
+          "x": 695,
+          "y": 3631.671875,
+          "w": 149.296875,
+          "h": 23
+        },
+        "context": "Public Engagement",
+        "contextKind": "li",
+        "html": "<a href=\"https://engage.winnipeg.ca/\">Public Engagement</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(3) > ul > li:nth-of-type(6) > a",
+        "text": "Mayor's office",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/city-governance/mayor-council/mayors-office",
+        "imgAlt": "",
+        "box": {
+          "x": 695,
+          "y": 3667.671875,
+          "w": 106.71875,
+          "h": 23
+        },
+        "context": "Mayor's office",
+        "contextKind": "li",
+        "html": "<a data-entity-substitution=\"canonical\" data-entity-type=\"node\" data-entity-uuid=\"df2ed179-fba5-4a57-a7b3-cb7c342e6feb\" href=\"/city-governance/mayor-council/mayors-office\">Mayor's office</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(3) > ul > li:nth-of-type(7) > a",
+        "text": "Newsroom",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/news",
+        "imgAlt": "",
+        "box": {
+          "x": 695,
+          "y": 3703.671875,
+          "w": 83.640625,
+          "h": 23
+        },
+        "context": "Newsroom",
+        "contextKind": "li",
+        "html": "<a data-entity-substitution=\"canonical\" data-entity-type=\"node\" data-entity-uuid=\"294b0944-3d29-4384-b6e6-228ca3b09c7a\" href=\"/news\">Newsroom</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(4) > ul > li:nth-of-type(1) > a",
+        "text": "Employee portal",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://selfservice.winnipeg.ca/",
+        "imgAlt": "",
+        "box": {
+          "x": 887,
+          "y": 3487.671875,
+          "w": 127.359375,
+          "h": 23
+        },
+        "context": "Employee portal",
+        "contextKind": "li",
+        "html": "<a href=\"https://selfservice.winnipeg.ca/\">Employee portal</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(4) > ul > li:nth-of-type(2) > a",
+        "text": "Careers",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/careers",
+        "imgAlt": "",
+        "box": {
+          "x": 887,
+          "y": 3523.671875,
+          "w": 58.8125,
+          "h": 23
+        },
+        "context": "Careers",
+        "contextKind": "li",
+        "html": "<a data-entity-substitution=\"canonical\" data-entity-type=\"node\" data-entity-uuid=\"02e68c48-fdba-4806-8f70-5d628b3a52c0\" href=\"/careers\">Careers</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(4) > ul > li:nth-of-type(3) > a",
+        "text": "Volunteering",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/careers/volunteering",
+        "imgAlt": "",
+        "box": {
+          "x": 887,
+          "y": 3559.671875,
+          "w": 99.53125,
+          "h": 23
+        },
+        "context": "Volunteering",
+        "contextKind": "li",
+        "html": "<a data-entity-substitution=\"canonical\" data-entity-type=\"node\" data-entity-uuid=\"2aa3c971-24f9-456f-8819-bd322af04acc\" href=\"/careers/volunteering\">Volunteering</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(4) > ul > li:nth-of-type(4) > a",
+        "text": "Employee Policies",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/careers/employee-policies",
+        "imgAlt": "",
+        "box": {
+          "x": 887,
+          "y": 3595.671875,
+          "w": 139.796875,
+          "h": 23
+        },
+        "context": "Employee Policies",
+        "contextKind": "li",
+        "html": "<a data-entity-substitution=\"canonical\" data-entity-type=\"node\" data-entity-uuid=\"9c4db8ad-84de-4857-95dc-9bc4bd6c62af\" href=\"/careers/employee-policies\">Employee Policies</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(4) > ul > li:nth-of-type(5) > a",
+        "text": "Site map",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/sitemap",
+        "imgAlt": "",
+        "box": {
+          "x": 887,
+          "y": 3631.671875,
+          "w": 68.078125,
+          "h": 23
+        },
+        "context": "Site map",
+        "contextKind": "li",
+        "html": "<a data-entity-substitution=\"canonical\" data-entity-type=\"node\" data-entity-uuid=\"273d50ac-d7c2-46ec-85f9-243567a955d9\" href=\"/sitemap\">Site map</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(4) > ul > li:nth-of-type(6) > a",
+        "text": "Privacy",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/city-governance/city-information-records/privacy",
+        "imgAlt": "",
+        "box": {
+          "x": 887,
+          "y": 3667.671875,
+          "w": 57.046875,
+          "h": 23
+        },
+        "context": "Privacy",
+        "contextKind": "li",
+        "html": "<a data-entity-substitution=\"canonical\" data-entity-type=\"node\" data-entity-uuid=\"86f75503-aad6-4f6f-9e3f-e50765a5d3ae\" href=\"/city-governance/city-information-records/privacy\">Privacy</a>"
+      },
+      {
+        "target": "div:nth-of-type(3) > div:nth-of-type(1) > ul > li > a",
+        "text": "Connect with us",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.winnipeg.ca/connect",
+        "imgAlt": "",
+        "box": {
+          "x": 1079,
+          "y": 3487.671875,
+          "w": 123.859375,
+          "h": 23
+        },
+        "context": "Connect with us",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.winnipeg.ca/connect\">Connect with us</a>"
+      },
+      {
+        "target": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > a:nth-of-type(1)",
+        "text": "",
+        "ariaLabel": "City of Winnipeg Twitter",
+        "title": "",
+        "href": "https://twitter.com/cityofwinnipeg",
+        "imgAlt": "",
+        "box": {
+          "x": 1079,
+          "y": 3525.671875,
+          "w": 34,
+          "h": 34
+        },
+        "context": "heading: How can we make this web page better?",
+        "contextKind": "heading-only",
+        "html": "<a href=\"https://twitter.com/cityofwinnipeg\" aria-label=\"City of Winnipeg Twitter\"><span class=\"fab fa-x-twitter\" aria-hidden=\"true\"></span></a>"
+      },
+      {
+        "target": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > a:nth-of-type(2)",
+        "text": "",
+        "ariaLabel": "City of Winnipeg Facebook",
+        "title": "",
+        "href": "https://www.facebook.com/cityofwinnipeg",
+        "imgAlt": "",
+        "box": {
+          "x": 1120.609375,
+          "y": 3525.671875,
+          "w": 34,
+          "h": 34
+        },
+        "context": "heading: How can we make this web page better?",
+        "contextKind": "heading-only",
+        "html": "<a href=\"https://www.facebook.com/cityofwinnipeg\" aria-label=\"City of Winnipeg Facebook\"><span class=\"fab fa-facebook-f\" aria-hidden=\"true\"></span></a>"
+      },
+      {
+        "target": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > a:nth-of-type(3)",
+        "text": "",
+        "ariaLabel": "City of Winnipeg YouTube",
+        "title": "",
+        "href": "https://www.youtube.com/user/thecityofwinnipeg",
+        "imgAlt": "",
+        "box": {
+          "x": 1162.21875,
+          "y": 3525.671875,
+          "w": 34,
+          "h": 34
+        },
+        "context": "heading: How can we make this web page better?",
+        "contextKind": "heading-only",
+        "html": "<a href=\"https://www.youtube.com/user/thecityofwinnipeg\" aria-label=\"City of Winnipeg YouTube\"><span class=\"fab fa-youtube\" aria-hidden=\"true\"></span></a>"
+      },
+      {
+        "target": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > a:nth-of-type(4)",
+        "text": "",
+        "ariaLabel": "City of Winnipeg Instagram",
+        "title": "",
+        "href": "https://www.instagram.com/thecityofwinnipeg/",
+        "imgAlt": "",
+        "box": {
+          "x": 1203.828125,
+          "y": 3525.671875,
+          "w": 34,
+          "h": 34
+        },
+        "context": "heading: How can we make this web page better?",
+        "contextKind": "heading-only",
+        "html": "<a href=\"https://www.instagram.com/thecityofwinnipeg/\" aria-label=\"City of Winnipeg Instagram\"><span class=\"fab fa-instagram\" aria-hidden=\"true\"></span></a>"
+      },
+      {
+        "target": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > a:nth-of-type(5)",
+        "text": "",
+        "ariaLabel": "Podcasts",
+        "title": "",
+        "href": "https://www.winnipeg.ca/connect/podcasts",
+        "imgAlt": "",
+        "box": {
+          "x": 1079,
+          "y": 3563.671875,
+          "w": 34,
+          "h": 34
+        },
+        "context": "heading: How can we make this web page better?",
+        "contextKind": "heading-only",
+        "html": "<a href=\"https://www.winnipeg.ca/connect/podcasts\" aria-label=\"Podcasts\"><span class=\"fa-regular fa-podcast\" aria-hidden=\"true\"></span></a>"
+      },
+      {
+        "target": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > a:nth-of-type(6)",
+        "text": "",
+        "ariaLabel": "City of Winnipeg RSS feed",
+        "title": "",
+        "href": "/rss",
+        "imgAlt": "",
+        "box": {
+          "x": 1120.609375,
+          "y": 3563.671875,
+          "w": 34,
+          "h": 34
+        },
+        "context": "heading: How can we make this web page better?",
+        "contextKind": "heading-only",
+        "html": "<a href=\"/rss\" aria-label=\"City of Winnipeg RSS feed\"><span class=\"fas fa-rss\" aria-hidden=\"true\"></span></a>"
+      },
+      {
+        "target": "div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > a:nth-of-type(7)",
+        "text": "",
+        "ariaLabel": "City of Winnipeg Email",
+        "title": "",
+        "href": "https://www.winnipeg.ca/wpgmail/subscribe_all.stm",
+        "imgAlt": "",
+        "box": {
+          "x": 1162.21875,
+          "y": 3563.671875,
+          "w": 34,
+          "h": 34
+        },
+        "context": "heading: How can we make this web page better?",
+        "contextKind": "heading-only",
+        "html": "<a href=\"https://www.winnipeg.ca/wpgmail/subscribe_all.stm\" aria-label=\"City of Winnipeg Email\"><span class=\"far fa-envelope\" aria-hidden=\"true\"></span></a>"
+      },
+      {
+        "target": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(2) > a",
+        "text": "Conditions of use",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.winnipeg.ca/connect/conditions-use",
+        "imgAlt": "",
+        "box": {
+          "x": 1131.0625,
+          "y": 3813.421875,
+          "w": 115.9375,
+          "h": 20
+        },
+        "context": "heading: Land acknowledgement | Use of this site signifies your agreement to the Conditions of use",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.winnipeg.ca/connect/conditions-use\">Conditions of use</a>"
+      }
+    ],
+    "headings": [
+      {
+        "target": "html > body > div:nth-of-type(3) > h1",
+        "level": 1,
+        "text": "Homepage",
+        "visible": true,
+        "box": {
+          "x": -1,
+          "y": -1,
+          "w": 1,
+          "h": 1
+        },
+        "html": "<h1 class=\"sr-only\">Homepage</h1>"
+      },
+      {
+        "target": "div > section > div > div:nth-of-type(1) > h2",
+        "level": 2,
+        "text": "I want to...",
+        "visible": true,
+        "box": {
+          "x": 144,
+          "y": 612.984375,
+          "w": 216,
+          "h": 44
+        },
+        "html": "<h2>I want to...</h2>"
+      },
+      {
+        "target": "#block-transitupcomingbuses > h2",
+        "level": 2,
+        "text": "Upcoming buses",
+        "visible": true,
+        "box": {
+          "x": 814.984375,
+          "y": 611.984375,
+          "w": 408,
+          "h": 44
+        },
+        "html": "<h2>Upcoming buses</h2>"
+      },
+      {
+        "target": "#block-transitupcomingbuses > div > h3",
+        "level": 3,
+        "text": "Not sure which stop or route to take?",
+        "visible": true,
+        "box": {
+          "x": 814.984375,
+          "y": 863.375,
+          "w": 408,
+          "h": 72
+        },
+        "html": "<h3>Not sure which stop or route to take?</h3>"
+      },
+      {
+        "target": "div > div > div > div > h2",
+        "level": 2,
+        "text": "Sign up for MyAccount",
+        "visible": true,
+        "box": {
+          "x": 144,
+          "y": 1148.984375,
+          "w": 1078,
+          "h": 24.1875
+        },
+        "html": "<h2 class=\"card-title\"> Sign up for MyAccount</h2>"
+      },
+      {
+        "target": "div > div > div > div > h2",
+        "level": 2,
+        "text": "Features",
+        "visible": true,
+        "box": {
+          "x": 119,
+          "y": 1418.5625,
+          "w": 1128,
+          "h": 44
+        },
+        "html": "<h2>Features</h2>"
+      },
+      {
+        "target": "div > div > div > div:nth-of-type(2) > h2",
+        "level": 2,
+        "text": "Ready to Ride",
+        "visible": true,
+        "box": {
+          "x": 144,
+          "y": 1696.703125,
+          "w": 310,
+          "h": 24.1875
+        },
+        "html": "<h2 class=\"card-title\"> <a href=\"/people-culture/our-city-our-stories/ready-ride-student-guide-using-your-free-youth-transit-pass\" aria-label=\"Ready to Ride\"> Ready to Ride </a></h2>"
+      },
+      {
+        "target": "div > div > div > div:nth-of-type(2) > h3",
+        "level": 3,
+        "text": "Heading to Princess Auto Stadium?",
+        "visible": true,
+        "box": {
+          "x": 528,
+          "y": 1696.703125,
+          "w": 310,
+          "h": 48.375
+        },
+        "html": "<h3 class=\"card-title\"> <a href=\"/people-culture/our-city-our-stories/heading-princess-auto-stadium-we-have-several-transportation-options-football-fans\" aria-label=\"Heading to Princess Auto Stadium?\"> Heading to Princess Auto Stadium? </a></h3>"
+      },
+      {
+        "target": "div > div > div > div:nth-of-type(2) > h3",
+        "level": 3,
+        "text": "Explore our recreation programs",
+        "visible": true,
+        "box": {
+          "x": 912,
+          "y": 1696.703125,
+          "w": 310,
+          "h": 24.1875
+        },
+        "html": "<h3 class=\"card-title\"> <a href=\"/recreation-leisure/recreation-programs\" aria-label=\"Explore our recreation programs\"> Explore our recreation programs </a></h3>"
+      },
+      {
+        "target": "div > div > div > div:nth-of-type(2) > h3",
+        "level": 3,
+        "text": "Road construction & closures",
+        "visible": true,
+        "box": {
+          "x": 144,
+          "y": 2092.21875,
+          "w": 310,
+          "h": 24.1875
+        },
+        "html": "<h3 class=\"card-title\"> <a href=\"/services-programs/transportation-roads-parking/road-construction-closures\" aria-label=\"Road construction &amp; closures\"> Road construction &amp; closures </a></h3>"
+      },
+      {
+        "target": "div > div > div > div:nth-of-type(2) > h3",
+        "level": 3,
+        "text": "Our City, Our Podcast",
+        "visible": true,
+        "box": {
+          "x": 528,
+          "y": 2092.21875,
+          "w": 310,
+          "h": 24.1875
+        },
+        "html": "<h3 class=\"card-title\"> <a href=\"/people-culture/our-city-our-podcast\" aria-label=\"Our City, Our Podcast\"> Our City, Our Podcast </a></h3>"
+      },
+      {
+        "target": "div > div > div > div:nth-of-type(2) > h3",
+        "level": 3,
+        "text": "Call for applications to Boards & Commissions",
+        "visible": true,
+        "box": {
+          "x": 912,
+          "y": 2092.21875,
+          "w": 310,
+          "h": 48.375
+        },
+        "html": "<h3 class=\"card-title\"> <a href=\"/city-governance/boards-commissions/citizen-appointments\" aria-label=\"Call for applications to Boards &amp; Commissions\"> Call for applications to Boards &amp; Commissions </a></h3>"
+      },
+      {
+        "target": "div > div > div > div:nth-of-type(1) > h2",
+        "level": 2,
+        "text": "Our City, Our Stories",
+        "visible": true,
+        "box": {
+          "x": 119,
+          "y": 2313.40625,
+          "w": 552,
+          "h": 44
+        },
+        "html": "<h2>Our City, Our Stories</h2>"
+      },
+      {
+        "target": "div:nth-of-type(1) > div > a > div > h3",
+        "level": 3,
+        "text": "City employees pull together to give back to the community",
+        "visible": true,
+        "box": {
+          "x": 144,
+          "y": 2537.609375,
+          "w": 214,
+          "h": 72.5625
+        },
+        "html": "<h3 class=\"card-title\">City employees pull together to give back to the community</h3>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div > a > div > h3",
+        "level": 3,
+        "text": "Get ready to vote! Why it’s important to take part in the democratic process",
+        "visible": true,
+        "box": {
+          "x": 432,
+          "y": 2537.609375,
+          "w": 214,
+          "h": 96.75
+        },
+        "html": "<h3 class=\"card-title\">Get ready to vote! Why it’s important to take part in the democratic process</h3>"
+      },
+      {
+        "target": "#block-confluence-content > article > div > div:nth-of-type(5) > h2",
+        "level": 2,
+        "text": "Popular topics",
+        "visible": true,
+        "box": {
+          "x": 119,
+          "y": 2863.28125,
+          "w": 1128,
+          "h": 44
+        },
+        "html": "<h2>Popular topics</h2>"
+      },
+      {
+        "target": "div > div:nth-of-type(1) > div > a > h3",
+        "level": 3,
+        "text": "Careers at the City",
+        "visible": true,
+        "box": {
+          "x": 143,
+          "y": 2991.28125,
+          "w": 312,
+          "h": 32
+        },
+        "html": "<h3 class=\"card-title\"> Careers at the City</h3>"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > div > a > h3",
+        "level": 3,
+        "text": "Public engagement opportunities",
+        "visible": true,
+        "box": {
+          "x": 527,
+          "y": 2991.28125,
+          "w": 312,
+          "h": 64
+        },
+        "html": "<h3 class=\"card-title\"> Public engagement opportunities</h3>"
+      },
+      {
+        "target": "div > div:nth-of-type(3) > div > a > h3",
+        "level": 3,
+        "text": "Accessibility disruption notices",
+        "visible": true,
+        "box": {
+          "x": 911,
+          "y": 2991.28125,
+          "w": 312,
+          "h": 64
+        },
+        "html": "<h3 class=\"card-title\"> Accessibility disruption notices</h3>"
+      },
+      {
+        "target": "#edit-intro > h2",
+        "level": 2,
+        "text": "How can we make this web page better?",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h2 class=\"h5\">How can we make this web page better?</h2>"
+      },
+      {
+        "target": "#footer > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > h2",
+        "level": 2,
+        "text": "Land acknowledgement",
+        "visible": true,
+        "box": {
+          "x": 119,
+          "y": 3761.671875,
+          "w": 647.984375,
+          "h": 24
+        },
+        "html": "<h2 class=\"h6\">Land acknowledgement</h2>"
+      }
+    ],
+    "lang": "en",
+    "title": "City of Winnipeg"
+  },
   "axe": {
     "violationRules": 4,
     "violationNodes": 8,

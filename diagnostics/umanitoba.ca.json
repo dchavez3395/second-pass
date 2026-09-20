@@ -19,7 +19,1918 @@
     "width": 1366,
     "height": 900
   },
-  "scannedAt": "2026-09-19T06:25:50.832Z",
+  "scannedAt": "2026-09-19T23:58:05.877Z",
+  "content": {
+    "images": [
+      {
+        "target": "header > div:nth-of-type(2) > section:nth-of-type(2) > a > img",
+        "tag": "img",
+        "src": "https://umanitoba.ca/themes/custom/umanitoba/images/logo.svg",
+        "alt": "Home",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 300,
+        "naturalHeight": 145,
+        "box": {
+          "x": 40,
+          "y": 161,
+          "w": 249.96875,
+          "h": 121
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"/themes/custom/umanitoba/images/logo.svg\" alt=\"Home\">"
+      },
+      {
+        "target": "div > div > div:nth-of-type(1) > figure > img",
+        "tag": "img",
+        "src": "https://umanitoba.ca/sites/default/files/styles/21x9_1400w/public/2026-09/bisons-block-party-hero-homecoming.jpg?itok=3l9TVhkB",
+        "alt": "A graphic with illustrated Bison faces, coloured shapes and people smiling.",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 1366,
+        "naturalHeight": 585,
+        "box": {
+          "x": 0,
+          "y": 307.5,
+          "w": 1366,
+          "h": 551.171875
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "",
+        "html": "<img srcset=\"/sites/default/files/styles/21x9_800w/public/2026-09/bisons-block-party-hero-homecoming.jpg?itok=Z47Ixv3U 800w, /sites/default/files/styles/21x9_1100w/public/2026-09/bisons-block-party-hero-homecoming.jpg?itok=J_TGJoao 1100w, /sites/default/files/styles/21x9_1400w/public/2026-09/bisons-block-party-hero-homecoming.jpg?itok=3l9TVhkB 1400w, /sites/default/files/styles/21x9_1920w/public/2"
+      },
+      {
+        "target": "div > div > div > figure > img",
+        "tag": "img",
+        "src": "https://umanitoba.ca/sites/default/files/styles/900w/public/2024-09/image-1-undergraduate-studies.jpg?itok=fZDsoblg",
+        "alt": "A student sits with her laptop at a picnic table near the Engineering Building.",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 900,
+        "naturalHeight": 600,
+        "box": {
+          "x": 40,
+          "y": 1211,
+          "w": 415.3125,
+          "h": 276.875
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"/sites/default/files/styles/900w/public/2024-09/image-1-undergraduate-studies.jpg?itok=fZDsoblg\" alt=\"A student sits with her laptop at a picnic table near the Engineering Building.\">"
+      },
+      {
+        "target": "div > div > div > figure > img",
+        "tag": "img",
+        "src": "https://umanitoba.ca/sites/default/files/styles/900w/public/2024-09/image-2-graduate-studies.jpg?itok=bzw_ywi_",
+        "alt": "Students listen to a professor in a city-planning class.",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 900,
+        "naturalHeight": 600,
+        "box": {
+          "x": 475.328125,
+          "y": 1211,
+          "w": 415.3125,
+          "h": 276.875
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"/sites/default/files/styles/900w/public/2024-09/image-2-graduate-studies.jpg?itok=bzw_ywi_\" alt=\"Students listen to a professor in a city-planning class.\">"
+      },
+      {
+        "target": "div > div > div > figure > img",
+        "tag": "img",
+        "src": "https://umanitoba.ca/sites/default/files/styles/900w/public/2024-09/homepage-extended-education.jpg?itok=rzbpzWRk",
+        "alt": "Students walk across the pedestrian walkway by UMSU on the Fort Garry campus.",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 900,
+        "naturalHeight": 600,
+        "box": {
+          "x": 910.65625,
+          "y": 1211,
+          "w": 415.328125,
+          "h": 276.890625
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"/sites/default/files/styles/900w/public/2024-09/homepage-extended-education.jpg?itok=rzbpzWRk\" alt=\"Students walk across the pedestrian walkway by UMSU on the Fort Garry campus.\">"
+      },
+      {
+        "target": "div > div > div:nth-of-type(1) > figure > img",
+        "tag": "img",
+        "src": "https://umanitoba.ca/sites/default/files/styles/3x2_1200w/public/2024-09/image-3-research-at-um-1-3-1.jpg?itok=osJPkJg9",
+        "alt": "A member of the research team at the Churchill Marine Observatory walks in the facility.",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 1366,
+        "naturalHeight": 910,
+        "box": {
+          "x": 592.984375,
+          "y": 3211.546875,
+          "w": 733,
+          "h": 488.671875
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "",
+        "html": "<img srcset=\"/sites/default/files/styles/3x2_600w/public/2024-09/image-3-research-at-um-1-3-1.jpg?itok=2C8Twh9P 600w, /sites/default/files/styles/3x2_900w/public/2024-09/image-3-research-at-um-1-3-1.jpg?itok=by53dTw4 900w, /sites/default/files/styles/3x2_1200w/public/2024-09/image-3-research-at-um-1-3-1.jpg?itok=osJPkJg9 1200w\" sizes=\"100vw\" width=\"900\" height=\"600\" src=\"/sites/default/files/style"
+      },
+      {
+        "target": "li:nth-of-type(1) > a > article > figure > img",
+        "tag": "img",
+        "src": "https://umtoday.ca/sites/default/files/images/IMG_4893.JPG",
+        "alt": "",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 6000,
+        "naturalHeight": 4000,
+        "box": {
+          "x": 41,
+          "y": 4034.75,
+          "w": 312,
+          "h": 200
+        },
+        "inLink": true,
+        "linkText": "Ceremonies and celebrations welcome new students to rehab sciences Students, Rady Faculty of Health Sciences, College of Rehabilitation Sciences, UM Homepage",
+        "linkHref": "https://umtoday.ca/stories/ceremonies-and-celebrations-welcome-new-students-rehab-sciences",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://umtoday.ca/sites/default/files/images/IMG_4893.JPG\" alt=\"\">"
+      },
+      {
+        "target": "li:nth-of-type(2) > a > article > figure > img",
+        "tag": "img",
+        "src": "https://umtoday.ca/sites/default/files/images/Driedger%20and%20Nickel%201.JPG",
+        "alt": "",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 1050,
+        "naturalHeight": 700,
+        "box": {
+          "x": 365,
+          "y": 4034.75,
+          "w": 312,
+          "h": 200
+        },
+        "inLink": true,
+        "linkText": "Rady Faculty researchers receive more than $6.7 million in CIHR funding Research, Rady Faculty of Health Sciences, College of Community and Global Health, Max Rady College of Medicine, UM Homepage",
+        "linkHref": "https://umtoday.ca/stories/rady-faculty-researchers-receive-more-67-million-cihr-funding",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://umtoday.ca/sites/default/files/images/Driedger%20and%20Nickel%201.JPG\" alt=\"\">"
+      },
+      {
+        "target": "li:nth-of-type(3) > a > article > figure > img",
+        "tag": "img",
+        "src": "https://umtoday.ca/sites/default/files/images/Vickar%20students%20in%20Flin%20Flon%20with%20miner%20hats%20Aug%202026.jpg",
+        "alt": "",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 2560,
+        "naturalHeight": 1707,
+        "box": {
+          "x": 689,
+          "y": 4034.75,
+          "w": 312,
+          "h": 200
+        },
+        "inLink": true,
+        "linkText": "Journeys North Faculty of Law, Experiential learning, UM Homepage",
+        "linkHref": "https://umtoday.ca/stories/journeys-north",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://umtoday.ca/sites/default/files/images/Vickar%20students%20in%20Flin%20Flon%20with%20miner%20hats%20Aug%202026.jpg\" alt=\"\">"
+      },
+      {
+        "target": "li:nth-of-type(4) > a > article > figure > img",
+        "tag": "img",
+        "src": "https://umtoday.ca/sites/default/files/images/UMT-AAE-ChangingArctic-FNL.jpg",
+        "alt": "",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 2400,
+        "naturalHeight": 1600,
+        "box": {
+          "x": 1013,
+          "y": 4034.75,
+          "w": 312,
+          "h": 200
+        },
+        "inLink": true,
+        "linkText": "Navigating Canada’s Arctic future Research, Clayton H. Riddell Faculty of Environment, Earth, and Resources, Arctic sciences, Centre for Earth Observation Science (CEOS), Churchill Marine Observatory (CMO), UM Homepage",
+        "linkHref": "https://umtoday.ca/stories/navigating-canadas-arctic-future",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://umtoday.ca/sites/default/files/images/UMT-AAE-ChangingArctic-FNL.jpg\" alt=\"\">"
+      },
+      {
+        "target": "footer > div > div:nth-of-type(1) > a > img",
+        "tag": "img",
+        "src": "https://umanitoba.ca/themes/custom/umanitoba/images/logo.svg",
+        "alt": "Home",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 300,
+        "naturalHeight": 145,
+        "box": {
+          "x": 40,
+          "y": 4999.6875,
+          "w": 200,
+          "h": 96.796875
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"/themes/custom/umanitoba/images/logo.svg\" alt=\"Home\">"
+      }
+    ],
+    "links": [
+      {
+        "target": "html > body > div:nth-of-type(1) > a",
+        "text": "Skip to main content",
+        "ariaLabel": "",
+        "title": "",
+        "href": "#main-content",
+        "imgAlt": "",
+        "box": {
+          "x": 0,
+          "y": -48,
+          "w": 175.328125,
+          "h": 48
+        },
+        "context": "",
+        "contextKind": "none",
+        "html": "<a href=\"#main-content\" class=\"skip-links__link u-link-decoration\">\n      Skip to main content\n    </a>"
+      },
+      {
+        "target": "header > div:nth-of-type(1) > div > p > a",
+        "text": "More",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/indigenous/traditional-territories-acknowledgements",
+        "imgAlt": "",
+        "box": {
+          "x": 721.078125,
+          "y": 53,
+          "w": 35.0625,
+          "h": 18
+        },
+        "context": "The University of Manitoba campuses and research spaces are located on original lands of Anishinaabeg, Ininiwak, Anisininewuk, Dakota Oyate, Dene and Inuit, and on the National Homeland of the Red Riv",
+        "contextKind": "p",
+        "html": "<a href=\"/indigenous/traditional-territories-acknowledgements\" tabindex=\"0\"><strong>More</strong></a>"
+      },
+      {
+        "target": "#block-functional > ul > li:nth-of-type(1) > a",
+        "text": "Current students",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/current-students",
+        "imgAlt": "",
+        "box": {
+          "x": 466.75,
+          "y": 108,
+          "w": 118.609375,
+          "h": 19
+        },
+        "context": "Current students",
+        "contextKind": "li",
+        "html": "<a href=\"/current-students\" class=\"\">Current students</a>"
+      },
+      {
+        "target": "#block-functional > ul > li:nth-of-type(2) > a",
+        "text": "Faculty and staff",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/faculty-and-staff",
+        "imgAlt": "",
+        "box": {
+          "x": 620.546875,
+          "y": 108,
+          "w": 119,
+          "h": 19
+        },
+        "context": "Faculty and staff",
+        "contextKind": "li",
+        "html": "<a href=\"/faculty-and-staff\" class=\"\">Faculty and staff</a>"
+      },
+      {
+        "target": "#block-functional > ul > li:nth-of-type(3) > a",
+        "text": "Alumni",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/community/alumni",
+        "imgAlt": "",
+        "box": {
+          "x": 774.734375,
+          "y": 108,
+          "w": 49.90625,
+          "h": 19
+        },
+        "context": "Alumni",
+        "contextKind": "li",
+        "html": "<a href=\"/community/alumni\" class=\"\">Alumni</a>"
+      },
+      {
+        "target": "#block-functional > ul > li:nth-of-type(4) > a",
+        "text": "Email",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/email",
+        "imgAlt": "",
+        "box": {
+          "x": 859.828125,
+          "y": 108,
+          "w": 39.609375,
+          "h": 19
+        },
+        "context": "Email",
+        "contextKind": "li",
+        "html": "<a href=\"/email\">Email</a>"
+      },
+      {
+        "target": "#block-functional > ul > li:nth-of-type(5) > a",
+        "text": "News and stories",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://umtoday.ca/",
+        "imgAlt": "",
+        "box": {
+          "x": 934.625,
+          "y": 108,
+          "w": 123.203125,
+          "h": 19
+        },
+        "context": "News and stories",
+        "contextKind": "li",
+        "html": "<a href=\"https://umtoday.ca/\" class=\"external-link\">News and stories</a>"
+      },
+      {
+        "target": "#block-global-cta > ul > li:nth-of-type(1) > a",
+        "text": "VISIT",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/visit",
+        "imgAlt": "",
+        "box": {
+          "x": 1106.828125,
+          "y": 108,
+          "w": 39.359375,
+          "h": 19
+        },
+        "context": "VISIT",
+        "contextKind": "li",
+        "html": "<a href=\"/visit\" class=\"\">Visit</a>"
+      },
+      {
+        "target": "#block-global-cta > ul > li:nth-of-type(2) > a",
+        "text": "APPLY",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/admissions/apply-um",
+        "imgAlt": "",
+        "box": {
+          "x": 1181.375,
+          "y": 108,
+          "w": 47.859375,
+          "h": 19
+        },
+        "context": "APPLY",
+        "contextKind": "li",
+        "html": "<a href=\"/admissions/apply-um\" class=\"\">Apply</a>"
+      },
+      {
+        "target": "#block-global-cta > ul > li:nth-of-type(3) > a",
+        "text": "DONATE",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/community/giving",
+        "imgAlt": "",
+        "box": {
+          "x": 1264.421875,
+          "y": 108,
+          "w": 61.578125,
+          "h": 19
+        },
+        "context": "DONATE",
+        "contextKind": "li",
+        "html": "<a href=\"/community/giving\" class=\"\">Donate</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > header > div:nth-of-type(2) > section:nth-of-type(2) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/",
+        "imgAlt": "Home",
+        "box": {
+          "x": 40,
+          "y": 161,
+          "w": 250,
+          "h": 121
+        },
+        "context": "heading: Call To Action Menu | Main Menu Admissions Academics Research Student Supports Community About UM",
+        "contextKind": "block",
+        "html": "<a href=\"/\" class=\"site-header__logo\">\n        <img src=\"/themes/custom/umanitoba/images/logo.svg\" alt=\"Home\">\n      </a>"
+      },
+      {
+        "target": "#block-main > ul > li:nth-of-type(1) > a",
+        "text": "Admissions",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/admissions",
+        "imgAlt": "",
+        "box": {
+          "x": 486.671875,
+          "y": 236,
+          "w": 100.234375,
+          "h": 23
+        },
+        "context": "Admissions",
+        "contextKind": "li",
+        "html": "<a href=\"/admissions\" class=\"\">Admissions</a>"
+      },
+      {
+        "target": "#block-main > ul > li:nth-of-type(2) > a",
+        "text": "Academics",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/academics",
+        "imgAlt": "",
+        "box": {
+          "x": 624.296875,
+          "y": 236,
+          "w": 94.734375,
+          "h": 23
+        },
+        "context": "Academics",
+        "contextKind": "li",
+        "html": "<a href=\"/academics\" class=\"\">Academics</a>"
+      },
+      {
+        "target": "#block-main > ul > li:nth-of-type(3) > a",
+        "text": "Research",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/research",
+        "imgAlt": "",
+        "box": {
+          "x": 756.421875,
+          "y": 236,
+          "w": 79.359375,
+          "h": 23
+        },
+        "context": "Research",
+        "contextKind": "li",
+        "html": "<a href=\"/research\" class=\"\">Research</a>"
+      },
+      {
+        "target": "#block-main > ul > li:nth-of-type(4) > a",
+        "text": "Student Supports",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/student-supports",
+        "imgAlt": "",
+        "box": {
+          "x": 873.171875,
+          "y": 236,
+          "w": 148.40625,
+          "h": 23
+        },
+        "context": "Student Supports",
+        "contextKind": "li",
+        "html": "<a href=\"/student-supports\" class=\"\">Student Supports</a>"
+      },
+      {
+        "target": "#block-main > ul > li:nth-of-type(5) > a",
+        "text": "Community",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/community",
+        "imgAlt": "",
+        "box": {
+          "x": 1058.96875,
+          "y": 236,
+          "w": 97.90625,
+          "h": 23
+        },
+        "context": "Community",
+        "contextKind": "li",
+        "html": "<a href=\"/community\" class=\"\">Community</a>"
+      },
+      {
+        "target": "#block-main > ul > li:nth-of-type(6) > a",
+        "text": "About UM",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/about-um",
+        "imgAlt": "",
+        "box": {
+          "x": 1194.265625,
+          "y": 236,
+          "w": 84.734375,
+          "h": 23
+        },
+        "context": "About UM",
+        "contextKind": "li",
+        "html": "<a href=\"/about-um\" class=\"\">About UM</a>"
+      },
+      {
+        "target": "div > div > div > div:nth-of-type(2) > a",
+        "text": "You're invited to the Bisons Block Party! Get free tickets to the Homecoming soccer and football games, enjoy Billy the Bison's birthday party, fun activities and so much more! Join us September 26!",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://umanitoba.ca/community/alumni/homecoming/bisons-block-party",
+        "imgAlt": "",
+        "box": {
+          "x": 783,
+          "y": 556.671875,
+          "w": 543,
+          "h": 214
+        },
+        "context": "heading: Call To Action Menu | You're invited to the Bisons Block Party! Get free tickets to the Homecoming soccer and football games, enjoy Billy the Bison's birthday party, fun activities and so much more! Join us September 26!",
+        "contextKind": "block",
+        "html": "<a class=\"hero__link hero__link--\" href=\"https://umanitoba.ca/community/alumni/homecoming/bisons-block-party\">\n  <div class=\"hero__link__header\">\n          <h2>You're invited to the Bisons Block Party!</h2>\n    \n          <p>Get free tickets to the Homecoming soccer and football games, enjoy Billy t"
+      },
+      {
+        "target": "li:nth-of-type(1) > div > ul > li:nth-of-type(1) > a",
+        "text": "Find a program",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://umanitoba.ca/explore/programs-of-study/undergraduate#undergraduate-programs-of-study",
+        "imgAlt": "",
+        "box": {
+          "x": 54.75,
+          "y": 1697.875,
+          "w": 131.15625,
+          "h": 20
+        },
+        "context": "Find a program",
+        "contextKind": "li",
+        "html": "<a href=\"https://umanitoba.ca/explore/programs-of-study/undergraduate#undergraduate-programs-of-study\">Find a program</a>"
+      },
+      {
+        "target": "li:nth-of-type(1) > div > ul > li:nth-of-type(2) > a",
+        "text": "Tuition and fees",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://umanitoba.ca/explore/student-experience/tuition-and-financial-supports",
+        "imgAlt": "",
+        "box": {
+          "x": 54.75,
+          "y": 1730.625,
+          "w": 137.8125,
+          "h": 20
+        },
+        "context": "Tuition and fees",
+        "contextKind": "li",
+        "html": "<a href=\"https://umanitoba.ca/explore/student-experience/tuition-and-financial-supports\">Tuition and fees</a>"
+      },
+      {
+        "target": "li:nth-of-type(1) > div > ul > li:nth-of-type(3) > a",
+        "text": "Undergraduate student experience",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://umanitoba.ca/explore/student-experience",
+        "imgAlt": "",
+        "box": {
+          "x": 54.75,
+          "y": 1763.375,
+          "w": 276.546875,
+          "h": 20
+        },
+        "context": "Undergraduate student experience",
+        "contextKind": "li",
+        "html": "<a href=\"https://umanitoba.ca/explore/student-experience\">Undergraduate student experience</a>"
+      },
+      {
+        "target": "li:nth-of-type(1) > div > ul > li:nth-of-type(4) > a",
+        "text": "International admissions",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://umanitoba.ca/explore/international",
+        "imgAlt": "",
+        "box": {
+          "x": 54.75,
+          "y": 1796.125,
+          "w": 203.78125,
+          "h": 20
+        },
+        "context": "International admissions",
+        "contextKind": "li",
+        "html": "<a href=\"https://umanitoba.ca/explore/international\">International admissions</a>"
+      },
+      {
+        "target": "li:nth-of-type(1) > div > ul > li:nth-of-type(5) > a",
+        "text": "Indigenous community at UM",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://umanitoba.ca/indigenous/",
+        "imgAlt": "",
+        "box": {
+          "x": 54.75,
+          "y": 1828.875,
+          "w": 238.765625,
+          "h": 20
+        },
+        "context": "Indigenous community at UM",
+        "contextKind": "li",
+        "html": "<a href=\"https://umanitoba.ca/indigenous/\">Indigenous community at UM</a>"
+      },
+      {
+        "target": "ul > li:nth-of-type(1) > div > p:nth-of-type(2) > a",
+        "text": "Explore undergraduate studies",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://umanitoba.ca/explore/",
+        "imgAlt": "",
+        "box": {
+          "x": 40,
+          "y": 1882.875,
+          "w": 266.03125,
+          "h": 49.59375
+        },
+        "context": "Explore undergraduate studies",
+        "contextKind": "p",
+        "html": "<a class=\"button\" href=\"https://umanitoba.ca/explore/\">Explore undergraduate studies</a>"
+      },
+      {
+        "target": "ul > li:nth-of-type(1) > div > p:nth-of-type(3) > a",
+        "text": "Apply now",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://umanitoba.ca/explore/undergraduate-admissions#section-3",
+        "imgAlt": "",
+        "box": {
+          "x": 40,
+          "y": 1949.46875,
+          "w": 122.21875,
+          "h": 49.59375
+        },
+        "context": "Apply now",
+        "contextKind": "p",
+        "html": "<a class=\"button button--blue\" href=\"https://umanitoba.ca/explore/undergraduate-admissions#section-3\">Apply now</a>"
+      },
+      {
+        "target": "li:nth-of-type(2) > div > ul > li:nth-of-type(1) > a",
+        "text": "Find a program",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://umanitoba.ca/explore/programs-of-study/graduate#graduate-programs-of-study",
+        "imgAlt": "",
+        "box": {
+          "x": 490.078125,
+          "y": 1697.875,
+          "w": 131.15625,
+          "h": 20
+        },
+        "context": "Find a program",
+        "contextKind": "li",
+        "html": "<a href=\"https://umanitoba.ca/explore/programs-of-study/graduate#graduate-programs-of-study\">Find a program</a>"
+      },
+      {
+        "target": "li:nth-of-type(2) > div > ul > li:nth-of-type(2) > a",
+        "text": "Funding, awards, and financial aid",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://umanitoba.ca/graduate-studies/funding-awards-and-financial-aid",
+        "imgAlt": "",
+        "box": {
+          "x": 490.078125,
+          "y": 1730.625,
+          "w": 271.46875,
+          "h": 20
+        },
+        "context": "Funding, awards, and financial aid",
+        "contextKind": "li",
+        "html": "<a href=\"https://umanitoba.ca/graduate-studies/funding-awards-and-financial-aid\">Funding, awards, and financial aid</a>"
+      },
+      {
+        "target": "li:nth-of-type(2) > div > ul > li:nth-of-type(3) > a",
+        "text": "Admissions",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://umanitoba.ca/graduate-studies/graduate-student-admissions",
+        "imgAlt": "",
+        "box": {
+          "x": 490.078125,
+          "y": 1763.375,
+          "w": 106.265625,
+          "h": 20
+        },
+        "context": "Admissions",
+        "contextKind": "li",
+        "html": "<a href=\"https://umanitoba.ca/graduate-studies/graduate-student-admissions\">Admissions</a>"
+      },
+      {
+        "target": "ul > li:nth-of-type(2) > div > p:nth-of-type(2) > a",
+        "text": "Explore graduate studies",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://umanitoba.ca/graduate-studies",
+        "imgAlt": "",
+        "box": {
+          "x": 475.328125,
+          "y": 1817.375,
+          "w": 225.140625,
+          "h": 49.59375
+        },
+        "context": "Explore graduate studies",
+        "contextKind": "p",
+        "html": "<a class=\"button\" href=\"https://umanitoba.ca/graduate-studies\">Explore graduate studies</a>"
+      },
+      {
+        "target": "ul > li:nth-of-type(2) > div > p:nth-of-type(3) > a",
+        "text": "Apply now",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://umanitoba.ca/graduate-studies/admissions/apply",
+        "imgAlt": "",
+        "box": {
+          "x": 475.328125,
+          "y": 1883.96875,
+          "w": 122.21875,
+          "h": 49.59375
+        },
+        "context": "Apply now",
+        "contextKind": "p",
+        "html": "<a class=\"button button--blue\" href=\"https://umanitoba.ca/graduate-studies/admissions/apply\">Apply now</a>"
+      },
+      {
+        "target": "li:nth-of-type(3) > div > ul > li:nth-of-type(1) > a",
+        "text": "Programs and courses",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://umanitoba.ca/extended-education/programs-and-courses",
+        "imgAlt": "",
+        "box": {
+          "x": 925.40625,
+          "y": 1697.890625,
+          "w": 187.875,
+          "h": 20
+        },
+        "context": "Programs and courses",
+        "contextKind": "li",
+        "html": "<a href=\"https://umanitoba.ca/extended-education/programs-and-courses\">Programs and courses</a>"
+      },
+      {
+        "target": "li:nth-of-type(3) > div > ul > li:nth-of-type(2) > a",
+        "text": "Student supports",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://umanitoba.ca/extended-education/student-supports",
+        "imgAlt": "",
+        "box": {
+          "x": 925.40625,
+          "y": 1730.640625,
+          "w": 147.25,
+          "h": 20
+        },
+        "context": "Student supports",
+        "contextKind": "li",
+        "html": "<a href=\"https://umanitoba.ca/extended-education/student-supports\">Student supports</a>"
+      },
+      {
+        "target": "ul > li:nth-of-type(3) > div > p:nth-of-type(2) > a",
+        "text": "Explore Extended Education",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://umanitoba.ca/extended-education/",
+        "imgAlt": "",
+        "box": {
+          "x": 910.65625,
+          "y": 1784.640625,
+          "w": 246.9375,
+          "h": 49.59375
+        },
+        "context": "Explore Extended Education",
+        "contextKind": "p",
+        "html": "<a class=\"button\" href=\"https://umanitoba.ca/extended-education/\">Explore Extended Education</a>"
+      },
+      {
+        "target": "ul > li:nth-of-type(3) > div > p:nth-of-type(3) > a",
+        "text": "Apply now",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://umanitoba.ca/extended-education/programs-and-courses/courses",
+        "imgAlt": "",
+        "box": {
+          "x": 910.65625,
+          "y": 1851.234375,
+          "w": 122.21875,
+          "h": 49.59375
+        },
+        "context": "Apply now",
+        "contextKind": "p",
+        "html": "<a class=\"button button--blue\" href=\"https://umanitoba.ca/extended-education/programs-and-courses/courses\">Apply now</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(3) > ul > li > a",
+        "text": "Learn more about UM",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/about-um",
+        "imgAlt": "",
+        "box": {
+          "x": 483,
+          "y": 2972.953125,
+          "w": 400,
+          "h": 73.59375
+        },
+        "context": "Learn more about UM",
+        "contextKind": "li",
+        "html": "<a class=\"button\" href=\"/about-um\">\n            <h4 class=\"cta__button-title\">Learn more about UM</h4>                      </a>"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > div > p:nth-of-type(4) > a",
+        "text": "Discover UM's research priorities",
+        "ariaLabel": "",
+        "title": "Research",
+        "href": "/research",
+        "imgAlt": "",
+        "box": {
+          "x": 40.015625,
+          "y": 3580.046875,
+          "w": 282.796875,
+          "h": 49.59375
+        },
+        "context": "Discover UM's research priorities",
+        "contextKind": "p",
+        "html": "<a class=\"button\" href=\"/research\" data-entity-type=\"node\" data-entity-uuid=\"90e17d5a-eae3-4541-a6f3-f0398bc54fd5\" data-entity-substitution=\"canonical\" title=\"Research\">Discover UM's research priorities</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > div > p:nth-of-type(5) > a",
+        "text": "Learn how UM researchers are \"Bisons at the centre of bold ideas\"",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://umanitoba.ca/about-um/brand/bisons-at-the-centre-research",
+        "imgAlt": "",
+        "box": {
+          "x": 40.015625,
+          "y": 3646.640625,
+          "w": 518.96875,
+          "h": 67.1875
+        },
+        "context": "Learn how UM researchers are \"Bisons at the centre of bold ideas\"",
+        "contextKind": "p",
+        "html": "<a class=\"button button--blue\" href=\"https://umanitoba.ca/about-um/brand/bisons-at-the-centre-research\">Learn how UM researchers are \"Bisons at the centre of bold ideas\"</a>"
+      },
+      {
+        "target": "#um-news-news-list-block--2 > section > div:nth-of-type(1) > a",
+        "text": "View more news and stories",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://umtoday.ca/",
+        "imgAlt": "",
+        "box": {
+          "x": 1073.015625,
+          "y": 3963.15625,
+          "w": 252.984375,
+          "h": 53.59375
+        },
+        "context": "heading: UM stories",
+        "contextKind": "heading-only",
+        "html": "<a href=\"https://umtoday.ca/\" class=\"news-list__link button button--outline\">View more news and stories</a>"
+      },
+      {
+        "target": "section > div:nth-of-type(2) > ul > li:nth-of-type(1) > a",
+        "text": "Ceremonies and celebrations welcome new students to rehab sciences Students, Rady Faculty of Health Sciences, College of Rehabilitation Sciences, UM Homepage",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://umtoday.ca/stories/ceremonies-and-celebrations-welcome-new-students-rehab-sciences",
+        "imgAlt": "",
+        "box": {
+          "x": 40,
+          "y": 4033.75,
+          "w": 314,
+          "h": 482.921875
+        },
+        "context": "Ceremonies and celebrations welcome new students to rehab sciences Students, Rady Faculty of Health Sciences, College of Rehabilitation Sciences, UM Homepage",
+        "contextKind": "li",
+        "html": "<a href=\"https://umtoday.ca/stories/ceremonies-and-celebrations-welcome-new-students-rehab-sciences\" class=\"u-link-decoration external-link\">\n          <article class=\"news-card has-image\">\n                          <figure class=\"news-card__image js-cover-image\">\n                <img src=\"https://u"
+      },
+      {
+        "target": "section > div:nth-of-type(2) > ul > li:nth-of-type(2) > a",
+        "text": "Rady Faculty researchers receive more than $6.7 million in CIHR funding Research, Rady Faculty of Health Sciences, College of Community and Global Health, Max Rady College of Medicine, UM Homepage",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://umtoday.ca/stories/rady-faculty-researchers-receive-more-67-million-cihr-funding",
+        "imgAlt": "",
+        "box": {
+          "x": 364,
+          "y": 4033.75,
+          "w": 314,
+          "h": 482.921875
+        },
+        "context": "Rady Faculty researchers receive more than $6.7 million in CIHR funding Research, Rady Faculty of Health Sciences, College of Community and Global Health, Max Rady College of Medicine, UM Homepage",
+        "contextKind": "li",
+        "html": "<a href=\"https://umtoday.ca/stories/rady-faculty-researchers-receive-more-67-million-cihr-funding\" class=\"u-link-decoration external-link\">\n          <article class=\"news-card has-image\">\n                          <figure class=\"news-card__image js-cover-image\">\n                <img src=\"https://umt"
+      },
+      {
+        "target": "section > div:nth-of-type(2) > ul > li:nth-of-type(3) > a",
+        "text": "Journeys North Faculty of Law, Experiential learning, UM Homepage",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://umtoday.ca/stories/journeys-north",
+        "imgAlt": "",
+        "box": {
+          "x": 688,
+          "y": 4033.75,
+          "w": 314,
+          "h": 482.921875
+        },
+        "context": "Journeys North Faculty of Law, Experiential learning, UM Homepage",
+        "contextKind": "li",
+        "html": "<a href=\"https://umtoday.ca/stories/journeys-north\" class=\"u-link-decoration external-link\">\n          <article class=\"news-card has-image\">\n                          <figure class=\"news-card__image js-cover-image\">\n                <img src=\"https://umtoday.ca/sites/default/files/images/Vickar%20stu"
+      },
+      {
+        "target": "section > div:nth-of-type(2) > ul > li:nth-of-type(4) > a",
+        "text": "Navigating Canada’s Arctic future Research, Clayton H. Riddell Faculty of Environment, Earth, and Resources, Arctic sciences, Centre for Earth Observation Science (CEOS), Churchill Marine Observatory (CMO), UM Homepage",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://umtoday.ca/stories/navigating-canadas-arctic-future",
+        "imgAlt": "",
+        "box": {
+          "x": 1012,
+          "y": 4033.75,
+          "w": 314,
+          "h": 482.921875
+        },
+        "context": "Navigating Canada’s Arctic future Research, Clayton H. Riddell Faculty of Environment, Earth, and Resources, Arctic sciences, Centre for Earth Observation Science (CEOS), Churchill Marine Observatory ",
+        "contextKind": "li",
+        "html": "<a href=\"https://umtoday.ca/stories/navigating-canadas-arctic-future\" class=\"u-link-decoration external-link\">\n          <article class=\"news-card has-image\">\n                          <figure class=\"news-card__image js-cover-image\">\n                <img src=\"https://umtoday.ca/sites/default/files/i"
+      },
+      {
+        "target": "div > div > ul > li:nth-of-type(1) > a",
+        "text": "Experience the UM community",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/community",
+        "imgAlt": "",
+        "box": {
+          "x": 63,
+          "y": 4685,
+          "w": 400,
+          "h": 73.59375
+        },
+        "context": "Experience the UM community",
+        "contextKind": "li",
+        "html": "<a class=\"button\" href=\"/community\">\n            <h4 class=\"cta__button-title\">Experience the UM community</h4>                      </a>"
+      },
+      {
+        "target": "div > div > ul > li:nth-of-type(2) > a",
+        "text": "Check out our campuses",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/about-um/our-campuses",
+        "imgAlt": "",
+        "box": {
+          "x": 483,
+          "y": 4685,
+          "w": 400,
+          "h": 73.59375
+        },
+        "context": "Check out our campuses",
+        "contextKind": "li",
+        "html": "<a class=\"button\" href=\"/about-um/our-campuses\">\n            <h4 class=\"cta__button-title\">Check out our campuses</h4>                      </a>"
+      },
+      {
+        "target": "div > div > ul > li:nth-of-type(3) > a",
+        "text": "Connect with alumni",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/community/alumni",
+        "imgAlt": "",
+        "box": {
+          "x": 903,
+          "y": 4685,
+          "w": 400,
+          "h": 73.59375
+        },
+        "context": "Connect with alumni",
+        "contextKind": "li",
+        "html": "<a class=\"button\" href=\"/community/alumni\">\n            <h4 class=\"cta__button-title\">Connect with alumni</h4>                      </a>"
+      },
+      {
+        "target": "div > div > ul > li:nth-of-type(4) > a",
+        "text": "Browse our libraries",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://umanitoba.ca/libraries/",
+        "imgAlt": "",
+        "box": {
+          "x": 273,
+          "y": 4778.59375,
+          "w": 400,
+          "h": 73.59375
+        },
+        "context": "Browse our libraries",
+        "contextKind": "li",
+        "html": "<a class=\"button\" href=\"https://umanitoba.ca/libraries/\">\n            <h4 class=\"cta__button-title\">Browse our libraries </h4>                      </a>"
+      },
+      {
+        "target": "div > div > ul > li:nth-of-type(5) > a",
+        "text": "Join us at Open House",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://umanitoba.ca/explore/campus-events/open-house",
+        "imgAlt": "",
+        "box": {
+          "x": 693,
+          "y": 4778.59375,
+          "w": 400,
+          "h": 73.59375
+        },
+        "context": "Join us at Open House",
+        "contextKind": "li",
+        "html": "<a class=\"button\" href=\"https://umanitoba.ca/explore/campus-events/open-house\">\n            <h4 class=\"cta__button-title\">Join us at Open House</h4>                      </a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > footer > div > div:nth-of-type(1) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/",
+        "imgAlt": "Home",
+        "box": {
+          "x": 40,
+          "y": 4999.6875,
+          "w": 200,
+          "h": 96.796875
+        },
+        "context": "heading: Join us at Open House | Careers Media People search Research experts Accessibility",
+        "contextKind": "block",
+        "html": "<a href=\"/\" class=\"site-footer__logo\">\n        <img src=\"/themes/custom/umanitoba/images/logo.svg\" alt=\"Home\">\n      </a>"
+      },
+      {
+        "target": "div:nth-of-type(1) > nav > ul > li:nth-of-type(1) > a",
+        "text": "Careers",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/careers",
+        "imgAlt": "",
+        "box": {
+          "x": 817.0625,
+          "y": 5037.90625,
+          "w": 55.046875,
+          "h": 19
+        },
+        "context": "Careers",
+        "contextKind": "li",
+        "html": "<a href=\"/careers\">Careers</a>"
+      },
+      {
+        "target": "div:nth-of-type(1) > nav > ul > li:nth-of-type(2) > a",
+        "text": "Media",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/media-relations",
+        "imgAlt": "",
+        "box": {
+          "x": 896.109375,
+          "y": 5037.90625,
+          "w": 44.078125,
+          "h": 19
+        },
+        "context": "Media",
+        "contextKind": "li",
+        "html": "<a href=\"/media-relations\">Media</a>"
+      },
+      {
+        "target": "div:nth-of-type(1) > nav > ul > li:nth-of-type(3) > a",
+        "text": "People search",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/search#tab=People",
+        "imgAlt": "",
+        "box": {
+          "x": 964.1875,
+          "y": 5037.90625,
+          "w": 100.84375,
+          "h": 19
+        },
+        "context": "People search",
+        "contextKind": "li",
+        "html": "<a href=\"/search#tab=People\">People search</a>"
+      },
+      {
+        "target": "div:nth-of-type(1) > nav > ul > li:nth-of-type(4) > a",
+        "text": "Research experts",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://research.ad.umanitoba.ca/mrt/pubapp/exp_search.php",
+        "imgAlt": "",
+        "box": {
+          "x": 1089.03125,
+          "y": 5037.90625,
+          "w": 123.421875,
+          "h": 19
+        },
+        "context": "Research experts",
+        "contextKind": "li",
+        "html": "<a href=\"https://research.ad.umanitoba.ca/mrt/pubapp/exp_search.php\">Research experts</a>"
+      },
+      {
+        "target": "div:nth-of-type(1) > nav > ul > li:nth-of-type(5) > a",
+        "text": "Accessibility",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/accessibility",
+        "imgAlt": "",
+        "box": {
+          "x": 1236.453125,
+          "y": 5037.90625,
+          "w": 89.546875,
+          "h": 19
+        },
+        "context": "Accessibility",
+        "contextKind": "li",
+        "html": "<a href=\"/accessibility\">Accessibility</a>"
+      },
+      {
+        "target": "footer > div > div:nth-of-type(2) > address > a",
+        "text": "Maps and directions",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/about-um/our-campuses/getting-here",
+        "imgAlt": "",
+        "box": {
+          "x": 40,
+          "y": 5200.328125,
+          "w": 193.5,
+          "h": 49.59375
+        },
+        "context": "heading: Join us at Open House | University of Manitoba Winnipeg, Manitoba, Canada Maps and directions",
+        "contextKind": "block",
+        "html": "<a class=\"button\" href=\"/about-um/our-campuses/getting-here\">Maps and directions</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > div:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(1)",
+        "text": "1-800-432-1960 (North America)",
+        "ariaLabel": "",
+        "title": "",
+        "href": "tel:+1800-432-1960",
+        "imgAlt": "",
+        "box": {
+          "x": 301.515625,
+          "y": 5116.484375,
+          "w": 230.90625,
+          "h": 19
+        },
+        "context": "heading: Join us at Open House | 1-800-432-1960 (North America) Emergency: 204-474-9341 Emergency information",
+        "contextKind": "block",
+        "html": "<a class=\"u-link-decoration\" href=\"tel:+1800-432-1960\">1-800-432-1960 (North America)</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > div:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(2)",
+        "text": "Emergency: 204-474-9341",
+        "ariaLabel": "",
+        "title": "",
+        "href": "tel:+1204-474-9341",
+        "imgAlt": "",
+        "box": {
+          "x": 301.515625,
+          "y": 5142.84375,
+          "w": 185.75,
+          "h": 19
+        },
+        "context": "heading: Join us at Open House | 1-800-432-1960 (North America) Emergency: 204-474-9341 Emergency information",
+        "contextKind": "block",
+        "html": "<a class=\"u-link-decoration\" href=\"tel:+1204-474-9341\">Emergency: 204-474-9341</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > div:nth-of-type(1) > nav:nth-of-type(1) > a:nth-of-type(3)",
+        "text": "Emergency information",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/security",
+        "imgAlt": "",
+        "box": {
+          "x": 301.515625,
+          "y": 5169.203125,
+          "w": 168.21875,
+          "h": 19
+        },
+        "context": "heading: Join us at Open House | 1-800-432-1960 (North America) Emergency: 204-474-9341 Emergency information",
+        "contextKind": "block",
+        "html": "<a href=\"/security\"><strong>Emergency information</strong></a>"
+      },
+      {
+        "target": "div:nth-of-type(1) > nav:nth-of-type(2) > ul > li:nth-of-type(1) > a",
+        "text": "",
+        "ariaLabel": "Follow us on X (Twitter) ",
+        "title": "",
+        "href": "https://x.com/umanitoba",
+        "imgAlt": "",
+        "box": {
+          "x": 301.515625,
+          "y": 5214.5625,
+          "w": 33,
+          "h": 31
+        },
+        "context": "",
+        "contextKind": "li",
+        "html": "<a href=\"https://x.com/umanitoba\" aria-label=\"Follow us on X (Twitter) \" class=\"social-links__link external-link\">\n                <svg class=\"icon-x social-links__icon\">\n  <use xmlns:xlink=\"http://www.w3.org/1999/xlink\" xlink:href=\"/themes/custom/umanitoba/images/svg-sprite.svg#icon-x\"></use>\n</svg"
+      },
+      {
+        "target": "div:nth-of-type(1) > nav:nth-of-type(2) > ul > li:nth-of-type(2) > a",
+        "text": "",
+        "ariaLabel": "Follow us on Facebook",
+        "title": "",
+        "href": "https://www.facebook.com/umanitoba",
+        "imgAlt": "",
+        "box": {
+          "x": 342.515625,
+          "y": 5214.5625,
+          "w": 33,
+          "h": 31
+        },
+        "context": "",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.facebook.com/umanitoba\" aria-label=\"Follow us on Facebook\" class=\"social-links__link external-link\">\n            <svg class=\"icon-facebook social-links__icon\">\n  <use xmlns:xlink=\"http://www.w3.org/1999/xlink\" xlink:href=\"/themes/custom/umanitoba/images/svg-sprite.svg#icon-faceb"
+      },
+      {
+        "target": "div:nth-of-type(1) > nav:nth-of-type(2) > ul > li:nth-of-type(3) > a",
+        "text": "",
+        "ariaLabel": "Follow us on Instagram",
+        "title": "",
+        "href": "https://www.instagram.com/umanitoba/",
+        "imgAlt": "",
+        "box": {
+          "x": 383.515625,
+          "y": 5214.5625,
+          "w": 33,
+          "h": 31
+        },
+        "context": "",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.instagram.com/umanitoba/\" aria-label=\"Follow us on Instagram\" class=\"social-links__link external-link\">\n                <svg class=\"icon-instagram social-links__icon\">\n  <use xmlns:xlink=\"http://www.w3.org/1999/xlink\" xlink:href=\"/themes/custom/umanitoba/images/svg-sprite.svg#ic"
+      },
+      {
+        "target": "div:nth-of-type(1) > nav:nth-of-type(2) > ul > li:nth-of-type(4) > a",
+        "text": "",
+        "ariaLabel": "Follow us on TikTok",
+        "title": "",
+        "href": "https://www.tiktok.com/@umstudent",
+        "imgAlt": "",
+        "box": {
+          "x": 424.515625,
+          "y": 5214.5625,
+          "w": 33,
+          "h": 31
+        },
+        "context": "",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.tiktok.com/@umstudent\" aria-label=\"Follow us on TikTok\" class=\"social-links__link external-link\">\n                <svg class=\"icon-tiktok social-links__icon\">\n  <use xmlns:xlink=\"http://www.w3.org/1999/xlink\" xlink:href=\"/themes/custom/umanitoba/images/svg-sprite.svg#icon-tiktok"
+      },
+      {
+        "target": "div:nth-of-type(1) > nav:nth-of-type(2) > ul > li:nth-of-type(5) > a",
+        "text": "",
+        "ariaLabel": "Follow us on YouTube",
+        "title": "",
+        "href": "https://www.youtube.com/user/YouManitoba",
+        "imgAlt": "",
+        "box": {
+          "x": 465.515625,
+          "y": 5211.0625,
+          "w": 33,
+          "h": 31
+        },
+        "context": "",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.youtube.com/user/YouManitoba\" aria-label=\"Follow us on YouTube\" class=\"social-links__link external-link\">\n                <svg class=\"icon-youtube social-links__icon\">\n  <use xmlns:xlink=\"http://www.w3.org/1999/xlink\" xlink:href=\"/themes/custom/umanitoba/images/svg-sprite.svg#ic"
+      },
+      {
+        "target": "div:nth-of-type(1) > nav:nth-of-type(2) > ul > li:nth-of-type(6) > a",
+        "text": "",
+        "ariaLabel": "Follow us on LinkedIn",
+        "title": "",
+        "href": "https://www.linkedin.com/school/umanitoba/",
+        "imgAlt": "",
+        "box": {
+          "x": 506.515625,
+          "y": 5212.0625,
+          "w": 33,
+          "h": 31
+        },
+        "context": "",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.linkedin.com/school/umanitoba/\" aria-label=\"Follow us on LinkedIn\" class=\"social-links__link external-link\">\n                <svg class=\"icon-linkedin social-links__icon\">\n  <use xmlns:xlink=\"http://www.w3.org/1999/xlink\" xlink:href=\"/themes/custom/umanitoba/images/svg-sprite.sv"
+      },
+      {
+        "target": "div:nth-of-type(1) > nav:nth-of-type(2) > ul > li:nth-of-type(7) > a",
+        "text": "All social",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/social-media-directory",
+        "imgAlt": "",
+        "box": {
+          "x": 547.515625,
+          "y": 5223.0625,
+          "w": 64.4375,
+          "h": 19
+        },
+        "context": "All social",
+        "contextKind": "li",
+        "html": "<a href=\"/social-media-directory\">All social</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > nav > ul > li:nth-of-type(1) > a",
+        "text": "Privacy policy",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/access-and-privacy/privacy-statement",
+        "imgAlt": "",
+        "box": {
+          "x": 960.546875,
+          "y": 5196.203125,
+          "w": 97.5,
+          "h": 19
+        },
+        "context": "Privacy policy",
+        "contextKind": "li",
+        "html": "<a href=\"/access-and-privacy/privacy-statement\">Privacy policy</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > nav > ul > li:nth-of-type(2) > a",
+        "text": "Terms of use",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/copyright/website-terms-use",
+        "imgAlt": "",
+        "box": {
+          "x": 1082.046875,
+          "y": 5196.203125,
+          "w": 93.15625,
+          "h": 19
+        },
+        "context": "Terms of use",
+        "contextKind": "li",
+        "html": "<a href=\"/copyright/website-terms-use\">Terms of use</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > nav > ul > li:nth-of-type(3) > a",
+        "text": "Website feedback",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/website-feedback",
+        "imgAlt": "",
+        "box": {
+          "x": 1199.203125,
+          "y": 5196.203125,
+          "w": 126.796875,
+          "h": 19
+        },
+        "context": "Website feedback",
+        "contextKind": "li",
+        "html": "<a href=\"/website-feedback\">Website feedback</a>"
+      },
+      {
+        "target": "#popup-text > p > a",
+        "text": "Privacy Statement",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://umanitoba.ca/access_and_privacy/Privacy_Statement.html",
+        "imgAlt": "",
+        "box": {
+          "x": 136.921875,
+          "y": 863,
+          "w": 121.3125,
+          "h": 18
+        },
+        "context": "We use cookies to give you the best website experience. By continuing to use our website, you are agreeing to our use of cookies. You can find out more about our use of cookies in our Privacy Statemen",
+        "contextKind": "p",
+        "html": "<a href=\"https://umanitoba.ca/access_and_privacy/Privacy_Statement.html\" tabindex=\"0\">Privacy Statement</a>"
+      }
+    ],
+    "headings": [
+      {
+        "target": "#block-functional-menu",
+        "level": 2,
+        "text": "Functional Menu",
+        "visible": true,
+        "box": {
+          "x": -10000,
+          "y": 155,
+          "w": 1,
+          "h": 1
+        },
+        "html": "<h2 class=\"visually-hidden\" id=\"block-functional-menu\">Functional Menu</h2>"
+      },
+      {
+        "target": "#block-global-cta-menu",
+        "level": 2,
+        "text": "Call To Action Menu",
+        "visible": true,
+        "box": {
+          "x": -10000,
+          "y": 155,
+          "w": 1,
+          "h": 1
+        },
+        "html": "<h2 class=\"visually-hidden\" id=\"block-global-cta-menu\">Call To Action Menu</h2>"
+      },
+      {
+        "target": "#block-main-menu",
+        "level": 2,
+        "text": "Main Menu",
+        "visible": true,
+        "box": {
+          "x": -10000,
+          "y": 279,
+          "w": 1,
+          "h": 1
+        },
+        "html": "<h2 class=\"visually-hidden\" id=\"block-main-menu\">Main Menu</h2>"
+      },
+      {
+        "target": "div:nth-of-type(2) > header > div:nth-of-type(3) > div > h2",
+        "level": 2,
+        "text": "What are you looking for?",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h2 class=\"search-header\">What are you looking for?</h2>"
+      },
+      {
+        "target": "#defaultIaMenu > ul > li:nth-of-type(1) > h3",
+        "level": 3,
+        "text": "Admissions",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h3><a href=\"/admissions\">Admissions</a></h3>"
+      },
+      {
+        "target": "#defaultIaMenu > ul > li:nth-of-type(2) > h3",
+        "level": 3,
+        "text": "Academics",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h3>\n            <a href=\"/academics\">Academics</a>\n        </h3>"
+      },
+      {
+        "target": "#defaultIaMenu > ul > li:nth-of-type(3) > h3",
+        "level": 3,
+        "text": "Research",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h3>\n            <a href=\"/research\">Research</a>\n        </h3>"
+      },
+      {
+        "target": "#defaultIaMenu > ul > li:nth-of-type(4) > h3",
+        "level": 3,
+        "text": "Student supports",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h3>\n            <a href=\"/student-supports\">Student supports</a>\n        </h3>"
+      },
+      {
+        "target": "#defaultIaMenu > ul > li:nth-of-type(5) > h3",
+        "level": 3,
+        "text": "Community",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h3>\n            <a href=\"/community\">Community</a>\n        </h3>"
+      },
+      {
+        "target": "#defaultIaMenu > ul > li:nth-of-type(6) > h3",
+        "level": 3,
+        "text": "About UM",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h3>\n            <a href=\"/about-um\">About UM</a>\n        </h3>"
+      },
+      {
+        "target": "#block-main-menu--mobile",
+        "level": 2,
+        "text": "Main Menu",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h2 class=\"visually-hidden\" id=\"block-main-menu--mobile\">Main Menu</h2>"
+      },
+      {
+        "target": "#block-functional-menu--mobile",
+        "level": 2,
+        "text": "Functional Menu",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h2 class=\"visually-hidden\" id=\"block-functional-menu--mobile\">Functional Menu</h2>"
+      },
+      {
+        "target": "#block-global-cta-menu--mobile",
+        "level": 2,
+        "text": "Call To Action Menu",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h2 class=\"visually-hidden\" id=\"block-global-cta-menu--mobile\">Call To Action Menu</h2>"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > a > div > h2",
+        "level": 2,
+        "text": "You're invited to the Bisons Block Party!",
+        "visible": true,
+        "box": {
+          "x": 806,
+          "y": 556.671875,
+          "w": 520,
+          "h": 84
+        },
+        "html": "<h2>You're invited to the Bisons Block Party!</h2>"
+      },
+      {
+        "target": "#study-with-us > h2",
+        "level": 2,
+        "text": "Study with us",
+        "visible": true,
+        "box": {
+          "x": 40,
+          "y": 1111.671875,
+          "w": 231.78125,
+          "h": 65.328125
+        },
+        "html": "<h2 class=\"section__heading\">\n            Study with us\n    </h2>"
+      },
+      {
+        "target": "div > ul > li:nth-of-type(1) > div > h3",
+        "level": 3,
+        "text": "Undergraduate studies",
+        "visible": true,
+        "box": {
+          "x": 40,
+          "y": 1523.875,
+          "w": 415.328125,
+          "h": 28
+        },
+        "html": "<h3>Undergraduate studies</h3>"
+      },
+      {
+        "target": "div > ul > li:nth-of-type(2) > div > h3",
+        "level": 3,
+        "text": "Graduate studies",
+        "visible": true,
+        "box": {
+          "x": 475.328125,
+          "y": 1523.875,
+          "w": 415.328125,
+          "h": 28
+        },
+        "html": "<h3>Graduate studies</h3>"
+      },
+      {
+        "target": "div > ul > li:nth-of-type(3) > div > h3",
+        "level": 3,
+        "text": "Extended Education",
+        "visible": true,
+        "box": {
+          "x": 910.65625,
+          "y": 1523.890625,
+          "w": 415.34375,
+          "h": 28
+        },
+        "html": "<h3>Extended Education</h3>"
+      },
+      {
+        "target": "#section-4 > div:nth-of-type(2) > div:nth-of-type(1) > h2",
+        "level": 2,
+        "text": "Find a program",
+        "visible": true,
+        "box": {
+          "x": 333,
+          "y": 2144.0625,
+          "w": 700,
+          "h": 39
+        },
+        "html": "<h2 class=\"search-block__title\">Find a program</h2>"
+      },
+      {
+        "target": "#why-um > h2",
+        "level": 2,
+        "text": "Why UM?",
+        "visible": true,
+        "box": {
+          "x": 40,
+          "y": 2423.0625,
+          "w": 161.5625,
+          "h": 65.328125
+        },
+        "html": "<h2 class=\"section__heading\">\n            Why UM?\n    </h2>"
+      },
+      {
+        "target": "div > div > ul > li:nth-of-type(1) > h2",
+        "level": 2,
+        "text": "31,900",
+        "visible": true,
+        "box": {
+          "x": 80,
+          "y": 2744.453125,
+          "w": 276,
+          "h": 64
+        },
+        "html": "<h2 aria-label=\"Figure number\" class=\"figure-list__heading\" style=\"min-height:64px\">31,900</h2>"
+      },
+      {
+        "target": "div > div > ul > li:nth-of-type(2) > h2",
+        "level": 2,
+        "text": "$40M",
+        "visible": true,
+        "box": {
+          "x": 390,
+          "y": 2744.453125,
+          "w": 276,
+          "h": 64
+        },
+        "html": "<h2 aria-label=\"Figure number\" class=\"figure-list__heading\" style=\"min-height:64px\">$40M</h2>"
+      },
+      {
+        "target": "div > div > ul > li:nth-of-type(3) > h2",
+        "level": 2,
+        "text": "U15",
+        "visible": true,
+        "box": {
+          "x": 700,
+          "y": 2744.28125,
+          "w": 276,
+          "h": 64
+        },
+        "html": "<h2 aria-label=\"Figure number\" class=\"figure-list__heading\" style=\"min-height:64px\">U15</h2>"
+      },
+      {
+        "target": "div > div > ul > li:nth-of-type(4) > h2",
+        "level": 2,
+        "text": "40+",
+        "visible": true,
+        "box": {
+          "x": 1010,
+          "y": 2744.453125,
+          "w": 276,
+          "h": 64
+        },
+        "html": "<h2 aria-label=\"Figure number\" class=\"figure-list__heading\" style=\"min-height:64px\">40+</h2>"
+      },
+      {
+        "target": "div:nth-of-type(3) > ul > li > a > h4",
+        "level": 4,
+        "text": "Learn more about UM",
+        "visible": true,
+        "box": {
+          "x": 507,
+          "y": 2998.546875,
+          "w": 352,
+          "h": 24
+        },
+        "html": "<h4 class=\"cta__button-title\">Learn more about UM</h4>"
+      },
+      {
+        "target": "div > div > div > div:nth-of-type(2) > h2",
+        "level": 2,
+        "text": "Be a part of research at UM",
+        "visible": true,
+        "box": {
+          "x": 40.015625,
+          "y": 3245.546875,
+          "w": 518.96875,
+          "h": 39
+        },
+        "html": "<h2 class=\"featured-text__content-headline\">Be a part of research at UM</h2>"
+      },
+      {
+        "target": "#um-stories > h2",
+        "level": 2,
+        "text": "UM stories",
+        "visible": true,
+        "box": {
+          "x": 40,
+          "y": 3863.828125,
+          "w": 186.40625,
+          "h": 65.328125
+        },
+        "html": "<h2 class=\"section__heading\">\n            UM stories\n    </h2>"
+      },
+      {
+        "target": "ul > li:nth-of-type(1) > a > article > h4",
+        "level": 4,
+        "text": "Ceremonies and celebrations welcome new students to rehab sciences",
+        "visible": true,
+        "box": {
+          "x": 41,
+          "y": 4264.75,
+          "w": 312,
+          "h": 95.515625
+        },
+        "html": "<h4 class=\"news-card__title\">Ceremonies and celebrations welcome new students to rehab sciences </h4>"
+      },
+      {
+        "target": "ul > li:nth-of-type(2) > a > article > h4",
+        "level": 4,
+        "text": "Rady Faculty researchers receive more than $6.7 million in CIHR funding",
+        "visible": true,
+        "box": {
+          "x": 365,
+          "y": 4264.75,
+          "w": 312,
+          "h": 95.515625
+        },
+        "html": "<h4 class=\"news-card__title\">Rady Faculty researchers receive more than $6.7 million in CIHR funding </h4>"
+      },
+      {
+        "target": "ul > li:nth-of-type(3) > a > article > h4",
+        "level": 4,
+        "text": "Journeys North",
+        "visible": true,
+        "box": {
+          "x": 689,
+          "y": 4264.75,
+          "w": 312,
+          "h": 47.515625
+        },
+        "html": "<h4 class=\"news-card__title\">Journeys North</h4>"
+      },
+      {
+        "target": "ul > li:nth-of-type(4) > a > article > h4",
+        "level": 4,
+        "text": "Navigating Canada’s Arctic future",
+        "visible": true,
+        "box": {
+          "x": 1013,
+          "y": 4264.75,
+          "w": 312,
+          "h": 71.515625
+        },
+        "html": "<h4 class=\"news-card__title\">Navigating Canada’s Arctic future</h4>"
+      },
+      {
+        "target": "#keep-exploring > h2",
+        "level": 2,
+        "text": "Keep exploring",
+        "visible": true,
+        "box": {
+          "x": 40,
+          "y": 4585.671875,
+          "w": 257.75,
+          "h": 65.328125
+        },
+        "html": "<h2 class=\"section__heading\">\n            Keep exploring\n    </h2>"
+      },
+      {
+        "target": "div > ul > li:nth-of-type(1) > a > h4",
+        "level": 4,
+        "text": "Experience the UM community",
+        "visible": true,
+        "box": {
+          "x": 87,
+          "y": 4710.59375,
+          "w": 352,
+          "h": 24
+        },
+        "html": "<h4 class=\"cta__button-title\">Experience the UM community</h4>"
+      },
+      {
+        "target": "div > ul > li:nth-of-type(2) > a > h4",
+        "level": 4,
+        "text": "Check out our campuses",
+        "visible": true,
+        "box": {
+          "x": 507,
+          "y": 4710.59375,
+          "w": 352,
+          "h": 24
+        },
+        "html": "<h4 class=\"cta__button-title\">Check out our campuses</h4>"
+      },
+      {
+        "target": "div > ul > li:nth-of-type(3) > a > h4",
+        "level": 4,
+        "text": "Connect with alumni",
+        "visible": true,
+        "box": {
+          "x": 927,
+          "y": 4710.59375,
+          "w": 352,
+          "h": 24
+        },
+        "html": "<h4 class=\"cta__button-title\">Connect with alumni</h4>"
+      },
+      {
+        "target": "div > ul > li:nth-of-type(4) > a > h4",
+        "level": 4,
+        "text": "Browse our libraries",
+        "visible": true,
+        "box": {
+          "x": 297,
+          "y": 4804.1875,
+          "w": 352,
+          "h": 24
+        },
+        "html": "<h4 class=\"cta__button-title\">Browse our libraries </h4>"
+      },
+      {
+        "target": "div > ul > li:nth-of-type(5) > a > h4",
+        "level": 4,
+        "text": "Join us at Open House",
+        "visible": true,
+        "box": {
+          "x": 717,
+          "y": 4804.1875,
+          "w": 352,
+          "h": 24
+        },
+        "html": "<h4 class=\"cta__button-title\">Join us at Open House</h4>"
+      }
+    ],
+    "lang": "en",
+    "title": "University of Manitoba"
+  },
   "axe": {
     "violationRules": 0,
     "violationNodes": 0,

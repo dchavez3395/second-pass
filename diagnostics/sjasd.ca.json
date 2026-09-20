@@ -5,7 +5,7 @@
   "title": "St. James-Assiniboia School Division - St. James-Assiniboia School Division",
   "finalUrl": "https://www.sjasd.ca/Pages/default.aspx#/=",
   "shape": {
-    "elements": 2012,
+    "elements": 2020,
     "images": 20,
     "links": 476,
     "buttons": 4,
@@ -19,16 +19,3341 @@
     "width": 1366,
     "height": 900
   },
-  "scannedAt": "2026-09-19T06:28:07.526Z",
+  "scannedAt": "2026-09-20T00:00:23.941Z",
+  "content": {
+    "images": [
+      {
+        "target": "#ctl00_SPLinkButton > img",
+        "tag": "img",
+        "src": "https://www.sjasd.ca/Style%20Library/Images/LogoHeader.png",
+        "alt": "Logo",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 192,
+        "naturalHeight": 192,
+        "box": {
+          "x": 181,
+          "y": 50.59375,
+          "w": 90,
+          "h": 90
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"/Style Library/Images/LogoHeader.png\" alt=\"Logo\" style=\"\" class=\"\">"
+      },
+      {
+        "target": "#ctl00_SPWebPartManager1_g_aad00e0b_681f_48b5_94ff_0d42f7c1a6b3_ctl00_FeaturedRepeater_ctl01_itemImg_clone",
+        "tag": "img",
+        "src": "https://www.sjasd.ca/FeaturedStories/TransitPilot_Sept2026_webbanner_v1-01.png",
+        "alt": "Free Ride",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 8121,
+        "naturalHeight": 4571,
+        "box": {
+          "x": -616.984375,
+          "y": 210.8984375,
+          "w": 603.96875,
+          "h": 339.953125
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"/FeaturedStories/TransitPilot_Sept2026_webbanner_v1-01.png\" id=\"ctl00_SPWebPartManager1_g_aad00e0b_681f_48b5_94ff_0d42f7c1a6b3_ctl00_FeaturedRepeater_ctl01_itemImg_clone\" alt=\"Free Ride\" draggable=\"false\">"
+      },
+      {
+        "target": "#ctl00_SPWebPartManager1_g_aad00e0b_681f_48b5_94ff_0d42f7c1a6b3_ctl00_FeaturedRepeater_ctl00_itemImg",
+        "tag": "img",
+        "src": "https://www.sjasd.ca/FeaturedStories/BlurbfromtheBoard_T_A_H_webbanner.jpg",
+        "alt": "Blurb from the Board",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 1949,
+        "naturalHeight": 1097,
+        "box": {
+          "x": -12.984375,
+          "y": 210.8984375,
+          "w": 603.96875,
+          "h": 339.953125
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"/FeaturedStories/BlurbfromtheBoard_T_A_H_webbanner.jpg\" id=\"ctl00_SPWebPartManager1_g_aad00e0b_681f_48b5_94ff_0d42f7c1a6b3_ctl00_FeaturedRepeater_ctl00_itemImg\" alt=\"Blurb from the Board\" draggable=\"false\">"
+      },
+      {
+        "target": "#ctl00_SPWebPartManager1_g_aad00e0b_681f_48b5_94ff_0d42f7c1a6b3_ctl00_FeaturedRepeater_ctl01_itemImg",
+        "tag": "img",
+        "src": "https://www.sjasd.ca/FeaturedStories/TransitPilot_Sept2026_webbanner_v1-01.png",
+        "alt": "Free Ride",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 8121,
+        "naturalHeight": 4571,
+        "box": {
+          "x": 591.015625,
+          "y": 210.8984375,
+          "w": 603.96875,
+          "h": 339.953125
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"/FeaturedStories/TransitPilot_Sept2026_webbanner_v1-01.png\" id=\"ctl00_SPWebPartManager1_g_aad00e0b_681f_48b5_94ff_0d42f7c1a6b3_ctl00_FeaturedRepeater_ctl01_itemImg\" alt=\"Free Ride\" draggable=\"false\">"
+      },
+      {
+        "target": "#ctl00_SPWebPartManager1_g_aad00e0b_681f_48b5_94ff_0d42f7c1a6b3_ctl00_FeaturedRepeater_ctl00_itemImg_clone",
+        "tag": "img",
+        "src": "https://www.sjasd.ca/FeaturedStories/BlurbfromtheBoard_T_A_H_webbanner.jpg",
+        "alt": "Blurb from the Board",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 1949,
+        "naturalHeight": 1097,
+        "box": {
+          "x": 1195.015625,
+          "y": 210.8984375,
+          "w": 603.96875,
+          "h": 339.953125
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"/FeaturedStories/BlurbfromtheBoard_T_A_H_webbanner.jpg\" id=\"ctl00_SPWebPartManager1_g_aad00e0b_681f_48b5_94ff_0d42f7c1a6b3_ctl00_FeaturedRepeater_ctl00_itemImg_clone\" alt=\"Blurb from the Board\" draggable=\"false\">"
+      },
+      {
+        "target": "div:nth-of-type(1) > a > div:nth-of-type(1) > span > img",
+        "tag": "img",
+        "src": "https://www.sjasd.ca/PublishingImages/Lists/Announcements/NewForm/trustee_gavel22_webnews2.jpg",
+        "alt": "trustee_gavel22_webnews2.jpg",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 326,
+        "naturalHeight": 299,
+        "box": {
+          "x": 182.4921875,
+          "y": 648.375,
+          "w": 109.015625,
+          "h": 100
+        },
+        "inLink": true,
+        "linkText": "​ SJASD In-Person Regular School Board Meeting is October 13, 2026, at 7 p.m. Trustees will hold their next in-person public School Board Meeting on ​​October 13, 2026, at...",
+        "linkHref": "//www.sjasd.ca/Pages/newsitem.aspx?ItemID=603&ListID=883d0c8d-1c12-4334-9116-1de95f400699&TemplateID=Announcement_Item",
+        "caption": "",
+        "nearText": "",
+        "html": "<img class=\"sl-CLVFieldImage content\" src=\"https://www.sjasd.ca/PublishingImages/Lists/Announcements/NewForm/trustee_gavel22_webnews2.jpg\" alt=\"trustee_gavel22_webnews2.jpg\">"
+      },
+      {
+        "target": "div:nth-of-type(2) > a > div:nth-of-type(1) > span > img",
+        "tag": "img",
+        "src": "https://www.sjasd.ca/PublishingImages/Lists/Announcements/NewForm/Election2026_square-01.png",
+        "alt": "Election2026_square-01.png",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 4500,
+        "naturalHeight": 4500,
+        "box": {
+          "x": 684,
+          "y": 648.375,
+          "w": 100,
+          "h": 100
+        },
+        "inLink": true,
+        "linkText": "School Board Elections ​ Every four years, School Board elections are held on the fourth Wednesday in...",
+        "linkHref": "//www.sjasd.ca/Pages/newsitem.aspx?ItemID=584&ListID=883d0c8d-1c12-4334-9116-1de95f400699&TemplateID=Announcement_Item",
+        "caption": "",
+        "nearText": "",
+        "html": "<img class=\"sl-CLVFieldImage content\" src=\"https://www.sjasd.ca/PublishingImages/Lists/Announcements/NewForm/Election2026_square-01.png\" alt=\"Election2026_square-01.png\">"
+      },
+      {
+        "target": "div:nth-of-type(3) > a > div:nth-of-type(1) > span > img",
+        "tag": "img",
+        "src": "https://www.sjasd.ca/PublishingImages/Lists/Announcements/NewForm/DivisionalCalendar_2026-27_square.jpg",
+        "alt": "DivisionalCalendar_2026-27_square.jpg",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 1080,
+        "naturalHeight": 1080,
+        "box": {
+          "x": 187,
+          "y": 788.96875,
+          "w": 100,
+          "h": 100
+        },
+        "inLink": true,
+        "linkText": "12-Month School Calendars Now Available ​ ​ ​The SJASD 12-month School Year calendars are here! The calendar lists important...",
+        "linkHref": "//www.sjasd.ca/Pages/newsitem.aspx?ItemID=599&ListID=883d0c8d-1c12-4334-9116-1de95f400699&TemplateID=Announcement_Item",
+        "caption": "",
+        "nearText": "",
+        "html": "<img class=\"sl-CLVFieldImage content\" src=\"https://www.sjasd.ca/PublishingImages/Lists/Announcements/NewForm/DivisionalCalendar_2026-27_square.jpg\" alt=\"DivisionalCalendar_2026-27_square.jpg\">"
+      },
+      {
+        "target": "div:nth-of-type(4) > a > div:nth-of-type(1) > span > img",
+        "tag": "img",
+        "src": "https://www.sjasd.ca/AboutUs/Scholarship/AnnualReport/PublishingImages/Pages/default/Scholarship_Annual_Report_2025_FINALCoverThumbnail.jpg",
+        "alt": "Scholarship_Annual_Report_2024_FINALwebCoverThumbnail.jpg",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 1483,
+        "naturalHeight": 1920,
+        "box": {
+          "x": 695.3828125,
+          "y": 788.96875,
+          "w": 77.234375,
+          "h": 100
+        },
+        "inLink": true,
+        "linkText": "Get the Latest Snapshot: Scholarship Foundation Annual Report 2025 Every year, the St. James Scholarship Foundation produces an Annual Report. The long-time registered charity...",
+        "linkHref": "//www.sjasd.ca/Pages/newsitem.aspx?ItemID=595&ListID=883d0c8d-1c12-4334-9116-1de95f400699&TemplateID=Announcement_Item",
+        "caption": "",
+        "nearText": "",
+        "html": "<img class=\"sl-CLVFieldImage content\" src=\"https://www.sjasd.ca/AboutUs/Scholarship/AnnualReport/PublishingImages/Pages/default/Scholarship_Annual_Report_2025_FINALCoverThumbnail.jpg\" alt=\"Scholarship_Annual_Report_2024_FINALwebCoverThumbnail.jpg\">"
+      },
+      {
+        "target": "div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1) > span:nth-of-type(1) > img",
+        "tag": "img",
+        "src": "https://www.sjasd.ca/Lists/FeaturedImageLinks/Attachments/4/Lakewood.JPG",
+        "alt": "Lakewood",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 4288,
+        "naturalHeight": 2848,
+        "box": {
+          "x": 186,
+          "y": 1197.5625,
+          "w": 376.390625,
+          "h": 250
+        },
+        "inLink": true,
+        "linkText": "Budget Report",
+        "linkHref": "https://www.sjasd.ca/Governance/Budget/Pages/default.aspx",
+        "caption": "",
+        "nearText": "Budget Report",
+        "html": "<img class=\"sl-CLVFieldImage content\" src=\"/Lists/FeaturedImageLinks/Attachments/4/Lakewood.JPG\" alt=\"Lakewood\">"
+      },
+      {
+        "target": "div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(2) > span:nth-of-type(1) > img",
+        "tag": "img",
+        "src": "https://www.sjasd.ca/Lists/FeaturedImageLinks/Attachments/3/ACADEMIC%20WESTWOOD%20copy.JPG",
+        "alt": "ACADEMIC WESTWOOD copy",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 768,
+        "naturalHeight": 512,
+        "box": {
+          "x": 521,
+          "y": 1197.5625,
+          "w": 375,
+          "h": 250
+        },
+        "inLink": true,
+        "linkText": "Strategic Plan",
+        "linkHref": "https://www.sjasd.ca/Governance/StrategicPlan",
+        "caption": "",
+        "nearText": "Strategic Plan",
+        "html": "<img class=\"sl-CLVFieldImage content\" src=\"/Lists/FeaturedImageLinks/Attachments/3/ACADEMIC WESTWOOD copy.JPG\" alt=\"ACADEMIC WESTWOOD copy\">"
+      },
+      {
+        "target": "div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(3) > span:nth-of-type(1) > img",
+        "tag": "img",
+        "src": "https://www.sjasd.ca/Lists/FeaturedImageLinks/Attachments/2/DSC_0742.jpg",
+        "alt": "DSC_0742",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 2896,
+        "naturalHeight": 1944,
+        "box": {
+          "x": 856,
+          "y": 1197.5625,
+          "w": 372.421875,
+          "h": 250
+        },
+        "inLink": true,
+        "linkText": "School Locator",
+        "linkHref": "https://www.sjasd.ca/Schools/SchoolLocator/Pages/default.aspx",
+        "caption": "",
+        "nearText": "School Locator",
+        "html": "<img class=\"sl-CLVFieldImage content\" src=\"/Lists/FeaturedImageLinks/Attachments/2/DSC_0742.jpg\" alt=\"DSC_0742\">"
+      },
+      {
+        "target": "div:nth-of-type(8) > section > div:nth-of-type(2) > div > img",
+        "tag": "img",
+        "src": "https://www.sjasd.ca/Style%20Library/Images/SchoolPhoto.jpg",
+        "alt": null,
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 1800,
+        "naturalHeight": 1205,
+        "box": {
+          "x": 683,
+          "y": 1876.390625,
+          "w": 683,
+          "h": 457.21875
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "",
+        "html": "<img class=\"centeredImg\" src=\"/Style Library/Images/SchoolPhoto.jpg\">"
+      }
+    ],
+    "links": [
+      {
+        "target": "#sl-Skiptocontent",
+        "text": "Skip to main content",
+        "ariaLabel": "",
+        "title": "",
+        "href": "#sl-ContentMain",
+        "imgAlt": "",
+        "box": {
+          "x": 0,
+          "y": -50,
+          "w": 100,
+          "h": 39.1875
+        },
+        "context": "",
+        "contextKind": "none",
+        "html": "<a id=\"sl-Skiptocontent\" href=\"#sl-ContentMain\">Skip to main content</a>"
+      },
+      {
+        "target": "#ctl00_ContentPlaceHolder2_SearchBoxScriptWebPart1_csr_SearchLink",
+        "text": "",
+        "ariaLabel": "Search",
+        "title": "Search",
+        "href": "javascript: {}",
+        "imgAlt": "Search",
+        "box": {
+          "x": 444.484375,
+          "y": 5,
+          "w": 26,
+          "h": 26
+        },
+        "context": "",
+        "contextKind": "none",
+        "html": "<a title=\"Search\" class=\"ms-srch-sb-searchLink\" id=\"ctl00_ContentPlaceHolder2_SearchBoxScriptWebPart1_csr_SearchLink\" onclick=\"$getClientControl(this).search($get('ctl00_ContentPlaceHolder2_SearchBoxScriptWebPart1_csr_sbox').value);\" href=\"javascript: {}\" role=\"button\" aria-label=\"Search\">\t\t\t\t\t<img "
+      },
+      {
+        "target": "div > div:nth-of-type(4) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "text": "Office 365",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://office.com",
+        "imgAlt": "",
+        "box": {
+          "x": 806.28125,
+          "y": 55.59375,
+          "w": 65.109375,
+          "h": 17
+        },
+        "context": "Division Staff: Office 365 PowerSchool Atrieve Staff Portal Helpdesk BYOD WiFi",
+        "contextKind": "block",
+        "html": "<a class=\"sl-UtilityLink\" href=\"https://office.com\">Office 365</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(4) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(2)",
+        "text": "PowerSchool",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://ps.sjasd.ca/teachers",
+        "imgAlt": "",
+        "box": {
+          "x": 899.875,
+          "y": 55.59375,
+          "w": 83.078125,
+          "h": 17
+        },
+        "context": "Division Staff: Office 365 PowerSchool Atrieve Staff Portal Helpdesk BYOD WiFi",
+        "contextKind": "block",
+        "html": "<a class=\"sl-UtilityLink\" href=\"https://ps.sjasd.ca/teachers\">PowerSchool</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(4) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(3)",
+        "text": "Atrieve",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://sjsd.atrieveerp.com",
+        "imgAlt": "",
+        "box": {
+          "x": 1011.4375,
+          "y": 55.59375,
+          "w": 44.90625,
+          "h": 17
+        },
+        "context": "Division Staff: Office 365 PowerSchool Atrieve Staff Portal Helpdesk BYOD WiFi",
+        "contextKind": "block",
+        "html": "<a class=\"sl-UtilityLink\" href=\"https://sjsd.atrieveerp.com\">Atrieve</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(4) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(4)",
+        "text": "Staff Portal",
+        "ariaLabel": "",
+        "title": "",
+        "href": "http://portal.sjasd.ca",
+        "imgAlt": "",
+        "box": {
+          "x": 806.28125,
+          "y": 75.1875,
+          "w": 72.59375,
+          "h": 17
+        },
+        "context": "Division Staff: Office 365 PowerSchool Atrieve Staff Portal Helpdesk BYOD WiFi",
+        "contextKind": "block",
+        "html": "<a class=\"sl-UtilityLink\" href=\"http://portal.sjasd.ca\">Staff  Portal</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(4) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(5)",
+        "text": "Helpdesk",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://helpdesk.sjasd.ca",
+        "imgAlt": "",
+        "box": {
+          "x": 907.359375,
+          "y": 75.1875,
+          "w": 59.140625,
+          "h": 17
+        },
+        "context": "Division Staff: Office 365 PowerSchool Atrieve Staff Portal Helpdesk BYOD WiFi",
+        "contextKind": "block",
+        "html": "<a class=\"sl-UtilityLink\" href=\"https://helpdesk.sjasd.ca\">Helpdesk</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(4) > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(6)",
+        "text": "BYOD WiFi",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.sjasd.ca/Programs/Pages/BYOD.aspx#/=",
+        "imgAlt": "",
+        "box": {
+          "x": 994.984375,
+          "y": 75.1875,
+          "w": 66.609375,
+          "h": 17
+        },
+        "context": "Division Staff: Office 365 PowerSchool Atrieve Staff Portal Helpdesk BYOD WiFi",
+        "contextKind": "block",
+        "html": "<a class=\"sl-UtilityLink\" href=\"https://www.sjasd.ca/Programs/Pages/BYOD.aspx#/=\">BYOD WiFi</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(4) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+        "text": "Office 365",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://office.com",
+        "imgAlt": "",
+        "box": {
+          "x": 806.28125,
+          "y": 114.375,
+          "w": 65.109375,
+          "h": 17
+        },
+        "context": "Students: Office 365 PowerSchool BYOD WiFi",
+        "contextKind": "block",
+        "html": "<a class=\"sl-UtilityLink\" href=\"https://office.com\">Office 365</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(4) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(2)",
+        "text": "PowerSchool",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://ps.sjasd.ca",
+        "imgAlt": "",
+        "box": {
+          "x": 899.875,
+          "y": 114.375,
+          "w": 83.078125,
+          "h": 17
+        },
+        "context": "Students: Office 365 PowerSchool BYOD WiFi",
+        "contextKind": "block",
+        "html": "<a class=\"sl-UtilityLink\" href=\"https://ps.sjasd.ca\">PowerSchool</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(4) > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(3)",
+        "text": "BYOD WiFi",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.sjasd.ca/Programs/Pages/BYOD.aspx#/=",
+        "imgAlt": "",
+        "box": {
+          "x": 1011.4375,
+          "y": 114.375,
+          "w": 66.609375,
+          "h": 17
+        },
+        "context": "Students: Office 365 PowerSchool BYOD WiFi",
+        "contextKind": "block",
+        "html": "<a class=\"sl-UtilityLink\" href=\"https://www.sjasd.ca/Programs/Pages/BYOD.aspx#/=\">BYOD WiFi</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(4) > div:nth-of-type(1) > div:nth-of-type(3) > a",
+        "text": "PowerSchool",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://ps.sjasd.ca",
+        "imgAlt": "",
+        "box": {
+          "x": 806.28125,
+          "y": 153.5625,
+          "w": 83.078125,
+          "h": 17
+        },
+        "context": "Division Staff: Office 365 PowerSchool Atrieve Staff Portal Helpdesk BYOD WiFi Students: Office 365 PowerSchool BYOD WiFi Parents: PowerSchool",
+        "contextKind": "block",
+        "html": "<a class=\"sl-UtilityLink\" href=\"https://ps.sjasd.ca\">PowerSchool</a>"
+      },
+      {
+        "target": "#ctl00_HyperLink1",
+        "text": "Contact Us",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/Contact/Pages/default.aspx",
+        "imgAlt": "",
+        "box": {
+          "x": 892.59375,
+          "y": 9,
+          "w": 69.078125,
+          "h": 17
+        },
+        "context": "Login Division Staff: Office 365 PowerSchool Atrieve Staff Portal Helpdesk BYOD WiFi Students: Office 365 PowerSchool BYOD WiFi Parents: PowerSchool Contact Us No School Today",
+        "contextKind": "block",
+        "html": "<a id=\"ctl00_HyperLink1\" href=\"/Contact/Pages/default.aspx\">Contact Us</a>"
+      },
+      {
+        "target": "div:nth-of-type(1) > div > div:nth-of-type(4) > span:nth-of-type(3) > a:nth-of-type(1)",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.facebook.com/St.JamesAssiniboiaSchoolDivision/",
+        "imgAlt": "",
+        "box": {
+          "x": 995.15625,
+          "y": 0,
+          "w": 25,
+          "h": 25
+        },
+        "context": "Login Division Staff: Office 365 PowerSchool Atrieve Staff Portal Helpdesk BYOD WiFi Students: Office 365 PowerSchool BYOD WiFi Parents: PowerSchool Contact Us No School Today",
+        "contextKind": "block",
+        "html": "<a class=\"sl-facebook\" href=\"https://www.facebook.com/St.JamesAssiniboiaSchoolDivision/\"></a>"
+      },
+      {
+        "target": "div:nth-of-type(1) > div > div:nth-of-type(4) > span:nth-of-type(3) > a:nth-of-type(2)",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.instagram.com/st.james_assiniboiasd/?hl=en",
+        "imgAlt": "",
+        "box": {
+          "x": 1020.15625,
+          "y": 0,
+          "w": 25,
+          "h": 25
+        },
+        "context": "Login Division Staff: Office 365 PowerSchool Atrieve Staff Portal Helpdesk BYOD WiFi Students: Office 365 PowerSchool BYOD WiFi Parents: PowerSchool Contact Us No School Today",
+        "contextKind": "block",
+        "html": "<a class=\"sl-instagram\" href=\"https://www.instagram.com/st.james_assiniboiasd/?hl=en\"></a>"
+      },
+      {
+        "target": "div:nth-of-type(1) > div > div:nth-of-type(4) > span:nth-of-type(3) > a:nth-of-type(3)",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.youtube.com/@st.jamesassiniboiaschooldi6509",
+        "imgAlt": "",
+        "box": {
+          "x": 1045.15625,
+          "y": 0,
+          "w": 25,
+          "h": 25
+        },
+        "context": "Login Division Staff: Office 365 PowerSchool Atrieve Staff Portal Helpdesk BYOD WiFi Students: Office 365 PowerSchool BYOD WiFi Parents: PowerSchool Contact Us No School Today",
+        "contextKind": "block",
+        "html": "<a class=\"sl-youtube\" href=\"https://www.youtube.com/@st.jamesassiniboiaschooldi6509\"></a>"
+      },
+      {
+        "target": "div:nth-of-type(1) > div > div:nth-of-type(4) > div:nth-of-type(2) > a",
+        "text": "No School Today",
+        "ariaLabel": "",
+        "title": "",
+        "href": "//www.sjasd.ca/AboutUs/SchoolDayCalendar/",
+        "imgAlt": "",
+        "box": {
+          "x": 1089.640625,
+          "y": 0,
+          "w": 105.359375,
+          "h": 30
+        },
+        "context": "Login Division Staff: Office 365 PowerSchool Atrieve Staff Portal Helpdesk BYOD WiFi Students: Office 365 PowerSchool BYOD WiFi Parents: PowerSchool Contact Us No School Today",
+        "contextKind": "block",
+        "html": "<a class=\"SchoolDayContainer\" href=\"//www.sjasd.ca/AboutUs/SchoolDayCalendar/\">\n\t<div class=\"Date\">Sep 19, 2026</div>\n\t<div class=\"noindex SchoolDay hidden\">School Day <span class=\"day\">0</span></div>\n\t<div class=\"noindex noSchoolDay show\">No School Today</div>\n</a>"
+      },
+      {
+        "target": "#ctl00_SPLinkButton",
+        "text": "",
+        "ariaLabel": "",
+        "title": "Back to Home",
+        "href": "/",
+        "imgAlt": "Logo",
+        "box": {
+          "x": 171,
+          "y": 50.59375,
+          "w": 110,
+          "h": 95.59375
+        },
+        "context": "St. James-Assiniboia School Division Great Schools for Growing and Learning Board Office",
+        "contextKind": "block",
+        "html": "<a id=\"ctl00_SPLinkButton\" title=\"Back to Home\" class=\"sl-CollectionLink\" href=\"/\">\n\t\t\t\t\t\t\t\t        \n\t\t\t\t\t\t\t\t\t        <img src=\"/Style Library/Images/LogoHeader.png\" alt=\"Logo\" style=\"\" class=\"\">\n\t\t\t\t\t\t\t\t        \n\t\t\t\t\t\t\t        </a>"
+      },
+      {
+        "target": "#zz2_RootAspMenu > li:nth-of-type(1) > a",
+        "text": "Home Currently selected",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/",
+        "imgAlt": "",
+        "box": {
+          "x": 171,
+          "y": 166.1875,
+          "w": 80.1875,
+          "h": 37.1875
+        },
+        "context": "Home Currently selected",
+        "contextKind": "li",
+        "html": "<a class=\"static selected menu-item ms-core-listMenu-item ms-displayInline ms-core-listMenu-selected ms-navedit-linkNode\" href=\"/\" accesskey=\"1\"><span class=\"additional-background ms-navedit-flyoutArrow\"><span class=\"menu-item-text\">Home</span><span class=\"ms-hidden\">Currently selected</span></span>"
+      },
+      {
+        "target": "#zz2_RootAspMenu > li:nth-of-type(2) > a",
+        "text": "About Us",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/AboutUs/Pages/default.aspx",
+        "imgAlt": "",
+        "box": {
+          "x": 251.1875,
+          "y": 166.1875,
+          "w": 106.140625,
+          "h": 37.1875
+        },
+        "context": "About Us About UsMission & VisionDiversity, Equity & InclusionLand AcknowledgementNews & MediaSafety ProgramScholarship FoundationCode of ConductContact InformationDivisional CalendarSchool Day Calend",
+        "contextKind": "li",
+        "html": "<a class=\"static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode\" href=\"/AboutUs/Pages/default.aspx\"><span class=\"additional-background ms-navedit-flyoutArrow\"><span class=\"menu-item-text\">About Us</span></span></a>"
+      },
+      {
+        "target": "#zz2_RootAspMenu > li:nth-of-type(2) > ul > li:nth-of-type(1) > a",
+        "text": "About Us",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/AboutUs/Pages/default.aspx",
+        "imgAlt": "",
+        "box": {
+          "x": 266.1875,
+          "y": 203.375,
+          "w": 185,
+          "h": 32.59375
+        },
+        "context": "About Us",
+        "contextKind": "li",
+        "html": "<a class=\"static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode\" href=\"/AboutUs/Pages/default.aspx\"><span class=\"additional-background ms-navedit-flyoutArrow\"><span class=\"menu-item-text\">About Us</span></span></a>"
+      },
+      {
+        "target": "#zz2_RootAspMenu > li:nth-of-type(2) > ul > li:nth-of-type(2) > a",
+        "text": "Mission & Vision",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/AboutUs/Mission/Pages/default.aspx",
+        "imgAlt": "",
+        "box": {
+          "x": 266.1875,
+          "y": 235.96875,
+          "w": 185,
+          "h": 32.59375
+        },
+        "context": "Mission & Vision",
+        "contextKind": "li",
+        "html": "<a class=\"static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode\" href=\"/AboutUs/Mission/Pages/default.aspx\"><span class=\"additional-background ms-navedit-flyoutArrow\"><span class=\"menu-item-text\">Mission &amp; Vision</span></span></a>"
+      },
+      {
+        "target": "#zz2_RootAspMenu > li:nth-of-type(2) > ul > li:nth-of-type(3) > a",
+        "text": "Diversity, Equity & Inclusion",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/AboutUs/DEI/Pages/default.aspx",
+        "imgAlt": "",
+        "box": {
+          "x": 266.1875,
+          "y": 268.5625,
+          "w": 185,
+          "h": 52.1875
+        },
+        "context": "Diversity, Equity & Inclusion",
+        "contextKind": "li",
+        "html": "<a class=\"static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode\" href=\"/AboutUs/DEI/Pages/default.aspx\"><span class=\"additional-background ms-navedit-flyoutArrow\"><span class=\"menu-item-text\">Diversity, Equity &amp; Inclusion</span></span></a>"
+      },
+      {
+        "target": "#zz2_RootAspMenu > li:nth-of-type(2) > ul > li:nth-of-type(4) > a",
+        "text": "Land Acknowledgement",
+        "ariaLabel": "",
+        "title": "Land Acknowledgement",
+        "href": "/Pages/land_acknowledgement.aspx",
+        "imgAlt": "",
+        "box": {
+          "x": 266.1875,
+          "y": 320.75,
+          "w": 185,
+          "h": 52.1875
+        },
+        "context": "Land Acknowledgement",
+        "contextKind": "li",
+        "html": "<a class=\"static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode\" title=\"Land Acknowledgement\" href=\"/Pages/land_acknowledgement.aspx\"><span class=\"additional-background ms-navedit-flyoutArrow\"><span class=\"menu-item-text\">Land Acknowledgement</span></span></a>"
+      },
+      {
+        "target": "#zz2_RootAspMenu > li:nth-of-type(2) > ul > li:nth-of-type(5) > a",
+        "text": "News & Media",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/AboutUs/NewsandMedia/Pages/default.aspx",
+        "imgAlt": "",
+        "box": {
+          "x": 266.1875,
+          "y": 372.9375,
+          "w": 185,
+          "h": 32.59375
+        },
+        "context": "News & Media",
+        "contextKind": "li",
+        "html": "<a class=\"static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode\" href=\"/AboutUs/NewsandMedia/Pages/default.aspx\"><span class=\"additional-background ms-navedit-flyoutArrow\"><span class=\"menu-item-text\">News &amp; Media</span></span></a>"
+      },
+      {
+        "target": "#zz2_RootAspMenu > li:nth-of-type(2) > ul > li:nth-of-type(6) > a",
+        "text": "Safety Program",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/AboutUs/Safety Program/Pages/default.aspx",
+        "imgAlt": "",
+        "box": {
+          "x": 266.1875,
+          "y": 405.53125,
+          "w": 185,
+          "h": 32.59375
+        },
+        "context": "Safety Program",
+        "contextKind": "li",
+        "html": "<a class=\"static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode\" href=\"/AboutUs/Safety Program/Pages/default.aspx\"><span class=\"additional-background ms-navedit-flyoutArrow\"><span class=\"menu-item-text\">Safety Program</span></span></a>"
+      },
+      {
+        "target": "#zz2_RootAspMenu > li:nth-of-type(2) > ul > li:nth-of-type(7) > a",
+        "text": "Scholarship Foundation",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/AboutUs/Scholarship/Pages/default.aspx",
+        "imgAlt": "",
+        "box": {
+          "x": 266.1875,
+          "y": 438.125,
+          "w": 185,
+          "h": 52.1875
+        },
+        "context": "Scholarship Foundation",
+        "contextKind": "li",
+        "html": "<a class=\"static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode\" href=\"/AboutUs/Scholarship/Pages/default.aspx\"><span class=\"additional-background ms-navedit-flyoutArrow\"><span class=\"menu-item-text\">Scholarship Foundation</span></span></a>"
+      },
+      {
+        "target": "#zz2_RootAspMenu > li:nth-of-type(2) > ul > li:nth-of-type(8) > a",
+        "text": "Code of Conduct",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/AboutUs/CodeOfConduct/Pages/default.aspx",
+        "imgAlt": "",
+        "box": {
+          "x": 266.1875,
+          "y": 490.3125,
+          "w": 185,
+          "h": 32.59375
+        },
+        "context": "Code of Conduct",
+        "contextKind": "li",
+        "html": "<a class=\"static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode\" href=\"/AboutUs/CodeOfConduct/Pages/default.aspx\"><span class=\"additional-background ms-navedit-flyoutArrow\"><span class=\"menu-item-text\">Code of Conduct</span></span></a>"
+      },
+      {
+        "target": "#zz2_RootAspMenu > li:nth-of-type(2) > ul > li:nth-of-type(9) > a",
+        "text": "Contact Information",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/AboutUs/ContactInformation/Pages/default.aspx",
+        "imgAlt": "",
+        "box": {
+          "x": 266.1875,
+          "y": 522.90625,
+          "w": 185,
+          "h": 32.59375
+        },
+        "context": "Contact Information",
+        "contextKind": "li",
+        "html": "<a class=\"static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode\" href=\"/AboutUs/ContactInformation/Pages/default.aspx\"><span class=\"additional-background ms-navedit-flyoutArrow\"><span class=\"menu-item-text\">Contact Information</span></span></a>"
+      },
+      {
+        "target": "#zz2_RootAspMenu > li:nth-of-type(2) > ul > li:nth-of-type(10) > a",
+        "text": "Divisional Calendar",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/Lists/Calendar",
+        "imgAlt": "",
+        "box": {
+          "x": 266.1875,
+          "y": 555.5,
+          "w": 185,
+          "h": 32.59375
+        },
+        "context": "Divisional Calendar",
+        "contextKind": "li",
+        "html": "<a class=\"static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode\" href=\"/Lists/Calendar\"><span class=\"additional-background ms-navedit-flyoutArrow\"><span class=\"menu-item-text\">Divisional Calendar</span></span></a>"
+      },
+      {
+        "target": "#zz2_RootAspMenu > li:nth-of-type(2) > ul > li:nth-of-type(11) > a",
+        "text": "School Day Calendar",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/AboutUs/SchoolDayCalendar/Documents/School_Day_Calendar-2026-27.pdf",
+        "imgAlt": "",
+        "box": {
+          "x": 266.1875,
+          "y": 588.09375,
+          "w": 185,
+          "h": 32.59375
+        },
+        "context": "School Day Calendar",
+        "contextKind": "li",
+        "html": "<a class=\"static menu-item ms-core-listMenu-item ms-displayInline new-window ms-navedit-linkNode\" href=\"/AboutUs/SchoolDayCalendar/Documents/School_Day_Calendar-2026-27.pdf\" target=\"_blank\"><span class=\"additional-background ms-navedit-flyoutArrow\"><span class=\"menu-item-text\">School Day Calendar</s"
+      },
+      {
+        "target": "#zz2_RootAspMenu > li:nth-of-type(2) > ul > li:nth-of-type(12) > a",
+        "text": "Fibre Network Locates",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/AboutUs/Fibre/Pages/default.aspx",
+        "imgAlt": "",
+        "box": {
+          "x": 266.1875,
+          "y": 620.6875,
+          "w": 185,
+          "h": 32.59375
+        },
+        "context": "Fibre Network Locates",
+        "contextKind": "li",
+        "html": "<a class=\"static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode\" href=\"/AboutUs/Fibre/Pages/default.aspx\"><span class=\"additional-background ms-navedit-flyoutArrow\"><span class=\"menu-item-text\">Fibre Network Locates</span></span></a>"
+      },
+      {
+        "target": "#zz2_RootAspMenu > li:nth-of-type(2) > ul > li:nth-of-type(13) > a",
+        "text": "Tenders & Purchasing",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/AboutUs/TendersandPurchasing/Pages/default.aspx",
+        "imgAlt": "",
+        "box": {
+          "x": 266.1875,
+          "y": 653.28125,
+          "w": 185,
+          "h": 31.59375
+        },
+        "context": "Tenders & Purchasing",
+        "contextKind": "li",
+        "html": "<a class=\"static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode\" href=\"/AboutUs/TendersandPurchasing/Pages/default.aspx\"><span class=\"additional-background ms-navedit-flyoutArrow\"><span class=\"menu-item-text\">Tenders &amp; Purchasing</span></span></a>"
+      },
+      {
+        "target": "#zz2_RootAspMenu > li:nth-of-type(3) > a",
+        "text": "Schools",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/Schools/Pages/default.aspx",
+        "imgAlt": "",
+        "box": {
+          "x": 357.328125,
+          "y": 166.1875,
+          "w": 96.875,
+          "h": 37.1875
+        },
+        "context": "Schools Our SchoolsMapsStudent RegistrationSchool LocatorEarly YearsMiddle YearsSenior Years",
+        "contextKind": "li",
+        "html": "<a class=\"static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode\" href=\"/Schools/Pages/default.aspx\"><span class=\"additional-background ms-navedit-flyoutArrow\"><span class=\"menu-item-text\">Schools</span></span></a>"
+      },
+      {
+        "target": "#zz2_RootAspMenu > li:nth-of-type(3) > ul > li:nth-of-type(1) > a",
+        "text": "Our Schools",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/Schools",
+        "imgAlt": "",
+        "box": {
+          "x": 372.328125,
+          "y": 203.375,
+          "w": 185,
+          "h": 32.59375
+        },
+        "context": "Our Schools",
+        "contextKind": "li",
+        "html": "<a class=\"static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode\" href=\"/Schools\"><span class=\"additional-background ms-navedit-flyoutArrow\"><span class=\"menu-item-text\">Our Schools</span></span></a>"
+      },
+      {
+        "target": "#zz2_RootAspMenu > li:nth-of-type(3) > ul > li:nth-of-type(2) > a",
+        "text": "Maps",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/Schools/Maps/Pages/default.aspx",
+        "imgAlt": "",
+        "box": {
+          "x": 372.328125,
+          "y": 235.96875,
+          "w": 185,
+          "h": 32.59375
+        },
+        "context": "Maps",
+        "contextKind": "li",
+        "html": "<a class=\"static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode\" href=\"/Schools/Maps/Pages/default.aspx\"><span class=\"additional-background ms-navedit-flyoutArrow\"><span class=\"menu-item-text\">Maps</span></span></a>"
+      },
+      {
+        "target": "#zz2_RootAspMenu > li:nth-of-type(3) > ul > li:nth-of-type(3) > a",
+        "text": "Student Registration",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/Schools/StudentRegistration/Pages/default.aspx",
+        "imgAlt": "",
+        "box": {
+          "x": 372.328125,
+          "y": 268.5625,
+          "w": 185,
+          "h": 32.59375
+        },
+        "context": "Student Registration",
+        "contextKind": "li",
+        "html": "<a class=\"static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode\" href=\"/Schools/StudentRegistration/Pages/default.aspx\"><span class=\"additional-background ms-navedit-flyoutArrow\"><span class=\"menu-item-text\">Student Registration</span></span></a>"
+      },
+      {
+        "target": "#zz2_RootAspMenu > li:nth-of-type(3) > ul > li:nth-of-type(4) > a",
+        "text": "School Locator",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/Schools/SchoolLocator/Pages/default.aspx",
+        "imgAlt": "",
+        "box": {
+          "x": 372.328125,
+          "y": 301.15625,
+          "w": 185,
+          "h": 32.59375
+        },
+        "context": "School Locator",
+        "contextKind": "li",
+        "html": "<a class=\"static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode\" href=\"/Schools/SchoolLocator/Pages/default.aspx\"><span class=\"additional-background ms-navedit-flyoutArrow\"><span class=\"menu-item-text\">School Locator</span></span></a>"
+      },
+      {
+        "target": "#zz2_RootAspMenu > li:nth-of-type(3) > ul > li:nth-of-type(5) > a",
+        "text": "Early Years",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/Schools/earlyyears/Pages/default.aspx",
+        "imgAlt": "",
+        "box": {
+          "x": 372.328125,
+          "y": 333.75,
+          "w": 185,
+          "h": 32.59375
+        },
+        "context": "Early Years",
+        "contextKind": "li",
+        "html": "<a class=\"static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode\" href=\"/Schools/earlyyears/Pages/default.aspx\"><span class=\"additional-background ms-navedit-flyoutArrow\"><span class=\"menu-item-text\">Early Years</span></span></a>"
+      },
+      {
+        "target": "#zz2_RootAspMenu > li:nth-of-type(3) > ul > li:nth-of-type(6) > a",
+        "text": "Middle Years",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/Schools/MiddleYears/Pages/default.aspx",
+        "imgAlt": "",
+        "box": {
+          "x": 372.328125,
+          "y": 366.34375,
+          "w": 185,
+          "h": 32.59375
+        },
+        "context": "Middle Years",
+        "contextKind": "li",
+        "html": "<a class=\"static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode\" href=\"/Schools/MiddleYears/Pages/default.aspx\"><span class=\"additional-background ms-navedit-flyoutArrow\"><span class=\"menu-item-text\">Middle Years</span></span></a>"
+      },
+      {
+        "target": "#zz2_RootAspMenu > li:nth-of-type(3) > ul > li:nth-of-type(7) > a",
+        "text": "Senior Years",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/Schools/SeniorYears/Pages/default.aspx",
+        "imgAlt": "",
+        "box": {
+          "x": 372.328125,
+          "y": 398.9375,
+          "w": 185,
+          "h": 31.59375
+        },
+        "context": "Senior Years",
+        "contextKind": "li",
+        "html": "<a class=\"static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode\" href=\"/Schools/SeniorYears/Pages/default.aspx\"><span class=\"additional-background ms-navedit-flyoutArrow\"><span class=\"menu-item-text\">Senior Years</span></span></a>"
+      },
+      {
+        "target": "#zz2_RootAspMenu > li:nth-of-type(4) > a",
+        "text": "Programs/Services",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/Programs/Pages/default.aspx",
+        "imgAlt": "",
+        "box": {
+          "x": 454.203125,
+          "y": 166.1875,
+          "w": 187.59375,
+          "h": 37.1875
+        },
+        "context": "Programs/Services Advanced PlacementArts EducationAssessment & EvaluationCareer DevelopmentContinuing EducationEducational Support ServicesFrench ImmersionHockey AcademiesIndigenous EducationInformNet",
+        "contextKind": "li",
+        "html": "<a class=\"static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode\" href=\"/Programs/Pages/default.aspx\"><span class=\"additional-background ms-navedit-flyoutArrow\"><span class=\"menu-item-text\">Programs/Services</span></span></a>"
+      },
+      {
+        "target": "#zz2_RootAspMenu > li:nth-of-type(4) > ul > li:nth-of-type(1) > a",
+        "text": "Advanced Placement",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/Programs/AdvancedPlacement/Pages/default.aspx",
+        "imgAlt": "",
+        "box": {
+          "x": 469.203125,
+          "y": 203.375,
+          "w": 185,
+          "h": 32.59375
+        },
+        "context": "Advanced Placement",
+        "contextKind": "li",
+        "html": "<a class=\"static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode\" href=\"/Programs/AdvancedPlacement/Pages/default.aspx\"><span class=\"additional-background ms-navedit-flyoutArrow\"><span class=\"menu-item-text\">Advanced Placement</span></span></a>"
+      },
+      {
+        "target": "#zz2_RootAspMenu > li:nth-of-type(4) > ul > li:nth-of-type(2) > a",
+        "text": "Arts Education",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/Programs/ArtsEducation/Pages/default.aspx",
+        "imgAlt": "",
+        "box": {
+          "x": 469.203125,
+          "y": 235.96875,
+          "w": 185,
+          "h": 32.59375
+        },
+        "context": "Arts Education",
+        "contextKind": "li",
+        "html": "<a class=\"static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode\" href=\"/Programs/ArtsEducation/Pages/default.aspx\"><span class=\"additional-background ms-navedit-flyoutArrow\"><span class=\"menu-item-text\">Arts Education</span></span></a>"
+      },
+      {
+        "target": "#zz2_RootAspMenu > li:nth-of-type(4) > ul > li:nth-of-type(3) > a",
+        "text": "Assessment & Evaluation",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/Programs/AssessmentandEvaluation/Pages/default.aspx",
+        "imgAlt": "",
+        "box": {
+          "x": 469.203125,
+          "y": 268.5625,
+          "w": 185,
+          "h": 52.1875
+        },
+        "context": "Assessment & Evaluation",
+        "contextKind": "li",
+        "html": "<a class=\"static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode\" href=\"/Programs/AssessmentandEvaluation/Pages/default.aspx\"><span class=\"additional-background ms-navedit-flyoutArrow\"><span class=\"menu-item-text\">Assessment &amp; Evaluation</span></span></a>"
+      },
+      {
+        "target": "#zz2_RootAspMenu > li:nth-of-type(4) > ul > li:nth-of-type(4) > a",
+        "text": "Career Development",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/Programs/CareerDevelopment/Pages/default.aspx",
+        "imgAlt": "",
+        "box": {
+          "x": 469.203125,
+          "y": 320.75,
+          "w": 185,
+          "h": 32.59375
+        },
+        "context": "Career Development",
+        "contextKind": "li",
+        "html": "<a class=\"static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode\" href=\"/Programs/CareerDevelopment/Pages/default.aspx\"><span class=\"additional-background ms-navedit-flyoutArrow\"><span class=\"menu-item-text\">Career Development</span></span></a>"
+      },
+      {
+        "target": "#zz2_RootAspMenu > li:nth-of-type(4) > ul > li:nth-of-type(5) > a",
+        "text": "Continuing Education",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/Programs/Coned/Pages/default.aspx",
+        "imgAlt": "",
+        "box": {
+          "x": 469.203125,
+          "y": 353.34375,
+          "w": 185,
+          "h": 32.59375
+        },
+        "context": "Continuing Education",
+        "contextKind": "li",
+        "html": "<a class=\"static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode\" href=\"/Programs/Coned/Pages/default.aspx\"><span class=\"additional-background ms-navedit-flyoutArrow\"><span class=\"menu-item-text\">Continuing Education</span></span></a>"
+      },
+      {
+        "target": "#zz2_RootAspMenu > li:nth-of-type(4) > ul > li:nth-of-type(6) > a",
+        "text": "Educational Support Services",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/Programs/ESS/Pages/default.aspx",
+        "imgAlt": "",
+        "box": {
+          "x": 469.203125,
+          "y": 385.9375,
+          "w": 185,
+          "h": 52.1875
+        },
+        "context": "Educational Support Services",
+        "contextKind": "li",
+        "html": "<a class=\"static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode\" href=\"/Programs/ESS/Pages/default.aspx\"><span class=\"additional-background ms-navedit-flyoutArrow\"><span class=\"menu-item-text\">Educational Support Services</span></span></a>"
+      },
+      {
+        "target": "#zz2_RootAspMenu > li:nth-of-type(4) > ul > li:nth-of-type(7) > a",
+        "text": "French Immersion",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/Programs/FrenchImmersion/Pages/default.aspx",
+        "imgAlt": "",
+        "box": {
+          "x": 469.203125,
+          "y": 438.125,
+          "w": 185,
+          "h": 32.59375
+        },
+        "context": "French Immersion",
+        "contextKind": "li",
+        "html": "<a class=\"static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode\" href=\"/Programs/FrenchImmersion/Pages/default.aspx\"><span class=\"additional-background ms-navedit-flyoutArrow\"><span class=\"menu-item-text\">French Immersion</span></span></a>"
+      },
+      {
+        "target": "#zz2_RootAspMenu > li:nth-of-type(4) > ul > li:nth-of-type(8) > a",
+        "text": "Hockey Academies",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/Programs/HockeyAcademies/Pages/default.aspx",
+        "imgAlt": "",
+        "box": {
+          "x": 469.203125,
+          "y": 470.71875,
+          "w": 185,
+          "h": 32.59375
+        },
+        "context": "Hockey Academies",
+        "contextKind": "li",
+        "html": "<a class=\"static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode\" href=\"/Programs/HockeyAcademies/Pages/default.aspx\"><span class=\"additional-background ms-navedit-flyoutArrow\"><span class=\"menu-item-text\">Hockey Academies</span></span></a>"
+      },
+      {
+        "target": "#zz2_RootAspMenu > li:nth-of-type(4) > ul > li:nth-of-type(9) > a",
+        "text": "Indigenous Education",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/Programs/IndigenousEducation/Pages/default.aspx",
+        "imgAlt": "",
+        "box": {
+          "x": 469.203125,
+          "y": 503.3125,
+          "w": 185,
+          "h": 32.59375
+        },
+        "context": "Indigenous Education",
+        "contextKind": "li",
+        "html": "<a class=\"static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode\" href=\"/Programs/IndigenousEducation/Pages/default.aspx\"><span class=\"additional-background ms-navedit-flyoutArrow\"><span class=\"menu-item-text\">Indigenous Education</span></span></a>"
+      },
+      {
+        "target": "#zz2_RootAspMenu > li:nth-of-type(4) > ul > li:nth-of-type(10) > a",
+        "text": "InformNet",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/Programs/informnet/Pages/default.aspx",
+        "imgAlt": "",
+        "box": {
+          "x": 469.203125,
+          "y": 535.90625,
+          "w": 185,
+          "h": 32.59375
+        },
+        "context": "InformNet",
+        "contextKind": "li",
+        "html": "<a class=\"static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode\" href=\"/Programs/informnet/Pages/default.aspx\"><span class=\"additional-background ms-navedit-flyoutArrow\"><span class=\"menu-item-text\">InformNet</span></span></a>"
+      },
+      {
+        "target": "#zz2_RootAspMenu > li:nth-of-type(4) > ul > li:nth-of-type(11) > a",
+        "text": "International Education",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/Programs/ISP/Pages/default.aspx",
+        "imgAlt": "",
+        "box": {
+          "x": 469.203125,
+          "y": 568.5,
+          "w": 185,
+          "h": 52.1875
+        },
+        "context": "International Education",
+        "contextKind": "li",
+        "html": "<a class=\"static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode\" href=\"/Programs/ISP/Pages/default.aspx\"><span class=\"additional-background ms-navedit-flyoutArrow\"><span class=\"menu-item-text\">International Education</span></span></a>"
+      },
+      {
+        "target": "#zz2_RootAspMenu > li:nth-of-type(4) > ul > li:nth-of-type(12) > a",
+        "text": "Library Resources",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/Programs/LibraryResources/Pages/default.aspx",
+        "imgAlt": "",
+        "box": {
+          "x": 469.203125,
+          "y": 620.6875,
+          "w": 185,
+          "h": 32.59375
+        },
+        "context": "Library Resources",
+        "contextKind": "li",
+        "html": "<a class=\"static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode\" href=\"/Programs/LibraryResources/Pages/default.aspx\"><span class=\"additional-background ms-navedit-flyoutArrow\"><span class=\"menu-item-text\">Library Resources</span></span></a>"
+      },
+      {
+        "target": "#zz2_RootAspMenu > li:nth-of-type(4) > ul > li:nth-of-type(13) > a",
+        "text": "Literacy Links",
+        "ariaLabel": "",
+        "title": "Literacy Links is an engaging summer literacy program for families with children entering Kindergarten to get a glimpse into the exciting world of play-based learning, right in the comfort of their own home!",
+        "href": "/Programs/LiteracyLinks/Pages/default.aspx",
+        "imgAlt": "",
+        "box": {
+          "x": 469.203125,
+          "y": 653.28125,
+          "w": 185,
+          "h": 32.59375
+        },
+        "context": "Literacy Links",
+        "contextKind": "li",
+        "html": "<a class=\"static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode\" title=\"Literacy Links is an engaging summer literacy program for families with children entering Kindergarten to get a glimpse into the exciting world of play-based learning, right in the comfort of their own home"
+      },
+      {
+        "target": "#zz2_RootAspMenu > li:nth-of-type(4) > ul > li:nth-of-type(14) > a",
+        "text": "Microsoft Teams",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/Programs/Pages/Microsoft-Teams.aspx",
+        "imgAlt": "",
+        "box": {
+          "x": 469.203125,
+          "y": 685.875,
+          "w": 185,
+          "h": 32.59375
+        },
+        "context": "Microsoft Teams",
+        "contextKind": "li",
+        "html": "<a class=\"static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode\" href=\"/Programs/Pages/Microsoft-Teams.aspx\"><span class=\"additional-background ms-navedit-flyoutArrow\"><span class=\"menu-item-text\">Microsoft Teams</span></span></a>"
+      },
+      {
+        "target": "#zz2_RootAspMenu > li:nth-of-type(4) > ul > li:nth-of-type(15) > a",
+        "text": "Newcomer and EAL Program",
+        "ariaLabel": "",
+        "title": "St. James-Assiniboia welcomes a growing number of newcomer students as well as students whose families speak a language other than English at home.",
+        "href": "/Programs/Pages/Newcomer-and-EAL-Program.aspx",
+        "imgAlt": "",
+        "box": {
+          "x": 469.203125,
+          "y": 718.46875,
+          "w": 185,
+          "h": 52.1875
+        },
+        "context": "Newcomer and EAL Program",
+        "contextKind": "li",
+        "html": "<a class=\"static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode\" title=\"St. James-Assiniboia welcomes a growing number of newcomer students as well as students whose families speak a language other than English at home.\" href=\"/Programs/Pages/Newcomer-and-EAL-Program.aspx\"><spa"
+      },
+      {
+        "target": "#zz2_RootAspMenu > li:nth-of-type(4) > ul > li:nth-of-type(16) > a",
+        "text": "Physical Education",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/Programs/PE/Pages/default.aspx",
+        "imgAlt": "",
+        "box": {
+          "x": 469.203125,
+          "y": 770.65625,
+          "w": 185,
+          "h": 32.59375
+        },
+        "context": "Physical Education",
+        "contextKind": "li",
+        "html": "<a class=\"static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode\" href=\"/Programs/PE/Pages/default.aspx\"><span class=\"additional-background ms-navedit-flyoutArrow\"><span class=\"menu-item-text\">Physical Education</span></span></a>"
+      },
+      {
+        "target": "#zz2_RootAspMenu > li:nth-of-type(4) > ul > li:nth-of-type(17) > a",
+        "text": "Technology Education",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/Programs/Pages/Technology-Education.aspx",
+        "imgAlt": "",
+        "box": {
+          "x": 469.203125,
+          "y": 803.25,
+          "w": 185,
+          "h": 31.59375
+        },
+        "context": "Technology Education",
+        "contextKind": "li",
+        "html": "<a class=\"static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode\" href=\"/Programs/Pages/Technology-Education.aspx\"><span class=\"additional-background ms-navedit-flyoutArrow\"><span class=\"menu-item-text\">Technology Education</span></span></a>"
+      },
+      {
+        "target": "#zz2_RootAspMenu > li:nth-of-type(5) > a",
+        "text": "Governance",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/Governance/Pages/default.aspx",
+        "imgAlt": "",
+        "box": {
+          "x": 641.796875,
+          "y": 166.1875,
+          "w": 128.53125,
+          "h": 37.1875
+        },
+        "context": "Governance School BoardSenior AdministrationStrategic PlanReport to the CommunityPolicy ManualBudgetFinancial StatementsClass SizesAccessibility PlanSupplementary Financial Information",
+        "contextKind": "li",
+        "html": "<a class=\"static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode\" href=\"/Governance/Pages/default.aspx\"><span class=\"additional-background ms-navedit-flyoutArrow\"><span class=\"menu-item-text\">Governance</span></span></a>"
+      },
+      {
+        "target": "#zz2_RootAspMenu > li:nth-of-type(5) > ul > li:nth-of-type(1) > a",
+        "text": "School Board",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/Governance/SchoolBoard/Pages/default.aspx",
+        "imgAlt": "",
+        "box": {
+          "x": 656.796875,
+          "y": 203.375,
+          "w": 185,
+          "h": 32.59375
+        },
+        "context": "School Board",
+        "contextKind": "li",
+        "html": "<a class=\"static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode\" href=\"/Governance/SchoolBoard/Pages/default.aspx\"><span class=\"additional-background ms-navedit-flyoutArrow\"><span class=\"menu-item-text\">School Board</span></span></a>"
+      },
+      {
+        "target": "#zz2_RootAspMenu > li:nth-of-type(5) > ul > li:nth-of-type(2) > a",
+        "text": "Senior Administration",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/Governance/Senioradministration/Pages/default.aspx",
+        "imgAlt": "",
+        "box": {
+          "x": 656.796875,
+          "y": 235.96875,
+          "w": 185,
+          "h": 32.59375
+        },
+        "context": "Senior Administration",
+        "contextKind": "li",
+        "html": "<a class=\"static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode\" href=\"/Governance/Senioradministration/Pages/default.aspx\"><span class=\"additional-background ms-navedit-flyoutArrow\"><span class=\"menu-item-text\">Senior Administration</span></span></a>"
+      },
+      {
+        "target": "#zz2_RootAspMenu > li:nth-of-type(5) > ul > li:nth-of-type(3) > a",
+        "text": "Strategic Plan",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/Governance/StrategicPlan/Pages/default.aspx",
+        "imgAlt": "",
+        "box": {
+          "x": 656.796875,
+          "y": 268.5625,
+          "w": 185,
+          "h": 32.59375
+        },
+        "context": "Strategic Plan",
+        "contextKind": "li",
+        "html": "<a class=\"static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode\" href=\"/Governance/StrategicPlan/Pages/default.aspx\"><span class=\"additional-background ms-navedit-flyoutArrow\"><span class=\"menu-item-text\">Strategic Plan</span></span></a>"
+      },
+      {
+        "target": "#zz2_RootAspMenu > li:nth-of-type(5) > ul > li:nth-of-type(4) > a",
+        "text": "Report to the Community",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/Governance/CommunityReport/Pages/default.aspx",
+        "imgAlt": "",
+        "box": {
+          "x": 656.796875,
+          "y": 301.15625,
+          "w": 185,
+          "h": 52.1875
+        },
+        "context": "Report to the Community",
+        "contextKind": "li",
+        "html": "<a class=\"static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode\" href=\"/Governance/CommunityReport/Pages/default.aspx\"><span class=\"additional-background ms-navedit-flyoutArrow\"><span class=\"menu-item-text\">Report to the Community</span></span></a>"
+      },
+      {
+        "target": "#zz2_RootAspMenu > li:nth-of-type(5) > ul > li:nth-of-type(5) > a",
+        "text": "Policy Manual",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/Governance/PolicyManual/Pages/default.aspx",
+        "imgAlt": "",
+        "box": {
+          "x": 656.796875,
+          "y": 353.34375,
+          "w": 185,
+          "h": 32.59375
+        },
+        "context": "Policy Manual",
+        "contextKind": "li",
+        "html": "<a class=\"static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode\" href=\"/Governance/PolicyManual/Pages/default.aspx\"><span class=\"additional-background ms-navedit-flyoutArrow\"><span class=\"menu-item-text\">Policy Manual</span></span></a>"
+      },
+      {
+        "target": "#zz2_RootAspMenu > li:nth-of-type(5) > ul > li:nth-of-type(6) > a",
+        "text": "Budget",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/Governance/Budget/Pages/default.aspx",
+        "imgAlt": "",
+        "box": {
+          "x": 656.796875,
+          "y": 385.9375,
+          "w": 185,
+          "h": 32.59375
+        },
+        "context": "Budget",
+        "contextKind": "li",
+        "html": "<a class=\"static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode\" href=\"/Governance/Budget/Pages/default.aspx\"><span class=\"additional-background ms-navedit-flyoutArrow\"><span class=\"menu-item-text\">Budget</span></span></a>"
+      },
+      {
+        "target": "#zz2_RootAspMenu > li:nth-of-type(5) > ul > li:nth-of-type(7) > a",
+        "text": "Financial Statements",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/Governance/FinancialStatements/Pages/default.aspx",
+        "imgAlt": "",
+        "box": {
+          "x": 656.796875,
+          "y": 418.53125,
+          "w": 185,
+          "h": 32.59375
+        },
+        "context": "Financial Statements",
+        "contextKind": "li",
+        "html": "<a class=\"static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode\" href=\"/Governance/FinancialStatements/Pages/default.aspx\"><span class=\"additional-background ms-navedit-flyoutArrow\"><span class=\"menu-item-text\">Financial Statements</span></span></a>"
+      },
+      {
+        "target": "#zz2_RootAspMenu > li:nth-of-type(5) > ul > li:nth-of-type(8) > a",
+        "text": "Class Sizes",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/Governance/class_sizes/Pages/default.aspx",
+        "imgAlt": "",
+        "box": {
+          "x": 656.796875,
+          "y": 451.125,
+          "w": 185,
+          "h": 32.59375
+        },
+        "context": "Class Sizes",
+        "contextKind": "li",
+        "html": "<a class=\"static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode\" href=\"/Governance/class_sizes/Pages/default.aspx\"><span class=\"additional-background ms-navedit-flyoutArrow\"><span class=\"menu-item-text\">Class Sizes</span></span></a>"
+      },
+      {
+        "target": "#zz2_RootAspMenu > li:nth-of-type(5) > ul > li:nth-of-type(9) > a",
+        "text": "Accessibility Plan",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/Governance/Accessibilityplan/Pages/default.aspx",
+        "imgAlt": "",
+        "box": {
+          "x": 656.796875,
+          "y": 483.71875,
+          "w": 185,
+          "h": 32.59375
+        },
+        "context": "Accessibility Plan",
+        "contextKind": "li",
+        "html": "<a class=\"static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode\" href=\"/Governance/Accessibilityplan/Pages/default.aspx\"><span class=\"additional-background ms-navedit-flyoutArrow\"><span class=\"menu-item-text\">Accessibility Plan</span></span></a>"
+      },
+      {
+        "target": "#zz2_RootAspMenu > li:nth-of-type(5) > ul > li:nth-of-type(10) > a",
+        "text": "Supplementary Financial Information",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/Governance/Pages/Supplementary.aspx",
+        "imgAlt": "",
+        "box": {
+          "x": 656.796875,
+          "y": 516.3125,
+          "w": 185,
+          "h": 51.1875
+        },
+        "context": "Supplementary Financial Information",
+        "contextKind": "li",
+        "html": "<a class=\"static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode\" href=\"/Governance/Pages/Supplementary.aspx\"><span class=\"additional-background ms-navedit-flyoutArrow\"><span class=\"menu-item-text\">Supplementary Financial Information</span></span></a>"
+      },
+      {
+        "target": "#zz2_RootAspMenu > li:nth-of-type(6) > a",
+        "text": "Parents/Community",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/Parents/Pages/default.aspx",
+        "imgAlt": "",
+        "box": {
+          "x": 770.328125,
+          "y": 166.1875,
+          "w": 194.609375,
+          "h": 37.1875
+        },
+        "context": "Parents/Community Requesting TranscriptsTransportationCold Weather PolicyAir QualityField ClosuresHold and Secure/LockdownConcussion ProtocolCell Phone Use in SchoolsPermits/FacilitiesRespectful Workp",
+        "contextKind": "li",
+        "html": "<a class=\"static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode\" href=\"/Parents/Pages/default.aspx\"><span class=\"additional-background ms-navedit-flyoutArrow\"><span class=\"menu-item-text\">Parents/Community</span></span></a>"
+      },
+      {
+        "target": "#zz2_RootAspMenu > li:nth-of-type(6) > ul > li:nth-of-type(1) > a",
+        "text": "Requesting Transcripts",
+        "ariaLabel": "",
+        "title": "Current and former students who attended St. James-Assiniboia School Division may request a high school statement of marks (official transcript) online.",
+        "href": "/Parents/RequestingTranscripts/Pages/default.aspx",
+        "imgAlt": "",
+        "box": {
+          "x": 785.328125,
+          "y": 203.375,
+          "w": 185,
+          "h": 52.1875
+        },
+        "context": "Requesting Transcripts",
+        "contextKind": "li",
+        "html": "<a class=\"static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode\" title=\"Current and former students who attended St. James-Assiniboia School Division may request a high school statement of marks (official transcript) online.\" href=\"/Parents/RequestingTranscripts/Pages/default.a"
+      },
+      {
+        "target": "#zz2_RootAspMenu > li:nth-of-type(6) > ul > li:nth-of-type(2) > a",
+        "text": "Transportation",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/Parents/Transportation/Pages/default.aspx",
+        "imgAlt": "",
+        "box": {
+          "x": 785.328125,
+          "y": 255.5625,
+          "w": 185,
+          "h": 32.59375
+        },
+        "context": "Transportation",
+        "contextKind": "li",
+        "html": "<a class=\"static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode\" href=\"/Parents/Transportation/Pages/default.aspx\"><span class=\"additional-background ms-navedit-flyoutArrow\"><span class=\"menu-item-text\">Transportation</span></span></a>"
+      },
+      {
+        "target": "#zz2_RootAspMenu > li:nth-of-type(6) > ul > li:nth-of-type(3) > a",
+        "text": "Cold Weather Policy",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/Parents/WeatherPolicy/Pages/default.aspx",
+        "imgAlt": "",
+        "box": {
+          "x": 785.328125,
+          "y": 288.15625,
+          "w": 185,
+          "h": 32.59375
+        },
+        "context": "Cold Weather Policy",
+        "contextKind": "li",
+        "html": "<a class=\"static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode\" href=\"/Parents/WeatherPolicy/Pages/default.aspx\"><span class=\"additional-background ms-navedit-flyoutArrow\"><span class=\"menu-item-text\">Cold Weather Policy</span></span></a>"
+      },
+      {
+        "target": "#zz2_RootAspMenu > li:nth-of-type(6) > ul > li:nth-of-type(4) > a",
+        "text": "Air Quality",
+        "ariaLabel": "",
+        "title": "The St. James-Assiniboia School Division recognizes that good air quality is important for maintaining the health and safety of students and staff while providing an optimal learning and working environment.",
+        "href": "/Parents/AirQuality/Pages/default.aspx",
+        "imgAlt": "",
+        "box": {
+          "x": 785.328125,
+          "y": 320.75,
+          "w": 185,
+          "h": 32.59375
+        },
+        "context": "Air Quality",
+        "contextKind": "li",
+        "html": "<a class=\"static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode\" title=\"The St. James-Assiniboia School Division recognizes that good air quality is important for maintaining the health and safety of students and staff while providing an optimal learning and working environment"
+      },
+      {
+        "target": "#zz2_RootAspMenu > li:nth-of-type(6) > ul > li:nth-of-type(5) > a",
+        "text": "Field Closures",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/Parents/FieldClosures/Pages/default.aspx",
+        "imgAlt": "",
+        "box": {
+          "x": 785.328125,
+          "y": 353.34375,
+          "w": 185,
+          "h": 32.59375
+        },
+        "context": "Field Closures",
+        "contextKind": "li",
+        "html": "<a class=\"static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode\" href=\"/Parents/FieldClosures/Pages/default.aspx\"><span class=\"additional-background ms-navedit-flyoutArrow\"><span class=\"menu-item-text\">Field Closures</span></span></a>"
+      },
+      {
+        "target": "#zz2_RootAspMenu > li:nth-of-type(6) > ul > li:nth-of-type(6) > a",
+        "text": "Hold and Secure/Lockdown",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/Parents/Hold and SecureLockdown/Pages/default.aspx",
+        "imgAlt": "",
+        "box": {
+          "x": 785.328125,
+          "y": 385.9375,
+          "w": 185,
+          "h": 52.1875
+        },
+        "context": "Hold and Secure/Lockdown",
+        "contextKind": "li",
+        "html": "<a class=\"static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode\" href=\"/Parents/Hold and SecureLockdown/Pages/default.aspx\"><span class=\"additional-background ms-navedit-flyoutArrow\"><span class=\"menu-item-text\">Hold and Secure/Lockdown</span></span></a>"
+      },
+      {
+        "target": "#zz2_RootAspMenu > li:nth-of-type(6) > ul > li:nth-of-type(7) > a",
+        "text": "Concussion Protocol",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/Parents/ConcussionProtocol/Pages/default.aspx",
+        "imgAlt": "",
+        "box": {
+          "x": 785.328125,
+          "y": 438.125,
+          "w": 185,
+          "h": 32.59375
+        },
+        "context": "Concussion Protocol",
+        "contextKind": "li",
+        "html": "<a class=\"static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode\" href=\"/Parents/ConcussionProtocol/Pages/default.aspx\"><span class=\"additional-background ms-navedit-flyoutArrow\"><span class=\"menu-item-text\">Concussion Protocol</span></span></a>"
+      },
+      {
+        "target": "#zz2_RootAspMenu > li:nth-of-type(6) > ul > li:nth-of-type(8) > a",
+        "text": "Cell Phone Use in Schools",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/Parents/CellPhones/Pages/default.aspx",
+        "imgAlt": "",
+        "box": {
+          "x": 785.328125,
+          "y": 470.71875,
+          "w": 185,
+          "h": 52.1875
+        },
+        "context": "Cell Phone Use in Schools",
+        "contextKind": "li",
+        "html": "<a class=\"static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode\" href=\"/Parents/CellPhones/Pages/default.aspx\"><span class=\"additional-background ms-navedit-flyoutArrow\"><span class=\"menu-item-text\">Cell Phone Use in Schools</span></span></a>"
+      },
+      {
+        "target": "#zz2_RootAspMenu > li:nth-of-type(6) > ul > li:nth-of-type(9) > a",
+        "text": "Permits/Facilities",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/Parents/Facilities/Pages/default.aspx",
+        "imgAlt": "",
+        "box": {
+          "x": 785.328125,
+          "y": 522.90625,
+          "w": 185,
+          "h": 32.59375
+        },
+        "context": "Permits/Facilities",
+        "contextKind": "li",
+        "html": "<a class=\"static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode\" href=\"/Parents/Facilities/Pages/default.aspx\"><span class=\"additional-background ms-navedit-flyoutArrow\"><span class=\"menu-item-text\">Permits/Facilities</span></span></a>"
+      },
+      {
+        "target": "#zz2_RootAspMenu > li:nth-of-type(6) > ul > li:nth-of-type(10) > a",
+        "text": "Respectful Workplace",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/Parents/respectfulworkplace/Pages/default.aspx",
+        "imgAlt": "",
+        "box": {
+          "x": 785.328125,
+          "y": 555.5,
+          "w": 185,
+          "h": 32.59375
+        },
+        "context": "Respectful Workplace",
+        "contextKind": "li",
+        "html": "<a class=\"static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode\" href=\"/Parents/respectfulworkplace/Pages/default.aspx\"><span class=\"additional-background ms-navedit-flyoutArrow\"><span class=\"menu-item-text\">Respectful Workplace</span></span></a>"
+      },
+      {
+        "target": "#zz2_RootAspMenu > li:nth-of-type(6) > ul > li:nth-of-type(11) > a",
+        "text": "Teacher Conduct",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/Parents/teacherconduct/Pages/default.aspx",
+        "imgAlt": "",
+        "box": {
+          "x": 785.328125,
+          "y": 588.09375,
+          "w": 185,
+          "h": 32.59375
+        },
+        "context": "Teacher Conduct",
+        "contextKind": "li",
+        "html": "<a class=\"static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode\" href=\"/Parents/teacherconduct/Pages/default.aspx\"><span class=\"additional-background ms-navedit-flyoutArrow\"><span class=\"menu-item-text\">Teacher Conduct</span></span></a>"
+      },
+      {
+        "target": "#zz2_RootAspMenu > li:nth-of-type(6) > ul > li:nth-of-type(12) > a",
+        "text": "Safe Schools",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/Parents/SafeSchools/Pages/default.aspx",
+        "imgAlt": "",
+        "box": {
+          "x": 785.328125,
+          "y": 620.6875,
+          "w": 185,
+          "h": 32.59375
+        },
+        "context": "Safe Schools",
+        "contextKind": "li",
+        "html": "<a class=\"static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode\" href=\"/Parents/SafeSchools/Pages/default.aspx\"><span class=\"additional-background ms-navedit-flyoutArrow\"><span class=\"menu-item-text\">Safe Schools</span></span></a>"
+      },
+      {
+        "target": "#zz2_RootAspMenu > li:nth-of-type(6) > ul > li:nth-of-type(13) > a",
+        "text": "Accident Insurance",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/Parents/Insurance/Pages/default.aspx",
+        "imgAlt": "",
+        "box": {
+          "x": 785.328125,
+          "y": 653.28125,
+          "w": 185,
+          "h": 32.59375
+        },
+        "context": "Accident Insurance",
+        "contextKind": "li",
+        "html": "<a class=\"static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode\" href=\"/Parents/Insurance/Pages/default.aspx\"><span class=\"additional-background ms-navedit-flyoutArrow\"><span class=\"menu-item-text\">Accident Insurance</span></span></a>"
+      },
+      {
+        "target": "#zz2_RootAspMenu > li:nth-of-type(6) > ul > li:nth-of-type(14) > a",
+        "text": "Community Bulletin",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/Parents/communitybulletins/Pages/default.aspx",
+        "imgAlt": "",
+        "box": {
+          "x": 785.328125,
+          "y": 685.875,
+          "w": 185,
+          "h": 32.59375
+        },
+        "context": "Community Bulletin",
+        "contextKind": "li",
+        "html": "<a class=\"static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode\" href=\"/Parents/communitybulletins/Pages/default.aspx\"><span class=\"additional-background ms-navedit-flyoutArrow\"><span class=\"menu-item-text\">Community Bulletin</span></span></a>"
+      },
+      {
+        "target": "#zz2_RootAspMenu > li:nth-of-type(6) > ul > li:nth-of-type(15) > a",
+        "text": "Starting Strong",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/Parents/parentchildcoalition/Pages/default.aspx",
+        "imgAlt": "",
+        "box": {
+          "x": 785.328125,
+          "y": 718.46875,
+          "w": 185,
+          "h": 32.59375
+        },
+        "context": "Starting Strong",
+        "contextKind": "li",
+        "html": "<a class=\"static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode\" href=\"/Parents/parentchildcoalition/Pages/default.aspx\"><span class=\"additional-background ms-navedit-flyoutArrow\"><span class=\"menu-item-text\">Starting Strong</span></span></a>"
+      },
+      {
+        "target": "#zz2_RootAspMenu > li:nth-of-type(6) > ul > li:nth-of-type(16) > a",
+        "text": "Drinking Water",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/Parents/Drinking Water/Pages/default.aspx",
+        "imgAlt": "",
+        "box": {
+          "x": 785.328125,
+          "y": 751.0625,
+          "w": 185,
+          "h": 32.59375
+        },
+        "context": "Drinking Water",
+        "contextKind": "li",
+        "html": "<a class=\"static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode\" href=\"/Parents/Drinking Water/Pages/default.aspx\"><span class=\"additional-background ms-navedit-flyoutArrow\"><span class=\"menu-item-text\">Drinking Water</span></span></a>"
+      },
+      {
+        "target": "#zz2_RootAspMenu > li:nth-of-type(6) > ul > li:nth-of-type(17) > a",
+        "text": "PowerSchool Portal",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/Parents/PowerSchool/Pages/default.aspx",
+        "imgAlt": "",
+        "box": {
+          "x": 785.328125,
+          "y": 783.65625,
+          "w": 185,
+          "h": 32.59375
+        },
+        "context": "PowerSchool Portal",
+        "contextKind": "li",
+        "html": "<a class=\"static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode\" href=\"/Parents/PowerSchool/Pages/default.aspx\"><span class=\"additional-background ms-navedit-flyoutArrow\"><span class=\"menu-item-text\">PowerSchool Portal</span></span></a>"
+      },
+      {
+        "target": "#zz2_RootAspMenu > li:nth-of-type(6) > ul > li:nth-of-type(18) > a",
+        "text": "Parenting Today",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/Parents/ParentingToday/Pages/default.aspx",
+        "imgAlt": "",
+        "box": {
+          "x": 785.328125,
+          "y": 816.25,
+          "w": 185,
+          "h": 32.59375
+        },
+        "context": "Parenting Today",
+        "contextKind": "li",
+        "html": "<a class=\"static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode\" href=\"/Parents/ParentingToday/Pages/default.aspx\"><span class=\"additional-background ms-navedit-flyoutArrow\"><span class=\"menu-item-text\">Parenting Today</span></span></a>"
+      },
+      {
+        "target": "#zz2_RootAspMenu > li:nth-of-type(6) > ul > li:nth-of-type(19) > a",
+        "text": "Community Clubs",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/Parents/CommunityClubs/Pages/default.aspx",
+        "imgAlt": "",
+        "box": {
+          "x": 785.328125,
+          "y": 848.84375,
+          "w": 185,
+          "h": 31.59375
+        },
+        "context": "Community Clubs",
+        "contextKind": "li",
+        "html": "<a class=\"static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode\" href=\"/Parents/CommunityClubs/Pages/default.aspx\"><span class=\"additional-background ms-navedit-flyoutArrow\"><span class=\"menu-item-text\">Community Clubs</span></span></a>"
+      },
+      {
+        "target": "#zz2_RootAspMenu > li:nth-of-type(7) > a",
+        "text": "Employment",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/Employment/Pages/default.aspx",
+        "imgAlt": "",
+        "box": {
+          "x": 964.9375,
+          "y": 166.1875,
+          "w": 133.203125,
+          "h": 37.1875
+        },
+        "context": "Employment ApplicationsSenior Admin & ProfessionalTeaching VacanciesNon-Teaching VacanciesSubstitute TeachersNon-Teaching Casual VacanciesRetirement Plan Non-Teaching EmployeesAtrieve",
+        "contextKind": "li",
+        "html": "<a class=\"static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode\" href=\"/Employment/Pages/default.aspx\"><span class=\"additional-background ms-navedit-flyoutArrow\"><span class=\"menu-item-text\">Employment</span></span></a>"
+      },
+      {
+        "target": "#zz2_RootAspMenu > li:nth-of-type(7) > ul > li:nth-of-type(1) > a",
+        "text": "Applications",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/Employment/Applications/Pages/default.aspx",
+        "imgAlt": "",
+        "box": {
+          "x": 979.9375,
+          "y": 203.375,
+          "w": 185,
+          "h": 32.59375
+        },
+        "context": "Applications",
+        "contextKind": "li",
+        "html": "<a class=\"static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode\" href=\"/Employment/Applications/Pages/default.aspx\"><span class=\"additional-background ms-navedit-flyoutArrow\"><span class=\"menu-item-text\">Applications</span></span></a>"
+      },
+      {
+        "target": "#zz2_RootAspMenu > li:nth-of-type(7) > ul > li:nth-of-type(2) > a",
+        "text": "Senior Admin & Professional",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/Employment/sradmin-professional/Pages/default.aspx",
+        "imgAlt": "",
+        "box": {
+          "x": 979.9375,
+          "y": 235.96875,
+          "w": 185,
+          "h": 52.1875
+        },
+        "context": "Senior Admin & Professional",
+        "contextKind": "li",
+        "html": "<a class=\"static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode\" href=\"/Employment/sradmin-professional/Pages/default.aspx\"><span class=\"additional-background ms-navedit-flyoutArrow\"><span class=\"menu-item-text\">Senior Admin &amp; Professional</span></span></a>"
+      },
+      {
+        "target": "#zz2_RootAspMenu > li:nth-of-type(7) > ul > li:nth-of-type(3) > a",
+        "text": "Teaching Vacancies",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/Employment/TeachingVacancies/Pages/default.aspx",
+        "imgAlt": "",
+        "box": {
+          "x": 979.9375,
+          "y": 288.15625,
+          "w": 185,
+          "h": 32.59375
+        },
+        "context": "Teaching Vacancies",
+        "contextKind": "li",
+        "html": "<a class=\"static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode\" href=\"/Employment/TeachingVacancies/Pages/default.aspx\"><span class=\"additional-background ms-navedit-flyoutArrow\"><span class=\"menu-item-text\">Teaching Vacancies</span></span></a>"
+      },
+      {
+        "target": "#zz2_RootAspMenu > li:nth-of-type(7) > ul > li:nth-of-type(4) > a",
+        "text": "Non-Teaching Vacancies",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/Employment/Non-TeachingVacancies/Pages/default.aspx",
+        "imgAlt": "",
+        "box": {
+          "x": 979.9375,
+          "y": 320.75,
+          "w": 185,
+          "h": 52.1875
+        },
+        "context": "Non-Teaching Vacancies",
+        "contextKind": "li",
+        "html": "<a class=\"static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode\" href=\"/Employment/Non-TeachingVacancies/Pages/default.aspx\"><span class=\"additional-background ms-navedit-flyoutArrow\"><span class=\"menu-item-text\">Non-Teaching Vacancies</span></span></a>"
+      },
+      {
+        "target": "#zz2_RootAspMenu > li:nth-of-type(7) > ul > li:nth-of-type(5) > a",
+        "text": "Substitute Teachers",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/Employment/Pages/Substitutes.aspx",
+        "imgAlt": "",
+        "box": {
+          "x": 979.9375,
+          "y": 372.9375,
+          "w": 185,
+          "h": 32.59375
+        },
+        "context": "Substitute Teachers",
+        "contextKind": "li",
+        "html": "<a class=\"static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode\" href=\"/Employment/Pages/Substitutes.aspx\"><span class=\"additional-background ms-navedit-flyoutArrow\"><span class=\"menu-item-text\">Substitute Teachers</span></span></a>"
+      },
+      {
+        "target": "#zz2_RootAspMenu > li:nth-of-type(7) > ul > li:nth-of-type(6) > a",
+        "text": "Non-Teaching Casual Vacancies",
+        "ariaLabel": "",
+        "title": "Instructions for applying for Casual positions in SJASD.",
+        "href": "/Employment/CasualEA/Pages/default.aspx",
+        "imgAlt": "",
+        "box": {
+          "x": 979.9375,
+          "y": 405.53125,
+          "w": 185,
+          "h": 52.1875
+        },
+        "context": "Non-Teaching Casual Vacancies",
+        "contextKind": "li",
+        "html": "<a class=\"static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode\" title=\"Instructions for applying for Casual positions in SJASD.\" href=\"/Employment/CasualEA/Pages/default.aspx\"><span class=\"additional-background ms-navedit-flyoutArrow\"><span class=\"menu-item-text\">Non-Teaching "
+      },
+      {
+        "target": "#zz2_RootAspMenu > li:nth-of-type(7) > ul > li:nth-of-type(7) > a",
+        "text": "Retirement Plan Non-Teaching Employees",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/Employment/RetirementPlan/Pages/default.aspx",
+        "imgAlt": "",
+        "box": {
+          "x": 979.9375,
+          "y": 457.71875,
+          "w": 185,
+          "h": 52.1875
+        },
+        "context": "Retirement Plan Non-Teaching Employees",
+        "contextKind": "li",
+        "html": "<a class=\"static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode\" href=\"/Employment/RetirementPlan/Pages/default.aspx\"><span class=\"additional-background ms-navedit-flyoutArrow\"><span class=\"menu-item-text\">Retirement Plan Non-Teaching Employees</span></span></a>"
+      },
+      {
+        "target": "#zz2_RootAspMenu > li:nth-of-type(7) > ul > li:nth-of-type(8) > a",
+        "text": "Atrieve",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/Employment/Atrieve/Pages/default.aspx",
+        "imgAlt": "",
+        "box": {
+          "x": 979.9375,
+          "y": 509.90625,
+          "w": 185,
+          "h": 31.59375
+        },
+        "context": "Atrieve",
+        "contextKind": "li",
+        "html": "<a class=\"static menu-item ms-core-listMenu-item ms-displayInline ms-navedit-linkNode\" href=\"/Employment/Atrieve/Pages/default.aspx\"><span class=\"additional-background ms-navedit-flyoutArrow\"><span class=\"menu-item-text\">Atrieve</span></span></a>"
+      },
+      {
+        "target": "#ctl00_SPWebPartManager1_g_aad00e0b_681f_48b5_94ff_0d42f7c1a6b3_ctl00_FeaturedRepeater_ctl01_entryAnchor_clone",
+        "text": "Free Ride",
+        "ariaLabel": "",
+        "title": "Free Ride",
+        "href": "https://www.sjasd.ca/pages/newsitem.aspx?ItemID=600",
+        "imgAlt": "",
+        "box": {
+          "x": -582,
+          "y": 245.375,
+          "w": 100.984375,
+          "h": 32
+        },
+        "context": "Free Ride Grade 6–12 students receive Youth Transit Passes between Sept. 8 to Oct. 2, 2026. Read More",
+        "contextKind": "li",
+        "html": "<a id=\"ctl00_SPWebPartManager1_g_aad00e0b_681f_48b5_94ff_0d42f7c1a6b3_ctl00_FeaturedRepeater_ctl01_entryAnchor_clone\" title=\"Free Ride\" href=\"https://www.sjasd.ca/pages/newsitem.aspx?ItemID=600\" tabindex=\"-1\">Free Ride</a>"
+      },
+      {
+        "target": "#ctl00_SPWebPartManager1_g_aad00e0b_681f_48b5_94ff_0d42f7c1a6b3_ctl00_FeaturedRepeater_ctl01_summaryButtonAnchor_clone",
+        "text": "Read More",
+        "ariaLabel": "",
+        "title": "Click to read the rest of this article",
+        "href": "https://www.sjasd.ca/pages/newsitem.aspx?ItemID=600",
+        "imgAlt": "",
+        "box": {
+          "x": -597,
+          "y": 334.546875,
+          "w": 107.828125,
+          "h": 52.390625
+        },
+        "context": "Free Ride Grade 6–12 students receive Youth Transit Passes between Sept. 8 to Oct. 2, 2026. Read More",
+        "contextKind": "li",
+        "html": "<a id=\"ctl00_SPWebPartManager1_g_aad00e0b_681f_48b5_94ff_0d42f7c1a6b3_ctl00_FeaturedRepeater_ctl01_summaryButtonAnchor_clone\" class=\"sl-button entry-more-link\" title=\"Click to read the rest of this article\" href=\"https://www.sjasd.ca/pages/newsitem.aspx?ItemID=600\" tabindex=\"-1\">Read more</a>"
+      },
+      {
+        "target": "#ctl00_SPWebPartManager1_g_aad00e0b_681f_48b5_94ff_0d42f7c1a6b3_ctl00_FeaturedRepeater_ctl00_entryAnchor",
+        "text": "Blurb from the Board",
+        "ariaLabel": "",
+        "title": "Blurb from the Board",
+        "href": "https://www.sjasd.ca/pages/newsitem.aspx?ItemID=602",
+        "imgAlt": "",
+        "box": {
+          "x": 22,
+          "y": 245.375,
+          "w": 223.703125,
+          "h": 32
+        },
+        "context": "Blurb from the Board East Ward Trustees encourage community members to vote in school board elections next month. Read More",
+        "contextKind": "li",
+        "html": "<a id=\"ctl00_SPWebPartManager1_g_aad00e0b_681f_48b5_94ff_0d42f7c1a6b3_ctl00_FeaturedRepeater_ctl00_entryAnchor\" title=\"Blurb from the Board\" href=\"https://www.sjasd.ca/pages/newsitem.aspx?ItemID=602\" tabindex=\"-1\">Blurb from the Board</a>"
+      },
+      {
+        "target": "#ctl00_SPWebPartManager1_g_aad00e0b_681f_48b5_94ff_0d42f7c1a6b3_ctl00_FeaturedRepeater_ctl00_summaryButtonAnchor",
+        "text": "Read More",
+        "ariaLabel": "",
+        "title": "Click to read the rest of this article",
+        "href": "https://www.sjasd.ca/pages/newsitem.aspx?ItemID=602",
+        "imgAlt": "",
+        "box": {
+          "x": 7,
+          "y": 356.9375,
+          "w": 107.828125,
+          "h": 52.390625
+        },
+        "context": "Blurb from the Board East Ward Trustees encourage community members to vote in school board elections next month. Read More",
+        "contextKind": "li",
+        "html": "<a id=\"ctl00_SPWebPartManager1_g_aad00e0b_681f_48b5_94ff_0d42f7c1a6b3_ctl00_FeaturedRepeater_ctl00_summaryButtonAnchor\" class=\"sl-button entry-more-link\" title=\"Click to read the rest of this article\" href=\"https://www.sjasd.ca/pages/newsitem.aspx?ItemID=602\" tabindex=\"-1\">Read more</a>"
+      },
+      {
+        "target": "#ctl00_SPWebPartManager1_g_aad00e0b_681f_48b5_94ff_0d42f7c1a6b3_ctl00_FeaturedRepeater_ctl01_entryAnchor",
+        "text": "Free Ride",
+        "ariaLabel": "",
+        "title": "Free Ride",
+        "href": "https://www.sjasd.ca/pages/newsitem.aspx?ItemID=600",
+        "imgAlt": "",
+        "box": {
+          "x": 206,
+          "y": 245.375,
+          "w": 100.984375,
+          "h": 32
+        },
+        "context": "Free Ride Grade 6–12 students receive Youth Transit Passes between Sept. 8 to Oct. 2, 2026. Read More",
+        "contextKind": "li",
+        "html": "<a id=\"ctl00_SPWebPartManager1_g_aad00e0b_681f_48b5_94ff_0d42f7c1a6b3_ctl00_FeaturedRepeater_ctl01_entryAnchor\" title=\"Free Ride\" href=\"https://www.sjasd.ca/pages/newsitem.aspx?ItemID=600\" tabindex=\"0\">Free Ride</a>"
+      },
+      {
+        "target": "#ctl00_SPWebPartManager1_g_aad00e0b_681f_48b5_94ff_0d42f7c1a6b3_ctl00_FeaturedRepeater_ctl01_summaryButtonAnchor",
+        "text": "Read More",
+        "ariaLabel": "",
+        "title": "Click to read the rest of this article",
+        "href": "https://www.sjasd.ca/pages/newsitem.aspx?ItemID=600",
+        "imgAlt": "",
+        "box": {
+          "x": 191,
+          "y": 334.546875,
+          "w": 107.828125,
+          "h": 52.390625
+        },
+        "context": "Free Ride Grade 6–12 students receive Youth Transit Passes between Sept. 8 to Oct. 2, 2026. Read More",
+        "contextKind": "li",
+        "html": "<a id=\"ctl00_SPWebPartManager1_g_aad00e0b_681f_48b5_94ff_0d42f7c1a6b3_ctl00_FeaturedRepeater_ctl01_summaryButtonAnchor\" class=\"sl-button entry-more-link\" title=\"Click to read the rest of this article\" href=\"https://www.sjasd.ca/pages/newsitem.aspx?ItemID=600\" tabindex=\"-1\">Read more</a>"
+      },
+      {
+        "target": "#ctl00_SPWebPartManager1_g_aad00e0b_681f_48b5_94ff_0d42f7c1a6b3_ctl00_FeaturedRepeater_ctl00_entryAnchor_clone",
+        "text": "Blurb from the Board",
+        "ariaLabel": "",
+        "title": "Blurb from the Board",
+        "href": "https://www.sjasd.ca/pages/newsitem.aspx?ItemID=602",
+        "imgAlt": "",
+        "box": {
+          "x": 1230,
+          "y": 245.375,
+          "w": 223.703125,
+          "h": 32
+        },
+        "context": "Blurb from the Board East Ward Trustees encourage community members to vote in school board elections next month. Read More",
+        "contextKind": "li",
+        "html": "<a id=\"ctl00_SPWebPartManager1_g_aad00e0b_681f_48b5_94ff_0d42f7c1a6b3_ctl00_FeaturedRepeater_ctl00_entryAnchor_clone\" title=\"Blurb from the Board\" href=\"https://www.sjasd.ca/pages/newsitem.aspx?ItemID=602\" tabindex=\"-1\">Blurb from the Board</a>"
+      },
+      {
+        "target": "#ctl00_SPWebPartManager1_g_aad00e0b_681f_48b5_94ff_0d42f7c1a6b3_ctl00_FeaturedRepeater_ctl00_summaryButtonAnchor_clone",
+        "text": "Read More",
+        "ariaLabel": "",
+        "title": "Click to read the rest of this article",
+        "href": "https://www.sjasd.ca/pages/newsitem.aspx?ItemID=602",
+        "imgAlt": "",
+        "box": {
+          "x": 1215,
+          "y": 356.9375,
+          "w": 107.828125,
+          "h": 52.390625
+        },
+        "context": "Blurb from the Board East Ward Trustees encourage community members to vote in school board elections next month. Read More",
+        "contextKind": "li",
+        "html": "<a id=\"ctl00_SPWebPartManager1_g_aad00e0b_681f_48b5_94ff_0d42f7c1a6b3_ctl00_FeaturedRepeater_ctl00_summaryButtonAnchor_clone\" class=\"sl-button entry-more-link\" title=\"Click to read the rest of this article\" href=\"https://www.sjasd.ca/pages/newsitem.aspx?ItemID=602\" tabindex=\"-1\">Read more</a>"
+      },
+      {
+        "target": "#ctl00_SPWebPartManager1_g_aad00e0b_681f_48b5_94ff_0d42f7c1a6b3_ctl00_FeaturedStories > div:nth-of-type(2) > ul > li:nth-of-type(1) > a",
+        "text": "Previous",
+        "ariaLabel": "",
+        "title": "",
+        "href": "#",
+        "imgAlt": "",
+        "box": {
+          "x": 1110,
+          "y": 510.375,
+          "w": 35,
+          "h": 35
+        },
+        "context": "Previous",
+        "contextKind": "li",
+        "html": "<a class=\"flex-prev\" href=\"#\">Previous</a>"
+      },
+      {
+        "target": "#ctl00_SPWebPartManager1_g_aad00e0b_681f_48b5_94ff_0d42f7c1a6b3_ctl00_FeaturedStories > div:nth-of-type(2) > ul > li:nth-of-type(2) > a",
+        "text": "Next",
+        "ariaLabel": "",
+        "title": "",
+        "href": "#",
+        "imgAlt": "",
+        "box": {
+          "x": 1152,
+          "y": 510.375,
+          "w": 35,
+          "h": 35
+        },
+        "context": "Next",
+        "contextKind": "li",
+        "html": "<a class=\"flex-next\" href=\"#\">Next</a>"
+      },
+      {
+        "target": "#WebPartWPQ8 > div:nth-of-type(1) > div:nth-of-type(1) > h2 > a",
+        "text": "Division News",
+        "ariaLabel": "",
+        "title": "",
+        "href": "//www.sjasd.ca/Pages/newsarchive.aspx?ListID=883d0c8d-1c12-4334-9116-1de95f400699&TemplateID=Announcement_Archive",
+        "imgAlt": "",
+        "box": {
+          "x": 186,
+          "y": 583.375,
+          "w": 177.28125,
+          "h": 34
+        },
+        "context": "heading: Division News",
+        "contextKind": "heading-only",
+        "html": "<a href=\"//www.sjasd.ca/Pages/newsarchive.aspx?ListID=883d0c8d-1c12-4334-9116-1de95f400699&amp;TemplateID=Announcement_Archive\">Division News</a>"
+      },
+      {
+        "target": "#WebPartWPQ8 > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(3)",
+        "text": "VIEW ALL DIVISION NEWS",
+        "ariaLabel": "",
+        "title": "",
+        "href": "//www.sjasd.ca/Pages/newsarchive.aspx?ListID=883d0c8d-1c12-4334-9116-1de95f400699&TemplateID=Announcement_Archive",
+        "imgAlt": "",
+        "box": {
+          "x": 1018,
+          "y": 588.375,
+          "w": 162,
+          "h": 30
+        },
+        "context": "heading: Division News",
+        "contextKind": "heading-only",
+        "html": "<a class=\"sl-More top\" href=\"//www.sjasd.ca/Pages/newsarchive.aspx?ListID=883d0c8d-1c12-4334-9116-1de95f400699&amp;TemplateID=Announcement_Archive\">View All Division News</a>"
+      },
+      {
+        "target": "#WebPartWPQ8 > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > a",
+        "text": "​ SJASD In-Person Regular School Board Meeting is October 13, 2026, at 7 p.m. Trustees will hold their next in-person public School Board Meeting on ​​October 13, 2026, at...",
+        "ariaLabel": "",
+        "title": "",
+        "href": "//www.sjasd.ca/Pages/newsitem.aspx?ItemID=603&ListID=883d0c8d-1c12-4334-9116-1de95f400699&TemplateID=Announcement_Item",
+        "imgAlt": "trustee_gavel22_webnews2.jpg",
+        "box": {
+          "x": 187,
+          "y": 648.375,
+          "w": 480,
+          "h": 118
+        },
+        "context": "heading: Division News | ​ SJASD In-Person Regular School Board Meeting is October 13, 2026, at 7 p.m. Trustees will hold their next in-person public School Board Meeting on ​​October 13, 2026, at...",
+        "contextKind": "block",
+        "html": "<a href=\"//www.sjasd.ca/Pages/newsitem.aspx?ItemID=603&amp;ListID=883d0c8d-1c12-4334-9116-1de95f400699&amp;TemplateID=Announcement_Item\">\n          <div class=\"sl-imgFrame\">\n            \n            <span class=\"display\"><img class=\"sl-CLVFieldImage content\" src=\"https://www.sjasd.ca/PublishingImage"
+      },
+      {
+        "target": "#WebPartWPQ8 > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > a",
+        "text": "School Board Elections ​ Every four years, School Board elections are held on the fourth Wednesday in...",
+        "ariaLabel": "",
+        "title": "",
+        "href": "//www.sjasd.ca/Pages/newsitem.aspx?ItemID=584&ListID=883d0c8d-1c12-4334-9116-1de95f400699&TemplateID=Announcement_Item",
+        "imgAlt": "Election2026_square-01.png",
+        "box": {
+          "x": 684,
+          "y": 648.375,
+          "w": 480,
+          "h": 118
+        },
+        "context": "heading: Division News | School Board Elections ​ Every four years, School Board elections are held on the fourth Wednesday in...",
+        "contextKind": "block",
+        "html": "<a href=\"//www.sjasd.ca/Pages/newsitem.aspx?ItemID=584&amp;ListID=883d0c8d-1c12-4334-9116-1de95f400699&amp;TemplateID=Announcement_Item\">\n          <div class=\"sl-imgFrame\">\n            \n            <span class=\"display\"><img class=\"sl-CLVFieldImage content\" src=\"https://www.sjasd.ca/PublishingImage"
+      },
+      {
+        "target": "#WebPartWPQ8 > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > a",
+        "text": "12-Month School Calendars Now Available ​ ​ ​The SJASD 12-month School Year calendars are here! The calendar lists important...",
+        "ariaLabel": "",
+        "title": "",
+        "href": "//www.sjasd.ca/Pages/newsitem.aspx?ItemID=599&ListID=883d0c8d-1c12-4334-9116-1de95f400699&TemplateID=Announcement_Item",
+        "imgAlt": "DivisionalCalendar_2026-27_square.jpg",
+        "box": {
+          "x": 187,
+          "y": 788.96875,
+          "w": 480,
+          "h": 118
+        },
+        "context": "heading: Division News | 12-Month School Calendars Now Available ​ ​ ​The SJASD 12-month School Year calendars are here! The calendar lists important...",
+        "contextKind": "block",
+        "html": "<a href=\"//www.sjasd.ca/Pages/newsitem.aspx?ItemID=599&amp;ListID=883d0c8d-1c12-4334-9116-1de95f400699&amp;TemplateID=Announcement_Item\">\n          <div class=\"sl-imgFrame\">\n            \n            <span class=\"display\"><img class=\"sl-CLVFieldImage content\" src=\"https://www.sjasd.ca/PublishingImage"
+      },
+      {
+        "target": "#WebPartWPQ8 > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(4) > a",
+        "text": "Get the Latest Snapshot: Scholarship Foundation Annual Report 2025 Every year, the St. James Scholarship Foundation produces an Annual Report. The long-time registered charity...",
+        "ariaLabel": "",
+        "title": "",
+        "href": "//www.sjasd.ca/Pages/newsitem.aspx?ItemID=595&ListID=883d0c8d-1c12-4334-9116-1de95f400699&TemplateID=Announcement_Item",
+        "imgAlt": "Scholarship_Annual_Report_2024_FINALwebCoverThumbnail.jpg",
+        "box": {
+          "x": 684,
+          "y": 788.96875,
+          "w": 480,
+          "h": 118
+        },
+        "context": "heading: Division News | Get the Latest Snapshot: Scholarship Foundation Annual Report 2025 Every year, the St. James Scholarship Foundation produces an Annual Report. The long-time registered charity...",
+        "contextKind": "block",
+        "html": "<a href=\"//www.sjasd.ca/Pages/newsitem.aspx?ItemID=595&amp;ListID=883d0c8d-1c12-4334-9116-1de95f400699&amp;TemplateID=Announcement_Item\">\n          <div class=\"sl-imgFrame\">\n            \n            <span class=\"display\"><img class=\"sl-CLVFieldImage content\" src=\"https://www.sjasd.ca/AboutUs/Scholar"
+      },
+      {
+        "target": "#g_d3ca1208_1ad7_453a_850d_542b5d433d10 > div:nth-of-type(1) > div:nth-of-type(1) > h2 > a",
+        "text": "Upcoming Events",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/Lists/Calendar/calendar.aspx",
+        "imgAlt": "",
+        "box": {
+          "x": 186,
+          "y": 988.5625,
+          "w": 218.984375,
+          "h": 34
+        },
+        "context": "heading: Upcoming Events",
+        "contextKind": "heading-only",
+        "html": "<a href=\"/Lists/Calendar/calendar.aspx\">Upcoming Events</a>"
+      },
+      {
+        "target": "#g_d3ca1208_1ad7_453a_850d_542b5d433d10 > div:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(2)",
+        "text": "VIEW ALL EVENTS",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/Lists/Calendar/calendar.aspx",
+        "imgAlt": "",
+        "box": {
+          "x": 1060.015625,
+          "y": 993.5625,
+          "w": 119.984375,
+          "h": 30
+        },
+        "context": "heading: Upcoming Events",
+        "contextKind": "heading-only",
+        "html": "<a class=\"sl-More top\" href=\"/Lists/Calendar/calendar.aspx\">View All Events</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div:nth-of-type(1) > ul > li:nth-of-type(1) > a",
+        "text": "Previous",
+        "ariaLabel": "",
+        "title": "",
+        "href": "#",
+        "imgAlt": "",
+        "box": {
+          "x": 683,
+          "y": 983.15625,
+          "w": 40,
+          "h": 40
+        },
+        "context": "Previous",
+        "contextKind": "li",
+        "html": "<a class=\"flex-prev flex-disabled\" href=\"#\" tabindex=\"-1\">Previous</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div:nth-of-type(1) > ul > li:nth-of-type(2) > a",
+        "text": "Next",
+        "ariaLabel": "",
+        "title": "",
+        "href": "#",
+        "imgAlt": "",
+        "box": {
+          "x": 718,
+          "y": 983.15625,
+          "w": 40,
+          "h": 40
+        },
+        "context": "Next",
+        "contextKind": "li",
+        "html": "<a class=\"flex-next\" href=\"#\">Next</a>"
+      },
+      {
+        "target": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div > a:nth-of-type(1)",
+        "text": "SEP 21 SJAMYAA Divisional CC Meet 1 All Day",
+        "ariaLabel": "",
+        "title": "",
+        "href": "#59b6871c-b49a-49e0-b23f-59d297406ba91554",
+        "imgAlt": "",
+        "box": {
+          "x": 186,
+          "y": 1052.5625,
+          "w": 220,
+          "h": 77
+        },
+        "context": "heading: Upcoming Events",
+        "contextKind": "heading-only",
+        "html": "<a class=\"sl-Item\" href=\"#59b6871c-b49a-49e0-b23f-59d297406ba91554\" style=\"margin-right: 15px; float: left; display: block; width: 220px;\">\n\t<script type=\"text/javascript\">\n\t\trequire(['jquery'], function () {\n\t\t$(document).ready(function () {\n\t\t\t\tvar startDate = new Date(\"September 21, 2026 0:00:00 "
+      },
+      {
+        "target": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div > a:nth-of-type(2)",
+        "text": "SEP 22 Early Dismissal All Day",
+        "ariaLabel": "",
+        "title": "",
+        "href": "#59b6871c-b49a-49e0-b23f-59d297406ba9144702026-09-22T000000Z",
+        "imgAlt": "",
+        "box": {
+          "x": 421,
+          "y": 1052.5625,
+          "w": 220,
+          "h": 77
+        },
+        "context": "heading: Upcoming Events",
+        "contextKind": "heading-only",
+        "html": "<a class=\"sl-Item\" href=\"#59b6871c-b49a-49e0-b23f-59d297406ba9144702026-09-22T000000Z\" style=\"margin-right: 15px; float: left; display: block; width: 220px;\">\n\t<script type=\"text/javascript\">\n\t\trequire(['jquery'], function () {\n\t\t$(document).ready(function () {\n\t\t\t\tvar startDate = new Date(\"Septembe"
+      },
+      {
+        "target": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div > a:nth-of-type(3)",
+        "text": "SEP 23 Athletics Manitoba Milk Run WWAC CC meet 2 All Day",
+        "ariaLabel": "",
+        "title": "",
+        "href": "#59b6871c-b49a-49e0-b23f-59d297406ba91556",
+        "imgAlt": "",
+        "box": {
+          "x": 656,
+          "y": 1052.5625,
+          "w": 220,
+          "h": 77.765625
+        },
+        "context": "heading: Upcoming Events",
+        "contextKind": "heading-only",
+        "html": "<a class=\"sl-Item\" href=\"#59b6871c-b49a-49e0-b23f-59d297406ba91556\" style=\"margin-right: 15px; float: left; display: block; width: 220px;\">\n\t<script type=\"text/javascript\">\n\t\trequire(['jquery'], function () {\n\t\t$(document).ready(function () {\n\t\t\t\tvar startDate = new Date(\"September 23, 2026 0:00:00 "
+      },
+      {
+        "target": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div > a:nth-of-type(4)",
+        "text": "SEP 23 SJAMYAA Divisional CC meet 2 All Day",
+        "ariaLabel": "",
+        "title": "",
+        "href": "#59b6871c-b49a-49e0-b23f-59d297406ba91559",
+        "imgAlt": "",
+        "box": {
+          "x": 891,
+          "y": 1052.5625,
+          "w": 220,
+          "h": 77
+        },
+        "context": "heading: Upcoming Events",
+        "contextKind": "heading-only",
+        "html": "<a class=\"sl-Item\" href=\"#59b6871c-b49a-49e0-b23f-59d297406ba91559\" style=\"margin-right: 15px; float: left; display: block; width: 220px;\">\n\t<script type=\"text/javascript\">\n\t\trequire(['jquery'], function () {\n\t\t$(document).ready(function () {\n\t\t\t\tvar startDate = new Date(\"September 23, 2026 0:00:00 "
+      },
+      {
+        "target": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div > a:nth-of-type(5)",
+        "text": "SEP 24 Volleyball Officials Clinic 4:15 PM- 7:30 PM",
+        "ariaLabel": "",
+        "title": "",
+        "href": "#59b6871c-b49a-49e0-b23f-59d297406ba91555",
+        "imgAlt": "",
+        "box": {
+          "x": 1126,
+          "y": 1052.5625,
+          "w": 220,
+          "h": 77
+        },
+        "context": "heading: Upcoming Events",
+        "contextKind": "heading-only",
+        "html": "<a class=\"sl-Item\" href=\"#59b6871c-b49a-49e0-b23f-59d297406ba91555\" style=\"margin-right: 15px; float: left; display: block; width: 220px;\">\n\t<script type=\"text/javascript\">\n\t\trequire(['jquery'], function () {\n\t\t$(document).ready(function () {\n\t\t\t\tvar startDate = new Date(\"September 24, 2026 16:15:00"
+      },
+      {
+        "target": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div > a:nth-of-type(6)",
+        "text": "SEP 29 Early Years International Dot Day Art Due Date (Open to all Early Years Art Students) All Day",
+        "ariaLabel": "",
+        "title": "",
+        "href": "#59b6871c-b49a-49e0-b23f-59d297406ba91522",
+        "imgAlt": "",
+        "box": {
+          "x": 1361,
+          "y": 1052.5625,
+          "w": 220,
+          "h": 108.546875
+        },
+        "context": "heading: Upcoming Events",
+        "contextKind": "heading-only",
+        "html": "<a class=\"sl-Item\" href=\"#59b6871c-b49a-49e0-b23f-59d297406ba91522\" style=\"margin-right: 15px; float: left; display: block; width: 220px;\">\n\t<script type=\"text/javascript\">\n\t\trequire(['jquery'], function () {\n\t\t$(document).ready(function () {\n\t\t\t\tvar startDate = new Date(\"September 29, 2026 0:00:00 "
+      },
+      {
+        "target": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div > a:nth-of-type(7)",
+        "text": "SEP 29 SJAMYAA Divisional CC meet 3 All Day",
+        "ariaLabel": "",
+        "title": "",
+        "href": "#59b6871c-b49a-49e0-b23f-59d297406ba91557",
+        "imgAlt": "",
+        "box": {
+          "x": 1596,
+          "y": 1052.5625,
+          "w": 220,
+          "h": 77
+        },
+        "context": "heading: Upcoming Events",
+        "contextKind": "heading-only",
+        "html": "<a class=\"sl-Item\" href=\"#59b6871c-b49a-49e0-b23f-59d297406ba91557\" style=\"margin-right: 15px; float: left; display: block; width: 220px;\">\n\t<script type=\"text/javascript\">\n\t\trequire(['jquery'], function () {\n\t\t$(document).ready(function () {\n\t\t\t\tvar startDate = new Date(\"September 29, 2026 0:00:00 "
+      },
+      {
+        "target": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div > a:nth-of-type(8)",
+        "text": "SEP 29 WWAC Meet 3 All Day",
+        "ariaLabel": "",
+        "title": "",
+        "href": "#59b6871c-b49a-49e0-b23f-59d297406ba91558",
+        "imgAlt": "",
+        "box": {
+          "x": 1831,
+          "y": 1052.5625,
+          "w": 220,
+          "h": 77
+        },
+        "context": "heading: Upcoming Events",
+        "contextKind": "heading-only",
+        "html": "<a class=\"sl-Item\" href=\"#59b6871c-b49a-49e0-b23f-59d297406ba91558\" style=\"margin-right: 15px; float: left; display: block; width: 220px;\">\n\t<script type=\"text/javascript\">\n\t\trequire(['jquery'], function () {\n\t\t$(document).ready(function () {\n\t\t\t\tvar startDate = new Date(\"September 29, 2026 0:00:00 "
+      },
+      {
+        "target": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div > a:nth-of-type(9)",
+        "text": "SEP 30 National Day for Truth and Reconciliation (No School) All Day",
+        "ariaLabel": "",
+        "title": "",
+        "href": "#59b6871c-b49a-49e0-b23f-59d297406ba91445",
+        "imgAlt": "",
+        "box": {
+          "x": 2066,
+          "y": 1052.5625,
+          "w": 220,
+          "h": 77.765625
+        },
+        "context": "heading: Upcoming Events",
+        "contextKind": "heading-only",
+        "html": "<a class=\"sl-Item\" href=\"#59b6871c-b49a-49e0-b23f-59d297406ba91445\" style=\"margin-right: 15px; float: left; display: block; width: 220px;\">\n\t<script type=\"text/javascript\">\n\t\trequire(['jquery'], function () {\n\t\t$(document).ready(function () {\n\t\t\t\tvar startDate = new Date(\"September 30, 2026 0:00:00 "
+      },
+      {
+        "target": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div > a:nth-of-type(10)",
+        "text": "OCT 01 SJAEYAA Divisional CC meet 12:00 PM- 3:00 PM",
+        "ariaLabel": "",
+        "title": "",
+        "href": "#59b6871c-b49a-49e0-b23f-59d297406ba91560",
+        "imgAlt": "",
+        "box": {
+          "x": 2301,
+          "y": 1052.5625,
+          "w": 220,
+          "h": 77
+        },
+        "context": "heading: Upcoming Events",
+        "contextKind": "heading-only",
+        "html": "<a class=\"sl-Item\" href=\"#59b6871c-b49a-49e0-b23f-59d297406ba91560\" style=\"margin-right: 15px; float: left; display: block; width: 220px;\">\n\t<script type=\"text/javascript\">\n\t\trequire(['jquery'], function () {\n\t\t$(document).ready(function () {\n\t\t\t\tvar startDate = new Date(\"October 01, 2026 12:00:00 -"
+      },
+      {
+        "target": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div > a:nth-of-type(11)",
+        "text": "OCT 05 Sr. Divisional Choir Camp (Grades 9-12) All Day",
+        "ariaLabel": "",
+        "title": "",
+        "href": "#59b6871c-b49a-49e0-b23f-59d297406ba91523",
+        "imgAlt": "",
+        "box": {
+          "x": 2536,
+          "y": 1052.5625,
+          "w": 220,
+          "h": 77
+        },
+        "context": "heading: Upcoming Events",
+        "contextKind": "heading-only",
+        "html": "<a class=\"sl-Item\" href=\"#59b6871c-b49a-49e0-b23f-59d297406ba91523\" style=\"margin-right: 15px; float: left; display: block; width: 220px;\">\n\t<script type=\"text/javascript\">\n\t\trequire(['jquery'], function () {\n\t\t$(document).ready(function () {\n\t\t\t\tvar startDate = new Date(\"October 05, 2026 0:00:00 -4"
+      },
+      {
+        "target": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div > a:nth-of-type(12)",
+        "text": "OCT 05 Jr. Divisional Choir Camp (Grades 6-8) All Day",
+        "ariaLabel": "",
+        "title": "",
+        "href": "#59b6871c-b49a-49e0-b23f-59d297406ba91524",
+        "imgAlt": "",
+        "box": {
+          "x": 2771,
+          "y": 1052.5625,
+          "w": 220,
+          "h": 77
+        },
+        "context": "heading: Upcoming Events",
+        "contextKind": "heading-only",
+        "html": "<a class=\"sl-Item\" href=\"#59b6871c-b49a-49e0-b23f-59d297406ba91524\" style=\"margin-right: 15px; float: left; display: block; width: 220px;\">\n\t<script type=\"text/javascript\">\n\t\trequire(['jquery'], function () {\n\t\t$(document).ready(function () {\n\t\t\t\tvar startDate = new Date(\"October 05, 2026 0:00:00 -4"
+      },
+      {
+        "target": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div > a:nth-of-type(13)",
+        "text": "OCT 05 SJAMYAA Atomic Volleyball 1 Sport for Life All Day",
+        "ariaLabel": "",
+        "title": "",
+        "href": "#59b6871c-b49a-49e0-b23f-59d297406ba91561",
+        "imgAlt": "",
+        "box": {
+          "x": 3006,
+          "y": 1052.5625,
+          "w": 220,
+          "h": 77.765625
+        },
+        "context": "heading: Upcoming Events",
+        "contextKind": "heading-only",
+        "html": "<a class=\"sl-Item\" href=\"#59b6871c-b49a-49e0-b23f-59d297406ba91561\" style=\"margin-right: 15px; float: left; display: block; width: 220px;\">\n\t<script type=\"text/javascript\">\n\t\trequire(['jquery'], function () {\n\t\t$(document).ready(function () {\n\t\t\t\tvar startDate = new Date(\"October 05, 2026 0:00:00 -4"
+      },
+      {
+        "target": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div > a:nth-of-type(14)",
+        "text": "OCT 06 WWAC CC meet 4 All Day",
+        "ariaLabel": "",
+        "title": "",
+        "href": "#59b6871c-b49a-49e0-b23f-59d297406ba91562",
+        "imgAlt": "",
+        "box": {
+          "x": 3241,
+          "y": 1052.5625,
+          "w": 220,
+          "h": 77
+        },
+        "context": "heading: Upcoming Events",
+        "contextKind": "heading-only",
+        "html": "<a class=\"sl-Item\" href=\"#59b6871c-b49a-49e0-b23f-59d297406ba91562\" style=\"margin-right: 15px; float: left; display: block; width: 220px;\">\n\t<script type=\"text/javascript\">\n\t\trequire(['jquery'], function () {\n\t\t$(document).ready(function () {\n\t\t\t\tvar startDate = new Date(\"October 06, 2026 0:00:00 -4"
+      },
+      {
+        "target": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div > a:nth-of-type(15)",
+        "text": "OCT 06 Early Dismissal All Day",
+        "ariaLabel": "",
+        "title": "",
+        "href": "#59b6871c-b49a-49e0-b23f-59d297406ba9144702026-10-06T000000Z",
+        "imgAlt": "",
+        "box": {
+          "x": 3476,
+          "y": 1052.5625,
+          "w": 220,
+          "h": 77
+        },
+        "context": "heading: Upcoming Events",
+        "contextKind": "heading-only",
+        "html": "<a class=\"sl-Item\" href=\"#59b6871c-b49a-49e0-b23f-59d297406ba9144702026-10-06T000000Z\" style=\"margin-right: 15px; float: left; display: block; width: 220px;\">\n\t<script type=\"text/javascript\">\n\t\trequire(['jquery'], function () {\n\t\t$(document).ready(function () {\n\t\t\t\tvar startDate = new Date(\"October "
+      },
+      {
+        "target": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div > a:nth-of-type(16)",
+        "text": "OCT 07 Children's Divisional Choir Camp (Grades 4-5) All Day",
+        "ariaLabel": "",
+        "title": "",
+        "href": "#59b6871c-b49a-49e0-b23f-59d297406ba91525",
+        "imgAlt": "",
+        "box": {
+          "x": 3711,
+          "y": 1052.5625,
+          "w": 220,
+          "h": 77.765625
+        },
+        "context": "heading: Upcoming Events",
+        "contextKind": "heading-only",
+        "html": "<a class=\"sl-Item\" href=\"#59b6871c-b49a-49e0-b23f-59d297406ba91525\" style=\"margin-right: 15px; float: left; display: block; width: 220px;\">\n\t<script type=\"text/javascript\">\n\t\trequire(['jquery'], function () {\n\t\t$(document).ready(function () {\n\t\t\t\tvar startDate = new Date(\"October 07, 2026 0:00:00 -4"
+      },
+      {
+        "target": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div > a:nth-of-type(17)",
+        "text": "OCT 08 SJAMYAA Tier 2 Volleyball Preseason Tourn 9:00 AM- 12:00 PM",
+        "ariaLabel": "",
+        "title": "",
+        "href": "#59b6871c-b49a-49e0-b23f-59d297406ba91564",
+        "imgAlt": "",
+        "box": {
+          "x": 3946,
+          "y": 1052.5625,
+          "w": 220,
+          "h": 77.765625
+        },
+        "context": "heading: Upcoming Events",
+        "contextKind": "heading-only",
+        "html": "<a class=\"sl-Item\" href=\"#59b6871c-b49a-49e0-b23f-59d297406ba91564\" style=\"margin-right: 15px; float: left; display: block; width: 220px;\">\n\t<script type=\"text/javascript\">\n\t\trequire(['jquery'], function () {\n\t\t$(document).ready(function () {\n\t\t\t\tvar startDate = new Date(\"October 08, 2026 9:00:00 -4"
+      },
+      {
+        "target": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div > a:nth-of-type(18)",
+        "text": "OCT 08 Rain Date SJAEYAA Divisional CC meet 12:00 PM- 3:00 PM",
+        "ariaLabel": "",
+        "title": "",
+        "href": "#59b6871c-b49a-49e0-b23f-59d297406ba91563",
+        "imgAlt": "",
+        "box": {
+          "x": 4181,
+          "y": 1052.5625,
+          "w": 220,
+          "h": 77
+        },
+        "context": "heading: Upcoming Events",
+        "contextKind": "heading-only",
+        "html": "<a class=\"sl-Item\" href=\"#59b6871c-b49a-49e0-b23f-59d297406ba91563\" style=\"margin-right: 15px; float: left; display: block; width: 220px;\">\n\t<script type=\"text/javascript\">\n\t\trequire(['jquery'], function () {\n\t\t$(document).ready(function () {\n\t\t\t\tvar startDate = new Date(\"October 08, 2026 12:00:00 -"
+      },
+      {
+        "target": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div > a:nth-of-type(19)",
+        "text": "OCT 12 Thanksgiving Day (No School) All Day",
+        "ariaLabel": "",
+        "title": "",
+        "href": "#59b6871c-b49a-49e0-b23f-59d297406ba91446",
+        "imgAlt": "",
+        "box": {
+          "x": 4416,
+          "y": 1052.5625,
+          "w": 220,
+          "h": 77
+        },
+        "context": "heading: Upcoming Events",
+        "contextKind": "heading-only",
+        "html": "<a class=\"sl-Item\" href=\"#59b6871c-b49a-49e0-b23f-59d297406ba91446\" style=\"margin-right: 15px; float: left; display: block; width: 220px;\">\n\t<script type=\"text/javascript\">\n\t\trequire(['jquery'], function () {\n\t\t$(document).ready(function () {\n\t\t\t\tvar startDate = new Date(\"October 12, 2026 0:00:00 -4"
+      },
+      {
+        "target": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div > a:nth-of-type(20)",
+        "text": "OCT 20 Early Dismissal All Day",
+        "ariaLabel": "",
+        "title": "",
+        "href": "#59b6871c-b49a-49e0-b23f-59d297406ba9144702026-10-20T000000Z",
+        "imgAlt": "",
+        "box": {
+          "x": 4651,
+          "y": 1052.5625,
+          "w": 220,
+          "h": 77
+        },
+        "context": "heading: Upcoming Events",
+        "contextKind": "heading-only",
+        "html": "<a class=\"sl-Item\" href=\"#59b6871c-b49a-49e0-b23f-59d297406ba9144702026-10-20T000000Z\" style=\"margin-right: 15px; float: left; display: block; width: 220px;\">\n\t<script type=\"text/javascript\">\n\t\trequire(['jquery'], function () {\n\t\t$(document).ready(function () {\n\t\t\t\tvar startDate = new Date(\"October "
+      },
+      {
+        "target": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div > a:nth-of-type(21)",
+        "text": "OCT 23 Inservice (No school) All Day",
+        "ariaLabel": "",
+        "title": "",
+        "href": "#59b6871c-b49a-49e0-b23f-59d297406ba91467",
+        "imgAlt": "",
+        "box": {
+          "x": 4886,
+          "y": 1052.5625,
+          "w": 220,
+          "h": 77
+        },
+        "context": "heading: Upcoming Events",
+        "contextKind": "heading-only",
+        "html": "<a class=\"sl-Item\" href=\"#59b6871c-b49a-49e0-b23f-59d297406ba91467\" style=\"margin-right: 15px; float: left; display: block; width: 220px;\">\n\t<script type=\"text/javascript\">\n\t\trequire(['jquery'], function () {\n\t\t$(document).ready(function () {\n\t\t\t\tvar startDate = new Date(\"October 23, 2026 0:00:00 -4"
+      },
+      {
+        "target": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div > a:nth-of-type(22)",
+        "text": "OCT 28 Inservice (no school) All Day",
+        "ariaLabel": "",
+        "title": "",
+        "href": "#59b6871c-b49a-49e0-b23f-59d297406ba91468",
+        "imgAlt": "",
+        "box": {
+          "x": 5121,
+          "y": 1052.5625,
+          "w": 220,
+          "h": 77
+        },
+        "context": "heading: Upcoming Events",
+        "contextKind": "heading-only",
+        "html": "<a class=\"sl-Item\" href=\"#59b6871c-b49a-49e0-b23f-59d297406ba91468\" style=\"margin-right: 15px; float: left; display: block; width: 220px;\">\n\t<script type=\"text/javascript\">\n\t\trequire(['jquery'], function () {\n\t\t$(document).ready(function () {\n\t\t\t\tvar startDate = new Date(\"October 28, 2026 0:00:00 -4"
+      },
+      {
+        "target": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div > a:nth-of-type(23)",
+        "text": "OCT 30 Inktober Art Contest Due Date (Open to all K-12 Art Students) All Day",
+        "ariaLabel": "",
+        "title": "",
+        "href": "#59b6871c-b49a-49e0-b23f-59d297406ba91526",
+        "imgAlt": "",
+        "box": {
+          "x": 5356,
+          "y": 1052.5625,
+          "w": 220,
+          "h": 77.765625
+        },
+        "context": "heading: Upcoming Events",
+        "contextKind": "heading-only",
+        "html": "<a class=\"sl-Item\" href=\"#59b6871c-b49a-49e0-b23f-59d297406ba91526\" style=\"margin-right: 15px; float: left; display: block; width: 220px;\">\n\t<script type=\"text/javascript\">\n\t\trequire(['jquery'], function () {\n\t\t$(document).ready(function () {\n\t\t\t\tvar startDate = new Date(\"October 30, 2026 0:00:00 -4"
+      },
+      {
+        "target": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div > a:nth-of-type(24)",
+        "text": "NOV 02 WWAC/WSD Varsity AAA QUALIFIER All Day",
+        "ariaLabel": "",
+        "title": "",
+        "href": "#59b6871c-b49a-49e0-b23f-59d297406ba91566",
+        "imgAlt": "",
+        "box": {
+          "x": 5591,
+          "y": 1052.5625,
+          "w": 220,
+          "h": 77
+        },
+        "context": "heading: Upcoming Events",
+        "contextKind": "heading-only",
+        "html": "<a class=\"sl-Item\" href=\"#59b6871c-b49a-49e0-b23f-59d297406ba91566\" style=\"margin-right: 15px; float: left; display: block; width: 220px;\">\n\t<script type=\"text/javascript\">\n\t\trequire(['jquery'], function () {\n\t\t$(document).ready(function () {\n\t\t\t\tvar startDate = new Date(\"November 02, 2026 0:00:00 -"
+      },
+      {
+        "target": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div > a:nth-of-type(25)",
+        "text": "NOV 02 SJAMYAA Atomic Volleyball 2 Sport for Life 9:00 AM- 12:00 PM",
+        "ariaLabel": "",
+        "title": "",
+        "href": "#59b6871c-b49a-49e0-b23f-59d297406ba91565",
+        "imgAlt": "",
+        "box": {
+          "x": 5826,
+          "y": 1052.5625,
+          "w": 220,
+          "h": 77.765625
+        },
+        "context": "heading: Upcoming Events",
+        "contextKind": "heading-only",
+        "html": "<a class=\"sl-Item\" href=\"#59b6871c-b49a-49e0-b23f-59d297406ba91565\" style=\"margin-right: 15px; float: left; display: block; width: 220px;\">\n\t<script type=\"text/javascript\">\n\t\trequire(['jquery'], function () {\n\t\t$(document).ready(function () {\n\t\t\t\tvar startDate = new Date(\"November 02, 2026 9:00:00 -"
+      },
+      {
+        "target": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div > a:nth-of-type(26)",
+        "text": "NOV 03 WWAC/WWAC JV AAA QUALIFER All Day",
+        "ariaLabel": "",
+        "title": "",
+        "href": "#59b6871c-b49a-49e0-b23f-59d297406ba91567",
+        "imgAlt": "",
+        "box": {
+          "x": 6061,
+          "y": 1052.5625,
+          "w": 220,
+          "h": 77
+        },
+        "context": "heading: Upcoming Events",
+        "contextKind": "heading-only",
+        "html": "<a class=\"sl-Item\" href=\"#59b6871c-b49a-49e0-b23f-59d297406ba91567\" style=\"margin-right: 15px; float: left; display: block; width: 220px;\">\n\t<script type=\"text/javascript\">\n\t\trequire(['jquery'], function () {\n\t\t$(document).ready(function () {\n\t\t\t\tvar startDate = new Date(\"November 03, 2026 0:00:00 -"
+      },
+      {
+        "target": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div > a:nth-of-type(27)",
+        "text": "NOV 03 Early Dismissal All Day",
+        "ariaLabel": "",
+        "title": "",
+        "href": "#59b6871c-b49a-49e0-b23f-59d297406ba9144702026-11-03T000000Z",
+        "imgAlt": "",
+        "box": {
+          "x": 6296,
+          "y": 1052.5625,
+          "w": 220,
+          "h": 77
+        },
+        "context": "heading: Upcoming Events",
+        "contextKind": "heading-only",
+        "html": "<a class=\"sl-Item\" href=\"#59b6871c-b49a-49e0-b23f-59d297406ba9144702026-11-03T000000Z\" style=\"margin-right: 15px; float: left; display: block; width: 220px;\">\n\t<script type=\"text/javascript\">\n\t\trequire(['jquery'], function () {\n\t\t$(document).ready(function () {\n\t\t\t\tvar startDate = new Date(\"November"
+      },
+      {
+        "target": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div > a:nth-of-type(28)",
+        "text": "NOV 05 Fall Divisional Choir Concert (All Divisional Choirs) 7:00 PM- 10:00 PM",
+        "ariaLabel": "",
+        "title": "",
+        "href": "#59b6871c-b49a-49e0-b23f-59d297406ba91527",
+        "imgAlt": "",
+        "box": {
+          "x": 6531,
+          "y": 1052.5625,
+          "w": 220,
+          "h": 77.765625
+        },
+        "context": "heading: Upcoming Events",
+        "contextKind": "heading-only",
+        "html": "<a class=\"sl-Item\" href=\"#59b6871c-b49a-49e0-b23f-59d297406ba91527\" style=\"margin-right: 15px; float: left; display: block; width: 220px;\">\n\t<script type=\"text/javascript\">\n\t\trequire(['jquery'], function () {\n\t\t$(document).ready(function () {\n\t\t\t\tvar startDate = new Date(\"November 05, 2026 19:00:00 "
+      },
+      {
+        "target": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div > a:nth-of-type(29)",
+        "text": "NOV 11 Remembrance Day (No School) All Day",
+        "ariaLabel": "",
+        "title": "",
+        "href": "#59b6871c-b49a-49e0-b23f-59d297406ba91469",
+        "imgAlt": "",
+        "box": {
+          "x": 6766,
+          "y": 1052.5625,
+          "w": 220,
+          "h": 77
+        },
+        "context": "heading: Upcoming Events",
+        "contextKind": "heading-only",
+        "html": "<a class=\"sl-Item\" href=\"#59b6871c-b49a-49e0-b23f-59d297406ba91469\" style=\"margin-right: 15px; float: left; display: block; width: 220px;\">\n\t<script type=\"text/javascript\">\n\t\trequire(['jquery'], function () {\n\t\t$(document).ready(function () {\n\t\t\t\tvar startDate = new Date(\"November 11, 2026 0:00:00 -"
+      },
+      {
+        "target": "div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > div > a:nth-of-type(30)",
+        "text": "NOV 12 WWAC Volleyball 1/4s All Day",
+        "ariaLabel": "",
+        "title": "",
+        "href": "#59b6871c-b49a-49e0-b23f-59d297406ba91568",
+        "imgAlt": "",
+        "box": {
+          "x": 7001,
+          "y": 1052.5625,
+          "w": 220,
+          "h": 77
+        },
+        "context": "heading: Upcoming Events",
+        "contextKind": "heading-only",
+        "html": "<a class=\"sl-Item\" href=\"#59b6871c-b49a-49e0-b23f-59d297406ba91568\" style=\"margin-right: 15px; float: left; display: block; width: 220px;\">\n\t<script type=\"text/javascript\">\n\t\trequire(['jquery'], function () {\n\t\t$(document).ready(function () {\n\t\t\t\tvar startDate = new Date(\"November 12, 2026 0:00:00 -"
+      },
+      {
+        "target": "#WebPartWPQ10 > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+        "text": "Budget Report",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.sjasd.ca/Governance/Budget/Pages/default.aspx",
+        "imgAlt": "Lakewood",
+        "box": {
+          "x": 186,
+          "y": 1192.5625,
+          "w": 320,
+          "h": 250
+        },
+        "context": "Budget Report Strategic Plan School Locator",
+        "contextKind": "block",
+        "html": "<a target=\"\" style=\"background-color:; color:;\" class=\"hasIcon sl-FeaturedLinks\" href=\"https://www.sjasd.ca/Governance/Budget/Pages/default.aspx\">\n\t<span class=\"imageContainer\" style=\"color: rgb(255, 255, 255);\">\n\t<img class=\"sl-CLVFieldImage content\" src=\"/Lists/FeaturedImageLinks/Attachments/4/Lak"
+      },
+      {
+        "target": "#WebPartWPQ10 > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(2)",
+        "text": "Strategic Plan",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.sjasd.ca/Governance/StrategicPlan",
+        "imgAlt": "ACADEMIC WESTWOOD copy",
+        "box": {
+          "x": 521,
+          "y": 1192.5625,
+          "w": 320,
+          "h": 250
+        },
+        "context": "Budget Report Strategic Plan School Locator",
+        "contextKind": "block",
+        "html": "<a target=\"\" style=\"background-color:; color:;\" class=\"hasIcon sl-FeaturedLinks\" href=\"https://www.sjasd.ca/Governance/StrategicPlan\">\n\t<span class=\"imageContainer\" style=\"color: rgb(255, 255, 255);\">\n\t<img class=\"sl-CLVFieldImage content\" src=\"/Lists/FeaturedImageLinks/Attachments/3/ACADEMIC WESTWO"
+      },
+      {
+        "target": "#WebPartWPQ10 > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(3)",
+        "text": "School Locator",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.sjasd.ca/Schools/SchoolLocator/Pages/default.aspx",
+        "imgAlt": "DSC_0742",
+        "box": {
+          "x": 856,
+          "y": 1192.5625,
+          "w": 320,
+          "h": 250
+        },
+        "context": "Budget Report Strategic Plan School Locator",
+        "contextKind": "block",
+        "html": "<a target=\"\" style=\"background-color:; color:;\" class=\"hasIcon sl-FeaturedLinks\" href=\"https://www.sjasd.ca/Schools/SchoolLocator/Pages/default.aspx\">\n\t<span class=\"imageContainer\" style=\"color: rgb(255, 255, 255);\">\n\t<img class=\"sl-CLVFieldImage content\" src=\"/Lists/FeaturedImageLinks/Attachments/2"
+      },
+      {
+        "target": "#WebPartWPQ11 > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > a",
+        "text": "Student Registration",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.sjasd.ca/Schools/StudentRegistration/Pages/default.aspx",
+        "imgAlt": "",
+        "box": {
+          "x": 214,
+          "y": 1574.5625,
+          "w": 240.640625,
+          "h": 22.390625
+        },
+        "context": "heading: Popular Links | Student RegistrationTransportationRequesting TranscriptsFacilities/PermitsPolicy ManualCONTACT E-NewsletterAccessibility PlanCommunity Bulletin",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.sjasd.ca/Schools/StudentRegistration/Pages/default.aspx\" target=\"\">\n\t\tStudent Registration\n\t</a>"
+      },
+      {
+        "target": "#WebPartWPQ11 > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > a",
+        "text": "Transportation",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.sjasd.ca/Parents/Transportation/Pages/default.aspx",
+        "imgAlt": "",
+        "box": {
+          "x": 524.640625,
+          "y": 1574.5625,
+          "w": 240.640625,
+          "h": 22.390625
+        },
+        "context": "heading: Popular Links | Student RegistrationTransportationRequesting TranscriptsFacilities/PermitsPolicy ManualCONTACT E-NewsletterAccessibility PlanCommunity Bulletin",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.sjasd.ca/Parents/Transportation/Pages/default.aspx\" target=\"\">\n\t\tTransportation\n\t</a>"
+      },
+      {
+        "target": "#WebPartWPQ11 > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(3) > a",
+        "text": "Requesting Transcripts",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.sjasd.ca/Parents/RequestingTranscripts",
+        "imgAlt": "",
+        "box": {
+          "x": 214,
+          "y": 1610.953125,
+          "w": 240.640625,
+          "h": 22.390625
+        },
+        "context": "heading: Popular Links | Student RegistrationTransportationRequesting TranscriptsFacilities/PermitsPolicy ManualCONTACT E-NewsletterAccessibility PlanCommunity Bulletin",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.sjasd.ca/Parents/RequestingTranscripts\" target=\"\">\n\t\tRequesting Transcripts\n\t</a>"
+      },
+      {
+        "target": "#WebPartWPQ11 > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(4) > a",
+        "text": "Facilities/Permits",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.sjasd.ca/Parents/Facilities/Pages/default.aspx",
+        "imgAlt": "",
+        "box": {
+          "x": 524.640625,
+          "y": 1610.953125,
+          "w": 240.640625,
+          "h": 22.390625
+        },
+        "context": "heading: Popular Links | Student RegistrationTransportationRequesting TranscriptsFacilities/PermitsPolicy ManualCONTACT E-NewsletterAccessibility PlanCommunity Bulletin",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.sjasd.ca/Parents/Facilities/Pages/default.aspx\" target=\"\">\n\t\tFacilities/Permits\n\t</a>"
+      },
+      {
+        "target": "#WebPartWPQ11 > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(5) > a",
+        "text": "Policy Manual",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.sjasd.ca/Governance/PolicyManual/Pages/default.aspx",
+        "imgAlt": "",
+        "box": {
+          "x": 214,
+          "y": 1647.34375,
+          "w": 240.640625,
+          "h": 22.390625
+        },
+        "context": "heading: Popular Links | Student RegistrationTransportationRequesting TranscriptsFacilities/PermitsPolicy ManualCONTACT E-NewsletterAccessibility PlanCommunity Bulletin",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.sjasd.ca/Governance/PolicyManual/Pages/default.aspx\" target=\"\">\n\t\tPolicy Manual\n\t</a>"
+      },
+      {
+        "target": "#WebPartWPQ11 > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(6) > a",
+        "text": "CONTACT E-Newsletter",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.sjasd.ca/AboutUs/NewsandMedia/Pages/default.aspx",
+        "imgAlt": "",
+        "box": {
+          "x": 524.640625,
+          "y": 1647.34375,
+          "w": 240.640625,
+          "h": 22.390625
+        },
+        "context": "heading: Popular Links | Student RegistrationTransportationRequesting TranscriptsFacilities/PermitsPolicy ManualCONTACT E-NewsletterAccessibility PlanCommunity Bulletin",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.sjasd.ca/AboutUs/NewsandMedia/Pages/default.aspx\" target=\"\">\n\t\tCONTACT E-Newsletter\n\t</a>"
+      },
+      {
+        "target": "#WebPartWPQ11 > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(7) > a",
+        "text": "Accessibility Plan",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.sjasd.ca/Governance/Accessibilityplan/Pages/default.aspx",
+        "imgAlt": "",
+        "box": {
+          "x": 214,
+          "y": 1683.734375,
+          "w": 240.640625,
+          "h": 22.390625
+        },
+        "context": "heading: Popular Links | Student RegistrationTransportationRequesting TranscriptsFacilities/PermitsPolicy ManualCONTACT E-NewsletterAccessibility PlanCommunity Bulletin",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.sjasd.ca/Governance/Accessibilityplan/Pages/default.aspx\" target=\"\">\n\t\tAccessibility Plan \n\t</a>"
+      },
+      {
+        "target": "#WebPartWPQ11 > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(8) > a",
+        "text": "Community Bulletin",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.sjasd.ca/Parents/communitybulletins",
+        "imgAlt": "",
+        "box": {
+          "x": 524.640625,
+          "y": 1683.734375,
+          "w": 240.640625,
+          "h": 22.390625
+        },
+        "context": "heading: Popular Links | Student RegistrationTransportationRequesting TranscriptsFacilities/PermitsPolicy ManualCONTACT E-NewsletterAccessibility PlanCommunity Bulletin",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.sjasd.ca/Parents/communitybulletins\" target=\"\">\n\t\tCommunity Bulletin\n\t</a>"
+      },
+      {
+        "target": "#ctl00_SPWebPartManager1_g_8d9467d2_3f2a_4367_80dc_d70d425e6f1f_ctl00_InjectorBody > em > strong > a",
+        "text": "Click here for more...",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/Pages/land_acknowledgement.aspx",
+        "imgAlt": "",
+        "box": {
+          "x": 385.625,
+          "y": 1813.3125,
+          "w": 132.5625,
+          "h": 17
+        },
+        "context": "heading: Popular Links",
+        "contextKind": "heading-only",
+        "html": "<a href=\"/Pages/land_acknowledgement.aspx\">Click here for more...</a>"
+      },
+      {
+        "target": "#sl-Footer > section > div:nth-of-type(1) > span:nth-of-type(2) > a",
+        "text": "204-888-7951",
+        "ariaLabel": "",
+        "title": "",
+        "href": "tel:204-888-7951",
+        "imgAlt": "",
+        "box": {
+          "x": 215,
+          "y": 2326.6875,
+          "w": 98.765625,
+          "h": 19
+        },
+        "context": "heading: Contact Us | Contact Us 2574 Portage Avenue, Winnipeg, MB, R3J 0H8 Tel: 204-888-7951 Fax: 204-831-0859 Office Hours: Regular Hours: Mon. to Fri. 8:30 a.m.–4:30 p.m.",
+        "contextKind": "block",
+        "html": "<a href=\"tel:204-888-7951\">\n                                        204-888-7951</a>"
+      },
+      {
+        "target": "#sl-Footer > section > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.facebook.com/St.JamesAssiniboiaSchoolDivision/",
+        "imgAlt": "",
+        "box": {
+          "x": 186,
+          "y": 2385.46875,
+          "w": 25,
+          "h": 25
+        },
+        "context": "heading: Contact Us | Contact Us 2574 Portage Avenue, Winnipeg, MB, R3J 0H8 Tel: 204-888-7951 Fax: 204-831-0859 Office Hours: Regular Hours: Mon. to Fri. 8:30 a.m.–4:30 p.m.",
+        "contextKind": "block",
+        "html": "<a class=\"sl-facebook\" href=\"https://www.facebook.com/St.JamesAssiniboiaSchoolDivision/\"></a>"
+      },
+      {
+        "target": "#sl-Footer > section > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(2)",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.instagram.com/st.james_assiniboiasd/?hl=en",
+        "imgAlt": "",
+        "box": {
+          "x": 216,
+          "y": 2385.46875,
+          "w": 25,
+          "h": 25
+        },
+        "context": "heading: Contact Us | Contact Us 2574 Portage Avenue, Winnipeg, MB, R3J 0H8 Tel: 204-888-7951 Fax: 204-831-0859 Office Hours: Regular Hours: Mon. to Fri. 8:30 a.m.–4:30 p.m.",
+        "contextKind": "block",
+        "html": "<a class=\"sl-instagram\" href=\"https://www.instagram.com/st.james_assiniboiasd/?hl=en\"></a>"
+      },
+      {
+        "target": "#sl-Footer > section > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(3)",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.youtube.com/@st.jamesassiniboiaschooldi6509",
+        "imgAlt": "",
+        "box": {
+          "x": 246,
+          "y": 2385.46875,
+          "w": 25,
+          "h": 25
+        },
+        "context": "heading: Contact Us | Contact Us 2574 Portage Avenue, Winnipeg, MB, R3J 0H8 Tel: 204-888-7951 Fax: 204-831-0859 Office Hours: Regular Hours: Mon. to Fri. 8:30 a.m.–4:30 p.m.",
+        "contextKind": "block",
+        "html": "<a class=\"sl-youtube\" href=\"https://www.youtube.com/@st.jamesassiniboiaschooldi6509\"></a>"
+      },
+      {
+        "target": "#ctl00_PlaceHolderFooterContact_ContentPlaceHolder12_SearchBoxScriptWebPart_csr_SearchLink",
+        "text": "",
+        "ariaLabel": "Search",
+        "title": "Search",
+        "href": "javascript: {}",
+        "imgAlt": "Search",
+        "box": {
+          "x": 1058.671875,
+          "y": 2307.6875,
+          "w": 40,
+          "h": 32
+        },
+        "context": "heading: Can't find what you are looking for? | Contact Us 2574 Portage Avenue, Winnipeg, MB, R3J 0H8 Tel: 204-888-7951 Fax: 204-831-0859 Office Hours: Regular Hours: Mon. to Fri. 8:30 a.m.–4:30 p.m. Can't find what you are looking for?",
+        "contextKind": "block",
+        "html": "<a title=\"Search\" class=\"ms-srch-sb-searchLink\" id=\"ctl00_PlaceHolderFooterContact_ContentPlaceHolder12_SearchBoxScriptWebPart_csr_SearchLink\" onclick=\"$getClientControl(this).search($get('ctl00_PlaceHolderFooterContact_ContentPlaceHolder12_SearchBoxScriptWebPart_csr_sbox').value);\" href=\"javascript"
+      },
+      {
+        "target": "div > div > div:nth-of-type(1) > span > a",
+        "text": "Privacy",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/Pages/Privacy.aspx",
+        "imgAlt": "",
+        "box": {
+          "x": 551.5625,
+          "y": 2476.46875,
+          "w": 46.6875,
+          "h": 17
+        },
+        "context": "heading: Can't find what you are looking for? | © St. James-Assiniboia School Division 2025 Privacy Admin Login Scholantis Web Edition - Powerful Solutions for Schools",
+        "contextKind": "block",
+        "html": "<a href=\"/Pages/Privacy.aspx\">Privacy</a>"
+      },
+      {
+        "target": "#sl-Footer > div > div > div:nth-of-type(1) > a",
+        "text": "Admin Login",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.sjasd.ca/_LAYOUTS/15/Authenticate.aspx?Source=https%3A%2F%2Fwww%2Esjasd%2Eca%2FPages%2Fdefault%2Easpx%3Flogin%3D%2D1768771858",
+        "imgAlt": "",
+        "box": {
+          "x": 616.734375,
+          "y": 2476.46875,
+          "w": 79.484375,
+          "h": 17
+        },
+        "context": "heading: Can't find what you are looking for? | © St. James-Assiniboia School Division 2025 Privacy Admin Login Scholantis Web Edition - Powerful Solutions for Schools",
+        "contextKind": "block",
+        "html": "<a class=\"sl-SignIn\" href=\"https://www.sjasd.ca/_LAYOUTS/15/Authenticate.aspx?Source=https%3A%2F%2Fwww%2Esjasd%2Eca%2FPages%2Fdefault%2Easpx%3Flogin%3D%2D1768771858\">Admin Login</a>"
+      },
+      {
+        "target": "#sl-Footer > div > div > div:nth-of-type(2) > a",
+        "text": "Scholantis Web Edition - Powerful Solutions for Schools",
+        "ariaLabel": "",
+        "title": "",
+        "href": "http://www.scholantis.com",
+        "imgAlt": "",
+        "box": {
+          "x": 847.296875,
+          "y": 2476.46875,
+          "w": 345.203125,
+          "h": 17
+        },
+        "context": "heading: Can't find what you are looking for? | Scholantis Web Edition - Powerful Solutions for Schools",
+        "contextKind": "block",
+        "html": "<a href=\"http://www.scholantis.com\">Scholantis Web Edition - Powerful Solutions for Schools</a>"
+      }
+    ],
+    "headings": [
+      {
+        "target": "#ctl00_SPWebPartManager1_g_aad00e0b_681f_48b5_94ff_0d42f7c1a6b3_ctl00_FeaturedRepeater_ctl01_entryHeader_clone",
+        "level": 2,
+        "text": "Free Ride",
+        "visible": true,
+        "box": {
+          "x": -617,
+          "y": 208.375,
+          "w": 150.984375,
+          "h": 71.390625
+        },
+        "html": "<h2 id=\"ctl00_SPWebPartManager1_g_aad00e0b_681f_48b5_94ff_0d42f7c1a6b3_ctl00_FeaturedRepeater_ctl01_entryHeader_clone\" class=\"entry-title\">\n                                    <a id=\"ctl00_SPWebPartManager1_g_aad00e0b_681f_48b5_94ff_0d42f7c1a6b3_ctl00_FeaturedRepeater_ctl01_entryAnchor_clone\" title="
+      },
+      {
+        "target": "#ctl00_SPWebPartManager1_g_aad00e0b_681f_48b5_94ff_0d42f7c1a6b3_ctl00_FeaturedRepeater_ctl00_entryHeader",
+        "level": 2,
+        "text": "Blurb from the Board",
+        "visible": true,
+        "box": {
+          "x": -13,
+          "y": 208.375,
+          "w": 273.703125,
+          "h": 71.390625
+        },
+        "html": "<h2 id=\"ctl00_SPWebPartManager1_g_aad00e0b_681f_48b5_94ff_0d42f7c1a6b3_ctl00_FeaturedRepeater_ctl00_entryHeader\" class=\"entry-title\">\n                                    <a id=\"ctl00_SPWebPartManager1_g_aad00e0b_681f_48b5_94ff_0d42f7c1a6b3_ctl00_FeaturedRepeater_ctl00_entryAnchor\" title=\"Blurb from "
+      },
+      {
+        "target": "#ctl00_SPWebPartManager1_g_aad00e0b_681f_48b5_94ff_0d42f7c1a6b3_ctl00_FeaturedRepeater_ctl01_entryHeader",
+        "level": 2,
+        "text": "Free Ride",
+        "visible": true,
+        "box": {
+          "x": 171,
+          "y": 208.375,
+          "w": 150.984375,
+          "h": 71.390625
+        },
+        "html": "<h2 id=\"ctl00_SPWebPartManager1_g_aad00e0b_681f_48b5_94ff_0d42f7c1a6b3_ctl00_FeaturedRepeater_ctl01_entryHeader\" class=\"entry-title\">\n                                    <a id=\"ctl00_SPWebPartManager1_g_aad00e0b_681f_48b5_94ff_0d42f7c1a6b3_ctl00_FeaturedRepeater_ctl01_entryAnchor\" title=\"Free Ride\" "
+      },
+      {
+        "target": "#ctl00_SPWebPartManager1_g_aad00e0b_681f_48b5_94ff_0d42f7c1a6b3_ctl00_FeaturedRepeater_ctl00_entryHeader_clone",
+        "level": 2,
+        "text": "Blurb from the Board",
+        "visible": true,
+        "box": {
+          "x": 1195,
+          "y": 208.375,
+          "w": 273.703125,
+          "h": 71.390625
+        },
+        "html": "<h2 id=\"ctl00_SPWebPartManager1_g_aad00e0b_681f_48b5_94ff_0d42f7c1a6b3_ctl00_FeaturedRepeater_ctl00_entryHeader_clone\" class=\"entry-title\">\n                                    <a id=\"ctl00_SPWebPartManager1_g_aad00e0b_681f_48b5_94ff_0d42f7c1a6b3_ctl00_FeaturedRepeater_ctl00_entryAnchor_clone\" title="
+      },
+      {
+        "target": "#WebPartWPQ8 > div:nth-of-type(1) > div:nth-of-type(1) > h2",
+        "level": 2,
+        "text": "Division News",
+        "visible": true,
+        "box": {
+          "x": 186,
+          "y": 583.375,
+          "w": 177.28125,
+          "h": 34
+        },
+        "html": "<h2><a href=\"//www.sjasd.ca/Pages/newsarchive.aspx?ListID=883d0c8d-1c12-4334-9116-1de95f400699&amp;TemplateID=Announcement_Archive\">Division News</a></h2>"
+      },
+      {
+        "target": "#g_d3ca1208_1ad7_453a_850d_542b5d433d10 > div:nth-of-type(1) > div:nth-of-type(1) > h2",
+        "level": 2,
+        "text": "Upcoming Events",
+        "visible": true,
+        "box": {
+          "x": 186,
+          "y": 988.5625,
+          "w": 218.984375,
+          "h": 34
+        },
+        "html": "<h2><a href=\"/Lists/Calendar/calendar.aspx\">Upcoming Events</a></h2>"
+      },
+      {
+        "target": "#WebPartWPQ10 > div:nth-of-type(1) > div:nth-of-type(1) > h2",
+        "level": 2,
+        "text": "",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h2></h2>"
+      },
+      {
+        "target": "#WebPartWPQ11 > div:nth-of-type(1) > div:nth-of-type(1) > h2",
+        "level": 2,
+        "text": "Popular Links",
+        "visible": true,
+        "box": {
+          "x": 196,
+          "y": 1495.5625,
+          "w": 172.3125,
+          "h": 34
+        },
+        "html": "<h2>Popular Links</h2>"
+      },
+      {
+        "target": "#sl-Footer > section > div:nth-of-type(1) > div:nth-of-type(1) > h2",
+        "level": 2,
+        "text": "Contact Us",
+        "visible": true,
+        "box": {
+          "x": 186,
+          "y": 2252.5,
+          "w": 108.546875,
+          "h": 30.796875
+        },
+        "html": "<h2>Contact Us</h2>"
+      },
+      {
+        "target": "#sl-Footer > section > div:nth-of-type(2) > div > h2",
+        "level": 2,
+        "text": "Can't find what you are looking for?",
+        "visible": true,
+        "box": {
+          "x": 848.671875,
+          "y": 2252.5,
+          "w": 331.328125,
+          "h": 25.1875
+        },
+        "html": "<h2 class=\"sl-SearchTitle\">Can't find what you are looking for?</h2>"
+      }
+    ],
+    "lang": "en-CA",
+    "title": "St. James-Assiniboia School Division - St. James-Assiniboia School Division"
+  },
   "axe": {
-    "violationRules": 6,
-    "violationNodes": 13,
+    "violationRules": 5,
+    "violationNodes": 12,
     "passRules": 32,
-    "passNodes": 716,
+    "passNodes": 723,
     "incompleteRules": 2,
     "incompleteNodes": 38,
     "inapplicableRules": 30,
-    "testedNodes": 767
+    "testedNodes": 773
   },
   "incomplete": [
     {
@@ -1207,44 +4532,6 @@
             "color": "rgb(0, 0, 0)",
             "background": "rgba(0, 0, 0, 0)",
             "text": ""
-          }
-        }
-      ]
-    },
-    {
-      "id": "target-size",
-      "impact": "serious",
-      "help": "All touch targets must be 24px large, or leave sufficient space",
-      "description": "Ensure touch targets have sufficient size and space",
-      "helpUrl": "https://dequeuniversity.com/rules/axe/4.13/target-size?application=playwright",
-      "tags": [
-        "cat.sensory-and-visual-cues",
-        "wcag22aa",
-        "wcag258"
-      ],
-      "wcag": [
-        "2.5.8"
-      ],
-      "nodes": 1,
-      "items": [
-        {
-          "target": "#ctl00_PlaceHolderFooterContact_ContentPlaceHolder12_SearchBoxScriptWebPart_csr_SearchLink",
-          "html": "<a title=\"Search\" role=\"button\" class=\"ms-srch-sb-searchLin...\" id=\"ctl00_PlaceHolderFoo...\" onclick=\"EnsureScriptFunc('Se...\" href=\"javascript: {}\" aria-label=\"Search\">",
-          "impact": "serious",
-          "messages": [
-            "Target has insufficient size (40px by 20px, should be at least 24px by 24px)",
-            "Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 20px instead of at least 24px."
-          ],
-          "box": {
-            "x": 1058.671875,
-            "y": 2307.6875,
-            "w": 40,
-            "h": 20,
-            "fontSize": 14,
-            "fontWeight": "400",
-            "color": "rgb(5, 104, 143)",
-            "background": "rgba(0, 0, 0, 0)",
-            "text": "Search"
           }
         }
       ]

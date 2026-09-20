@@ -70,6 +70,10 @@
   .sub { color: var(--muted); font-size: 12.5px; }
   .tag { display: inline-block; font-size: 11.5px; border: 1px solid var(--line); border-radius: 999px; padding: 0 8px; color: var(--muted); margin-left: 6px; vertical-align: 1px; }
   .tag.fail { color: var(--bad); border-color: var(--bad); } .tag.open { color: var(--warn); border-color: var(--warn); }
+  .tag.ai { color: #7c3aed; border-color: #7c3aed; } :root[data-theme="dark"] .tag.ai, :root:not([data-theme="light"]) .tag.ai { color: #a78bfa; border-color: #a78bfa; }
+  .stat.ai .n { color: #7c3aed; }
+  .inst .claim { font-size: 12.5px; margin-top: 2px; } .inst .claim b { color: #7c3aed; }
+  .inst .sugg { font-size: 12.5px; color: var(--muted); font-style: italic; }
   .sw { display: inline-block; width: 12px; height: 12px; border-radius: 3px; border: 1px solid var(--line); vertical-align: -1px; margin-right: 3px; }
   .num { font-variant-numeric: tabular-nums; white-space: nowrap; }
   .num b.pass { color: var(--ok); } .num b.fail { color: var(--bad); }
@@ -178,23 +182,24 @@ async function loadSites() {
 function renderOverview() {
   S = null; location.hash = '';
   $('#worksheet').hidden = true; $('#issues').hidden = false; $('#export').disabled = true;
-  const tot = SITES.reduce((a, s) => ({ findings: a.findings + s.findings, decided: a.decided + s.decided, failures: a.failures + s.failures, unsure: a.unsure + s.unsure, confirmed: a.confirmed + s.confirmed }), { findings: 0, decided: 0, failures: 0, unsure: 0, confirmed: 0 });
+  const tot = SITES.reduce((a, s) => ({ findings: a.findings + s.findings, decided: a.decided + s.decided, failures: a.failures + s.failures, unsure: a.unsure + s.unsure, ai: a.ai + (s.ai || 0), confirmed: a.confirmed + s.confirmed }), { findings: 0, decided: 0, failures: 0, unsure: 0, ai: 0, confirmed: 0 });
   const key = sortKey || 'findings';
   const rows = [...SITES].sort((a, b) => (typeof a[key] === 'string' ? a[key].localeCompare(b[key]) : (a[key] ?? 0) - (b[key] ?? 0)) * (sortKey ? sortDir : -1));
   let html = `<div class="summary">
     <div class="stat"><div class="n">${SITES.length}</div><div class="l">sites scanned</div></div>
     <div class="stat bad"><div class="n">${tot.failures}</div><div class="l">axe failures</div></div>
     <div class="stat warn"><div class="n">${tot.unsure}</div><div class="l">axe unsure — needs a person</div></div>
+    <div class="stat ai"><div class="n">${tot.ai}</div><div class="l">raised by the AI beyond axe</div></div>
     <div class="stat"><div class="n">${tot.decided}</div><div class="l">of ${tot.findings} reviewed</div></div>
     <div class="stat bad"><div class="n">${tot.confirmed}</div><div class="l">confirmed real problems</div></div>
   </div>
-  <table class="sites"><thead><tr>${[['site', 'Site'], ['passed', 'Passed tests'], ['failures', 'Failures'], ['unsure', 'Unsure'], ['findings', 'Flagged'], ['decided', 'Reviewed'], ['confirmed', 'Confirmed']].map(([k, l]) => `<th class="sortable" data-sort="${k}">${l}${sortKey === k ? (sortDir > 0 ? ' ▲' : ' ▼') : ''}</th>`).join('')}</tr></thead><tbody>`;
+  <table class="sites"><thead><tr>${[['site', 'Site'], ['passed', 'Passed tests'], ['failures', 'Failures'], ['unsure', 'Unsure'], ['ai', 'AI found'], ['findings', 'Flagged'], ['decided', 'Reviewed'], ['confirmed', 'Confirmed']].map(([k, l]) => `<th class="sortable" data-sort="${k}">${l}${sortKey === k ? (sortDir > 0 ? ' ▲' : ' ▼') : ''}</th>`).join('')}</tr></thead><tbody>`;
   for (const s of rows) {
     const pt = s.axe ? Math.round((100 * s.axe.passRules) / Math.max(1, s.axe.passRules + s.axe.violationRules + s.axe.incompleteRules)) : null;
     s.passed = pt ?? -1;
     html += `<tr><td><a href="#${esc(s.site)}" data-site="${esc(s.site)}">${esc(s.site)}</a><div class="sub">${esc(s.title || '')}${s.verdict && /NOT RENDER/.test(s.verdict) ? ' · <b>did not render</b>' : ''}</div></td>
       <td class="num">${pt != null ? `<b class="${pt >= 90 ? 'pass' : 'fail'}">${pt}%</b>` : '—'}</td>
-      <td class="num">${s.failures || '<span class="sub">0</span>'}</td><td class="num">${s.unsure || '<span class="sub">0</span>'}</td><td class="num">${s.findings}</td>
+      <td class="num">${s.failures || '<span class="sub">0</span>'}</td><td class="num">${s.unsure || '<span class="sub">0</span>'}</td><td class="num">${s.ai || '<span class="sub">0</span>'}</td><td class="num">${s.findings}</td>
       <td><div class="mini"><i style="width:${s.findings ? (100 * s.decided) / s.findings : 0}%"></i></div><div class="sub">${s.decided}/${s.findings}</div></td>
       <td class="num">${s.confirmed || '<span class="sub">0</span>'}</td></tr>`;
   }
@@ -235,6 +240,7 @@ function renderIssues() {
   let html = `<div class="summary">
     ${pt != null ? `<div class="stat pt"><span class="ring" style="--p:${pt}"></span><div class="n">${pt}%</div><div class="l">passed tests<br><span title="${ax.passRules} passed, ${ax.violationRules} failed, ${ax.incompleteRules} unsure, ${ax.inapplicableRules} not applicable">${ax.passRules} of ${ax.passRules + ax.violationRules + ax.incompleteRules} rules axe could apply</span></div></div>` : ''}
     <div class="stat"><div class="n">${all.length}</div><div class="l">items flagged on <a href="${esc(S.url)}" target="_blank" rel="noopener">${esc(S.site)}</a> in ${S.groups.length} issue${S.groups.length === 1 ? '' : 's'}</div></div>
+    ${S.findings.some((f) => f.kind === 'model') ? `<div class="stat ai"><div class="n">${S.findings.filter((f) => f.kind === 'model').length}</div><div class="l">raised by the AI beyond axe — alt text, link purpose, headings</div></div>` : ''}
     <div class="stat bad"><div class="n">${t.confirm}</div><div class="l">confirmed — real problems</div></div>
     <div class="stat ok"><div class="n">${t.reject}</div><div class="l">ignored — not a problem</div></div>
     <div class="stat warn"><div class="n">${t.look}</div><div class="l">not sure yet</div></div>
@@ -248,14 +254,16 @@ function renderIssues() {
     const gt = tally(g.ids);
     if (filter === 'fail' && g.kind !== 'violation') return false;
     if (filter === 'unsure' && g.kind !== 'incomplete') return false;
+    if (filter === 'ai' && g.kind !== 'model') return false;
     if (filter === 'todo' && !gt.todo) return false;
     if (filter === 'done' && gt.todo) return false;
     if (q && !`${g.help} ${g.label} ${g.rule} ${g.why} ${critName(g.criterion)}`.toLowerCase().includes(q)) return false;
     return true;
   };
-  const groups = [...S.groups].sort((a, b) => (a.kind === b.kind ? b.ids.length - a.ids.length : a.kind === 'violation' ? -1 : 1)).filter(matches);
+  const order = { violation: 0, model: 1, incomplete: 2 };
+  const groups = [...S.groups].sort((a, b) => (a.kind === b.kind ? b.ids.length - a.ids.length : order[a.kind] - order[b.kind])).filter(matches);
   const cnt = (f) => S.groups.filter((g) => { const keep = filter; filter = f; const m = matches(g); filter = keep; return m; }).length;
-  html += `<div class="chips">${[['all', 'All'], ['fail', 'axe failures'], ['unsure', 'axe unsure'], ['todo', 'Not reviewed'], ['done', 'Reviewed']].map(([k, l]) => `<button class="${filter === k ? 'on' : ''}" data-filter="${k}">${l} <span class="sub">${cnt(k)}</span></button>`).join('')}<input type="text" id="q" placeholder="Search issues…" value="${esc(query)}"></div>`;
+  html += `<div class="chips">${[['all', 'All'], ['fail', 'axe failures'], ['unsure', 'axe unsure'], ['ai', 'AI found'], ['todo', 'Not reviewed'], ['done', 'Reviewed']].map(([k, l]) => `<button class="${filter === k ? 'on' : ''}" data-filter="${k}">${l} <span class="sub">${cnt(k)}</span></button>`).join('')}<input type="text" id="q" placeholder="Search issues…" value="${esc(query)}"></div>`;
   html += `<table><thead><tr><th></th><th>Issue</th><th>Count</th><th>Measured</th><th>Status</th><th></th></tr></thead><tbody>`;
   for (const g of groups) {
     const gt = tally(g.ids);
@@ -264,7 +272,7 @@ function renderIssues() {
     const isOpen = open.has(g.id);
     html += `<tr class="issue" data-g="${esc(g.id)}">
       <td>${isOpen ? '▾' : '▸'}</td>
-      <td><div class="title">${esc(g.help)}<span class="tag ${g.kind === 'violation' ? 'fail' : 'open'}">${g.kind === 'violation' ? 'axe: fail' : 'axe: unsure'}</span>${g.impact ? `<span class="tag impact-${esc(g.impact)}">${esc(g.impact)}</span>` : ''}<span class="tag">${esc(critName(g.criterion))}</span></div>
+      <td><div class="title">${esc(g.help)}<span class="tag ${g.kind === 'violation' ? 'fail' : g.kind === 'model' ? 'ai' : 'open'}">${g.kind === 'violation' ? 'axe: fail' : g.kind === 'model' ? 'AI found' : 'axe: unsure'}</span>${g.impact ? `<span class="tag impact-${esc(g.impact)}">${esc(g.impact)}</span>` : ''}<span class="tag">${esc(critName(g.criterion))}</span></div>
           <div class="sub">${sw}${esc(g.label)}</div></td>
       <td class="num">${g.ids.length}</td>
       <td class="num">${m ? `<b class="${m.worst >= m.threshold ? 'pass' : 'fail'}">${m.worst}:1</b>${m.best !== m.worst ? ` – ${m.best}:1` : ''}<div class="sub">needs ${m.threshold}:1${m.below ? ` · ${m.below} below` : ''}</div>` : '<span class="sub">—</span>'}</td>
@@ -275,7 +283,7 @@ function renderIssues() {
   }
   html += `</tbody></table>`;
   if (!groups.length) html += `<div class="empty">${S.groups.length ? 'Nothing matches that filter.' : 'Nothing flagged on this page.'}</div>`;
-  html += `<p class="help"><b>Confirm</b> = a real accessibility problem. <b>Ignore</b> = the checker was wrong, and you say why. <b>Not sure</b> = come back to it. Do a whole issue at once, or open Details and go item by item. <b>View on page</b> walks through the items on the screenshot. The AI's opinion appears only after you've decided.</p>`;
+  html += `<p class="help"><b>Confirm</b> = a real accessibility problem. <b>Ignore</b> = the checker was wrong, and you say why. <b>Not sure</b> = come back to it. Do a whole issue at once, or open Details and go item by item. <b>View on page</b> walks through the items on the screenshot. For axe's items the AI's opinion appears only after you've decided; for items marked <b>AI found</b> the AI's claim is the item — your Confirm or Ignore is the measurement.</p>`;
   $('#issues').innerHTML = html;
 
   $('#issues').querySelectorAll('[data-filter]').forEach((b) => b.onclick = () => { filter = b.dataset.filter; renderIssues(); });
@@ -346,11 +354,14 @@ function instHtml(f, g) {
   const d = dec(f.id), p = S.proposals[f.id], m = p && p.measured, b = f.box || {};
   const revealed = p && p.verdict;
   let ai = '';
-  if (d && revealed) { const agree = MODEL_TO_HUMAN[p.verdict] === d.verdict; ai = `<div class="ai">AI said <b class="${agree ? 'agree' : 'disagree'}">${esc(p.verdict.replace('_', ' '))}</b>${p.confidence != null ? ` (${p.confidence})` : ''} — ${esc(p.reason)}</div>`; }
+  if (f.kind === 'model') {
+    const mm = f.model || {};
+    ai = `<div class="claim"><b>${mm.model ? 'AI' : 'Rule'}:</b> ${esc(f.messages[0])}${mm.confidence != null ? ` <span class="sub">(${mm.confidence})</span>` : ''}</div>${mm.suggestion ? `<div class="sugg">Suggested: “${esc(mm.suggestion)}”</div>` : ''}${mm.alt !== undefined ? `<div class="sub">alt: ${mm.alt === '' ? '(empty)' : esc(JSON.stringify(mm.alt))}</div>` : ''}${mm.href ? `<div class="sub">→ ${esc(mm.href.slice(0, 90))}</div>` : ''}`;
+  } else if (d && revealed) { const agree = MODEL_TO_HUMAN[p.verdict] === d.verdict; ai = `<div class="ai">AI said <b class="${agree ? 'agree' : 'disagree'}">${esc(p.verdict.replace('_', ' '))}</b>${p.confidence != null ? ` (${p.confidence})` : ''} — ${esc(p.reason)}</div>`; }
   return `<div class="inst ${d ? esc(d.verdict) : ''}" data-id="${esc(f.id)}">
     <div>${f.crop ? `<img src="/crops/${encodeURIComponent(f.crop)}" alt="">` : '<div class="sub">no crop</div>'}</div>
     <div>
-      <div class="t">${esc(b.text || f.html.replace(/<[^>]+>/g, ' ').trim() || f.target)}</div>
+      <div class="t">${esc(f.kind === 'model' && f.model && f.model.text ? f.model.text : b.text || f.html.replace(/<[^>]+>/g, ' ').trim() || f.target)}</div>
       <code title="${esc(f.html)}">${esc(f.html)}</code>
       ${m && m.ok && m.fg ? `<div class="m num"><b class="${m.ratio >= m.threshold ? 'pass' : 'fail'}">${m.ratio}:1</b>${m.best && m.best !== m.ratio ? ` – ${m.best}:1` : ''} <span class="sub">needs ${m.threshold}:1${m.note ? ' · ' + esc(m.note) : ''}</span></div>` : ''}
       ${d ? `<div class="d ${esc(d.verdict)}">${LABEL[d.verdict]}${d.reason ? ' — ' + esc(d.reason) : ''}</div>` : ''}

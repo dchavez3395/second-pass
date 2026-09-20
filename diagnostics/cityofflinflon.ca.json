@@ -19,7 +19,1472 @@
     "width": 1366,
     "height": 900
   },
-  "scannedAt": "2026-09-19T23:14:38.212Z",
+  "scannedAt": "2026-09-19T23:55:15.983Z",
+  "content": {
+    "images": [
+      {
+        "target": "div:nth-of-type(3) > div > div:nth-of-type(2) > a > img",
+        "tag": "img",
+        "src": "https://cityofflinflon.ca/repository/designs/templates/GO_flinflon-mb_2025_resp/images/nav-flon-flon-logo.svg",
+        "alt": "Flin Flon, MB",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 280,
+        "naturalHeight": 125,
+        "box": {
+          "x": 60.015625,
+          "y": 94.1796875,
+          "w": 279.953125,
+          "h": 124.640625
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"/repository/designs/templates/GO_flinflon-mb_2025_resp/images/nav-flon-flon-logo.svg\" alt=\"Flin Flon, MB\">"
+      },
+      {
+        "target": "div:nth-of-type(2) > div:nth-of-type(4) > div > a:nth-of-type(1) > img",
+        "tag": "img",
+        "src": "https://cityofflinflon.ca/repository/designs/images/social/fixed/fb-ko.png",
+        "alt": "Facebook",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 90,
+        "naturalHeight": 90,
+        "box": {
+          "x": 1324,
+          "y": 368,
+          "w": 30,
+          "h": 30
+        },
+        "inLink": true,
+        "linkText": "opens in a new tab - Opens in a new tab",
+        "linkHref": "https://www.facebook.com/thecityofflinflon",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"/repository/designs/images/social/fixed/fb-ko.png\" alt=\"Facebook\">"
+      },
+      {
+        "target": "div:nth-of-type(2) > div:nth-of-type(4) > div > a:nth-of-type(2) > img",
+        "tag": "img",
+        "src": "https://cityofflinflon.ca/repository/designs/images/social/fixed/in-ko.png",
+        "alt": "Instagram",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 90,
+        "naturalHeight": 90,
+        "box": {
+          "x": 1324,
+          "y": 418,
+          "w": 30,
+          "h": 30
+        },
+        "inLink": true,
+        "linkText": "opens in a new tab - Opens in a new tab",
+        "linkHref": "https://www.instagram.com/thecityofflinflon/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"/repository/designs/images/social/fixed/in-ko.png\" alt=\"Instagram\">"
+      },
+      {
+        "target": "div:nth-of-type(2) > div:nth-of-type(4) > div > a:nth-of-type(3) > img",
+        "tag": "img",
+        "src": "https://cityofflinflon.ca/repository/designs/images/social/fixed/yt-ko.png",
+        "alt": "YouTube",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 90,
+        "naturalHeight": 90,
+        "box": {
+          "x": 1324,
+          "y": 468,
+          "w": 30,
+          "h": 30
+        },
+        "inLink": true,
+        "linkText": "opens in a new tab - Opens in a new tab",
+        "linkHref": "https://www.youtube.com/@FlinFlon",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"/repository/designs/images/social/fixed/yt-ko.png\" alt=\"YouTube\">"
+      },
+      {
+        "target": "#IDAN0J0R",
+        "tag": "div",
+        "src": "",
+        "alt": null,
+        "ariaLabel": "1X2A6545",
+        "role": "img",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0,
+        "box": {
+          "x": -1366,
+          "y": 60,
+          "w": 1366,
+          "h": 790
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "WE'RE HIRING A UTILITIES SUPERVISOR Check out our available roles! LEARN MORE",
+        "html": "<div id=\"IDAN0J0R\" role=\"img\" aria-label=\"1X2A6545\" class=\"item slide hastext\" style=\"background: url('/vertical/Sites/%7B5A694068-650F-4C44-B310-F72738598E93%7D/uploads/1X2A6545_Crop.jpg') no-repeat center center; background-size: cover;\">\n<div class=\"titlebox\">\n<div class=\"title\" role=\"heading\">We're hiring a<!----></div>\n<div class=\"subtitle\" role=\"heading\">Utilities Supervisor<!----></div>\n<di"
+      },
+      {
+        "target": "#IDAMQL0R",
+        "tag": "div",
+        "src": "",
+        "alt": null,
+        "ariaLabel": "fire_banner",
+        "role": "img",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0,
+        "box": {
+          "x": 0,
+          "y": 60,
+          "w": 1366,
+          "h": 790
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "EMERGENCY PRE-REGISTRATION Help us plan for city-wide emergencies. FILL OUT THE FORM",
+        "html": "<div id=\"IDAMQL0R\" role=\"img\" aria-label=\"fire_banner\" class=\"item slide hastext\" style=\"background: url('/vertical/Sites/%7B5A694068-650F-4C44-B310-F72738598E93%7D/uploads/fire_banner_Crop.jpg') no-repeat center center; background-size: cover;\">\n<div class=\"titlebox\">\n<div class=\"title\" role=\"heading\">Emergency<!----></div>\n<div class=\"subtitle\" role=\"heading\">Pre-Registration<!----></div>\n<div c"
+      },
+      {
+        "target": "#IDAFKL0R",
+        "tag": "div",
+        "src": "",
+        "alt": null,
+        "ariaLabel": "web_photos(2)",
+        "role": "img",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0,
+        "box": {
+          "x": 1366,
+          "y": 60,
+          "w": 1366,
+          "h": 790
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "IMPORTANT TRUCKING ROUTES Semis should continue straight down Provincial Trunk Highway #10, signs for City Centre. LEARN MORE",
+        "html": "<div id=\"IDAFKL0R\" role=\"img\" aria-label=\"web_photos(2)\" class=\"item slide hastext\" style=\"background: url('/vertical/Sites/%7B5A694068-650F-4C44-B310-F72738598E93%7D/uploads/web_photos(2)_Crop.jpg') no-repeat center center; background-size: cover;\">\n<div class=\"titlebox\">\n<div class=\"title\" role=\"heading\">Important<!----></div>\n<div class=\"subtitle\" role=\"heading\">Trucking Routes<!----></div>\n<di"
+      },
+      {
+        "target": "section > div:nth-of-type(1) > div > div:nth-of-type(1) > img",
+        "tag": "img",
+        "src": "https://cityofflinflon.ca/vertical/Sites/%7B5A694068-650F-4C44-B310-F72738598E93%7D/uploads/1X2A8110_Web.JPG",
+        "alt": "A guitarist plays to a large crowd in front of him outdoors.",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 800,
+        "naturalHeight": 533,
+        "box": {
+          "x": 60,
+          "y": 951,
+          "w": 598,
+          "h": 398.40625
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"/vertical/Sites/%7B5A694068-650F-4C44-B310-F72738598E93%7D/uploads/1X2A8110_Web.JPG\" alt=\"A guitarist plays to a large crowd in front of him outdoors.\">"
+      },
+      {
+        "target": "section > div:nth-of-type(2) > div > div:nth-of-type(1) > img",
+        "tag": "img",
+        "src": "https://cityofflinflon.ca/vertical/Sites/%7B5A694068-650F-4C44-B310-F72738598E93%7D/uploads/IMG_0478_Web.jpg",
+        "alt": "A highway sign indicating directions for passing through Flin Flon",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 800,
+        "naturalHeight": 533,
+        "box": {
+          "x": 708,
+          "y": 951,
+          "w": 598,
+          "h": 398.40625
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"/vertical/Sites/%7B5A694068-650F-4C44-B310-F72738598E93%7D/uploads/IMG_0478_Web.jpg\" alt=\"A highway sign indicating directions for passing through Flin Flon\">"
+      },
+      {
+        "target": "section > div:nth-of-type(3) > div > div:nth-of-type(1) > img",
+        "tag": "img",
+        "src": "https://cityofflinflon.ca/vertical/Sites/%7B5A694068-650F-4C44-B310-F72738598E93%7D/uploads/web_photos_2(2)_Web.jpg",
+        "alt": "A residential street in Flin Flon with homes beside the road.",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 800,
+        "naturalHeight": 600,
+        "box": {
+          "x": 60,
+          "y": 1394.40625,
+          "w": 598,
+          "h": 448.5
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"/vertical/Sites/%7B5A694068-650F-4C44-B310-F72738598E93%7D/uploads/web_photos_2(2)_Web.jpg\" alt=\"A residential street in Flin Flon with homes beside the road.\">"
+      },
+      {
+        "target": "section > div:nth-of-type(4) > div > div:nth-of-type(1) > img",
+        "tag": "img",
+        "src": "https://cityofflinflon.ca/vertical/Sites/%7B5A694068-650F-4C44-B310-F72738598E93%7D/uploads/1X2A4858(2)_Web.JPG",
+        "alt": "Overlooking Flin Flon and Ross Lake",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 800,
+        "naturalHeight": 533,
+        "box": {
+          "x": 708,
+          "y": 1394.40625,
+          "w": 598,
+          "h": 398.40625
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"/vertical/Sites/%7B5A694068-650F-4C44-B310-F72738598E93%7D/uploads/1X2A4858(2)_Web.JPG\" alt=\"Overlooking Flin Flon and Ross Lake\">"
+      },
+      {
+        "target": "section > div:nth-of-type(5) > div > div:nth-of-type(1) > img",
+        "tag": "img",
+        "src": "https://cityofflinflon.ca/vertical/Sites/%7B5A694068-650F-4C44-B310-F72738598E93%7D/uploads/campground_Web.jpg",
+        "alt": "campground",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 800,
+        "naturalHeight": 527,
+        "box": {
+          "x": 60,
+          "y": 1887.90625,
+          "w": 598,
+          "h": 393.921875
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"/vertical/Sites/%7B5A694068-650F-4C44-B310-F72738598E93%7D/uploads/campground_Web.jpg\" alt=\"campground\">"
+      },
+      {
+        "target": "section > div:nth-of-type(6) > div > div:nth-of-type(1) > img",
+        "tag": "img",
+        "src": "https://cityofflinflon.ca/vertical/Sites/%7B5A694068-650F-4C44-B310-F72738598E93%7D/uploads/recreation_Web.jpg",
+        "alt": "recreation",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 800,
+        "naturalHeight": 527,
+        "box": {
+          "x": 708,
+          "y": 1887.90625,
+          "w": 598,
+          "h": 393.921875
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"/vertical/Sites/%7B5A694068-650F-4C44-B310-F72738598E93%7D/uploads/recreation_Web.jpg\" alt=\"recreation\">"
+      },
+      {
+        "target": "section > div > article:nth-of-type(1) > div:nth-of-type(1) > img",
+        "tag": "img",
+        "src": "https://cityofflinflon.ca/repository/designs/templates/GO_flinflon-mb_2025_resp/images/defaultNotice.jpg",
+        "alt": "Flin Flon, MB",
+        "ariaLabel": "",
+        "role": "presentation",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 800,
+        "naturalHeight": 406,
+        "box": {
+          "x": 59.522491455078125,
+          "y": 2441.496826171875,
+          "w": 382.95501708984375,
+          "h": 265.66259765625
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"/repository/designs/templates/GO_flinflon-mb_2025_resp/images/defaultNotice.jpg\" alt=\"Flin Flon, MB\" role=\"presentation\">"
+      },
+      {
+        "target": "section > div > article:nth-of-type(2) > div:nth-of-type(1) > img",
+        "tag": "img",
+        "src": "https://cityofflinflon.ca/vertical/Sites/%7B5A694068-650F-4C44-B310-F72738598E93%7D/uploads/1X2A4926_Web.JPG",
+        "alt": "1X2A4926",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 800,
+        "naturalHeight": 533,
+        "box": {
+          "x": 491.5224914550781,
+          "y": 2441.496826171875,
+          "w": 382.9550476074219,
+          "h": 265.66259765625
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"/vertical/Sites/%7B5A694068-650F-4C44-B310-F72738598E93%7D/uploads/1X2A4926_Web.JPG\" alt=\"1X2A4926\">"
+      },
+      {
+        "target": "section > div > article:nth-of-type(3) > div:nth-of-type(1) > img",
+        "tag": "img",
+        "src": "https://cityofflinflon.ca/repository/designs/templates/GO_flinflon-mb_2025_resp/images/defaultNotice.jpg",
+        "alt": "Flin Flon, MB",
+        "ariaLabel": "",
+        "role": "presentation",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 800,
+        "naturalHeight": 406,
+        "box": {
+          "x": 923.5224609375,
+          "y": 2441.496826171875,
+          "w": 382.955078125,
+          "h": 265.66259765625
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"/repository/designs/templates/GO_flinflon-mb_2025_resp/images/defaultNotice.jpg\" alt=\"Flin Flon, MB\" role=\"presentation\">"
+      },
+      {
+        "target": "div:nth-of-type(2) > footer > div > div:nth-of-type(2) > img",
+        "tag": "img",
+        "src": "https://cityofflinflon.ca/repository/designs/templates/GO_flinflon-mb_2025_resp/images/footer-flin-flon-logo-white.svg",
+        "alt": "Flin Flon, MB",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 280,
+        "naturalHeight": 125,
+        "box": {
+          "x": 543.015625,
+          "y": 3164,
+          "w": 279.984375,
+          "h": 124.65625
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "",
+        "html": "<img class=\"footerlogo\" src=\"/repository/designs/templates/GO_flinflon-mb_2025_resp/images/footer-flin-flon-logo-white.svg\" alt=\"Flin Flon, MB\">"
+      }
+    ],
+    "links": [
+      {
+        "target": "#skipLink",
+        "text": "Skip to main content",
+        "ariaLabel": "",
+        "title": "",
+        "href": "#mainContent",
+        "imgAlt": "",
+        "box": {
+          "x": 0,
+          "y": -43,
+          "w": 168.484375,
+          "h": 37
+        },
+        "context": "",
+        "contextKind": "none",
+        "html": "<a href=\"#mainContent\" id=\"skipLink\">Skip to main content</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > a",
+        "text": "15.9° Clear Sky",
+        "ariaLabel": "",
+        "title": "",
+        "href": "#",
+        "imgAlt": "",
+        "box": {
+          "x": 84.1875,
+          "y": 20,
+          "w": 117.8125,
+          "h": 20
+        },
+        "context": "heading: FLIN FLON, MB | FLIN FLON, MB 15.9° Clear Sky Air Quality: Good Search",
+        "contextKind": "block",
+        "html": "<a href=\"#\" role=\"button\">15.9°&nbsp;&nbsp;clear sky</a>"
+      },
+      {
+        "target": "#searchbutton",
+        "text": "",
+        "ariaLabel": "search",
+        "title": "",
+        "href": "#",
+        "imgAlt": "",
+        "box": {
+          "x": 1306.6875,
+          "y": 20,
+          "w": 20,
+          "h": 20
+        },
+        "context": "heading: FLIN FLON, MB | FLIN FLON, MB 15.9° Clear Sky Air Quality: Good Search",
+        "contextKind": "block",
+        "html": "<a href=\"#\" id=\"searchbutton\" onclick=\"$('.search.bar').submit();\" role=\"button\" aria-label=\"search\" class=\"searchMag\">\n<i class=\"fa fa-search\" aria-label=\"search\" aria-hidden=\"true\">\n<!----></i>\n</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div:nth-of-type(3) > div > div:nth-of-type(2) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/",
+        "imgAlt": "Flin Flon, MB",
+        "box": {
+          "x": 60,
+          "y": 94.1796875,
+          "w": 279.984375,
+          "h": 127.640625
+        },
+        "context": "heading: FLIN FLON, MB",
+        "contextKind": "heading-only",
+        "html": "<a class=\"title\" href=\"/\"><img src=\"/repository/designs/templates/GO_flinflon-mb_2025_resp/images/nav-flon-flon-logo.svg\" alt=\"Flin Flon, MB\"></a>"
+      },
+      {
+        "target": "div > nav > ul > li:nth-of-type(1) > a",
+        "text": "HOME",
+        "ariaLabel": "Home",
+        "title": "",
+        "href": "/",
+        "imgAlt": "",
+        "box": {
+          "x": 390,
+          "y": 110,
+          "w": 22.25,
+          "h": 43
+        },
+        "context": "HOME",
+        "contextKind": "li",
+        "html": "<a href=\"/\" aria-label=\"Home\" class=\"nav-home\">\n<i class=\"fa-regular fa-house\" title=\"Home\" aria-hidden=\"true\"></i><span class=\"sr-only\">Home</span>\n</a>"
+      },
+      {
+        "target": "div > nav > ul > li:nth-of-type(2) > a",
+        "text": "RESIDENTS show submenu for Residents ▼",
+        "ariaLabel": "",
+        "title": "",
+        "href": "//cityofflinflon.ca/residents",
+        "imgAlt": "",
+        "box": {
+          "x": 467.46875,
+          "y": 110,
+          "w": 142.875,
+          "h": 43
+        },
+        "context": "RESIDENTS show submenu for Residents ▼",
+        "contextKind": "li",
+        "html": "<a href=\"//cityofflinflon.ca/residents\" aria-haspopup=\"true\" aria-expanded=\"false\"><span>Residents</span><button class=\"triangle\" tabindex=\"0\"><span class=\"hidden\">show submenu for Residents</span>▼</button></a>"
+      },
+      {
+        "target": "div > nav > ul > li:nth-of-type(3) > a",
+        "text": "RECREATION show submenu for Recreation ▼",
+        "ariaLabel": "",
+        "title": "",
+        "href": "//cityofflinflon.ca/recreation",
+        "imgAlt": "",
+        "box": {
+          "x": 665.546875,
+          "y": 110,
+          "w": 159.296875,
+          "h": 43
+        },
+        "context": "RECREATION show submenu for Recreation ▼",
+        "contextKind": "li",
+        "html": "<a href=\"//cityofflinflon.ca/recreation\" aria-haspopup=\"true\" aria-expanded=\"false\"><span>Recreation</span><button class=\"triangle\" tabindex=\"0\"><span class=\"hidden\">show submenu for Recreation</span>▼</button></a>"
+      },
+      {
+        "target": "div > nav > ul > li:nth-of-type(4) > a",
+        "text": "GOVERNMENT show submenu for Government ▼",
+        "ariaLabel": "",
+        "title": "",
+        "href": "//cityofflinflon.ca/government",
+        "imgAlt": "",
+        "box": {
+          "x": 880.0625,
+          "y": 110,
+          "w": 172.578125,
+          "h": 43
+        },
+        "context": "GOVERNMENT show submenu for Government ▼",
+        "contextKind": "li",
+        "html": "<a href=\"//cityofflinflon.ca/government\" aria-haspopup=\"true\" aria-expanded=\"false\"><span>Government</span><button class=\"triangle\" tabindex=\"0\"><span class=\"hidden\">show submenu for Government</span>▼</button></a>"
+      },
+      {
+        "target": "div > nav > ul > li:nth-of-type(5) > a",
+        "text": "VISIT FLIN FLON show submenu for Visit Flin Flon ▼",
+        "ariaLabel": "",
+        "title": "",
+        "href": "//cityofflinflon.ca/visit-flin-flon",
+        "imgAlt": "",
+        "box": {
+          "x": 1107.84375,
+          "y": 110,
+          "w": 198.15625,
+          "h": 43
+        },
+        "context": "VISIT FLIN FLON show submenu for Visit Flin Flon ▼",
+        "contextKind": "li",
+        "html": "<a href=\"//cityofflinflon.ca/visit-flin-flon\" aria-haspopup=\"true\" aria-expanded=\"false\"><span>Visit Flin Flon</span><button class=\"triangle\" tabindex=\"0\"><span class=\"hidden\">show submenu for Visit Flin Flon</span>▼</button></a>"
+      },
+      {
+        "target": "body > div:nth-of-type(2) > div:nth-of-type(4) > div > a:nth-of-type(1)",
+        "text": "",
+        "ariaLabel": "opens in a new tab - Opens in a new tab",
+        "title": "Connect with us on Facebook",
+        "href": "https://www.facebook.com/thecityofflinflon",
+        "imgAlt": "Facebook",
+        "box": {
+          "x": 1316,
+          "y": 360,
+          "w": 50,
+          "h": 46
+        },
+        "context": "heading: FLIN FLON, MB",
+        "contextKind": "heading-only",
+        "html": "<a class=\"facebook\" href=\"https://www.facebook.com/thecityofflinflon\" title=\"Connect with us on Facebook\" target=\"_blank\" aria-label=\"opens in a new tab - Opens in a new tab\"><img src=\"/repository/designs/images/social/fixed/fb-ko.png\" alt=\"Facebook\"></a>"
+      },
+      {
+        "target": "body > div:nth-of-type(2) > div:nth-of-type(4) > div > a:nth-of-type(2)",
+        "text": "",
+        "ariaLabel": "opens in a new tab - Opens in a new tab",
+        "title": "Connect with us on Instagram",
+        "href": "https://www.instagram.com/thecityofflinflon/",
+        "imgAlt": "Instagram",
+        "box": {
+          "x": 1316,
+          "y": 410,
+          "w": 50,
+          "h": 46
+        },
+        "context": "heading: FLIN FLON, MB",
+        "contextKind": "heading-only",
+        "html": "<a class=\"instagram\" href=\"https://www.instagram.com/thecityofflinflon/\" title=\"Connect with us on Instagram\" target=\"_blank\" aria-label=\"opens in a new tab - Opens in a new tab\"><img src=\"/repository/designs/images/social/fixed/in-ko.png\" alt=\"Instagram\"></a>"
+      },
+      {
+        "target": "body > div:nth-of-type(2) > div:nth-of-type(4) > div > a:nth-of-type(3)",
+        "text": "",
+        "ariaLabel": "opens in a new tab - Opens in a new tab",
+        "title": "Connect with us on YouTube",
+        "href": "https://www.youtube.com/@FlinFlon",
+        "imgAlt": "YouTube",
+        "box": {
+          "x": 1316,
+          "y": 460,
+          "w": 50,
+          "h": 46
+        },
+        "context": "heading: FLIN FLON, MB",
+        "contextKind": "heading-only",
+        "html": "<a class=\"youtube\" href=\"https://www.youtube.com/@FlinFlon\" title=\"Connect with us on YouTube\" target=\"_blank\" aria-label=\"opens in a new tab - Opens in a new tab\"><img src=\"/repository/designs/images/social/fixed/yt-ko.png\" alt=\"YouTube\"></a>"
+      },
+      {
+        "target": "#IDAN0J0R > div > a",
+        "text": "LEARN MORE",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://flinflonmb.web.catalisgov.ca/employment",
+        "imgAlt": "",
+        "box": {
+          "x": -1306,
+          "y": 496.59375,
+          "w": 220,
+          "h": 50
+        },
+        "context": "heading: FLIN FLON, MB | WE'RE HIRING A UTILITIES SUPERVISOR Check out our available roles! LEARN MORE",
+        "contextKind": "block",
+        "html": "<a class=\"readmore\" href=\"https://flinflonmb.web.catalisgov.ca/employment\">Learn more</a>"
+      },
+      {
+        "target": "#IDAMQL0R > div > a",
+        "text": "FILL OUT THE FORM",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://forms.gle/4DNQnxwzRGs1nkwK8",
+        "imgAlt": "",
+        "box": {
+          "x": 60,
+          "y": 496.59375,
+          "w": 253.75,
+          "h": 50
+        },
+        "context": "heading: FLIN FLON, MB | EMERGENCY PRE-REGISTRATION Help us plan for city-wide emergencies. FILL OUT THE FORM",
+        "contextKind": "block",
+        "html": "<a class=\"readmore\" href=\"https://forms.gle/4DNQnxwzRGs1nkwK8\">Fill out the form</a>"
+      },
+      {
+        "target": "#IDAFKL0R > div > a",
+        "text": "LEARN MORE",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/truck-routes",
+        "imgAlt": "",
+        "box": {
+          "x": 1426,
+          "y": 521.59375,
+          "w": 220,
+          "h": 50
+        },
+        "context": "heading: FLIN FLON, MB | IMPORTANT TRUCKING ROUTES Semis should continue straight down Provincial Trunk Highway #10, signs for City Centre. LEARN MORE",
+        "contextKind": "block",
+        "html": "<a class=\"readmore\" href=\"/truck-routes\">Learn More</a>"
+      },
+      {
+        "target": "div:nth-of-type(1) > div > div:nth-of-type(1) > div > a",
+        "text": "Agendas & Minutes",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/agendas-minutes",
+        "imgAlt": "",
+        "box": {
+          "x": -1003.78125,
+          "y": 800,
+          "w": 147.96875,
+          "h": 70
+        },
+        "context": "heading: FLIN FLON, MB",
+        "contextKind": "heading-only",
+        "html": "<a href=\"/agendas-minutes\" rel=\"noopener\">\n<i class=\"fa-regular fa-files\" aria-hidden=\"true\"></i>\n<div class=\"title\">Agendas &amp; Minutes</div>\n</a>"
+      },
+      {
+        "target": "div:nth-of-type(1) > div > div:nth-of-type(2) > div > a",
+        "text": "Bus Schedule",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/transit-transportation",
+        "imgAlt": "",
+        "box": {
+          "x": -750.3125,
+          "y": 800,
+          "w": 102.1875,
+          "h": 70
+        },
+        "context": "heading: FLIN FLON, MB",
+        "contextKind": "heading-only",
+        "html": "<a href=\"/transit-transportation\" rel=\"noopener\">\n<i class=\"fa-regular fa-bus\" aria-hidden=\"true\"></i>\n<div class=\"title\">Bus Schedule</div>\n</a>"
+      },
+      {
+        "target": "div:nth-of-type(1) > div > div:nth-of-type(3) > div > a",
+        "text": "Emergency Contacts",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/emergency-contacts",
+        "imgAlt": "",
+        "box": {
+          "x": -546.71875,
+          "y": 800,
+          "w": 156.15625,
+          "h": 70
+        },
+        "context": "heading: FLIN FLON, MB",
+        "contextKind": "heading-only",
+        "html": "<a href=\"/emergency-contacts\" rel=\"noopener\">\n<i class=\"fa-regular fa-exclamation\" aria-hidden=\"true\"></i>\n<div class=\"title\">Emergency Contacts</div>\n</a>"
+      },
+      {
+        "target": "div:nth-of-type(1) > div > div:nth-of-type(4) > div > a",
+        "text": "Property For Sale",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/property-for-sale",
+        "imgAlt": "",
+        "box": {
+          "x": -304.5625,
+          "y": 800,
+          "w": 133.015625,
+          "h": 70
+        },
+        "context": "heading: FLIN FLON, MB",
+        "contextKind": "heading-only",
+        "html": "<a href=\"/property-for-sale\" rel=\"noopener\">\n<i class=\"fa-regular fa-sign\" aria-hidden=\"true\"></i>\n<div class=\"title\">Property For Sale</div>\n</a>"
+      },
+      {
+        "target": "div:nth-of-type(1) > div > div:nth-of-type(5) > div > a",
+        "text": "Employment",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/employment",
+        "imgAlt": "",
+        "box": {
+          "x": -57.484375,
+          "y": 800,
+          "w": 100,
+          "h": 70
+        },
+        "context": "heading: FLIN FLON, MB",
+        "contextKind": "heading-only",
+        "html": "<a href=\"/employment\" rel=\"noopener\">\n<i class=\"fa-regular fa-briefcase\" aria-hidden=\"true\"></i>\n<div class=\"title\">Employment</div>\n</a>"
+      },
+      {
+        "target": "div:nth-of-type(1) > div > div:nth-of-type(6) > div > a",
+        "text": "Property Taxes",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/property-taxes",
+        "imgAlt": "",
+        "box": {
+          "x": 165.71875,
+          "y": 800,
+          "w": 114.765625,
+          "h": 70
+        },
+        "context": "heading: FLIN FLON, MB",
+        "contextKind": "heading-only",
+        "html": "<a href=\"/property-taxes\" rel=\"noopener\">\n<i class=\"fa-regular fa-badge-dollar\" aria-hidden=\"true\"></i>\n<div class=\"title\">Property Taxes</div>\n</a>"
+      },
+      {
+        "target": "div:nth-of-type(1) > div > div:nth-of-type(7) > div > a",
+        "text": "Agendas & Minutes",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/agendas-minutes",
+        "imgAlt": "",
+        "box": {
+          "x": 379.6875,
+          "y": 800,
+          "w": 147.96875,
+          "h": 70
+        },
+        "context": "heading: FLIN FLON, MB",
+        "contextKind": "heading-only",
+        "html": "<a href=\"/agendas-minutes\" rel=\"noopener\">\n<i class=\"fa-regular fa-files\" aria-hidden=\"true\"></i>\n<div class=\"title\">Agendas &amp; Minutes</div>\n</a>"
+      },
+      {
+        "target": "div:nth-of-type(1) > div > div:nth-of-type(8) > div > a",
+        "text": "Bus Schedule",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/transit-transportation",
+        "imgAlt": "",
+        "box": {
+          "x": 633.15625,
+          "y": 800,
+          "w": 102.1875,
+          "h": 70
+        },
+        "context": "heading: FLIN FLON, MB",
+        "contextKind": "heading-only",
+        "html": "<a href=\"/transit-transportation\" rel=\"noopener\">\n<i class=\"fa-regular fa-bus\" aria-hidden=\"true\"></i>\n<div class=\"title\">Bus Schedule</div>\n</a>"
+      },
+      {
+        "target": "div:nth-of-type(1) > div > div:nth-of-type(9) > div > a",
+        "text": "Emergency Contacts",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/emergency-contacts",
+        "imgAlt": "",
+        "box": {
+          "x": 836.75,
+          "y": 800,
+          "w": 156.15625,
+          "h": 70
+        },
+        "context": "heading: FLIN FLON, MB",
+        "contextKind": "heading-only",
+        "html": "<a href=\"/emergency-contacts\" rel=\"noopener\">\n<i class=\"fa-regular fa-exclamation\" aria-hidden=\"true\"></i>\n<div class=\"title\">Emergency Contacts</div>\n</a>"
+      },
+      {
+        "target": "div:nth-of-type(1) > div > div:nth-of-type(10) > div > a",
+        "text": "Property For Sale",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/property-for-sale",
+        "imgAlt": "",
+        "box": {
+          "x": 1078.90625,
+          "y": 800,
+          "w": 133.015625,
+          "h": 70
+        },
+        "context": "heading: FLIN FLON, MB",
+        "contextKind": "heading-only",
+        "html": "<a href=\"/property-for-sale\" rel=\"noopener\">\n<i class=\"fa-regular fa-sign\" aria-hidden=\"true\"></i>\n<div class=\"title\">Property For Sale</div>\n</a>"
+      },
+      {
+        "target": "div:nth-of-type(1) > div > div:nth-of-type(11) > div > a",
+        "text": "Employment",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/employment",
+        "imgAlt": "",
+        "box": {
+          "x": 1325.984375,
+          "y": 800,
+          "w": 100,
+          "h": 70
+        },
+        "context": "heading: FLIN FLON, MB",
+        "contextKind": "heading-only",
+        "html": "<a href=\"/employment\" rel=\"noopener\">\n<i class=\"fa-regular fa-briefcase\" aria-hidden=\"true\"></i>\n<div class=\"title\">Employment</div>\n</a>"
+      },
+      {
+        "target": "div:nth-of-type(1) > div > div:nth-of-type(12) > div > a",
+        "text": "Property Taxes",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/property-taxes",
+        "imgAlt": "",
+        "box": {
+          "x": 1549.1875,
+          "y": 800,
+          "w": 114.765625,
+          "h": 70
+        },
+        "context": "heading: FLIN FLON, MB",
+        "contextKind": "heading-only",
+        "html": "<a href=\"/property-taxes\" rel=\"noopener\">\n<i class=\"fa-regular fa-badge-dollar\" aria-hidden=\"true\"></i>\n<div class=\"title\">Property Taxes</div>\n</a>"
+      },
+      {
+        "target": "div:nth-of-type(1) > div > div:nth-of-type(13) > div > a",
+        "text": "Agendas & Minutes",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/agendas-minutes",
+        "imgAlt": "",
+        "box": {
+          "x": 1763.15625,
+          "y": 800,
+          "w": 147.96875,
+          "h": 70
+        },
+        "context": "heading: FLIN FLON, MB",
+        "contextKind": "heading-only",
+        "html": "<a href=\"/agendas-minutes\" rel=\"noopener\">\n<i class=\"fa-regular fa-files\" aria-hidden=\"true\"></i>\n<div class=\"title\">Agendas &amp; Minutes</div>\n</a>"
+      },
+      {
+        "target": "div:nth-of-type(1) > div > div:nth-of-type(14) > div > a",
+        "text": "Bus Schedule",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/transit-transportation",
+        "imgAlt": "",
+        "box": {
+          "x": 2016.625,
+          "y": 800,
+          "w": 102.1875,
+          "h": 70
+        },
+        "context": "heading: FLIN FLON, MB",
+        "contextKind": "heading-only",
+        "html": "<a href=\"/transit-transportation\" rel=\"noopener\">\n<i class=\"fa-regular fa-bus\" aria-hidden=\"true\"></i>\n<div class=\"title\">Bus Schedule</div>\n</a>"
+      },
+      {
+        "target": "div:nth-of-type(1) > div > div:nth-of-type(15) > div > a",
+        "text": "Emergency Contacts",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/emergency-contacts",
+        "imgAlt": "",
+        "box": {
+          "x": 2220.21875,
+          "y": 800,
+          "w": 156.15625,
+          "h": 70
+        },
+        "context": "heading: FLIN FLON, MB",
+        "contextKind": "heading-only",
+        "html": "<a href=\"/emergency-contacts\" rel=\"noopener\">\n<i class=\"fa-regular fa-exclamation\" aria-hidden=\"true\"></i>\n<div class=\"title\">Emergency Contacts</div>\n</a>"
+      },
+      {
+        "target": "div:nth-of-type(1) > div > div:nth-of-type(16) > div > a",
+        "text": "Property For Sale",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/property-for-sale",
+        "imgAlt": "",
+        "box": {
+          "x": 2462.375,
+          "y": 800,
+          "w": 133.015625,
+          "h": 70
+        },
+        "context": "heading: FLIN FLON, MB",
+        "contextKind": "heading-only",
+        "html": "<a href=\"/property-for-sale\" rel=\"noopener\">\n<i class=\"fa-regular fa-sign\" aria-hidden=\"true\"></i>\n<div class=\"title\">Property For Sale</div>\n</a>"
+      },
+      {
+        "target": "section > div:nth-of-type(1) > div > h2 > a",
+        "text": "UPCOMING EVENTS",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/upcoming-events",
+        "imgAlt": "",
+        "box": {
+          "x": 256.90625,
+          "y": 1300.40625,
+          "w": 204.1875,
+          "h": 23
+        },
+        "context": "heading: UPCOMING EVENTS | EXPLORE CITY HIGHLIGHTS UPCOMING EVENTS SEMI TRUCK ROUTES ONE-DOLLAR LOTS PROPERTY FOR SALE BOOK A FACILITY WORK WITH US",
+        "contextKind": "block",
+        "html": "<a href=\"/upcoming-events\">Upcoming Events</a>"
+      },
+      {
+        "target": "section > div:nth-of-type(2) > div > h2 > a",
+        "text": "SEMI TRUCK ROUTES",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/truck-routes",
+        "imgAlt": "",
+        "box": {
+          "x": 896.15625,
+          "y": 1300.40625,
+          "w": 221.6875,
+          "h": 23
+        },
+        "context": "heading: SEMI TRUCK ROUTES | EXPLORE CITY HIGHLIGHTS UPCOMING EVENTS SEMI TRUCK ROUTES ONE-DOLLAR LOTS PROPERTY FOR SALE BOOK A FACILITY WORK WITH US",
+        "contextKind": "block",
+        "html": "<a href=\"/truck-routes\">Semi Truck Routes</a>"
+      },
+      {
+        "target": "section > div:nth-of-type(3) > div > h2 > a",
+        "text": "ONE-DOLLAR LOTS",
+        "ariaLabel": "Opens in a new tab",
+        "title": "",
+        "href": "/one-dollar-lots",
+        "imgAlt": "",
+        "box": {
+          "x": 258.859375,
+          "y": 1793.90625,
+          "w": 200.28125,
+          "h": 23
+        },
+        "context": "heading: ONE-DOLLAR LOTS | EXPLORE CITY HIGHLIGHTS UPCOMING EVENTS SEMI TRUCK ROUTES ONE-DOLLAR LOTS PROPERTY FOR SALE BOOK A FACILITY WORK WITH US",
+        "contextKind": "block",
+        "html": "<a href=\"/one-dollar-lots\" target=\"_blank\" aria-label=\"Opens in a new tab\">One-Dollar Lots</a>"
+      },
+      {
+        "target": "section > div:nth-of-type(4) > div > h2 > a",
+        "text": "PROPERTY FOR SALE",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/property-for-sale",
+        "imgAlt": "",
+        "box": {
+          "x": 895.53125,
+          "y": 1793.90625,
+          "w": 222.921875,
+          "h": 23
+        },
+        "context": "heading: PROPERTY FOR SALE | EXPLORE CITY HIGHLIGHTS UPCOMING EVENTS SEMI TRUCK ROUTES ONE-DOLLAR LOTS PROPERTY FOR SALE BOOK A FACILITY WORK WITH US",
+        "contextKind": "block",
+        "html": "<a href=\"/property-for-sale\">Property for Sale</a>"
+      },
+      {
+        "target": "section > div:nth-of-type(5) > div > h2 > a",
+        "text": "BOOK A FACILITY",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://cityofflinflon.perfectmind.com/SocialSite/MemberRegistration/MemberSignIn",
+        "imgAlt": "",
+        "box": {
+          "x": 267,
+          "y": 2232.828125,
+          "w": 183.984375,
+          "h": 23
+        },
+        "context": "heading: BOOK A FACILITY | EXPLORE CITY HIGHLIGHTS UPCOMING EVENTS SEMI TRUCK ROUTES ONE-DOLLAR LOTS PROPERTY FOR SALE BOOK A FACILITY WORK WITH US",
+        "contextKind": "block",
+        "html": "<a href=\"https://cityofflinflon.perfectmind.com/SocialSite/MemberRegistration/MemberSignIn\">Book a Facility</a>"
+      },
+      {
+        "target": "section > div:nth-of-type(6) > div > h2 > a",
+        "text": "WORK WITH US",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/employment",
+        "imgAlt": "",
+        "box": {
+          "x": 923.09375,
+          "y": 2232.828125,
+          "w": 167.8125,
+          "h": 23
+        },
+        "context": "heading: WORK WITH US | EXPLORE CITY HIGHLIGHTS UPCOMING EVENTS SEMI TRUCK ROUTES ONE-DOLLAR LOTS PROPERTY FOR SALE BOOK A FACILITY WORK WITH US",
+        "contextKind": "block",
+        "html": "<a href=\"/employment\">Work With Us</a>"
+      },
+      {
+        "target": "div > article:nth-of-type(1) > div:nth-of-type(2) > h3 > a",
+        "text": "Flin Flon & Creighton Community Safety & Well-Being Survey, Deadline To Participate: June 15, 2026",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/index.asp?SEC=5BAE99CB-911F-49A1-A2D8-1599C048E2DD&DE=B8B1B9C7-96B8-40D9-8FC6-2BE53095834B",
+        "imgAlt": "",
+        "box": {
+          "x": 95,
+          "y": 2737.828125,
+          "w": 276.046875,
+          "h": 119
+        },
+        "context": "heading: Flin Flon & Creighton Community Safety & Well-Being Survey, Deadline To Participate: June 15, 2026 | Flin Flon & Creighton Community Safety & Well-Being Survey, Deadline To Participate: June 15, 2026",
+        "contextKind": "block",
+        "html": "<a class=\"item\" href=\"/index.asp?SEC=5BAE99CB-911F-49A1-A2D8-1599C048E2DD&amp;DE=B8B1B9C7-96B8-40D9-8FC6-2BE53095834B\">Flin Flon &amp; Creighton Community Safety &amp; Well-Being Survey, Deadline to participate: June 15, 2026</a>"
+      },
+      {
+        "target": "div > article:nth-of-type(2) > div:nth-of-type(2) > h3 > a",
+        "text": "New Water Delivery For Channing And Waly Heights",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/index.asp?SEC=5BAE99CB-911F-49A1-A2D8-1599C048E2DD&DE=28E6BB54-88F5-437D-B619-32F0074DA80B",
+        "imgAlt": "",
+        "box": {
+          "x": 527,
+          "y": 2737.828125,
+          "w": 296.375,
+          "h": 63
+        },
+        "context": "heading: New Water Delivery For Channing And Waly Heights | New Water Delivery For Channing And Waly Heights",
+        "contextKind": "block",
+        "html": "<a class=\"item\" href=\"/index.asp?SEC=5BAE99CB-911F-49A1-A2D8-1599C048E2DD&amp;DE=28E6BB54-88F5-437D-B619-32F0074DA80B\">New Water Delivery For Channing and Waly Heights</a>"
+      },
+      {
+        "target": "div > article:nth-of-type(3) > div:nth-of-type(2) > h3 > a",
+        "text": "2026 Emergency Pre-Registration Form",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/index.asp?SEC=5BAE99CB-911F-49A1-A2D8-1599C048E2DD&DE=5CF5E739-C93B-416F-860A-406B8D6E4863",
+        "imgAlt": "",
+        "box": {
+          "x": 959,
+          "y": 2737.828125,
+          "w": 223.875,
+          "h": 63
+        },
+        "context": "heading: 2026 Emergency Pre-Registration Form | 2026 Emergency Pre-Registration Form Monday, April 20, 2026 At 5:35 PM",
+        "contextKind": "block",
+        "html": "<a class=\"item\" href=\"/index.asp?SEC=5BAE99CB-911F-49A1-A2D8-1599C048E2DD&amp;DE=5CF5E739-C93B-416F-860A-406B8D6E4863\">2026 Emergency Pre-Registration Form</a>"
+      },
+      {
+        "target": "div:nth-of-type(8) > section > div > div > a",
+        "text": "VIEW ALL NEWS",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/index.asp?SEC=5BAE99CB-911F-49A1-A2D8-1599C048E2DD",
+        "imgAlt": "",
+        "box": {
+          "x": 573,
+          "y": 2964.828125,
+          "w": 220,
+          "h": 50
+        },
+        "context": "heading: 2026 Emergency Pre-Registration Form",
+        "contextKind": "heading-only",
+        "html": "<a href=\"/index.asp?SEC=5BAE99CB-911F-49A1-A2D8-1599C048E2DD\">view all news</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a",
+        "text": "20 First Avenue, Flin Flon R8A 0T7",
+        "ariaLabel": "Opens in a new tab",
+        "title": "",
+        "href": "https://www.google.com/maps/place/20+1+Ave,+Flin+Flon,+MB+R8A+0T7,+Canada/@54.7684401,-101.8761983,19z/data=!4m6!3m5!1s0x52f87053d22719b9:0x175fb90d580f59f5!8m2!3d54.7686122!4d-101.8765579!16s%2Fg%2F11bw3z698z?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+        "imgAlt": "",
+        "box": {
+          "x": 140.5625,
+          "y": 3188.328125,
+          "w": 254.21875,
+          "h": 20
+        },
+        "context": "heading: CONTACT US | CONTACT US 20 First Avenue, Flin Flon R8A 0T7 Phone: 833-210-6435 | Email: info@flinflon.ca",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.google.com/maps/place/20+1+Ave,+Flin+Flon,+MB+R8A+0T7,+Canada/@54.7684401,-101.8761983,19z/data=!4m6!3m5!1s0x52f87053d22719b9:0x175fb90d580f59f5!8m2!3d54.7686122!4d-101.8765579!16s%2Fg%2F11bw3z698z?entry=ttu&amp;g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D\" target=\"_blank\" aria-lab"
+      },
+      {
+        "target": "div > div:nth-of-type(3) > div:nth-of-type(2) > div > a:nth-of-type(1)",
+        "text": "GOVERNMENT WEBSITES BY CATALIS",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://catalisgov.com",
+        "imgAlt": "",
+        "box": {
+          "x": 913.4375,
+          "y": 3269.828125,
+          "w": 356.890625,
+          "h": 28
+        },
+        "context": "heading: OFFICE HOURS | GOVERNMENT WEBSITES BY CATALIS | PRIVACY POLICY",
+        "contextKind": "block",
+        "html": "<a href=\"https://catalisgov.com\" target=\"blank\">Government Websites by Catalis</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(3) > div:nth-of-type(2) > div > a:nth-of-type(2)",
+        "text": "PRIVACY POLICY",
+        "ariaLabel": "Opens in a new tab",
+        "title": "",
+        "href": "https://catalisgov.com/privacy-policy/",
+        "imgAlt": "",
+        "box": {
+          "x": 1018.625,
+          "y": 3289.828125,
+          "w": 159.40625,
+          "h": 28
+        },
+        "context": "heading: OFFICE HOURS | GOVERNMENT WEBSITES BY CATALIS | PRIVACY POLICY",
+        "contextKind": "block",
+        "html": "<a class=\"privacypolicylink\" href=\"https://catalisgov.com/privacy-policy/\" target=\"_blank\" aria-label=\"Opens in a new tab\">Privacy Policy</a>"
+      }
+    ],
+    "headings": [
+      {
+        "target": "div:nth-of-type(2) > nav > ul > li:nth-of-type(2) > h1",
+        "level": 1,
+        "text": "Flin Flon, MB",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h1>Flin Flon, MB<!----></h1>"
+      },
+      {
+        "target": "div:nth-of-type(3) > div > div:nth-of-type(1) > div:nth-of-type(1) > h1",
+        "level": 1,
+        "text": "FLIN FLON, MB",
+        "visible": true,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 244,
+          "h": 48
+        },
+        "html": "<h1>Flin Flon, MB<!----></h1>"
+      },
+      {
+        "target": "#IDAN0J0R > div > div:nth-of-type(1)",
+        "level": 0,
+        "text": "WE'RE HIRING A",
+        "visible": true,
+        "box": {
+          "x": -1306,
+          "y": 328.59375,
+          "w": 678.21875,
+          "h": 40
+        },
+        "html": "<div class=\"title\" role=\"heading\">We're hiring a<!----></div>"
+      },
+      {
+        "target": "#IDAN0J0R > div > div:nth-of-type(2)",
+        "level": 0,
+        "text": "UTILITIES SUPERVISOR",
+        "visible": true,
+        "box": {
+          "x": -1306,
+          "y": 368.59375,
+          "w": 678.21875,
+          "h": 58
+        },
+        "html": "<div class=\"subtitle\" role=\"heading\">Utilities Supervisor<!----></div>"
+      },
+      {
+        "target": "#IDAMQL0R > div > div:nth-of-type(1)",
+        "level": 0,
+        "text": "EMERGENCY",
+        "visible": true,
+        "box": {
+          "x": 60,
+          "y": 328.59375,
+          "w": 575.109375,
+          "h": 40
+        },
+        "html": "<div class=\"title\" role=\"heading\">Emergency<!----></div>"
+      },
+      {
+        "target": "#IDAMQL0R > div > div:nth-of-type(2)",
+        "level": 0,
+        "text": "PRE-REGISTRATION",
+        "visible": true,
+        "box": {
+          "x": 60,
+          "y": 368.59375,
+          "w": 575.109375,
+          "h": 58
+        },
+        "html": "<div class=\"subtitle\" role=\"heading\">Pre-Registration<!----></div>"
+      },
+      {
+        "target": "#IDAFKL0R > div > div:nth-of-type(1)",
+        "level": 0,
+        "text": "IMPORTANT",
+        "visible": true,
+        "box": {
+          "x": 1426,
+          "y": 328.59375,
+          "w": 668.59375,
+          "h": 40
+        },
+        "html": "<div class=\"title\" role=\"heading\">Important<!----></div>"
+      },
+      {
+        "target": "#IDAFKL0R > div > div:nth-of-type(2)",
+        "level": 0,
+        "text": "TRUCKING ROUTES",
+        "visible": true,
+        "box": {
+          "x": 1426,
+          "y": 368.59375,
+          "w": 668.59375,
+          "h": 58
+        },
+        "html": "<div class=\"subtitle\" role=\"heading\">Trucking Routes<!----></div>"
+      },
+      {
+        "target": "div > div > div > section > h2",
+        "level": 2,
+        "text": "EXPLORE",
+        "visible": true,
+        "box": {
+          "x": 60,
+          "y": 850,
+          "w": 1246,
+          "h": 28
+        },
+        "html": "<h2>Explore</h2>"
+      },
+      {
+        "target": "div > div > div > section > h3",
+        "level": 3,
+        "text": "CITY HIGHLIGHTS",
+        "visible": true,
+        "box": {
+          "x": 60,
+          "y": 878,
+          "w": 1246,
+          "h": 48
+        },
+        "html": "<h3 class=\"subtitle\">City Highlights</h3>"
+      },
+      {
+        "target": "div > section > div:nth-of-type(1) > div > h2",
+        "level": 2,
+        "text": "UPCOMING EVENTS",
+        "visible": true,
+        "box": {
+          "x": 60,
+          "y": 1274.40625,
+          "w": 598,
+          "h": 75
+        },
+        "html": "<h2><a href=\"/upcoming-events\">Upcoming Events</a></h2>"
+      },
+      {
+        "target": "div > section > div:nth-of-type(2) > div > h2",
+        "level": 2,
+        "text": "SEMI TRUCK ROUTES",
+        "visible": true,
+        "box": {
+          "x": 708,
+          "y": 1274.40625,
+          "w": 598,
+          "h": 75
+        },
+        "html": "<h2><a href=\"/truck-routes\">Semi Truck Routes</a></h2>"
+      },
+      {
+        "target": "div > section > div:nth-of-type(3) > div > h2",
+        "level": 2,
+        "text": "ONE-DOLLAR LOTS",
+        "visible": true,
+        "box": {
+          "x": 60,
+          "y": 1767.90625,
+          "w": 598,
+          "h": 75
+        },
+        "html": "<h2><a href=\"/one-dollar-lots\" target=\"_blank\" aria-label=\"Opens in a new tab\">One-Dollar Lots</a></h2>"
+      },
+      {
+        "target": "div > section > div:nth-of-type(4) > div > h2",
+        "level": 2,
+        "text": "PROPERTY FOR SALE",
+        "visible": true,
+        "box": {
+          "x": 708,
+          "y": 1767.90625,
+          "w": 598,
+          "h": 75
+        },
+        "html": "<h2><a href=\"/property-for-sale\">Property for Sale</a></h2>"
+      },
+      {
+        "target": "div > section > div:nth-of-type(5) > div > h2",
+        "level": 2,
+        "text": "BOOK A FACILITY",
+        "visible": true,
+        "box": {
+          "x": 60,
+          "y": 2206.828125,
+          "w": 598,
+          "h": 75
+        },
+        "html": "<h2><a href=\"https://cityofflinflon.perfectmind.com/SocialSite/MemberRegistration/MemberSignIn\">Book a Facility</a></h2>"
+      },
+      {
+        "target": "div > section > div:nth-of-type(6) > div > h2",
+        "level": 2,
+        "text": "WORK WITH US",
+        "visible": true,
+        "box": {
+          "x": 708,
+          "y": 2206.828125,
+          "w": 598,
+          "h": 75
+        },
+        "html": "<h2><a href=\"/employment\">Work With Us</a></h2>"
+      },
+      {
+        "target": "body > div:nth-of-type(2) > div:nth-of-type(8) > section > h2",
+        "level": 2,
+        "text": "CITY UPDATES",
+        "visible": true,
+        "box": {
+          "x": 60,
+          "y": 2336.828125,
+          "w": 1246,
+          "h": 30
+        },
+        "html": "<h2>City Updates</h2>"
+      },
+      {
+        "target": "body > div:nth-of-type(2) > div:nth-of-type(8) > section > h3",
+        "level": 3,
+        "text": "LATEST NOTICES",
+        "visible": true,
+        "box": {
+          "x": 60,
+          "y": 2366.828125,
+          "w": 1246,
+          "h": 50
+        },
+        "html": "<h3 class=\"subtitle\">Latest Notices</h3>"
+      },
+      {
+        "target": "section > div > article:nth-of-type(1) > div:nth-of-type(2) > h3",
+        "level": 3,
+        "text": "Flin Flon & Creighton Community Safety & Well-Being Survey, Deadline To Participate: June 15, 2026",
+        "visible": true,
+        "box": {
+          "x": 60,
+          "y": 2741.828125,
+          "w": 382,
+          "h": 117
+        },
+        "html": "<h3><a class=\"item\" href=\"/index.asp?SEC=5BAE99CB-911F-49A1-A2D8-1599C048E2DD&amp;DE=B8B1B9C7-96B8-40D9-8FC6-2BE53095834B\">Flin Flon &amp; Creighton Community Safety &amp; Well-Being Survey, Deadline to participate: June 15, 2026</a>\n</h3>"
+      },
+      {
+        "target": "section > div > article:nth-of-type(2) > div:nth-of-type(2) > h3",
+        "level": 3,
+        "text": "New Water Delivery For Channing And Waly Heights",
+        "visible": true,
+        "box": {
+          "x": 492,
+          "y": 2741.828125,
+          "w": 382,
+          "h": 61
+        },
+        "html": "<h3><a class=\"item\" href=\"/index.asp?SEC=5BAE99CB-911F-49A1-A2D8-1599C048E2DD&amp;DE=28E6BB54-88F5-437D-B619-32F0074DA80B\">New Water Delivery For Channing and Waly Heights</a>\n</h3>"
+      },
+      {
+        "target": "section > div > article:nth-of-type(3) > div:nth-of-type(2) > h3",
+        "level": 3,
+        "text": "2026 Emergency Pre-Registration Form",
+        "visible": true,
+        "box": {
+          "x": 924,
+          "y": 2741.828125,
+          "w": 382,
+          "h": 61
+        },
+        "html": "<h3><a class=\"item\" href=\"/index.asp?SEC=5BAE99CB-911F-49A1-A2D8-1599C048E2DD&amp;DE=5CF5E739-C93B-416F-860A-406B8D6E4863\">2026 Emergency Pre-Registration Form</a>\n</h3>"
+      },
+      {
+        "target": "footer > div > div:nth-of-type(1) > div:nth-of-type(1) > h4",
+        "level": 4,
+        "text": "CONTACT US",
+        "visible": true,
+        "box": {
+          "x": 60,
+          "y": 3146.328125,
+          "w": 415.34375,
+          "h": 30
+        },
+        "html": "<h4>Contact Us</h4>"
+      },
+      {
+        "target": "footer > div > div:nth-of-type(3) > div:nth-of-type(1) > h4",
+        "level": 4,
+        "text": "OFFICE HOURS",
+        "visible": true,
+        "box": {
+          "x": 890.671875,
+          "y": 3134.828125,
+          "w": 415.328125,
+          "h": 30
+        },
+        "html": "<h4>Office Hours</h4>"
+      }
+    ],
+    "lang": "en",
+    "title": "Flin Flon, MB"
+  },
   "axe": {
     "violationRules": 4,
     "violationNodes": 11,

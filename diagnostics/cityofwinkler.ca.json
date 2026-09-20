@@ -19,7 +19,2537 @@
     "width": 1366,
     "height": 900
   },
-  "scannedAt": "2026-09-19T06:20:50.960Z",
+  "scannedAt": "2026-09-19T23:53:11.784Z",
+  "content": {
+    "images": [],
+    "links": [
+      {
+        "target": "body > div:nth-of-type(1) > ol > li:nth-of-type(1) > a",
+        "text": "Information like Address, Phone, and Email Address",
+        "ariaLabel": "",
+        "title": "Information about Winkler",
+        "href": "#headerTop",
+        "imgAlt": "",
+        "box": {
+          "x": 64,
+          "y": -159932.8125,
+          "w": 228,
+          "h": 52.8125
+        },
+        "context": "Information like Address, Phone, and Email Address",
+        "contextKind": "li",
+        "html": "<a href=\"#headerTop\" class=\"stcLink\" accesskey=\"1\" title=\"Information about Winkler\">Information like Address, Phone, and Email Address</a>"
+      },
+      {
+        "target": "body > div:nth-of-type(1) > ol > li:nth-of-type(2) > a",
+        "text": "Main Navigation",
+        "ariaLabel": "",
+        "title": "Primary Site Navigation",
+        "href": "#desktopNav",
+        "imgAlt": "",
+        "box": {
+          "x": 64,
+          "y": -159880,
+          "w": 228,
+          "h": 31.203125
+        },
+        "context": "Main Navigation",
+        "contextKind": "li",
+        "html": "<a href=\"#desktopNav\" class=\"stcLink\" accesskey=\"2\" title=\"Primary Site Navigation\">Main Navigation</a>"
+      },
+      {
+        "target": "body > div:nth-of-type(1) > ol > li:nth-of-type(3) > a",
+        "text": "Quick Links",
+        "ariaLabel": "",
+        "title": "Choose from the selection from the lists for quick information",
+        "href": "#quickLinks",
+        "imgAlt": "",
+        "box": {
+          "x": 64,
+          "y": -159848.796875,
+          "w": 228,
+          "h": 31.203125
+        },
+        "context": "Quick Links",
+        "contextKind": "li",
+        "html": "<a href=\"#quickLinks\" class=\"stcLink\" accesskey=\"3\" title=\"Choose from the selection from the lists for quick information\">Quick Links</a>"
+      },
+      {
+        "target": "body > div:nth-of-type(1) > ol > li:nth-of-type(4) > a",
+        "text": "Search The Website",
+        "ariaLabel": "",
+        "title": "Cant find what you are looking for? Search here",
+        "href": "#search-txt",
+        "imgAlt": "",
+        "box": {
+          "x": 64,
+          "y": -159817.59375,
+          "w": 228,
+          "h": 31.203125
+        },
+        "context": "Search The Website",
+        "contextKind": "li",
+        "html": "<a href=\"#search-txt\" class=\"stcLink\" accesskey=\"4\" title=\"Cant find what you are looking for? Search here\">Search The Website</a>"
+      },
+      {
+        "target": "body > div:nth-of-type(1) > ol > li:nth-of-type(5) > a",
+        "text": "Main Content",
+        "ariaLabel": "",
+        "title": "Skip and read the main content of the site",
+        "href": "#main",
+        "imgAlt": "",
+        "box": {
+          "x": 64,
+          "y": -159786.390625,
+          "w": 228,
+          "h": 31.203125
+        },
+        "context": "Main Content",
+        "contextKind": "li",
+        "html": "<a href=\"#main\" class=\"stcLink\" accesskey=\"5\" title=\"Skip and read the main content of the site\">Main Content</a>"
+      },
+      {
+        "target": "body > div:nth-of-type(1) > ol > li:nth-of-type(6) > a",
+        "text": "What's your view?",
+        "ariaLabel": "",
+        "title": "Vote Now!",
+        "href": "#footerTop",
+        "imgAlt": "",
+        "box": {
+          "x": 64,
+          "y": -159755.1875,
+          "w": 228,
+          "h": 31.203125
+        },
+        "context": "What's your view?",
+        "contextKind": "li",
+        "html": "<a href=\"#footerTop\" class=\"stcLink\" accesskey=\"6\" title=\"Vote Now!\">What's your view?</a>"
+      },
+      {
+        "target": "body > div:nth-of-type(1) > ol > li:nth-of-type(7) > a",
+        "text": "Download The Mobile App",
+        "ariaLabel": "",
+        "title": "Download Mobile App For Winkler",
+        "href": "#downloadOurApp",
+        "imgAlt": "",
+        "box": {
+          "x": 64,
+          "y": -159723.984375,
+          "w": 228,
+          "h": 31.203125
+        },
+        "context": "Download The Mobile App",
+        "contextKind": "li",
+        "html": "<a href=\"#downloadOurApp\" class=\"stcLink\" accesskey=\"7\" title=\"Download Mobile App For Winkler\">Download The Mobile App</a>"
+      },
+      {
+        "target": "body > div:nth-of-type(1) > ol > li:nth-of-type(8) > a",
+        "text": "Get More Information",
+        "ariaLabel": "",
+        "title": "Company Information and Location",
+        "href": "#getInTouch",
+        "imgAlt": "",
+        "box": {
+          "x": 64,
+          "y": -159692.78125,
+          "w": 228,
+          "h": 31.203125
+        },
+        "context": "Get More Information",
+        "contextKind": "li",
+        "html": "<a href=\"#getInTouch\" class=\"stcLink\" accesskey=\"8\" title=\"Company Information and Location\">Get More Information</a>"
+      },
+      {
+        "target": "body > div:nth-of-type(1) > ol > li:nth-of-type(9) > a",
+        "text": "Register to our Enews",
+        "ariaLabel": "",
+        "title": "Click here to register to our Electronic Newsletter",
+        "href": "#btnRegister",
+        "imgAlt": "",
+        "box": {
+          "x": 64,
+          "y": -159661.578125,
+          "w": 228,
+          "h": 31.203125
+        },
+        "context": "Register to our Enews",
+        "contextKind": "li",
+        "html": "<a href=\"#btnRegister\" class=\"stcLink\" accesskey=\"9\" title=\"Click here to register to our Electronic Newsletter\">Register to our Enews</a>"
+      },
+      {
+        "target": "header > div > div:nth-of-type(1) > h1 > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "Welcome to the City of Winkler",
+        "href": "/",
+        "imgAlt": "",
+        "box": {
+          "x": 62,
+          "y": 4,
+          "w": 200,
+          "h": 80
+        },
+        "context": "Winkler, MB, Canada Today's Waste & Recycling Schedule Area 1 - Purple What can we help you find?",
+        "contextKind": "block",
+        "html": "<a href=\"/\" title=\"Welcome to the City of Winkler\"></a>"
+      },
+      {
+        "target": "div > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > a",
+        "text": "Winkler, MB, Canada",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://forecast7.com/en/49d18n97d94/winkler/",
+        "imgAlt": "",
+        "box": {
+          "x": 286.390625,
+          "y": -4,
+          "w": 225,
+          "h": 98
+        },
+        "context": "Winkler, MB, Canada Today's Waste & Recycling Schedule Area 1 - Purple What can we help you find?",
+        "contextKind": "block",
+        "html": "<a class=\"weatherwidget-io\" href=\"https://forecast7.com/en/49d18n97d94/winkler/\" data-font=\"Open Sans\" data-mode=\"Current\" data-theme=\"pure\" data-basecolor=\"rgba(255, 255, 255, 0)\" data-textcolor=\"#ffffff\" data-highcolor=\"#fff\" data-lowcolor=\"#fff\" data-suncolor=\"#ffc\" data-mooncolor=\"#fff\" data-clo"
+      },
+      {
+        "target": "header > div > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+        "text": "Today's Waste & Recycling Schedule Area 1 - Purple",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/p/waste-recycling-calendar",
+        "imgAlt": "",
+        "box": {
+          "x": 634.140625,
+          "y": 25.40625,
+          "w": 234.203125,
+          "h": 39.1875
+        },
+        "context": "Today's Waste & Recycling Schedule Area 1 - Purple What can we help you find?",
+        "contextKind": "block",
+        "html": "<a href=\"/p/waste-recycling-calendar\" class=\"hcalendar\"><i class=\"fa fa-calendar header-calendar-icon\" style=\"color:#BC95B7;\" aria-hidden=\"true\"></i> <span class=\"hcalendar-calendar\">Today's Waste &amp; Recycling Schedule <span>Area 1 - Purple</span></span></a>"
+      },
+      {
+        "target": "header > div > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(2)",
+        "text": "What can we help you find?",
+        "ariaLabel": "",
+        "title": "",
+        "href": "#",
+        "imgAlt": "",
+        "box": {
+          "x": 868.34375,
+          "y": 30.203125,
+          "w": 433.265625,
+          "h": 34.390625
+        },
+        "context": "Today's Waste & Recycling Schedule Area 1 - Purple What can we help you find?",
+        "contextKind": "block",
+        "html": "<a href=\"#\" class=\"hsearch\" data-toggle=\"modal\" data-target=\"#idLiketoSearchModal\" data-liketo=\"/Home/GetIdLikeToList\">\n\t\t<span class=\"text\">What can we help you find?</span>\n\t\t<span class=\"mobile-text\">Search</span>\n\t\t<span class=\"fa fa-search\" aria-hidden=\"true\"></span></a>"
+      },
+      {
+        "target": "#\\#categoryNavID0",
+        "text": "HOME",
+        "ariaLabel": "",
+        "title": "Go to home",
+        "href": "/",
+        "imgAlt": "",
+        "box": {
+          "x": 54.625,
+          "y": 96.09375,
+          "w": 103.59375,
+          "h": 70
+        },
+        "context": "HOME",
+        "contextKind": "li",
+        "html": "<a class=\"home menuonehovercolor\" href=\"/\" title=\"Go to home\" id=\"#categoryNavID0\" role=\"menuitem\"><span>Home</span></a>"
+      },
+      {
+        "target": "#\\#categoryNavID1",
+        "text": "CITY HALL",
+        "ariaLabel": "",
+        "title": "Click to view City Hall",
+        "href": "/p/city-hall",
+        "imgAlt": "",
+        "box": {
+          "x": 281.40625,
+          "y": 96.09375,
+          "w": 151.46875,
+          "h": 70
+        },
+        "context": "CITY HALL",
+        "contextKind": "li",
+        "html": "<a href=\"/p/city-hall\" title=\"Click to view City Hall\" class=\"menuonehovercolor \" id=\"#categoryNavID1\" role=\"menuitem\" aria-haspopup=\"true\" aria-owns=\"subMainMenu0\" style=\"cursor: default;\">       City Hall </a>"
+      },
+      {
+        "target": "#\\#categoryNavID2",
+        "text": "LIVE",
+        "ariaLabel": "",
+        "title": "Click to view LIVE",
+        "href": "/p/living",
+        "imgAlt": "",
+        "box": {
+          "x": 556.0625,
+          "y": 96.09375,
+          "w": 88.1875,
+          "h": 70
+        },
+        "context": "LIVE",
+        "contextKind": "li",
+        "html": "<a href=\"/p/living\" title=\"Click to view LIVE\" class=\"menuonehovercolor \" id=\"#categoryNavID2\" role=\"menuitem\" aria-haspopup=\"true\" aria-owns=\"subMainMenu1\" style=\"cursor: default;\">       LIVE </a>"
+      },
+      {
+        "target": "#\\#categoryNavID3",
+        "text": "WORK",
+        "ariaLabel": "",
+        "title": "Click to view WORK",
+        "href": "/p/business",
+        "imgAlt": "",
+        "box": {
+          "x": 767.421875,
+          "y": 96.09375,
+          "w": 106.203125,
+          "h": 70
+        },
+        "context": "WORK",
+        "contextKind": "li",
+        "html": "<a href=\"/p/business\" title=\"Click to view WORK\" class=\"menuonehovercolor \" id=\"#categoryNavID3\" role=\"menuitem\" aria-haspopup=\"true\" aria-owns=\"subMainMenu2\" style=\"cursor: default;\">       WORK </a>"
+      },
+      {
+        "target": "#\\#categoryNavID4",
+        "text": "VISIT",
+        "ariaLabel": "",
+        "title": "Click to view VISIT",
+        "href": "/p/visiting",
+        "imgAlt": "",
+        "box": {
+          "x": 996.8125,
+          "y": 96.09375,
+          "w": 96.296875,
+          "h": 70
+        },
+        "context": "VISIT",
+        "contextKind": "li",
+        "html": "<a href=\"/p/visiting\" title=\"Click to view VISIT\" class=\"menuonehovercolor \" id=\"#categoryNavID4\" role=\"menuitem\" aria-haspopup=\"true\" aria-owns=\"subMainMenu3\" style=\"cursor: default;\">       VISIT </a>"
+      },
+      {
+        "target": "#\\#categoryNavID5",
+        "text": "PLAY",
+        "ariaLabel": "",
+        "title": "Click to view PLAY",
+        "href": "https://playwinkler.ca/",
+        "imgAlt": "",
+        "box": {
+          "x": 1216.296875,
+          "y": 96.09375,
+          "w": 95.078125,
+          "h": 70
+        },
+        "context": "PLAY",
+        "contextKind": "li",
+        "html": "<a href=\"https://playwinkler.ca/\" target=\"_blank\" title=\"Click to view PLAY\" class=\"menuonehovercolor home\" id=\"#categoryNavID5\" role=\"menuitem\">       PLAY </a>"
+      },
+      {
+        "target": "nav > div:nth-of-type(2) > ul > li:nth-of-type(1) > a",
+        "text": "HOME",
+        "ariaLabel": "",
+        "title": "Go to home",
+        "href": "/",
+        "imgAlt": "",
+        "box": {
+          "x": 1366,
+          "y": 80,
+          "w": 400,
+          "h": 65.375
+        },
+        "context": "HOME",
+        "contextKind": "li",
+        "html": "<a href=\"/\" title=\"Go to home\" role=\"menuitem\" style=\"cursor: default;\"><span>Home</span></a>"
+      },
+      {
+        "target": "nav > div:nth-of-type(2) > ul > li:nth-of-type(2) > a",
+        "text": "CITY HALL",
+        "ariaLabel": "",
+        "title": "Click to view City Hall",
+        "href": "/p/city-hall",
+        "imgAlt": "",
+        "box": {
+          "x": 1366,
+          "y": 145.375,
+          "w": 400,
+          "h": 65.375
+        },
+        "context": "CITY HALL More Option CAREERS APPLICATIONS, BYLAWS, POLICIES & REPORTS BID OPPORTUNITIES BYLAWS AND ENFORCEMENT CITY COUNCIL More Option COUNCIL MEETINGS COUNCIL MINUTES ARCHIVE MEETING AGENDAS PROPER",
+        "contextKind": "li",
+        "html": "<a href=\"/p/city-hall\" title=\"Click to view City Hall\" role=\"menuitem\" style=\"cursor: default;\">\n                            City Hall\n                        </a>"
+      },
+      {
+        "target": "ul > li:nth-of-type(2) > ul > li:nth-of-type(1) > a",
+        "text": "CAREERS",
+        "ariaLabel": "",
+        "title": "Click to view Careers",
+        "href": "/p/careers-2",
+        "imgAlt": "",
+        "box": {
+          "x": 1366,
+          "y": 238.75,
+          "w": 400,
+          "h": 65.375
+        },
+        "context": "CAREERS",
+        "contextKind": "li",
+        "html": "<a href=\"/p/careers-2\" title=\"Click to view Careers\" role=\"menuitem\">\n                                            Careers\n                                        </a>"
+      },
+      {
+        "target": "ul > li:nth-of-type(2) > ul > li:nth-of-type(2) > a",
+        "text": "APPLICATIONS, BYLAWS, POLICIES & REPORTS",
+        "ariaLabel": "",
+        "title": "Click to view Applications, Bylaws, Policies & Reports",
+        "href": "/p/documents",
+        "imgAlt": "",
+        "box": {
+          "x": 1366,
+          "y": 304.125,
+          "w": 400,
+          "h": 92.375
+        },
+        "context": "APPLICATIONS, BYLAWS, POLICIES & REPORTS",
+        "contextKind": "li",
+        "html": "<a href=\"/p/documents\" title=\"Click to view Applications, Bylaws, Policies &amp; Reports\" role=\"menuitem\">\n                                            Applications, Bylaws, Policies &amp; Reports\n                                        </a>"
+      },
+      {
+        "target": "ul > li:nth-of-type(2) > ul > li:nth-of-type(3) > a",
+        "text": "BID OPPORTUNITIES",
+        "ariaLabel": "",
+        "title": "Click to view Bid Opportunities",
+        "href": "/p/bid-opportunities",
+        "imgAlt": "",
+        "box": {
+          "x": 1366,
+          "y": 396.5,
+          "w": 400,
+          "h": 65.375
+        },
+        "context": "BID OPPORTUNITIES",
+        "contextKind": "li",
+        "html": "<a href=\"/p/bid-opportunities\" title=\"Click to view Bid Opportunities\" role=\"menuitem\">\n                                            Bid Opportunities\n                                        </a>"
+      },
+      {
+        "target": "ul > li:nth-of-type(2) > ul > li:nth-of-type(4) > a",
+        "text": "BYLAWS AND ENFORCEMENT",
+        "ariaLabel": "",
+        "title": "Click to view Bylaws and Enforcement ",
+        "href": "/p/bylaws-and-enforcement",
+        "imgAlt": "",
+        "box": {
+          "x": 1366,
+          "y": 461.875,
+          "w": 400,
+          "h": 65.375
+        },
+        "context": "BYLAWS AND ENFORCEMENT",
+        "contextKind": "li",
+        "html": "<a href=\"/p/bylaws-and-enforcement\" title=\"Click to view Bylaws and Enforcement \" role=\"menuitem\">\n                                            Bylaws and Enforcement \n                                        </a>"
+      },
+      {
+        "target": "ul > li:nth-of-type(2) > ul > li:nth-of-type(5) > a",
+        "text": "CITY COUNCIL",
+        "ariaLabel": "",
+        "title": "Click to view City Council",
+        "href": "/p/city-council",
+        "imgAlt": "",
+        "box": {
+          "x": 1366,
+          "y": 527.25,
+          "w": 400,
+          "h": 65.375
+        },
+        "context": "CITY COUNCIL More Option COUNCIL MEETINGS COUNCIL MINUTES ARCHIVE MEETING AGENDAS",
+        "contextKind": "li",
+        "html": "<a href=\"/p/city-council\" title=\"Click to view City Council\" role=\"menuitem\">\n                                            City Council\n                                        </a>"
+      },
+      {
+        "target": "ul > li:nth-of-type(5) > ul > li:nth-of-type(1) > a",
+        "text": "COUNCIL MEETINGS",
+        "ariaLabel": "",
+        "title": "Click to view Council Meetings",
+        "href": "/p/council-meetings",
+        "imgAlt": "",
+        "box": {
+          "x": 1366,
+          "y": 620.625,
+          "w": 400,
+          "h": 65.375
+        },
+        "context": "COUNCIL MEETINGS",
+        "contextKind": "li",
+        "html": "<a href=\"/p/council-meetings\" title=\"Click to view Council Meetings\" role=\"menuitem\">\n                                                            Council Meetings\n                                                        </a>"
+      },
+      {
+        "target": "ul > li:nth-of-type(5) > ul > li:nth-of-type(2) > a",
+        "text": "COUNCIL MINUTES ARCHIVE",
+        "ariaLabel": "",
+        "title": "Click to view Council Minutes Archive",
+        "href": "/p/council-minutes-archive",
+        "imgAlt": "",
+        "box": {
+          "x": 1366,
+          "y": 686,
+          "w": 400,
+          "h": 65.375
+        },
+        "context": "COUNCIL MINUTES ARCHIVE",
+        "contextKind": "li",
+        "html": "<a href=\"/p/council-minutes-archive\" title=\"Click to view Council Minutes Archive\" role=\"menuitem\">\n                                                            Council Minutes Archive\n                                                        </a>"
+      },
+      {
+        "target": "ul > li:nth-of-type(5) > ul > li:nth-of-type(3) > a",
+        "text": "MEETING AGENDAS",
+        "ariaLabel": "",
+        "title": "Click to view Meeting Agendas",
+        "href": "/p/meeting-agendas",
+        "imgAlt": "",
+        "box": {
+          "x": 1366,
+          "y": 751.375,
+          "w": 400,
+          "h": 65.375
+        },
+        "context": "MEETING AGENDAS",
+        "contextKind": "li",
+        "html": "<a href=\"/p/meeting-agendas\" title=\"Click to view Meeting Agendas\" role=\"menuitem\">\n                                                            Meeting Agendas\n                                                        </a>"
+      },
+      {
+        "target": "ul > li:nth-of-type(2) > ul > li:nth-of-type(6) > a",
+        "text": "PROPERTY TAX INFORMATION",
+        "ariaLabel": "",
+        "title": "Click to view Property Tax Information",
+        "href": "/p/property-taxes",
+        "imgAlt": "",
+        "box": {
+          "x": 1366,
+          "y": 816.75,
+          "w": 400,
+          "h": 65.375
+        },
+        "context": "PROPERTY TAX INFORMATION",
+        "contextKind": "li",
+        "html": "<a href=\"/p/property-taxes\" title=\"Click to view Property Tax Information\" role=\"menuitem\">\n                                            Property Tax Information\n                                        </a>"
+      },
+      {
+        "target": "ul > li:nth-of-type(2) > ul > li:nth-of-type(7) > a",
+        "text": "MUNICIPAL ELECTIONS 2026",
+        "ariaLabel": "",
+        "title": "Click to view Municipal Elections 2026",
+        "href": "/p/municipal-elections-2026",
+        "imgAlt": "",
+        "box": {
+          "x": 1366,
+          "y": 882.125,
+          "w": 400,
+          "h": 65.375
+        },
+        "context": "MUNICIPAL ELECTIONS 2026 More Option 2026 REGISTERED PROSPECTIVE CANDIDATES",
+        "contextKind": "li",
+        "html": "<a href=\"/p/municipal-elections-2026\" title=\"Click to view Municipal Elections 2026\" role=\"menuitem\">\n                                            Municipal Elections 2026\n                                        </a>"
+      },
+      {
+        "target": "ul > li:nth-of-type(7) > ul > li > a",
+        "text": "2026 REGISTERED PROSPECTIVE CANDIDATES",
+        "ariaLabel": "",
+        "title": "Click to view 2026 Registered Prospective Candidates",
+        "href": "/p/meet-your-candidates",
+        "imgAlt": "",
+        "box": {
+          "x": 1366,
+          "y": 975.5,
+          "w": 400,
+          "h": 92.375
+        },
+        "context": "2026 REGISTERED PROSPECTIVE CANDIDATES",
+        "contextKind": "li",
+        "html": "<a href=\"/p/meet-your-candidates\" title=\"Click to view 2026 Registered Prospective Candidates\" role=\"menuitem\">\n                                                            2026 Registered Prospective Candidates\n                                                        </a>"
+      },
+      {
+        "target": "ul > li:nth-of-type(2) > ul > li:nth-of-type(8) > a",
+        "text": "CITY SERVICES",
+        "ariaLabel": "",
+        "title": "Click to view City Services",
+        "href": "/p/city-services",
+        "imgAlt": "",
+        "box": {
+          "x": 1366,
+          "y": 1067.875,
+          "w": 400,
+          "h": 65.375
+        },
+        "context": "CITY SERVICES More Option SIGN UP FOR ESERVICES PAYING ONLINE BILLS SIGN UP FOR PRE-AUTHORIZED PAYMENT PUBLIC SERVICE REQUEST PORTAL",
+        "contextKind": "li",
+        "html": "<a href=\"/p/city-services\" title=\"Click to view City Services\" role=\"menuitem\">\n                                            City Services\n                                        </a>"
+      },
+      {
+        "target": "ul > li:nth-of-type(8) > ul > li:nth-of-type(1) > a",
+        "text": "SIGN UP FOR ESERVICES",
+        "ariaLabel": "",
+        "title": "Click to view Sign up for eServices",
+        "href": "/p/sign-up-for-eservices",
+        "imgAlt": "",
+        "box": {
+          "x": 1366,
+          "y": 1161.25,
+          "w": 400,
+          "h": 65.375
+        },
+        "context": "SIGN UP FOR ESERVICES",
+        "contextKind": "li",
+        "html": "<a href=\"/p/sign-up-for-eservices\" title=\"Click to view Sign up for eServices\" role=\"menuitem\">\n                                                            Sign up for eServices\n                                                        </a>"
+      },
+      {
+        "target": "ul > li:nth-of-type(8) > ul > li:nth-of-type(2) > a",
+        "text": "PAYING ONLINE BILLS",
+        "ariaLabel": "",
+        "title": "Click to view Paying online bills",
+        "href": "/p/online",
+        "imgAlt": "",
+        "box": {
+          "x": 1366,
+          "y": 1226.625,
+          "w": 400,
+          "h": 65.375
+        },
+        "context": "PAYING ONLINE BILLS",
+        "contextKind": "li",
+        "html": "<a href=\"/p/online\" title=\"Click to view Paying online bills\" role=\"menuitem\">\n                                                            Paying online bills\n                                                        </a>"
+      },
+      {
+        "target": "ul > li:nth-of-type(8) > ul > li:nth-of-type(3) > a",
+        "text": "SIGN UP FOR PRE-AUTHORIZED PAYMENT",
+        "ariaLabel": "",
+        "title": "Click to view Sign up for Pre-Authorized Payment",
+        "href": "/p/tipp",
+        "imgAlt": "",
+        "box": {
+          "x": 1366,
+          "y": 1292,
+          "w": 400,
+          "h": 92.375
+        },
+        "context": "SIGN UP FOR PRE-AUTHORIZED PAYMENT",
+        "contextKind": "li",
+        "html": "<a href=\"/p/tipp\" title=\"Click to view Sign up for Pre-Authorized Payment\" role=\"menuitem\">\n                                                            Sign up for Pre-Authorized Payment\n                                                        </a>"
+      },
+      {
+        "target": "ul > li:nth-of-type(8) > ul > li:nth-of-type(4) > a",
+        "text": "PUBLIC SERVICE REQUEST PORTAL",
+        "ariaLabel": "",
+        "title": "Click to view Public Service Request Portal",
+        "href": "/p/public-service-request-portal",
+        "imgAlt": "",
+        "box": {
+          "x": 1366,
+          "y": 1384.375,
+          "w": 400,
+          "h": 92.375
+        },
+        "context": "PUBLIC SERVICE REQUEST PORTAL",
+        "contextKind": "li",
+        "html": "<a href=\"/p/public-service-request-portal\" title=\"Click to view Public Service Request Portal\" role=\"menuitem\">\n                                                            Public Service Request Portal\n                                                        </a>"
+      },
+      {
+        "target": "ul > li:nth-of-type(2) > ul > li:nth-of-type(9) > a",
+        "text": "CITY MAPS",
+        "ariaLabel": "",
+        "title": "Click to view City Maps",
+        "href": "/p/city-maps",
+        "imgAlt": "",
+        "box": {
+          "x": 1366,
+          "y": 1476.75,
+          "w": 400,
+          "h": 65.375
+        },
+        "context": "CITY MAPS",
+        "contextKind": "li",
+        "html": "<a href=\"/p/city-maps\" title=\"Click to view City Maps\" role=\"menuitem\">\n                                            City Maps\n                                        </a>"
+      },
+      {
+        "target": "ul > li:nth-of-type(2) > ul > li:nth-of-type(10) > a",
+        "text": "LOCAL NOTICES",
+        "ariaLabel": "",
+        "title": "Click to view Local Notices",
+        "href": "/p/local-notices",
+        "imgAlt": "",
+        "box": {
+          "x": 1366,
+          "y": 1542.125,
+          "w": 400,
+          "h": 65.375
+        },
+        "context": "LOCAL NOTICES More Option SUBMIT A NOTICE",
+        "contextKind": "li",
+        "html": "<a href=\"/p/local-notices\" title=\"Click to view Local Notices\" role=\"menuitem\">\n                                            Local Notices\n                                        </a>"
+      },
+      {
+        "target": "ul > li:nth-of-type(10) > ul > li > a",
+        "text": "SUBMIT A NOTICE",
+        "ariaLabel": "",
+        "title": "Click to view Submit a Notice",
+        "href": "/p/add-notice",
+        "imgAlt": "",
+        "box": {
+          "x": 1366,
+          "y": 1635.5,
+          "w": 400,
+          "h": 65.375
+        },
+        "context": "SUBMIT A NOTICE",
+        "contextKind": "li",
+        "html": "<a href=\"/p/add-notice\" title=\"Click to view Submit a Notice\" role=\"menuitem\">\n                                                            Submit a Notice\n                                                        </a>"
+      },
+      {
+        "target": "ul > li:nth-of-type(2) > ul > li:nth-of-type(11) > a",
+        "text": "PROJECTS",
+        "ariaLabel": "",
+        "title": "Click to view Projects ",
+        "href": "/p/projects",
+        "imgAlt": "",
+        "box": {
+          "x": 1366,
+          "y": 1700.875,
+          "w": 400,
+          "h": 65.375
+        },
+        "context": "PROJECTS More Option WINKLER WATER TREATMENT PLANT EXPANSION REGIONAL WASTEWATER TREATMENT FACILITY CENTENNIAL ARENA REDEVELOPMENT PROJECT CITY OF WINKLER PUBLIC TRANSPORTATION STRATEGY IMPLEMENTATION",
+        "contextKind": "li",
+        "html": "<a href=\"/p/projects\" title=\"Click to view Projects \" role=\"menuitem\">\n                                            Projects \n                                        </a>"
+      },
+      {
+        "target": "ul > li:nth-of-type(11) > ul > li:nth-of-type(1) > a",
+        "text": "WINKLER WATER TREATMENT PLANT EXPANSION",
+        "ariaLabel": "",
+        "title": "Click to view Winkler Water Treatment Plant Expansion ",
+        "href": "/p/winkler-water-treatment-plant-expansion-",
+        "imgAlt": "",
+        "box": {
+          "x": 1366,
+          "y": 1794.25,
+          "w": 400,
+          "h": 92.375
+        },
+        "context": "WINKLER WATER TREATMENT PLANT EXPANSION",
+        "contextKind": "li",
+        "html": "<a href=\"/p/winkler-water-treatment-plant-expansion-\" title=\"Click to view Winkler Water Treatment Plant Expansion \" role=\"menuitem\">\n                                                            Winkler Water Treatment Plant Expansion \n                                                        </a>"
+      },
+      {
+        "target": "ul > li:nth-of-type(11) > ul > li:nth-of-type(2) > a",
+        "text": "REGIONAL WASTEWATER TREATMENT FACILITY",
+        "ariaLabel": "",
+        "title": "Click to view Regional Wastewater Treatment Facility",
+        "href": "/p/regional-wastewater-treatment-facility",
+        "imgAlt": "",
+        "box": {
+          "x": 1366,
+          "y": 1886.625,
+          "w": 400,
+          "h": 92.375
+        },
+        "context": "REGIONAL WASTEWATER TREATMENT FACILITY",
+        "contextKind": "li",
+        "html": "<a href=\"/p/regional-wastewater-treatment-facility\" title=\"Click to view Regional Wastewater Treatment Facility\" role=\"menuitem\">\n                                                            Regional Wastewater Treatment Facility\n                                                        </a>"
+      },
+      {
+        "target": "ul > li:nth-of-type(11) > ul > li:nth-of-type(3) > a",
+        "text": "CENTENNIAL ARENA REDEVELOPMENT PROJECT",
+        "ariaLabel": "",
+        "title": "Click to view Centennial Arena Redevelopment Project",
+        "href": "/p/centennial-arena-redevelopment-project",
+        "imgAlt": "",
+        "box": {
+          "x": 1366,
+          "y": 1979,
+          "w": 400,
+          "h": 92.375
+        },
+        "context": "CENTENNIAL ARENA REDEVELOPMENT PROJECT",
+        "contextKind": "li",
+        "html": "<a href=\"/p/centennial-arena-redevelopment-project\" title=\"Click to view Centennial Arena Redevelopment Project\" role=\"menuitem\">\n                                                            Centennial Arena Redevelopment Project\n                                                        </a>"
+      },
+      {
+        "target": "ul > li:nth-of-type(11) > ul > li:nth-of-type(4) > a",
+        "text": "CITY OF WINKLER PUBLIC TRANSPORTATION STRATEGY IMPLEMENTATION",
+        "ariaLabel": "",
+        "title": "Click to view City of Winkler Public Transportation Strategy Implementation",
+        "href": "/p/city-of-winkler-transportation-presentation",
+        "imgAlt": "",
+        "box": {
+          "x": 1366,
+          "y": 2071.375,
+          "w": 400,
+          "h": 119.375
+        },
+        "context": "CITY OF WINKLER PUBLIC TRANSPORTATION STRATEGY IMPLEMENTATION",
+        "contextKind": "li",
+        "html": "<a href=\"/p/city-of-winkler-transportation-presentation\" title=\"Click to view City of Winkler Public Transportation Strategy Implementation\" role=\"menuitem\">\n                                                            City of Winkler Public Transportation Strategy Implementation\n                    "
+      },
+      {
+        "target": "ul > li:nth-of-type(2) > ul > li:nth-of-type(12) > a",
+        "text": "SERVICE REQUESTS",
+        "ariaLabel": "",
+        "title": "Click to view Service Requests",
+        "href": "https://winklermb.rm.catalisgov.ca/311/",
+        "imgAlt": "",
+        "box": {
+          "x": 1366,
+          "y": 2190.75,
+          "w": 400,
+          "h": 65.375
+        },
+        "context": "SERVICE REQUESTS",
+        "contextKind": "li",
+        "html": "<a href=\"https://winklermb.rm.catalisgov.ca/311/\" target=\"_blank\" title=\"Click to view Service Requests\" role=\"menuitem\">\n                                            Service Requests\n                                        </a>"
+      },
+      {
+        "target": "nav > div:nth-of-type(2) > ul > li:nth-of-type(3) > a",
+        "text": "LIVE",
+        "ariaLabel": "",
+        "title": "Click to view LIVE",
+        "href": "/p/living",
+        "imgAlt": "",
+        "box": {
+          "x": 1366,
+          "y": 2256.125,
+          "w": 400,
+          "h": 65.375
+        },
+        "context": "LIVE More Option WINKLER ON-DEMAND TRANSIT - NOW AVAILABLE! COMMUNITY NEWSLETTER COMMUNITY More Option HOUSING EMERGENCY SERVICES & PREPAREDNESS EDUCATION EVENTS More Option ASK THE MAYOR CURBSIDE GIV",
+        "contextKind": "li",
+        "html": "<a href=\"/p/living\" title=\"Click to view LIVE\" role=\"menuitem\" style=\"cursor: default;\">\n                            LIVE\n                        </a>"
+      },
+      {
+        "target": "ul > li:nth-of-type(3) > ul > li:nth-of-type(1) > a",
+        "text": "WINKLER ON-DEMAND TRANSIT - NOW AVAILABLE!",
+        "ariaLabel": "",
+        "title": "Click to view Winkler On-Demand Transit - Now Available!",
+        "href": "/p/winkler-on-demand-transit",
+        "imgAlt": "",
+        "box": {
+          "x": 1366,
+          "y": 2349.5,
+          "w": 400,
+          "h": 92.375
+        },
+        "context": "WINKLER ON-DEMAND TRANSIT - NOW AVAILABLE!",
+        "contextKind": "li",
+        "html": "<a href=\"/p/winkler-on-demand-transit\" title=\"Click to view Winkler On-Demand Transit - Now Available!\" role=\"menuitem\">\n                                            Winkler On-Demand Transit - Now Available!\n                                        </a>"
+      },
+      {
+        "target": "ul > li:nth-of-type(3) > ul > li:nth-of-type(2) > a",
+        "text": "COMMUNITY NEWSLETTER",
+        "ariaLabel": "",
+        "title": "Click to view Community Newsletter",
+        "href": "/p/community-newsletter",
+        "imgAlt": "",
+        "box": {
+          "x": 1366,
+          "y": 2441.875,
+          "w": 400,
+          "h": 65.375
+        },
+        "context": "COMMUNITY NEWSLETTER",
+        "contextKind": "li",
+        "html": "<a href=\"/p/community-newsletter\" title=\"Click to view Community Newsletter\" role=\"menuitem\">\n                                            Community Newsletter\n                                        </a>"
+      },
+      {
+        "target": "ul > li:nth-of-type(3) > ul > li:nth-of-type(3) > a",
+        "text": "COMMUNITY",
+        "ariaLabel": "",
+        "title": "Click to view Community",
+        "href": "/p/community",
+        "imgAlt": "",
+        "box": {
+          "x": 1366,
+          "y": 2507.25,
+          "w": 400,
+          "h": 65.375
+        },
+        "context": "COMMUNITY More Option HOUSING EMERGENCY SERVICES & PREPAREDNESS EDUCATION",
+        "contextKind": "li",
+        "html": "<a href=\"/p/community\" title=\"Click to view Community\" role=\"menuitem\">\n                                            Community\n                                        </a>"
+      },
+      {
+        "target": "ul > li:nth-of-type(3) > ul > li:nth-of-type(1) > a",
+        "text": "HOUSING",
+        "ariaLabel": "",
+        "title": "Click to view Housing",
+        "href": "/p/housing",
+        "imgAlt": "",
+        "box": {
+          "x": 1366,
+          "y": 2600.625,
+          "w": 400,
+          "h": 65.375
+        },
+        "context": "HOUSING",
+        "contextKind": "li",
+        "html": "<a href=\"/p/housing\" title=\"Click to view Housing\" role=\"menuitem\">\n                                                            Housing\n                                                        </a>"
+      },
+      {
+        "target": "ul > li:nth-of-type(3) > ul > li:nth-of-type(2) > a",
+        "text": "EMERGENCY SERVICES & PREPAREDNESS",
+        "ariaLabel": "",
+        "title": "Click to view Emergency Services & Preparedness",
+        "href": "/p/emergency-services",
+        "imgAlt": "",
+        "box": {
+          "x": 1366,
+          "y": 2666,
+          "w": 400,
+          "h": 92.375
+        },
+        "context": "EMERGENCY SERVICES & PREPAREDNESS",
+        "contextKind": "li",
+        "html": "<a href=\"/p/emergency-services\" title=\"Click to view Emergency Services &amp; Preparedness\" role=\"menuitem\">\n                                                            Emergency Services &amp; Preparedness\n                                                        </a>"
+      },
+      {
+        "target": "ul > li:nth-of-type(3) > ul > li:nth-of-type(3) > a",
+        "text": "EDUCATION",
+        "ariaLabel": "",
+        "title": "Click to view Education",
+        "href": "/p/education",
+        "imgAlt": "",
+        "box": {
+          "x": 1366,
+          "y": 2758.375,
+          "w": 400,
+          "h": 65.375
+        },
+        "context": "EDUCATION",
+        "contextKind": "li",
+        "html": "<a href=\"/p/education\" title=\"Click to view Education\" role=\"menuitem\">\n                                                            Education\n                                                        </a>"
+      },
+      {
+        "target": "ul > li:nth-of-type(3) > ul > li:nth-of-type(4) > a",
+        "text": "EVENTS",
+        "ariaLabel": "",
+        "title": "Click to view Events",
+        "href": "/p/upcoming-events",
+        "imgAlt": "",
+        "box": {
+          "x": 1366,
+          "y": 2823.75,
+          "w": 400,
+          "h": 65.375
+        },
+        "context": "EVENTS More Option ASK THE MAYOR CURBSIDE GIVEAWAY WEEKEND BLOCK PARTIES NOMINATE A GOOD NEIGHBOUR SUBMIT AN EVENT",
+        "contextKind": "li",
+        "html": "<a href=\"/p/upcoming-events\" title=\"Click to view Events\" role=\"menuitem\">\n                                            Events\n                                        </a>"
+      },
+      {
+        "target": "ul > li:nth-of-type(4) > ul > li:nth-of-type(1) > a",
+        "text": "ASK THE MAYOR",
+        "ariaLabel": "",
+        "title": "Click to view ASK THE MAYOR",
+        "href": "/p/ask-the-mayor",
+        "imgAlt": "",
+        "box": {
+          "x": 1366,
+          "y": 2917.125,
+          "w": 400,
+          "h": 65.375
+        },
+        "context": "ASK THE MAYOR",
+        "contextKind": "li",
+        "html": "<a href=\"/p/ask-the-mayor\" title=\"Click to view ASK THE MAYOR\" role=\"menuitem\">\n                                                            ASK THE MAYOR\n                                                        </a>"
+      },
+      {
+        "target": "ul > li:nth-of-type(4) > ul > li:nth-of-type(2) > a",
+        "text": "CURBSIDE GIVEAWAY WEEKEND",
+        "ariaLabel": "",
+        "title": "Click to view Curbside Giveaway Weekend",
+        "href": "/p/curbside-giveaway-weekend",
+        "imgAlt": "",
+        "box": {
+          "x": 1366,
+          "y": 2982.5,
+          "w": 400,
+          "h": 65.375
+        },
+        "context": "CURBSIDE GIVEAWAY WEEKEND",
+        "contextKind": "li",
+        "html": "<a href=\"/p/curbside-giveaway-weekend\" title=\"Click to view Curbside Giveaway Weekend\" role=\"menuitem\">\n                                                            Curbside Giveaway Weekend\n                                                        </a>"
+      },
+      {
+        "target": "ul > li:nth-of-type(4) > ul > li:nth-of-type(3) > a",
+        "text": "BLOCK PARTIES",
+        "ariaLabel": "",
+        "title": "Click to view Block Parties",
+        "href": "/p/block-parties",
+        "imgAlt": "",
+        "box": {
+          "x": 1366,
+          "y": 3047.875,
+          "w": 400,
+          "h": 65.375
+        },
+        "context": "BLOCK PARTIES",
+        "contextKind": "li",
+        "html": "<a href=\"/p/block-parties\" title=\"Click to view Block Parties\" role=\"menuitem\">\n                                                            Block Parties\n                                                        </a>"
+      },
+      {
+        "target": "ul > li:nth-of-type(4) > ul > li:nth-of-type(4) > a",
+        "text": "NOMINATE A GOOD NEIGHBOUR",
+        "ariaLabel": "",
+        "title": "Click to view Nominate a Good Neighbour",
+        "href": "/p/nominate-a-good-neighbour",
+        "imgAlt": "",
+        "box": {
+          "x": 1366,
+          "y": 3113.25,
+          "w": 400,
+          "h": 92.375
+        },
+        "context": "NOMINATE A GOOD NEIGHBOUR",
+        "contextKind": "li",
+        "html": "<a href=\"/p/nominate-a-good-neighbour\" title=\"Click to view Nominate a Good Neighbour\" role=\"menuitem\">\n                                                            Nominate a Good Neighbour\n                                                        </a>"
+      },
+      {
+        "target": "ul > li:nth-of-type(4) > ul > li:nth-of-type(5) > a",
+        "text": "SUBMIT AN EVENT",
+        "ariaLabel": "",
+        "title": "Click to view Submit an Event",
+        "href": "/p/add-event",
+        "imgAlt": "",
+        "box": {
+          "x": 1366,
+          "y": 3205.625,
+          "w": 400,
+          "h": 65.375
+        },
+        "context": "SUBMIT AN EVENT",
+        "contextKind": "li",
+        "html": "<a href=\"/p/add-event\" title=\"Click to view Submit an Event\" role=\"menuitem\">\n                                                            Submit an Event\n                                                        </a>"
+      },
+      {
+        "target": "ul > li:nth-of-type(3) > ul > li:nth-of-type(5) > a",
+        "text": "CONNECT WINKLER",
+        "ariaLabel": "",
+        "title": "Click to view Connect Winkler",
+        "href": "/p/connect-winkler",
+        "imgAlt": "",
+        "box": {
+          "x": 1366,
+          "y": 3271,
+          "w": 400,
+          "h": 65.375
+        },
+        "context": "CONNECT WINKLER More Option REGISTER WITH US",
+        "contextKind": "li",
+        "html": "<a href=\"/p/connect-winkler\" title=\"Click to view Connect Winkler\" role=\"menuitem\">\n                                            Connect Winkler\n                                        </a>"
+      },
+      {
+        "target": "ul > li:nth-of-type(5) > ul > li > a",
+        "text": "REGISTER WITH US",
+        "ariaLabel": "",
+        "title": "Click to view Register With Us",
+        "href": "/p/register-with-us",
+        "imgAlt": "",
+        "box": {
+          "x": 1366,
+          "y": 3364.375,
+          "w": 400,
+          "h": 65.375
+        },
+        "context": "REGISTER WITH US",
+        "contextKind": "li",
+        "html": "<a href=\"/p/register-with-us\" title=\"Click to view Register With Us\" role=\"menuitem\">\n                                                            Register With Us\n                                                        </a>"
+      },
+      {
+        "target": "ul > li:nth-of-type(3) > ul > li:nth-of-type(6) > a",
+        "text": "RESIDENTIAL RECYCLING WASTE & COMPOST",
+        "ariaLabel": "",
+        "title": "Click to view Residential Recycling Waste & Compost",
+        "href": "/p/winkler-waste-recycling",
+        "imgAlt": "",
+        "box": {
+          "x": 1366,
+          "y": 3429.75,
+          "w": 400,
+          "h": 92.375
+        },
+        "context": "RESIDENTIAL RECYCLING WASTE & COMPOST More Option WASTE & RECYCLING CALENDAR HOUSEHOLD HAZARDOUS WASTE & ECO CENTRE",
+        "contextKind": "li",
+        "html": "<a href=\"/p/winkler-waste-recycling\" title=\"Click to view Residential Recycling Waste &amp; Compost\" role=\"menuitem\">\n                                            Residential Recycling Waste &amp; Compost\n                                        </a>"
+      },
+      {
+        "target": "ul > li:nth-of-type(6) > ul > li:nth-of-type(1) > a",
+        "text": "WASTE & RECYCLING CALENDAR",
+        "ariaLabel": "",
+        "title": "Click to view Waste & Recycling Calendar",
+        "href": "/p/waste-recycling-calendar",
+        "imgAlt": "",
+        "box": {
+          "x": 1366,
+          "y": 3550.125,
+          "w": 400,
+          "h": 92.375
+        },
+        "context": "WASTE & RECYCLING CALENDAR",
+        "contextKind": "li",
+        "html": "<a href=\"/p/waste-recycling-calendar\" title=\"Click to view Waste &amp; Recycling Calendar\" role=\"menuitem\">\n                                                            Waste &amp; Recycling Calendar\n                                                        </a>"
+      },
+      {
+        "target": "ul > li:nth-of-type(6) > ul > li:nth-of-type(2) > a",
+        "text": "HOUSEHOLD HAZARDOUS WASTE & ECO CENTRE",
+        "ariaLabel": "",
+        "title": "Click to view Household Hazardous Waste & Eco Centre",
+        "href": "/p/household-hazardous-waste-eco-centre",
+        "imgAlt": "",
+        "box": {
+          "x": 1366,
+          "y": 3642.5,
+          "w": 400,
+          "h": 92.375
+        },
+        "context": "HOUSEHOLD HAZARDOUS WASTE & ECO CENTRE",
+        "contextKind": "li",
+        "html": "<a href=\"/p/household-hazardous-waste-eco-centre\" title=\"Click to view Household Hazardous Waste &amp; Eco Centre\" role=\"menuitem\">\n                                                            Household Hazardous Waste &amp; Eco Centre\n                                                        </a>"
+      },
+      {
+        "target": "ul > li:nth-of-type(3) > ul > li:nth-of-type(7) > a",
+        "text": "WATER & SEWER",
+        "ariaLabel": "",
+        "title": "Click to view Water & Sewer",
+        "href": "/p/water-and-sewer",
+        "imgAlt": "",
+        "box": {
+          "x": 1366,
+          "y": 3734.875,
+          "w": 400,
+          "h": 65.375
+        },
+        "context": "WATER & SEWER More Option WATER CONSERVATION BACKFLOW PREVENTION & INSPECTION PROGRAM PROJECT RAIN BARREL FINDING A WATER LEAK LOW WATER PRESSURE SUMP PUMP DISCHARGE DISCOLOURED WATER FROZEN WATER PIP",
+        "contextKind": "li",
+        "html": "<a href=\"/p/water-and-sewer\" title=\"Click to view Water &amp; Sewer\" role=\"menuitem\">\n                                            Water &amp; Sewer\n                                        </a>"
+      },
+      {
+        "target": "ul > li:nth-of-type(7) > ul > li:nth-of-type(1) > a",
+        "text": "WATER CONSERVATION",
+        "ariaLabel": "",
+        "title": "Click to view Water Conservation",
+        "href": "/p/water-conservation",
+        "imgAlt": "",
+        "box": {
+          "x": 1366,
+          "y": 3828.25,
+          "w": 400,
+          "h": 65.375
+        },
+        "context": "WATER CONSERVATION",
+        "contextKind": "li",
+        "html": "<a href=\"/p/water-conservation\" title=\"Click to view Water Conservation\" role=\"menuitem\">\n                                                            Water Conservation\n                                                        </a>"
+      },
+      {
+        "target": "ul > li:nth-of-type(7) > ul > li:nth-of-type(2) > a",
+        "text": "BACKFLOW PREVENTION & INSPECTION PROGRAM",
+        "ariaLabel": "",
+        "title": "Click to view Backflow Prevention & Inspection Program",
+        "href": "/p/backflow-prevention-program",
+        "imgAlt": "",
+        "box": {
+          "x": 1366,
+          "y": 3893.625,
+          "w": 400,
+          "h": 92.375
+        },
+        "context": "BACKFLOW PREVENTION & INSPECTION PROGRAM",
+        "contextKind": "li",
+        "html": "<a href=\"/p/backflow-prevention-program\" title=\"Click to view Backflow Prevention &amp; Inspection Program\" role=\"menuitem\">\n                                                            Backflow Prevention &amp; Inspection Program\n                                                        </a>"
+      },
+      {
+        "target": "ul > li:nth-of-type(7) > ul > li:nth-of-type(3) > a",
+        "text": "PROJECT RAIN BARREL",
+        "ariaLabel": "",
+        "title": "Click to view Project Rain Barrel",
+        "href": "/p/project-rain-barrel",
+        "imgAlt": "",
+        "box": {
+          "x": 1366,
+          "y": 3986,
+          "w": 400,
+          "h": 65.375
+        },
+        "context": "PROJECT RAIN BARREL",
+        "contextKind": "li",
+        "html": "<a href=\"/p/project-rain-barrel\" title=\"Click to view Project Rain Barrel\" role=\"menuitem\">\n                                                            Project Rain Barrel\n                                                        </a>"
+      },
+      {
+        "target": "ul > li:nth-of-type(7) > ul > li:nth-of-type(4) > a",
+        "text": "FINDING A WATER LEAK",
+        "ariaLabel": "",
+        "title": "Click to view Finding a Water Leak ",
+        "href": "/p/finding-a-water-leak-",
+        "imgAlt": "",
+        "box": {
+          "x": 1366,
+          "y": 4051.375,
+          "w": 400,
+          "h": 65.375
+        },
+        "context": "FINDING A WATER LEAK",
+        "contextKind": "li",
+        "html": "<a href=\"/p/finding-a-water-leak-\" title=\"Click to view Finding a Water Leak \" role=\"menuitem\">\n                                                            Finding a Water Leak \n                                                        </a>"
+      },
+      {
+        "target": "ul > li:nth-of-type(7) > ul > li:nth-of-type(5) > a",
+        "text": "LOW WATER PRESSURE",
+        "ariaLabel": "",
+        "title": "Click to view Low Water Pressure",
+        "href": "/p/low-water-pressure",
+        "imgAlt": "",
+        "box": {
+          "x": 1366,
+          "y": 4116.75,
+          "w": 400,
+          "h": 65.375
+        },
+        "context": "LOW WATER PRESSURE",
+        "contextKind": "li",
+        "html": "<a href=\"/p/low-water-pressure\" title=\"Click to view Low Water Pressure\" role=\"menuitem\">\n                                                            Low Water Pressure\n                                                        </a>"
+      },
+      {
+        "target": "ul > li:nth-of-type(7) > ul > li:nth-of-type(6) > a",
+        "text": "SUMP PUMP DISCHARGE",
+        "ariaLabel": "",
+        "title": "Click to view Sump Pump Discharge",
+        "href": "/p/sump-pump-discharge",
+        "imgAlt": "",
+        "box": {
+          "x": 1366,
+          "y": 4182.125,
+          "w": 400,
+          "h": 65.375
+        },
+        "context": "SUMP PUMP DISCHARGE",
+        "contextKind": "li",
+        "html": "<a href=\"/p/sump-pump-discharge\" title=\"Click to view Sump Pump Discharge\" role=\"menuitem\">\n                                                            Sump Pump Discharge\n                                                        </a>"
+      },
+      {
+        "target": "ul > li:nth-of-type(7) > ul > li:nth-of-type(7) > a",
+        "text": "DISCOLOURED WATER",
+        "ariaLabel": "",
+        "title": "Click to view Discoloured Water",
+        "href": "/p/discoloured-water",
+        "imgAlt": "",
+        "box": {
+          "x": 1366,
+          "y": 4247.5,
+          "w": 400,
+          "h": 65.375
+        },
+        "context": "DISCOLOURED WATER",
+        "contextKind": "li",
+        "html": "<a href=\"/p/discoloured-water\" title=\"Click to view Discoloured Water\" role=\"menuitem\">\n                                                            Discoloured Water\n                                                        </a>"
+      },
+      {
+        "target": "ul > li:nth-of-type(7) > ul > li:nth-of-type(8) > a",
+        "text": "FROZEN WATER PIPES",
+        "ariaLabel": "",
+        "title": "Click to view Frozen Water Pipes",
+        "href": "/p/frozen-water-pipes",
+        "imgAlt": "",
+        "box": {
+          "x": 1366,
+          "y": 4312.875,
+          "w": 400,
+          "h": 65.375
+        },
+        "context": "FROZEN WATER PIPES",
+        "contextKind": "li",
+        "html": "<a href=\"/p/frozen-water-pipes\" title=\"Click to view Frozen Water Pipes\" role=\"menuitem\">\n                                                            Frozen Water Pipes\n                                                        </a>"
+      },
+      {
+        "target": "ul > li:nth-of-type(3) > ul > li:nth-of-type(8) > a",
+        "text": "MOWING",
+        "ariaLabel": "",
+        "title": "Click to view Mowing",
+        "href": "/p/mowing",
+        "imgAlt": "",
+        "box": {
+          "x": 1366,
+          "y": 4378.25,
+          "w": 400,
+          "h": 65.375
+        },
+        "context": "MOWING",
+        "contextKind": "li",
+        "html": "<a href=\"/p/mowing\" title=\"Click to view Mowing\" role=\"menuitem\">\n                                            Mowing\n                                        </a>"
+      },
+      {
+        "target": "ul > li:nth-of-type(3) > ul > li:nth-of-type(9) > a",
+        "text": "SNOW CLEARING",
+        "ariaLabel": "",
+        "title": "Click to view Snow Clearing",
+        "href": "/p/snow-clearing",
+        "imgAlt": "",
+        "box": {
+          "x": 1366,
+          "y": 4443.625,
+          "w": 400,
+          "h": 65.375
+        },
+        "context": "SNOW CLEARING",
+        "contextKind": "li",
+        "html": "<a href=\"/p/snow-clearing\" title=\"Click to view Snow Clearing\" role=\"menuitem\">\n                                            Snow Clearing\n                                        </a>"
+      },
+      {
+        "target": "nav > div:nth-of-type(2) > ul > li:nth-of-type(4) > a",
+        "text": "WORK",
+        "ariaLabel": "",
+        "title": "Click to view WORK",
+        "href": "/p/business",
+        "imgAlt": "",
+        "box": {
+          "x": 1366,
+          "y": 4509,
+          "w": 400,
+          "h": 65.375
+        },
+        "context": "WORK More Option CHAMBER OF COMMERCE ECONOMIC DEVELOPMENT More Option MSTW DEVELOPMENT PLAN CITY OF WINKLER STATISTICS INFRASTRUCTURE STARTING A BUSINESS",
+        "contextKind": "li",
+        "html": "<a href=\"/p/business\" title=\"Click to view WORK\" role=\"menuitem\" style=\"cursor: default;\">\n                            WORK\n                        </a>"
+      },
+      {
+        "target": "ul > li:nth-of-type(4) > ul > li:nth-of-type(1) > a",
+        "text": "CHAMBER OF COMMERCE",
+        "ariaLabel": "",
+        "title": "Click to view Chamber of Commerce",
+        "href": "/p/chamber-of-commerce",
+        "imgAlt": "",
+        "box": {
+          "x": 1366,
+          "y": 4602.375,
+          "w": 400,
+          "h": 65.375
+        },
+        "context": "CHAMBER OF COMMERCE",
+        "contextKind": "li",
+        "html": "<a href=\"/p/chamber-of-commerce\" title=\"Click to view Chamber of Commerce\" role=\"menuitem\">\n                                            Chamber of Commerce\n                                        </a>"
+      },
+      {
+        "target": "ul > li:nth-of-type(4) > ul > li:nth-of-type(2) > a",
+        "text": "ECONOMIC DEVELOPMENT",
+        "ariaLabel": "",
+        "title": "Click to view Economic Development",
+        "href": "/p/economic-development",
+        "imgAlt": "",
+        "box": {
+          "x": 1366,
+          "y": 4667.75,
+          "w": 400,
+          "h": 65.375
+        },
+        "context": "ECONOMIC DEVELOPMENT More Option MSTW DEVELOPMENT PLAN CITY OF WINKLER STATISTICS",
+        "contextKind": "li",
+        "html": "<a href=\"/p/economic-development\" title=\"Click to view Economic Development\" role=\"menuitem\">\n                                            Economic Development\n                                        </a>"
+      },
+      {
+        "target": "ul > li:nth-of-type(2) > ul > li:nth-of-type(1) > a",
+        "text": "MSTW DEVELOPMENT PLAN",
+        "ariaLabel": "",
+        "title": "Click to view MSTW Development Plan",
+        "href": "/p/mstw-development-plan",
+        "imgAlt": "",
+        "box": {
+          "x": 1366,
+          "y": 4761.125,
+          "w": 400,
+          "h": 65.375
+        },
+        "context": "MSTW DEVELOPMENT PLAN",
+        "contextKind": "li",
+        "html": "<a href=\"/p/mstw-development-plan\" title=\"Click to view MSTW Development Plan\" role=\"menuitem\">\n                                                            MSTW Development Plan\n                                                        </a>"
+      },
+      {
+        "target": "ul > li:nth-of-type(2) > ul > li:nth-of-type(2) > a",
+        "text": "CITY OF WINKLER STATISTICS",
+        "ariaLabel": "",
+        "title": "Click to view City of Winkler Statistics",
+        "href": "https://advanceruralmanitoba.ca/communities/city-of-winkler/",
+        "imgAlt": "",
+        "box": {
+          "x": 1366,
+          "y": 4826.5,
+          "w": 400,
+          "h": 65.375
+        },
+        "context": "CITY OF WINKLER STATISTICS",
+        "contextKind": "li",
+        "html": "<a href=\"https://advanceruralmanitoba.ca/communities/city-of-winkler/\" target=\"_blank\" title=\"Click to view City of Winkler Statistics\" role=\"menuitem\">\n                                                            City of Winkler Statistics\n                                                        </a>"
+      },
+      {
+        "target": "ul > li:nth-of-type(4) > ul > li:nth-of-type(3) > a",
+        "text": "INFRASTRUCTURE",
+        "ariaLabel": "",
+        "title": "Click to view Infrastructure",
+        "href": "/p/infrastructure",
+        "imgAlt": "",
+        "box": {
+          "x": 1366,
+          "y": 4891.875,
+          "w": 400,
+          "h": 65.375
+        },
+        "context": "INFRASTRUCTURE",
+        "contextKind": "li",
+        "html": "<a href=\"/p/infrastructure\" title=\"Click to view Infrastructure\" role=\"menuitem\">\n                                            Infrastructure\n                                        </a>"
+      },
+      {
+        "target": "ul > li:nth-of-type(4) > ul > li:nth-of-type(4) > a",
+        "text": "STARTING A BUSINESS",
+        "ariaLabel": "",
+        "title": "Click to view Starting a Business ",
+        "href": "/p/starting-a-business",
+        "imgAlt": "",
+        "box": {
+          "x": 1366,
+          "y": 4957.25,
+          "w": 400,
+          "h": 65.375
+        },
+        "context": "STARTING A BUSINESS",
+        "contextKind": "li",
+        "html": "<a href=\"/p/starting-a-business\" title=\"Click to view Starting a Business \" role=\"menuitem\">\n                                            Starting a Business \n                                        </a>"
+      },
+      {
+        "target": "nav > div:nth-of-type(2) > ul > li:nth-of-type(5) > a",
+        "text": "VISIT",
+        "ariaLabel": "",
+        "title": "Click to view VISIT",
+        "href": "/p/visiting",
+        "imgAlt": "",
+        "box": {
+          "x": 1366,
+          "y": 5022.625,
+          "w": 400,
+          "h": 65.375
+        },
+        "context": "VISIT More Option EVENTS HARVEST FESTIVAL WINKLER CAMPGROUND PW ENNS CENTENNIAL CONCERT HALL",
+        "contextKind": "li",
+        "html": "<a href=\"/p/visiting\" title=\"Click to view VISIT\" role=\"menuitem\" style=\"cursor: default;\">\n                            VISIT\n                        </a>"
+      },
+      {
+        "target": "ul > li:nth-of-type(5) > ul > li:nth-of-type(1) > a",
+        "text": "EVENTS",
+        "ariaLabel": "",
+        "title": "Click to view Events",
+        "href": "https://www.visitwinkler.ca/events",
+        "imgAlt": "",
+        "box": {
+          "x": 1366,
+          "y": 5116,
+          "w": 400,
+          "h": 65.375
+        },
+        "context": "EVENTS",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.visitwinkler.ca/events\" target=\"_blank\" title=\"Click to view Events\" role=\"menuitem\">\n                                            Events\n                                        </a>"
+      },
+      {
+        "target": "ul > li:nth-of-type(5) > ul > li:nth-of-type(2) > a",
+        "text": "HARVEST FESTIVAL",
+        "ariaLabel": "",
+        "title": "Click to view Harvest Festival",
+        "href": "https://www.visitwinkler.ca/harvest-festival",
+        "imgAlt": "",
+        "box": {
+          "x": 1366,
+          "y": 5181.375,
+          "w": 400,
+          "h": 65.375
+        },
+        "context": "HARVEST FESTIVAL",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.visitwinkler.ca/harvest-festival\" target=\"_blank\" title=\"Click to view Harvest Festival\" role=\"menuitem\">\n                                            Harvest Festival\n                                        </a>"
+      },
+      {
+        "target": "ul > li:nth-of-type(5) > ul > li:nth-of-type(3) > a",
+        "text": "WINKLER CAMPGROUND",
+        "ariaLabel": "",
+        "title": "Click to view Winkler Campground",
+        "href": "https://playwinkler.ca/campground",
+        "imgAlt": "",
+        "box": {
+          "x": 1366,
+          "y": 5246.75,
+          "w": 400,
+          "h": 65.375
+        },
+        "context": "WINKLER CAMPGROUND",
+        "contextKind": "li",
+        "html": "<a href=\"https://playwinkler.ca/campground\" target=\"_blank\" title=\"Click to view Winkler Campground\" role=\"menuitem\">\n                                            Winkler Campground\n                                        </a>"
+      },
+      {
+        "target": "ul > li:nth-of-type(5) > ul > li:nth-of-type(4) > a",
+        "text": "PW ENNS CENTENNIAL CONCERT HALL",
+        "ariaLabel": "",
+        "title": "Click to view PW Enns Centennial Concert Hall",
+        "href": "https://www.winklerconcerthall.ca/",
+        "imgAlt": "",
+        "box": {
+          "x": 1366,
+          "y": 5312.125,
+          "w": 400,
+          "h": 92.375
+        },
+        "context": "PW ENNS CENTENNIAL CONCERT HALL",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.winklerconcerthall.ca/\" target=\"_blank\" title=\"Click to view PW Enns Centennial Concert Hall\" role=\"menuitem\">\n                                            PW Enns Centennial Concert Hall\n                                        </a>"
+      },
+      {
+        "target": "nav > div:nth-of-type(2) > ul > li:nth-of-type(6) > a",
+        "text": "PLAY",
+        "ariaLabel": "",
+        "title": "Click to view PLAY",
+        "href": "https://playwinkler.ca/",
+        "imgAlt": "",
+        "box": {
+          "x": 1366,
+          "y": 5404.5,
+          "w": 400,
+          "h": 65.375
+        },
+        "context": "PLAY",
+        "contextKind": "li",
+        "html": "<a href=\"https://playwinkler.ca/\" target=\"_blank\" title=\"Click to view PLAY\" role=\"menuitem\" style=\"cursor: default;\">\n                            PLAY\n                        </a>"
+      },
+      {
+        "target": "#quickLinks > div > div:nth-of-type(1) > a:nth-of-type(1)",
+        "text": "CITY OF WINKLER NEWSLETTER",
+        "ariaLabel": "",
+        "title": "Click here to read more about City of Winkler Newsletter",
+        "href": "https://www.cityofwinkler.ca/p/community-newsletter",
+        "imgAlt": "",
+        "box": {
+          "x": 15,
+          "y": 796,
+          "w": 277.78125,
+          "h": 104
+        },
+        "context": "heading: Quick Links | CITY OF WINKLER NEWSLETTER STREET LIGHT OUTAGE UTILITY BILL ESTIMATOR HOW TO PAY A CITY BILL ONLINE SERVICE REQUESTS E-SERVICES",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.cityofwinkler.ca/p/community-newsletter\" title=\"Click here to read more about City of Winkler Newsletter\"><i class=\"fa far fa-newspaper\" aria-hidden=\"true\"></i> <span>City of Winkler Newsletter</span></a>"
+      },
+      {
+        "target": "#quickLinks > div > div:nth-of-type(1) > a:nth-of-type(2)",
+        "text": "STREET LIGHT OUTAGE",
+        "ariaLabel": "",
+        "title": "Click here to read more about Street Light Outage",
+        "href": "https://www.hydro.mb.ca/outages/street_light_report/",
+        "imgAlt": "",
+        "box": {
+          "x": 292.78125,
+          "y": 796,
+          "w": 213.109375,
+          "h": 104
+        },
+        "context": "heading: Quick Links | CITY OF WINKLER NEWSLETTER STREET LIGHT OUTAGE UTILITY BILL ESTIMATOR HOW TO PAY A CITY BILL ONLINE SERVICE REQUESTS E-SERVICES",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.hydro.mb.ca/outages/street_light_report/\" title=\"Click here to read more about Street Light Outage\"><i class=\"fa far fa-lightbulb\" aria-hidden=\"true\"></i> <span>Street Light Outage</span></a>"
+      },
+      {
+        "target": "#quickLinks > div > div:nth-of-type(1) > a:nth-of-type(3)",
+        "text": "UTILITY BILL ESTIMATOR",
+        "ariaLabel": "",
+        "title": "Click here to read more about Utility Bill Estimator",
+        "href": "https://www.cityofwinkler.ca/p/water-and-sewer",
+        "imgAlt": "",
+        "box": {
+          "x": 505.890625,
+          "y": 796,
+          "w": 224.484375,
+          "h": 104
+        },
+        "context": "heading: Quick Links | CITY OF WINKLER NEWSLETTER STREET LIGHT OUTAGE UTILITY BILL ESTIMATOR HOW TO PAY A CITY BILL ONLINE SERVICE REQUESTS E-SERVICES",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.cityofwinkler.ca/p/water-and-sewer\" title=\"Click here to read more about Utility Bill Estimator\"><i class=\"fa far fa-usd\" aria-hidden=\"true\"></i> <span>Utility Bill Estimator</span></a>"
+      },
+      {
+        "target": "#quickLinks > div > div:nth-of-type(1) > a:nth-of-type(4)",
+        "text": "HOW TO PAY A CITY BILL ONLINE",
+        "ariaLabel": "",
+        "title": "Click here to read more about How to pay a city bill online",
+        "href": "https://www.cityofwinkler.ca/p/online",
+        "imgAlt": "",
+        "box": {
+          "x": 730.375,
+          "y": 796,
+          "w": 282.6875,
+          "h": 104
+        },
+        "context": "heading: Quick Links | CITY OF WINKLER NEWSLETTER STREET LIGHT OUTAGE UTILITY BILL ESTIMATOR HOW TO PAY A CITY BILL ONLINE SERVICE REQUESTS E-SERVICES",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.cityofwinkler.ca/p/online\" title=\"Click here to read more about How to pay a city bill online\"><i class=\"fa far fa-hand-holding-usd\" aria-hidden=\"true\"></i> <span>How to pay a city bill online</span></a>"
+      },
+      {
+        "target": "#quickLinks > div > div:nth-of-type(1) > a:nth-of-type(5)",
+        "text": "SERVICE REQUESTS",
+        "ariaLabel": "",
+        "title": "Click here to read more about Service Requests",
+        "href": "https://winklermb.rm.catalisgov.ca/311/",
+        "imgAlt": "",
+        "box": {
+          "x": 1013.0625,
+          "y": 796,
+          "w": 194.28125,
+          "h": 104
+        },
+        "context": "heading: Quick Links | CITY OF WINKLER NEWSLETTER STREET LIGHT OUTAGE UTILITY BILL ESTIMATOR HOW TO PAY A CITY BILL ONLINE SERVICE REQUESTS E-SERVICES",
+        "contextKind": "block",
+        "html": "<a href=\"https://winklermb.rm.catalisgov.ca/311/\" title=\"Click here to read more about Service Requests\"><i class=\"fa far fa-comment\" aria-hidden=\"true\"></i> <span>Service Requests</span></a>"
+      },
+      {
+        "target": "#quickLinks > div > div:nth-of-type(1) > a:nth-of-type(6)",
+        "text": "E-SERVICES",
+        "ariaLabel": "",
+        "title": "Click here to read more about e-Services",
+        "href": "https://winkler.townsuite.com/login",
+        "imgAlt": "",
+        "box": {
+          "x": 1207.34375,
+          "y": 796,
+          "w": 143.65625,
+          "h": 104
+        },
+        "context": "heading: Quick Links | CITY OF WINKLER NEWSLETTER STREET LIGHT OUTAGE UTILITY BILL ESTIMATOR HOW TO PAY A CITY BILL ONLINE SERVICE REQUESTS E-SERVICES",
+        "contextKind": "block",
+        "html": "<a href=\"https://winkler.townsuite.com/login\" title=\"Click here to read more about e-Services\"><i class=\"fa far fa-desktop\" aria-hidden=\"true\"></i> <span>e-Services</span></a>"
+      },
+      {
+        "target": "#\\#imageCaption1 > a",
+        "text": "READ MORE",
+        "ariaLabel": "",
+        "title": "Click here to read more",
+        "href": "https://playwinkler.ca/events/home-opener-celebration",
+        "imgAlt": "",
+        "box": {
+          "x": 81.953125,
+          "y": 486.75,
+          "w": 142.703125,
+          "h": 24
+        },
+        "context": "SEPTEMBER 18 Home Opener Celebration Join us in celebrating the Flyers home opener in the Centennial Arena this Friday! Enjoy barbecue, live music, and kid's activities from 4-7pm, with the game start",
+        "contextKind": "figcaption",
+        "html": "<a href=\"https://playwinkler.ca/events/home-opener-celebration\" title=\"Click here to read more\">Read More</a>"
+      },
+      {
+        "target": "#recentEventsCont > a",
+        "text": "STAY UP TO DATE News & Announcements",
+        "ariaLabel": "",
+        "title": "",
+        "href": "#main",
+        "imgAlt": "",
+        "box": {
+          "x": 55.078125,
+          "y": 812,
+          "w": 587.84375,
+          "h": 95.203125
+        },
+        "context": "heading: News & Events",
+        "contextKind": "heading-only",
+        "html": "<a href=\"#main\" class=\"btnScrollDown\">\n\t\t\t\t\t<h3><span>Stay Up To Date</span> News &amp; Announcements</h3>\n\t\t\t\t</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > div > div:nth-of-type(2) > a",
+        "text": "READ MORE",
+        "ariaLabel": "",
+        "title": "Click here to read more about the Notice of Nomination",
+        "href": "#",
+        "imgAlt": "",
+        "box": {
+          "x": 76.078125,
+          "y": 1239.203125,
+          "w": 99.359375,
+          "h": 15
+        },
+        "context": "GOVERNMENT Notice of Nomination AUG 26, 2026 READ MORE",
+        "contextKind": "li",
+        "html": "<a class=\"iconPost\" href=\"#\" data-toggle=\"modal\" data-target=\"#latestNews\" data-notice=\"/Home/NoticeDetailHome?noticeId=0c159773-3b98-47af-a6dc-2b74a6bec4f8\" title=\"Click here to read more about the Notice of Nomination\">\n\t\t\t\t\t\t\t\t\t\t\t\t\tRead More <i class=\"fa-regular fa-arrow-right\" aria-hidden=\"true\""
+      },
+      {
+        "target": "div > div:nth-of-type(2) > div > div:nth-of-type(2) > a",
+        "text": "READ MORE",
+        "ariaLabel": "",
+        "title": "Click here to read more about the Notice of Public Hearing for Variance Application No. VA2026-007 - 156 North Railway Avenue",
+        "href": "#",
+        "imgAlt": "",
+        "box": {
+          "x": 385.078125,
+          "y": 1239.203125,
+          "w": 99.359375,
+          "h": 15
+        },
+        "context": "GOVERNMENT Notice of Public Hearing for Variance Application No. VA2026-007 - 156 North Railway Avenue SEP 22, 2026 READ MORE",
+        "contextKind": "li",
+        "html": "<a class=\"iconPost\" href=\"#\" data-toggle=\"modal\" data-target=\"#latestNews\" data-notice=\"/Home/NoticeDetailHome?noticeId=1e94e3f4-231e-44b3-bea1-2ce7243795cd\" title=\"Click here to read more about the Notice of Public Hearing for Variance Application No. VA2026-007 - 156 North Railway Avenue\">\n\t\t\t\t\t\t\t"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > div > div:nth-of-type(2) > a",
+        "text": "READ MORE",
+        "ariaLabel": "",
+        "title": "Click here to read more about the Notice of Public Hearing for Conditional Use Application No. CU2026-012 - 156 North Railway Avenue",
+        "href": "#",
+        "imgAlt": "",
+        "box": {
+          "x": 694.078125,
+          "y": 1239.203125,
+          "w": 99.359375,
+          "h": 15
+        },
+        "context": "GOVERNMENT Notice of Public Hearing for Conditional Use Application No. CU2026-012 - 156 North Railway Avenue SEP 22, 2026 READ MORE",
+        "contextKind": "li",
+        "html": "<a class=\"iconPost\" href=\"#\" data-toggle=\"modal\" data-target=\"#latestNews\" data-notice=\"/Home/NoticeDetailHome?noticeId=0774080a-4244-425a-ae70-58554cc0bdce\" title=\"Click here to read more about the Notice of Public Hearing for Conditional Use Application No. CU2026-012 - 156 North Railway Avenue\">\n"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > div > div:nth-of-type(2) > a",
+        "text": "READ MORE",
+        "ariaLabel": "",
+        "title": "Click here to read more about the Notice of Public Hearing for Rezoning By-Law No. 2271-26",
+        "href": "#",
+        "imgAlt": "",
+        "box": {
+          "x": 1003.078125,
+          "y": 1239.203125,
+          "w": 99.359375,
+          "h": 15
+        },
+        "context": "GOVERNMENT Notice of Public Hearing for Rezoning By-Law No. 2271-26 SEP 22, 2026 READ MORE",
+        "contextKind": "li",
+        "html": "<a class=\"iconPost\" href=\"#\" data-toggle=\"modal\" data-target=\"#latestNews\" data-notice=\"/Home/NoticeDetailHome?noticeId=cba4cc33-e090-4d17-8de9-aa5c622fd45c\" title=\"Click here to read more about the Notice of Public Hearing for Rezoning By-Law No. 2271-26\">\n\t\t\t\t\t\t\t\t\t\t\t\t\tRead More <i class=\"fa-regula"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > div > div:nth-of-type(2) > a",
+        "text": "READ MORE",
+        "ariaLabel": "",
+        "title": "Click here to read more about the Notice of Public Hearing for Rezoning By-Law No. 2377-26 ",
+        "href": "#",
+        "imgAlt": "",
+        "box": {
+          "x": 1312.078125,
+          "y": 1239.203125,
+          "w": 99.359375,
+          "h": 15
+        },
+        "context": "GOVERNMENT Notice of Public Hearing for Rezoning By-Law No. 2377-26 SEP 22, 2026 READ MORE",
+        "contextKind": "li",
+        "html": "<a class=\"iconPost\" href=\"#\" data-toggle=\"modal\" data-target=\"#latestNews\" data-notice=\"/Home/NoticeDetailHome?noticeId=27ff2499-e03c-49e1-9517-2106c585eb6a\" title=\"Click here to read more about the Notice of Public Hearing for Rezoning By-Law No. 2377-26 \">\n\t\t\t\t\t\t\t\t\t\t\t\t\tRead More <i class=\"fa-regul"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > div > div:nth-of-type(2) > a",
+        "text": "READ MORE",
+        "ariaLabel": "",
+        "title": "Click here to read more about the Notice of Public Hearing for Subdivision No. 4463-25-8501",
+        "href": "#",
+        "imgAlt": "",
+        "box": {
+          "x": 1621.078125,
+          "y": 1239.203125,
+          "w": 99.359375,
+          "h": 15
+        },
+        "context": "GOVERNMENT Notice of Public Hearing for Subdivision No. 4463-25-8501 SEP 22, 2026 READ MORE",
+        "contextKind": "li",
+        "html": "<a class=\"iconPost\" href=\"#\" data-toggle=\"modal\" data-target=\"#latestNews\" data-notice=\"/Home/NoticeDetailHome?noticeId=fe026ab8-fd7b-48f7-85cb-275736aebe54\" title=\"Click here to read more about the Notice of Public Hearing for Subdivision No. 4463-25-8501\">\n\t\t\t\t\t\t\t\t\t\t\t\t\tRead More <i class=\"fa-regul"
+      },
+      {
+        "target": "#recentEventsCont > p > a:nth-of-type(1)",
+        "text": "VIEW ALL NOTICES",
+        "ariaLabel": "",
+        "title": "Click here to view all news",
+        "href": "/p/local-notices",
+        "imgAlt": "",
+        "box": {
+          "x": 55.078125,
+          "y": 1356.203125,
+          "w": 264.515625,
+          "h": 40
+        },
+        "context": "VIEW ALL NOTICES SUBMIT A NOTICE",
+        "contextKind": "p",
+        "html": "<a href=\"/p/local-notices\" title=\"Click here to view all news\">View All Notices</a>"
+      },
+      {
+        "target": "#recentEventsCont > p > a:nth-of-type(2)",
+        "text": "SUBMIT A NOTICE",
+        "ariaLabel": "",
+        "title": "Click here to submit a news item",
+        "href": "/p/add-notice",
+        "imgAlt": "",
+        "box": {
+          "x": 378.40625,
+          "y": 1356.203125,
+          "w": 264.515625,
+          "h": 40
+        },
+        "context": "VIEW ALL NOTICES SUBMIT A NOTICE",
+        "contextKind": "p",
+        "html": "<a href=\"/p/add-notice\" title=\"Click here to submit a news item\">Submit A Notice</a>"
+      },
+      {
+        "target": "#upcomingEventsCont > a",
+        "text": "WHAT’S UP IN WINKLER Upcoming Events",
+        "ariaLabel": "",
+        "title": "",
+        "href": "#main",
+        "imgAlt": "",
+        "box": {
+          "x": 723.078125,
+          "y": 812,
+          "w": 587.84375,
+          "h": 95.203125
+        },
+        "context": "heading: Notice of Public Hearing for Subdivision No. 4463-25-8501",
+        "contextKind": "heading-only",
+        "html": "<a href=\"#main\" class=\"btnScrollDown\"><h3><span>What’s Up In Winkler</span>Upcoming Events</h3></a>"
+      },
+      {
+        "target": "ul > li:nth-of-type(1) > div > div:nth-of-type(3) > a",
+        "text": "READ MORE",
+        "ariaLabel": "",
+        "title": "Click here to read more about the City of Winkler - Council Meeting",
+        "href": "#",
+        "imgAlt": "",
+        "box": {
+          "x": 1193.8125,
+          "y": 945.0625,
+          "w": 95,
+          "h": 48.796875
+        },
+        "context": "SEP 22, 2026 City of Winkler - Council Meeting READ MORE",
+        "contextKind": "li",
+        "html": "<a class=\"iconPost\" href=\"#\" data-toggle=\"modal\" data-target=\"#upcomingEvents\" data-event=\"/Home/GetEventDetails?eventid=41332ede-654f-49eb-bd98-8958138576e1\" title=\"Click here to read more about the City of Winkler - Council Meeting\">\n\t\t\t\t\t\t\t\t\t\t\t\t<i class=\"fa-regular fa-arrow-right\" aria-hidden=\"tr"
+      },
+      {
+        "target": "ul > li:nth-of-type(2) > div > div:nth-of-type(3) > a",
+        "text": "READ MORE",
+        "ariaLabel": "",
+        "title": "Click here to read more about the City of Winkler - Council Meeting",
+        "href": "#",
+        "imgAlt": "",
+        "box": {
+          "x": 1193.8125,
+          "y": 1079.984375,
+          "w": 95,
+          "h": 48.796875
+        },
+        "context": "OCT 13, 2026 City of Winkler - Council Meeting READ MORE",
+        "contextKind": "li",
+        "html": "<a class=\"iconPost\" href=\"#\" data-toggle=\"modal\" data-target=\"#upcomingEvents\" data-event=\"/Home/GetEventDetails?eventid=bc23a600-b758-4d62-95dc-e1e783018d9d\" title=\"Click here to read more about the City of Winkler - Council Meeting\">\n\t\t\t\t\t\t\t\t\t\t\t\t<i class=\"fa-regular fa-arrow-right\" aria-hidden=\"tr"
+      },
+      {
+        "target": "ul > li:nth-of-type(3) > div > div:nth-of-type(3) > a",
+        "text": "READ MORE",
+        "ariaLabel": "",
+        "title": "Click here to read more about the Winkler Police Board Meeting",
+        "href": "#",
+        "imgAlt": "",
+        "box": {
+          "x": 1193.8125,
+          "y": 1214.90625,
+          "w": 95,
+          "h": 48.796875
+        },
+        "context": "OCT 14, 2026 Winkler Police Board Meeting READ MORE",
+        "contextKind": "li",
+        "html": "<a class=\"iconPost\" href=\"#\" data-toggle=\"modal\" data-target=\"#upcomingEvents\" data-event=\"/Home/GetEventDetails?eventid=c4dde5ef-e708-4fd6-89e9-76da6609e469\" title=\"Click here to read more about the Winkler Police Board Meeting\">\n\t\t\t\t\t\t\t\t\t\t\t\t<i class=\"fa-regular fa-arrow-right\" aria-hidden=\"true\"><"
+      },
+      {
+        "target": "ul > li > div > div:nth-of-type(3) > a",
+        "text": "READ MORE",
+        "ariaLabel": "",
+        "title": "Click here to read more about the City of Winkler - Council Meeting",
+        "href": "#",
+        "imgAlt": "",
+        "box": {
+          "x": 1811.8125,
+          "y": 945.0625,
+          "w": 95,
+          "h": 48.796875
+        },
+        "context": "OCT 27, 2026 City of Winkler - Council Meeting READ MORE",
+        "contextKind": "li",
+        "html": "<a class=\"iconPost\" href=\"#\" data-toggle=\"modal\" data-target=\"#upcomingEvents\" data-event=\"/Home/GetEventDetails?eventid=e860e2aa-a660-4bdd-a74c-70c283ddeb94\" title=\"Click here to read more about the City of Winkler - Council Meeting\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<i class=\"fa-regular fa-arrow-right\" aria-hidden=\"t"
+      },
+      {
+        "target": "#upcomingEventsCont > p > a:nth-of-type(1)",
+        "text": "VIEW ALL EVENTS",
+        "ariaLabel": "",
+        "title": "Click here to view calendar",
+        "href": "/p/upcoming-events",
+        "imgAlt": "",
+        "box": {
+          "x": 723.078125,
+          "y": 1356.203125,
+          "w": 264.515625,
+          "h": 40
+        },
+        "context": "VIEW ALL EVENTS SUBMIT AN EVENT",
+        "contextKind": "p",
+        "html": "<a href=\"/p/upcoming-events\" title=\"Click here to view calendar\">View All Events</a>"
+      },
+      {
+        "target": "#upcomingEventsCont > p > a:nth-of-type(2)",
+        "text": "SUBMIT AN EVENT",
+        "ariaLabel": "",
+        "title": "Click here to submit an event",
+        "href": "/p/add-event",
+        "imgAlt": "",
+        "box": {
+          "x": 1046.40625,
+          "y": 1356.203125,
+          "w": 264.515625,
+          "h": 40
+        },
+        "context": "VIEW ALL EVENTS SUBMIT AN EVENT",
+        "contextKind": "p",
+        "html": "<a href=\"/p/add-event\" title=\"Click here to submit an event\">Submit an Event</a>"
+      },
+      {
+        "target": "div:nth-of-type(1) > div:nth-of-type(2) > div > h1 > a",
+        "text": "City of Winkler",
+        "ariaLabel": "",
+        "title": "Welcome to",
+        "href": "/",
+        "imgAlt": "",
+        "box": {
+          "x": 85.96875,
+          "y": 1819.578125,
+          "w": 200,
+          "h": 80
+        },
+        "context": "heading: City of Winkler",
+        "contextKind": "heading-only",
+        "html": "<a href=\"/\" title=\"Welcome to\">City of Winkler</a>"
+      },
+      {
+        "target": "#getInTouch",
+        "text": "185 Main Street Winkler, Manitoba R6W 1B4",
+        "ariaLabel": "",
+        "title": "Our office is located here 185 Main Street Winkler, Manitoba R6W 1B4",
+        "href": "https://www.google.com/maps/place/185+Main+St,+Winkler,+MB+R6W+1B4/data=!4m2!3m1!1s0x52c24964b36aafeb:0x96cf60ed28951b48?sa=X&ved=2ahUKEwj04tvbmdjiAhXNct8KHZGGBmoQ8gEwAHoECAgQAQ",
+        "imgAlt": "",
+        "box": {
+          "x": 343.765625,
+          "y": 1850.765625,
+          "w": 281.71875,
+          "h": 15
+        },
+        "context": "185 Main Street Winkler, Manitoba R6W 1B4",
+        "contextKind": "p",
+        "html": "<a id=\"getInTouch\" href=\"https://www.google.com/maps/place/185+Main+St,+Winkler,+MB+R6W+1B4/data=!4m2!3m1!1s0x52c24964b36aafeb:0x96cf60ed28951b48?sa=X&amp;ved=2ahUKEwj04tvbmdjiAhXNct8KHZGGBmoQ8gEwAHoECAgQAQ\" title=\"Our office is located here 185 Main Street Winkler, Manitoba R6W 1B4\" target=\"_blank\""
+      },
+      {
+        "target": "div:nth-of-type(2) > div > div:nth-of-type(1) > p:nth-of-type(2) > a",
+        "text": "(204) 325-9524",
+        "ariaLabel": "",
+        "title": "Contact us at (204) 325-9524",
+        "href": "tel:+1(204) 325-9524",
+        "imgAlt": "",
+        "box": {
+          "x": 343.765625,
+          "y": 1874.765625,
+          "w": 117.546875,
+          "h": 15
+        },
+        "context": "(204) 325-9524",
+        "contextKind": "p",
+        "html": "<a href=\"tel:+1(204) 325-9524\" title=\"Contact us at (204) 325-9524\"><i class=\"far fa-phone\" aria-hidden=\"true\"></i><span>(204) 325-9524</span></a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div > div:nth-of-type(1) > p:nth-of-type(3) > a",
+        "text": "admin@cityofwinkler.ca",
+        "ariaLabel": "",
+        "title": "Email us at admin@cityofwinkler.ca",
+        "href": "mailto:admin@cityofwinkler.ca",
+        "imgAlt": "",
+        "box": {
+          "x": 343.765625,
+          "y": 1898.765625,
+          "w": 160.828125,
+          "h": 15
+        },
+        "context": "admin@cityofwinkler.ca",
+        "contextKind": "p",
+        "html": "<a href=\"mailto:admin@cityofwinkler.ca\" title=\"Email us at admin@cityofwinkler.ca\"><i class=\"far fa-envelope\" aria-hidden=\"true\"></i><span>admin@cityofwinkler.ca</span></a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div > div:nth-of-type(2) > p:nth-of-type(2) > a",
+        "text": "recreation@cityofwinkler.ca",
+        "ariaLabel": "",
+        "title": "",
+        "href": "mailto:recreation@cityofwinkler.ca",
+        "imgAlt": "",
+        "box": {
+          "x": 654.375,
+          "y": 1922.765625,
+          "w": 185.3125,
+          "h": 15
+        },
+        "context": "recreation@cityofwinkler.ca",
+        "contextKind": "p",
+        "html": "<a href=\"mailto:recreation@cityofwinkler.ca\"><i class=\"far fa-envelope\" aria-hidden=\"true\"></i>recreation@cityofwinkler.ca</a>"
+      },
+      {
+        "target": "#socialMedia",
+        "text": "FACEBOOK",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.facebook.com/cityofwinkler",
+        "imgAlt": "",
+        "box": {
+          "x": 709,
+          "y": 1996.765625,
+          "w": 9.203125,
+          "h": 13
+        },
+        "context": "CONNECT WITH US - FACEBOOK TWITTER INSTAGRAM",
+        "contextKind": "p",
+        "html": "<a id=\"socialMedia\" href=\"https://www.facebook.com/cityofwinkler\" class=\"facebook\" title=\"\" target=\"_blank\" data-toggle=\"tooltip\" data-placement=\"top\" data-original-title=\"Follow us on Facebook\"><span class=\"hideMe\">Facebook</span><i class=\"fa-brands fa-facebook-f\" aria-hidden=\"true\"></i></a>"
+      },
+      {
+        "target": "div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > p > a:nth-of-type(2)",
+        "text": "TWITTER",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://twitter.com/yeswinkler",
+        "imgAlt": "",
+        "box": {
+          "x": 731.8125,
+          "y": 1996.765625,
+          "w": 14,
+          "h": 13
+        },
+        "context": "CONNECT WITH US - FACEBOOK TWITTER INSTAGRAM",
+        "contextKind": "p",
+        "html": "<a href=\"https://twitter.com/yeswinkler\" class=\"twitter\" title=\"\" target=\"_blank\" data-toggle=\"tooltip\" data-placement=\"top\" data-original-title=\"Follow us on Twitter\"><span class=\"hideMe\">Twitter</span><i class=\"fa-brands fa-twitter\" aria-hidden=\"true\"></i></a>"
+      },
+      {
+        "target": "div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > p > a:nth-of-type(3)",
+        "text": "INSTAGRAM",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.instagram.com/yeswinkler/",
+        "imgAlt": "",
+        "box": {
+          "x": 759.421875,
+          "y": 1996.765625,
+          "w": 12.40625,
+          "h": 13
+        },
+        "context": "CONNECT WITH US - FACEBOOK TWITTER INSTAGRAM",
+        "contextKind": "p",
+        "html": "<a href=\"https://www.instagram.com/yeswinkler/\" class=\"instagram\" title=\"\" target=\"_blank\" data-toggle=\"tooltip\" data-placement=\"top\" data-original-title=\"Visit us on TripAdvisor\"><span class=\"hideMe\">Instagram</span><i class=\"fa-brands fa-instagram\" aria-hidden=\"true\"></i></a>"
+      },
+      {
+        "target": "div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(3) > cite > a",
+        "text": "POWERED BY CATALIS",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://catalisgov.com/solutions/citizen-engagement/website-management/",
+        "imgAlt": "",
+        "box": {
+          "x": 1116.109375,
+          "y": 1996.765625,
+          "w": 208.921875,
+          "h": 15
+        },
+        "context": "heading: OFFICE HOURS | 2026 © CITY OF WINKLER, MANITOBA CONNECT WITH US - FACEBOOK TWITTER INSTAGRAM POWERED BY CATALIS",
+        "contextKind": "block",
+        "html": "<a href=\"https://catalisgov.com/solutions/citizen-engagement/website-management/\" title=\"\" target=\"_blank\" data-toggle=\"tooltip\" data-placement=\"top\" data-original-title=\"Developed and maintained by Catalis\">Powered By <span>Catalis</span></a>"
+      }
+    ],
+    "headings": [
+      {
+        "target": "#skipToContent",
+        "level": 2,
+        "text": "Skip To Content",
+        "visible": true,
+        "box": {
+          "x": 40,
+          "y": -159960,
+          "w": 252,
+          "h": 19.1875
+        },
+        "html": "<h2 id=\"skipToContent\">Skip To Content</h2>"
+      },
+      {
+        "target": "body > header > div > div:nth-of-type(1) > h1",
+        "level": 1,
+        "text": "",
+        "visible": true,
+        "box": {
+          "x": 62,
+          "y": 0,
+          "w": 200,
+          "h": 80
+        },
+        "html": "<h1 class=\"siteLogo\"><a href=\"/\" title=\"Welcome to the City of Winkler\"></a></h1>"
+      },
+      {
+        "target": "header > div > div:nth-of-type(2) > nav > h2",
+        "level": 2,
+        "text": "Main Navigation",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h2 class=\"hideMe\">Main Navigation</h2>"
+      },
+      {
+        "target": "#quickLinks > h2",
+        "level": 2,
+        "text": "Quick Links",
+        "visible": true,
+        "box": {
+          "x": -159984,
+          "y": -159188,
+          "w": 157.515625,
+          "h": 32
+        },
+        "html": "<h2 class=\"hideMe\">Quick Links</h2>"
+      },
+      {
+        "target": "#\\#imageCaption0 > h2",
+        "level": 2,
+        "text": "Welcome to the",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h2>Welcome to the</h2>"
+      },
+      {
+        "target": "#\\#imageCaption0 > h3",
+        "level": 3,
+        "text": "City of Winkler",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h3>City of Winkler</h3>"
+      },
+      {
+        "target": "#\\#imageCaption1 > h2",
+        "level": 2,
+        "text": "SEPTEMBER 18",
+        "visible": true,
+        "box": {
+          "x": 81.953125,
+          "y": 256.75,
+          "w": 546.390625,
+          "h": 33
+        },
+        "html": "<h2>September 18</h2>"
+      },
+      {
+        "target": "#\\#imageCaption1 > h3",
+        "level": 3,
+        "text": "Home Opener Celebration",
+        "visible": true,
+        "box": {
+          "x": 81.953125,
+          "y": 289.75,
+          "w": 546.390625,
+          "h": 52
+        },
+        "html": "<h3>Home Opener Celebration</h3>"
+      },
+      {
+        "target": "#newsAndEvents",
+        "level": 2,
+        "text": "News & Events",
+        "visible": true,
+        "box": {
+          "x": -159984,
+          "y": -159984,
+          "w": 190.921875,
+          "h": 32
+        },
+        "html": "<h2 id=\"newsAndEvents\" class=\"hideMe\">News &amp; Events</h2>"
+      },
+      {
+        "target": "#recentEventsCont > a > h3",
+        "level": 3,
+        "text": "STAY UP TO DATE News & Announcements",
+        "visible": true,
+        "box": {
+          "x": 55.078125,
+          "y": 812,
+          "w": 587.84375,
+          "h": 95.203125
+        },
+        "html": "<h3><span>Stay Up To Date</span> News &amp; Announcements</h3>"
+      },
+      {
+        "target": "div:nth-of-type(1) > li > div > div:nth-of-type(2) > h4",
+        "level": 4,
+        "text": "Notice of Nomination",
+        "visible": true,
+        "box": {
+          "x": 76.078125,
+          "y": 1080.203125,
+          "w": 237,
+          "h": 70
+        },
+        "html": "<h4>Notice of Nomination</h4>"
+      },
+      {
+        "target": "div:nth-of-type(2) > li > div > div:nth-of-type(2) > h4",
+        "level": 4,
+        "text": "Notice of Public Hearing for Variance Application No. VA2026-007 - 156 North Railway Avenue",
+        "visible": true,
+        "box": {
+          "x": 385.078125,
+          "y": 1080.203125,
+          "w": 237,
+          "h": 70
+        },
+        "html": "<h4>Notice of Public Hearing for Variance Application No. VA2026-007 - 156 North Railway Avenue</h4>"
+      },
+      {
+        "target": "div:nth-of-type(3) > li > div > div:nth-of-type(2) > h4",
+        "level": 4,
+        "text": "Notice of Public Hearing for Conditional Use Application No. CU2026-012 - 156 North Railway Avenue",
+        "visible": true,
+        "box": {
+          "x": 694.078125,
+          "y": 1080.203125,
+          "w": 237,
+          "h": 70
+        },
+        "html": "<h4>Notice of Public Hearing for Conditional Use Application No. CU2026-012 - 156 North Railway Avenue</h4>"
+      },
+      {
+        "target": "div:nth-of-type(4) > li > div > div:nth-of-type(2) > h4",
+        "level": 4,
+        "text": "Notice of Public Hearing for Rezoning By-Law No. 2271-26",
+        "visible": true,
+        "box": {
+          "x": 1003.078125,
+          "y": 1080.203125,
+          "w": 237,
+          "h": 70
+        },
+        "html": "<h4>Notice of Public Hearing for Rezoning By-Law No. 2271-26</h4>"
+      },
+      {
+        "target": "div:nth-of-type(5) > li > div > div:nth-of-type(2) > h4",
+        "level": 4,
+        "text": "Notice of Public Hearing for Rezoning By-Law No. 2377-26",
+        "visible": true,
+        "box": {
+          "x": 1312.078125,
+          "y": 1080.203125,
+          "w": 237,
+          "h": 70
+        },
+        "html": "<h4>Notice of Public Hearing for Rezoning By-Law No. 2377-26 </h4>"
+      },
+      {
+        "target": "div:nth-of-type(6) > li > div > div:nth-of-type(2) > h4",
+        "level": 4,
+        "text": "Notice of Public Hearing for Subdivision No. 4463-25-8501",
+        "visible": true,
+        "box": {
+          "x": 1621.078125,
+          "y": 1080.203125,
+          "w": 237,
+          "h": 70
+        },
+        "html": "<h4>Notice of Public Hearing for Subdivision No. 4463-25-8501</h4>"
+      },
+      {
+        "target": "#upcomingEventsCont > a > h3",
+        "level": 3,
+        "text": "WHAT’S UP IN WINKLER Upcoming Events",
+        "visible": true,
+        "box": {
+          "x": 723.078125,
+          "y": 812,
+          "w": 587.84375,
+          "h": 95.203125
+        },
+        "html": "<h3><span>What’s Up In Winkler</span>Upcoming Events</h3>"
+      },
+      {
+        "target": "ul > li:nth-of-type(1) > div > div:nth-of-type(2) > h4",
+        "level": 4,
+        "text": "City of Winkler - Council Meeting",
+        "visible": true,
+        "box": {
+          "x": 851.34375,
+          "y": 969.46875,
+          "w": 316.46875,
+          "h": 19.1875
+        },
+        "html": "<h4>City of Winkler - Council Meeting</h4>"
+      },
+      {
+        "target": "ul > li:nth-of-type(2) > div > div:nth-of-type(2) > h4",
+        "level": 4,
+        "text": "City of Winkler - Council Meeting",
+        "visible": true,
+        "box": {
+          "x": 851.34375,
+          "y": 1104.390625,
+          "w": 316.46875,
+          "h": 19.1875
+        },
+        "html": "<h4>City of Winkler - Council Meeting</h4>"
+      },
+      {
+        "target": "ul > li:nth-of-type(3) > div > div:nth-of-type(2) > h4",
+        "level": 4,
+        "text": "Winkler Police Board Meeting",
+        "visible": true,
+        "box": {
+          "x": 851.34375,
+          "y": 1239.3125,
+          "w": 316.46875,
+          "h": 19.1875
+        },
+        "html": "<h4>Winkler Police Board Meeting</h4>"
+      },
+      {
+        "target": "ul > li > div > div:nth-of-type(2) > h4",
+        "level": 4,
+        "text": "City of Winkler - Council Meeting",
+        "visible": true,
+        "box": {
+          "x": 1469.34375,
+          "y": 969.46875,
+          "w": 316.46875,
+          "h": 19.1875
+        },
+        "html": "<h4>City of Winkler - Council Meeting</h4>"
+      },
+      {
+        "target": "#latestNewsLabel",
+        "level": 2,
+        "text": "Local Notices",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h2 class=\"modalTitle\" id=\"latestNewsLabel\">Local Notices</h2>"
+      },
+      {
+        "target": "#municipalEventsLabel",
+        "level": 2,
+        "text": "Municipal Events",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h2 class=\"modalTitle\" id=\"municipalEventsLabel\">Municipal Events</h2>"
+      },
+      {
+        "target": "div:nth-of-type(1) > div:nth-of-type(1) > div > div > h2",
+        "level": 2,
+        "text": "STAY CONNECTED Register With Us",
+        "visible": true,
+        "box": {
+          "x": 140.96875,
+          "y": 1533.203125,
+          "w": 1184.0625,
+          "h": 67.1875
+        },
+        "html": "<h2><span>Stay Connected</span>Register With Us</h2>"
+      },
+      {
+        "target": "section > div:nth-of-type(1) > div:nth-of-type(2) > div > h1",
+        "level": 1,
+        "text": "City of Winkler",
+        "visible": true,
+        "box": {
+          "x": 85.96875,
+          "y": 1819.578125,
+          "w": 257.796875,
+          "h": 80
+        },
+        "html": "<h1 class=\"siteBlueLogo\"><a href=\"/\" title=\"Welcome to\">City of Winkler</a></h1>"
+      },
+      {
+        "target": "div:nth-of-type(1) > div:nth-of-type(2) > div > div:nth-of-type(1) > h3",
+        "level": 3,
+        "text": "CONTACT US",
+        "visible": true,
+        "box": {
+          "x": 343.765625,
+          "y": 1819.578125,
+          "w": 310.609375,
+          "h": 19.1875
+        },
+        "html": "<h3>Contact Us</h3>"
+      },
+      {
+        "target": "div:nth-of-type(1) > div:nth-of-type(2) > div > div:nth-of-type(2) > h3",
+        "level": 3,
+        "text": "WINKLER RECREATION",
+        "visible": true,
+        "box": {
+          "x": 654.375,
+          "y": 1819.578125,
+          "w": 244.21875,
+          "h": 19.1875
+        },
+        "html": "<h3>Winkler Recreation</h3>"
+      },
+      {
+        "target": "div:nth-of-type(1) > div:nth-of-type(2) > div > div:nth-of-type(3) > h3",
+        "level": 3,
+        "text": "OFFICE HOURS",
+        "visible": true,
+        "box": {
+          "x": 978.59375,
+          "y": 1819.578125,
+          "w": 346.4375,
+          "h": 19.1875
+        },
+        "html": "<h3>Office Hours</h3>"
+      },
+      {
+        "target": "section > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > h2",
+        "level": 2,
+        "text": "Get In Touch",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h2>Get In Touch</h2>"
+      },
+      {
+        "target": "section > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > h2",
+        "level": 2,
+        "text": "Explore",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h2>Explore</h2>"
+      },
+      {
+        "target": "section > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(3) > h2",
+        "level": 2,
+        "text": "Register For E-News",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h2>Register For E-News</h2>"
+      },
+      {
+        "target": "#modalPollQuestionLabel",
+        "level": 2,
+        "text": "Tell Us What You Think",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h2 class=\"modalTitle\" id=\"modalPollQuestionLabel\">Tell Us What You Think</h2>"
+      },
+      {
+        "target": "#fireRatingModalLabel",
+        "level": 2,
+        "text": "Current Fire Rating",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h2 class=\"modalTitle iconFireRating modalFireRating fireModerate\" id=\"fireRatingModalLabel\">Current Fire Rating </h2>"
+      },
+      {
+        "target": "#weatherLabel",
+        "level": 2,
+        "text": "Local Weather",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h2 class=\"modalTitle\" id=\"weatherLabel\">Local Weather</h2>"
+      },
+      {
+        "target": "#upcomingEventsLabel",
+        "level": 2,
+        "text": "Upcoming Events",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h2 class=\"modalTitle\" id=\"upcomingEventsLabel\">Upcoming Events</h2>"
+      },
+      {
+        "target": "#registerLabel",
+        "level": 2,
+        "text": "Registration",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h2 class=\"modalTitle\" id=\"registerLabel\">Registration</h2>"
+      },
+      {
+        "target": "#idLiketoSearchModalLabel",
+        "level": 2,
+        "text": "Search and I Like To...",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h2 class=\"modalTitle\" id=\"idLiketoSearchModalLabel\">Search and I Like To...</h2>"
+      }
+    ],
+    "lang": "en",
+    "title": "City of Winkler, Manitoba - Home"
+  },
   "axe": {
     "violationRules": 8,
     "violationNodes": 96,
@@ -57,11 +2587,11 @@
       "sample": [
         {
           "target": "#weatherwidget-io-0 .currentTemp",
-          "html": "<div class=\"currentTemp ng-binding\">14°C</div>"
+          "html": "<div class=\"currentTemp ng-binding\">20°C</div>"
         },
         {
           "target": "#weatherwidget-io-0 .currentDesc",
-          "html": "<div class=\"currentDesc ng-binding\">broken clouds</div>"
+          "html": "<div class=\"currentDesc ng-binding\">overcast clouds</div>"
         },
         {
           "target": ".hcalendar[href$=\"waste-recycling-calendar\"] > .hcalendar-calendar",
@@ -71,7 +2601,7 @@
       "items": [
         {
           "target": "#weatherwidget-io-0 .currentTemp",
-          "html": "<div class=\"currentTemp ng-binding\">14°C</div>",
+          "html": "<div class=\"currentTemp ng-binding\">20°C</div>",
           "impact": "serious",
           "messages": [
             "Element has a 1:1 contrast ratio with the background"
@@ -80,7 +2610,7 @@
         },
         {
           "target": "#weatherwidget-io-0 .currentDesc",
-          "html": "<div class=\"currentDesc ng-binding\">broken clouds</div>",
+          "html": "<div class=\"currentDesc ng-binding\">overcast clouds</div>",
           "impact": "serious",
           "messages": [
             "Element has a 1:1 contrast ratio with the background"

@@ -19,7 +19,1206 @@
     "width": 1366,
     "height": 900
   },
-  "scannedAt": "2026-09-19T06:26:33.745Z",
+  "scannedAt": "2026-09-19T23:58:50.324Z",
+  "content": {
+    "images": [
+      {
+        "target": "#swiper-wrapper-2c3e4ee318f10ae1d > a:nth-of-type(1) > img",
+        "tag": "img",
+        "src": "https://www.rrc.ca/wp-content/uploads/sites/1/2026/02/RRC-LAS-English_Conversation_Circles-2025-Website_Banner-2400x960-Photo_Only-1536x614.jpg",
+        "alt": "Laughing male student in conversation with others around a table.",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 1366,
+        "naturalHeight": 546,
+        "box": {
+          "x": -2732,
+          "y": 121,
+          "w": 1366,
+          "h": 546.03125
+        },
+        "inLink": true,
+        "linkText": "English Conversation Circles WEEKLY DISCUSSIONS AND CULTURAL EXCHANGE",
+        "linkHref": "https://library.rrc.ca/eal_students/conversationcircles",
+        "caption": "",
+        "nearText": "English Conversation Circles WEEKLY DISCUSSIONS AND CULTURAL EXCHANGE",
+        "html": "<img fetchpriority=\"high\" decoding=\"async\" width=\"2400\" height=\"960\" class=\"wp-block-cover__image-background wp-image-15800 size-full\" alt=\"Laughing male student in conversation with others around a table.\" src=\"https://www.rrc.ca/wp-content/uploads/sites/1/2026/02/RRC-LAS-English_Conversation_Circles-2025-Website_Banner-2400x960-Photo_Only.jpg\" data-object-fit=\"cover\" srcset=\"https://www.rrc.ca/w"
+      },
+      {
+        "target": "#swiper-wrapper-2c3e4ee318f10ae1d > a:nth-of-type(2) > img",
+        "tag": "img",
+        "src": "https://www.rrc.ca/wp-content/uploads/sites/1/2025/09/FALL_EQUINOX-2025-Website_Banner-2400x960-Photo_Only-1536x614.jpg",
+        "alt": "Close up of hand using tongs to move bannock from tray to napkin.",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 1366,
+        "naturalHeight": 546,
+        "box": {
+          "x": -1366,
+          "y": 121,
+          "w": 1366,
+          "h": 546.03125
+        },
+        "inLink": true,
+        "linkText": "Fall Equinox Pipe Ceremony and Feast TUESDAY, SEPT. 22 • ROUNDHOUSE AUDITORIUM",
+        "linkHref": "https://www.rrc.ca/indigenous/2026/09/01/celebrate-the-fall-equinox-on-september-22/",
+        "caption": "",
+        "nearText": "Fall Equinox Pipe Ceremony and Feast TUESDAY, SEPT. 22 • ROUNDHOUSE AUDITORIUM",
+        "html": "<img decoding=\"async\" width=\"2400\" height=\"960\" class=\"wp-block-cover__image-background wp-image-15282 size-full\" alt=\"Close up of hand using tongs to move bannock from tray to napkin.\" src=\"https://www.rrc.ca/wp-content/uploads/sites/1/2025/09/FALL_EQUINOX-2025-Website_Banner-2400x960-Photo_Only.jpg\" data-object-fit=\"cover\" srcset=\"https://www.rrc.ca/wp-content/uploads/sites/1/2025/09/FALL_EQUINO"
+      },
+      {
+        "target": "#swiper-wrapper-2c3e4ee318f10ae1d > a:nth-of-type(3) > img",
+        "tag": "img",
+        "src": "https://www.rrc.ca/wp-content/uploads/sites/1/2026/09/PIAMM-Advanced_Manufacturing_Summit-2026-Website_Banner-2400x960-Photo_Only-1536x614.jpg",
+        "alt": "Students observe in background as instructor operates robotic arm.",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 1366,
+        "naturalHeight": 546,
+        "box": {
+          "x": 0,
+          "y": 121,
+          "w": 1366,
+          "h": 546.03125
+        },
+        "inLink": true,
+        "linkText": "CM&E Advanced Manufacturing Summit WEDNESDAY, OCT. 7 • NOTRE DAME CAMPUS",
+        "linkHref": "https://cme-mec.ca/connection/advanced-manufacturing-summit-winnipeg/",
+        "caption": "",
+        "nearText": "CM&E Advanced Manufacturing Summit WEDNESDAY, OCT. 7 • NOTRE DAME CAMPUS",
+        "html": "<img decoding=\"async\" width=\"2400\" height=\"960\" class=\"wp-block-cover__image-background wp-image-16450 size-full\" alt=\"Students observe in background as instructor operates robotic arm.\" src=\"https://www.rrc.ca/wp-content/uploads/sites/1/2026/09/PIAMM-Advanced_Manufacturing_Summit-2026-Website_Banner-2400x960-Photo_Only.jpg\" data-object-fit=\"cover\" srcset=\"https://www.rrc.ca/wp-content/uploads/sit"
+      },
+      {
+        "target": "#swiper-wrapper-2c3e4ee318f10ae1d > a:nth-of-type(4) > img",
+        "tag": "img",
+        "src": "https://www.rrc.ca/wp-content/uploads/sites/1/2026/04/INFO_NIGHT-South_Winnipeg_Campus-Website_Banner-2400x960-Photo_Only-1536x614.jpg",
+        "alt": "Exterior of MITT campus building (soon to be RRC Polytechnic South Winnipeg Campus)",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 1366,
+        "naturalHeight": 546,
+        "box": {
+          "x": 1366,
+          "y": 121,
+          "w": 1366,
+          "h": 546.03125
+        },
+        "inLink": true,
+        "linkText": "Updates on MITT Transition 19 PROGRAMS TO BE DELIVERED AT SOUTH WINNIPEG CAMPUS",
+        "linkHref": "https://www.rrc.ca/marcom/category/mitt/",
+        "caption": "",
+        "nearText": "Updates on MITT Transition 19 PROGRAMS TO BE DELIVERED AT SOUTH WINNIPEG CAMPUS",
+        "html": "<img decoding=\"async\" width=\"2400\" height=\"960\" class=\"wp-block-cover__image-background wp-image-16022 size-full\" alt=\"Exterior of MITT campus building (soon to be RRC Polytechnic South Winnipeg Campus)\" src=\"https://www.rrc.ca/wp-content/uploads/sites/1/2026/04/INFO_NIGHT-South_Winnipeg_Campus-Website_Banner-2400x960-Photo_Only.jpg\" data-object-fit=\"cover\" srcset=\"https://www.rrc.ca/wp-content/up"
+      },
+      {
+        "target": "div:nth-of-type(1) > div > figure > a > img",
+        "tag": "img",
+        "src": "https://www.rrc.ca/wp-content/uploads/sites/1/2023/02/explore-box.jpg",
+        "alt": "Student sitting at a table in a classroom and using a computer",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 750,
+        "naturalHeight": 460,
+        "box": {
+          "x": 103,
+          "y": 716.03125,
+          "w": 370.65625,
+          "h": 227.328125
+        },
+        "inLink": true,
+        "linkText": "Program Explorer",
+        "linkHref": "/explore/",
+        "caption": "Program Explorer",
+        "nearText": "Program Explorer",
+        "html": "<img decoding=\"async\" width=\"750\" height=\"460\" src=\"https://www.rrc.ca/wp-content/uploads/sites/1/2023/02/explore-box.jpg\" alt=\"Student sitting at a table in a classroom and using a computer\" class=\"wp-image-10219\" srcset=\"https://www.rrc.ca/wp-content/uploads/sites/1/2023/02/explore-box.jpg 750w, https://www.rrc.ca/wp-content/uploads/sites/1/2023/02/explore-box-300x184.jpg 300w\" sizes=\"(max-width"
+      },
+      {
+        "target": "div:nth-of-type(2) > div > figure > a > img",
+        "tag": "img",
+        "src": "https://www.rrc.ca/wp-content/uploads/sites/1/2020/12/CE_homepage-graphic_750x460_.jpg",
+        "alt": "Woman sitting in classroom",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 750,
+        "naturalHeight": 460,
+        "box": {
+          "x": 497.65625,
+          "y": 716.03125,
+          "w": 370.671875,
+          "h": 227.34375
+        },
+        "inLink": true,
+        "linkText": "Part-time and Online Education",
+        "linkHref": "https://www.rrc.ca/part-time/",
+        "caption": "Part-time and Online Education",
+        "nearText": "Part-time and Online Education",
+        "html": "<img decoding=\"async\" width=\"750\" height=\"460\" src=\"https://www.rrc.ca/wp-content/uploads/sites/1/2020/12/CE_homepage-graphic_750x460_.jpg\" alt=\"Woman sitting in classroom\" class=\"wp-image-6129\" srcset=\"https://www.rrc.ca/wp-content/uploads/sites/1/2020/12/CE_homepage-graphic_750x460_.jpg 750w, https://www.rrc.ca/wp-content/uploads/sites/1/2020/12/CE_homepage-graphic_750x460_-300x184.jpg 300w\" siz"
+      },
+      {
+        "target": "div:nth-of-type(3) > div > figure > a > img",
+        "tag": "img",
+        "src": "https://www.rrc.ca/wp-content/uploads/sites/1/2024/08/RRC-Winter_Opportunities-2025.jpg",
+        "alt": "Three students talking to one another in a classroom",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 750,
+        "naturalHeight": 460,
+        "box": {
+          "x": 892.328125,
+          "y": 716.03125,
+          "w": 370.671875,
+          "h": 227.34375
+        },
+        "inLink": true,
+        "linkText": "Winter Opportunities",
+        "linkHref": "https://www.rrc.ca/explore/opportunities/",
+        "caption": "Winter Opportunities",
+        "nearText": "Winter Opportunities",
+        "html": "<img decoding=\"async\" width=\"750\" height=\"460\" src=\"https://www.rrc.ca/wp-content/uploads/sites/1/2024/08/RRC-Winter_Opportunities-2025.jpg\" alt=\"Three students talking to one another in a classroom\" class=\"wp-image-13509\" srcset=\"https://www.rrc.ca/wp-content/uploads/sites/1/2024/08/RRC-Winter_Opportunities-2025.jpg 750w, https://www.rrc.ca/wp-content/uploads/sites/1/2024/08/RRC-Winter_Opportunit"
+      }
+    ],
+    "links": [
+      {
+        "target": "#skip-to-main-content",
+        "text": "Skip to Main Content",
+        "ariaLabel": "",
+        "title": "",
+        "href": "#main-content",
+        "imgAlt": "",
+        "box": {
+          "x": 595.640625,
+          "y": 0,
+          "w": 174.703125,
+          "h": 37
+        },
+        "context": "",
+        "contextKind": "none",
+        "html": "<a class=\"skip-to-content\" id=\"skip-to-main-content\" href=\"#main-content\">\n\t\t\t\t<span class=\"skip-to-content__text\">\n\t\t\t\t\tSkip to Main Content\n\t\t\t\t</span>\n\t\t\t</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > div > div > a:nth-of-type(1)",
+        "text": "Red River College Polytechnic",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.rrc.ca/",
+        "imgAlt": "",
+        "box": {
+          "x": 103,
+          "y": 20,
+          "w": 280,
+          "h": 45
+        },
+        "context": "Red River College Polytechnic Back LAND ACKNOWLEDGEMENT NEWS STAFF LOG IN APPLY DONATE ABOUT ACADEMICS FUTURE STUDENTS SERVICES SUPPORTS CAMPUSES RESEARCH INTERNATIONAL",
+        "contextKind": "block",
+        "html": "<a class=\"logo-link\" href=\"https://www.rrc.ca/\">Red River College Polytechnic</a>"
+      },
+      {
+        "target": "#mmenujs-header-back",
+        "text": "Back",
+        "ariaLabel": "",
+        "title": "",
+        "href": "#",
+        "imgAlt": "",
+        "box": {
+          "x": 103,
+          "y": 10.5,
+          "w": 58.21875,
+          "h": 64
+        },
+        "context": "Red River College Polytechnic Back LAND ACKNOWLEDGEMENT NEWS STAFF LOG IN APPLY DONATE ABOUT ACADEMICS FUTURE STUDENTS SERVICES SUPPORTS CAMPUSES RESEARCH INTERNATIONAL",
+        "contextKind": "block",
+        "html": "<a id=\"mmenujs-header-back\" href=\"#\" inert=\"true\"><span>Back</span></a>"
+      },
+      {
+        "target": "#menu-item-7671 > a",
+        "text": "LAND ACKNOWLEDGEMENT",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.rrc.ca/truth-and-reconciliation/initiatives/",
+        "imgAlt": "",
+        "box": {
+          "x": 679.921875,
+          "y": 34,
+          "w": 192.65625,
+          "h": 14
+        },
+        "context": "LAND ACKNOWLEDGEMENT",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.rrc.ca/truth-and-reconciliation/initiatives/\">Land Acknowledgement</a>"
+      },
+      {
+        "target": "#menu-item-1060 > a",
+        "text": "NEWS",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.rrc.ca/newsroom/",
+        "imgAlt": "",
+        "box": {
+          "x": 884.265625,
+          "y": 34,
+          "w": 47.15625,
+          "h": 14
+        },
+        "context": "NEWS",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.rrc.ca/newsroom/\">News</a>"
+      },
+      {
+        "target": "#menu-item-5916 > a",
+        "text": "STAFF",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://rrcca.sharepoint.com/sites/SF-Home",
+        "imgAlt": "",
+        "box": {
+          "x": 943.109375,
+          "y": 34,
+          "w": 49.921875,
+          "h": 14
+        },
+        "context": "STAFF",
+        "contextKind": "li",
+        "html": "<a href=\"https://rrcca.sharepoint.com/sites/SF-Home\">Staff</a>"
+      },
+      {
+        "target": "#menu-item-1024 > a",
+        "text": "LOG IN",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://hub.rrc.ca",
+        "imgAlt": "",
+        "box": {
+          "x": 1004.71875,
+          "y": 34,
+          "w": 53.296875,
+          "h": 14
+        },
+        "context": "LOG IN",
+        "contextKind": "li",
+        "html": "<a href=\"https://hub.rrc.ca\">Log In</a>"
+      },
+      {
+        "target": "#menu-item-10230 > a",
+        "text": "APPLY",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://apply.rrc.ca",
+        "imgAlt": "",
+        "box": {
+          "x": 1069.703125,
+          "y": 34,
+          "w": 52.203125,
+          "h": 14
+        },
+        "context": "APPLY",
+        "contextKind": "li",
+        "html": "<a href=\"https://apply.rrc.ca\">Apply</a>"
+      },
+      {
+        "target": "#menu-item-1027 > a",
+        "text": "DONATE",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.rrc.ca/fundraising/donate/",
+        "imgAlt": "",
+        "box": {
+          "x": 1144.59375,
+          "y": 27,
+          "w": 68.40625,
+          "h": 29
+        },
+        "context": "DONATE",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.rrc.ca/fundraising/donate/\">Donate</a>"
+      },
+      {
+        "target": "#menu-item-78 > a",
+        "text": "ABOUT",
+        "ariaLabel": "About - Press the Down arrow key to expand or the escape key to collapse this menu",
+        "title": "",
+        "href": "https://www.rrc.ca/about/",
+        "imgAlt": "",
+        "box": {
+          "x": 103,
+          "y": 90,
+          "w": 145,
+          "h": 30
+        },
+        "context": "ABOUT",
+        "contextKind": "li",
+        "html": "<a aria-haspopup=\"true\" aria-expanded=\"false\" aria-label=\"About - Press the Down arrow key to expand or the escape key to collapse this menu\" href=\"https://www.rrc.ca/about/\">About</a>"
+      },
+      {
+        "target": "#menu-item-81 > a",
+        "text": "ACADEMICS",
+        "ariaLabel": "Academics - Press the Down arrow key to expand or the escape key to collapse this menu",
+        "title": "",
+        "href": "https://www.rrc.ca/academics/",
+        "imgAlt": "",
+        "box": {
+          "x": 248,
+          "y": 90,
+          "w": 145,
+          "h": 30
+        },
+        "context": "ACADEMICS",
+        "contextKind": "li",
+        "html": "<a aria-haspopup=\"true\" aria-expanded=\"false\" aria-label=\"Academics - Press the Down arrow key to expand or the escape key to collapse this menu\" href=\"https://www.rrc.ca/academics/\">Academics</a>"
+      },
+      {
+        "target": "#menu-item-96 > a",
+        "text": "FUTURE STUDENTS",
+        "ariaLabel": "Future Students - Press the Down arrow key to expand or the escape key to collapse this menu",
+        "title": "",
+        "href": "https://www.rrc.ca/future-students/",
+        "imgAlt": "",
+        "box": {
+          "x": 393,
+          "y": 90,
+          "w": 145,
+          "h": 30
+        },
+        "context": "FUTURE STUDENTS",
+        "contextKind": "li",
+        "html": "<a aria-haspopup=\"true\" aria-expanded=\"false\" aria-label=\"Future Students - Press the Down arrow key to expand or the escape key to collapse this menu\" href=\"https://www.rrc.ca/future-students/\">Future Students</a>"
+      },
+      {
+        "target": "#menu-item-135 > a",
+        "text": "SERVICES",
+        "ariaLabel": "Services - Press the Down arrow key to expand or the escape key to collapse this menu",
+        "title": "",
+        "href": "https://www.rrc.ca/services/",
+        "imgAlt": "",
+        "box": {
+          "x": 538,
+          "y": 90,
+          "w": 145,
+          "h": 30
+        },
+        "context": "SERVICES",
+        "contextKind": "li",
+        "html": "<a aria-haspopup=\"true\" aria-expanded=\"false\" aria-label=\"Services - Press the Down arrow key to expand or the escape key to collapse this menu\" href=\"https://www.rrc.ca/services/\">Services</a>"
+      },
+      {
+        "target": "#menu-item-142 > a",
+        "text": "SUPPORTS",
+        "ariaLabel": "Supports - Press the Down arrow key to expand or the escape key to collapse this menu",
+        "title": "",
+        "href": "https://www.rrc.ca/supports/",
+        "imgAlt": "",
+        "box": {
+          "x": 683,
+          "y": 90,
+          "w": 145,
+          "h": 30
+        },
+        "context": "SUPPORTS",
+        "contextKind": "li",
+        "html": "<a aria-haspopup=\"true\" aria-expanded=\"false\" aria-label=\"Supports - Press the Down arrow key to expand or the escape key to collapse this menu\" href=\"https://www.rrc.ca/supports/\">Supports</a>"
+      },
+      {
+        "target": "#menu-item-83 > a",
+        "text": "CAMPUSES",
+        "ariaLabel": "Campuses - Press the Down arrow key to expand or the escape key to collapse this menu",
+        "title": "",
+        "href": "https://www.rrc.ca/campuses/",
+        "imgAlt": "",
+        "box": {
+          "x": 828,
+          "y": 90,
+          "w": 145,
+          "h": 30
+        },
+        "context": "CAMPUSES",
+        "contextKind": "li",
+        "html": "<a aria-haspopup=\"true\" aria-expanded=\"false\" aria-label=\"Campuses - Press the Down arrow key to expand or the escape key to collapse this menu\" href=\"https://www.rrc.ca/campuses/\">Campuses</a>"
+      },
+      {
+        "target": "#menu-item-132 > a",
+        "text": "RESEARCH",
+        "ariaLabel": "Research - Press the Down arrow key to expand or the escape key to collapse this menu",
+        "title": "",
+        "href": "https://www.rrc.ca/research/",
+        "imgAlt": "",
+        "box": {
+          "x": 973,
+          "y": 90,
+          "w": 145,
+          "h": 30
+        },
+        "context": "RESEARCH",
+        "contextKind": "li",
+        "html": "<a aria-haspopup=\"true\" aria-expanded=\"false\" aria-label=\"Research - Press the Down arrow key to expand or the escape key to collapse this menu\" href=\"https://www.rrc.ca/research/\">Research</a>"
+      },
+      {
+        "target": "#menu-item-185 > a",
+        "text": "INTERNATIONAL",
+        "ariaLabel": "International - Press the Down arrow key to expand or the escape key to collapse this menu",
+        "title": "",
+        "href": "https://www.rrc.ca/global/",
+        "imgAlt": "",
+        "box": {
+          "x": 1118,
+          "y": 90,
+          "w": 145,
+          "h": 30
+        },
+        "context": "INTERNATIONAL",
+        "contextKind": "li",
+        "html": "<a aria-haspopup=\"true\" aria-expanded=\"false\" aria-label=\"International - Press the Down arrow key to expand or the escape key to collapse this menu\" href=\"https://www.rrc.ca/global/\">International</a>"
+      },
+      {
+        "target": "#swiper-wrapper-2c3e4ee318f10ae1d > a:nth-of-type(1)",
+        "text": "English Conversation Circles WEEKLY DISCUSSIONS AND CULTURAL EXCHANGE",
+        "ariaLabel": "1 / 4",
+        "title": "",
+        "href": "https://library.rrc.ca/eal_students/conversationcircles",
+        "imgAlt": "Laughing male student in conversation with others around a table.",
+        "box": {
+          "x": -2732,
+          "y": 121,
+          "w": 1366,
+          "h": 546.03125
+        },
+        "context": "",
+        "contextKind": "none",
+        "html": "<a href=\"https://library.rrc.ca/eal_students/conversationcircles\" class=\"wp-block-cover has-custom-content-position is-position-bottom-left swiper-slide hero\" style=\"width: 1366px;\" role=\"group\" aria-label=\"1 / 4\"><img fetchpriority=\"high\" decoding=\"async\" width=\"2400\" height=\"960\" class=\"wp-block-c"
+      },
+      {
+        "target": "#swiper-wrapper-2c3e4ee318f10ae1d > a:nth-of-type(2)",
+        "text": "Fall Equinox Pipe Ceremony and Feast TUESDAY, SEPT. 22 • ROUNDHOUSE AUDITORIUM",
+        "ariaLabel": "2 / 4",
+        "title": "",
+        "href": "https://www.rrc.ca/indigenous/2026/09/01/celebrate-the-fall-equinox-on-september-22/",
+        "imgAlt": "Close up of hand using tongs to move bannock from tray to napkin.",
+        "box": {
+          "x": -1366,
+          "y": 121,
+          "w": 1366,
+          "h": 546.03125
+        },
+        "context": "heading: English Conversation Circles",
+        "contextKind": "heading-only",
+        "html": "<a href=\"https://www.rrc.ca/indigenous/2026/09/01/celebrate-the-fall-equinox-on-september-22/\" class=\"wp-block-cover has-custom-content-position is-position-bottom-left swiper-slide hero swiper-slide-prev\" style=\"width: 1366px;\" role=\"group\" aria-label=\"2 / 4\"><img decoding=\"async\" width=\"2400\" heig"
+      },
+      {
+        "target": "#swiper-wrapper-2c3e4ee318f10ae1d > a:nth-of-type(3)",
+        "text": "CM&E Advanced Manufacturing Summit WEDNESDAY, OCT. 7 • NOTRE DAME CAMPUS",
+        "ariaLabel": "3 / 4",
+        "title": "",
+        "href": "https://cme-mec.ca/connection/advanced-manufacturing-summit-winnipeg/",
+        "imgAlt": "Students observe in background as instructor operates robotic arm.",
+        "box": {
+          "x": 0,
+          "y": 121,
+          "w": 1366,
+          "h": 546.03125
+        },
+        "context": "heading: Fall Equinox Pipe Ceremony and Feast",
+        "contextKind": "heading-only",
+        "html": "<a href=\"https://cme-mec.ca/connection/advanced-manufacturing-summit-winnipeg/\" class=\"wp-block-cover has-custom-content-position is-position-bottom-left swiper-slide hero swiper-slide-active\" style=\"width: 1366px;\" role=\"group\" aria-label=\"3 / 4\"><img decoding=\"async\" width=\"2400\" height=\"960\" clas"
+      },
+      {
+        "target": "#swiper-wrapper-2c3e4ee318f10ae1d > a:nth-of-type(4)",
+        "text": "Updates on MITT Transition 19 PROGRAMS TO BE DELIVERED AT SOUTH WINNIPEG CAMPUS",
+        "ariaLabel": "4 / 4",
+        "title": "",
+        "href": "https://www.rrc.ca/marcom/category/mitt/",
+        "imgAlt": "Exterior of MITT campus building (soon to be RRC Polytechnic South Winnipeg Campus)",
+        "box": {
+          "x": 1366,
+          "y": 121,
+          "w": 1366,
+          "h": 546.03125
+        },
+        "context": "heading: CM&E Advanced Manufacturing Summit",
+        "contextKind": "heading-only",
+        "html": "<a href=\"https://www.rrc.ca/marcom/category/mitt/\" class=\"wp-block-cover has-custom-content-position is-position-bottom-left swiper-slide hero swiper-slide-next\" role=\"group\" aria-label=\"4 / 4\" style=\"width: 1366px;\"><img decoding=\"async\" width=\"2400\" height=\"960\" class=\"wp-block-cover__image-backgr"
+      },
+      {
+        "target": "div:nth-of-type(2) > div:nth-of-type(1) > div > figure > a",
+        "text": "Program Explorer",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/explore/",
+        "imgAlt": "Student sitting at a table in a classroom and using a computer",
+        "box": {
+          "x": 103,
+          "y": 716.03125,
+          "w": 370.65625,
+          "h": 227.328125
+        },
+        "context": "heading: Updates on MITT Transition | Program Explorer Explore 150+ programs as you start your journey at RRC Polytech.",
+        "contextKind": "block",
+        "html": "<a href=\"/explore/\"><img decoding=\"async\" width=\"750\" height=\"460\" src=\"https://www.rrc.ca/wp-content/uploads/sites/1/2023/02/explore-box.jpg\" alt=\"Student sitting at a table in a classroom and using a computer\" class=\"wp-image-10219\" srcset=\"https://www.rrc.ca/wp-content/uploads/sites/1/2023/02/exp"
+      },
+      {
+        "target": "div:nth-of-type(2) > div:nth-of-type(2) > div > figure > a",
+        "text": "Part-time and Online Education",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.rrc.ca/part-time/",
+        "imgAlt": "Woman sitting in classroom",
+        "box": {
+          "x": 497.65625,
+          "y": 716.03125,
+          "w": 370.671875,
+          "h": 227.34375
+        },
+        "context": "heading: Updates on MITT Transition | Part-time and Online Education Flexible programs and courses that work around your schedule.",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.rrc.ca/part-time/\"><img decoding=\"async\" width=\"750\" height=\"460\" src=\"https://www.rrc.ca/wp-content/uploads/sites/1/2020/12/CE_homepage-graphic_750x460_.jpg\" alt=\"Woman sitting in classroom\" class=\"wp-image-6129\" srcset=\"https://www.rrc.ca/wp-content/uploads/sites/1/2020/12/CE_"
+      },
+      {
+        "target": "div:nth-of-type(2) > div:nth-of-type(3) > div > figure > a",
+        "text": "Winter Opportunities",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.rrc.ca/explore/opportunities/",
+        "imgAlt": "Three students talking to one another in a classroom",
+        "box": {
+          "x": 892.328125,
+          "y": 716.03125,
+          "w": 370.671875,
+          "h": 227.34375
+        },
+        "context": "heading: Updates on MITT Transition | Winter Opportunities Explore full-time programs starting in the winter term.",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.rrc.ca/explore/opportunities/\"><img decoding=\"async\" width=\"750\" height=\"460\" src=\"https://www.rrc.ca/wp-content/uploads/sites/1/2024/08/RRC-Winter_Opportunities-2025.jpg\" alt=\"Three students talking to one another in a classroom\" class=\"wp-image-13509\" srcset=\"https://www.rrc.c"
+      },
+      {
+        "target": "#land-acknowledgment > div > div > div > a",
+        "text": "LEARN MORE",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.rrc.ca/truth-and-reconciliation/initiatives/",
+        "imgAlt": "",
+        "box": {
+          "x": 110,
+          "y": 1293.375,
+          "w": 127.984375,
+          "h": 24
+        },
+        "context": "heading: Updates on MITT Transition",
+        "contextKind": "heading-only",
+        "html": "<a class=\"wp-block-button__link wp-element-button\" href=\"https://www.rrc.ca/truth-and-reconciliation/initiatives/\">Learn more</a>"
+      },
+      {
+        "target": "#menu-item-7672 > a",
+        "text": "Contact Us",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.rrc.ca/contact/",
+        "imgAlt": "",
+        "box": {
+          "x": 103,
+          "y": 1465.375,
+          "w": 85.484375,
+          "h": 16.796875
+        },
+        "context": "Contact Us",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.rrc.ca/contact/\">Contact Us</a>"
+      },
+      {
+        "target": "#menu-item-1061 > a",
+        "text": "Campus Tours",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/student/campus-tours/",
+        "imgAlt": "",
+        "box": {
+          "x": 103,
+          "y": 1494.171875,
+          "w": 104.78125,
+          "h": 16.796875
+        },
+        "context": "Campus Tours",
+        "contextKind": "li",
+        "html": "<a href=\"/student/campus-tours/\">Campus Tours</a>"
+      },
+      {
+        "target": "#menu-item-1062 > a",
+        "text": "Employment Opportunities",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/hr/work/employment-opportunities/",
+        "imgAlt": "",
+        "box": {
+          "x": 103,
+          "y": 1522.96875,
+          "w": 188,
+          "h": 16.796875
+        },
+        "context": "Employment Opportunities",
+        "contextKind": "li",
+        "html": "<a href=\"/hr/work/employment-opportunities/\">Employment Opportunities</a>"
+      },
+      {
+        "target": "#menu-item-8538 > a",
+        "text": "Hire a Student",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.rrc.ca/careerservices/employers/",
+        "imgAlt": "",
+        "box": {
+          "x": 103,
+          "y": 1551.765625,
+          "w": 107.578125,
+          "h": 16.796875
+        },
+        "context": "Hire a Student",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.rrc.ca/careerservices/employers/\">Hire a Student</a>"
+      },
+      {
+        "target": "#menu-item-8539 > a",
+        "text": "Maps",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.rrc.ca/maps/?campus=ndc",
+        "imgAlt": "",
+        "box": {
+          "x": 103,
+          "y": 1580.5625,
+          "w": 47.875,
+          "h": 16.796875
+        },
+        "context": "Maps",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.rrc.ca/maps/?campus=ndc\">Maps</a>"
+      },
+      {
+        "target": "#menu-item-1064 > a",
+        "text": "Media",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/media/",
+        "imgAlt": "",
+        "box": {
+          "x": 103,
+          "y": 1609.359375,
+          "w": 52.46875,
+          "h": 16.796875
+        },
+        "context": "Media",
+        "contextKind": "li",
+        "html": "<a href=\"/media/\">Media</a>"
+      },
+      {
+        "target": "#menu-item-8540 > a",
+        "text": "Social Media",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.rrc.ca/about/social-media/",
+        "imgAlt": "",
+        "box": {
+          "x": 103,
+          "y": 1638.15625,
+          "w": 95.28125,
+          "h": 16.796875
+        },
+        "context": "Social Media",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.rrc.ca/about/social-media/\">Social Media</a>"
+      },
+      {
+        "target": "#menu-item-5470 > a",
+        "text": "Copyright",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://library.rrc.ca/copyright/",
+        "imgAlt": "",
+        "box": {
+          "x": 296.328125,
+          "y": 1465.375,
+          "w": 77.453125,
+          "h": 16.796875
+        },
+        "context": "Copyright",
+        "contextKind": "li",
+        "html": "<a href=\"https://library.rrc.ca/copyright/\">Copyright</a>"
+      },
+      {
+        "target": "#menu-item-1066 > a",
+        "text": "Emerging Media and Production",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/emergingmedia/",
+        "imgAlt": "",
+        "box": {
+          "x": 296.328125,
+          "y": 1492.171875,
+          "w": 193.328125,
+          "h": 33.59375
+        },
+        "context": "Emerging Media and Production",
+        "contextKind": "li",
+        "html": "<a href=\"/emergingmedia/\">Emerging Media and Production</a>"
+      },
+      {
+        "target": "#menu-item-1023 > a",
+        "text": "Instructional Resources",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://rrcca.sharepoint.com/sites/SF-Home",
+        "imgAlt": "",
+        "box": {
+          "x": 296.328125,
+          "y": 1537.765625,
+          "w": 167.234375,
+          "h": 16.796875
+        },
+        "context": "Instructional Resources",
+        "contextKind": "li",
+        "html": "<a href=\"https://rrcca.sharepoint.com/sites/SF-Home\">Instructional Resources</a>"
+      },
+      {
+        "target": "#menu-item-1067 > a",
+        "text": "Learning Technologies",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/tltc/",
+        "imgAlt": "",
+        "box": {
+          "x": 296.328125,
+          "y": 1566.5625,
+          "w": 158.578125,
+          "h": 16.796875
+        },
+        "context": "Learning Technologies",
+        "contextKind": "li",
+        "html": "<a href=\"/tltc/\">Learning Technologies</a>"
+      },
+      {
+        "target": "#menu-item-8542 > a",
+        "text": "Alumni",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.rrc.ca/alumni/",
+        "imgAlt": "",
+        "box": {
+          "x": 489.65625,
+          "y": 1465.375,
+          "w": 59.40625,
+          "h": 16.796875
+        },
+        "context": "Alumni",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.rrc.ca/alumni/\">Alumni</a>"
+      },
+      {
+        "target": "#menu-item-8543 > a",
+        "text": "Applied Research",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.rrc.ca/ar/",
+        "imgAlt": "",
+        "box": {
+          "x": 489.65625,
+          "y": 1494.171875,
+          "w": 126.84375,
+          "h": 16.796875
+        },
+        "context": "Applied Research",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.rrc.ca/ar/\">Applied Research</a>"
+      },
+      {
+        "target": "#menu-item-8544 > a",
+        "text": "Corporate Solutions",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.rrc.ca/corporatesolutions/",
+        "imgAlt": "",
+        "box": {
+          "x": 489.65625,
+          "y": 1522.96875,
+          "w": 143.234375,
+          "h": 16.796875
+        },
+        "context": "Corporate Solutions",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.rrc.ca/corporatesolutions/\">Corporate Solutions</a>"
+      },
+      {
+        "target": "#menu-item-5204 > a",
+        "text": "Future Partners",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.rrc.ca/future-partners/",
+        "imgAlt": "",
+        "box": {
+          "x": 489.65625,
+          "y": 1551.765625,
+          "w": 115.84375,
+          "h": 16.796875
+        },
+        "context": "Future Partners",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.rrc.ca/future-partners/\">Future Partners</a>"
+      },
+      {
+        "target": "#menu-item-8545 > a",
+        "text": "Technology Solutions",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.rrc.ca/techsolutions/",
+        "imgAlt": "",
+        "box": {
+          "x": 489.65625,
+          "y": 1580.5625,
+          "w": 151.65625,
+          "h": 16.796875
+        },
+        "context": "Technology Solutions",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.rrc.ca/techsolutions/\">Technology Solutions</a>"
+      },
+      {
+        "target": "#menu-item-8547 > a",
+        "text": "Apprenticeship",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.rrc.ca/future-students/apprenticeship/",
+        "imgAlt": "",
+        "box": {
+          "x": 682.984375,
+          "y": 1465.375,
+          "w": 111.796875,
+          "h": 16.796875
+        },
+        "context": "Apprenticeship",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.rrc.ca/future-students/apprenticeship/\">Apprenticeship</a>"
+      },
+      {
+        "target": "#menu-item-8550 > a",
+        "text": "Centre for Newcomer Integration",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.rrc.ca/cni/",
+        "imgAlt": "",
+        "box": {
+          "x": 682.984375,
+          "y": 1492.171875,
+          "w": 193.328125,
+          "h": 33.59375
+        },
+        "context": "Centre for Newcomer Integration",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.rrc.ca/cni/\">Centre for Newcomer Integration</a>"
+      },
+      {
+        "target": "#menu-item-8548 > a",
+        "text": "Indigenous Education",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.rrc.ca/indigenous/",
+        "imgAlt": "",
+        "box": {
+          "x": 682.984375,
+          "y": 1537.765625,
+          "w": 152.65625,
+          "h": 16.796875
+        },
+        "context": "Indigenous Education",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.rrc.ca/indigenous/\">Indigenous Education</a>"
+      },
+      {
+        "target": "#menu-item-8549 > a",
+        "text": "International Education",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.rrc.ca/international/",
+        "imgAlt": "",
+        "box": {
+          "x": 682.984375,
+          "y": 1566.5625,
+          "w": 165.59375,
+          "h": 16.796875
+        },
+        "context": "International Education",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.rrc.ca/international/\">International Education</a>"
+      },
+      {
+        "target": "#menu-item-8551 > a",
+        "text": "Part-time and Online Education",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.rrc.ca/part-time/",
+        "imgAlt": "",
+        "box": {
+          "x": 682.984375,
+          "y": 1593.359375,
+          "w": 193.328125,
+          "h": 33.59375
+        },
+        "context": "Part-time and Online Education",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.rrc.ca/part-time/\">Part-time and Online Education</a>"
+      },
+      {
+        "target": "#menu-item-13899 > a",
+        "text": "Simulation Centre",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.rrc.ca/simulation-centre/",
+        "imgAlt": "",
+        "box": {
+          "x": 682.984375,
+          "y": 1638.953125,
+          "w": 130.46875,
+          "h": 16.796875
+        },
+        "context": "Simulation Centre",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.rrc.ca/simulation-centre/\">Simulation Centre</a>"
+      },
+      {
+        "target": "#menu-item-6170 > a",
+        "text": "Work-Integrated Learning",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.rrc.ca/work-integrated-learning/",
+        "imgAlt": "",
+        "box": {
+          "x": 682.984375,
+          "y": 1667.75,
+          "w": 179.265625,
+          "h": 16.796875
+        },
+        "context": "Work-Integrated Learning",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.rrc.ca/work-integrated-learning/\">Work-Integrated Learning</a>"
+      },
+      {
+        "target": "#menu-item-8296 > a",
+        "text": "Convocation",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.rrc.ca/convocation/",
+        "imgAlt": "",
+        "box": {
+          "x": 876.3125,
+          "y": 1465.375,
+          "w": 93.90625,
+          "h": 16.796875
+        },
+        "context": "Convocation",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.rrc.ca/convocation/\">Convocation</a>"
+      },
+      {
+        "target": "#menu-item-1079 > a",
+        "text": "Library and Academic Services",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://library.rrc.ca",
+        "imgAlt": "",
+        "box": {
+          "x": 876.3125,
+          "y": 1492.171875,
+          "w": 193.328125,
+          "h": 33.59375
+        },
+        "context": "Library and Academic Services",
+        "contextKind": "li",
+        "html": "<a href=\"https://library.rrc.ca\">Library and Academic Services</a>"
+      },
+      {
+        "target": "#menu-item-8553 > a",
+        "text": "Students’ Association",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://rrcsa.ca/",
+        "imgAlt": "",
+        "box": {
+          "x": 876.3125,
+          "y": 1537.765625,
+          "w": 155.125,
+          "h": 16.796875
+        },
+        "context": "Students’ Association",
+        "contextKind": "li",
+        "html": "<a href=\"https://rrcsa.ca/\">Students’ Association</a>"
+      },
+      {
+        "target": "#menu-item-340 > a",
+        "text": "Student Service Centres",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.rrc.ca/services/student-service-centres/",
+        "imgAlt": "",
+        "box": {
+          "x": 876.3125,
+          "y": 1566.5625,
+          "w": 171.578125,
+          "h": 16.796875
+        },
+        "context": "Student Service Centres",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.rrc.ca/services/student-service-centres/\">Student Service Centres</a>"
+      },
+      {
+        "target": "#menu-item-5935 > a",
+        "text": "Accessibility",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.rrc.ca/legal/accessibility/",
+        "imgAlt": "",
+        "box": {
+          "x": 1069.640625,
+          "y": 1465.375,
+          "w": 95.28125,
+          "h": 16.796875
+        },
+        "context": "Accessibility",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.rrc.ca/legal/accessibility/\">Accessibility</a>"
+      },
+      {
+        "target": "#menu-item-1069 > a",
+        "text": "Directory",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://hub.rrc.ca/HUB/StaffDirectory",
+        "imgAlt": "",
+        "box": {
+          "x": 1069.640625,
+          "y": 1494.171875,
+          "w": 74.765625,
+          "h": 16.796875
+        },
+        "context": "Directory",
+        "contextKind": "li",
+        "html": "<a href=\"https://hub.rrc.ca/HUB/StaffDirectory\">Directory</a>"
+      },
+      {
+        "target": "#menu-item-5292 > a",
+        "text": "Privacy",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.rrc.ca/about/privacy/",
+        "imgAlt": "",
+        "box": {
+          "x": 1069.640625,
+          "y": 1522.96875,
+          "w": 62.46875,
+          "h": 16.796875
+        },
+        "context": "Privacy",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.rrc.ca/about/privacy/\">Privacy</a>"
+      },
+      {
+        "target": "#menu-item-9750 > a",
+        "text": "Program and Course Catalogue",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://catalogue.rrc.ca",
+        "imgAlt": "",
+        "box": {
+          "x": 1069.640625,
+          "y": 1549.765625,
+          "w": 193.328125,
+          "h": 33.59375
+        },
+        "context": "Program and Course Catalogue",
+        "contextKind": "li",
+        "html": "<a href=\"https://catalogue.rrc.ca\">Program and Course Catalogue</a>"
+      },
+      {
+        "target": "#menu-item-1072 > a",
+        "text": "Safety and Security",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/safety/",
+        "imgAlt": "",
+        "box": {
+          "x": 1069.640625,
+          "y": 1595.359375,
+          "w": 141.40625,
+          "h": 16.796875
+        },
+        "context": "Safety and Security",
+        "contextKind": "li",
+        "html": "<a href=\"/safety/\">Safety and Security</a>"
+      }
+    ],
+    "headings": [
+      {
+        "target": "#swiper-wrapper-2c3e4ee318f10ae1d > a:nth-of-type(1) > div > h2",
+        "level": 2,
+        "text": "English Conversation Circles",
+        "visible": true,
+        "box": {
+          "x": -2622,
+          "y": 481.265625,
+          "w": 558.96875,
+          "h": 122.9375
+        },
+        "html": "<h2 class=\"wp-block-heading\">English Conversation<br>Circles</h2>"
+      },
+      {
+        "target": "#swiper-wrapper-2c3e4ee318f10ae1d > a:nth-of-type(2) > div > h2",
+        "level": 2,
+        "text": "Fall Equinox Pipe Ceremony and Feast",
+        "visible": true,
+        "box": {
+          "x": -1256,
+          "y": 481.265625,
+          "w": 671.859375,
+          "h": 122.9375
+        },
+        "html": "<h2 class=\"wp-block-heading\">Fall Equinox<br>Pipe Ceremony and Feast</h2>"
+      },
+      {
+        "target": "#swiper-wrapper-2c3e4ee318f10ae1d > a:nth-of-type(3) > div > h2",
+        "level": 2,
+        "text": "CM&E Advanced Manufacturing Summit",
+        "visible": true,
+        "box": {
+          "x": 110,
+          "y": 481.265625,
+          "w": 614.71875,
+          "h": 122.9375
+        },
+        "html": "<h2 class=\"wp-block-heading\">CM&amp;E Advanced<br>Manufacturing Summit</h2>"
+      },
+      {
+        "target": "#swiper-wrapper-2c3e4ee318f10ae1d > a:nth-of-type(4) > div > h2",
+        "level": 2,
+        "text": "Updates on MITT Transition",
+        "visible": true,
+        "box": {
+          "x": 1476,
+          "y": 481.265625,
+          "w": 613.9375,
+          "h": 122.9375
+        },
+        "html": "<h2 class=\"wp-block-heading\">Updates on<br>MITT Transition</h2>"
+      }
+    ],
+    "lang": "en-US",
+    "title": "RRC Polytech"
+  },
   "axe": {
     "violationRules": 0,
     "violationNodes": 0,

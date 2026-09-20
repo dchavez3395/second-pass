@@ -19,7 +19,1047 @@
     "width": 1366,
     "height": 900
   },
-  "scannedAt": "2026-09-19T06:25:14.027Z",
+  "scannedAt": "2026-09-19T23:57:29.977Z",
+  "content": {
+    "images": [
+      {
+        "target": "#custom_html-29 > div > a > img",
+        "tag": "img",
+        "src": "https://www.ierha.ca/files/site-logo.png",
+        "alt": "IERHA Logo",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 536,
+        "naturalHeight": 132,
+        "box": {
+          "x": 181,
+          "y": 92,
+          "w": 430,
+          "h": 105.890625
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"/files/site-logo.png\" title-=\"Site logo\" alt=\"IERHA Logo\" width=\"430\">"
+      },
+      {
+        "target": "#emgency-donate-buttons > a:nth-of-type(1) > img",
+        "tag": "img",
+        "src": "https://www.ierha.ca/files/donate-btn-ierha.jpg",
+        "alt": "Donate Now",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 180,
+        "naturalHeight": 49,
+        "box": {
+          "x": 998.609375,
+          "y": 107,
+          "w": 180,
+          "h": 49
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "/about-us/community-involvement/interlake-eastern-health-foundation/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"/files/donate-btn-ierha.jpg\" alt=\"Donate Now\">"
+      },
+      {
+        "target": "#emgency-donate-buttons > a:nth-of-type(2) > img",
+        "tag": "img",
+        "src": "https://www.ierha.ca/files/emergency-btn-ierha.jpg",
+        "alt": "Emergency Dept. Schedules",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 186,
+        "naturalHeight": 49,
+        "box": {
+          "x": 1008.984375,
+          "y": 156,
+          "w": 186,
+          "h": 49
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "/emergency-department-schedules",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"/files/emergency-btn-ierha.jpg\" alt=\"Emergency Dept. Schedules\">"
+      },
+      {
+        "target": "#metaslider_71 > ul:nth-of-type(1) > li:nth-of-type(1) > a > img",
+        "tag": "img",
+        "src": "https://www.ierha.ca/wp-content/uploads/2026-AGM-Banner.png",
+        "alt": "",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "2026 AGM Banner",
+        "naturalWidth": 1420,
+        "naturalHeight": 400,
+        "box": {
+          "x": 171,
+          "y": 333,
+          "w": 1024,
+          "h": 288.4375
+        },
+        "inLink": true,
+        "linkText": "https://www.ierha.ca/about-us/annual-general-meeting/",
+        "linkHref": "https://www.ierha.ca/about-us/annual-general-meeting/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://www.ierha.ca/wp-content/uploads/2026-AGM-Banner.png\" height=\"400\" width=\"1420\" alt=\"\" class=\"slider-71 slide-27527 msDefaultImage\" title=\"2026 AGM Banner\" draggable=\"false\">"
+      },
+      {
+        "target": "#metaslider_71 > ul:nth-of-type(1) > li:nth-of-type(2) > a > img",
+        "tag": "img",
+        "src": "https://www.ierha.ca/wp-content/uploads/banner-National-Day-for-Truth-Reconciliation_English_Clinic-Lab-1420-x-400-px-4.png",
+        "alt": "",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "Banner National Day For Truth & Reconciliation English Clinic & Lab (1420 X 400 Px) (4)",
+        "naturalWidth": 1420,
+        "naturalHeight": 400,
+        "box": {
+          "x": 171,
+          "y": 333,
+          "w": 1024,
+          "h": 288.4375
+        },
+        "inLink": true,
+        "linkText": "https://www.ierha.ca/forms/artwork-contest/",
+        "linkHref": "https://www.ierha.ca/forms/artwork-contest/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://www.ierha.ca/wp-content/uploads/banner-National-Day-for-Truth-Reconciliation_English_Clinic-Lab-1420-x-400-px-4.png\" height=\"400\" width=\"1420\" alt=\"\" class=\"slider-71 slide-27289 msDefaultImage\" title=\"Banner National Day For Truth &amp; Reconciliation English Clinic &amp; Lab (1420 X 400 Px) (4)\" draggable=\"false\">"
+      },
+      {
+        "target": "#metaslider_71 > ul:nth-of-type(1) > li:nth-of-type(3) > a > img",
+        "tag": "img",
+        "src": "https://www.ierha.ca/wp-content/uploads/Health-services-in-times-of-emerg-1420-x-400-px.png",
+        "alt": "https://www.ierha.ca/patient-information/emergency-preparedness/",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "Health Services In Times Of Emerg (1420 X 400 Px)",
+        "naturalWidth": 1420,
+        "naturalHeight": 400,
+        "box": {
+          "x": 171,
+          "y": 333,
+          "w": 1024,
+          "h": 288.4375
+        },
+        "inLink": true,
+        "linkText": "https://www.ierha.ca/patient-information/emergency-preparedness/",
+        "linkHref": "https://www.ierha.ca/patient-information/emergency-preparedness/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://www.ierha.ca/wp-content/uploads/Health-services-in-times-of-emerg-1420-x-400-px.png\" height=\"400\" width=\"1420\" alt=\"https://www.ierha.ca/patient-information/emergency-preparedness/\" class=\"slider-71 slide-26438 msDefaultImage\" title=\"Health Services In Times Of Emerg (1420 X 400 Px)\" draggable=\"false\">"
+      },
+      {
+        "target": "#custom_html-33 > div > a > img",
+        "tag": "img",
+        "src": "https://www.ierha.ca/files/sharedhealth-logo.png",
+        "alt": "Shared Health logo",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "Shared Health",
+        "naturalWidth": 280,
+        "naturalHeight": 89,
+        "box": {
+          "x": 186.015625,
+          "y": 1329.5625,
+          "w": 225.96875,
+          "h": 71.828125
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "https://sharedhealthmb.ca/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"/files/sharedhealth-logo.png\" alt=\"Shared Health logo\" title=\"Shared Health\" height=\"89\">"
+      },
+      {
+        "target": "#custom_html-34 > div > a > img",
+        "tag": "img",
+        "src": "https://www.ierha.ca/files/IEHF-logo.png",
+        "alt": "IE Health Foundation logo",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "IE Health Foundation",
+        "naturalWidth": 280,
+        "naturalHeight": 89,
+        "box": {
+          "x": 442.015625,
+          "y": 1329.5625,
+          "w": 225.96875,
+          "h": 71.828125
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "http://www.iehf.ca/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"/files/IEHF-logo.png\" height=\"89\" title=\"IE Health Foundation\" alt=\"IE Health Foundation logo\">"
+      },
+      {
+        "target": "#custom_html-35 > div > a > img",
+        "tag": "img",
+        "src": "https://www.ierha.ca/files/mb-logo.png",
+        "alt": " Manitoba Health logo",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "Manitoba Health",
+        "naturalWidth": 280,
+        "naturalHeight": 89,
+        "box": {
+          "x": 698.015625,
+          "y": 1329.5625,
+          "w": 225.96875,
+          "h": 71.828125
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "https://www.gov.mb.ca/health/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"/files/mb-logo.png\" height=\"89\" alt=\" Manitoba Health logo\" title=\"Manitoba Health\">"
+      },
+      {
+        "target": "#custom_html-36 > div > a > img",
+        "tag": "img",
+        "src": "https://www.ierha.ca/files/FLS_Bonjour-Hello-Bison_clr_sm.jpg",
+        "alt": "French Services",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 220,
+        "naturalHeight": 83,
+        "box": {
+          "x": 957,
+          "y": 1329.5625,
+          "w": 220,
+          "h": 83
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "french-language-services",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"/files/FLS_Bonjour-Hello-Bison_clr_sm.jpg\" alt=\"French Services\" height=\"89px\">"
+      },
+      {
+        "target": "#custom_html-42 > div > img",
+        "tag": "img",
+        "src": "https://www.ierha.ca/files/logo-ierha-white-footer.png",
+        "alt": "IERHA logo",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 224,
+        "naturalHeight": 40,
+        "box": {
+          "x": 929.390625,
+          "y": 1462.5625,
+          "w": 224,
+          "h": 40
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "Contact Us News & Updates Work With Us Follow us",
+        "html": "<img src=\"/files/logo-ierha-white-footer.png\" alt=\"IERHA logo\">"
+      },
+      {
+        "target": "html > body > section > button > img",
+        "tag": "img",
+        "src": "https://www.ierha.ca/wp-content/plugins/accessibility-onetap/assets/images/admin/Original_Logo_Icon.svg",
+        "alt": "",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 150,
+        "naturalHeight": 150,
+        "box": {
+          "x": 1301,
+          "y": 385,
+          "w": 48,
+          "h": 48
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "",
+        "html": "<img class=\"design-size1 design-border1\" src=\"https://www.ierha.ca/wp-content/plugins/accessibility-onetap/assets/images/admin/Original_Logo_Icon.svg\" alt=\"\">"
+      },
+      {
+        "target": "#onetap-language-list > div > img:nth-of-type(1)",
+        "tag": "img",
+        "src": "https://www.ierha.ca/wp-content/plugins/accessibility-onetap/assets/images/english.png",
+        "alt": "United States",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 177,
+        "naturalHeight": 177,
+        "box": {
+          "x": 1392,
+          "y": 26,
+          "w": 22,
+          "h": 22
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://www.ierha.ca/wp-content/plugins/accessibility-onetap/assets/images/english.png\" class=\"onetap-active\" data-language=\"en\" alt=\"United States\">"
+      },
+      {
+        "target": "#onetap-language-list > p > img",
+        "tag": "img",
+        "src": "https://www.ierha.ca/wp-content/plugins/accessibility-onetap/assets/images/icon-drop-down-menu.png",
+        "alt": "",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 549,
+        "naturalHeight": 333,
+        "box": {
+          "x": 1475.296875,
+          "y": 35.96875,
+          "w": 10,
+          "h": 6.0625
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "English Accessibility Adjustments Powered by OneTap Hide Toolbar Content Modules Font Size Default Readable Font Line Height Default Big Cursor Letter Spacing A",
+        "html": "<img src=\"https://www.ierha.ca/wp-content/plugins/accessibility-onetap/assets/images/icon-drop-down-menu.png\" width=\"10\" height=\"10\" alt=\"\">"
+      }
+    ],
+    "links": [
+      {
+        "target": "#menu-item-14418 > a",
+        "text": "COMPLIMENTS & CONCERNS",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.ierha.ca/forms/compliments-and-concerns/",
+        "imgAlt": "",
+        "box": {
+          "x": 666.9375,
+          "y": 9,
+          "w": 204.4375,
+          "h": 14
+        },
+        "context": "COMPLIMENTS & CONCERNS",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.ierha.ca/forms/compliments-and-concerns/\" data-ps2id-api=\"true\"><i class=\"fas fa-edit\"></i> Compliments &amp; Concerns</a>"
+      },
+      {
+        "target": "#menu-item-5193 > a",
+        "text": "CONTACT US",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.ierha.ca/contact-us/",
+        "imgAlt": "",
+        "box": {
+          "x": 875.46875,
+          "y": 9,
+          "w": 109.375,
+          "h": 14
+        },
+        "context": "CONTACT US",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.ierha.ca/contact-us/\" data-ps2id-api=\"true\"><i class=\"fas fa-envelope\"></i> Contact Us</a>"
+      },
+      {
+        "target": "#menu-item-5232 > a",
+        "text": "WELL WISHES",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.ierha.ca/forms/well-wishes/",
+        "imgAlt": "",
+        "box": {
+          "x": 988.9375,
+          "y": 9,
+          "w": 119.265625,
+          "h": 14
+        },
+        "context": "WELL WISHES",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.ierha.ca/forms/well-wishes/\" data-ps2id-api=\"true\"><i class=\"fas fa-hand-holding-heart\"></i> Well Wishes</a>"
+      },
+      {
+        "target": "#menu-item-5110-fr > a",
+        "text": "FRANÇAIS",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.ierha.ca/fr/",
+        "imgAlt": "",
+        "box": {
+          "x": 1135.5625,
+          "y": 9,
+          "w": 59.4375,
+          "h": 14
+        },
+        "context": "FRANÇAIS",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.ierha.ca/fr/\" data-ps2id-api=\"true\" lang=\"fr-CA\" hreflang=\"fr-CA\">Français</a>"
+      },
+      {
+        "target": "#custom_html-22 > div > div > a:nth-of-type(1)",
+        "text": "204-482-5419",
+        "ariaLabel": "",
+        "title": "",
+        "href": "tel:204-482-5419",
+        "imgAlt": "",
+        "box": {
+          "x": 789.625,
+          "y": 51,
+          "w": 101.59375,
+          "h": 16
+        },
+        "context": "In crisis? Mental health services are available 24/7 by calling: 204-482-5419 or 1-866-427-8628",
+        "contextKind": "block",
+        "html": "<a href=\"tel:204-482-5419\">204-482-5419</a>"
+      },
+      {
+        "target": "#custom_html-22 > div > div > a:nth-of-type(2)",
+        "text": "1-866-427-8628",
+        "ariaLabel": "",
+        "title": "",
+        "href": "tel:1-866-427-8628",
+        "imgAlt": "",
+        "box": {
+          "x": 940.9375,
+          "y": 51,
+          "w": 116.6875,
+          "h": 16
+        },
+        "context": "In crisis? Mental health services are available 24/7 by calling: 204-482-5419 or 1-866-427-8628",
+        "contextKind": "block",
+        "html": "<a href=\"tel:1-866-427-8628\">1-866-427-8628</a>"
+      },
+      {
+        "target": "#custom_html-29 > div > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/",
+        "imgAlt": "IERHA Logo",
+        "box": {
+          "x": 181,
+          "y": 133.953125,
+          "w": 430,
+          "h": 19
+        },
+        "context": "",
+        "contextKind": "none",
+        "html": "<a href=\"/\"><img src=\"/files/site-logo.png\" title-=\"Site logo\" alt=\"IERHA Logo\" width=\"430\"></a>"
+      },
+      {
+        "target": "#emgency-donate-buttons > a:nth-of-type(1)",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/about-us/community-involvement/interlake-eastern-health-foundation/",
+        "imgAlt": "Donate Now",
+        "box": {
+          "x": 998.609375,
+          "y": 120.5,
+          "w": 180,
+          "h": 19
+        },
+        "context": "",
+        "contextKind": "none",
+        "html": "<a href=\"/about-us/community-involvement/interlake-eastern-health-foundation/\"><img src=\"/files/donate-btn-ierha.jpg\" alt=\"Donate Now\"></a>"
+      },
+      {
+        "target": "#emgency-donate-buttons > a:nth-of-type(2)",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/emergency-department-schedules",
+        "imgAlt": "Emergency Dept. Schedules",
+        "box": {
+          "x": 1008.984375,
+          "y": 169.5,
+          "w": 186,
+          "h": 19
+        },
+        "context": "",
+        "contextKind": "none",
+        "html": "<a href=\"/emergency-department-schedules\"><img src=\"/files/emergency-btn-ierha.jpg\" alt=\"Emergency Dept. Schedules\"></a>"
+      },
+      {
+        "target": "#menu-2865-particle > nav > ul > li:nth-of-type(1) > a",
+        "text": "News & Updates",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.ierha.ca/news-updates/",
+        "imgAlt": "",
+        "box": {
+          "x": 212.15625,
+          "y": 280.5,
+          "w": 152.390625,
+          "h": 43
+        },
+        "context": "News & Updates",
+        "contextKind": "li",
+        "html": "<a class=\"g-menu-item-container\" href=\"https://www.ierha.ca/news-updates/\">\n                                                                <span class=\"g-menu-item-content\">\n                                    <span class=\"g-menu-item-title\">News &amp; Updates</span>\n            \n                  "
+      },
+      {
+        "target": "#menu-2865-particle > nav > ul > li:nth-of-type(2) > a",
+        "text": "Find Us",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.ierha.ca/find-us/",
+        "imgAlt": "",
+        "box": {
+          "x": 370.015625,
+          "y": 280.5,
+          "w": 152.390625,
+          "h": 43
+        },
+        "context": "Find Us",
+        "contextKind": "li",
+        "html": "<a class=\"g-menu-item-container\" href=\"https://www.ierha.ca/find-us/\">\n                                                                <span class=\"g-menu-item-content\">\n                                    <span class=\"g-menu-item-title\">Find Us</span>\n            \n                    </span>\n      "
+      },
+      {
+        "target": "#menu-2865-particle > nav > ul > li:nth-of-type(3) > a",
+        "text": "Programs & Services",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.ierha.ca/programs-services/",
+        "imgAlt": "",
+        "box": {
+          "x": 527.875,
+          "y": 271,
+          "w": 152.390625,
+          "h": 62
+        },
+        "context": "Programs & Services",
+        "contextKind": "li",
+        "html": "<a class=\"g-menu-item-container\" href=\"https://www.ierha.ca/programs-services/\">\n                                                                <span class=\"g-menu-item-content\">\n                                    <span class=\"g-menu-item-title\">Programs &amp; Services</span>\n            \n        "
+      },
+      {
+        "target": "#menu-2865-particle > nav > ul > li:nth-of-type(4) > a",
+        "text": "Patient Information",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.ierha.ca/patient-information/",
+        "imgAlt": "",
+        "box": {
+          "x": 685.734375,
+          "y": 261,
+          "w": 152.390625,
+          "h": 63
+        },
+        "context": "Patient Information",
+        "contextKind": "li",
+        "html": "<a class=\"g-menu-item-container\" href=\"https://www.ierha.ca/patient-information/\">\n                                                                <span class=\"g-menu-item-content\">\n                                    <span class=\"g-menu-item-title\">Patient Information</span>\n            \n          "
+      },
+      {
+        "target": "#menu-2865-particle > nav > ul > li:nth-of-type(5) > a",
+        "text": "Work With Us",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.ierha.ca/work-with-us/",
+        "imgAlt": "",
+        "box": {
+          "x": 843.59375,
+          "y": 280.5,
+          "w": 152.390625,
+          "h": 43
+        },
+        "context": "Work With Us",
+        "contextKind": "li",
+        "html": "<a class=\"g-menu-item-container\" href=\"https://www.ierha.ca/work-with-us/\">\n                                                                <span class=\"g-menu-item-content\">\n                                    <span class=\"g-menu-item-title\">Work With Us</span>\n            \n                    </sp"
+      },
+      {
+        "target": "#menu-2865-particle > nav > ul > li:nth-of-type(6) > a",
+        "text": "About Us",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.ierha.ca/about-us/",
+        "imgAlt": "",
+        "box": {
+          "x": 1001.453125,
+          "y": 280,
+          "w": 152.390625,
+          "h": 44
+        },
+        "context": "About Us",
+        "contextKind": "li",
+        "html": "<a class=\"g-menu-item-container\" href=\"https://www.ierha.ca/about-us/\">\n                                                                <span class=\"g-menu-item-content\">\n                                    <span class=\"g-menu-item-title\">About Us</span>\n            \n                    </span>\n    "
+      },
+      {
+        "target": "#metaslider_71 > ul:nth-of-type(1) > li:nth-of-type(1) > a",
+        "text": "",
+        "ariaLabel": "https://www.ierha.ca/about-us/annual-general-meeting/",
+        "title": "",
+        "href": "https://www.ierha.ca/about-us/annual-general-meeting/",
+        "imgAlt": "",
+        "box": {
+          "x": 171,
+          "y": 333,
+          "w": 1024,
+          "h": 288.4375
+        },
+        "context": "",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.ierha.ca/about-us/annual-general-meeting/\" target=\"_self\" aria-label=\"https://www.ierha.ca/about-us/annual-general-meeting/\" class=\"metaslider_image_link\" tabindex=\"-1\"><img src=\"https://www.ierha.ca/wp-content/uploads/2026-AGM-Banner.png\" height=\"400\" width=\"1420\" alt=\"\" class="
+      },
+      {
+        "target": "#metaslider_71 > ul:nth-of-type(1) > li:nth-of-type(2) > a",
+        "text": "",
+        "ariaLabel": "https://www.ierha.ca/forms/artwork-contest/",
+        "title": "",
+        "href": "https://www.ierha.ca/forms/artwork-contest/",
+        "imgAlt": "",
+        "box": {
+          "x": 171,
+          "y": 333,
+          "w": 1024,
+          "h": 288.4375
+        },
+        "context": "",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.ierha.ca/forms/artwork-contest/\" target=\"_self\" aria-label=\"https://www.ierha.ca/forms/artwork-contest/\" class=\"metaslider_image_link\" tabindex=\"-1\"><img src=\"https://www.ierha.ca/wp-content/uploads/banner-National-Day-for-Truth-Reconciliation_English_Clinic-Lab-1420-x-400-px-4."
+      },
+      {
+        "target": "#metaslider_71 > ul:nth-of-type(1) > li:nth-of-type(3) > a",
+        "text": "",
+        "ariaLabel": "https://www.ierha.ca/patient-information/emergency-preparedness/",
+        "title": "",
+        "href": "https://www.ierha.ca/patient-information/emergency-preparedness/",
+        "imgAlt": "https://www.ierha.ca/patient-information/emergency-preparedness/",
+        "box": {
+          "x": 171,
+          "y": 333,
+          "w": 1024,
+          "h": 288.4375
+        },
+        "context": "",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.ierha.ca/patient-information/emergency-preparedness/\" target=\"_self\" aria-label=\"https://www.ierha.ca/patient-information/emergency-preparedness/\" class=\"metaslider_image_link\" tabindex=\"-1\"><img src=\"https://www.ierha.ca/wp-content/uploads/Health-services-in-times-of-emerg-1420"
+      },
+      {
+        "target": "#metaslider_71 > ul:nth-of-type(2) > li:nth-of-type(1) > a",
+        "text": "Previous",
+        "ariaLabel": "Previous",
+        "title": "",
+        "href": "#",
+        "imgAlt": "",
+        "box": {
+          "x": 181,
+          "y": 457.21875,
+          "w": 30,
+          "h": 30
+        },
+        "context": "Previous",
+        "contextKind": "li",
+        "html": "<a class=\"flex-prev\" href=\"#\" role=\"button\" aria-label=\"Previous\">Previous</a>"
+      },
+      {
+        "target": "#metaslider_71 > ul:nth-of-type(2) > li:nth-of-type(2) > a",
+        "text": "Next",
+        "ariaLabel": "Next",
+        "title": "",
+        "href": "#",
+        "imgAlt": "",
+        "box": {
+          "x": 1155,
+          "y": 457.21875,
+          "w": 30,
+          "h": 30
+        },
+        "context": "Next",
+        "contextKind": "li",
+        "html": "<a class=\"flex-next\" href=\"#\" role=\"button\" aria-label=\"Next\">Next</a>"
+      },
+      {
+        "target": "#custom_html-31 > div > a",
+        "text": "View our Strategic Plan",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/about-us/strategic-plan/",
+        "imgAlt": "",
+        "box": {
+          "x": 181,
+          "y": 868.4375,
+          "w": 223.96875,
+          "h": 41
+        },
+        "context": "heading: Interlake-Eastern Regional Health Authority",
+        "contextKind": "heading-only",
+        "html": "<a class=\"blue-button\" href=\"/about-us/strategic-plan/\">View our Strategic Plan</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(1) > div > h3 > a",
+        "text": "Options for non-urgent health care including additional clinic hours",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.ierha.ca/options-for-non-urgent-health-care-including-additional-clinic-hours/",
+        "imgAlt": "",
+        "box": {
+          "x": 939.796875,
+          "y": 809.4375,
+          "w": 215.1875,
+          "h": 70.171875
+        },
+        "context": "heading: Options for non-urgent health care including additional clinic hours | Options for non-urgent health care including additional clinic hours",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.ierha.ca/options-for-non-urgent-health-care-including-additional-clinic-hours/\" class=\"_self cvplbd\" target=\"_self\">Options for non-urgent health care  including additional clinic hours</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > div > h3 > a",
+        "text": "Dynacare Labour Disruption Update",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.ierha.ca/dynacare-labour-disruption-update-manitobas-health-system-response/",
+        "imgAlt": "",
+        "box": {
+          "x": 939.796875,
+          "y": 945.609375,
+          "w": 215.1875,
+          "h": 46.78125
+        },
+        "context": "heading: Dynacare Labour Disruption Update | September 8, 2026 Dynacare Labour Disruption Update",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.ierha.ca/dynacare-labour-disruption-update-manitobas-health-system-response/\" class=\"_self cvplbd\" target=\"_self\">Dynacare Labour Disruption Update</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(3) > div > h3 > a",
+        "text": "Quick Care Clinic Closed Friday, September, 4",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.ierha.ca/quick-care-clinic-closed-friday-september-4/",
+        "imgAlt": "",
+        "box": {
+          "x": 939.796875,
+          "y": 1058.390625,
+          "w": 215.1875,
+          "h": 70.171875
+        },
+        "context": "heading: Quick Care Clinic Closed Friday, September, 4 | Quick Care Clinic Closed Friday, September, 4",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.ierha.ca/quick-care-clinic-closed-friday-september-4/\" class=\"_self cvplbd\" target=\"_self\">Quick Care Clinic Closed Friday, September, 4</a>"
+      },
+      {
+        "target": "#custom_html-33 > div > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://sharedhealthmb.ca/",
+        "imgAlt": "Shared Health logo",
+        "box": {
+          "x": 186.015625,
+          "y": 1354.484375,
+          "w": 225.96875,
+          "h": 19
+        },
+        "context": "heading: Quick Care Clinic Closed Friday, September, 4",
+        "contextKind": "heading-only",
+        "html": "<a href=\"https://sharedhealthmb.ca/\" target=\"_blank\"><img src=\"/files/sharedhealth-logo.png\" alt=\"Shared Health logo\" title=\"Shared Health\" height=\"89\"></a>"
+      },
+      {
+        "target": "#custom_html-34 > div > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "http://www.iehf.ca/",
+        "imgAlt": "IE Health Foundation logo",
+        "box": {
+          "x": 442.015625,
+          "y": 1354.484375,
+          "w": 225.96875,
+          "h": 19
+        },
+        "context": "heading: Quick Care Clinic Closed Friday, September, 4",
+        "contextKind": "heading-only",
+        "html": "<a href=\"http://www.iehf.ca/\" target=\"_blank\"><img src=\"/files/IEHF-logo.png\" height=\"89\" title=\"IE Health Foundation\" alt=\"IE Health Foundation logo\"></a>"
+      },
+      {
+        "target": "#custom_html-35 > div > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.gov.mb.ca/health/",
+        "imgAlt": "Manitoba Health logo",
+        "box": {
+          "x": 698.015625,
+          "y": 1354.484375,
+          "w": 225.96875,
+          "h": 19
+        },
+        "context": "heading: Quick Care Clinic Closed Friday, September, 4",
+        "contextKind": "heading-only",
+        "html": "<a href=\"https://www.gov.mb.ca/health/\" target=\"_blank\"><img src=\"/files/mb-logo.png\" height=\"89\" alt=\" Manitoba Health logo\" title=\"Manitoba Health\"></a>"
+      },
+      {
+        "target": "#custom_html-36 > div > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "french-language-services",
+        "imgAlt": "French Services",
+        "box": {
+          "x": 957,
+          "y": 1360.0625,
+          "w": 220,
+          "h": 19
+        },
+        "context": "heading: Quick Care Clinic Closed Friday, September, 4",
+        "contextKind": "heading-only",
+        "html": "<a href=\"french-language-services\"><img src=\"/files/FLS_Bonjour-Hello-Bison_clr_sm.jpg\" alt=\"French Services\" height=\"89px\"></a>"
+      },
+      {
+        "target": "#custom_html-42 > div > a:nth-of-type(1)",
+        "text": "Contact Us",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/contact-us/",
+        "imgAlt": "",
+        "box": {
+          "x": 1002.15625,
+          "y": 1537.375,
+          "w": 78.453125,
+          "h": 16
+        },
+        "context": "heading: Quick Care Clinic Closed Friday, September, 4 | Contact Us News & Updates Work With Us Follow us",
+        "contextKind": "block",
+        "html": "<a href=\"/contact-us/\">Contact Us</a>"
+      },
+      {
+        "target": "#custom_html-42 > div > a:nth-of-type(2)",
+        "text": "News & Updates",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/news-updates/",
+        "imgAlt": "",
+        "box": {
+          "x": 983.640625,
+          "y": 1566.1875,
+          "w": 115.484375,
+          "h": 16
+        },
+        "context": "heading: Quick Care Clinic Closed Friday, September, 4 | Contact Us News & Updates Work With Us Follow us",
+        "contextKind": "block",
+        "html": "<a href=\"/news-updates/\">News &amp; Updates</a>"
+      },
+      {
+        "target": "#custom_html-42 > div > a:nth-of-type(3)",
+        "text": "Work With Us",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/work-with-us/",
+        "imgAlt": "",
+        "box": {
+          "x": 992.921875,
+          "y": 1595,
+          "w": 96.921875,
+          "h": 16
+        },
+        "context": "heading: Quick Care Clinic Closed Friday, September, 4 | Contact Us News & Updates Work With Us Follow us",
+        "contextKind": "block",
+        "html": "<a href=\"/work-with-us/\">Work With Us</a>"
+      },
+      {
+        "target": "#custom_html-42 > div > div > a:nth-of-type(1)",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.facebook.com/InterlakeEasternRHA",
+        "imgAlt": "",
+        "box": {
+          "x": 993.75,
+          "y": 1686.4375,
+          "w": 25.203125,
+          "h": 34
+        },
+        "context": "heading: Quick Care Clinic Closed Friday, September, 4 | Contact Us News & Updates Work With Us Follow us",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.facebook.com/InterlakeEasternRHA\" target=\"_blank\"><i class=\"fa fa-facebook-square\" aria-hidden=\"true\"></i></a>"
+      },
+      {
+        "target": "#custom_html-42 > div > div > a:nth-of-type(2)",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.instagram.com/ierha_news/",
+        "imgAlt": "",
+        "box": {
+          "x": 1028.78125,
+          "y": 1686.4375,
+          "w": 25.203125,
+          "h": 34
+        },
+        "context": "heading: Quick Care Clinic Closed Friday, September, 4 | Contact Us News & Updates Work With Us Follow us",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.instagram.com/ierha_news/\" target=\"_blank\"><i class=\"fa-brands fa-square-instagram\"></i></a>"
+      },
+      {
+        "target": "#custom_html-42 > div > div > a:nth-of-type(3)",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.threads.com/@ierha_news",
+        "imgAlt": "",
+        "box": {
+          "x": 1063.8125,
+          "y": 1686.4375,
+          "w": 25.203125,
+          "h": 34
+        },
+        "context": "heading: Quick Care Clinic Closed Friday, September, 4 | Contact Us News & Updates Work With Us Follow us",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.threads.com/@ierha_news\" target=\"_blank\"><i class=\"fa-brands fa-square-threads\"></i></a>"
+      },
+      {
+        "target": "#custom_html-43 > div > span > a:nth-of-type(1)",
+        "text": "Sitemap",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/sitemap",
+        "imgAlt": "",
+        "box": {
+          "x": 553.453125,
+          "y": 1882.8125,
+          "w": 52.859375,
+          "h": 15
+        },
+        "context": "heading: Quick Care Clinic Closed Friday, September, 4 | © 2026 Interlake Eastern RHA. All Rights Reserved. | Sitemap | Conditions of Use",
+        "contextKind": "block",
+        "html": "<a href=\"/sitemap\">Sitemap</a>"
+      },
+      {
+        "target": "#custom_html-43 > div > span > a:nth-of-type(2)",
+        "text": "Conditions of Use",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/conditions-of-use",
+        "imgAlt": "",
+        "box": {
+          "x": 647.328125,
+          "y": 1882.8125,
+          "w": 112.390625,
+          "h": 15
+        },
+        "context": "heading: Quick Care Clinic Closed Friday, September, 4 | © 2026 Interlake Eastern RHA. All Rights Reserved. | Sitemap | Conditions of Use",
+        "contextKind": "block",
+        "html": "<a href=\"/conditions-of-use\">Conditions of Use</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(3) > div:nth-of-type(1) > p > a",
+        "text": "OneTap",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://wponetap.com/?utm_source=frontend-link&utm_medium=link&utm_campaign=ref-link-toolbar",
+        "imgAlt": "",
+        "box": {
+          "x": 1615.671875,
+          "y": 208.1875,
+          "w": 57.625,
+          "h": 25
+        },
+        "context": "Powered by OneTap",
+        "contextKind": "p",
+        "html": "<a href=\"https://wponetap.com/?utm_source=frontend-link&amp;utm_medium=link&amp;utm_campaign=ref-link-toolbar\" target=\"_blank\">OneTap</a>"
+      }
+    ],
+    "headings": [
+      {
+        "target": "#custom_html-31 > div > h3",
+        "level": 3,
+        "text": "Interlake-Eastern Regional Health Authority",
+        "visible": true,
+        "box": {
+          "x": 181,
+          "y": 681.4375,
+          "w": 680.796875,
+          "h": 24
+        },
+        "html": "<h3>Interlake-Eastern Regional Health Authority</h3>"
+      },
+      {
+        "target": "#custom_html-47 > div > h3",
+        "level": 3,
+        "text": "News & Updates",
+        "visible": true,
+        "box": {
+          "x": 927.796875,
+          "y": 709.4375,
+          "w": 227.1875,
+          "h": 40
+        },
+        "html": "<h3 class=\"news-title\">News &amp; Updates</h3>"
+      },
+      {
+        "target": "#pt-cv-view-0e555fasjd > div > div:nth-of-type(1) > div > h3",
+        "level": 3,
+        "text": "Options for non-urgent health care including additional clinic hours",
+        "visible": true,
+        "box": {
+          "x": 927.796875,
+          "y": 809.4375,
+          "w": 227.1875,
+          "h": 70.171875
+        },
+        "html": "<h3 class=\"pt-cv-title\"><a href=\"https://www.ierha.ca/options-for-non-urgent-health-care-including-additional-clinic-hours/\" class=\"_self cvplbd\" target=\"_self\">Options for non-urgent health care  including additional clinic hours</a></h3>"
+      },
+      {
+        "target": "#pt-cv-view-0e555fasjd > div > div:nth-of-type(2) > div > h3",
+        "level": 3,
+        "text": "Dynacare Labour Disruption Update",
+        "visible": true,
+        "box": {
+          "x": 927.796875,
+          "y": 945.609375,
+          "w": 227.1875,
+          "h": 46.78125
+        },
+        "html": "<h3 class=\"pt-cv-title\"><a href=\"https://www.ierha.ca/dynacare-labour-disruption-update-manitobas-health-system-response/\" class=\"_self cvplbd\" target=\"_self\">Dynacare Labour Disruption Update</a></h3>"
+      },
+      {
+        "target": "#pt-cv-view-0e555fasjd > div > div:nth-of-type(3) > div > h3",
+        "level": 3,
+        "text": "Quick Care Clinic Closed Friday, September, 4",
+        "visible": true,
+        "box": {
+          "x": 927.796875,
+          "y": 1058.390625,
+          "w": 227.1875,
+          "h": 70.171875
+        },
+        "html": "<h3 class=\"pt-cv-title\"><a href=\"https://www.ierha.ca/quick-care-clinic-closed-friday-september-4/\" class=\"_self cvplbd\" target=\"_self\">Quick Care Clinic Closed Friday, September, 4</a></h3>"
+      }
+    ],
+    "lang": "en-CA",
+    "title": "Interlake-Eastern RHA"
+  },
   "axe": {
     "violationRules": 2,
     "violationNodes": 17,

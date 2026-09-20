@@ -19,7 +19,1412 @@
     "width": 1366,
     "height": 900
   },
-  "scannedAt": "2026-09-19T06:23:32.600Z",
+  "scannedAt": "2026-09-19T23:55:48.979Z",
+  "content": {
+    "images": [],
+    "links": [
+      {
+        "target": "#page > a",
+        "text": "Skip to content",
+        "ariaLabel": "",
+        "title": "",
+        "href": "#content",
+        "imgAlt": "",
+        "box": {
+          "x": -1,
+          "y": 157,
+          "w": 1,
+          "h": 1
+        },
+        "context": "",
+        "contextKind": "none",
+        "html": "<a class=\"skip-link screen-reader-text\" href=\"#content\">Skip to content</a>"
+      },
+      {
+        "target": "#alert-banner > div > div > p:nth-of-type(1) > a",
+        "text": "Click here to get started",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://openclaim.mpi.mb.ca/?lang=en",
+        "imgAlt": "",
+        "box": {
+          "x": 728.734375,
+          "y": 25,
+          "w": 214.03125,
+          "h": 24
+        },
+        "context": "Storm damage? Open a claim online. Click here to get started.",
+        "contextKind": "p",
+        "html": "<a href=\"https://openclaim.mpi.mb.ca/?lang=en\">Click here to get started</a>"
+      },
+      {
+        "target": "#masthead > div:nth-of-type(1) > a",
+        "text": "Manitoba Public InsuranceHome Page",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.mpi.mb.ca",
+        "imgAlt": "",
+        "box": {
+          "x": 40,
+          "y": 90,
+          "w": 212,
+          "h": 52
+        },
+        "context": "",
+        "contextKind": "none",
+        "html": "<a class=\"site-logo\" href=\"https://www.mpi.mb.ca\" rel=\"home\">\n\t\t\t\t<span class=\"screen-reader-text\">Manitoba Public InsuranceHome Page</span>\n\t\t\t</a>"
+      },
+      {
+        "target": "#menu-item-3993 > a",
+        "text": "Online Services",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.mpi.mb.ca/online-services/",
+        "imgAlt": "",
+        "box": {
+          "x": 441.34375,
+          "y": 104.796875,
+          "w": 108.625,
+          "h": 22.390625
+        },
+        "context": "Online Services",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.mpi.mb.ca/online-services/\">Online Services</a>"
+      },
+      {
+        "target": "#menu-item-3994 > a",
+        "text": "Contact Us",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.mpi.mb.ca/contact-us/",
+        "imgAlt": "",
+        "box": {
+          "x": 565.96875,
+          "y": 104.796875,
+          "w": 77.984375,
+          "h": 22.390625
+        },
+        "context": "Contact Us",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.mpi.mb.ca/contact-us/\">Contact Us</a>"
+      },
+      {
+        "target": "#menu-item-5355 > a",
+        "text": "Report Fraud",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://apps.mpi.mb.ca/siutips/",
+        "imgAlt": "",
+        "box": {
+          "x": 659.953125,
+          "y": 104.796875,
+          "w": 92.59375,
+          "h": 22.390625
+        },
+        "context": "Report Fraud",
+        "contextKind": "li",
+        "html": "<a href=\"https://apps.mpi.mb.ca/siutips/\">Report Fraud</a>"
+      },
+      {
+        "target": "#menu-item-3996 > a",
+        "text": "Careers",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.mpi.mb.ca/careers/",
+        "imgAlt": "",
+        "box": {
+          "x": 768.546875,
+          "y": 104.796875,
+          "w": 55.6875,
+          "h": 22.390625
+        },
+        "context": "Careers",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.mpi.mb.ca/careers/\">Careers</a>"
+      },
+      {
+        "target": "#menu-item-60215 > a",
+        "text": "Land Acknowledgement",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.mpi.mb.ca/mpis-land-acknowledgement/",
+        "imgAlt": "",
+        "box": {
+          "x": 840.234375,
+          "y": 104.796875,
+          "w": 168.421875,
+          "h": 22.390625
+        },
+        "context": "Land Acknowledgement",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.mpi.mb.ca/mpis-land-acknowledgement/\">Land Acknowledgement</a>"
+      },
+      {
+        "target": "#menu-item-3997-fr > a",
+        "text": "FR Switch site language to French",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.mpi.mb.ca/fr/",
+        "imgAlt": "",
+        "box": {
+          "x": 1016.65625,
+          "y": 104.796875,
+          "w": 19.375,
+          "h": 22.390625
+        },
+        "context": "FR Switch site language to French",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.mpi.mb.ca/fr/\" lang=\"fr-CA\" hreflang=\"fr-CA\">FR<span class=\"screen-reader-text\">Switch site language to French</span></a>"
+      },
+      {
+        "target": "#menu-item-3934 > a",
+        "text": "Licensing & ID",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.mpi.mb.ca/licensing-id/",
+        "imgAlt": "",
+        "box": {
+          "x": 1430.65625,
+          "y": -909,
+          "w": 1315,
+          "h": 42
+        },
+        "context": "Licensing & ID",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.mpi.mb.ca/licensing-id/\" tabindex=\"-1\">Licensing &amp; ID</a>"
+      },
+      {
+        "target": "#menu-item-3935 > a",
+        "text": "Registration",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.mpi.mb.ca/registration/",
+        "imgAlt": "",
+        "box": {
+          "x": 1430.65625,
+          "y": -867,
+          "w": 1315,
+          "h": 42
+        },
+        "context": "Registration",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.mpi.mb.ca/registration/\" tabindex=\"-1\">Registration</a>"
+      },
+      {
+        "target": "#menu-item-3936 > a",
+        "text": "Insurance",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.mpi.mb.ca/insurance/",
+        "imgAlt": "",
+        "box": {
+          "x": 1430.65625,
+          "y": -825,
+          "w": 1315,
+          "h": 42
+        },
+        "context": "Insurance",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.mpi.mb.ca/insurance/\" tabindex=\"-1\">Insurance</a>"
+      },
+      {
+        "target": "#menu-item-3937 > a",
+        "text": "Claims",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.mpi.mb.ca/claims/",
+        "imgAlt": "",
+        "box": {
+          "x": 1430.65625,
+          "y": -783,
+          "w": 1315,
+          "h": 42
+        },
+        "context": "Claims",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.mpi.mb.ca/claims/\" tabindex=\"-1\">Claims</a>"
+      },
+      {
+        "target": "#menu-item-3938 > a",
+        "text": "Road Safety",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.mpi.mb.ca/road-safety/",
+        "imgAlt": "",
+        "box": {
+          "x": 1430.65625,
+          "y": -741,
+          "w": 1315,
+          "h": 42
+        },
+        "context": "Road Safety",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.mpi.mb.ca/road-safety/\" tabindex=\"-1\">Road Safety</a>"
+      },
+      {
+        "target": "#mobile-menu-secondary > li:nth-of-type(1) > a",
+        "text": "Online Services",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.mpi.mb.ca/online-services/",
+        "imgAlt": "",
+        "box": {
+          "x": 1430.65625,
+          "y": -683,
+          "w": 1315,
+          "h": 39.390625
+        },
+        "context": "Online Services",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.mpi.mb.ca/online-services/\" tabindex=\"-1\">Online Services</a>"
+      },
+      {
+        "target": "#mobile-menu-secondary > li:nth-of-type(2) > a",
+        "text": "Contact Us",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.mpi.mb.ca/contact-us/",
+        "imgAlt": "",
+        "box": {
+          "x": 1430.65625,
+          "y": -643.609375,
+          "w": 1315,
+          "h": 39.390625
+        },
+        "context": "Contact Us",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.mpi.mb.ca/contact-us/\" tabindex=\"-1\">Contact Us</a>"
+      },
+      {
+        "target": "#mobile-menu-secondary > li:nth-of-type(3) > a",
+        "text": "Report Fraud",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://apps.mpi.mb.ca/siutips/",
+        "imgAlt": "",
+        "box": {
+          "x": 1430.65625,
+          "y": -604.21875,
+          "w": 1315,
+          "h": 39.390625
+        },
+        "context": "Report Fraud",
+        "contextKind": "li",
+        "html": "<a href=\"https://apps.mpi.mb.ca/siutips/\" tabindex=\"-1\">Report Fraud</a>"
+      },
+      {
+        "target": "#mobile-menu-secondary > li:nth-of-type(4) > a",
+        "text": "Careers",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.mpi.mb.ca/careers/",
+        "imgAlt": "",
+        "box": {
+          "x": 1430.65625,
+          "y": -564.828125,
+          "w": 1315,
+          "h": 39.390625
+        },
+        "context": "Careers",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.mpi.mb.ca/careers/\" tabindex=\"-1\">Careers</a>"
+      },
+      {
+        "target": "#mobile-menu-secondary > li:nth-of-type(5) > a",
+        "text": "Land Acknowledgement",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.mpi.mb.ca/mpis-land-acknowledgement/",
+        "imgAlt": "",
+        "box": {
+          "x": 1430.65625,
+          "y": -525.4375,
+          "w": 1315,
+          "h": 39.390625
+        },
+        "context": "Land Acknowledgement",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.mpi.mb.ca/mpis-land-acknowledgement/\" tabindex=\"-1\">Land Acknowledgement</a>"
+      },
+      {
+        "target": "#mobile-menu-secondary > li:nth-of-type(6) > a",
+        "text": "FR Switch site language to French",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.mpi.mb.ca/fr/",
+        "imgAlt": "",
+        "box": {
+          "x": 1430.65625,
+          "y": -486.046875,
+          "w": 1315,
+          "h": 39.390625
+        },
+        "context": "FR Switch site language to French",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.mpi.mb.ca/fr/\" lang=\"fr-CA\" hreflang=\"fr-CA\" tabindex=\"-1\">FR<span class=\"screen-reader-text\">Switch site language to French</span></a>"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > ul > li > a",
+        "text": "Learn More Take the survey",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://interceptum.com/s/en/AsPub26",
+        "imgAlt": "",
+        "box": {
+          "x": 91,
+          "y": 643.90625,
+          "w": 105.3125,
+          "h": 42
+        },
+        "context": "Learn More Take the survey",
+        "contextKind": "li",
+        "html": "<a href=\"https://interceptum.com/s/en/AsPub26\" target=\"\" class=\"button primary\">\n            <span class=\"top\"></span><span class=\"left\"></span>\n        <span class=\"center\">Learn More</span>\n        <span class=\"right\"></span>\n                <span class=\"screen-reader-text\">\n            Take the s"
+      },
+      {
+        "target": "#post-3468 > div > section:nth-of-type(1) > a",
+        "text": "What brings you here?",
+        "ariaLabel": "",
+        "title": "",
+        "href": "#what-brings-you-here",
+        "imgAlt": "",
+        "box": {
+          "x": 604.84375,
+          "y": 932.8125,
+          "w": 156.3125,
+          "h": 66.390625
+        },
+        "context": "heading: We want to hear from you. Complete our survey and help shape our 2027/2028 Accessibility Plan.",
+        "contextKind": "heading-only",
+        "html": "<a href=\"#what-brings-you-here\" class=\"anchor-link icon-style--teal-dark text-style--white direction--down\">What brings you here?<span class=\"icon-Chevron-Down-Sm\"></span></a>"
+      },
+      {
+        "target": "#menu-main-services > li:nth-of-type(1) > a",
+        "text": "Licensing & ID",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.mpi.mb.ca/licensing-id/",
+        "imgAlt": "",
+        "box": {
+          "x": 40,
+          "y": 1210,
+          "w": 180,
+          "h": 122
+        },
+        "context": "Licensing & ID New or Returning to Manitoba What you need to know about driver testing Driver Z Login More about Licensing & ID",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.mpi.mb.ca/licensing-id/\"><svg id=\"Licensing_ID_Icon_-_Medium\" data-name=\"Licensing &amp; ID Icon - Medium\" xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\">\n  <g id=\"Group_1098\" data-name=\"Group 1098\">\n    <path id=\"Path_10121\" data-name=\"Path 10121\""
+      },
+      {
+        "target": "#menu-main-services > li:nth-of-type(1) > ul > li:nth-of-type(1) > a",
+        "text": "New or Returning to Manitoba",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.mpi.mb.ca/new-to-manitoba/",
+        "imgAlt": "",
+        "box": {
+          "x": 40,
+          "y": 1332,
+          "w": 142.28125,
+          "h": 38.1875
+        },
+        "context": "New or Returning to Manitoba",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.mpi.mb.ca/new-to-manitoba/\">New or Returning to Manitoba</a>"
+      },
+      {
+        "target": "#menu-main-services > li:nth-of-type(1) > ul > li:nth-of-type(2) > a",
+        "text": "What you need to know about driver testing",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.mpi.mb.ca/what-you-need-to-know-about-driver-testing/",
+        "imgAlt": "",
+        "box": {
+          "x": 40,
+          "y": 1374.375,
+          "w": 165.3125,
+          "h": 38.1875
+        },
+        "context": "What you need to know about driver testing",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.mpi.mb.ca/what-you-need-to-know-about-driver-testing/\">What you need to know about driver testing</a>"
+      },
+      {
+        "target": "#menu-main-services > li:nth-of-type(1) > ul > li:nth-of-type(3) > a",
+        "text": "Driver Z Login",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://driverz.mpi.mb.ca/",
+        "imgAlt": "",
+        "box": {
+          "x": 40,
+          "y": 1416.75,
+          "w": 99.578125,
+          "h": 19
+        },
+        "context": "Driver Z Login",
+        "contextKind": "li",
+        "html": "<a href=\"https://driverz.mpi.mb.ca/\">Driver Z Login</a>"
+      },
+      {
+        "target": "#menu-main-services > li:nth-of-type(1) > ul > li:nth-of-type(4) > a",
+        "text": "More about Licensing & ID",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.mpi.mb.ca/licensing-id/",
+        "imgAlt": "",
+        "box": {
+          "x": 40,
+          "y": 1450.9375,
+          "w": 62.390625,
+          "h": 23
+        },
+        "context": "More about Licensing & ID",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.mpi.mb.ca/licensing-id/\" aria-hidden=\"true\">More<span class=\"screen-reader-text\">about \n  \n    \n    \n  \n\nLicensing &amp; ID</span></a>"
+      },
+      {
+        "target": "#menu-main-services > li:nth-of-type(2) > a",
+        "text": "Registration",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.mpi.mb.ca/registration/",
+        "imgAlt": "",
+        "box": {
+          "x": 316.5,
+          "y": 1210,
+          "w": 180,
+          "h": 122
+        },
+        "context": "Registration Registering your vehicle Certificate of inspection More about Registration",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.mpi.mb.ca/registration/\"><svg id=\"Registration_Icon_-_Medium\" data-name=\"Registration Icon - Medium\" xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\">\n  <g id=\"Group_1127\" data-name=\"Group 1127\">\n    <g id=\"Group_1126\" data-name=\"Group 1126\">\n      <"
+      },
+      {
+        "target": "#menu-main-services > li:nth-of-type(2) > ul > li:nth-of-type(1) > a",
+        "text": "Registering your vehicle",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.mpi.mb.ca/registering-your-vehicle/",
+        "imgAlt": "",
+        "box": {
+          "x": 316.5,
+          "y": 1332,
+          "w": 167.59375,
+          "h": 19
+        },
+        "context": "Registering your vehicle",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.mpi.mb.ca/registering-your-vehicle/\">Registering your vehicle</a>"
+      },
+      {
+        "target": "#menu-main-services > li:nth-of-type(2) > ul > li:nth-of-type(2) > a",
+        "text": "Certificate of inspection",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.mpi.mb.ca/certificate-of-inspection/",
+        "imgAlt": "",
+        "box": {
+          "x": 316.5,
+          "y": 1355.1875,
+          "w": 167.859375,
+          "h": 19
+        },
+        "context": "Certificate of inspection",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.mpi.mb.ca/certificate-of-inspection/\">Certificate of inspection</a>"
+      },
+      {
+        "target": "#menu-main-services > li:nth-of-type(2) > ul > li:nth-of-type(3) > a",
+        "text": "More about Registration",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.mpi.mb.ca/registration/",
+        "imgAlt": "",
+        "box": {
+          "x": 316.5,
+          "y": 1389.375,
+          "w": 62.390625,
+          "h": 23
+        },
+        "context": "More about Registration",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.mpi.mb.ca/registration/\" aria-hidden=\"true\">More<span class=\"screen-reader-text\">about \n  \n    \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n    \n    \n  \n\nRegistration</span></a>"
+      },
+      {
+        "target": "#menu-main-services > li:nth-of-type(3) > a",
+        "text": "Insurance",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.mpi.mb.ca/insurance/",
+        "imgAlt": "",
+        "box": {
+          "x": 593,
+          "y": 1210,
+          "w": 180,
+          "h": 122
+        },
+        "context": "Insurance Insuring your vehicle Paying for your insurance Where do your premium dollars go? More about Insurance",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.mpi.mb.ca/insurance/\"><svg id=\"Insurance_Icon_-_Medium\" data-name=\"Insurance Icon - Medium\" xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\">\n  <g id=\"Group_1118\" data-name=\"Group 1118\">\n    <path id=\"Path_10132\" data-name=\"Path 10132\" d=\"M36,23V5a2."
+      },
+      {
+        "target": "#menu-main-services > li:nth-of-type(3) > ul > li:nth-of-type(1) > a",
+        "text": "Insuring your vehicle",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.mpi.mb.ca/insuring-your-vehicle/",
+        "imgAlt": "",
+        "box": {
+          "x": 593,
+          "y": 1332,
+          "w": 144.984375,
+          "h": 19
+        },
+        "context": "Insuring your vehicle",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.mpi.mb.ca/insuring-your-vehicle/\">Insuring your vehicle</a>"
+      },
+      {
+        "target": "#menu-main-services > li:nth-of-type(3) > ul > li:nth-of-type(2) > a",
+        "text": "Paying for your insurance",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.mpi.mb.ca/paying-for-your-insurance/",
+        "imgAlt": "",
+        "box": {
+          "x": 593,
+          "y": 1355.1875,
+          "w": 176.65625,
+          "h": 19
+        },
+        "context": "Paying for your insurance",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.mpi.mb.ca/paying-for-your-insurance/\">Paying for your insurance</a>"
+      },
+      {
+        "target": "#menu-main-services > li:nth-of-type(3) > ul > li:nth-of-type(3) > a",
+        "text": "Where do your premium dollars go?",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.mpi.mb.ca/where-do-your-premium-dollars-go/",
+        "imgAlt": "",
+        "box": {
+          "x": 593,
+          "y": 1378.375,
+          "w": 170.671875,
+          "h": 38.1875
+        },
+        "context": "Where do your premium dollars go?",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.mpi.mb.ca/where-do-your-premium-dollars-go/\">Where do your premium dollars go?</a>"
+      },
+      {
+        "target": "#menu-main-services > li:nth-of-type(3) > ul > li:nth-of-type(4) > a",
+        "text": "More about Insurance",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.mpi.mb.ca/insurance/",
+        "imgAlt": "",
+        "box": {
+          "x": 593,
+          "y": 1431.75,
+          "w": 62.390625,
+          "h": 23
+        },
+        "context": "More about Insurance",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.mpi.mb.ca/insurance/\" aria-hidden=\"true\">More<span class=\"screen-reader-text\">about \n  \n    \n    \n  \n\nInsurance</span></a>"
+      },
+      {
+        "target": "#menu-main-services > li:nth-of-type(4) > a",
+        "text": "Claims",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.mpi.mb.ca/claims/",
+        "imgAlt": "",
+        "box": {
+          "x": 869.5,
+          "y": 1210,
+          "w": 180,
+          "h": 122
+        },
+        "context": "Claims Reporting a vehicle collision claim Repairing your vehicle damage More about Claims",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.mpi.mb.ca/claims/\"><svg id=\"Claims_Icon_-_Medium\" data-name=\"Claims Icon - Medium\" xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\">\n  <path id=\"bounding_box\" data-name=\"bounding box\" d=\"M48,48H0V0H48\" fill=\"none\"></path>\n  <g id=\"Group_1665\" data-na"
+      },
+      {
+        "target": "#menu-main-services > li:nth-of-type(4) > ul > li:nth-of-type(1) > a",
+        "text": "Reporting a vehicle collision claim",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.mpi.mb.ca/reporting-a-vehicle-collision-claim/",
+        "imgAlt": "",
+        "box": {
+          "x": 869.5,
+          "y": 1332,
+          "w": 133.609375,
+          "h": 38.1875
+        },
+        "context": "Reporting a vehicle collision claim",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.mpi.mb.ca/reporting-a-vehicle-collision-claim/\">Reporting a vehicle collision claim</a>"
+      },
+      {
+        "target": "#menu-main-services > li:nth-of-type(4) > ul > li:nth-of-type(2) > a",
+        "text": "Repairing your vehicle damage",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.mpi.mb.ca/repairing-your-vehicle-damage/",
+        "imgAlt": "",
+        "box": {
+          "x": 869.5,
+          "y": 1374.375,
+          "w": 155.0625,
+          "h": 38.1875
+        },
+        "context": "Repairing your vehicle damage",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.mpi.mb.ca/repairing-your-vehicle-damage/\">Repairing your vehicle damage</a>"
+      },
+      {
+        "target": "#menu-main-services > li:nth-of-type(4) > ul > li:nth-of-type(3) > a",
+        "text": "More about Claims",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.mpi.mb.ca/claims/",
+        "imgAlt": "",
+        "box": {
+          "x": 869.5,
+          "y": 1427.75,
+          "w": 62.390625,
+          "h": 23
+        },
+        "context": "More about Claims",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.mpi.mb.ca/claims/\" aria-hidden=\"true\">More<span class=\"screen-reader-text\">about \n  \n  \n    \n      \n      \n    \n    \n      \n      \n    \n    \n    \n    \n    \n      \n      \n    \n  \n\nClaims</span></a>"
+      },
+      {
+        "target": "#menu-main-services > li:nth-of-type(5) > a",
+        "text": "Road Safety",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.mpi.mb.ca/road-safety/",
+        "imgAlt": "",
+        "box": {
+          "x": 1146,
+          "y": 1210,
+          "w": 180,
+          "h": 122
+        },
+        "context": "Road Safety MPI’s Driver Z program They’re counting on you More about Road Safety",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.mpi.mb.ca/road-safety/\"><svg id=\"Road_Safety_Icon_-_Medium\" data-name=\"Road Safety Icon - Medium\" xmlns=\"http://www.w3.org/2000/svg\" width=\"48\" height=\"48\" viewBox=\"0 0 48 48\">\n  <g id=\"Group_1129\" data-name=\"Group 1129\">\n    <path id=\"Path_10144\" data-name=\"Path 10144\" d=\"M36.5"
+      },
+      {
+        "target": "#menu-main-services > li:nth-of-type(5) > ul > li:nth-of-type(1) > a",
+        "text": "MPI’s Driver Z program",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.mpi.mb.ca/about-driver-z/",
+        "imgAlt": "",
+        "box": {
+          "x": 1146,
+          "y": 1332,
+          "w": 164.15625,
+          "h": 19
+        },
+        "context": "MPI’s Driver Z program",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.mpi.mb.ca/about-driver-z/\">MPI’s Driver Z program</a>"
+      },
+      {
+        "target": "#menu-main-services > li:nth-of-type(5) > ul > li:nth-of-type(2) > a",
+        "text": "They’re counting on you",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.mpi.mb.ca/distracted-driving/",
+        "imgAlt": "",
+        "box": {
+          "x": 1146,
+          "y": 1355.1875,
+          "w": 167.0625,
+          "h": 19
+        },
+        "context": "They’re counting on you",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.mpi.mb.ca/distracted-driving/\">They’re counting on you</a>"
+      },
+      {
+        "target": "#menu-main-services > li:nth-of-type(5) > ul > li:nth-of-type(3) > a",
+        "text": "More about Road Safety",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.mpi.mb.ca/road-safety/",
+        "imgAlt": "",
+        "box": {
+          "x": 1146,
+          "y": 1389.375,
+          "w": 62.390625,
+          "h": 23
+        },
+        "context": "More about Road Safety",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.mpi.mb.ca/road-safety/\" aria-hidden=\"true\">More<span class=\"screen-reader-text\">about \n  \n    \n    \n  \n\nRoad Safety</span></a>"
+      },
+      {
+        "target": "#post-3468 > div > section:nth-of-type(5) > a",
+        "text": "Tools",
+        "ariaLabel": "",
+        "title": "",
+        "href": "#tools",
+        "imgAlt": "",
+        "box": {
+          "x": 664.703125,
+          "y": 1772.546875,
+          "w": 36.59375,
+          "h": 66.390625
+        },
+        "context": "heading: What brings you here?",
+        "contextKind": "heading-only",
+        "html": "<a href=\"#tools\" class=\"anchor-link icon-style--white text-style--teal direction--down\">Tools<span class=\"icon-Chevron-Down-Sm\"></span></a>"
+      },
+      {
+        "target": "div > section:nth-of-type(7) > ul > li:nth-of-type(1) > a",
+        "text": "Online Credit Card Payment",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://payment.mpi.mb.ca/onlinepayment/pages/default.aspx",
+        "imgAlt": "",
+        "box": {
+          "x": 50,
+          "y": 2099.0625,
+          "w": 301.5,
+          "h": 179.34375
+        },
+        "context": "Online Credit Card Payment",
+        "contextKind": "li",
+        "html": "<a class=\"tool-card\" href=\"https://payment.mpi.mb.ca/onlinepayment/pages/default.aspx\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"icon-Credit-Card-Payment\"></span>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"title-tool\">Online Credit Card Payment</span>\n\t\t\t\t\t\t</a>"
+      },
+      {
+        "target": "div > section:nth-of-type(7) > ul > li:nth-of-type(2) > a",
+        "text": "Driving Quizzes",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://apps.mpi.mb.ca/DriverQuiz/?L=e",
+        "imgAlt": "",
+        "box": {
+          "x": 371.5,
+          "y": 2099.0625,
+          "w": 301.5,
+          "h": 152.34375
+        },
+        "context": "Driving Quizzes",
+        "contextKind": "li",
+        "html": "<a class=\"tool-card\" href=\"https://apps.mpi.mb.ca/DriverQuiz/?L=e\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"icon-Driving-Quizzes\"></span>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"title-tool\">Driving Quizzes</span>\n\t\t\t\t\t\t</a>"
+      },
+      {
+        "target": "div > section:nth-of-type(7) > ul > li:nth-of-type(3) > a",
+        "text": "Proving My Identity",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://apps.mpi.mb.ca/idwizard/",
+        "imgAlt": "",
+        "box": {
+          "x": 693,
+          "y": 2099.0625,
+          "w": 301.5,
+          "h": 179.34375
+        },
+        "context": "Proving My Identity",
+        "contextKind": "li",
+        "html": "<a class=\"tool-card\" href=\"https://apps.mpi.mb.ca/idwizard/\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"icon-ID-wizard\"></span>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"title-tool\">Proving My Identity</span>\n\t\t\t\t\t\t</a>"
+      },
+      {
+        "target": "div > section:nth-of-type(7) > ul > li:nth-of-type(4) > a",
+        "text": "Driver Z Login",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://driverz.mpi.mb.ca/",
+        "imgAlt": "",
+        "box": {
+          "x": 1014.5,
+          "y": 2099.0625,
+          "w": 301.5,
+          "h": 152.34375
+        },
+        "context": "Driver Z Login",
+        "contextKind": "li",
+        "html": "<a class=\"tool-card\" href=\"https://driverz.mpi.mb.ca/\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"icon-Driver-Z\"></span>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"title-tool\">Driver Z Login</span>\n\t\t\t\t\t\t</a>"
+      },
+      {
+        "target": "#post-3468 > div > section:nth-of-type(8) > a",
+        "text": "Back to top",
+        "ariaLabel": "",
+        "title": "",
+        "href": "#content",
+        "imgAlt": "",
+        "box": {
+          "x": 643.46875,
+          "y": 2604.546875,
+          "w": 79.0625,
+          "h": 66.390625
+        },
+        "context": "heading: Tools",
+        "contextKind": "heading-only",
+        "html": "<a href=\"#content\" class=\"anchor-link icon-style--white text-style--teal direction--up\">Back to top<span class=\"icon-Chevron-Down-Sm\"></span></a>"
+      },
+      {
+        "target": "footer > div:nth-of-type(1) > ul > li:nth-of-type(1) > a:nth-of-type(1)",
+        "text": "204-985-7000",
+        "ariaLabel": "",
+        "title": "",
+        "href": "tel:2049857000",
+        "imgAlt": "",
+        "box": {
+          "x": 122.53125,
+          "y": 2732.9375,
+          "w": 93.515625,
+          "h": 17
+        },
+        "context": "In Winnipeg: 204-985-7000 Toll Free: 1-800-665-2410 Email us",
+        "contextKind": "li",
+        "html": "<a href=\"tel:2049857000\">204-985-7000</a>"
+      },
+      {
+        "target": "footer > div:nth-of-type(1) > ul > li:nth-of-type(1) > a:nth-of-type(2)",
+        "text": "1-800-665-2410",
+        "ariaLabel": "",
+        "title": "",
+        "href": "tel:18006652410",
+        "imgAlt": "",
+        "box": {
+          "x": 100.171875,
+          "y": 2753.09375,
+          "w": 106.875,
+          "h": 17
+        },
+        "context": "In Winnipeg: 204-985-7000 Toll Free: 1-800-665-2410 Email us",
+        "contextKind": "li",
+        "html": "<a href=\"tel:18006652410\">1-800-665-2410</a>"
+      },
+      {
+        "target": "footer > div:nth-of-type(1) > ul > li:nth-of-type(1) > a:nth-of-type(3)",
+        "text": "Email us",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.mpi.mb.ca/general-inquiries/",
+        "imgAlt": "",
+        "box": {
+          "x": 40,
+          "y": 2773.25,
+          "w": 51.90625,
+          "h": 17
+        },
+        "context": "In Winnipeg: 204-985-7000 Toll Free: 1-800-665-2410 Email us",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.mpi.mb.ca/general-inquiries/\">Email us</a>"
+      },
+      {
+        "target": "footer > div:nth-of-type(1) > ul > li:nth-of-type(5) > a",
+        "text": "Report Fraud",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://apps.mpi.mb.ca/siutips/?lang=en",
+        "imgAlt": "",
+        "box": {
+          "x": 40,
+          "y": 2914.34375,
+          "w": 83.34375,
+          "h": 17
+        },
+        "context": "Report Fraud",
+        "contextKind": "li",
+        "html": "<a href=\"https://apps.mpi.mb.ca/siutips/?lang=en\">Report Fraud</a>"
+      },
+      {
+        "target": "footer > div:nth-of-type(1) > ul > li:nth-of-type(6) > a",
+        "text": "Additional Contact Information",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.mpi.mb.ca/contact-us/",
+        "imgAlt": "",
+        "box": {
+          "x": 40,
+          "y": 2934.5,
+          "w": 197.125,
+          "h": 17
+        },
+        "context": "Additional Contact Information",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.mpi.mb.ca/contact-us/\">Additional Contact Information</a>"
+      },
+      {
+        "target": "#page > footer > div:nth-of-type(1) > div > a:nth-of-type(1)",
+        "text": "",
+        "ariaLabel": "",
+        "title": "Facebook",
+        "href": "https://www.facebook.com/mpidrive/",
+        "imgAlt": "",
+        "box": {
+          "x": 124.3125,
+          "y": 2978.65625,
+          "w": 22.921875,
+          "h": 17
+        },
+        "context": "heading: Connect",
+        "contextKind": "heading-only",
+        "html": "<a href=\"https://www.facebook.com/mpidrive/\" title=\"Facebook\">\n\t\t\t\t<span class=\"icon-Facebook\"></span>\n\t\t\t</a>"
+      },
+      {
+        "target": "#page > footer > div:nth-of-type(1) > div > a:nth-of-type(2)",
+        "text": "",
+        "ariaLabel": "",
+        "title": "Instagram",
+        "href": "https://www.instagram.com/mpidrive/",
+        "imgAlt": "",
+        "box": {
+          "x": 147.234375,
+          "y": 2978.65625,
+          "w": 22.921875,
+          "h": 17
+        },
+        "context": "heading: Connect",
+        "contextKind": "heading-only",
+        "html": "<a href=\"https://www.instagram.com/mpidrive/\" title=\"Instagram\">\n\t\t\t\t<span class=\"icon-Instagram\"></span>\n\t\t\t</a>"
+      },
+      {
+        "target": "#page > footer > div:nth-of-type(1) > div > a:nth-of-type(3)",
+        "text": "",
+        "ariaLabel": "",
+        "title": "YouTube",
+        "href": "https://www.youtube.com/user/MBPublicInsurance/videos",
+        "imgAlt": "",
+        "box": {
+          "x": 170.15625,
+          "y": 2978.65625,
+          "w": 20.140625,
+          "h": 17
+        },
+        "context": "heading: Connect",
+        "contextKind": "heading-only",
+        "html": "<a href=\"https://www.youtube.com/user/MBPublicInsurance/videos\" title=\"YouTube\">\n\t\t\t\t<span class=\"icon-YouTube\"></span>\n\t\t\t</a>"
+      },
+      {
+        "target": "#menu-item-3655 > a",
+        "text": "News releases",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.mpi.mb.ca/news/",
+        "imgAlt": "",
+        "box": {
+          "x": 743.96875,
+          "y": 2732.9375,
+          "w": 90.421875,
+          "h": 17
+        },
+        "context": "News releases",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.mpi.mb.ca/news/\">News releases</a>"
+      },
+      {
+        "target": "#menu-item-68 > a",
+        "text": "Rate application",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/public-utilities-board-pub-rate-applications/",
+        "imgAlt": "",
+        "box": {
+          "x": 743.96875,
+          "y": 2758.6875,
+          "w": 101.9375,
+          "h": 17
+        },
+        "context": "Rate application",
+        "contextKind": "li",
+        "html": "<a href=\"/public-utilities-board-pub-rate-applications/\">Rate application</a>"
+      },
+      {
+        "target": "#menu-item-69 > a",
+        "text": "Financial reports",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/financial-reports/",
+        "imgAlt": "",
+        "box": {
+          "x": 743.96875,
+          "y": 2784.4375,
+          "w": 106.0625,
+          "h": 17
+        },
+        "context": "Financial reports",
+        "contextKind": "li",
+        "html": "<a href=\"/financial-reports/\">Financial reports</a>"
+      },
+      {
+        "target": "#menu-item-70 > a",
+        "text": "Public engagement",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/public-engagement/",
+        "imgAlt": "",
+        "box": {
+          "x": 743.96875,
+          "y": 2810.1875,
+          "w": 119.59375,
+          "h": 17
+        },
+        "context": "Public engagement",
+        "contextKind": "li",
+        "html": "<a href=\"/public-engagement/\">Public engagement</a>"
+      },
+      {
+        "target": "#menu-item-71 > a",
+        "text": "Autopac rate guide",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/wp-content/uploads/Autopac-Rate-Guide.pdf",
+        "imgAlt": "",
+        "box": {
+          "x": 743.96875,
+          "y": 2835.9375,
+          "w": 119.109375,
+          "h": 17
+        },
+        "context": "Autopac rate guide",
+        "contextKind": "li",
+        "html": "<a href=\"/wp-content/uploads/Autopac-Rate-Guide.pdf\">Autopac rate guide</a>"
+      },
+      {
+        "target": "#menu-item-58368 > a",
+        "text": "Manitoba Collision Dashboard",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.mpi.mb.ca/manitoba-collision-dashboard/",
+        "imgAlt": "",
+        "box": {
+          "x": 743.96875,
+          "y": 2861.6875,
+          "w": 191.03125,
+          "h": 17
+        },
+        "context": "Manitoba Collision Dashboard",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.mpi.mb.ca/manitoba-collision-dashboard/\">Manitoba Collision Dashboard</a>"
+      },
+      {
+        "target": "#menu-item-15 > a",
+        "text": "Who we are",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/who-we-are/",
+        "imgAlt": "",
+        "box": {
+          "x": 1095.953125,
+          "y": 2732.9375,
+          "w": 75.484375,
+          "h": 17
+        },
+        "context": "Who we are",
+        "contextKind": "li",
+        "html": "<a href=\"/who-we-are/\">Who we are</a>"
+      },
+      {
+        "target": "#menu-item-60 > a",
+        "text": "Annual business plans",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/annual-business-plans/",
+        "imgAlt": "",
+        "box": {
+          "x": 1095.953125,
+          "y": 2758.6875,
+          "w": 137.59375,
+          "h": 17
+        },
+        "context": "Annual business plans",
+        "contextKind": "li",
+        "html": "<a href=\"/annual-business-plans/\">Annual business plans</a>"
+      },
+      {
+        "target": "#menu-item-60214 > a",
+        "text": "Indigenous Engagement",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.mpi.mb.ca/indigenous-engagement/",
+        "imgAlt": "",
+        "box": {
+          "x": 1095.953125,
+          "y": 2784.4375,
+          "w": 150.796875,
+          "h": 17
+        },
+        "context": "Indigenous Engagement",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.mpi.mb.ca/indigenous-engagement/\">Indigenous Engagement</a>"
+      },
+      {
+        "target": "#menu-item-61 > a",
+        "text": "Financial reserves",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/financial-reserves/",
+        "imgAlt": "",
+        "box": {
+          "x": 1095.953125,
+          "y": 2810.1875,
+          "w": 113.265625,
+          "h": 17
+        },
+        "context": "Financial reserves",
+        "contextKind": "li",
+        "html": "<a href=\"/financial-reserves/\">Financial reserves</a>"
+      },
+      {
+        "target": "#menu-item-62 > a",
+        "text": "Sustainability",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/sustainability/",
+        "imgAlt": "",
+        "box": {
+          "x": 1095.953125,
+          "y": 2835.9375,
+          "w": 85.40625,
+          "h": 17
+        },
+        "context": "Sustainability",
+        "contextKind": "li",
+        "html": "<a href=\"/sustainability/\">Sustainability</a>"
+      },
+      {
+        "target": "#menu-item-63 > a",
+        "text": "Accessibility",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/accessibility/",
+        "imgAlt": "",
+        "box": {
+          "x": 1095.953125,
+          "y": 2861.6875,
+          "w": 78.828125,
+          "h": 17
+        },
+        "context": "Accessibility",
+        "contextKind": "li",
+        "html": "<a href=\"/accessibility/\">Accessibility</a>"
+      },
+      {
+        "target": "#menu-item-64 > a",
+        "text": "French Language Services",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/french-language-services/",
+        "imgAlt": "",
+        "box": {
+          "x": 1095.953125,
+          "y": 2887.4375,
+          "w": 162.203125,
+          "h": 17
+        },
+        "context": "French Language Services",
+        "contextKind": "li",
+        "html": "<a href=\"/french-language-services/\">French Language Services</a>"
+      },
+      {
+        "target": "#menu-item-65 > a",
+        "text": "Insurance fraud",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/insurance-fraud/",
+        "imgAlt": "",
+        "box": {
+          "x": 1095.953125,
+          "y": 2913.1875,
+          "w": 98.3125,
+          "h": 17
+        },
+        "context": "Insurance fraud",
+        "contextKind": "li",
+        "html": "<a href=\"/insurance-fraud/\">Insurance fraud</a>"
+      },
+      {
+        "target": "#menu-item-66 > a",
+        "text": "How you can protect your information",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/how-you-can-protect-your-information/",
+        "imgAlt": "",
+        "box": {
+          "x": 1095.953125,
+          "y": 2938.9375,
+          "w": 162.046875,
+          "h": 37.15625
+        },
+        "context": "How you can protect your information",
+        "contextKind": "li",
+        "html": "<a href=\"/how-you-can-protect-your-information/\">How you can protect your information</a>"
+      },
+      {
+        "target": "#menu-item-67 > a",
+        "text": "Protecting your privacy",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/protecting-your-privacy/",
+        "imgAlt": "",
+        "box": {
+          "x": 1095.953125,
+          "y": 2984.84375,
+          "w": 147.453125,
+          "h": 17
+        },
+        "context": "Protecting your privacy",
+        "contextKind": "li",
+        "html": "<a href=\"/protecting-your-privacy/\">Protecting your privacy</a>"
+      },
+      {
+        "target": "#menu-item-16 > a",
+        "text": "Disclaimer",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/disclaimer",
+        "imgAlt": "",
+        "box": {
+          "x": 1095.953125,
+          "y": 3035,
+          "w": 67.359375,
+          "h": 17
+        },
+        "context": "Disclaimer",
+        "contextKind": "li",
+        "html": "<a href=\"/disclaimer\">Disclaimer</a>"
+      },
+      {
+        "target": "html > body > div:nth-of-type(2) > a",
+        "text": "Open a Claim",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://openclaim.mpi.mb.ca?lang=en",
+        "imgAlt": "",
+        "box": {
+          "x": 1188.421875,
+          "y": 848,
+          "w": 149.578125,
+          "h": 52
+        },
+        "context": "heading: Company",
+        "contextKind": "heading-only",
+        "html": "<a href=\"https://openclaim.mpi.mb.ca?lang=en\" target=\"_blank\">Open a Claim</a>"
+      }
+    ],
+    "headings": [
+      {
+        "target": "div > div > div:nth-of-type(2) > header > h1",
+        "level": 1,
+        "text": "Do barriers affect your access to MPI services?",
+        "visible": true,
+        "box": {
+          "x": 40,
+          "y": 419.09375,
+          "w": 1240.6875,
+          "h": 72
+        },
+        "html": "<h1 class=\"entry-title\">Do barriers affect your access to MPI services?</h1>"
+      },
+      {
+        "target": "div > div > div:nth-of-type(2) > header > h2",
+        "level": 2,
+        "text": "We want to hear from you. Complete our survey and help shape our 2027/2028 Accessibility Plan.",
+        "visible": true,
+        "box": {
+          "x": 40,
+          "y": 491.09375,
+          "w": 768,
+          "h": 116.8125
+        },
+        "html": "<h2>We want to hear from you. Complete our survey and help shape our 2027/2028 Accessibility Plan.</h2>"
+      },
+      {
+        "target": "#post-3468 > div > section:nth-of-type(3) > h3",
+        "level": 3,
+        "text": "What brings you here?",
+        "visible": true,
+        "box": {
+          "x": 40,
+          "y": 1072,
+          "w": 1286,
+          "h": 84
+        },
+        "html": "<h3 class=\"service-menu-header\">What brings you here?</h3>"
+      },
+      {
+        "target": "#post-3468 > div > section:nth-of-type(7) > h2",
+        "level": 2,
+        "text": "Tools",
+        "visible": true,
+        "box": {
+          "x": 40,
+          "y": 1983.0625,
+          "w": 1286,
+          "h": 72
+        },
+        "html": "<h2 class=\"size-h1 text-center section-header\">Tools</h2>"
+      },
+      {
+        "target": "#page > footer > div:nth-of-type(1) > h2",
+        "level": 2,
+        "text": "Connect",
+        "visible": true,
+        "box": {
+          "x": 40,
+          "y": 2672.734375,
+          "w": 230,
+          "h": 25.203125
+        },
+        "html": "<h2 class=\"wp-block-heading\">Connect</h2>"
+      },
+      {
+        "target": "#page > footer > div:nth-of-type(2) > h2",
+        "level": 2,
+        "text": "Find a Service",
+        "visible": true,
+        "box": {
+          "x": 391.984375,
+          "y": 2672.734375,
+          "w": 230,
+          "h": 25.203125
+        },
+        "html": "<h2>Find a Service</h2>"
+      },
+      {
+        "target": "#page > footer > div:nth-of-type(3) > h2",
+        "level": 2,
+        "text": "Newsroom",
+        "visible": true,
+        "box": {
+          "x": 743.96875,
+          "y": 2672.734375,
+          "w": 230,
+          "h": 25.203125
+        },
+        "html": "<h2>Newsroom</h2>"
+      },
+      {
+        "target": "#page > footer > div:nth-of-type(4) > h2",
+        "level": 2,
+        "text": "Company",
+        "visible": true,
+        "box": {
+          "x": 1095.953125,
+          "y": 2672.734375,
+          "w": 230,
+          "h": 25.203125
+        },
+        "html": "<h2>Company</h2>"
+      }
+    ],
+    "lang": "en-CA",
+    "title": "Home"
+  },
   "axe": {
     "violationRules": 3,
     "violationNodes": 13,

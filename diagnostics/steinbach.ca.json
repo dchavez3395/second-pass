@@ -5,7 +5,7 @@
   "title": "City of Steinbach",
   "finalUrl": "https://www.steinbach.ca/",
   "shape": {
-    "elements": 521,
+    "elements": 522,
     "images": 42,
     "links": 89,
     "buttons": 2,
@@ -19,7 +19,2076 @@
     "width": 1366,
     "height": 900
   },
-  "scannedAt": "2026-09-19T06:19:55.359Z",
+  "scannedAt": "2026-09-19T23:52:17.963Z",
+  "content": {
+    "images": [
+      {
+        "target": "div > div > div:nth-of-type(1) > a > img",
+        "tag": "img",
+        "src": "data:image/webp;base64,UklGRpQIAABXRUJQVlA4TIgIAAAvqEAREIU1bNsWOc2umdXoBne3oIs7SXCXo8FdW9zd3aHe4FZvkeMrrsHd3d2hEivE9vkxk0nosbOf/YmQbNu2aTsrtm3brtq2bdu2PsBOarZt20nJttkngPifbHUa0zI6qBpBhCe2jmRaRlPdnFTIaPWrq2bRZI6tyHB1mklVEC1jV3JQv9tOo55oGfs506pLZPAQAN4SGXuYqS2HL2jckEoIcRT6E0KMBCCGbzSKsdsa202IGD7Clz7EE2+IryBCipUU3/ANvvABYgXKY6nigGDAV3yD/owsl55kZSDNfh76TgIfACN5pLGGVXpEc2kBWMAXQGeJdOZQwNgdoULBaGH3mN4FTgAaSuSGVMMBUPzAyBEKAFCN85seNJMJ07thjxAA9nPDGwCsVrnIiLjED4CPCSHCAchinGfMbrl6jsoD2MkNzwH+tuivP0OxMgHwGSFEf9DOYHpwOyGUXmb7tAFDJ2QHAJUlEM/kAqCQmV4wPxR0THWa/I6qDcY2gW5+LYUAgOWEMLsNAGS132NuiHVcKQBGMCKeui4TGCzjDdOLFw5AgIfc8F4hAAp7yJB4J5+0bPzgINP72S5tAdjJDc8BqOiYxYz9BH5y0jvtrWjC9JZz+tlgaTV0UA79GYszxSVJSkAJLdjgFqFrclB9aS6FThfbBEE6hDhvtKpQApqJ8CffAJhgjX3c8NxoG9ghfT2honYC4EseS63mAxyjAtBTCjekWEoB4BvpmQFai3zg4gM88gMHAIe54Q8qAFM8YGiV3LoLpANgNB9guY52cgF2csNzgMU3ZurP0DQwWttZl5gf6jssFz2nXwwAYx71aZyKU0Fr8Yj5oYKTStCE2CUSjHncFwpAqBfEaQE0rf3N7NYAUNgJd7jhT4eFAzCEkWGg/YIQohMAEYQwu7fKApDdK25IVgmA7K4wMouTZiohRAMAcjjG9MSfwgDYxQ0vACjsNmFEJKsPQKANrpgAWsU1pife+QiwkxueAyp4QaSjHhi0aOEjccxPpOhPr54YIh3zwWhPQmt6Qsyg6eA9kZ6T6lmgsrSKec9sqqeokt2wEZHIDYlSiXQJITbSyWexooL9Sc+2qEp2o+WzeLWcVWDciHBDKpEhn0EPcRrDNCLWG0LPuH2vVyOs99FEpEiRIgX4x7y3RTxxQDnRRJppVBYpUqRIBSCgk3dzTsEGQogkDg4KACG6WWKvZz6Q4Xcu+s4YNWicMIMQwqMoy5dyqbxbvkLK/0aEEBdhkLe2mqQBFwAIUU0XU62ySzFIkWFJnjrpF4sN0lQxFgBUoXqIcsEraE0IcQLs6wkvbztj8YIQa2AVIYRIddsvJolUigN07fIoL0Jr3QwwxlRzhAEwwyyTjTZAd62FKSM7FXRzCPOxLxwWQ2gLyEcIMRiC63m7gEFYSoghcJ5GP9UjB6w1Uz8tVVOIiwLpt8upjHo6GuUzm10QSxhtA2+IJNlYXoYn9nYlciKMELXYJdKJd10iYTjZWw9cdly0XX6zyUZbbLfPYWfc9Ew8Ydzjnst0ZsJuIhrsywhv72qOUUSqQBUJ7TbBkNMR56x1xAtpfNBkX4oiEqjC6GyF+cTv7OzXvJ5tI84TN6APnWoc1nKqYiIAmV3TTB+T7fXAPm/EeMHD0J8OiSVEslmKCtHAKSKrooQoLhOdZ9CeEG0gexkvVyC9+qM0Ib6Hr+l0oYhy1TYJvoIGxtoKDhhjKWw2Hb4l1rHboRkbZLWSENNhNiF6QzWd+HE6oy7VRRuVhMc0IodihNgIjgVezr835hFiNByn85dI6CKF+Bx+JFbANnH+MgWijYc84q2GPRqzGimXAEKUocguwU2KxjzEURPsNwy02+g0pYgh3glhfTwtoXezHcVMa63lZpFA85VwF42ArcQQOENMB4cCThoMF42AQJOtgENasFqtuHLEDegLX9gMiwntaugg2lqYS2ciTLXWWpXAVcOr5cqr/Ie2NKH9FWqqCNFEU/iT+AQ+0d5dXeCRgbCIn3FwUhsAwsSaCVeUVsBJaEeIp2ro7AwMJu5BJzobQde5wqvlL+jq7uru6u7qHjIF3eh4zFaYyxAeopishGhJccBdqZpBnN4QqzI/uKAdPPcVfKcc1JMd1qkBH4tSFjb5m0UY4dHRN3Tug/2yq7uru6u7q3u2ll5NN6A9WjghmTA42GBCVAYgXnU2ogskOkGBGzpDW8VhBRTSTj8OpbzQDJBJFCF+co5I86XvWVjvEeYYNFz5BwRpZJZ9/qKnfea0f1lJLDCEmKKaVGKgnB4aJJcCyvnMOjVsI8Ra870hXrohkUgz1U3r9RNKAdhetktqDkSpjIFt7MtsDxSAqrhOFtrlCQ/NP/Jv5603UoRgACzfbAf8x2etNC0hYaKlsge2dMxXQBussg7Gi7LVRW95ZNg7DxzyvQX6a6QQFbTqBb8hWap8nIQwX1WEOzaaqr1y/EDXJo/y6mujq4HGmmKmOeaaa67ZpptohD7aaaam4kJAV5FHPQN85YhtoE4jTFlVl9B6PHPEdxYYqoMIpeRkh3QrXAqpooXeJouy1VUJhPYw08ptoUMSCOPxXrrnirOOaQ/ATqdccNMTf0gmjN/zg07Myv4EgFUFA6x3k0da+qMAiCHSGWu/OVrJDoD60zHInIjQHIHNHfNtxyxfAWTWxHS7/CHjUl21Sl9lWQAK6yP7Br/BWSq3S0qYeHjirBX8+tvXWu8r/wFFqB6iXJBMZyQDr201SQPBAFg+2w475gQ1KZ+F8AlLZQxq6Jhh22/9CCBAuLE2e04v0Wlf6KIIAOp/6237Sv++2cu2S0T4lNMS5izp39O+zHpD/Qcgv4IAVOEEwPrOtsc5NbiuOz3ho9ZM46rlnGTbaX0NAOpf6xX74qBuuYuRgPB18xYO6OQc5apeLhXxf48=",
+        "alt": "",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 169,
+        "naturalHeight": 70,
+        "box": {
+          "x": 113,
+          "y": 15,
+          "w": 169,
+          "h": 70
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"data:image/webp;base64,UklGRpQIAABXRUJQVlA4TIgIAAAvqEAREIU1bNsWOc2umdXoBne3oIs7SXCXo8FdW9zd3aHe4FZvkeMrrsHd3d2hEivE9vkxk0nosbOf/YmQbNu2aTsrtm3brtq2bdu2PsBOarZt20nJttkngPifbHUa0zI6qBpBhCe2jmRaRlPdnFTIaPWrq2bRZI6tyHB1mklVEC1jV3JQv9tOo55oGfs506pLZPAQAN4SGXuYqS2HL2jckEoIcRT6E0KMBCCGbzSKsdsa202IGD7Clz7EE2+IryBCipUU3/ANvvABYgXKY6nigGDAV3yD/owsl55kZSDNfh76TgIfACN5pLGGVXpEc2kBWMAXQGeJdOZQwNgdoUL"
+      },
+      {
+        "target": "#bx-home > li:nth-of-type(2) > div > div:nth-of-type(1) > img",
+        "tag": "img",
+        "src": "https://www.steinbach.ca/site/assets/files/1006/xadministration_human_resources.png.pagespeed.ic.RI1u_48DNr.webp",
+        "alt": null,
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 220,
+        "naturalHeight": 220,
+        "box": {
+          "x": 412.5,
+          "y": 462.71875,
+          "w": 26,
+          "h": 26
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "",
+        "html": "<img data-pagespeed-url-hash=\"2086039697\" src=\"/site/assets/files/1006/xadministration_human_resources.png.pagespeed.ic.RI1u_48DNr.webp\" onerror=\"this.onerror=null;pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);\">"
+      },
+      {
+        "target": "div > div:nth-of-type(1) > a > div > img",
+        "tag": "img",
+        "src": "https://www.steinbach.ca/pagespeed_static/1.JiBnMqyl6S.gif",
+        "alt": null,
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 1,
+        "naturalHeight": 1,
+        "box": {
+          "x": 113,
+          "y": 1628.203125,
+          "w": 1,
+          "h": 1
+        },
+        "inLink": true,
+        "linkText": "SEP 16 2026 Property Tax Deadline Approaching Tuesday, September 29th is the due date for property owners to pay their annual tax bills.",
+        "linkHref": "/notices-and-announcements/2026-property-tax-deadline-approaching/",
+        "caption": "",
+        "nearText": "SEP 16 2026 Property Tax Deadline Approaching Tuesday, September 29th is the due date for property owners to pay their annual tax bills.",
+        "html": "<img class=\"summary-img\" data-pagespeed-lazy-src=\"/site/assets/files/48244/xblog-summary_9-16-2026_-_photo_-_notice_-_property_taxes_deadline_approaching.png.pagespeed.ic.2Fkz8CqXV0.webp\" data-pagespeed-url-hash=\"3043101292\" src=\"/pagespeed_static/1.JiBnMqyl6S.gif\" onload=\"pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);\" onerror=\"this.onerror=null;pagespeed.lazyLoadImages.loadIfVisible"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > a > div > img",
+        "tag": "img",
+        "src": "https://www.steinbach.ca/pagespeed_static/1.JiBnMqyl6S.gif",
+        "alt": null,
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 1,
+        "naturalHeight": 1,
+        "box": {
+          "x": 405.5,
+          "y": 1628.203125,
+          "w": 1,
+          "h": 1
+        },
+        "inLink": true,
+        "linkText": "SEP 14 Notice – Water Tower updates close McKenzie Ave curb lane on September 16 Read more...",
+        "linkHref": "/notices-and-announcements/notice-water-tower-updates-close-mckenzie-ave-curb-lane-on-september-16/",
+        "caption": "",
+        "nearText": "SEP 14 Notice – Water Tower updates close McKenzie Ave curb lane on September 16 Read more...",
+        "html": "<img class=\"summary-img\" data-pagespeed-lazy-src=\"/site/assets/files/48208/xblog-summary_9-14-2026_-_photo_-_notice_-_water_tower_updates_close_mckenzie_ave_curb_lane.png.pagespeed.ic.u1ECL2AK8U.webp\" data-pagespeed-url-hash=\"2990982540\" src=\"/pagespeed_static/1.JiBnMqyl6S.gif\" onload=\"pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);\" onerror=\"this.onerror=null;pagespeed.lazyLoadImages."
+      },
+      {
+        "target": "div > div:nth-of-type(3) > a > div > img",
+        "tag": "img",
+        "src": "https://www.steinbach.ca/pagespeed_static/1.JiBnMqyl6S.gif",
+        "alt": null,
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 1,
+        "naturalHeight": 1,
+        "box": {
+          "x": 698,
+          "y": 1628.203125,
+          "w": 1,
+          "h": 1
+        },
+        "inLink": true,
+        "linkText": "SEP 11 No Signs on Boulevards – By-Law Reminder With garage sale season in full swing, friendly reminder that most signage on public spaces are not permitted per the City's Traffic By-Law...",
+        "linkHref": "/notices-and-announcements/no-signs-on-boulevards-by-law-reminder/",
+        "caption": "",
+        "nearText": "SEP 11 No Signs on Boulevards – By-Law Reminder With garage sale season in full swing, friendly reminder that most signage on public spaces are not permitted pe",
+        "html": "<img class=\"summary-img\" data-pagespeed-lazy-src=\"/site/assets/files/47386/xblog-summary_7-6-2026_-_photo_-_no_signs_on_boulevards_-_by-law_reminder.png.pagespeed.ic.xXOfGUcLGy.webp\" data-pagespeed-url-hash=\"1086492853\" src=\"/pagespeed_static/1.JiBnMqyl6S.gif\" onload=\"pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);\" onerror=\"this.onerror=null;pagespeed.lazyLoadImages.loadIfVisibleAndMa"
+      },
+      {
+        "target": "div > div:nth-of-type(4) > a > div > img",
+        "tag": "img",
+        "src": "https://www.steinbach.ca/pagespeed_static/1.JiBnMqyl6S.gif",
+        "alt": null,
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 1,
+        "naturalHeight": 1,
+        "box": {
+          "x": 990.5,
+          "y": 1628.203125,
+          "w": 1,
+          "h": 1
+        },
+        "inLink": true,
+        "linkText": "SEP 10 Splash Park to Close for the 2026 Season The City’s splash park located at E.A. Friesen Park is scheduled to close for the season on September 14th.",
+        "linkHref": "/notices-and-announcements/splash-park-to-close-for-the-2026-season/",
+        "caption": "",
+        "nearText": "SEP 10 Splash Park to Close for the 2026 Season The City’s splash park located at E.A. Friesen Park is scheduled to close for the season on September 14th.",
+        "html": "<img class=\"summary-img\" data-pagespeed-lazy-src=\"/site/assets/files/48175/xblog-summary_9-10-2026_-_photo_-_public_notice_-_splash_park_closed_for_2026_season.png.pagespeed.ic.icQA5sPit7.webp\" data-pagespeed-url-hash=\"2660357500\" src=\"/pagespeed_static/1.JiBnMqyl6S.gif\" onload=\"pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);\" onerror=\"this.onerror=null;pagespeed.lazyLoadImages.loadIfV"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > div:nth-of-type(2) > a > img",
+        "tag": "img",
+        "src": "https://www.steinbach.ca/pagespeed_static/1.JiBnMqyl6S.gif",
+        "alt": "",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 1,
+        "naturalHeight": 1,
+        "box": {
+          "x": 698,
+          "y": 1948.765625,
+          "w": 1,
+          "h": 1
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "/experience-steinbach/aquatic-centre/course-and-lesson-registration/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img data-pagespeed-lazy-src=\"/site/assets/files/11048/x3-13-2024_-_panel_photo_-_swimming_lessons.png.pagespeed.ic.fh9f1LpuhC.webp\" alt=\"\" data-pagespeed-url-hash=\"2070722171\" src=\"/pagespeed_static/1.JiBnMqyl6S.gif\" onload=\"pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);\" onerror=\"this.onerror=null;pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);\" data-pagespeed-lazy-repla"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > div:nth-of-type(2) > a > img",
+        "tag": "img",
+        "src": "https://www.steinbach.ca/pagespeed_static/1.JiBnMqyl6S.gif",
+        "alt": "",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 1,
+        "naturalHeight": 1,
+        "box": {
+          "x": 698,
+          "y": 2835.203125,
+          "w": 1,
+          "h": 1
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "http://www.steinbach.ca/hockey",
+        "caption": "",
+        "nearText": "",
+        "html": "<img data-pagespeed-lazy-src=\"/site/assets/files/11082/xrec_hockey_image-1_-_copy.png.pagespeed.ic.yUuv59kR4W.webp\" alt=\"\" data-pagespeed-url-hash=\"1014949980\" src=\"/pagespeed_static/1.JiBnMqyl6S.gif\" onload=\"pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);\" onerror=\"this.onerror=null;pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);\" data-pagespeed-lazy-replaced-functions=\"1\""
+      },
+      {
+        "target": "div > div:nth-of-type(2) > div:nth-of-type(2) > a > img",
+        "tag": "img",
+        "src": "https://www.steinbach.ca/pagespeed_static/1.JiBnMqyl6S.gif",
+        "alt": "",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 1,
+        "naturalHeight": 1,
+        "box": {
+          "x": 698,
+          "y": 3207.5,
+          "w": 1,
+          "h": 1
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "/residents/waste-and-recycling-collection/composting/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img data-pagespeed-lazy-src=\"/site/assets/files/13880/ximg_3299.jpg.pagespeed.ic.ou95HId0g7.webp\" alt=\"\" keep=\"\" our=\"\" landfill=\"\" healthy=\"\" -=\"\" compost=\"\" saturdays=\"\" 9-3\"\"=\"\" data-pagespeed-url-hash=\"896878333\" src=\"/pagespeed_static/1.JiBnMqyl6S.gif\" onload=\"pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);\" onerror=\"this.onerror=null;pagespeed.lazyLoadImages.loadIfVisibleAndMayb"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > div:nth-of-type(2) > a > img",
+        "tag": "img",
+        "src": "https://www.steinbach.ca/pagespeed_static/1.JiBnMqyl6S.gif",
+        "alt": "",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 1,
+        "naturalHeight": 1,
+        "box": {
+          "x": 698,
+          "y": 3716.90625,
+          "w": 1,
+          "h": 1
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "/city-hall/city-council/2026-election/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img data-pagespeed-lazy-src=\"/site/assets/files/46630/xballot_box_unsplash_2026_-_element5_digital.jpg.pagespeed.ic.SZDwDqd1kb.webp\" alt=\"\" data-pagespeed-url-hash=\"2949058856\" src=\"/pagespeed_static/1.JiBnMqyl6S.gif\" onload=\"pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);\" onerror=\"this.onerror=null;pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);\" data-pagespeed-lazy-repl"
+      },
+      {
+        "target": "div:nth-of-type(2) > a:nth-of-type(1) > div > div:nth-of-type(1) > img",
+        "tag": "img",
+        "src": "https://www.steinbach.ca/pagespeed_static/1.JiBnMqyl6S.gif",
+        "alt": null,
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 1,
+        "naturalHeight": 1,
+        "box": {
+          "x": 710.5,
+          "y": 4394.609375,
+          "w": 15,
+          "h": 15
+        },
+        "inLink": true,
+        "linkText": "Aquatic Centre",
+        "linkHref": "/experience-steinbach/aquatic-centre/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img data-pagespeed-lazy-src=\"/site/assets/files/1006/xaquatic_centre.png.pagespeed.ic.bY77MEnTMZ.webp\" class=\"icon\" data-pagespeed-url-hash=\"950380083\" src=\"/pagespeed_static/1.JiBnMqyl6S.gif\" onload=\"pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);\" onerror=\"this.onerror=null;pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);\" data-pagespeed-lazy-replaced-functions=\"1\">"
+      },
+      {
+        "target": "#pillar-image-1437595529-3188-1",
+        "tag": "img",
+        "src": "https://www.steinbach.ca/site/assets/files/1139/xaquatic-center.266x112.jpg.pagespeed.ic.xpLYqO-8Qe.webp",
+        "alt": "Girl in front of fish tank",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 266,
+        "naturalHeight": 112,
+        "box": {
+          "x": 698.015625,
+          "y": 4387.9375,
+          "w": 262.46875,
+          "h": 110.515625
+        },
+        "inLink": true,
+        "linkText": "Aquatic Centre",
+        "linkHref": "/experience-steinbach/aquatic-centre/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img class=\"pillar-image\" id=\"pillar-image-1437595529-3188-1\" src=\"/site/assets/files/1139/xaquatic-center.266x112.jpg.pagespeed.ic.xpLYqO-8Qe.webp\" alt=\"Girl in front of fish tank\" onload=\"stackBlurImage(&quot;pillar-image-1437595529-3188-1&quot;, &quot;pillar-canvas-1437595529-3188-1&quot;, 4, false)\" data-pagespeed-url-hash=\"2306323608\">"
+      },
+      {
+        "target": "div:nth-of-type(2) > a:nth-of-type(2) > div > div:nth-of-type(1) > img",
+        "tag": "img",
+        "src": "https://www.steinbach.ca/pagespeed_static/1.JiBnMqyl6S.gif",
+        "alt": null,
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 1,
+        "naturalHeight": 1,
+        "box": {
+          "x": 1003,
+          "y": 4394.609375,
+          "w": 15,
+          "h": 15
+        },
+        "inLink": true,
+        "linkText": "Emergency Services",
+        "linkHref": "/departments-and-services/emergency-services/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img data-pagespeed-lazy-src=\"/site/assets/files/1006/xemergency_services.png.pagespeed.ic.hZuNZ94p8h.webp\" class=\"icon\" data-pagespeed-url-hash=\"73045971\" src=\"/pagespeed_static/1.JiBnMqyl6S.gif\" onload=\"pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);\" onerror=\"this.onerror=null;pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);\" data-pagespeed-lazy-replaced-functions=\"1\">"
+      },
+      {
+        "target": "#pillar-image-1437595529-3344-2",
+        "tag": "img",
+        "src": "https://www.steinbach.ca/site/assets/files/1140/xemergency_services_thumbnail.266x112.jpg.pagespeed.ic._Trg75eck6.webp",
+        "alt": "",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 266,
+        "naturalHeight": 112,
+        "box": {
+          "x": 990.515625,
+          "y": 4387.9375,
+          "w": 262.46875,
+          "h": 110.515625
+        },
+        "inLink": true,
+        "linkText": "Emergency Services",
+        "linkHref": "/departments-and-services/emergency-services/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img class=\"pillar-image\" id=\"pillar-image-1437595529-3344-2\" src=\"/site/assets/files/1140/xemergency_services_thumbnail.266x112.jpg.pagespeed.ic._Trg75eck6.webp\" alt=\"\" onload=\"stackBlurImage(&quot;pillar-image-1437595529-3344-2&quot;, &quot;pillar-canvas-1437595529-3344-2&quot;, 4, false)\" data-pagespeed-url-hash=\"2857485843\">"
+      },
+      {
+        "target": "div:nth-of-type(2) > a:nth-of-type(3) > div > div:nth-of-type(1) > img",
+        "tag": "img",
+        "src": "https://www.steinbach.ca/pagespeed_static/1.JiBnMqyl6S.gif",
+        "alt": null,
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 1,
+        "naturalHeight": 1,
+        "box": {
+          "x": 710.5,
+          "y": 4535.125,
+          "w": 15,
+          "h": 15
+        },
+        "inLink": true,
+        "linkText": "Public Works",
+        "linkHref": "/departments-and-services/public-works/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img data-pagespeed-lazy-src=\"/site/assets/files/1006/xpublic_works.png.pagespeed.ic.20DMQu9ewi.webp\" class=\"icon\" data-pagespeed-url-hash=\"544879079\" src=\"/pagespeed_static/1.JiBnMqyl6S.gif\" onload=\"pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);\" onerror=\"this.onerror=null;pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);\" data-pagespeed-lazy-replaced-functions=\"1\">"
+      },
+      {
+        "target": "#pillar-image-1437595529-3488-3",
+        "tag": "img",
+        "src": "https://www.steinbach.ca/site/assets/files/1141/xroad_barricade.266x112.jpg.pagespeed.ic.hpVVhl-9oW.webp",
+        "alt": "Road Barricade",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 266,
+        "naturalHeight": 112,
+        "box": {
+          "x": 698.015625,
+          "y": 4528.453125,
+          "w": 262.46875,
+          "h": 110.515625
+        },
+        "inLink": true,
+        "linkText": "Public Works",
+        "linkHref": "/departments-and-services/public-works/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img class=\"pillar-image\" id=\"pillar-image-1437595529-3488-3\" src=\"/site/assets/files/1141/xroad_barricade.266x112.jpg.pagespeed.ic.hpVVhl-9oW.webp\" alt=\"Road Barricade\" onload=\"stackBlurImage(&quot;pillar-image-1437595529-3488-3&quot;, &quot;pillar-canvas-1437595529-3488-3&quot;, 4, false)\" data-pagespeed-url-hash=\"3895433487\">"
+      },
+      {
+        "target": "div:nth-of-type(2) > a:nth-of-type(4) > div > div:nth-of-type(1) > img",
+        "tag": "img",
+        "src": "https://www.steinbach.ca/pagespeed_static/1.JiBnMqyl6S.gif",
+        "alt": null,
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 1,
+        "naturalHeight": 1,
+        "box": {
+          "x": 1003,
+          "y": 4535.125,
+          "w": 15,
+          "h": 15
+        },
+        "inLink": true,
+        "linkText": "Administration",
+        "linkHref": "/departments-and-services/admin-and-human-resources/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img data-pagespeed-lazy-src=\"/site/assets/files/1006/xadministration_human_resources.png.pagespeed.ic.RI1u_48DNr.webp\" class=\"icon\" data-pagespeed-url-hash=\"2086039697\" src=\"/pagespeed_static/1.JiBnMqyl6S.gif\" onload=\"pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);\" onerror=\"this.onerror=null;pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);\" data-pagespeed-lazy-replaced-fun"
+      },
+      {
+        "target": "#pillar-image-1437596113-5627-1",
+        "tag": "img",
+        "src": "https://www.steinbach.ca/site/assets/files/1142/xadmin_hr_thumbnail.266x112.jpg.pagespeed.ic.EnDCCZ-z12.webp",
+        "alt": "",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 266,
+        "naturalHeight": 112,
+        "box": {
+          "x": 990.515625,
+          "y": 4528.453125,
+          "w": 262.46875,
+          "h": 110.515625
+        },
+        "inLink": true,
+        "linkText": "Administration",
+        "linkHref": "/departments-and-services/admin-and-human-resources/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img class=\"pillar-image\" id=\"pillar-image-1437596113-5627-1\" src=\"/site/assets/files/1142/xadmin_hr_thumbnail.266x112.jpg.pagespeed.ic.EnDCCZ-z12.webp\" alt=\"\" onload=\"stackBlurImage(&quot;pillar-image-1437596113-5627-1&quot;, &quot;pillar-canvas-1437596113-5627-1&quot;, 4, false)\" data-pagespeed-url-hash=\"1620412371\">"
+      },
+      {
+        "target": "div:nth-of-type(2) > a:nth-of-type(5) > div > div:nth-of-type(1) > img",
+        "tag": "img",
+        "src": "https://www.steinbach.ca/pagespeed_static/1.JiBnMqyl6S.gif",
+        "alt": null,
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 1,
+        "naturalHeight": 1,
+        "box": {
+          "x": 710.5,
+          "y": 4675.640625,
+          "w": 15,
+          "h": 15
+        },
+        "inLink": true,
+        "linkText": "Engineering",
+        "linkHref": "/departments-and-services/engineering-and-infrastructure/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img data-pagespeed-lazy-src=\"/site/assets/files/1006/xengineering_infrastructure.png.pagespeed.ic.FXD4w16wGx.webp\" class=\"icon\" data-pagespeed-url-hash=\"188533602\" src=\"/pagespeed_static/1.JiBnMqyl6S.gif\" onload=\"pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);\" onerror=\"this.onerror=null;pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);\" data-pagespeed-lazy-replaced-function"
+      },
+      {
+        "target": "#pillar-image-1437596113-5854-2",
+        "tag": "img",
+        "src": "https://www.steinbach.ca/site/assets/files/1143/xparallel_roads.266x112.jpg.pagespeed.ic.aXdWp2cm8P.webp",
+        "alt": "Parallel Roads",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 266,
+        "naturalHeight": 112,
+        "box": {
+          "x": 698.015625,
+          "y": 4668.96875,
+          "w": 262.46875,
+          "h": 110.515625
+        },
+        "inLink": true,
+        "linkText": "Engineering",
+        "linkHref": "/departments-and-services/engineering-and-infrastructure/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img class=\"pillar-image\" id=\"pillar-image-1437596113-5854-2\" src=\"/site/assets/files/1143/xparallel_roads.266x112.jpg.pagespeed.ic.aXdWp2cm8P.webp\" alt=\"Parallel Roads\" onload=\"stackBlurImage(&quot;pillar-image-1437596113-5854-2&quot;, &quot;pillar-canvas-1437596113-5854-2&quot;, 4, false)\" data-pagespeed-url-hash=\"2112279962\">"
+      },
+      {
+        "target": "div:nth-of-type(2) > a:nth-of-type(6) > div > div:nth-of-type(1) > img",
+        "tag": "img",
+        "src": "https://www.steinbach.ca/pagespeed_static/1.JiBnMqyl6S.gif",
+        "alt": null,
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 1,
+        "naturalHeight": 1,
+        "box": {
+          "x": 1003,
+          "y": 4675.640625,
+          "w": 15,
+          "h": 15
+        },
+        "inLink": true,
+        "linkText": "Planning & Zoning Building Inspection",
+        "linkHref": "/departments-and-services/planning-and-zoning/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img data-pagespeed-lazy-src=\"/site/assets/files/1006/xplanning_zoning.png.pagespeed.ic.mQOJX2Gw7J.webp\" class=\"icon\" data-pagespeed-url-hash=\"807353262\" src=\"/pagespeed_static/1.JiBnMqyl6S.gif\" onload=\"pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);\" onerror=\"this.onerror=null;pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);\" data-pagespeed-lazy-replaced-functions=\"1\">"
+      },
+      {
+        "target": "#pillar-image-1437596113-6011-3",
+        "tag": "img",
+        "src": "https://www.steinbach.ca/pagespeed_static/1.JiBnMqyl6S.gif",
+        "alt": "Map",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 1,
+        "naturalHeight": 1,
+        "box": {
+          "x": 1121.25,
+          "y": 4682.640625,
+          "w": 1,
+          "h": 1
+        },
+        "inLink": true,
+        "linkText": "Planning & Zoning Building Inspection",
+        "linkHref": "/departments-and-services/planning-and-zoning/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img class=\"pillar-image\" id=\"pillar-image-1437596113-6011-3\" data-pagespeed-lazy-src=\"/site/assets/files/1144/xmap.266x112.jpg.pagespeed.ic.AOQb_x8k-v.webp\" alt=\"Map\" data-pagespeed-url-hash=\"3939301088\" src=\"/pagespeed_static/1.JiBnMqyl6S.gif\" onload=\"pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);\" onerror=\"this.onerror=null;pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this)"
+      },
+      {
+        "target": "div:nth-of-type(2) > a:nth-of-type(7) > div > div:nth-of-type(1) > img",
+        "tag": "img",
+        "src": "https://www.steinbach.ca/pagespeed_static/1.JiBnMqyl6S.gif",
+        "alt": null,
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 1,
+        "naturalHeight": 1,
+        "box": {
+          "x": 1003,
+          "y": 4731.34375,
+          "w": 15,
+          "h": 15
+        },
+        "inLink": true,
+        "linkText": "Water & Wastewater",
+        "linkHref": "/departments-and-services/water-distribution-and-treatment/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img data-pagespeed-lazy-src=\"/site/assets/files/1006/xwater_wastewater.png.pagespeed.ic.WVfFQPUOlN.webp\" class=\"icon\" data-pagespeed-url-hash=\"393438256\" src=\"/pagespeed_static/1.JiBnMqyl6S.gif\" onload=\"pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);\" onerror=\"this.onerror=null;pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);\" data-pagespeed-lazy-replaced-functions=\"1\">"
+      },
+      {
+        "target": "#pillar-image-1437596187-8105-1",
+        "tag": "img",
+        "src": "https://www.steinbach.ca/site/assets/files/1145/xdripping_tap.266x112.jpg.pagespeed.ic.XV4Kbg8sfT.webp",
+        "alt": "Dripping tap",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 266,
+        "naturalHeight": 112,
+        "box": {
+          "x": 990.515625,
+          "y": 4724.671875,
+          "w": 262.46875,
+          "h": 110.515625
+        },
+        "inLink": true,
+        "linkText": "Water & Wastewater",
+        "linkHref": "/departments-and-services/water-distribution-and-treatment/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img class=\"pillar-image\" id=\"pillar-image-1437596187-8105-1\" src=\"/site/assets/files/1145/xdripping_tap.266x112.jpg.pagespeed.ic.XV4Kbg8sfT.webp\" alt=\"Dripping tap\" onload=\"stackBlurImage(&quot;pillar-image-1437596187-8105-1&quot;, &quot;pillar-canvas-1437596187-8105-1&quot;, 4, false)\" data-pagespeed-url-hash=\"950216328\">"
+      },
+      {
+        "target": "div:nth-of-type(2) > a:nth-of-type(8) > div > div:nth-of-type(1) > img",
+        "tag": "img",
+        "src": "https://www.steinbach.ca/pagespeed_static/1.JiBnMqyl6S.gif",
+        "alt": null,
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 1,
+        "naturalHeight": 1,
+        "box": {
+          "x": 710.5,
+          "y": 4871.859375,
+          "w": 15,
+          "h": 15
+        },
+        "inLink": true,
+        "linkText": "Waste & Recycling",
+        "linkHref": "/departments-and-services/waste-and-recycling/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img data-pagespeed-lazy-src=\"/site/assets/files/1006/xsolid_waste.png.pagespeed.ic.nw_Bm9H07D.webp\" class=\"icon\" data-pagespeed-url-hash=\"1636892705\" src=\"/pagespeed_static/1.JiBnMqyl6S.gif\" onload=\"pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);\" onerror=\"this.onerror=null;pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);\" data-pagespeed-lazy-replaced-functions=\"1\">"
+      },
+      {
+        "target": "#pillar-image-1437596187-8329-2",
+        "tag": "img",
+        "src": "https://www.steinbach.ca/pagespeed_static/1.JiBnMqyl6S.gif",
+        "alt": "Solid waste bins",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 1,
+        "naturalHeight": 1,
+        "box": {
+          "x": 828.75,
+          "y": 4878.859375,
+          "w": 1,
+          "h": 1
+        },
+        "inLink": true,
+        "linkText": "Waste & Recycling",
+        "linkHref": "/departments-and-services/waste-and-recycling/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img class=\"pillar-image\" id=\"pillar-image-1437596187-8329-2\" data-pagespeed-lazy-src=\"/site/assets/files/1146/xsolid_waste_bins.266x112.jpg.pagespeed.ic.g4rSn2_Cr8.webp\" alt=\"Solid waste bins\" data-pagespeed-url-hash=\"421851337\" src=\"/pagespeed_static/1.JiBnMqyl6S.gif\" onload=\"pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);\" onerror=\"this.onerror=null;pagespeed.lazyLoadImages.loadIfVi"
+      },
+      {
+        "target": "div:nth-of-type(2) > a:nth-of-type(9) > div > div:nth-of-type(1) > img",
+        "tag": "img",
+        "src": "https://www.steinbach.ca/pagespeed_static/1.JiBnMqyl6S.gif",
+        "alt": null,
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 1,
+        "naturalHeight": 1,
+        "box": {
+          "x": 1003,
+          "y": 4871.859375,
+          "w": 15,
+          "h": 15
+        },
+        "inLink": true,
+        "linkText": "Parks & Recreation",
+        "linkHref": "/departments-and-services/parks-and-rec/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img data-pagespeed-lazy-src=\"/site/assets/files/1006/xparks_recreation.png.pagespeed.ic.tLLjA2Fhwp.webp\" class=\"icon\" data-pagespeed-url-hash=\"1985717411\" src=\"/pagespeed_static/1.JiBnMqyl6S.gif\" onload=\"pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);\" onerror=\"this.onerror=null;pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);\" data-pagespeed-lazy-replaced-functions=\"1\">"
+      },
+      {
+        "target": "#pillar-image-1437596187-8482-3",
+        "tag": "img",
+        "src": "https://www.steinbach.ca/site/assets/files/1147/xparks_rec_thumbnail.266x112.jpg.pagespeed.ic.0iZ42bHzU5.webp",
+        "alt": "",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 266,
+        "naturalHeight": 112,
+        "box": {
+          "x": 990.515625,
+          "y": 4865.1875,
+          "w": 262.46875,
+          "h": 110.515625
+        },
+        "inLink": true,
+        "linkText": "Parks & Recreation",
+        "linkHref": "/departments-and-services/parks-and-rec/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img class=\"pillar-image\" id=\"pillar-image-1437596187-8482-3\" src=\"/site/assets/files/1147/xparks_rec_thumbnail.266x112.jpg.pagespeed.ic.0iZ42bHzU5.webp\" alt=\"\" onload=\"stackBlurImage(&quot;pillar-image-1437596187-8482-3&quot;, &quot;pillar-canvas-1437596187-8482-3&quot;, 4, false)\" data-pagespeed-url-hash=\"3860375518\">"
+      },
+      {
+        "target": "div:nth-of-type(2) > a:nth-of-type(10) > div > div:nth-of-type(1) > img",
+        "tag": "img",
+        "src": "https://www.steinbach.ca/pagespeed_static/1.JiBnMqyl6S.gif",
+        "alt": null,
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 1,
+        "naturalHeight": 1,
+        "box": {
+          "x": 710.5,
+          "y": 5012.375,
+          "w": 15,
+          "h": 15
+        },
+        "inLink": true,
+        "linkText": "Capital Projects",
+        "linkHref": "/capital-projects-map/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img data-pagespeed-lazy-src=\"/site/assets/files/1006/xcapital_works.png.pagespeed.ic.FoMm67CDJk.webp\" class=\"icon\" data-pagespeed-url-hash=\"708195086\" src=\"/pagespeed_static/1.JiBnMqyl6S.gif\" onload=\"pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);\" onerror=\"this.onerror=null;pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);\" data-pagespeed-lazy-replaced-functions=\"1\">"
+      },
+      {
+        "target": "#pillar-image-1437596237-9718-2",
+        "tag": "img",
+        "src": "https://www.steinbach.ca/pagespeed_static/1.JiBnMqyl6S.gif",
+        "alt": "",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 1,
+        "naturalHeight": 1,
+        "box": {
+          "x": 828.75,
+          "y": 5019.375,
+          "w": 1,
+          "h": 1
+        },
+        "inLink": true,
+        "linkText": "Capital Projects",
+        "linkHref": "/capital-projects-map/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img class=\"pillar-image\" id=\"pillar-image-1437596237-9718-2\" data-pagespeed-lazy-src=\"/site/assets/files/1148/xquick-link_parallel_roads.266x112.jpg.pagespeed.ic.a03NMHBW9P.webp\" alt=\"\" data-pagespeed-url-hash=\"4166197156\" src=\"/pagespeed_static/1.JiBnMqyl6S.gif\" onload=\"pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);\" onerror=\"this.onerror=null;pagespeed.lazyLoadImages.loadIfVisibleA"
+      },
+      {
+        "target": "div:nth-of-type(2) > div:nth-of-type(2) > div > div > img",
+        "tag": "img",
+        "src": "https://www.steinbach.ca/pagespeed_static/1.JiBnMqyl6S.gif",
+        "alt": null,
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 1,
+        "naturalHeight": 1,
+        "box": {
+          "x": 113,
+          "y": 4592.90625,
+          "w": 15,
+          "h": 15
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "",
+        "html": "<img data-pagespeed-lazy-src=\"/site/assets/files/1006/xpencil.png.pagespeed.ic.EKUaw8c-P_.webp\" class=\"icon\" data-pagespeed-url-hash=\"1794778348\" src=\"/pagespeed_static/1.JiBnMqyl6S.gif\" onload=\"pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);\" onerror=\"this.onerror=null;pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);\" data-pagespeed-lazy-replaced-functions=\"1\">"
+      },
+      {
+        "target": "#pillar-image-1437513183-0632-1",
+        "tag": "img",
+        "src": "https://www.steinbach.ca/pagespeed_static/1.JiBnMqyl6S.gif",
+        "alt": "",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 1,
+        "naturalHeight": 1,
+        "box": {
+          "x": 292.5,
+          "y": 5392.609375,
+          "w": 1,
+          "h": 1
+        },
+        "inLink": true,
+        "linkText": "Moving to Steinbach",
+        "linkHref": "/residents/moving-to-steinbach/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img id=\"pillar-image-1437513183-0632-1\" data-pagespeed-lazy-src=\"/site/assets/files/1117/xmove.360x195.jpg.pagespeed.ic.rf7djwZXqq.webp\" alt=\"\" class=\"\" data-pagespeed-url-hash=\"3829629847\" src=\"/pagespeed_static/1.JiBnMqyl6S.gif\" onload=\"pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);\" onerror=\"this.onerror=null;pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);\" data-pagesp"
+      },
+      {
+        "target": "#pillar-image-1437513183-0815-2",
+        "tag": "img",
+        "src": "https://www.steinbach.ca/pagespeed_static/1.JiBnMqyl6S.gif",
+        "alt": "",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 1,
+        "naturalHeight": 1,
+        "box": {
+          "x": 682.5,
+          "y": 5392.609375,
+          "w": 1,
+          "h": 1
+        },
+        "inLink": true,
+        "linkText": "Recreation",
+        "linkHref": "/experience-steinbach/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img id=\"pillar-image-1437513183-0815-2\" data-pagespeed-lazy-src=\"/site/assets/files/1118/xaquatic-94.360x195.jpg.pagespeed.ic.qIQS7KcXLt.webp\" alt=\"\" class=\"\" data-pagespeed-url-hash=\"1495602843\" src=\"/pagespeed_static/1.JiBnMqyl6S.gif\" onload=\"pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);\" onerror=\"this.onerror=null;pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);\" data-"
+      },
+      {
+        "target": "#pillar-image-1437513183-0954-3",
+        "tag": "img",
+        "src": "https://www.steinbach.ca/pagespeed_static/1.JiBnMqyl6S.gif",
+        "alt": "",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 1,
+        "naturalHeight": 1,
+        "box": {
+          "x": 1072.5,
+          "y": 5392.609375,
+          "w": 1,
+          "h": 1
+        },
+        "inLink": true,
+        "linkText": "Residents",
+        "linkHref": "/residents/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img id=\"pillar-image-1437513183-0954-3\" data-pagespeed-lazy-src=\"/site/assets/files/1119/xlive.360x195.jpg.pagespeed.ic.OPt-hz0elU.webp\" alt=\"\" class=\"\" data-pagespeed-url-hash=\"2288852828\" src=\"/pagespeed_static/1.JiBnMqyl6S.gif\" onload=\"pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);\" onerror=\"this.onerror=null;pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);\" data-pagesp"
+      },
+      {
+        "target": "div:nth-of-type(6) > div > div > div:nth-of-type(2) > img",
+        "tag": "img",
+        "src": "https://www.steinbach.ca/pagespeed_static/1.JiBnMqyl6S.gif",
+        "alt": "",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 1,
+        "naturalHeight": 1,
+        "box": {
+          "x": 1252,
+          "y": 5503.3125,
+          "w": 1,
+          "h": 1
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "",
+        "html": "<img data-pagespeed-lazy-src=\"/site/assets/files/1006/xyour_paragraph_text_1.png.pagespeed.ic.GiruJd66K6.webp\" alt=\"\" data-pagespeed-url-hash=\"188273575\" src=\"/pagespeed_static/1.JiBnMqyl6S.gif\" onload=\"pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);\" onerror=\"this.onerror=null;pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);\" data-pagespeed-lazy-replaced-functions=\"1\">"
+      }
+    ],
+    "links": [
+      {
+        "target": "div:nth-of-type(1) > div > div > div:nth-of-type(1) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/",
+        "imgAlt": "",
+        "box": {
+          "x": 113,
+          "y": 37.828125,
+          "w": 169,
+          "h": 21
+        },
+        "context": "My Utility AccountMy Recreation AccountCareersContactNoticesAccessibility ResidentsExperience SteinbachDepartments & ServicesCity HallBusiness & Development",
+        "contextKind": "block",
+        "html": "<a class=\"logo\" href=\"/\"><script data-pagespeed-no-defer=\"\">//<![CDATA[\n(function(){for(var g=\"function\"==typeof Object.defineProperties?Object.defineProperty:function(b,c,a){if(a.get||a.set)throw new TypeError(\"ES3 does not support getters and setters.\");b!=Array.prototype&&b!=Object.prototype&&(b["
+      },
+      {
+        "target": "div > div > ul > li:nth-of-type(1) > a",
+        "text": "My Utility Account",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://myaccount.steinbach.ca",
+        "imgAlt": "",
+        "box": {
+          "x": 635.921875,
+          "y": 20,
+          "w": 122.21875,
+          "h": 18
+        },
+        "context": "My Utility Account",
+        "contextKind": "li",
+        "html": "<a target=\"_blank\" href=\"https://myaccount.steinbach.ca\">My Utility Account</a>"
+      },
+      {
+        "target": "div > div > ul > li:nth-of-type(2) > a",
+        "text": "My Recreation Account",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://steinbach.perfectmind.com/SocialSite/MemberRegistration/MemberSignIn",
+        "imgAlt": "",
+        "box": {
+          "x": 773.140625,
+          "y": 20,
+          "w": 154.84375,
+          "h": 18
+        },
+        "context": "My Recreation Account",
+        "contextKind": "li",
+        "html": "<a target=\"_blank\" href=\"https://steinbach.perfectmind.com/SocialSite/MemberRegistration/MemberSignIn\">My Recreation Account</a>"
+      },
+      {
+        "target": "div > div > ul > li:nth-of-type(3) > a",
+        "text": "Careers",
+        "ariaLabel": "",
+        "title": "",
+        "href": "http://www.steinbach.ca/departments-and-services/careers-with-the-city-of-steinbach/",
+        "imgAlt": "",
+        "box": {
+          "x": 942.984375,
+          "y": 20,
+          "w": 51.796875,
+          "h": 18
+        },
+        "context": "Careers",
+        "contextKind": "li",
+        "html": "<a href=\"http://www.steinbach.ca/departments-and-services/careers-with-the-city-of-steinbach/\">Careers</a>"
+      },
+      {
+        "target": "div > div > ul > li:nth-of-type(4) > a",
+        "text": "Contact",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/directory/",
+        "imgAlt": "",
+        "box": {
+          "x": 1009.78125,
+          "y": 20,
+          "w": 51.609375,
+          "h": 18
+        },
+        "context": "Contact",
+        "contextKind": "li",
+        "html": "<a href=\"/directory/\">Contact</a>"
+      },
+      {
+        "target": "div > div > ul > li:nth-of-type(5) > a",
+        "text": "Notices",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/notices-and-announcements/",
+        "imgAlt": "",
+        "box": {
+          "x": 1076.390625,
+          "y": 20,
+          "w": 50.296875,
+          "h": 18
+        },
+        "context": "Notices",
+        "contextKind": "li",
+        "html": "<a href=\"/notices-and-announcements/\">Notices</a>"
+      },
+      {
+        "target": "div > div > ul > li:nth-of-type(6) > a",
+        "text": "Accessibility",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.steinbach.ca/departments-and-services/admin-and-human-resources/#accessibility",
+        "imgAlt": "",
+        "box": {
+          "x": 1141.6875,
+          "y": 20,
+          "w": 81.3125,
+          "h": 18
+        },
+        "context": "Accessibility",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.steinbach.ca/departments-and-services/admin-and-human-resources/#accessibility\">Accessibility</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div > ul > li:nth-of-type(1) > a",
+        "text": "Residents",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/residents/",
+        "imgAlt": "",
+        "box": {
+          "x": 440.921875,
+          "y": 54.703125,
+          "w": 78.03125,
+          "h": 21
+        },
+        "context": "Residents",
+        "contextKind": "li",
+        "html": "<a href=\"/residents/\">Residents</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div > ul > li:nth-of-type(2) > a",
+        "text": "Experience Steinbach",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/experience-steinbach/",
+        "imgAlt": "",
+        "box": {
+          "x": 543.953125,
+          "y": 54.703125,
+          "w": 172.765625,
+          "h": 21
+        },
+        "context": "Experience Steinbach",
+        "contextKind": "li",
+        "html": "<a href=\"/experience-steinbach/\">Experience Steinbach</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div > ul > li:nth-of-type(3) > a",
+        "text": "Departments & Services",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/departments-and-services/",
+        "imgAlt": "",
+        "box": {
+          "x": 741.71875,
+          "y": 54.703125,
+          "w": 193.421875,
+          "h": 21
+        },
+        "context": "Departments & Services",
+        "contextKind": "li",
+        "html": "<a href=\"/departments-and-services/\">Departments &amp; Services</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div > ul > li:nth-of-type(4) > a",
+        "text": "City Hall",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/city-hall/",
+        "imgAlt": "",
+        "box": {
+          "x": 960.140625,
+          "y": 54.703125,
+          "w": 66.578125,
+          "h": 21
+        },
+        "context": "City Hall",
+        "contextKind": "li",
+        "html": "<a href=\"/city-hall/\">City Hall</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div > ul > li:nth-of-type(5) > a",
+        "text": "Business & Development",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/business-development/",
+        "imgAlt": "",
+        "box": {
+          "x": 1051.71875,
+          "y": 54.703125,
+          "w": 201.28125,
+          "h": 21
+        },
+        "context": "Business & Development",
+        "contextKind": "li",
+        "html": "<a href=\"/business-development/\">Business &amp; Development</a>"
+      },
+      {
+        "target": "#bx-home > li:nth-of-type(2) > div > div:nth-of-type(4) > a",
+        "text": "Election 2026",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/city-hall/city-council/2026-election/",
+        "imgAlt": "",
+        "box": {
+          "x": 470.5,
+          "y": 606.421875,
+          "w": 168.375,
+          "h": 45.703125
+        },
+        "context": "2026 Municipal Elections on October 28 The next general Municipal Elections is Wednesday, October 28, 2026. Find info about the Voters List, working on Election Day, registering as a candidate and mor",
+        "contextKind": "li",
+        "html": "<a href=\"/city-hall/city-council/2026-election/\" class=\"btn-medium\">\n\t\t\t\t\t\t\t\t\t\t\t\tElection 2026\t\t\t\t\t\t\t\t\t\t\t</a>"
+      },
+      {
+        "target": "div > div > div:nth-of-type(2) > div > a:nth-of-type(1)",
+        "text": "Prev",
+        "ariaLabel": "",
+        "title": "",
+        "href": "",
+        "imgAlt": "",
+        "box": {
+          "x": 415.5,
+          "y": 642.71875,
+          "w": 32,
+          "h": 32
+        },
+        "context": "heading: Strong Roots, Real Growth",
+        "contextKind": "heading-only",
+        "html": "<a class=\"bx-prev\" href=\"\">Prev</a>"
+      },
+      {
+        "target": "div > div > div:nth-of-type(2) > div > a:nth-of-type(2)",
+        "text": "Next",
+        "ariaLabel": "",
+        "title": "",
+        "href": "",
+        "imgAlt": "",
+        "box": {
+          "x": 918.5,
+          "y": 642.71875,
+          "w": 32,
+          "h": 32
+        },
+        "context": "heading: Strong Roots, Real Growth",
+        "contextKind": "heading-only",
+        "html": "<a class=\"bx-next\" href=\"\">Next</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > div > p > a:nth-of-type(1)",
+        "text": "Aquatic Centre",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/experience-steinbach/aquatic-centre/",
+        "imgAlt": "",
+        "box": {
+          "x": 173,
+          "y": 871.90625,
+          "w": 183.8125,
+          "h": 45.703125
+        },
+        "context": "Aquatic Centre Community Events Permit & Fees Property Taxes Water Bills Parking Tickets Council & Meetings Waste & Recycling Collection Sump Pumps – FAQs Public Notice Feedback Form Property & Develo",
+        "contextKind": "p",
+        "html": "<a class=\"btn-medium\" href=\"/experience-steinbach/aquatic-centre/\">Aquatic Centre</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > div > p > a:nth-of-type(2)",
+        "text": "Community Events",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/residents/important-dates/annual-community-events/",
+        "imgAlt": "",
+        "box": {
+          "x": 379.5,
+          "y": 871.90625,
+          "w": 217.703125,
+          "h": 45.703125
+        },
+        "context": "Aquatic Centre Community Events Permit & Fees Property Taxes Water Bills Parking Tickets Council & Meetings Waste & Recycling Collection Sump Pumps – FAQs Public Notice Feedback Form Property & Develo",
+        "contextKind": "p",
+        "html": "<a class=\"btn-medium\" href=\"/residents/important-dates/annual-community-events/\">Community Events</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > div > p > a:nth-of-type(3)",
+        "text": "Permit & Fees",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/departments-and-services/planning-and-zoning/permits-and-fees/",
+        "imgAlt": "",
+        "box": {
+          "x": 619.890625,
+          "y": 871.90625,
+          "w": 174.75,
+          "h": 45.703125
+        },
+        "context": "Aquatic Centre Community Events Permit & Fees Property Taxes Water Bills Parking Tickets Council & Meetings Waste & Recycling Collection Sump Pumps – FAQs Public Notice Feedback Form Property & Develo",
+        "contextKind": "p",
+        "html": "<a class=\"btn-medium\" href=\"/departments-and-services/planning-and-zoning/permits-and-fees/\">Permit &amp; Fees</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > div > p > a:nth-of-type(4)",
+        "text": "Property Taxes",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/residents/property-taxes/",
+        "imgAlt": "",
+        "box": {
+          "x": 817.328125,
+          "y": 871.90625,
+          "w": 182.53125,
+          "h": 45.703125
+        },
+        "context": "Aquatic Centre Community Events Permit & Fees Property Taxes Water Bills Parking Tickets Council & Meetings Waste & Recycling Collection Sump Pumps – FAQs Public Notice Feedback Form Property & Develo",
+        "contextKind": "p",
+        "html": "<a class=\"btn-medium\" href=\"/residents/property-taxes/\">Property Taxes</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > div > p > a:nth-of-type(5)",
+        "text": "Water Bills",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/departments-and-services/water-distribution-and-treatment/utility-billing/",
+        "imgAlt": "",
+        "box": {
+          "x": 1022.546875,
+          "y": 871.90625,
+          "w": 147.765625,
+          "h": 45.703125
+        },
+        "context": "Aquatic Centre Community Events Permit & Fees Property Taxes Water Bills Parking Tickets Council & Meetings Waste & Recycling Collection Sump Pumps – FAQs Public Notice Feedback Form Property & Develo",
+        "contextKind": "p",
+        "html": "<a class=\"btn-medium\" href=\"/departments-and-services/water-distribution-and-treatment/utility-billing/\">Water Bills</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > div > p > a:nth-of-type(6)",
+        "text": "Parking Tickets",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.steinbach.ca/residents/bylaw-enforcement/traffic-vehicles-parking/",
+        "imgAlt": "",
+        "box": {
+          "x": 168.125,
+          "y": 935.609375,
+          "w": 186.46875,
+          "h": 45.703125
+        },
+        "context": "Aquatic Centre Community Events Permit & Fees Property Taxes Water Bills Parking Tickets Council & Meetings Waste & Recycling Collection Sump Pumps – FAQs Public Notice Feedback Form Property & Develo",
+        "contextKind": "p",
+        "html": "<a class=\"btn-medium\" href=\"https://www.steinbach.ca/residents/bylaw-enforcement/traffic-vehicles-parking/\">Parking Tickets</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > div > p > a:nth-of-type(7)",
+        "text": "Council & Meetings",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/city-hall/city-council/",
+        "imgAlt": "",
+        "box": {
+          "x": 377.28125,
+          "y": 935.609375,
+          "w": 221.328125,
+          "h": 45.703125
+        },
+        "context": "Aquatic Centre Community Events Permit & Fees Property Taxes Water Bills Parking Tickets Council & Meetings Waste & Recycling Collection Sump Pumps – FAQs Public Notice Feedback Form Property & Develo",
+        "contextKind": "p",
+        "html": "<a class=\"btn-medium\" href=\"/city-hall/city-council/\">Council &amp; Meetings</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > div > p > a:nth-of-type(8)",
+        "text": "Waste & Recycling Collection",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/residents/waste-and-recycling-collection/",
+        "imgAlt": "",
+        "box": {
+          "x": 621.296875,
+          "y": 935.609375,
+          "w": 303.625,
+          "h": 45.703125
+        },
+        "context": "Aquatic Centre Community Events Permit & Fees Property Taxes Water Bills Parking Tickets Council & Meetings Waste & Recycling Collection Sump Pumps – FAQs Public Notice Feedback Form Property & Develo",
+        "contextKind": "p",
+        "html": "<a class=\"btn-medium\" href=\"/residents/waste-and-recycling-collection/\">Waste &amp; Recycling Collection</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > div > p > a:nth-of-type(9)",
+        "text": "Sump Pumps – FAQs",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/residents/bylaw-enforcement/sump-pumps-faqs/",
+        "imgAlt": "",
+        "box": {
+          "x": 947.609375,
+          "y": 935.609375,
+          "w": 227.5625,
+          "h": 45.703125
+        },
+        "context": "Aquatic Centre Community Events Permit & Fees Property Taxes Water Bills Parking Tickets Council & Meetings Waste & Recycling Collection Sump Pumps – FAQs Public Notice Feedback Form Property & Develo",
+        "contextKind": "p",
+        "html": "<a class=\"btn-medium\" href=\"/residents/bylaw-enforcement/sump-pumps-faqs/\">Sump Pumps – FAQs</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > div > p > a:nth-of-type(10)",
+        "text": "Public Notice Feedback Form",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/departments-and-services/planning-and-zoning/feedback-public-notices/",
+        "imgAlt": "",
+        "box": {
+          "x": 238.0625,
+          "y": 999.3125,
+          "w": 306.3125,
+          "h": 45.703125
+        },
+        "context": "Aquatic Centre Community Events Permit & Fees Property Taxes Water Bills Parking Tickets Council & Meetings Waste & Recycling Collection Sump Pumps – FAQs Public Notice Feedback Form Property & Develo",
+        "contextKind": "p",
+        "html": "<a class=\"btn-medium\" href=\"/departments-and-services/planning-and-zoning/feedback-public-notices/\">Public Notice Feedback Form</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > div > p > a:nth-of-type(11)",
+        "text": "Property & Development Info Map",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/zoning-map/",
+        "imgAlt": "",
+        "box": {
+          "x": 567.0625,
+          "y": 999.3125,
+          "w": 351.796875,
+          "h": 45.703125
+        },
+        "context": "Aquatic Centre Community Events Permit & Fees Property Taxes Water Bills Parking Tickets Council & Meetings Waste & Recycling Collection Sump Pumps – FAQs Public Notice Feedback Form Property & Develo",
+        "contextKind": "p",
+        "html": "<a class=\"btn-medium\" href=\"/zoning-map/\" target=\"_blank\">Property &amp; Development Info Map</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > div > p > a:nth-of-type(12)",
+        "text": "Election 2026",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/election",
+        "imgAlt": "",
+        "box": {
+          "x": 941.546875,
+          "y": 999.3125,
+          "w": 168.375,
+          "h": 45.703125
+        },
+        "context": "Aquatic Centre Community Events Permit & Fees Property Taxes Water Bills Parking Tickets Council & Meetings Waste & Recycling Collection Sump Pumps – FAQs Public Notice Feedback Form Property & Develo",
+        "contextKind": "p",
+        "html": "<a class=\"btn-medium\" href=\"/election\">Election 2026</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div > div > div:nth-of-type(1) > a",
+        "text": "SEP 16 2026 Property Tax Deadline Approaching Tuesday, September 29th is the due date for property owners to pay their annual tax bills.",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/notices-and-announcements/2026-property-tax-deadline-approaching/",
+        "imgAlt": "",
+        "box": {
+          "x": 113,
+          "y": 1290.203125,
+          "w": 262.5,
+          "h": 339
+        },
+        "context": "heading: Latest Notices & Announcements | SEP 16 2026 Property Tax Deadline Approaching Tuesday, September 29th is the due date for property owners to pay their annual tax bills.",
+        "contextKind": "block",
+        "html": "<a href=\"/notices-and-announcements/2026-property-tax-deadline-approaching/\"><div class=\"article-summary-image-container\"><div class=\"article-summary\" style=\"height: 339px;\"><div class=\"date-box\"><div class=\"month grid\">Sep</div><div class=\"month list\">Sep</div><div class=\"day\">16</div></div><h3>202"
+      },
+      {
+        "target": "div:nth-of-type(2) > div > div > div:nth-of-type(2) > a",
+        "text": "SEP 14 Notice – Water Tower updates close McKenzie Ave curb lane on September 16 Read more...",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/notices-and-announcements/notice-water-tower-updates-close-mckenzie-ave-curb-lane-on-september-16/",
+        "imgAlt": "",
+        "box": {
+          "x": 405.5,
+          "y": 1290.203125,
+          "w": 262.5,
+          "h": 339
+        },
+        "context": "heading: 2026 Property Tax Deadline Approaching | SEP 14 Notice – Water Tower updates close McKenzie Ave curb lane on September 16 Read more...",
+        "contextKind": "block",
+        "html": "<a href=\"/notices-and-announcements/notice-water-tower-updates-close-mckenzie-ave-curb-lane-on-september-16/\"><div class=\"article-summary-image-container\"><div class=\"article-summary\" style=\"height: 339px;\"><div class=\"date-box\"><div class=\"month grid\">Sep</div><div class=\"month list\">Sep</div><div "
+      },
+      {
+        "target": "div:nth-of-type(2) > div > div > div:nth-of-type(3) > a",
+        "text": "SEP 11 No Signs on Boulevards – By-Law Reminder With garage sale season in full swing, friendly reminder that most signage on public spaces are not permitted per the City's Traffic By-Law...",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/notices-and-announcements/no-signs-on-boulevards-by-law-reminder/",
+        "imgAlt": "",
+        "box": {
+          "x": 698,
+          "y": 1290.203125,
+          "w": 262.5,
+          "h": 339
+        },
+        "context": "heading: Notice – Water Tower updates close McKenzie Ave curb lane on September 16 | SEP 11 No Signs on Boulevards – By-Law Reminder With garage sale season in full swing, friendly reminder that most signage on public spaces are not permitted per the City's Tr",
+        "contextKind": "block",
+        "html": "<a href=\"/notices-and-announcements/no-signs-on-boulevards-by-law-reminder/\"><div class=\"article-summary-image-container\"><div class=\"article-summary\" style=\"height: 339px;\"><div class=\"date-box\"><div class=\"month grid\">Sep</div><div class=\"month list\">Sep</div><div class=\"day\">11</div></div><h3>No "
+      },
+      {
+        "target": "div:nth-of-type(2) > div > div > div:nth-of-type(4) > a",
+        "text": "SEP 10 Splash Park to Close for the 2026 Season The City’s splash park located at E.A. Friesen Park is scheduled to close for the season on September 14th.",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/notices-and-announcements/splash-park-to-close-for-the-2026-season/",
+        "imgAlt": "",
+        "box": {
+          "x": 990.5,
+          "y": 1290.203125,
+          "w": 262.5,
+          "h": 339
+        },
+        "context": "heading: No Signs on Boulevards – By-Law Reminder | SEP 10 Splash Park to Close for the 2026 Season The City’s splash park located at E.A. Friesen Park is scheduled to close for the season on September 14th.",
+        "contextKind": "block",
+        "html": "<a href=\"/notices-and-announcements/splash-park-to-close-for-the-2026-season/\"><div class=\"article-summary-image-container\"><div class=\"article-summary\" style=\"height: 339px;\"><div class=\"date-box\"><div class=\"month grid\">Sep</div><div class=\"month list\">Sep</div><div class=\"day\">10</div></div><h3>S"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > div > p > a",
+        "text": "View More",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/notices-and-announcements/",
+        "imgAlt": "",
+        "box": {
+          "x": 580.1875,
+          "y": 1682.203125,
+          "w": 185.609375,
+          "h": 55.703125
+        },
+        "context": "View More",
+        "contextKind": "p",
+        "html": "<a class=\"btn-large\" href=\"/notices-and-announcements/\">View More</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(1) > div > h2 > a",
+        "text": "Fall 2026 Swimming Lesson Registration ›",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/experience-steinbach/aquatic-centre/course-and-lesson-registration/",
+        "imgAlt": "",
+        "box": {
+          "x": 113,
+          "y": 1865.90625,
+          "w": 591.40625,
+          "h": 38
+        },
+        "context": "heading: Fall 2026 Swimming Lesson Registration › | Fall 2026 Swimming Lesson Registration ›",
+        "contextKind": "block",
+        "html": "<a href=\"/experience-steinbach/aquatic-centre/course-and-lesson-registration/\">\t\t\t\t\t\t\tFall 2026 Swimming Lesson Registration\t\t\t\t\t\t›</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > div:nth-of-type(1) > p:nth-of-type(1) > a",
+        "text": "viewing online on our new registration software",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://steinbach.perfectmind.com/25742/Clients/BookMe4?widgetId=15f6af07-39c5-473e-b053-96653f77a406",
+        "imgAlt": "",
+        "box": {
+          "x": 113,
+          "y": 1962.796875,
+          "w": 386,
+          "h": 21
+        },
+        "context": "The Fall Swimming Lessons schedule is available for viewing online on our new registration software.",
+        "contextKind": "p",
+        "html": "<a href=\"https://steinbach.perfectmind.com/25742/Clients/BookMe4?widgetId=15f6af07-39c5-473e-b053-96653f77a406\">viewing&nbsp;online&nbsp;on our new registration software</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > div:nth-of-type(1) > p:nth-of-type(2) > a",
+        "text": "Click here to create a new account",
+        "ariaLabel": "",
+        "title": "",
+        "href": "http://steinbach.perfectmind.com",
+        "imgAlt": "",
+        "box": {
+          "x": 113,
+          "y": 2018.5,
+          "w": 276.578125,
+          "h": 21
+        },
+        "context": "Click here to create a new account well ahead of registration day to familiarize yourselves with the system and to view lesson offerings.",
+        "contextKind": "p",
+        "html": "<a href=\"http://steinbach.perfectmind.com\" target=\"_blank\">Click here to create a new account</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > div:nth-of-type(1) > p:nth-of-type(4) > a",
+        "text": "online on Steinbach.PerfectMind.com",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://steinbach.perfectmind.com/Clients/BookMe4?widgetId=15f6af07-39c5-473e-b053-96653f77a406",
+        "imgAlt": "",
+        "box": {
+          "x": 245.640625,
+          "y": 2207.015625,
+          "w": 303.390625,
+          "h": 21
+        },
+        "context": "Resident Registration: Tuesday, September 15 Starting at 8am, online on Steinbach.PerfectMind.com",
+        "contextKind": "p",
+        "html": "<a href=\"https://steinbach.perfectmind.com/Clients/BookMe4?widgetId=15f6af07-39c5-473e-b053-96653f77a406\" target=\"_blank\">online on Steinbach.PerfectMind.com</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > div:nth-of-type(1) > p:nth-of-type(5) > a",
+        "text": "online on Steinbach.PerfectMind.com",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://steinbach.perfectmind.com/Clients/BookMe4?widgetId=15f6af07-39c5-473e-b053-96653f77a406",
+        "imgAlt": "",
+        "box": {
+          "x": 245.640625,
+          "y": 2288.421875,
+          "w": 303.390625,
+          "h": 21
+        },
+        "context": "Open Registration: Wednesday, September 16 Starting at 8am, online on Steinbach.PerfectMind.com",
+        "contextKind": "p",
+        "html": "<a href=\"https://steinbach.perfectmind.com/Clients/BookMe4?widgetId=15f6af07-39c5-473e-b053-96653f77a406\" target=\"_blank\">online on Steinbach.PerfectMind.com</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > div:nth-of-type(1) > p:nth-of-type(7) > a",
+        "text": "online on Steinbach.PerfectMind.com",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://steinbach.perfectmind.com/Clients/BookMe4?widgetId=15f6af07-39c5-473e-b053-96653f77a406",
+        "imgAlt": "",
+        "box": {
+          "x": 245.640625,
+          "y": 2476.9375,
+          "w": 303.390625,
+          "h": 21
+        },
+        "context": "Homeschool Lesson Registration: Thursday, September 17 Starting at 8am, online on Steinbach.PerfectMind.com",
+        "contextKind": "p",
+        "html": "<a href=\"https://steinbach.perfectmind.com/Clients/BookMe4?widgetId=15f6af07-39c5-473e-b053-96653f77a406\" target=\"_blank\">online on Steinbach.PerfectMind.com</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > div:nth-of-type(1) > p:nth-of-type(8) > a",
+        "text": "Course and Lesson Registration",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/experience-steinbach/aquatic-centre/course-and-lesson-registration/",
+        "imgAlt": "",
+        "box": {
+          "x": 113,
+          "y": 2530.640625,
+          "w": 326.859375,
+          "h": 45.703125
+        },
+        "context": "Course and Lesson Registration",
+        "contextKind": "p",
+        "html": "<a class=\"btn-medium\" href=\"/experience-steinbach/aquatic-centre/course-and-lesson-registration/\">Course and Lesson Registration</a>"
+      },
+      {
+        "target": "#swimming-lesson-registration > div > div:nth-of-type(2) > div:nth-of-type(2) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/experience-steinbach/aquatic-centre/course-and-lesson-registration/",
+        "imgAlt": "",
+        "box": {
+          "x": 698,
+          "y": 1937.09375,
+          "w": 1,
+          "h": 21
+        },
+        "context": "heading: Fall 2026 Swimming Lesson Registration ›",
+        "contextKind": "heading-only",
+        "html": "<a href=\"/experience-steinbach/aquatic-centre/course-and-lesson-registration/\"><img data-pagespeed-lazy-src=\"/site/assets/files/11048/x3-13-2024_-_panel_photo_-_swimming_lessons.png.pagespeed.ic.fh9f1LpuhC.webp\" alt=\"\" data-pagespeed-url-hash=\"2070722171\" src=\"/pagespeed_static/1.JiBnMqyl6S.gif\" onl"
+      },
+      {
+        "target": "div > div:nth-of-type(1) > div > h2 > a",
+        "text": "Youth Recreation Hockey Registration ›",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/experience-steinbach/youth-recreational-hockey/",
+        "imgAlt": "",
+        "box": {
+          "x": 113,
+          "y": 2752.34375,
+          "w": 555.234375,
+          "h": 38
+        },
+        "context": "heading: Youth Recreation Hockey Registration › | Youth Recreation Hockey Registration › Fall 2026 registration for children ages 7-17 is on Friday, September 18, 2026 at 8 am. Youth Rec Hockey",
+        "contextKind": "block",
+        "html": "<a href=\"/experience-steinbach/youth-recreational-hockey/\">\t\t\t\t\t\t\tYouth Recreation Hockey Registration\t\t\t\t\t\t›</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > div:nth-of-type(1) > p:nth-of-type(2) > a",
+        "text": "Youth Rec Hockey",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/hockey",
+        "imgAlt": "",
+        "box": {
+          "x": 113,
+          "y": 2902.9375,
+          "w": 208.15625,
+          "h": 45.703125
+        },
+        "context": "Youth Rec Hockey",
+        "contextKind": "p",
+        "html": "<a class=\"btn-medium\" href=\"/hockey\">Youth Rec Hockey</a>"
+      },
+      {
+        "target": "#youth-rec-hockey-registration > div > div:nth-of-type(2) > div:nth-of-type(2) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "http://www.steinbach.ca/hockey",
+        "imgAlt": "",
+        "box": {
+          "x": 698,
+          "y": 2823.53125,
+          "w": 1,
+          "h": 21
+        },
+        "context": "heading: Youth Recreation Hockey Registration › | Fall 2026 registration for children ages 7-17 is on Friday, September 18, 2026 at 8 am. Youth Rec Hockey",
+        "contextKind": "block",
+        "html": "<a href=\"http://www.steinbach.ca/hockey\" target=\"_BLANK\"><img data-pagespeed-lazy-src=\"/site/assets/files/11082/xrec_hockey_image-1_-_copy.png.pagespeed.ic.yUuv59kR4W.webp\" alt=\"\" data-pagespeed-url-hash=\"1014949980\" src=\"/pagespeed_static/1.JiBnMqyl6S.gif\" onload=\"pagespeed.lazyLoadImages.loadIfVis"
+      },
+      {
+        "target": "div > div:nth-of-type(1) > div > h2 > a",
+        "text": "Community Compost Depots ›",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/residents/waste-and-recycling-collection/composting/",
+        "imgAlt": "",
+        "box": {
+          "x": 113,
+          "y": 3124.640625,
+          "w": 432.171875,
+          "h": 38
+        },
+        "context": "heading: Community Compost Depots ›",
+        "contextKind": "heading-only",
+        "html": "<a href=\"/residents/waste-and-recycling-collection/composting/\">\t\t\t\t\t\t\tCommunity Compost Depots\t\t\t\t\t\t›</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > div:nth-of-type(1) > p:nth-of-type(4) > a",
+        "text": "Composting",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/residents/waste-and-recycling-collection/composting/",
+        "imgAlt": "",
+        "box": {
+          "x": 113,
+          "y": 3412.34375,
+          "w": 157.765625,
+          "h": 45.703125
+        },
+        "context": "Composting",
+        "contextKind": "p",
+        "html": "<a class=\"btn-medium\" href=\"/residents/waste-and-recycling-collection/composting/\">Composting</a>"
+      },
+      {
+        "target": "#community-compost-depots > div > div:nth-of-type(2) > div:nth-of-type(2) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/residents/waste-and-recycling-collection/composting/",
+        "imgAlt": "",
+        "box": {
+          "x": 698,
+          "y": 3195.828125,
+          "w": 1,
+          "h": 21
+        },
+        "context": "heading: Community Compost Depots ›",
+        "contextKind": "heading-only",
+        "html": "<a href=\"/residents/waste-and-recycling-collection/composting/\"><img data-pagespeed-lazy-src=\"/site/assets/files/13880/ximg_3299.jpg.pagespeed.ic.ou95HId0g7.webp\" alt=\"\" keep=\"\" our=\"\" landfill=\"\" healthy=\"\" -=\"\" compost=\"\" saturdays=\"\" 9-3\"\"=\"\" data-pagespeed-url-hash=\"896878333\" src=\"/pagespeed_st"
+      },
+      {
+        "target": "div > div:nth-of-type(1) > div > h2 > a",
+        "text": "City of Steinbach 2026 Election ›",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/city-hall/city-council/2026-election/",
+        "imgAlt": "",
+        "box": {
+          "x": 113,
+          "y": 3634.046875,
+          "w": 458.984375,
+          "h": 38
+        },
+        "context": "heading: City of Steinbach 2026 Election ›",
+        "contextKind": "heading-only",
+        "html": "<a href=\"/city-hall/city-council/2026-election/\">\t\t\t\t\t\t\tCity of Steinbach 2026 Election\t\t\t\t\t\t›</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > div:nth-of-type(1) > p:nth-of-type(3) > a:nth-of-type(1)",
+        "text": "Steinbach 2026 Election",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/city-hall/city-council/2026-election/",
+        "imgAlt": "",
+        "box": {
+          "x": 113,
+          "y": 3925.640625,
+          "w": 258.71875,
+          "h": 45.703125
+        },
+        "context": "Steinbach 2026 Election Voters List Registration Form Election Worker Positions",
+        "contextKind": "p",
+        "html": "<a class=\"btn-medium\" href=\"/city-hall/city-council/2026-election/\">Steinbach 2026 Election</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > div:nth-of-type(1) > p:nth-of-type(3) > a:nth-of-type(2)",
+        "text": "Voters List Registration Form",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/city-hall/city-council/2026-election/voters-list-registration-form/",
+        "imgAlt": "",
+        "box": {
+          "x": 113,
+          "y": 3989.34375,
+          "w": 306.625,
+          "h": 45.703125
+        },
+        "context": "Steinbach 2026 Election Voters List Registration Form Election Worker Positions",
+        "contextKind": "p",
+        "html": "<a class=\"btn-medium\" href=\"/city-hall/city-council/2026-election/voters-list-registration-form/\">Voters List Registration Form</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > div:nth-of-type(1) > p:nth-of-type(3) > a:nth-of-type(3)",
+        "text": "Election Worker Positions",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/city-hall/city-council/2026-election/election-worker-positions/",
+        "imgAlt": "",
+        "box": {
+          "x": 113,
+          "y": 4053.046875,
+          "w": 276.578125,
+          "h": 45.703125
+        },
+        "context": "Steinbach 2026 Election Voters List Registration Form Election Worker Positions",
+        "contextKind": "p",
+        "html": "<a class=\"btn-medium\" href=\"/city-hall/city-council/2026-election/election-worker-positions/\">Election Worker Positions</a>"
+      },
+      {
+        "target": "#city-of-steinbach-2026-election > div > div:nth-of-type(2) > div:nth-of-type(2) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/city-hall/city-council/2026-election/",
+        "imgAlt": "",
+        "box": {
+          "x": 698,
+          "y": 3705.234375,
+          "w": 1,
+          "h": 21
+        },
+        "context": "heading: The next general Municipal Elections is Wednesday, October 28, 2026.",
+        "contextKind": "heading-only",
+        "html": "<a href=\"/city-hall/city-council/2026-election/\"><img data-pagespeed-lazy-src=\"/site/assets/files/46630/xballot_box_unsplash_2026_-_element5_digital.jpg.pagespeed.ic.SZDwDqd1kb.webp\" alt=\"\" data-pagespeed-url-hash=\"2949058856\" src=\"/pagespeed_static/1.JiBnMqyl6S.gif\" onload=\"pagespeed.lazyLoadImages"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > div:nth-of-type(2) > p:nth-of-type(2) > a:nth-of-type(1)",
+        "text": "Directory",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/directory/",
+        "imgAlt": "",
+        "box": {
+          "x": 113,
+          "y": 4425.34375,
+          "w": 135.109375,
+          "h": 45.703125
+        },
+        "context": "Directory Accessibility",
+        "contextKind": "p",
+        "html": "<a class=\"btn-medium\" href=\"/directory/\">Directory</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > div:nth-of-type(2) > p:nth-of-type(2) > a:nth-of-type(2)",
+        "text": "Accessibility",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/departments-and-services/admin-and-human-resources/#accessibility",
+        "imgAlt": "",
+        "box": {
+          "x": 270.796875,
+          "y": 4425.34375,
+          "w": 161.515625,
+          "h": 45.703125
+        },
+        "context": "Directory Accessibility",
+        "contextKind": "p",
+        "html": "<a class=\"btn-medium\" href=\"/departments-and-services/admin-and-human-resources/#accessibility\">Accessibility</a>"
+      },
+      {
+        "target": "div > div > div > div:nth-of-type(1) > a",
+        "text": "Moving to Steinbach",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/residents/moving-to-steinbach/",
+        "imgAlt": "",
+        "box": {
+          "x": 113,
+          "y": 5378.9375,
+          "w": 360,
+          "h": 25.703125
+        },
+        "context": "heading: Contact the City | Moving to Steinbach Recreation Residents",
+        "contextKind": "block",
+        "html": "<a href=\"/residents/moving-to-steinbach/\"><div class=\"pillar\"><div class=\"image-container\"><img id=\"pillar-image-1437513183-0632-1\" data-pagespeed-lazy-src=\"/site/assets/files/1117/xmove.360x195.jpg.pagespeed.ic.rf7djwZXqq.webp\" alt=\"\" class=\"\" data-pagespeed-url-hash=\"3829629847\" src=\"/pagespeed_st"
+      },
+      {
+        "target": "div > div > div > div:nth-of-type(2) > a",
+        "text": "Recreation",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/experience-steinbach/",
+        "imgAlt": "",
+        "box": {
+          "x": 503,
+          "y": 5378.9375,
+          "w": 360,
+          "h": 25.703125
+        },
+        "context": "heading: Contact the City | Moving to Steinbach Recreation Residents",
+        "contextKind": "block",
+        "html": "<a href=\"/experience-steinbach/\"><div class=\"pillar\"><div class=\"image-container\"><img id=\"pillar-image-1437513183-0815-2\" data-pagespeed-lazy-src=\"/site/assets/files/1118/xaquatic-94.360x195.jpg.pagespeed.ic.qIQS7KcXLt.webp\" alt=\"\" class=\"\" data-pagespeed-url-hash=\"1495602843\" src=\"/pagespeed_stati"
+      },
+      {
+        "target": "div > div > div > div:nth-of-type(3) > a",
+        "text": "Residents",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/residents/",
+        "imgAlt": "",
+        "box": {
+          "x": 893,
+          "y": 5378.9375,
+          "w": 360,
+          "h": 25.703125
+        },
+        "context": "heading: Contact the City | Moving to Steinbach Recreation Residents",
+        "contextKind": "block",
+        "html": "<a href=\"/residents/\"><div class=\"pillar\"><div class=\"image-container\"><img id=\"pillar-image-1437513183-0954-3\" data-pagespeed-lazy-src=\"/site/assets/files/1119/xlive.360x195.jpg.pagespeed.ic.OPt-hz0elU.webp\" alt=\"\" class=\"\" data-pagespeed-url-hash=\"2288852828\" src=\"/pagespeed_static/1.JiBnMqyl6S.gi"
+      },
+      {
+        "target": "div:nth-of-type(1) > div:nth-of-type(1) > ul > li:nth-of-type(1) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.facebook.com/CityofSteinbach/",
+        "imgAlt": "",
+        "box": {
+          "x": 113,
+          "y": 5489.640625,
+          "w": 40,
+          "h": 40
+        },
+        "context": "",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.facebook.com/CityofSteinbach/\"><i class=\"fa fa-facebook-official \"></i></a>"
+      },
+      {
+        "target": "div:nth-of-type(1) > div:nth-of-type(1) > ul > li:nth-of-type(2) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://twitter.com/cityofsteinbach",
+        "imgAlt": "",
+        "box": {
+          "x": 168,
+          "y": 5489.640625,
+          "w": 40,
+          "h": 40
+        },
+        "context": "",
+        "contextKind": "li",
+        "html": "<a href=\"https://twitter.com/cityofsteinbach\"><i class=\"fa fa-twitter \"></i></a>"
+      },
+      {
+        "target": "div:nth-of-type(1) > div:nth-of-type(1) > ul > li:nth-of-type(3) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.instagram.com/cityofsteinbach/",
+        "imgAlt": "",
+        "box": {
+          "x": 223,
+          "y": 5489.640625,
+          "w": 40,
+          "h": 40
+        },
+        "context": "",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.instagram.com/cityofsteinbach/\"><i class=\"fa fa-instagram \"></i></a>"
+      },
+      {
+        "target": "div:nth-of-type(1) > div:nth-of-type(1) > ul > li:nth-of-type(4) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.youtube.com/user/amberreitsma?sub_confirmation=1",
+        "imgAlt": "",
+        "box": {
+          "x": 278,
+          "y": 5489.640625,
+          "w": 40,
+          "h": 40
+        },
+        "context": "",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.youtube.com/user/amberreitsma?sub_confirmation=1\"><i class=\"fa fa-youtube-play \"></i></a>"
+      },
+      {
+        "target": "div > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(2) > a",
+        "text": "Metric Marketing",
+        "ariaLabel": "",
+        "title": "",
+        "href": "http://metricmarketing.ca",
+        "imgAlt": "",
+        "box": {
+          "x": 362.21875,
+          "y": 5507.78125,
+          "w": 68.953125,
+          "h": 10
+        },
+        "context": "heading: Contact the City | ©2026 City of Steinbach 225 Reimer Avenue, Steinbach, MB R5G 2J1 Site by Metric Marketing",
+        "contextKind": "block",
+        "html": "<a href=\"http://metricmarketing.ca\">Metric Marketing</a>"
+      }
+    ],
+    "headings": [
+      {
+        "target": "div:nth-of-type(1) > div > div > div > h1",
+        "level": 1,
+        "text": "Strong Roots, Real Growth",
+        "visible": true,
+        "box": {
+          "x": 405.5,
+          "y": 155,
+          "w": 555,
+          "h": 47.296875
+        },
+        "html": "<h1>Strong Roots, Real Growth</h1>"
+      },
+      {
+        "target": "#quick-links-1 > div > div:nth-of-type(1) > div > h2",
+        "level": 2,
+        "text": "Quick Links",
+        "visible": true,
+        "box": {
+          "x": 113,
+          "y": 804.71875,
+          "w": 1140,
+          "h": 35.1875
+        },
+        "html": "<h2>Quick Links</h2>"
+      },
+      {
+        "target": "#latest-notices-announcements > div > div:nth-of-type(1) > div > h2",
+        "level": 2,
+        "text": "Latest Notices & Announcements",
+        "visible": true,
+        "box": {
+          "x": 113,
+          "y": 1223.015625,
+          "w": 1140,
+          "h": 35.1875
+        },
+        "html": "<h2>Latest Notices &amp; Announcements</h2>"
+      },
+      {
+        "target": "div:nth-of-type(1) > a > div > div > h3",
+        "level": 3,
+        "text": "2026 Property Tax Deadline Approaching",
+        "visible": true,
+        "box": {
+          "x": 179,
+          "y": 1337.203125,
+          "w": 174.5,
+          "h": 59.390625
+        },
+        "html": "<h3>2026 Property Tax Deadline Approaching</h3>"
+      },
+      {
+        "target": "div:nth-of-type(2) > a > div > div > h3",
+        "level": 3,
+        "text": "Notice – Water Tower updates close McKenzie Ave curb lane on September 16",
+        "visible": true,
+        "box": {
+          "x": 471.5,
+          "y": 1337.203125,
+          "w": 174.5,
+          "h": 98.984375
+        },
+        "html": "<h3>Notice – Water Tower updates close McKenzie Ave curb lane on September 16</h3>"
+      },
+      {
+        "target": "div:nth-of-type(3) > a > div > div > h3",
+        "level": 3,
+        "text": "No Signs on Boulevards – By-Law Reminder",
+        "visible": true,
+        "box": {
+          "x": 764,
+          "y": 1337.203125,
+          "w": 174.5,
+          "h": 59.390625
+        },
+        "html": "<h3>No Signs on Boulevards – By-Law Reminder</h3>"
+      },
+      {
+        "target": "div:nth-of-type(4) > a > div > div > h3",
+        "level": 3,
+        "text": "Splash Park to Close for the 2026 Season",
+        "visible": true,
+        "box": {
+          "x": 1056.5,
+          "y": 1337.203125,
+          "w": 174.5,
+          "h": 39.59375
+        },
+        "html": "<h3>Splash Park to Close for the 2026 Season</h3>"
+      },
+      {
+        "target": "#swimming-lesson-registration > div > div:nth-of-type(1) > div > h2",
+        "level": 2,
+        "text": "Fall 2026 Swimming Lesson Registration ›",
+        "visible": true,
+        "box": {
+          "x": 113,
+          "y": 1867.90625,
+          "w": 1140,
+          "h": 35.1875
+        },
+        "html": "<h2><a href=\"/experience-steinbach/aquatic-centre/course-and-lesson-registration/\">\t\t\t\t\t\t\tFall 2026 Swimming Lesson Registration\t\t\t\t\t\t›</a></h2>"
+      },
+      {
+        "target": "#youth-rec-hockey-registration > div > div:nth-of-type(1) > div > h2",
+        "level": 2,
+        "text": "Youth Recreation Hockey Registration ›",
+        "visible": true,
+        "box": {
+          "x": 113,
+          "y": 2754.34375,
+          "w": 1140,
+          "h": 35.1875
+        },
+        "html": "<h2><a href=\"/experience-steinbach/youth-recreational-hockey/\">\t\t\t\t\t\t\tYouth Recreation Hockey Registration\t\t\t\t\t\t›</a></h2>"
+      },
+      {
+        "target": "#community-compost-depots > div > div:nth-of-type(1) > div > h2",
+        "level": 2,
+        "text": "Community Compost Depots ›",
+        "visible": true,
+        "box": {
+          "x": 113,
+          "y": 3126.640625,
+          "w": 1140,
+          "h": 35.1875
+        },
+        "html": "<h2><a href=\"/residents/waste-and-recycling-collection/composting/\">\t\t\t\t\t\t\tCommunity Compost Depots\t\t\t\t\t\t›</a></h2>"
+      },
+      {
+        "target": "#city-of-steinbach-2026-election > div > div:nth-of-type(1) > div > h2",
+        "level": 2,
+        "text": "City of Steinbach 2026 Election ›",
+        "visible": true,
+        "box": {
+          "x": 113,
+          "y": 3636.046875,
+          "w": 1140,
+          "h": 35.1875
+        },
+        "html": "<h2><a href=\"/city-hall/city-council/2026-election/\">\t\t\t\t\t\t\tCity of Steinbach 2026 Election\t\t\t\t\t\t›</a></h2>"
+      },
+      {
+        "target": "#city-of-steinbach-2026-election > div > div:nth-of-type(2) > div:nth-of-type(1) > h4",
+        "level": 4,
+        "text": "The next general Municipal Elections is Wednesday, October 28, 2026.",
+        "visible": true,
+        "box": {
+          "x": 113,
+          "y": 3713.234375,
+          "w": 555,
+          "h": 39.59375
+        },
+        "html": "<h4><span style=\"color: rgb(168, 0, 0);\"><strong>The next general Municipal Elections&nbsp;is Wednesday, October 28, 2026.</strong></span></h4>"
+      },
+      {
+        "target": "#departments-services > div > div:nth-of-type(1) > div > h2",
+        "level": 2,
+        "text": "Departments & Services",
+        "visible": true,
+        "box": {
+          "x": 113,
+          "y": 4276.75,
+          "w": 1140,
+          "h": 35.1875
+        },
+        "html": "<h2>\n\t\t\t\t\t\t\t\t\t\t\t\t\tDepartments &amp; Services\t\t\t\t\t\t\t\t\t\t\t</h2>"
+      },
+      {
+        "target": "#departments-services > div > div:nth-of-type(2) > div:nth-of-type(2) > h2",
+        "level": 2,
+        "text": "Contact the City",
+        "visible": true,
+        "box": {
+          "x": 113,
+          "y": 4519.046875,
+          "w": 555,
+          "h": 35.1875
+        },
+        "html": "<h2>Contact the City</h2>"
+      }
+    ],
+    "lang": "en",
+    "title": "City of Steinbach"
+  },
   "axe": {
     "violationRules": 6,
     "violationNodes": 69,
@@ -1609,8 +3678,8 @@
       "nodes": 16,
       "items": [
         {
-          "target": "li[aria-hidden=\"false\"] > div > .icon > img",
-          "html": "<img src=\"/site/assets/files/1006/xadministration_human_resources.png.pagespeed.ic.RI1u_48DNr.webp\" onerror=\"this.onerror=null;pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);\">",
+          "target": ".icon > img[data-pagespeed-url-hash=\"2086039697\"]",
+          "html": "<img data-pagespeed-url-hash=\"2086039697\" src=\"/site/assets/files/1006/xadministration_human_resources.png.pagespeed.ic.RI1u_48DNr.webp\" onerror=\"this.onerror=null;pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);\">",
           "impact": "critical",
           "messages": [
             "Element does not have an alt attribute",
@@ -1632,8 +3701,8 @@
           }
         },
         {
-          "target": ".col-xs-6.article-container.col-md-3:nth-child(1) > a > .article-summary-image-container > .summary-img[data-pagespeed-lazy-replaced-functions=\"1\"]",
-          "html": "<img class=\"summary-img\" data-pagespeed-lazy-...=\"/site/assets/files/4...\" src=\"/pagespeed_static/1....\" onload=\"pagespeed.lazyLoadIm...\" onerror=\"this.onerror=null;pa...\" data-pagespeed-lazy-...=\"1\">",
+          "target": "img[data-pagespeed-url-hash=\"3043101292\"]",
+          "html": "<img class=\"summary-img\" data-pagespeed-lazy-...=\"/site/assets/files/4...\" data-pagespeed-url-h...=\"3043101292\" src=\"/pagespeed_static/1....\" onload=\"pagespeed.lazyLoadIm...\" onerror=\"this.onerror=null;pa...\" data-pagespeed-lazy-...=\"1\">",
           "impact": "critical",
           "messages": [
             "Element does not have an alt attribute",
@@ -1655,8 +3724,8 @@
           }
         },
         {
-          "target": ".col-xs-6.article-container.col-md-3:nth-child(2) > a > .article-summary-image-container > .summary-img[data-pagespeed-lazy-replaced-functions=\"1\"]",
-          "html": "<img class=\"summary-img\" data-pagespeed-lazy-...=\"/site/assets/files/4...\" src=\"/pagespeed_static/1....\" onload=\"pagespeed.lazyLoadIm...\" onerror=\"this.onerror=null;pa...\" data-pagespeed-lazy-...=\"1\">",
+          "target": "img[data-pagespeed-url-hash=\"2990982540\"]",
+          "html": "<img class=\"summary-img\" data-pagespeed-lazy-...=\"/site/assets/files/4...\" data-pagespeed-url-h...=\"2990982540\" src=\"/pagespeed_static/1....\" onload=\"pagespeed.lazyLoadIm...\" onerror=\"this.onerror=null;pa...\" data-pagespeed-lazy-...=\"1\">",
           "impact": "critical",
           "messages": [
             "Element does not have an alt attribute",
@@ -1678,8 +3747,8 @@
           }
         },
         {
-          "target": ".col-xs-6.article-container.col-md-3:nth-child(3) > a > .article-summary-image-container > .summary-img[data-pagespeed-lazy-replaced-functions=\"1\"]",
-          "html": "<img class=\"summary-img\" data-pagespeed-lazy-...=\"/site/assets/files/4...\" src=\"/pagespeed_static/1....\" onload=\"pagespeed.lazyLoadIm...\" onerror=\"this.onerror=null;pa...\" data-pagespeed-lazy-...=\"1\">",
+          "target": "img[data-pagespeed-url-hash=\"1086492853\"]",
+          "html": "<img class=\"summary-img\" data-pagespeed-lazy-...=\"/site/assets/files/4...\" data-pagespeed-url-h...=\"1086492853\" src=\"/pagespeed_static/1....\" onload=\"pagespeed.lazyLoadIm...\" onerror=\"this.onerror=null;pa...\" data-pagespeed-lazy-...=\"1\">",
           "impact": "critical",
           "messages": [
             "Element does not have an alt attribute",
@@ -1701,8 +3770,8 @@
           }
         },
         {
-          "target": ".col-xs-6.article-container.col-md-3:nth-child(4) > a > .article-summary-image-container > .summary-img[data-pagespeed-lazy-replaced-functions=\"1\"]",
-          "html": "<img class=\"summary-img\" data-pagespeed-lazy-...=\"/site/assets/files/4...\" src=\"/pagespeed_static/1....\" onload=\"pagespeed.lazyLoadIm...\" onerror=\"this.onerror=null;pa...\" data-pagespeed-lazy-...=\"1\">",
+          "target": "img[data-pagespeed-url-hash=\"2660357500\"]",
+          "html": "<img class=\"summary-img\" data-pagespeed-lazy-...=\"/site/assets/files/4...\" data-pagespeed-url-h...=\"2660357500\" src=\"/pagespeed_static/1....\" onload=\"pagespeed.lazyLoadIm...\" onerror=\"this.onerror=null;pa...\" data-pagespeed-lazy-...=\"1\">",
           "impact": "critical",
           "messages": [
             "Element does not have an alt attribute",
@@ -1724,8 +3793,8 @@
           }
         },
         {
-          "target": "a:nth-child(1) > .qlink > .qlink-icon-container.teal.icon-container > .icon[data-pagespeed-lazy-replaced-functions=\"1\"]",
-          "html": "<img data-pagespeed-lazy-...=\"/site/assets/files/1...\" class=\"icon\" src=\"/pagespeed_static/1....\" onload=\"pagespeed.lazyLoadIm...\" onerror=\"this.onerror=null;pa...\" data-pagespeed-lazy-...=\"1\">",
+          "target": ".icon[data-pagespeed-url-hash=\"950380083\"][data-pagespeed-lazy-replaced-functions=\"1\"]",
+          "html": "<img data-pagespeed-lazy-...=\"/site/assets/files/1...\" class=\"icon\" data-pagespeed-url-h...=\"950380083\" src=\"/pagespeed_static/1....\" onload=\"pagespeed.lazyLoadIm...\" onerror=\"this.onerror=null;pa...\" data-pagespeed-lazy-...=\"1\">",
           "impact": "critical",
           "messages": [
             "Element does not have an alt attribute",
@@ -1747,8 +3816,8 @@
           }
         },
         {
-          "target": "a:nth-child(2) > .qlink > .qlink-icon-container.teal.icon-container > .icon[data-pagespeed-lazy-replaced-functions=\"1\"]",
-          "html": "<img data-pagespeed-lazy-...=\"/site/assets/files/1...\" class=\"icon\" src=\"/pagespeed_static/1....\" onload=\"pagespeed.lazyLoadIm...\" onerror=\"this.onerror=null;pa...\" data-pagespeed-lazy-...=\"1\">",
+          "target": "img[data-pagespeed-url-hash=\"73045971\"]",
+          "html": "<img data-pagespeed-lazy-...=\"/site/assets/files/1...\" class=\"icon\" data-pagespeed-url-h...=\"73045971\" src=\"/pagespeed_static/1....\" onload=\"pagespeed.lazyLoadIm...\" onerror=\"this.onerror=null;pa...\" data-pagespeed-lazy-...=\"1\">",
           "impact": "critical",
           "messages": [
             "Element does not have an alt attribute",
@@ -1770,8 +3839,8 @@
           }
         },
         {
-          "target": "a:nth-child(3) > .qlink > .qlink-icon-container.teal.icon-container > .icon[data-pagespeed-lazy-replaced-functions=\"1\"]",
-          "html": "<img data-pagespeed-lazy-...=\"/site/assets/files/1...\" class=\"icon\" src=\"/pagespeed_static/1....\" onload=\"pagespeed.lazyLoadIm...\" onerror=\"this.onerror=null;pa...\" data-pagespeed-lazy-...=\"1\">",
+          "target": "img[data-pagespeed-url-hash=\"544879079\"]",
+          "html": "<img data-pagespeed-lazy-...=\"/site/assets/files/1...\" class=\"icon\" data-pagespeed-url-h...=\"544879079\" src=\"/pagespeed_static/1....\" onload=\"pagespeed.lazyLoadIm...\" onerror=\"this.onerror=null;pa...\" data-pagespeed-lazy-...=\"1\">",
           "impact": "critical",
           "messages": [
             "Element does not have an alt attribute",
@@ -1793,8 +3862,8 @@
           }
         },
         {
-          "target": "a:nth-child(4) > .qlink > .qlink-icon-container.teal.icon-container > .icon[data-pagespeed-lazy-replaced-functions=\"1\"]",
-          "html": "<img data-pagespeed-lazy-...=\"/site/assets/files/1...\" class=\"icon\" src=\"/pagespeed_static/1....\" onload=\"pagespeed.lazyLoadIm...\" onerror=\"this.onerror=null;pa...\" data-pagespeed-lazy-...=\"1\">",
+          "target": ".icon[data-pagespeed-url-hash=\"2086039697\"][data-pagespeed-lazy-replaced-functions=\"1\"]",
+          "html": "<img data-pagespeed-lazy-...=\"/site/assets/files/1...\" class=\"icon\" data-pagespeed-url-h...=\"2086039697\" src=\"/pagespeed_static/1....\" onload=\"pagespeed.lazyLoadIm...\" onerror=\"this.onerror=null;pa...\" data-pagespeed-lazy-...=\"1\">",
           "impact": "critical",
           "messages": [
             "Element does not have an alt attribute",
@@ -1816,8 +3885,8 @@
           }
         },
         {
-          "target": "a:nth-child(5) > .qlink > .qlink-icon-container.teal.icon-container > .icon[data-pagespeed-lazy-replaced-functions=\"1\"]",
-          "html": "<img data-pagespeed-lazy-...=\"/site/assets/files/1...\" class=\"icon\" src=\"/pagespeed_static/1....\" onload=\"pagespeed.lazyLoadIm...\" onerror=\"this.onerror=null;pa...\" data-pagespeed-lazy-...=\"1\">",
+          "target": "img[data-pagespeed-url-hash=\"188533602\"]",
+          "html": "<img data-pagespeed-lazy-...=\"/site/assets/files/1...\" class=\"icon\" data-pagespeed-url-h...=\"188533602\" src=\"/pagespeed_static/1....\" onload=\"pagespeed.lazyLoadIm...\" onerror=\"this.onerror=null;pa...\" data-pagespeed-lazy-...=\"1\">",
           "impact": "critical",
           "messages": [
             "Element does not have an alt attribute",
@@ -1839,8 +3908,8 @@
           }
         },
         {
-          "target": "a:nth-child(6) > .qlink > .qlink-icon-container.teal.icon-container > .icon[data-pagespeed-lazy-replaced-functions=\"1\"]",
-          "html": "<img data-pagespeed-lazy-...=\"/site/assets/files/1...\" class=\"icon\" src=\"/pagespeed_static/1....\" onload=\"pagespeed.lazyLoadIm...\" onerror=\"this.onerror=null;pa...\" data-pagespeed-lazy-...=\"1\">",
+          "target": "img[data-pagespeed-url-hash=\"807353262\"]",
+          "html": "<img data-pagespeed-lazy-...=\"/site/assets/files/1...\" class=\"icon\" data-pagespeed-url-h...=\"807353262\" src=\"/pagespeed_static/1....\" onload=\"pagespeed.lazyLoadIm...\" onerror=\"this.onerror=null;pa...\" data-pagespeed-lazy-...=\"1\">",
           "impact": "critical",
           "messages": [
             "Element does not have an alt attribute",
@@ -1862,8 +3931,8 @@
           }
         },
         {
-          "target": "a:nth-child(7) > .qlink > .qlink-icon-container.teal.icon-container > .icon[data-pagespeed-lazy-replaced-functions=\"1\"]",
-          "html": "<img data-pagespeed-lazy-...=\"/site/assets/files/1...\" class=\"icon\" src=\"/pagespeed_static/1....\" onload=\"pagespeed.lazyLoadIm...\" onerror=\"this.onerror=null;pa...\" data-pagespeed-lazy-...=\"1\">",
+          "target": "img[data-pagespeed-url-hash=\"393438256\"]",
+          "html": "<img data-pagespeed-lazy-...=\"/site/assets/files/1...\" class=\"icon\" data-pagespeed-url-h...=\"393438256\" src=\"/pagespeed_static/1....\" onload=\"pagespeed.lazyLoadIm...\" onerror=\"this.onerror=null;pa...\" data-pagespeed-lazy-...=\"1\">",
           "impact": "critical",
           "messages": [
             "Element does not have an alt attribute",
@@ -1885,8 +3954,8 @@
           }
         },
         {
-          "target": "a:nth-child(8) > .qlink > .qlink-icon-container.teal.icon-container > .icon[data-pagespeed-lazy-replaced-functions=\"1\"]",
-          "html": "<img data-pagespeed-lazy-...=\"/site/assets/files/1...\" class=\"icon\" src=\"/pagespeed_static/1....\" onload=\"pagespeed.lazyLoadIm...\" onerror=\"this.onerror=null;pa...\" data-pagespeed-lazy-...=\"1\">",
+          "target": "img[data-pagespeed-url-hash=\"1636892705\"]",
+          "html": "<img data-pagespeed-lazy-...=\"/site/assets/files/1...\" class=\"icon\" data-pagespeed-url-h...=\"1636892705\" src=\"/pagespeed_static/1....\" onload=\"pagespeed.lazyLoadIm...\" onerror=\"this.onerror=null;pa...\" data-pagespeed-lazy-...=\"1\">",
           "impact": "critical",
           "messages": [
             "Element does not have an alt attribute",
@@ -1908,8 +3977,8 @@
           }
         },
         {
-          "target": "a:nth-child(9) > .qlink > .qlink-icon-container.teal.icon-container > .icon[data-pagespeed-lazy-replaced-functions=\"1\"]",
-          "html": "<img data-pagespeed-lazy-...=\"/site/assets/files/1...\" class=\"icon\" src=\"/pagespeed_static/1....\" onload=\"pagespeed.lazyLoadIm...\" onerror=\"this.onerror=null;pa...\" data-pagespeed-lazy-...=\"1\">",
+          "target": "img[data-pagespeed-url-hash=\"1985717411\"]",
+          "html": "<img data-pagespeed-lazy-...=\"/site/assets/files/1...\" class=\"icon\" data-pagespeed-url-h...=\"1985717411\" src=\"/pagespeed_static/1....\" onload=\"pagespeed.lazyLoadIm...\" onerror=\"this.onerror=null;pa...\" data-pagespeed-lazy-...=\"1\">",
           "impact": "critical",
           "messages": [
             "Element does not have an alt attribute",
@@ -1931,8 +4000,8 @@
           }
         },
         {
-          "target": "a[href$=\"capital-projects-map/\"] > .qlink > .qlink-icon-container.teal.icon-container > .icon[data-pagespeed-lazy-replaced-functions=\"1\"]",
-          "html": "<img data-pagespeed-lazy-...=\"/site/assets/files/1...\" class=\"icon\" src=\"/pagespeed_static/1....\" onload=\"pagespeed.lazyLoadIm...\" onerror=\"this.onerror=null;pa...\" data-pagespeed-lazy-...=\"1\">",
+          "target": "img[data-pagespeed-url-hash=\"708195086\"]",
+          "html": "<img data-pagespeed-lazy-...=\"/site/assets/files/1...\" class=\"icon\" data-pagespeed-url-h...=\"708195086\" src=\"/pagespeed_static/1....\" onload=\"pagespeed.lazyLoadIm...\" onerror=\"this.onerror=null;pa...\" data-pagespeed-lazy-...=\"1\">",
           "impact": "critical",
           "messages": [
             "Element does not have an alt attribute",
@@ -1954,8 +4023,8 @@
           }
         },
         {
-          "target": ".box > .icon-container.teal > .icon[data-pagespeed-lazy-replaced-functions=\"1\"]",
-          "html": "<img data-pagespeed-lazy-...=\"/site/assets/files/1...\" class=\"icon\" src=\"/pagespeed_static/1....\" onload=\"pagespeed.lazyLoadIm...\" onerror=\"this.onerror=null;pa...\" data-pagespeed-lazy-...=\"1\">",
+          "target": "img[data-pagespeed-url-hash=\"1794778348\"]",
+          "html": "<img data-pagespeed-lazy-...=\"/site/assets/files/1...\" class=\"icon\" data-pagespeed-url-h...=\"1794778348\" src=\"/pagespeed_static/1....\" onload=\"pagespeed.lazyLoadIm...\" onerror=\"this.onerror=null;pa...\" data-pagespeed-lazy-...=\"1\">",
           "impact": "critical",
           "messages": [
             "Element does not have an alt attribute",

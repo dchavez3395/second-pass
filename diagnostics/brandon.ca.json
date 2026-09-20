@@ -19,7 +19,1670 @@
     "width": 1366,
     "height": 900
   },
-  "scannedAt": "2026-09-19T06:19:42.858Z",
+  "scannedAt": "2026-09-19T23:52:05.843Z",
+  "content": {
+    "images": [
+      {
+        "target": "#logo > a > picture > img",
+        "tag": "img",
+        "src": "https://media-002-ca.cdn.govstack.com/brandon-013-ca/media/3y3fk01z/city-of-brandon-logo-horizontal-white.png?format=webp",
+        "alt": "",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 501,
+        "naturalHeight": 138,
+        "box": {
+          "x": 8,
+          "y": 40,
+          "w": 326.734375,
+          "h": 90
+        },
+        "inLink": true,
+        "linkText": "City of Brandon",
+        "linkHref": "/",
+        "caption": "",
+        "nearText": "City of Brandon",
+        "html": "<img src=\"https://media-002-ca.cdn.govstack.com/brandon-013-ca/media/3y3fk01z/city-of-brandon-logo-horizontal-white.png\" alt=\"\">"
+      },
+      {
+        "target": "#site-content > section:nth-of-type(1) > div:nth-of-type(1)",
+        "tag": "div",
+        "src": "",
+        "alt": null,
+        "ariaLabel": "",
+        "role": "img",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0,
+        "box": {
+          "x": 0,
+          "y": 150,
+          "w": 1366,
+          "h": 630
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "",
+        "html": "<div class=\"image background-image component-background-image lazyloaded\" style=\"background-image: url(&quot;https://media-002-ca.cdn.govstack.com/brandon-013-ca/media/fg2davey/main-banner.jpg?format=webp&quot;); background-repeat: no-repeat; background-size: cover; background-position: center center;\" data-bgset=\"https://media-002-ca.cdn.govstack.com/brandon-013-ca/media/fg2davey/main-banner.jpg?"
+      },
+      {
+        "target": "div:nth-of-type(1) > div > a > div:nth-of-type(1) > img",
+        "tag": "img",
+        "src": "https://media-002-ca.cdn.govstack.com/brandon-013-ca/media/zuiglgjf/auction-hammer.svg",
+        "alt": "",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 70,
+        "naturalHeight": 70,
+        "box": {
+          "x": 395,
+          "y": 446,
+          "w": 60,
+          "h": 60
+        },
+        "inLink": true,
+        "linkText": "Agendas and Minutes",
+        "linkHref": "https://www.brandon.ca/city-hall/agendas-and-minutes/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://media-002-ca.cdn.govstack.com/brandon-013-ca/media/zuiglgjf/auction-hammer.svg\" alt=\"\">"
+      },
+      {
+        "target": "div:nth-of-type(2) > div > a > div:nth-of-type(1) > img",
+        "tag": "img",
+        "src": "https://media-002-ca.cdn.govstack.com/brandon-013-ca/media/2alejic4/invoice.svg",
+        "alt": "",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 70,
+        "naturalHeight": 70,
+        "box": {
+          "x": 524,
+          "y": 446,
+          "w": 60,
+          "h": 60
+        },
+        "inLink": true,
+        "linkText": "Budget",
+        "linkHref": "https://www.brandon.ca/city-hall/budget-and-finance/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://media-002-ca.cdn.govstack.com/brandon-013-ca/media/2alejic4/invoice.svg\" alt=\"\">"
+      },
+      {
+        "target": "div:nth-of-type(3) > div > a > div:nth-of-type(1) > img",
+        "tag": "img",
+        "src": "https://media-002-ca.cdn.govstack.com/brandon-013-ca/media/44ancll3/house-dollar.svg",
+        "alt": "",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 70,
+        "naturalHeight": 70,
+        "box": {
+          "x": 653,
+          "y": 446,
+          "w": 60,
+          "h": 60
+        },
+        "inLink": true,
+        "linkText": "Property Taxes",
+        "linkHref": "https://www.brandon.ca/home-property-environment/property-taxes/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://media-002-ca.cdn.govstack.com/brandon-013-ca/media/44ancll3/house-dollar.svg\" alt=\"\">"
+      },
+      {
+        "target": "div:nth-of-type(4) > div > a > div:nth-of-type(1) > img",
+        "tag": "img",
+        "src": "https://media-002-ca.cdn.govstack.com/brandon-013-ca/media/wd0l54rh/message-boxes.svg",
+        "alt": "",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 70,
+        "naturalHeight": 70,
+        "box": {
+          "x": 782,
+          "y": 446,
+          "w": 60,
+          "h": 60
+        },
+        "inLink": true,
+        "linkText": "Report an Issue",
+        "linkHref": "https://www.brandon.ca/home-property-environment/report-an-issue/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://media-002-ca.cdn.govstack.com/brandon-013-ca/media/wd0l54rh/message-boxes.svg\" alt=\"\">"
+      },
+      {
+        "target": "div:nth-of-type(5) > div > a > div:nth-of-type(1) > img",
+        "tag": "img",
+        "src": "https://media-002-ca.cdn.govstack.com/brandon-013-ca/media/fiinnuob/vote-icon.svg",
+        "alt": "",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 122,
+        "naturalHeight": 150,
+        "box": {
+          "x": 911,
+          "y": 446,
+          "w": 60,
+          "h": 73.734375
+        },
+        "inLink": true,
+        "linkText": "Election 2026",
+        "linkHref": "https://www.brandon.ca/votes",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://media-002-ca.cdn.govstack.com/brandon-013-ca/media/fiinnuob/vote-icon.svg\" alt=\"\">"
+      },
+      {
+        "target": "div > a > div:nth-of-type(1) > picture > img",
+        "tag": "img",
+        "src": "https://media-002-ca.cdn.govstack.com/brandon-013-ca/media/wounfhdk/34th-pathway.jpg?rxy=0.6073190708759851,0.563437121962181&width=1600&height=1200&v=1db8895fb406e50&format=webp",
+        "alt": "",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 1600,
+        "naturalHeight": 1200,
+        "box": {
+          "x": 23,
+          "y": 870,
+          "w": 307.5,
+          "h": 230.625
+        },
+        "inLink": true,
+        "linkText": "Recreation Programs",
+        "linkHref": "https://www.brandon.ca/parks-recreation/recreation-and-sports/programs-classes/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img class=\"lazypreload lazyloaded\" src=\"https://media-002-ca.cdn.govstack.com/brandon-013-ca/media/wounfhdk/34th-pathway.jpg?rxy=0.6073190708759851,0.563437121962181&amp;width=400&amp;height=300&amp;v=1db8895fb406e50&amp;format=webp\" width=\"400\" height=\"300\" data-srcset=\"https://media-002-ca.cdn.govstack.com/brandon-013-ca/media/wounfhdk/34th-pathway.jpg?rxy=0.6073190708759851,0.563437121962181&a"
+      },
+      {
+        "target": "div > a > div:nth-of-type(1) > picture > img",
+        "tag": "img",
+        "src": "https://media-002-ca.cdn.govstack.com/brandon-013-ca/media/2bzhni0u/img_3270.jpg?rxy=0.5519884990536457,0.6779997373155272&width=1600&height=1200&v=1dbbebb9eb0a4a0&format=webp",
+        "alt": "",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 1600,
+        "naturalHeight": 1200,
+        "box": {
+          "x": 360.5,
+          "y": 870,
+          "w": 307.5,
+          "h": 230.625
+        },
+        "inLink": true,
+        "linkText": "Garbage, Recycling and Organics",
+        "linkHref": "https://www.brandon.ca/home-property-environment/garbage-recycling-and-organics/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img class=\"lazypreload lazyloaded\" src=\"https://media-002-ca.cdn.govstack.com/brandon-013-ca/media/2bzhni0u/img_3270.jpg?rxy=0.5519884990536457,0.6779997373155272&amp;width=400&amp;height=300&amp;v=1dbbebb9eb0a4a0&amp;format=webp\" width=\"400\" height=\"300\" data-srcset=\"https://media-002-ca.cdn.govstack.com/brandon-013-ca/media/2bzhni0u/img_3270.jpg?rxy=0.5519884990536457,0.6779997373155272&amp;wid"
+      },
+      {
+        "target": "div > a > div:nth-of-type(1) > picture > img",
+        "tag": "img",
+        "src": "https://media-002-ca.cdn.govstack.com/brandon-013-ca/media/11blhwhh/dc.jpg?width=1600&height=1200&v=1dbbec86bbc49c0&format=webp",
+        "alt": "",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 1600,
+        "naturalHeight": 1200,
+        "box": {
+          "x": 698,
+          "y": 870,
+          "w": 307.5,
+          "h": 230.625
+        },
+        "inLink": true,
+        "linkText": "Building and Renovating",
+        "linkHref": "https://www.brandon.ca/business-building-development/building-and-renovating/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img class=\"lazypreload lazyloaded\" src=\"https://media-002-ca.cdn.govstack.com/brandon-013-ca/media/11blhwhh/dc.jpg?width=400&amp;height=300&amp;v=1dbbec86bbc49c0&amp;format=webp\" width=\"400\" height=\"300\" data-srcset=\"https://media-002-ca.cdn.govstack.com/brandon-013-ca/media/11blhwhh/dc.jpg?width=1600&amp;height=1200&amp;v=1dbbec86bbc49c0&amp;format=webp 1x\" alt=\"\" srcset=\"https://media-002-ca.cd"
+      },
+      {
+        "target": "div > a > div:nth-of-type(1) > picture > img",
+        "tag": "img",
+        "src": "https://media-002-ca.cdn.govstack.com/brandon-013-ca/media/kmpersoc/img_2943.jpg?rxy=0.2866250431147812,0.45836584412304027&width=1600&height=1200&v=1dbbec139398c80&format=webp",
+        "alt": "",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 1600,
+        "naturalHeight": 1200,
+        "box": {
+          "x": 1035.5,
+          "y": 870,
+          "w": 307.5,
+          "h": 230.625
+        },
+        "inLink": true,
+        "linkText": "Police News Releases",
+        "linkHref": "https://www.brandon.ca/emergency-services/police-service/police-news-releases/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img class=\"lazypreload lazyloaded\" src=\"https://media-002-ca.cdn.govstack.com/brandon-013-ca/media/kmpersoc/img_2943.jpg?rxy=0.2866250431147812,0.45836584412304027&amp;width=400&amp;height=300&amp;v=1dbbec139398c80&amp;format=webp\" width=\"400\" height=\"300\" data-srcset=\"https://media-002-ca.cdn.govstack.com/brandon-013-ca/media/kmpersoc/img_2943.jpg?rxy=0.2866250431147812,0.45836584412304027&amp;w"
+      },
+      {
+        "target": "div > a > div:nth-of-type(1) > picture > img",
+        "tag": "img",
+        "src": "https://media-002-ca.cdn.govstack.com/brandon-013-ca/media/ytaprmsl/img_6142.jpg?rxy=0.44969209142773114,0.3620868953850751&width=1600&height=1200&v=1dbbebc9812f570&format=webp",
+        "alt": "",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 1600,
+        "naturalHeight": 1200,
+        "box": {
+          "x": 23,
+          "y": 1130.625,
+          "w": 307.5,
+          "h": 230.625
+        },
+        "inLink": true,
+        "linkText": "City Government",
+        "linkHref": "https://www.brandon.ca/city-hall/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img class=\"lazypreload lazyloaded\" src=\"https://media-002-ca.cdn.govstack.com/brandon-013-ca/media/ytaprmsl/img_6142.jpg?rxy=0.44969209142773114,0.3620868953850751&amp;width=400&amp;height=300&amp;v=1dbbebc9812f570&amp;format=webp\" width=\"400\" height=\"300\" data-srcset=\"https://media-002-ca.cdn.govstack.com/brandon-013-ca/media/ytaprmsl/img_6142.jpg?rxy=0.44969209142773114,0.3620868953850751&amp;w"
+      },
+      {
+        "target": "div > a > div:nth-of-type(1) > picture > img",
+        "tag": "img",
+        "src": "https://media-002-ca.cdn.govstack.com/brandon-013-ca/media/0n1brknl/payment-options.jpg?width=1600&height=1200&v=1dbbec4e96f8930&format=webp",
+        "alt": "",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 1600,
+        "naturalHeight": 1200,
+        "box": {
+          "x": 360.5,
+          "y": 1130.625,
+          "w": 307.5,
+          "h": 230.625
+        },
+        "inLink": true,
+        "linkText": "Payment Options",
+        "linkHref": "https://www.brandon.ca/city-hall/budget-and-finance/payment-options/#",
+        "caption": "",
+        "nearText": "",
+        "html": "<img class=\"lazypreload lazyloaded\" src=\"https://media-002-ca.cdn.govstack.com/brandon-013-ca/media/0n1brknl/payment-options.jpg?width=400&amp;height=300&amp;v=1dbbec4e96f8930&amp;format=webp\" width=\"400\" height=\"300\" data-srcset=\"https://media-002-ca.cdn.govstack.com/brandon-013-ca/media/0n1brknl/payment-options.jpg?width=1600&amp;height=1200&amp;v=1dbbec4e96f8930&amp;format=webp 1x\" alt=\"\" srcse"
+      },
+      {
+        "target": "div > a > div:nth-of-type(1) > picture > img",
+        "tag": "img",
+        "src": "https://media-002-ca.cdn.govstack.com/brandon-013-ca/media/darf1vpo/brandon_summer.jpg?rxy=0.7264150407765193,0.19459621168568586&width=1600&height=1200&v=1dbbec5bb1bfd10&format=webp",
+        "alt": "",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 1600,
+        "naturalHeight": 1200,
+        "box": {
+          "x": 698,
+          "y": 1130.625,
+          "w": 307.5,
+          "h": 230.625
+        },
+        "inLink": true,
+        "linkText": "Parks and Greenspaces",
+        "linkHref": "https://www.brandon.ca/parks-recreation/parks-greenspaces/#",
+        "caption": "",
+        "nearText": "",
+        "html": "<img class=\"lazypreload lazyloaded\" src=\"https://media-002-ca.cdn.govstack.com/brandon-013-ca/media/darf1vpo/brandon_summer.jpg?rxy=0.7264150407765193,0.19459621168568586&amp;width=400&amp;height=300&amp;v=1dbbec5bb1bfd10&amp;format=webp\" width=\"400\" height=\"300\" data-srcset=\"https://media-002-ca.cdn.govstack.com/brandon-013-ca/media/darf1vpo/brandon_summer.jpg?rxy=0.7264150407765193,0.19459621168"
+      },
+      {
+        "target": "div > a > div:nth-of-type(1) > picture > img",
+        "tag": "img",
+        "src": "https://media-002-ca.cdn.govstack.com/brandon-013-ca/media/hu4p4bk3/1600x1200-small-business.webp?width=1600&height=1200&v=1db670c43e85650&format=webp",
+        "alt": "",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 1600,
+        "naturalHeight": 1200,
+        "box": {
+          "x": 1035.5,
+          "y": 1130.625,
+          "w": 307.5,
+          "h": 230.625
+        },
+        "inLink": true,
+        "linkText": "Business",
+        "linkHref": "https://www.brandon.ca/business-building-development/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img class=\"lazypreload lazyloaded\" src=\"https://media-002-ca.cdn.govstack.com/brandon-013-ca/media/hu4p4bk3/1600x1200-small-business.webp?width=400&amp;height=300&amp;v=1db670c43e85650&amp;format=webp\" width=\"400\" height=\"300\" data-srcset=\"https://media-002-ca.cdn.govstack.com/brandon-013-ca/media/hu4p4bk3/1600x1200-small-business.webp?width=1600&amp;height=1200&amp;v=1db670c43e85650&amp;format=w"
+      },
+      {
+        "target": "#site-content > section:nth-of-type(5) > div:nth-of-type(1)",
+        "tag": "div",
+        "src": "",
+        "alt": null,
+        "ariaLabel": "",
+        "role": "img",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0,
+        "box": {
+          "x": 0,
+          "y": 2275.8125,
+          "w": 1366,
+          "h": 623.796875
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "",
+        "html": "<div class=\"image lazyload background-image component-background-image\" style=\"background-image:url('https://media-002-ca.cdn.govstack.com/brandon-013-ca/media/qlrl1fam/img_8436.jpg'); background-repeat:no-repeat;background-size:cover;background-position:center center;\" data-bgset=\"https://media-002-ca.cdn.govstack.com/brandon-013-ca/media/qlrl1fam/img_8436.jpg?format=webp [type:image/webp] | http"
+      },
+      {
+        "target": "div:nth-of-type(2) > div:nth-of-type(1) > div > div:nth-of-type(1) > img",
+        "tag": "img",
+        "src": "https://media-002-ca.cdn.govstack.com/brandon-013-ca/media/iydlib1d/credit-card-payment.svg",
+        "alt": "",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 70,
+        "naturalHeight": 70,
+        "box": {
+          "x": 146.75,
+          "y": 2395.8125,
+          "w": 60,
+          "h": 60
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://media-002-ca.cdn.govstack.com/brandon-013-ca/media/iydlib1d/credit-card-payment.svg\" alt=\"\">"
+      },
+      {
+        "target": "div:nth-of-type(2) > div:nth-of-type(2) > div > div:nth-of-type(1) > img",
+        "tag": "img",
+        "src": "https://media-002-ca.cdn.govstack.com/brandon-013-ca/media/xkldgdil/person-riding-bike.svg",
+        "alt": "",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 70,
+        "naturalHeight": 70,
+        "box": {
+          "x": 484.25,
+          "y": 2395.8125,
+          "w": 60,
+          "h": 60
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://media-002-ca.cdn.govstack.com/brandon-013-ca/media/xkldgdil/person-riding-bike.svg\" alt=\"\">"
+      },
+      {
+        "target": "div:nth-of-type(2) > div:nth-of-type(3) > div > div:nth-of-type(1) > img",
+        "tag": "img",
+        "src": "https://media-002-ca.cdn.govstack.com/brandon-013-ca/media/rdij0zws/speech-balloons.svg",
+        "alt": "",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 70,
+        "naturalHeight": 70,
+        "box": {
+          "x": 821.75,
+          "y": 2395.8125,
+          "w": 60,
+          "h": 60
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://media-002-ca.cdn.govstack.com/brandon-013-ca/media/rdij0zws/speech-balloons.svg\" alt=\"\">"
+      },
+      {
+        "target": "div:nth-of-type(2) > div:nth-of-type(4) > div > div:nth-of-type(1) > img",
+        "tag": "img",
+        "src": "https://media-002-ca.cdn.govstack.com/brandon-013-ca/media/hpinizk1/street-sweeping.svg",
+        "alt": "",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 70,
+        "naturalHeight": 70,
+        "box": {
+          "x": 1159.25,
+          "y": 2395.8125,
+          "w": 60,
+          "h": 60
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://media-002-ca.cdn.govstack.com/brandon-013-ca/media/hpinizk1/street-sweeping.svg\" alt=\"\">"
+      },
+      {
+        "target": "#site-footer > div:nth-of-type(1)",
+        "tag": "div",
+        "src": "",
+        "alt": null,
+        "ariaLabel": "",
+        "role": "img",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0,
+        "box": {
+          "x": 0,
+          "y": 3118.40625,
+          "w": 1366,
+          "h": 484
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "",
+        "html": "<div class=\"image background-image footer-background-image\" style=\"background-image:url('https://media-002-ca.cdn.govstack.com/brandon-013-ca/media/scmi2wju/4k1a0075.jpg'); background-repeat:no-repeat;background-size:cover;background-position:right center;\" data-bgset=\"https://media-002-ca.cdn.govstack.com/brandon-013-ca/media/scmi2wju/4k1a0075.jpg?format=webp [type:image/webp] | https://media-002"
+      },
+      {
+        "target": "div:nth-of-type(1) > div > div > picture > img",
+        "tag": "img",
+        "src": "https://media-002-ca.cdn.govstack.com/brandon-013-ca/media/dkbneh15/city-of-brandon-logo-vertical-white.png?width=391&height=195&format=webp",
+        "alt": "",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 391,
+        "naturalHeight": 195,
+        "box": {
+          "x": 23,
+          "y": 3178.40625,
+          "w": 307.46875,
+          "h": 153.34375
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "",
+        "html": "<img class=\"lazypreload lazyloaded\" src=\"https://media-002-ca.cdn.govstack.com/brandon-013-ca/media/dkbneh15/city-of-brandon-logo-vertical-white.png?width=97&amp;height=48&amp;format=webp\" width=\"97\" height=\"48\" data-srcset=\"https://media-002-ca.cdn.govstack.com/brandon-013-ca/media/dkbneh15/city-of-brandon-logo-vertical-white.png?width=391&amp;height=195&amp;format=webp 1x\" alt=\"\" srcset=\"https:/"
+      },
+      {
+        "target": "ul > li:nth-of-type(1) > span > a > img",
+        "tag": "img",
+        "src": "https://media-002-ca.cdn.govstack.com/brandon-013-ca/media/owmdjtd1/facebook-circle-white.svg",
+        "alt": "",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 45,
+        "naturalHeight": 45,
+        "box": {
+          "x": 1148,
+          "y": 3233.40625,
+          "w": 35,
+          "h": 35
+        },
+        "inLink": true,
+        "linkText": "Facebook",
+        "linkHref": "https://www.facebook.com/CityofBrandon",
+        "caption": "",
+        "nearText": "Facebook",
+        "html": "<img src=\"https://media-002-ca.cdn.govstack.com/brandon-013-ca/media/owmdjtd1/facebook-circle-white.svg\" alt=\"\">"
+      },
+      {
+        "target": "ul > li:nth-of-type(2) > span > a > img",
+        "tag": "img",
+        "src": "https://media-002-ca.cdn.govstack.com/brandon-013-ca/media/tiulvhpf/instagram-circle-white.svg",
+        "alt": "",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 45,
+        "naturalHeight": 45,
+        "box": {
+          "x": 1194.09375,
+          "y": 3233.40625,
+          "w": 35,
+          "h": 35
+        },
+        "inLink": true,
+        "linkText": "Instagram",
+        "linkHref": "https://www.instagram.com/cityofbrandon/",
+        "caption": "",
+        "nearText": "Instagram",
+        "html": "<img src=\"https://media-002-ca.cdn.govstack.com/brandon-013-ca/media/tiulvhpf/instagram-circle-white.svg\" alt=\"\">"
+      },
+      {
+        "target": "ul > li:nth-of-type(3) > span > a > img",
+        "tag": "img",
+        "src": "https://media-002-ca.cdn.govstack.com/brandon-013-ca/media/vcdgviov/x-circle-white.svg",
+        "alt": "",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 45,
+        "naturalHeight": 45,
+        "box": {
+          "x": 1240.1875,
+          "y": 3233.40625,
+          "w": 35,
+          "h": 35
+        },
+        "inLink": true,
+        "linkText": "Twitter",
+        "linkHref": "https://twitter.com/citybrandon",
+        "caption": "",
+        "nearText": "Twitter",
+        "html": "<img src=\"https://media-002-ca.cdn.govstack.com/brandon-013-ca/media/vcdgviov/x-circle-white.svg\" alt=\"\">"
+      },
+      {
+        "target": "ul > li:nth-of-type(4) > span > a > img",
+        "tag": "img",
+        "src": "https://media-002-ca.cdn.govstack.com/brandon-013-ca/media/ml4pbayp/youtube-circle-white.svg",
+        "alt": "",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 45,
+        "naturalHeight": 45,
+        "box": {
+          "x": 1286.28125,
+          "y": 3233.40625,
+          "w": 35,
+          "h": 35
+        },
+        "inLink": true,
+        "linkText": "YouTube",
+        "linkHref": "https://www.youtube.com/user/CityofBrandonMB",
+        "caption": "",
+        "nearText": "YouTube",
+        "html": "<img src=\"https://media-002-ca.cdn.govstack.com/brandon-013-ca/media/ml4pbayp/youtube-circle-white.svg\" alt=\"\">"
+      }
+    ],
+    "links": [
+      {
+        "target": "#skip-to-content-link",
+        "text": "Skip to main content",
+        "ariaLabel": "",
+        "title": "",
+        "href": "#site-content",
+        "imgAlt": "",
+        "box": {
+          "x": 601.6796875,
+          "y": -944,
+          "w": 162.640625,
+          "h": 44
+        },
+        "context": "",
+        "contextKind": "none",
+        "html": "<a class=\"skip-to-content\" id=\"skip-to-content-link\" href=\"#site-content\">Skip to main content</a>"
+      },
+      {
+        "target": "#skip-to-footer-link",
+        "text": "Skip to footer",
+        "ariaLabel": "",
+        "title": "",
+        "href": "#site-footer",
+        "imgAlt": "",
+        "box": {
+          "x": 625.5859375,
+          "y": -944,
+          "w": 114.828125,
+          "h": 44
+        },
+        "context": "",
+        "contextKind": "none",
+        "html": "<a class=\"skip-to-content\" id=\"skip-to-footer-link\" href=\"#site-footer\">Skip to footer</a>"
+      },
+      {
+        "target": "#logo > a",
+        "text": "City of Brandon",
+        "ariaLabel": "",
+        "title": "City of Brandon",
+        "href": "/",
+        "imgAlt": "",
+        "box": {
+          "x": 8,
+          "y": 40,
+          "w": 326.734375,
+          "h": 90
+        },
+        "context": "",
+        "contextKind": "none",
+        "html": "<a href=\"/\" title=\"City of Brandon\">\n                    <picture>\n                            <source type=\"image/webp\" srcset=\"https://media-002-ca.cdn.govstack.com/brandon-013-ca/media/3y3fk01z/city-of-brandon-logo-horizontal-white.png?format=webp\" data-srcset=\"https://media-002-ca.cdn.govstack.c"
+      },
+      {
+        "target": "nav > ul > li:nth-of-type(1) > span > a",
+        "text": "Home, Property & Environment",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.brandon.ca/home-property-environment/",
+        "imgAlt": "",
+        "box": {
+          "x": 398,
+          "y": 75,
+          "w": 164.21875,
+          "h": 75
+        },
+        "context": "Home, Property & Environment Expand sub pages Home, Property & Environment",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.brandon.ca/home-property-environment/\">Home, Property &amp; Environment</a>"
+      },
+      {
+        "target": "nav > ul > li:nth-of-type(2) > span > a",
+        "text": "Parks & Recreation",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.brandon.ca/parks-recreation/",
+        "imgAlt": "",
+        "box": {
+          "x": 574.625,
+          "y": 75,
+          "w": 124.734375,
+          "h": 75
+        },
+        "context": "Parks & Recreation Expand sub pages Parks & Recreation",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.brandon.ca/parks-recreation/\">Parks &amp; Recreation</a>"
+      },
+      {
+        "target": "nav > ul > li:nth-of-type(3) > span > a",
+        "text": "Emergency Services",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.brandon.ca/emergency-services/",
+        "imgAlt": "",
+        "box": {
+          "x": 713.46875,
+          "y": 75,
+          "w": 126.03125,
+          "h": 75
+        },
+        "context": "Emergency Services Expand sub pages Emergency Services",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.brandon.ca/emergency-services/\">Emergency Services</a>"
+      },
+      {
+        "target": "nav > ul > li:nth-of-type(4) > span > a",
+        "text": "Roads, Parking & Transportation",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.brandon.ca/roads-parking-transportation/",
+        "imgAlt": "",
+        "box": {
+          "x": 853.296875,
+          "y": 75,
+          "w": 167.625,
+          "h": 75
+        },
+        "context": "Roads, Parking & Transportation Expand sub pages Roads, Parking & Transportation",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.brandon.ca/roads-parking-transportation/\">Roads, Parking &amp; Transportation</a>"
+      },
+      {
+        "target": "nav > ul > li:nth-of-type(5) > span > a",
+        "text": "Business, Building & Development",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.brandon.ca/business-building-development/",
+        "imgAlt": "",
+        "box": {
+          "x": 1033.328125,
+          "y": 75,
+          "w": 175.234375,
+          "h": 75
+        },
+        "context": "Business, Building & Development Expand sub pages Business, Building & Development",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.brandon.ca/business-building-development/\">Business, Building &amp; Development</a>"
+      },
+      {
+        "target": "nav > ul > li:nth-of-type(6) > span > a",
+        "text": "City Hall",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.brandon.ca/city-hall/",
+        "imgAlt": "",
+        "box": {
+          "x": 1220.96875,
+          "y": 75,
+          "w": 102.03125,
+          "h": 75
+        },
+        "context": "City Hall Expand sub pages City Hall",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.brandon.ca/city-hall/\">City Hall</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div > div:nth-of-type(1) > div > a",
+        "text": "Agendas and Minutes",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.brandon.ca/city-hall/agendas-and-minutes/",
+        "imgAlt": "",
+        "box": {
+          "x": 375.5,
+          "y": 446,
+          "w": 99,
+          "h": 118
+        },
+        "context": "Agendas and Minutes Budget Property Taxes Report an Issue Election 2026",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.brandon.ca/city-hall/agendas-and-minutes/\">\n                    <div class=\"image    \">\n                                    <img src=\"https://media-002-ca.cdn.govstack.com/brandon-013-ca/media/zuiglgjf/auction-hammer.svg\" alt=\"\">\n\n                    </div>\n                    <"
+      },
+      {
+        "target": "div:nth-of-type(2) > div > div:nth-of-type(2) > div > a",
+        "text": "Budget",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.brandon.ca/city-hall/budget-and-finance/",
+        "imgAlt": "",
+        "box": {
+          "x": 504.5,
+          "y": 446,
+          "w": 99,
+          "h": 94
+        },
+        "context": "Agendas and Minutes Budget Property Taxes Report an Issue Election 2026",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.brandon.ca/city-hall/budget-and-finance/\">\n                    <div class=\"image    \">\n                                    <img src=\"https://media-002-ca.cdn.govstack.com/brandon-013-ca/media/2alejic4/invoice.svg\" alt=\"\">\n\n                    </div>\n                    <div clas"
+      },
+      {
+        "target": "div:nth-of-type(2) > div > div:nth-of-type(3) > div > a",
+        "text": "Property Taxes",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.brandon.ca/home-property-environment/property-taxes/",
+        "imgAlt": "",
+        "box": {
+          "x": 633.5,
+          "y": 446,
+          "w": 99,
+          "h": 118
+        },
+        "context": "Agendas and Minutes Budget Property Taxes Report an Issue Election 2026",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.brandon.ca/home-property-environment/property-taxes/\">\n                    <div class=\"image    \">\n                                    <img src=\"https://media-002-ca.cdn.govstack.com/brandon-013-ca/media/44ancll3/house-dollar.svg\" alt=\"\">\n\n                    </div>\n            "
+      },
+      {
+        "target": "div:nth-of-type(2) > div > div:nth-of-type(4) > div > a",
+        "text": "Report an Issue",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.brandon.ca/home-property-environment/report-an-issue/",
+        "imgAlt": "",
+        "box": {
+          "x": 762.5,
+          "y": 446,
+          "w": 99,
+          "h": 118
+        },
+        "context": "Agendas and Minutes Budget Property Taxes Report an Issue Election 2026",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.brandon.ca/home-property-environment/report-an-issue/\">\n                    <div class=\"image    \">\n                                    <img src=\"https://media-002-ca.cdn.govstack.com/brandon-013-ca/media/wd0l54rh/message-boxes.svg\" alt=\"\">\n\n                    </div>\n          "
+      },
+      {
+        "target": "div:nth-of-type(2) > div > div:nth-of-type(5) > div > a",
+        "text": "Election 2026",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.brandon.ca/votes",
+        "imgAlt": "",
+        "box": {
+          "x": 891.5,
+          "y": 446,
+          "w": 99,
+          "h": 94
+        },
+        "context": "Agendas and Minutes Budget Property Taxes Report an Issue Election 2026",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.brandon.ca/votes\">\n                    <div class=\"image    \">\n                                    <img src=\"https://media-002-ca.cdn.govstack.com/brandon-013-ca/media/fiinnuob/vote-icon.svg\" alt=\"\">\n\n                    </div>\n                    <div class=\"info \">\n\n          "
+      },
+      {
+        "target": "div > div:nth-of-type(2) > div:nth-of-type(1) > div > a",
+        "text": "Recreation Programs",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.brandon.ca/parks-recreation/recreation-and-sports/programs-classes/",
+        "imgAlt": "",
+        "box": {
+          "x": 23,
+          "y": 870,
+          "w": 307.5,
+          "h": 230.625
+        },
+        "context": "heading: Home | Recreation Programs Garbage, Recycling and Organics Building and Renovating Police News Releases City Government Payment Options Parks and Greenspaces Business",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.brandon.ca/parks-recreation/recreation-and-sports/programs-classes/\">\n                    <div class=\"image c2-bg c2-bg-solid  image4by3 \">\n                                    <picture>\n                <source type=\"image/webp\" data-srcset=\"https://media-002-ca.cdn.govstack.com/"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > div:nth-of-type(2) > div > a",
+        "text": "Garbage, Recycling and Organics",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.brandon.ca/home-property-environment/garbage-recycling-and-organics/",
+        "imgAlt": "",
+        "box": {
+          "x": 360.5,
+          "y": 870,
+          "w": 307.5,
+          "h": 230.625
+        },
+        "context": "heading: Home | Recreation Programs Garbage, Recycling and Organics Building and Renovating Police News Releases City Government Payment Options Parks and Greenspaces Business",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.brandon.ca/home-property-environment/garbage-recycling-and-organics/\">\n                    <div class=\"image c2-bg c2-bg-solid  image4by3 \">\n                                    <picture>\n                <source type=\"image/webp\" data-srcset=\"https://media-002-ca.cdn.govstack.com"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > div:nth-of-type(3) > div > a",
+        "text": "Building and Renovating",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.brandon.ca/business-building-development/building-and-renovating/",
+        "imgAlt": "",
+        "box": {
+          "x": 698,
+          "y": 870,
+          "w": 307.5,
+          "h": 230.625
+        },
+        "context": "heading: Home | Recreation Programs Garbage, Recycling and Organics Building and Renovating Police News Releases City Government Payment Options Parks and Greenspaces Business",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.brandon.ca/business-building-development/building-and-renovating/\">\n                    <div class=\"image c2-bg c2-bg-solid  image4by3 \">\n                                    <picture>\n                <source type=\"image/webp\" data-srcset=\"https://media-002-ca.cdn.govstack.com/br"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > div:nth-of-type(4) > div > a",
+        "text": "Police News Releases",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.brandon.ca/emergency-services/police-service/police-news-releases/",
+        "imgAlt": "",
+        "box": {
+          "x": 1035.5,
+          "y": 870,
+          "w": 307.5,
+          "h": 230.625
+        },
+        "context": "heading: Home | Recreation Programs Garbage, Recycling and Organics Building and Renovating Police News Releases City Government Payment Options Parks and Greenspaces Business",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.brandon.ca/emergency-services/police-service/police-news-releases/\">\n                    <div class=\"image c2-bg c2-bg-solid  image4by3 \">\n                                    <picture>\n                <source type=\"image/webp\" data-srcset=\"https://media-002-ca.cdn.govstack.com/b"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > div:nth-of-type(5) > div > a",
+        "text": "City Government",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.brandon.ca/city-hall/",
+        "imgAlt": "",
+        "box": {
+          "x": 23,
+          "y": 1130.625,
+          "w": 307.5,
+          "h": 230.625
+        },
+        "context": "heading: Home | Recreation Programs Garbage, Recycling and Organics Building and Renovating Police News Releases City Government Payment Options Parks and Greenspaces Business",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.brandon.ca/city-hall/\">\n                    <div class=\"image c2-bg c2-bg-solid  image4by3 \">\n                                    <picture>\n                <source type=\"image/webp\" data-srcset=\"https://media-002-ca.cdn.govstack.com/brandon-013-ca/media/ytaprmsl/img_6142.jpg?rxy"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > div:nth-of-type(6) > div > a",
+        "text": "Payment Options",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.brandon.ca/city-hall/budget-and-finance/payment-options/#",
+        "imgAlt": "",
+        "box": {
+          "x": 360.5,
+          "y": 1130.625,
+          "w": 307.5,
+          "h": 230.625
+        },
+        "context": "heading: Home | Recreation Programs Garbage, Recycling and Organics Building and Renovating Police News Releases City Government Payment Options Parks and Greenspaces Business",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.brandon.ca/city-hall/budget-and-finance/payment-options/#\">\n                    <div class=\"image c2-bg c2-bg-solid  image4by3 \">\n                                    <picture>\n                <source type=\"image/webp\" data-srcset=\"https://media-002-ca.cdn.govstack.com/brandon-01"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > div:nth-of-type(7) > div > a",
+        "text": "Parks and Greenspaces",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.brandon.ca/parks-recreation/parks-greenspaces/#",
+        "imgAlt": "",
+        "box": {
+          "x": 698,
+          "y": 1130.625,
+          "w": 307.5,
+          "h": 230.625
+        },
+        "context": "heading: Home | Recreation Programs Garbage, Recycling and Organics Building and Renovating Police News Releases City Government Payment Options Parks and Greenspaces Business",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.brandon.ca/parks-recreation/parks-greenspaces/#\">\n                    <div class=\"image c2-bg c2-bg-solid  image4by3 \">\n                                    <picture>\n                <source type=\"image/webp\" data-srcset=\"https://media-002-ca.cdn.govstack.com/brandon-013-ca/media"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > div:nth-of-type(8) > div > a",
+        "text": "Business",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.brandon.ca/business-building-development/",
+        "imgAlt": "",
+        "box": {
+          "x": 1035.5,
+          "y": 1130.625,
+          "w": 307.5,
+          "h": 230.625
+        },
+        "context": "heading: Home | Recreation Programs Garbage, Recycling and Organics Building and Renovating Police News Releases City Government Payment Options Parks and Greenspaces Business",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.brandon.ca/business-building-development/\">\n                    <div class=\"image c2-bg c2-bg-solid  image4by3 \">\n                                    <picture>\n                <source type=\"image/webp\" data-srcset=\"https://media-002-ca.cdn.govstack.com/brandon-013-ca/media/hu4p4"
+      },
+      {
+        "target": "li:nth-of-type(1) > div > div > div > a",
+        "text": "Nomination Period Opens for Mayor, Council, and School Trustee Candidates",
+        "ariaLabel": "",
+        "title": "Click to open Nomination Period Opens for Mayor, Council, and School Trustee Candidates",
+        "href": "/news/posts/nomination-period-opens-for-mayor-council-and-school-trustee-candidates/",
+        "imgAlt": "",
+        "box": {
+          "x": 23,
+          "y": 1602.84375,
+          "w": 1320,
+          "h": 26.59375
+        },
+        "context": "Nomination Period Opens for Mayor, Council, and School Trustee Candidates Sep 15, 2026",
+        "contextKind": "li",
+        "html": "<a href=\"/news/posts/nomination-period-opens-for-mayor-council-and-school-trustee-candidates/\" title=\"Click to open Nomination Period Opens for Mayor, Council, and School Trustee Candidates\" class=\"gs-feed-list-title \">Nomination Period Opens for Mayor, Council, and School Trustee Candidates</a>"
+      },
+      {
+        "target": "li:nth-of-type(2) > div > div > div > a",
+        "text": "Tax Arrears Listing - September 14, 2026",
+        "ariaLabel": "",
+        "title": "Click to open Tax Arrears Listing - September 14, 2026",
+        "href": "/news/posts/tax-arrears-listing-september-14-2026/",
+        "imgAlt": "",
+        "box": {
+          "x": 23,
+          "y": 1723.4375,
+          "w": 1320,
+          "h": 26.59375
+        },
+        "context": "Tax Arrears Listing - September 14, 2026 Sep 14, 2026",
+        "contextKind": "li",
+        "html": "<a href=\"/news/posts/tax-arrears-listing-september-14-2026/\" title=\"Click to open Tax Arrears Listing - September 14, 2026\" class=\"gs-feed-list-title \">Tax Arrears Listing - September 14, 2026</a>"
+      },
+      {
+        "target": "li:nth-of-type(3) > div > div > div > a",
+        "text": "City Council Meeting Highlights - September 8, 2026",
+        "ariaLabel": "",
+        "title": "Click to open City Council Meeting Highlights - September 8, 2026",
+        "href": "/news/posts/city-council-meeting-highlights-september-8-2026/",
+        "imgAlt": "",
+        "box": {
+          "x": 23,
+          "y": 1844.03125,
+          "w": 1320,
+          "h": 26.59375
+        },
+        "context": "City Council Meeting Highlights - September 8, 2026 Sep 09, 2026",
+        "contextKind": "li",
+        "html": "<a href=\"/news/posts/city-council-meeting-highlights-september-8-2026/\" title=\"Click to open City Council Meeting Highlights - September 8, 2026\" class=\"gs-feed-list-title \">City Council Meeting Highlights - September 8, 2026</a>"
+      },
+      {
+        "target": "li:nth-of-type(4) > div > div > div > a",
+        "text": "Tax Arrears Listing - September 8, 2026",
+        "ariaLabel": "",
+        "title": "Click to open Tax Arrears Listing - September 8, 2026",
+        "href": "/news/posts/tax-arrears-listing-september-8-2026/",
+        "imgAlt": "",
+        "box": {
+          "x": 23,
+          "y": 1964.625,
+          "w": 1320,
+          "h": 26.59375
+        },
+        "context": "Tax Arrears Listing - September 8, 2026 Sep 08, 2026",
+        "contextKind": "li",
+        "html": "<a href=\"/news/posts/tax-arrears-listing-september-8-2026/\" title=\"Click to open Tax Arrears Listing - September 8, 2026\" class=\"gs-feed-list-title \">Tax Arrears Listing - September 8, 2026</a>"
+      },
+      {
+        "target": "li:nth-of-type(5) > div > div > div > a",
+        "text": "2026 Labour Day Hours of Operation",
+        "ariaLabel": "",
+        "title": "Click to open 2026 Labour Day Hours of Operation",
+        "href": "/news/posts/2026-labour-day-hours-of-operation/",
+        "imgAlt": "",
+        "box": {
+          "x": 23,
+          "y": 2085.21875,
+          "w": 1320,
+          "h": 26.59375
+        },
+        "context": "2026 Labour Day Hours of Operation Sep 02, 2026",
+        "contextKind": "li",
+        "html": "<a href=\"/news/posts/2026-labour-day-hours-of-operation/\" title=\"Click to open 2026 Labour Day Hours of Operation\" class=\"gs-feed-list-title \">2026 Labour Day Hours of Operation</a>"
+      },
+      {
+        "target": "div > div > div > div:nth-of-type(3) > a",
+        "text": "View All News and Notices",
+        "ariaLabel": "",
+        "title": "Click to open news",
+        "href": "/news/",
+        "imgAlt": "",
+        "box": {
+          "x": 23,
+          "y": 2193.8125,
+          "w": 191.078125,
+          "h": 19
+        },
+        "context": "heading: News and Notices",
+        "contextKind": "heading-only",
+        "html": "<a class=\"gs-feed-link\" href=\"/news/\" title=\"Click to open news\">View All News and Notices</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div > ul > li:nth-of-type(1) > a",
+        "text": "Tax/Water Account Change Form",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://onlineservices.brandon.ca/updateinfo.aspx",
+        "imgAlt": "",
+        "box": {
+          "x": 58.015625,
+          "y": 2547.609375,
+          "w": 237.46875,
+          "h": 19
+        },
+        "context": "Tax/Water Account Change Form",
+        "contextKind": "li",
+        "html": "<a rel=\"noopener\" href=\"https://onlineservices.brandon.ca/updateinfo.aspx\" target=\"_blank\">Tax/Water Account Change Form</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div > ul > li:nth-of-type(2) > a",
+        "text": "Pay a Parking Ticket",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://vch.brandon.ca/vch/city/tickets/search.aspx",
+        "imgAlt": "",
+        "box": {
+          "x": 105,
+          "y": 2586.609375,
+          "w": 143.5,
+          "h": 19
+        },
+        "context": "Pay a Parking Ticket",
+        "contextKind": "li",
+        "html": "<a rel=\"noopener\" href=\"https://vch.brandon.ca/vch/city/tickets/search.aspx\" target=\"_blank\">Pay a Parking Ticket</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div > ul > li:nth-of-type(3) > a",
+        "text": "Payment Options",
+        "ariaLabel": "",
+        "title": "Payment Options",
+        "href": "/city-hall/budget-and-finance/payment-options/",
+        "imgAlt": "",
+        "box": {
+          "x": 114.65625,
+          "y": 2625.609375,
+          "w": 124.1875,
+          "h": 19
+        },
+        "context": "Payment Options",
+        "contextKind": "li",
+        "html": "<a href=\"/city-hall/budget-and-finance/payment-options/\" title=\"Payment Options\">Payment Options</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div > ul > li:nth-of-type(4) > a",
+        "text": "Apply for a Building Permit",
+        "ariaLabel": "",
+        "title": "Building Permits",
+        "href": "/business-building-development/building-and-renovating/building-permits/",
+        "imgAlt": "",
+        "box": {
+          "x": 80.65625,
+          "y": 2664.609375,
+          "w": 192.171875,
+          "h": 19
+        },
+        "context": "Apply for a Building Permit",
+        "contextKind": "li",
+        "html": "<a href=\"/business-building-development/building-and-renovating/building-permits/\" title=\"Building Permits\">Apply for a Building Permit</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div > ul > li:nth-of-type(5) > a",
+        "text": "Apply for a Special Event Permit",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://onlineservices.brandon.ca/specialeventpermit.aspx",
+        "imgAlt": "",
+        "box": {
+          "x": 62.5625,
+          "y": 2703.609375,
+          "w": 228.375,
+          "h": 19
+        },
+        "context": "Apply for a Special Event Permit",
+        "contextKind": "li",
+        "html": "<a rel=\"noopener\" href=\"https://onlineservices.brandon.ca/specialeventpermit.aspx\" target=\"_blank\">Apply for a Special Event Permit</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div > ul > li:nth-of-type(1) > a",
+        "text": "Walking & Bike Paths",
+        "ariaLabel": "",
+        "title": "Walking and Biking Trails",
+        "href": "/parks-recreation/parks-greenspaces/walking-biking-trails/",
+        "imgAlt": "",
+        "box": {
+          "x": 438.34375,
+          "y": 2547.609375,
+          "w": 151.8125,
+          "h": 19
+        },
+        "context": "Walking & Bike Paths",
+        "contextKind": "li",
+        "html": "<a href=\"/parks-recreation/parks-greenspaces/walking-biking-trails/\" title=\"Walking and Biking Trails\">Walking &amp; Bike Paths</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div > ul > li:nth-of-type(2) > a",
+        "text": "Music in the Park",
+        "ariaLabel": "",
+        "title": "Music in the Park",
+        "href": "/parks-recreation/events-activities/annual-events/music-in-the-park/",
+        "imgAlt": "",
+        "box": {
+          "x": 452.84375,
+          "y": 2586.609375,
+          "w": 122.8125,
+          "h": 19
+        },
+        "context": "Music in the Park",
+        "contextKind": "li",
+        "html": "<a href=\"/parks-recreation/events-activities/annual-events/music-in-the-park/\" title=\"Music in the Park\">Music in the Park</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div > ul > li:nth-of-type(3) > a",
+        "text": "Dog Parks",
+        "ariaLabel": "",
+        "title": "Off Leash Dog Park",
+        "href": "/home-property-environment/animal-control/off-leash-dog-parks/",
+        "imgAlt": "",
+        "box": {
+          "x": 477.859375,
+          "y": 2625.609375,
+          "w": 72.765625,
+          "h": 19
+        },
+        "context": "Dog Parks",
+        "contextKind": "li",
+        "html": "<a href=\"/home-property-environment/animal-control/off-leash-dog-parks/\" title=\"Off Leash Dog Park\">Dog Parks</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div > ul > li:nth-of-type(4) > a",
+        "text": "Spray Parks & Kinsmen Pool",
+        "ariaLabel": "",
+        "title": "Spray Parks and Paddle Pools",
+        "href": "/parks-recreation/parks-greenspaces/spray-parks-pools/",
+        "imgAlt": "",
+        "box": {
+          "x": 414.40625,
+          "y": 2664.609375,
+          "w": 199.671875,
+          "h": 19
+        },
+        "context": "Spray Parks & Kinsmen Pool",
+        "contextKind": "li",
+        "html": "<a href=\"/parks-recreation/parks-greenspaces/spray-parks-pools/\" title=\"Spray Parks and Paddle Pools\">Spray Parks &amp; Kinsmen Pool</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div > ul > li:nth-of-type(1) > a",
+        "text": "Boards and Committees",
+        "ariaLabel": "",
+        "title": "Boards and Committees",
+        "href": "/city-hall/boards-and-committees/",
+        "imgAlt": "",
+        "box": {
+          "x": 766.296875,
+          "y": 2547.609375,
+          "w": 170.90625,
+          "h": 19
+        },
+        "context": "Boards and Committees",
+        "contextKind": "li",
+        "html": "<a href=\"/city-hall/boards-and-committees/\" title=\"Boards and Committees\">Boards and Committees</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div > ul > li:nth-of-type(2) > a",
+        "text": "Mayor & Councillors",
+        "ariaLabel": "",
+        "title": "Meet the Mayor and Councilors",
+        "href": "/city-hall/mayor-and-council/meet-the-mayor-and-councillors/",
+        "imgAlt": "",
+        "box": {
+          "x": 778.859375,
+          "y": 2586.609375,
+          "w": 145.765625,
+          "h": 19
+        },
+        "context": "Mayor & Councillors",
+        "contextKind": "li",
+        "html": "<a href=\"/city-hall/mayor-and-council/meet-the-mayor-and-councillors/\" title=\"Meet the Mayor and Councilors\">Mayor &amp; Councillors</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div > ul > li:nth-of-type(3) > a",
+        "text": "Ward Maps",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://gisportal.brandon.ca/portal/apps/webappviewer/index.html?id=f0e857c199b245b6af3abc0c3383f9c6",
+        "imgAlt": "",
+        "box": {
+          "x": 810.5625,
+          "y": 2625.609375,
+          "w": 82.375,
+          "h": 19
+        },
+        "context": "Ward Maps",
+        "contextKind": "li",
+        "html": "<a rel=\"noopener\" href=\"https://gisportal.brandon.ca/portal/apps/webappviewer/index.html?id=f0e857c199b245b6af3abc0c3383f9c6\" target=\"_blank\" data-anchor=\"?id=f0e857c199b245b6af3abc0c3383f9c6\">Ward Maps</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div > ul > li:nth-of-type(4) > a",
+        "text": "Speak Before Council",
+        "ariaLabel": "",
+        "title": "Speak Before Council",
+        "href": "/city-hall/mayor-and-council/speak-before-council/",
+        "imgAlt": "",
+        "box": {
+          "x": 775.421875,
+          "y": 2664.609375,
+          "w": 152.65625,
+          "h": 19
+        },
+        "context": "Speak Before Council",
+        "contextKind": "li",
+        "html": "<a href=\"/city-hall/mayor-and-council/speak-before-council/\" title=\"Speak Before Council\">Speak Before Council</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div > ul > li:nth-of-type(5) > a",
+        "text": "Contacts",
+        "ariaLabel": "",
+        "title": "Contact Us",
+        "href": "/city-hall/contact-us/",
+        "imgAlt": "",
+        "box": {
+          "x": 819.59375,
+          "y": 2703.609375,
+          "w": 64.3125,
+          "h": 19
+        },
+        "context": "Contacts",
+        "contextKind": "li",
+        "html": "<a href=\"/city-hall/contact-us/\" title=\"Contact Us\">Contacts</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div > ul > li:nth-of-type(1) > a",
+        "text": "Fire Pit Permit",
+        "ariaLabel": "",
+        "title": "Fire Pit Permit",
+        "href": "/emergency-services/fire-and-emergency-services/fire-permits/fire-pit-permit/",
+        "imgAlt": "",
+        "box": {
+          "x": 1137.265625,
+          "y": 2547.609375,
+          "w": 103.96875,
+          "h": 19
+        },
+        "context": "Fire Pit Permit",
+        "contextKind": "li",
+        "html": "<a href=\"/emergency-services/fire-and-emergency-services/fire-permits/fire-pit-permit/\" title=\"Fire Pit Permit\">Fire Pit Permit</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div > ul > li:nth-of-type(2) > a",
+        "text": "Report a Pothole",
+        "ariaLabel": "",
+        "title": "Potholes",
+        "href": "/roads-parking-transportation/potholes/",
+        "imgAlt": "",
+        "box": {
+          "x": 1128.953125,
+          "y": 2586.609375,
+          "w": 120.59375,
+          "h": 19
+        },
+        "context": "Report a Pothole",
+        "contextKind": "li",
+        "html": "<a href=\"/roads-parking-transportation/potholes/\" title=\"Potholes\">Report a Pothole</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div > ul > li:nth-of-type(3) > a",
+        "text": "Street Sweeping Map",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://gisapp.brandon.ca/webmaps/streetsweeping/index.html",
+        "imgAlt": "",
+        "box": {
+          "x": 1113.140625,
+          "y": 2625.609375,
+          "w": 152.203125,
+          "h": 19
+        },
+        "context": "Street Sweeping Map",
+        "contextKind": "li",
+        "html": "<a rel=\"noopener\" href=\"https://gisapp.brandon.ca/webmaps/streetsweeping/index.html\" target=\"_blank\">Street Sweeping Map</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div > ul > li:nth-of-type(4) > a",
+        "text": "Mosquito Buffer Zone Registration",
+        "ariaLabel": "",
+        "title": "Mosquito Abatement Program",
+        "href": "/home-property-environment/pests-and-invasive-species/mosquito-abatement-program/",
+        "imgAlt": "",
+        "box": {
+          "x": 1110.640625,
+          "y": 2664.609375,
+          "w": 157.203125,
+          "h": 43
+        },
+        "context": "Mosquito Buffer Zone Registration",
+        "contextKind": "li",
+        "html": "<a href=\"/home-property-environment/pests-and-invasive-species/mosquito-abatement-program/\" title=\"Mosquito Abatement Program\">Mosquito Buffer Zone Registration</a>"
+      },
+      {
+        "target": "div > div > div > p > a",
+        "text": "Sign Up Today!",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.brandon.ca/subscription-messaging/",
+        "imgAlt": "",
+        "box": {
+          "x": 1190.328125,
+          "y": 3000.109375,
+          "w": 147.671875,
+          "h": 42.796875
+        },
+        "context": "Sign Up Today!",
+        "contextKind": "p",
+        "html": "<a class=\"btn  c4-btn-bg c4-btn-bg-solid c4-btn-bg-hover-solid c4-btn-text c4-btn-borders\" href=\"https://www.brandon.ca/subscription-messaging/\">\n                                <span></span>\n                                Sign Up Today!\n                            </a>"
+      },
+      {
+        "target": "div > div > div > p > a",
+        "text": "204.729.2186",
+        "ariaLabel": "",
+        "title": "",
+        "href": "tel://2047292186",
+        "imgAlt": "",
+        "box": {
+          "x": 524.96875,
+          "y": 3262.40625,
+          "w": 100,
+          "h": 19
+        },
+        "context": "City of Brandon 410 9th Street Brandon, MB R7A 6A2 Phone: 204.729.2186 Mon - Fri: 8:30am - 5pm Sat- Sun: Closed Stat Holidays: Closed",
+        "contextKind": "p",
+        "html": "<a href=\"tel://2047292186\">204.729.2186</a>"
+      },
+      {
+        "target": "div > div > div > p > a:nth-of-type(1)",
+        "text": "Update My Account",
+        "ariaLabel": "",
+        "title": "Update My Account",
+        "href": "/home-property-environment/property-taxes/update-my-account/",
+        "imgAlt": "",
+        "box": {
+          "x": 810.5,
+          "y": 3235.40625,
+          "w": 142.640625,
+          "h": 19
+        },
+        "context": "Update My Account Careers News Website Feedback",
+        "contextKind": "p",
+        "html": "<a href=\"/home-property-environment/property-taxes/update-my-account/\" title=\"Update My Account\">Update My Account</a>"
+      },
+      {
+        "target": "div > div > div > p > a:nth-of-type(2)",
+        "text": "Careers",
+        "ariaLabel": "",
+        "title": "Careers",
+        "href": "/city-hall/careers/",
+        "imgAlt": "",
+        "box": {
+          "x": 810.5,
+          "y": 3259.40625,
+          "w": 56.28125,
+          "h": 19
+        },
+        "context": "Update My Account Careers News Website Feedback",
+        "contextKind": "p",
+        "html": "<a href=\"/city-hall/careers/\" title=\"Careers\">Careers</a>"
+      },
+      {
+        "target": "div > div > div > p > a:nth-of-type(3)",
+        "text": "News",
+        "ariaLabel": "",
+        "title": "News",
+        "href": "/news/",
+        "imgAlt": "",
+        "box": {
+          "x": 810.5,
+          "y": 3283.40625,
+          "w": 40.296875,
+          "h": 19
+        },
+        "context": "Update My Account Careers News Website Feedback",
+        "contextKind": "p",
+        "html": "<a href=\"/news/\" title=\"News\">News</a>"
+      },
+      {
+        "target": "div > div > div > p > a:nth-of-type(4)",
+        "text": "Website Feedback",
+        "ariaLabel": "",
+        "title": "Website Feedback",
+        "href": "https://forms.brandon.ca/Website-Feedback",
+        "imgAlt": "",
+        "box": {
+          "x": 810.5,
+          "y": 3307.40625,
+          "w": 131.90625,
+          "h": 19
+        },
+        "context": "Update My Account Careers News Website Feedback",
+        "contextKind": "p",
+        "html": "<a rel=\"noopener\" href=\"https://forms.brandon.ca/Website-Feedback\" target=\"_blank\" title=\"Website Feedback\">Website Feedback</a>"
+      },
+      {
+        "target": "nav > ul > li:nth-of-type(1) > span > a",
+        "text": "Facebook",
+        "ariaLabel": "",
+        "title": "Link will open in a new window/tab",
+        "href": "https://www.facebook.com/CityofBrandon",
+        "imgAlt": "",
+        "box": {
+          "x": 1148,
+          "y": 3233.40625,
+          "w": 35,
+          "h": 35
+        },
+        "context": "Facebook",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.facebook.com/CityofBrandon\" class=\"\" data-icon=\"\" target=\"_blank\" rel=\"noreferrer noopener\" title=\"Link will open in a new window/tab\">\n                                            <img src=\"https://media-002-ca.cdn.govstack.com/brandon-013-ca/media/owmdjtd1/facebook-circle-white"
+      },
+      {
+        "target": "nav > ul > li:nth-of-type(2) > span > a",
+        "text": "Instagram",
+        "ariaLabel": "",
+        "title": "Link will open in a new window/tab",
+        "href": "https://www.instagram.com/cityofbrandon/",
+        "imgAlt": "",
+        "box": {
+          "x": 1194.09375,
+          "y": 3233.40625,
+          "w": 35,
+          "h": 35
+        },
+        "context": "Instagram",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.instagram.com/cityofbrandon/\" class=\"\" data-icon=\"\" target=\"_blank\" rel=\"noreferrer noopener\" title=\"Link will open in a new window/tab\">\n                                            <img src=\"https://media-002-ca.cdn.govstack.com/brandon-013-ca/media/tiulvhpf/instagram-circle-wh"
+      },
+      {
+        "target": "nav > ul > li:nth-of-type(3) > span > a",
+        "text": "Twitter",
+        "ariaLabel": "",
+        "title": "Link will open in a new window/tab",
+        "href": "https://twitter.com/citybrandon",
+        "imgAlt": "",
+        "box": {
+          "x": 1240.1875,
+          "y": 3233.40625,
+          "w": 35,
+          "h": 35
+        },
+        "context": "Twitter",
+        "contextKind": "li",
+        "html": "<a href=\"https://twitter.com/citybrandon\" class=\"\" data-icon=\"\" target=\"_blank\" rel=\"noreferrer noopener\" title=\"Link will open in a new window/tab\">\n                                            <img src=\"https://media-002-ca.cdn.govstack.com/brandon-013-ca/media/vcdgviov/x-circle-white.svg\" alt=\"\">\n"
+      },
+      {
+        "target": "nav > ul > li:nth-of-type(4) > span > a",
+        "text": "YouTube",
+        "ariaLabel": "",
+        "title": "Link will open in a new window/tab",
+        "href": "https://www.youtube.com/user/CityofBrandonMB",
+        "imgAlt": "",
+        "box": {
+          "x": 1286.28125,
+          "y": 3233.40625,
+          "w": 35,
+          "h": 35
+        },
+        "context": "YouTube",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.youtube.com/user/CityofBrandonMB\" class=\"\" data-icon=\"\" target=\"_blank\" rel=\"noreferrer noopener\" title=\"Link will open in a new window/tab\">\n                                            <img src=\"https://media-002-ca.cdn.govstack.com/brandon-013-ca/media/ml4pbayp/youtube-circle-"
+      },
+      {
+        "target": "nav > ul > li:nth-of-type(2) > span > a",
+        "text": "Privacy Policy",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.brandon.ca/privacy-policy/",
+        "imgAlt": "",
+        "box": {
+          "x": 180.640625,
+          "y": 3462.40625,
+          "w": 86.5625,
+          "h": 18
+        },
+        "context": "Privacy Policy",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.brandon.ca/privacy-policy/\">Privacy Policy</a>"
+      },
+      {
+        "target": "nav > ul > li:nth-of-type(3) > span > a",
+        "text": "Sitemap",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.brandon.ca/sitemap/",
+        "imgAlt": "",
+        "box": {
+          "x": 278.171875,
+          "y": 3462.40625,
+          "w": 52.6875,
+          "h": 18
+        },
+        "context": "Sitemap",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.brandon.ca/sitemap/\">Sitemap</a>"
+      },
+      {
+        "target": "nav > ul > li:nth-of-type(4) > span > a",
+        "text": "Govstack",
+        "ariaLabel": "",
+        "title": "Link will open in a new window/tab",
+        "href": "https://www.govstack.com/",
+        "imgAlt": "",
+        "box": {
+          "x": 1283.8125,
+          "y": 3462.40625,
+          "w": 59.1875,
+          "h": 18
+        },
+        "context": "Made with Govstack",
+        "contextKind": "li",
+        "html": "<a target=\"_blank\" rel=\"noopener\" title=\"Link will open in a new window/tab\" href=\"https://www.govstack.com/\">Govstack</a>"
+      }
+    ],
+    "headings": [
+      {
+        "target": "section:nth-of-type(2) > div > div > div > h1",
+        "level": 1,
+        "text": "Home",
+        "visible": true,
+        "box": {
+          "x": 8,
+          "y": 780,
+          "w": 1,
+          "h": 1
+        },
+        "html": "<h1 class=\"sr-only heading main base-heading\">Home</h1>"
+      },
+      {
+        "target": "div > div > div > div:nth-of-type(1) > h2",
+        "level": 2,
+        "text": "News and Notices",
+        "visible": true,
+        "box": {
+          "x": 23,
+          "y": 1511.25,
+          "w": 1320,
+          "h": 45.59375
+        },
+        "html": "<h2 class=\"\">News and Notices</h2>"
+      }
+    ],
+    "lang": "en",
+    "title": "Home | City of Brandon"
+  },
   "axe": {
     "violationRules": 2,
     "violationNodes": 8,

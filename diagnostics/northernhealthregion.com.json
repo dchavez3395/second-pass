@@ -19,7 +19,1087 @@
     "width": 1366,
     "height": 900
   },
-  "scannedAt": "2026-09-19T06:25:26.827Z",
+  "scannedAt": "2026-09-19T23:57:41.819Z",
+  "content": {
+    "images": [
+      {
+        "target": "#custom_html-19 > div > a > img",
+        "tag": "img",
+        "src": "https://northernhealthregion.com/files/logo-nhr2.png",
+        "alt": "Northern Health Region logo",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 283,
+        "naturalHeight": 75,
+        "box": {
+          "x": 139,
+          "y": 76.21875,
+          "w": 283,
+          "h": 75
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"/files/logo-nhr2.png\" alt=\"Northern Health Region logo\">"
+      },
+      {
+        "target": "#depicter-1-element-78 > img",
+        "tag": "img",
+        "src": "https://northernhealthregion.com/wp-content/uploads/Work-with-Us-Wed-FB-Fall-Banner-1937x443.png",
+        "alt": "Work With us Wednesday advertisement",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 1937,
+        "naturalHeight": 443,
+        "box": {
+          "x": 2726.3125,
+          "y": 237.5625,
+          "w": 1378.0947265625,
+          "h": 315.176025390625
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "https://northernhealthregion.com/careers/current-career-opportunities/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://northernhealthregion.com/wp-content/uploads/Work-with-Us-Wed-FB-Fall-Banner-1937x443.png\" alt=\"Work With us Wednesday advertisement\" class=\"depicter-loaded\">"
+      },
+      {
+        "target": "#depicter-1-element-76 > img",
+        "tag": "img",
+        "src": "https://northernhealthregion.com/wp-content/uploads/Banner-of-HIV-testing-1920x396.png",
+        "alt": "HIV Support is Here. Contact your Public health or primary care office",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 1920,
+        "naturalHeight": 396,
+        "box": {
+          "x": -1366,
+          "y": 266.015625,
+          "w": 1366,
+          "h": 281.73748779296875
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "https://northernhealthregion.com/hiv-support-is-here/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://northernhealthregion.com/wp-content/uploads/Banner-of-HIV-testing-1920x396.png\" alt=\"HIV Support is Here. Contact your Public health or primary care office\" class=\"depicter-loaded\">"
+      },
+      {
+        "target": "#depicter-1-element-64 > img",
+        "tag": "img",
+        "src": "https://northernhealthregion.com/wp-content/uploads/MB-Digital-Health-Card-Banner-2026-1920x493.png",
+        "alt": "mb digital health card",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 1920,
+        "naturalHeight": 493,
+        "box": {
+          "x": 0,
+          "y": 235.4375,
+          "w": 1366,
+          "h": 350.74896240234375
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiKy7rq9_SSAxW4vokEHd3VLNIQFnoECBoQAQ&url=https%3A%2F%2Fwww.gov.mb.ca%2Fhealth%2Fmhsip%2Fdigitalhealthcard.html&usg=AOvVaw2Y_soXX8LUbVEzONP1tuLz&opi=89978449",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://northernhealthregion.com/wp-content/uploads/MB-Digital-Health-Card-Banner-2026-1920x493.png\" alt=\"mb digital health card\" class=\"depicter-loaded\">"
+      },
+      {
+        "target": "div:nth-of-type(1) > div > div > picture > img",
+        "tag": "img",
+        "src": "https://northernhealthregion.com/wp-content/uploads/1P5C6716.jpg",
+        "alt": "builiding",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 5760,
+        "naturalHeight": 3840,
+        "box": {
+          "x": 1366,
+          "y": 266.015625,
+          "w": 1366,
+          "h": 281.734375
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://northernhealthregion.com/wp-content/uploads/1P5C6716.jpg\" alt=\"builiding\" data-object-fit=\"cover\" data-object-position=\"50% 50%\" style=\"object-fit: cover; object-position: 50% 50%;\">"
+      },
+      {
+        "target": "#custom_html-20 > div > a > img",
+        "tag": "img",
+        "src": "https://northernhealthregion.com/files/logo-HealthLinks-horiz.png",
+        "alt": "Health Links logo",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 280,
+        "naturalHeight": 75,
+        "box": {
+          "x": 156.75,
+          "y": 1581.90625,
+          "w": 280,
+          "h": 75
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "https://misericordia.mb.ca/programs/phcc/health-links-info-sante/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"/files/logo-HealthLinks-horiz.png\" alt=\"Health Links logo\">"
+      },
+      {
+        "target": "#custom_html-21 > div > a > img",
+        "tag": "img",
+        "src": "https://northernhealthregion.com/files/logo-nhf.png",
+        "alt": "Northern Health Foundation logo",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 300,
+        "naturalHeight": 80,
+        "box": {
+          "x": 469.53125,
+          "y": 1581.90625,
+          "w": 296.359375,
+          "h": 79.03125
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "https://northernhealthfoundation.com/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"/files/logo-nhf.png\" alt=\"Northern Health Foundation logo\">"
+      },
+      {
+        "target": "#custom_html-22 > div > a > img",
+        "tag": "img",
+        "src": "https://northernhealthregion.com/files/logo-qdoc.png",
+        "alt": "QDocs logo",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 170,
+        "naturalHeight": 80,
+        "box": {
+          "x": 795.90625,
+          "y": 1581.90625,
+          "w": 165.8125,
+          "h": 78.03125
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "https://qdoc.ca/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"/files/logo-qdoc.png\" alt=\"QDocs logo\">"
+      },
+      {
+        "target": "#custom_html-23 > div > a > img",
+        "tag": "img",
+        "src": "https://northernhealthregion.com/files/sharedhealth-logo.png",
+        "alt": "Shared Health logo",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 280,
+        "naturalHeight": 89,
+        "box": {
+          "x": 991.734375,
+          "y": 1581.90625,
+          "w": 220.21875,
+          "h": 70
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "https://sharedhealthmb.ca/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"/files/sharedhealth-logo.png\" alt=\"Shared Health logo\">"
+      },
+      {
+        "target": "#custom_html-24 > div > a > img",
+        "tag": "img",
+        "src": "https://northernhealthregion.com/files/logo-nhr-footer.png",
+        "alt": "Northern Health Region logo",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 240,
+        "naturalHeight": 240,
+        "box": {
+          "x": 162,
+          "y": 1710.9375,
+          "w": 204.234375,
+          "h": 204.234375
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"/files/logo-nhr-footer.png\" alt=\"Northern Health Region logo\">"
+      },
+      {
+        "target": "html > body > section > button > img",
+        "tag": "img",
+        "src": "https://northernhealthregion.com/wp-content/plugins/accessibility-onetap/assets/images/admin/Original_Logo_Icon.svg",
+        "alt": "",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 150,
+        "naturalHeight": 150,
+        "box": {
+          "x": 1301,
+          "y": 385,
+          "w": 48,
+          "h": 48
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "",
+        "html": "<img class=\"design-size1 design-border1\" src=\"https://northernhealthregion.com/wp-content/plugins/accessibility-onetap/assets/images/admin/Original_Logo_Icon.svg\" alt=\"\">"
+      },
+      {
+        "target": "#onetap-language-list > div > img:nth-of-type(1)",
+        "tag": "img",
+        "src": "https://northernhealthregion.com/wp-content/plugins/accessibility-onetap/assets/images/english.png",
+        "alt": "United States",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 177,
+        "naturalHeight": 177,
+        "box": {
+          "x": 1392,
+          "y": 26,
+          "w": 22,
+          "h": 22
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://northernhealthregion.com/wp-content/plugins/accessibility-onetap/assets/images/english.png\" class=\"onetap-active\" data-language=\"en\" alt=\"United States\">"
+      },
+      {
+        "target": "#onetap-language-list > p > img",
+        "tag": "img",
+        "src": "https://northernhealthregion.com/wp-content/plugins/accessibility-onetap/assets/images/icon-drop-down-menu.png",
+        "alt": "",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 549,
+        "naturalHeight": 333,
+        "box": {
+          "x": 1475.296875,
+          "y": 35.96875,
+          "w": 10,
+          "h": 6.0625
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "English Accessibility Adjustments Powered by OneTap Hide Toolbar Content Modules Font Size Default Readable Font Line Height Default Big Cursor Letter Spacing A",
+        "html": "<img src=\"https://northernhealthregion.com/wp-content/plugins/accessibility-onetap/assets/images/icon-drop-down-menu.png\" width=\"10\" height=\"10\" alt=\"\">"
+      }
+    ],
+    "links": [
+      {
+        "target": "#custom_html-11 > div > a",
+        "text": "Mental Health Information",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/programs-and-services/mental-health/",
+        "imgAlt": "",
+        "box": {
+          "x": 596.4375,
+          "y": 12,
+          "w": 173.109375,
+          "h": 17
+        },
+        "context": "",
+        "contextKind": "none",
+        "html": "<a href=\"/programs-and-services/mental-health/\" target=\"_blank\">Mental Health Information</a>"
+      },
+      {
+        "target": "#menu-item-2916 > a",
+        "text": "Emergency",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://northernhealthregion.com/emergency/",
+        "imgAlt": "",
+        "box": {
+          "x": 870.796875,
+          "y": 53.609375,
+          "w": 92.796875,
+          "h": 17
+        },
+        "context": "Emergency",
+        "contextKind": "li",
+        "html": "<a href=\"https://northernhealthregion.com/emergency/\" data-ps2id-api=\"true\"><i class=\"fa-solid fa-truck-medical\"></i> Emergency</a>"
+      },
+      {
+        "target": "#menu-item-2917 > a",
+        "text": "Feedback",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://northernhealthregion.com/forms/feedback/",
+        "imgAlt": "",
+        "box": {
+          "x": 995.59375,
+          "y": 53.609375,
+          "w": 83.65625,
+          "h": 17
+        },
+        "context": "Feedback",
+        "contextKind": "li",
+        "html": "<a href=\"https://northernhealthregion.com/forms/feedback/\" data-ps2id-api=\"true\"><i class=\"fa-solid fa-comment\"></i> Feedback</a>"
+      },
+      {
+        "target": "#menu-item-5760 > a",
+        "text": "CONTACT US",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://northernhealthregion.com/forms/contact-us/",
+        "imgAlt": "",
+        "box": {
+          "x": 1121.25,
+          "y": 53.609375,
+          "w": 79.75,
+          "h": 17
+        },
+        "context": "CONTACT US",
+        "contextKind": "li",
+        "html": "<a href=\"https://northernhealthregion.com/forms/contact-us/\" data-ps2id-api=\"true\">Contact Us</a>"
+      },
+      {
+        "target": "#custom_html-19 > div > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/",
+        "imgAlt": "Northern Health Region logo",
+        "box": {
+          "x": 139,
+          "y": 102.9375,
+          "w": 283,
+          "h": 19
+        },
+        "context": "",
+        "contextKind": "none",
+        "html": "<a href=\"/\"><img src=\"/files/logo-nhr2.png\" alt=\"Northern Health Region logo\"></a>"
+      },
+      {
+        "target": "#mega-menu-item-6157 > a",
+        "text": "Locations",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://northernhealthregion.com/locations/",
+        "imgAlt": "",
+        "box": {
+          "x": 224.046875,
+          "y": 214.21875,
+          "w": 136.296875,
+          "h": 51.796875
+        },
+        "context": "Locations",
+        "contextKind": "li",
+        "html": "<a class=\"mega-menu-link\" href=\"https://northernhealthregion.com/locations/\" aria-expanded=\"false\" aria-controls=\"mega-sub-menu-6157\">Locations<span class=\"mega-indicator\" aria-hidden=\"true\"></span></a>"
+      },
+      {
+        "target": "#mega-menu-item-2995 > a",
+        "text": "Programs & Services",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://northernhealthregion.com/programs-and-services/",
+        "imgAlt": "",
+        "box": {
+          "x": 361.34375,
+          "y": 214.21875,
+          "w": 199.953125,
+          "h": 51.796875
+        },
+        "context": "Programs & Services",
+        "contextKind": "li",
+        "html": "<a class=\"mega-menu-link\" href=\"https://northernhealthregion.com/programs-and-services/\">Programs &amp; Services</a>"
+      },
+      {
+        "target": "#mega-menu-item-6158 > a",
+        "text": "Patient Info",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://northernhealthregion.com/patient-info/",
+        "imgAlt": "",
+        "box": {
+          "x": 562.296875,
+          "y": 214.21875,
+          "w": 152.6875,
+          "h": 51.796875
+        },
+        "context": "Patient Info",
+        "contextKind": "li",
+        "html": "<a class=\"mega-menu-link\" href=\"https://northernhealthregion.com/patient-info/\" aria-expanded=\"false\" aria-controls=\"mega-sub-menu-6158\">Patient Info<span class=\"mega-indicator\" aria-hidden=\"true\"></span></a>"
+      },
+      {
+        "target": "#mega-menu-item-6159 > a",
+        "text": "About Us",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://northernhealthregion.com/about-us/",
+        "imgAlt": "",
+        "box": {
+          "x": 715.984375,
+          "y": 214.21875,
+          "w": 131.5,
+          "h": 51.796875
+        },
+        "context": "About Us",
+        "contextKind": "li",
+        "html": "<a class=\"mega-menu-link\" href=\"https://northernhealthregion.com/about-us/\" aria-expanded=\"false\" aria-controls=\"mega-sub-menu-6159\">About Us<span class=\"mega-indicator\" aria-hidden=\"true\"></span></a>"
+      },
+      {
+        "target": "#mega-menu-item-6160 > a",
+        "text": "Careers",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://northernhealthregion.com/careers/",
+        "imgAlt": "",
+        "box": {
+          "x": 848.484375,
+          "y": 214.21875,
+          "w": 118.8125,
+          "h": 51.796875
+        },
+        "context": "Careers",
+        "contextKind": "li",
+        "html": "<a class=\"mega-menu-link\" href=\"https://northernhealthregion.com/careers/\" aria-expanded=\"false\" aria-controls=\"mega-sub-menu-6160\">Careers<span class=\"mega-indicator\" aria-hidden=\"true\"></span></a>"
+      },
+      {
+        "target": "#mega-menu-item-6161 > a",
+        "text": "News / Events",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://northernhealthregion.com/news-events/",
+        "imgAlt": "",
+        "box": {
+          "x": 968.296875,
+          "y": 214.21875,
+          "w": 173.640625,
+          "h": 51.796875
+        },
+        "context": "News / Events",
+        "contextKind": "li",
+        "html": "<a class=\"mega-menu-link\" href=\"https://northernhealthregion.com/news-events/\" aria-expanded=\"false\" aria-controls=\"mega-sub-menu-6161\">News / Events<span class=\"mega-indicator\" aria-hidden=\"true\"></span></a>"
+      },
+      {
+        "target": "div:nth-of-type(3) > div > div > div > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://northernhealthregion.com/careers/current-career-opportunities/",
+        "imgAlt": "Work With us Wednesday advertisement",
+        "box": {
+          "x": 2726.3125,
+          "y": 237.5625,
+          "w": 1378.0947265625,
+          "h": 315.176025390625
+        },
+        "context": "Digital Front Door Rapid Access to Addiction Medicine",
+        "contextKind": "block",
+        "html": "<a href=\"https://northernhealthregion.com/careers/current-career-opportunities/\">\n<picture id=\"depicter-1-element-78\" class=\"depicter-element depicter-layer depicter-1-element-78 depicter-absolute-position\" data-type=\"image\" data-wrap=\"true\" data-name=\"Image 9\" data-local-id=\"element-78\" data-offset"
+      },
+      {
+        "target": "div:nth-of-type(3) > div > div > div > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://northernhealthregion.com/hiv-support-is-here/",
+        "imgAlt": "HIV Support is Here. Contact your Public health or primary care office",
+        "box": {
+          "x": -1366,
+          "y": 266.015625,
+          "w": 1366,
+          "h": 281.73748779296875
+        },
+        "context": "Digital Front Door Rapid Access to Addiction Medicine",
+        "contextKind": "block",
+        "html": "<a href=\"https://northernhealthregion.com/hiv-support-is-here/\">\n<picture id=\"depicter-1-element-76\" class=\"depicter-element depicter-layer depicter-1-element-76 depicter-absolute-position\" data-type=\"image\" data-wrap=\"true\" data-name=\"Image 10\" data-local-id=\"element-76\" data-offset=\"x:0px;y:0px;or"
+      },
+      {
+        "target": "#depicter-1-section-35 > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiKy7rq9_SSAxW4vokEHd3VLNIQFnoECBoQAQ&url=https%3A%2F%2Fwww.gov.mb.ca%2Fhealth%2Fmhsip%2Fdigitalhealthcard.html&usg=AOvVaw2Y_soXX8LUbVEzONP1tuLz&opi=89978449",
+        "imgAlt": "",
+        "box": {
+          "x": 0,
+          "y": 266.015625,
+          "w": 1366,
+          "h": 281.734375
+        },
+        "context": "Digital Front Door Rapid Access to Addiction Medicine",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=&amp;cad=rja&amp;uact=8&amp;ved=2ahUKEwiKy7rq9_SSAxW4vokEHd3VLNIQFnoECBoQAQ&amp;url=https%3A%2F%2Fwww.gov.mb.ca%2Fhealth%2Fmhsip%2Fdigitalhealthcard.html&amp;usg=AOvVaw2Y_soXX8LUbVEzONP1tuLz&amp;opi=89978449\" "
+      },
+      {
+        "target": "div:nth-of-type(3) > div > div > div > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiKy7rq9_SSAxW4vokEHd3VLNIQFnoECBoQAQ&url=https%3A%2F%2Fwww.gov.mb.ca%2Fhealth%2Fmhsip%2Fdigitalhealthcard.html&usg=AOvVaw2Y_soXX8LUbVEzONP1tuLz&opi=89978449",
+        "imgAlt": "mb digital health card",
+        "box": {
+          "x": 0,
+          "y": 235.4375,
+          "w": 1366,
+          "h": 350.74896240234375
+        },
+        "context": "Digital Front Door Rapid Access to Addiction Medicine",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=&amp;cad=rja&amp;uact=8&amp;ved=2ahUKEwiKy7rq9_SSAxW4vokEHd3VLNIQFnoECBoQAQ&amp;url=https%3A%2F%2Fwww.gov.mb.ca%2Fhealth%2Fmhsip%2Fdigitalhealthcard.html&amp;usg=AOvVaw2Y_soXX8LUbVEzONP1tuLz&amp;opi=89978449\">"
+      },
+      {
+        "target": "#depicter-1-section-17 > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://northernhealthregion.com/programs-and-services/substance-recovery/rapid-access-to-addictions-medicine-raam/",
+        "imgAlt": "",
+        "box": {
+          "x": 1366,
+          "y": 266.015625,
+          "w": 1366,
+          "h": 281.734375
+        },
+        "context": "Digital Front Door Rapid Access to Addiction Medicine",
+        "contextKind": "block",
+        "html": "<a href=\"https://northernhealthregion.com/programs-and-services/substance-recovery/rapid-access-to-addictions-medicine-raam/\" class=\"depicter-section-link\"></a>"
+      },
+      {
+        "target": "div:nth-of-type(3) > div > div > div > a",
+        "text": "Digital Front Door Rapid Access to Addiction Medicine",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://northernhealthregion.com/programs-and-services/substance-recovery/rapid-access-to-addictions-medicine-raam/",
+        "imgAlt": "",
+        "box": {
+          "x": 1408.6875,
+          "y": 326.484375,
+          "w": 477.3885498046875,
+          "h": 156.79876708984375
+        },
+        "context": "Digital Front Door Rapid Access to Addiction Medicine",
+        "contextKind": "block",
+        "html": "<a href=\"https://northernhealthregion.com/programs-and-services/substance-recovery/rapid-access-to-addictions-medicine-raam/\"><h1 id=\"depicter-1-element-28\" class=\"depicter-element depicter-layer depicter-1-element-28 depicter-absolute-position\" data-type=\"text\" data-wrap=\"true\" data-name=\"Text 2\" d"
+      },
+      {
+        "target": "div > div:nth-of-type(1) > div > h4 > a",
+        "text": "World Patient Safety Day – Safe Care for Life",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://northernhealthregion.com/world-patient-safety-day-safe-care-for-life/",
+        "imgAlt": "",
+        "box": {
+          "x": 149,
+          "y": 857.015625,
+          "w": 360.828125,
+          "h": 22
+        },
+        "context": "heading: World Patient Safety Day – Safe Care for Life | World Patient Safety Day – Safe Care for Life",
+        "contextKind": "block",
+        "html": "<a href=\"https://northernhealthregion.com/world-patient-safety-day-safe-care-for-life/\" class=\"_self cvplbd\" target=\"_self\">World Patient Safety Day – Safe Care for Life</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(1) > div > div:nth-of-type(2) > a",
+        "text": "Read More",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://northernhealthregion.com/world-patient-safety-day-safe-care-for-life/",
+        "imgAlt": "",
+        "box": {
+          "x": 549.390625,
+          "y": 986.3125,
+          "w": 77.796875,
+          "h": 34
+        },
+        "context": "heading: World Patient Safety Day – Safe Care for Life",
+        "contextKind": "heading-only",
+        "html": "<a href=\"https://northernhealthregion.com/world-patient-safety-day-safe-care-for-life/\" class=\"_self pt-cv-readmore pt-cv-textlink cvplbd\" target=\"_self\">Read More</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > div > h4 > a",
+        "text": "Dynacare Labour Disruption Update",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://northernhealthregion.com/dynacare-labour-disruption-update/",
+        "imgAlt": "",
+        "box": {
+          "x": 149,
+          "y": 1053.3125,
+          "w": 292.734375,
+          "h": 22
+        },
+        "context": "heading: Dynacare Labour Disruption Update",
+        "contextKind": "heading-only",
+        "html": "<a href=\"https://northernhealthregion.com/dynacare-labour-disruption-update/\" class=\"_self cvplbd\" target=\"_self\">Dynacare Labour Disruption Update</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > div > div:nth-of-type(2) > a",
+        "text": "Read More",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://northernhealthregion.com/dynacare-labour-disruption-update/",
+        "imgAlt": "",
+        "box": {
+          "x": 149,
+          "y": 1206.609375,
+          "w": 77.796875,
+          "h": 34
+        },
+        "context": "heading: Dynacare Labour Disruption Update",
+        "contextKind": "heading-only",
+        "html": "<a href=\"https://northernhealthregion.com/dynacare-labour-disruption-update/\" class=\"_self pt-cv-readmore pt-cv-textlink cvplbd\" target=\"_self\">Read More</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(3) > div > h4 > a",
+        "text": "Recruitment underway for Chief Executive Officer",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://northernhealthregion.com/recruitment-underway-for-chief-executive-officer/",
+        "imgAlt": "",
+        "box": {
+          "x": 149,
+          "y": 1273.609375,
+          "w": 401.875,
+          "h": 22
+        },
+        "context": "heading: Recruitment underway for Chief Executive Officer | Recruitment underway for Chief Executive Officer",
+        "contextKind": "block",
+        "html": "<a href=\"https://northernhealthregion.com/recruitment-underway-for-chief-executive-officer/\" class=\"_self cvplbd\" target=\"_self\">Recruitment underway for Chief Executive Officer</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(3) > div > div:nth-of-type(2) > a",
+        "text": "Read More",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://northernhealthregion.com/recruitment-underway-for-chief-executive-officer/",
+        "imgAlt": "",
+        "box": {
+          "x": 149,
+          "y": 1402.90625,
+          "w": 520.984375,
+          "h": 58
+        },
+        "context": "heading: Recruitment underway for Chief Executive Officer",
+        "contextKind": "heading-only",
+        "html": "<a href=\"https://northernhealthregion.com/recruitment-underway-for-chief-executive-officer/\" class=\"_self pt-cv-readmore pt-cv-textlink cvplbd\" target=\"_self\">Read More</a>"
+      },
+      {
+        "target": "#custom_html-20 > div > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://misericordia.mb.ca/programs/phcc/health-links-info-sante/",
+        "imgAlt": "Health Links logo",
+        "box": {
+          "x": 156.75,
+          "y": 1610.21875,
+          "w": 280,
+          "h": 17
+        },
+        "context": "heading: Recruitment underway for Chief Executive Officer",
+        "contextKind": "heading-only",
+        "html": "<a href=\"https://misericordia.mb.ca/programs/phcc/health-links-info-sante/\" target=\"_blank\"><img src=\"/files/logo-HealthLinks-horiz.png\" alt=\"Health Links logo\"></a>"
+      },
+      {
+        "target": "#custom_html-21 > div > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://northernhealthfoundation.com/",
+        "imgAlt": "Northern Health Foundation logo",
+        "box": {
+          "x": 469.53125,
+          "y": 1612.234375,
+          "w": 296.359375,
+          "h": 17
+        },
+        "context": "heading: Recruitment underway for Chief Executive Officer",
+        "contextKind": "heading-only",
+        "html": "<a href=\"https://northernhealthfoundation.com/\" target=\"_blank\"><img src=\"/files/logo-nhf.png\" alt=\"Northern Health Foundation logo\"></a>"
+      },
+      {
+        "target": "#custom_html-22 > div > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://qdoc.ca/",
+        "imgAlt": "QDocs logo",
+        "box": {
+          "x": 795.90625,
+          "y": 1611.734375,
+          "w": 165.8125,
+          "h": 17
+        },
+        "context": "heading: Recruitment underway for Chief Executive Officer",
+        "contextKind": "heading-only",
+        "html": "<a href=\"https://qdoc.ca/\" target=\"_blank\"><img src=\"/files/logo-qdoc.png\" alt=\"QDocs logo\"></a>"
+      },
+      {
+        "target": "#custom_html-23 > div > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://sharedhealthmb.ca/",
+        "imgAlt": "Shared Health logo",
+        "box": {
+          "x": 991.734375,
+          "y": 1607.71875,
+          "w": 220.21875,
+          "h": 17
+        },
+        "context": "heading: Recruitment underway for Chief Executive Officer",
+        "contextKind": "heading-only",
+        "html": "<a href=\"https://sharedhealthmb.ca/\" target=\"_blank\"><img src=\"/files/sharedhealth-logo.png\" alt=\"Shared Health logo\"></a>"
+      },
+      {
+        "target": "#custom_html-24 > div > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/",
+        "imgAlt": "Northern Health Region logo",
+        "box": {
+          "x": 162,
+          "y": 1804.5,
+          "w": 204.234375,
+          "h": 15
+        },
+        "context": "heading: Recruitment underway for Chief Executive Officer",
+        "contextKind": "heading-only",
+        "html": "<a href=\"/\"><img src=\"/files/logo-nhr-footer.png\" alt=\"Northern Health Region logo\"></a>"
+      },
+      {
+        "target": "#custom_html-25 > div > p:nth-of-type(2) > a:nth-of-type(1)",
+        "text": "Health Links – Info Santé",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://misericordia.mb.ca/programs/phcc/health-links-info-sante/",
+        "imgAlt": "",
+        "box": {
+          "x": 431.859375,
+          "y": 1904.734375,
+          "w": 146.359375,
+          "h": 15
+        },
+        "context": "Health Links – Info Santé Northern Health Foundation Shared Health",
+        "contextKind": "p",
+        "html": "<a href=\"https://misericordia.mb.ca/programs/phcc/health-links-info-sante/\" target=\"_blank\">Health Links – Info Santé</a>"
+      },
+      {
+        "target": "#custom_html-25 > div > p:nth-of-type(2) > a:nth-of-type(2)",
+        "text": "Northern Health Foundation",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://northernhealthfoundation.com/",
+        "imgAlt": "",
+        "box": {
+          "x": 431.859375,
+          "y": 1924.171875,
+          "w": 165.671875,
+          "h": 15
+        },
+        "context": "Health Links – Info Santé Northern Health Foundation Shared Health",
+        "contextKind": "p",
+        "html": "<a href=\"https://northernhealthfoundation.com/\" target=\"_blank\">Northern Health Foundation</a>"
+      },
+      {
+        "target": "#custom_html-25 > div > p:nth-of-type(2) > a:nth-of-type(3)",
+        "text": "Shared Health",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://sharedhealthmb.ca/",
+        "imgAlt": "",
+        "box": {
+          "x": 431.859375,
+          "y": 1943.609375,
+          "w": 83.765625,
+          "h": 15
+        },
+        "context": "Health Links – Info Santé Northern Health Foundation Shared Health",
+        "contextKind": "p",
+        "html": "<a href=\"https://sharedhealthmb.ca/\" target=\"_blank\">Shared Health</a>"
+      },
+      {
+        "target": "#custom_html-26 > div > p > a:nth-of-type(1)",
+        "text": "1-888-340-6742",
+        "ariaLabel": "",
+        "title": "",
+        "href": "tel:18883406742",
+        "imgAlt": "",
+        "box": {
+          "x": 682.09375,
+          "y": 1752.25,
+          "w": 91.5625,
+          "h": 15
+        },
+        "context": "1-888-340-6742 (toll free) northernhealthregion@nrha.ca",
+        "contextKind": "p",
+        "html": "<a href=\"tel:18883406742\">1-888-340-6742</a>"
+      },
+      {
+        "target": "#custom_html-26 > div > p > a:nth-of-type(2)",
+        "text": "northernhealthregion@nrha.ca",
+        "ariaLabel": "",
+        "title": "",
+        "href": "mailto:northernhealthregion@nrha.ca",
+        "imgAlt": "",
+        "box": {
+          "x": 662.46875,
+          "y": 1791.125,
+          "w": 184.796875,
+          "h": 15
+        },
+        "context": "1-888-340-6742 (toll free) northernhealthregion@nrha.ca",
+        "contextKind": "p",
+        "html": "<a href=\"mailto:northernhealthregion@nrha.ca\">northernhealthregion@nrha.ca</a>"
+      },
+      {
+        "target": "#custom_html-26 > div > div > a:nth-of-type(1)",
+        "text": "",
+        "ariaLabel": "view the Northern Health Region Twitter website",
+        "title": "",
+        "href": "https://x.com/NorthHealthMB",
+        "imgAlt": "",
+        "box": {
+          "x": 662.46875,
+          "y": 1871.296875,
+          "w": 40.5,
+          "h": 39
+        },
+        "context": "heading: Recruitment underway for Chief Executive Officer | Contact Us 1-888-340-6742 (toll free) northernhealthregion@nrha.ca Follow us",
+        "contextKind": "block",
+        "html": "<a href=\"https://x.com/NorthHealthMB\" target=\"_blank\" aria-label=\"view the Northern Health Region Twitter website\"><i class=\"fa fa-square-x-twitter\"></i></a>"
+      },
+      {
+        "target": "#custom_html-26 > div > div > a:nth-of-type(2)",
+        "text": "",
+        "ariaLabel": "view the Northern Health Region Facebook website",
+        "title": "",
+        "href": "https://www.facebook.com/northernhealthregion/",
+        "imgAlt": "",
+        "box": {
+          "x": 711.5625,
+          "y": 1871.296875,
+          "w": 40.5,
+          "h": 39
+        },
+        "context": "heading: Recruitment underway for Chief Executive Officer | Contact Us 1-888-340-6742 (toll free) northernhealthregion@nrha.ca Follow us",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.facebook.com/northernhealthregion/\" target=\"_blank\" aria-label=\"view the Northern Health Region Facebook website\"><i class=\"fa fa-facebook-square\" aria-hidden=\"true\"></i></a>"
+      },
+      {
+        "target": "#custom_html-26 > div > div > a:nth-of-type(3)",
+        "text": "",
+        "ariaLabel": "view the Northern Health Region LinkedIn website",
+        "title": "",
+        "href": "https://www.linkedin.com/company/northern-health-region/",
+        "imgAlt": "",
+        "box": {
+          "x": 760.65625,
+          "y": 1871.296875,
+          "w": 40.5,
+          "h": 39
+        },
+        "context": "heading: Recruitment underway for Chief Executive Officer | Contact Us 1-888-340-6742 (toll free) northernhealthregion@nrha.ca Follow us",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.linkedin.com/company/northern-health-region/\" target=\"_blank\" aria-label=\"view the Northern Health Region LinkedIn website\"><i class=\"fa fa-linkedin-square\" aria-hidden=\"true\"></i></a>"
+      },
+      {
+        "target": "#custom_html-28 > div > a:nth-of-type(1)",
+        "text": "Report an issue",
+        "ariaLabel": "",
+        "title": "",
+        "href": "mailto:northernhealthregion@nrha.ca",
+        "imgAlt": "",
+        "box": {
+          "x": 531.40625,
+          "y": 2048.0625,
+          "w": 101.9375,
+          "h": 17
+        },
+        "context": "heading: Recruitment underway for Chief Executive Officer | ©2026 Northern Health Region | All Rights Reserved | Report an issue | Sitemap | Conditions of Use",
+        "contextKind": "block",
+        "html": "<a href=\"mailto:northernhealthregion@nrha.ca\">Report an issue</a>"
+      },
+      {
+        "target": "#custom_html-28 > div > a:nth-of-type(2)",
+        "text": "Sitemap",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/sitemap",
+        "imgAlt": "",
+        "box": {
+          "x": 668.609375,
+          "y": 2048.0625,
+          "w": 54.03125,
+          "h": 17
+        },
+        "context": "heading: Recruitment underway for Chief Executive Officer | ©2026 Northern Health Region | All Rights Reserved | Report an issue | Sitemap | Conditions of Use",
+        "contextKind": "block",
+        "html": "<a href=\"/sitemap\">Sitemap</a>"
+      },
+      {
+        "target": "#custom_html-28 > div > a:nth-of-type(3)",
+        "text": "Conditions of Use",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/conditions-of-use",
+        "imgAlt": "",
+        "box": {
+          "x": 757.90625,
+          "y": 2048.0625,
+          "w": 115.21875,
+          "h": 17
+        },
+        "context": "heading: Recruitment underway for Chief Executive Officer | ©2026 Northern Health Region | All Rights Reserved | Report an issue | Sitemap | Conditions of Use",
+        "contextKind": "block",
+        "html": "<a href=\"/conditions-of-use\">Conditions of Use</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(3) > div:nth-of-type(1) > p > a",
+        "text": "OneTap",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://wponetap.com/?utm_source=frontend-link&utm_medium=link&utm_campaign=ref-link-toolbar",
+        "imgAlt": "",
+        "box": {
+          "x": 1615.671875,
+          "y": 208.1875,
+          "w": 57.625,
+          "h": 25
+        },
+        "context": "Powered by OneTap",
+        "contextKind": "p",
+        "html": "<a href=\"https://wponetap.com/?utm_source=frontend-link&amp;utm_medium=link&amp;utm_campaign=ref-link-toolbar\" target=\"_blank\">OneTap</a>"
+      }
+    ],
+    "headings": [
+      {
+        "target": "#depicter-1-element-28",
+        "level": 1,
+        "text": "Digital Front Door Rapid Access to Addiction Medicine",
+        "visible": true,
+        "box": {
+          "x": 1408.6875,
+          "y": 326.484375,
+          "w": 477.3885498046875,
+          "h": 156.79876708984375
+        },
+        "html": "<h1 id=\"depicter-1-element-28\" class=\"depicter-element depicter-layer depicter-1-element-28 depicter-absolute-position\" data-type=\"text\" data-wrap=\"true\" data-name=\"Text 2\" data-local-id=\"element-28\" data-offset=\"x:60px;y:85px;origin:tl\" data-tablet-offset=\"x:211px;y:6px;origin:tl\" data-mobile-offse"
+      },
+      {
+        "target": "#post-19 > section:nth-of-type(2) > h1",
+        "level": 1,
+        "text": "Northern Health Region, Manitoba",
+        "visible": true,
+        "box": {
+          "x": 149,
+          "y": 568.015625,
+          "w": 1020,
+          "h": 50
+        },
+        "html": "<h1 class=\"wp-block-heading has-text-align-center\">Northern Health Region, Manitoba</h1>"
+      },
+      {
+        "target": "#advgb-col-8e62b8af-41d7-47d8-8cfc-e1d5bac68cc4 > div > h2",
+        "level": 2,
+        "text": "Latest News",
+        "visible": true,
+        "box": {
+          "x": 149,
+          "y": 792.015625,
+          "w": 561,
+          "h": 28
+        },
+        "html": "<h2 class=\"wp-block-heading\">Latest News</h2>"
+      },
+      {
+        "target": "#pt-cv-view-966199898p > div > div:nth-of-type(1) > div > h4",
+        "level": 4,
+        "text": "World Patient Safety Day – Safe Care for Life",
+        "visible": true,
+        "box": {
+          "x": 149,
+          "y": 859.015625,
+          "w": 561,
+          "h": 19.796875
+        },
+        "html": "<h4 class=\"pt-cv-title\"><a href=\"https://northernhealthregion.com/world-patient-safety-day-safe-care-for-life/\" class=\"_self cvplbd\" target=\"_self\">World Patient Safety Day – Safe Care for Life</a></h4>"
+      },
+      {
+        "target": "#pt-cv-view-966199898p > div > div:nth-of-type(2) > div > h4",
+        "level": 4,
+        "text": "Dynacare Labour Disruption Update",
+        "visible": true,
+        "box": {
+          "x": 149,
+          "y": 1055.3125,
+          "w": 561,
+          "h": 19.796875
+        },
+        "html": "<h4 class=\"pt-cv-title\"><a href=\"https://northernhealthregion.com/dynacare-labour-disruption-update/\" class=\"_self cvplbd\" target=\"_self\">Dynacare Labour Disruption Update</a></h4>"
+      },
+      {
+        "target": "#pt-cv-view-966199898p > div > div:nth-of-type(3) > div > h4",
+        "level": 4,
+        "text": "Recruitment underway for Chief Executive Officer",
+        "visible": true,
+        "box": {
+          "x": 149,
+          "y": 1275.609375,
+          "w": 561,
+          "h": 19.796875
+        },
+        "html": "<h4 class=\"pt-cv-title\"><a href=\"https://northernhealthregion.com/recruitment-underway-for-chief-executive-officer/\" class=\"_self cvplbd\" target=\"_self\">Recruitment underway for Chief Executive Officer</a></h4>"
+      }
+    ],
+    "lang": "en-CA",
+    "title": "Northern Health Region - Northern Health Region"
+  },
   "axe": {
     "violationRules": 5,
     "violationNodes": 26,
@@ -607,8 +1687,8 @@
           }
         },
         {
-          "target": "iframe #u_0_1_S6",
-          "html": "<a href=\"https://www.facebook.com/northernhealthregion?ref=embed_page\" target=\"_blank\" id=\"u_0_1_S6\"></a>",
+          "target": "iframe #u_0_1_6T",
+          "html": "<a href=\"https://www.facebook.com/northernhealthregion?ref=embed_page\" target=\"_blank\" id=\"u_0_1_6T\"></a>",
           "impact": "serious",
           "messages": [
             "Element does not have text that is visible to screen readers",
@@ -633,7 +1713,7 @@
           "box": null
         },
         {
-          "target": "iframe #u_1_6_IU > ._5pcr.userContentWrapper[data-ft=\"{\\\"tn\\\":\\\"-R\\\"}\"] > ._1dwg._1w_m._q7o > ._3x-2._2p_a[data-ft=\"{\\\"tn\\\":\\\"H\\\"}\"] > div[data-ft=\"{\\\"tn\\\":\\\"H\\\"}\"] > .mtm > ._2l7q > a",
+          "target": "iframe #u_1_6_yb > ._5pcr.userContentWrapper[data-ft=\"{\\\"tn\\\":\\\"-R\\\"}\"] > ._1dwg._1w_m._q7o > ._3x-2._2p_a[data-ft=\"{\\\"tn\\\":\\\"H\\\"}\"] > div[data-ft=\"{\\\"tn\\\":\\\"H\\\"}\"] > .mtm > ._2l7q > a",
           "html": "<a href=\"https://www.facebook.com/photo.php?fbid=1703236241809011&set=a.492687362863911&type=3&ref=embed_page\" target=\"_blank\">",
           "impact": "serious",
           "messages": [
@@ -646,8 +1726,8 @@
           "box": null
         },
         {
-          "target": "iframe #u_1_6_IU > ._5pcr.userContentWrapper[data-ft=\"{\\\"tn\\\":\\\"-R\\\"}\"] > ._1dwg._1w_m._q7o > div:nth-child(2) > .l_c3pyo2v0u._5eit._4d-l > ._302 > span > a",
-          "html": "<a href=\"/northernhealthregion/posts/pfbid02vn7ZrtNadkLERzeY9CocLF9WYarmTqP6FqNCAWPMUSh399e7Bmr7TJJhV3jrAw4Xl?ref=embed_page\" target=\"_blank\"><i class=\"img sp_JtTaN8Jb8oq sx_53fd32\"></i></a>",
+          "target": "iframe #u_1_6_yb > ._5pcr.userContentWrapper[data-ft=\"{\\\"tn\\\":\\\"-R\\\"}\"] > ._1dwg._1w_m._q7o > div:nth-child(2) > .l_c3pyo2v0u._5eit._4d-l > ._302 > span > a",
+          "html": "<a href=\"/northernhealthregion/posts/pfbid0rkWrP5B1xsFGNrQom6pTV2EjQkEceJZS9QhU6kurrNwJSYiov3TVgzdBfUBsG18Dl?ref=embed_page\" target=\"_blank\"><i class=\"img sp_JtTaN8Jb8oq sx_53fd32\"></i></a>",
           "impact": "serious",
           "messages": [
             "Element does not have text that is visible to screen readers",
@@ -659,7 +1739,7 @@
           "box": null
         },
         {
-          "target": "iframe #u_1_8_as > ._5pcr.userContentWrapper[data-ft=\"{\\\"tn\\\":\\\"-R\\\"}\"] > ._1dwg._1w_m._q7o > ._3x-2._2p_a[data-ft=\"{\\\"tn\\\":\\\"H\\\"}\"] > div[data-ft=\"{\\\"tn\\\":\\\"H\\\"}\"] > .mtm > ._2l7q > a",
+          "target": "iframe #u_1_7_Wp > ._5pcr.userContentWrapper[data-ft=\"{\\\"tn\\\":\\\"-R\\\"}\"] > ._1dwg._1w_m._q7o > ._3x-2._2p_a[data-ft=\"{\\\"tn\\\":\\\"H\\\"}\"] > div[data-ft=\"{\\\"tn\\\":\\\"H\\\"}\"] > .mtm > ._2l7q > a",
           "html": "<a href=\"https://www.facebook.com/photo.php?fbid=1702588021873833&set=a.492687362863911&type=3&ref=embed_page\" target=\"_blank\">",
           "impact": "serious",
           "messages": [
@@ -672,8 +1752,8 @@
           "box": null
         },
         {
-          "target": "iframe #u_1_8_as > ._5pcr.userContentWrapper[data-ft=\"{\\\"tn\\\":\\\"-R\\\"}\"] > ._1dwg._1w_m._q7o > div:nth-child(2) > .l_c3pyo2v0u._5eit._4d-l > ._302 > span > a",
-          "html": "<a href=\"/northernhealthregion/posts/pfbid02AmKzEm5mqHt29aK4aoGrDnyNzmbbKpZwEMjk3tSa6fpeLYQa8oj7P8pA9WouME34l?ref=embed_page\" target=\"_blank\"><i class=\"img sp_JtTaN8Jb8oq sx_53fd32\"></i></a>",
+          "target": "iframe #u_1_7_Wp > ._5pcr.userContentWrapper[data-ft=\"{\\\"tn\\\":\\\"-R\\\"}\"] > ._1dwg._1w_m._q7o > div:nth-child(2) > .l_c3pyo2v0u._5eit._4d-l > ._302 > span > a",
+          "html": "<a href=\"/northernhealthregion/posts/pfbid07DgoKbTQz8FRrARrvsFmWMAgHw7jznR1nsBxe9ThfVvMnoGMQKiYJDyRHcGqQZt9l?ref=embed_page\" target=\"_blank\"><i class=\"img sp_JtTaN8Jb8oq sx_53fd32\"></i></a>",
           "impact": "serious",
           "messages": [
             "Element does not have text that is visible to screen readers",
@@ -685,7 +1765,7 @@
           "box": null
         },
         {
-          "target": "iframe #u_1_5_U3 > ._5pcr.userContentWrapper[data-ft=\"{\\\"tn\\\":\\\"-R\\\"}\"] > ._1dwg._1w_m._q7o > ._3x-2._2p_a[data-ft=\"{\\\"tn\\\":\\\"H\\\"}\"] > div[data-ft=\"{\\\"tn\\\":\\\"H\\\"}\"] > .mtm > ._2l7q > a",
+          "target": "iframe #u_1_9_Vt > ._5pcr.userContentWrapper[data-ft=\"{\\\"tn\\\":\\\"-R\\\"}\"] > ._1dwg._1w_m._q7o > ._3x-2._2p_a[data-ft=\"{\\\"tn\\\":\\\"H\\\"}\"] > div[data-ft=\"{\\\"tn\\\":\\\"H\\\"}\"] > .mtm > ._2l7q > a",
           "html": "<a href=\"https://www.facebook.com/photo.php?fbid=1702280081904627&set=a.492687362863911&type=3&ref=embed_page\" target=\"_blank\">",
           "impact": "serious",
           "messages": [
@@ -698,8 +1778,8 @@
           "box": null
         },
         {
-          "target": "iframe #u_1_5_U3 > ._5pcr.userContentWrapper[data-ft=\"{\\\"tn\\\":\\\"-R\\\"}\"] > ._1dwg._1w_m._q7o > div:nth-child(2) > .l_c3pyo2v0u._5eit._4d-l > ._302 > span > a",
-          "html": "<a href=\"/northernhealthregion/posts/pfbid02kkF3iJnU7yhJN114txArg9tutdv6393knnms69v7vDqMGMiYVGmuTa6epZhHzd6Bl?ref=embed_page\" target=\"_blank\"><i class=\"img sp_JtTaN8Jb8oq sx_53fd32\"></i></a>",
+          "target": "iframe #u_1_9_Vt > ._5pcr.userContentWrapper[data-ft=\"{\\\"tn\\\":\\\"-R\\\"}\"] > ._1dwg._1w_m._q7o > div:nth-child(2) > .l_c3pyo2v0u._5eit._4d-l > ._302 > span > a",
+          "html": "<a href=\"/northernhealthregion/posts/pfbid0hCbro9A7Gisgk4qyzs7PF2Sy8oDJ7CbS5bhaDwZhVpnvTcnZb3YDE2xJKaaFoR8Wl?ref=embed_page\" target=\"_blank\"><i class=\"img sp_JtTaN8Jb8oq sx_53fd32\"></i></a>",
           "impact": "serious",
           "messages": [
             "Element does not have text that is visible to screen readers",
@@ -711,7 +1791,7 @@
           "box": null
         },
         {
-          "target": "iframe #u_1_7_Y\\/ > ._5pcr.userContentWrapper[data-ft=\"{\\\"tn\\\":\\\"-R\\\"}\"] > ._1dwg._1w_m._q7o > ._3x-2._2p_a[data-ft=\"{\\\"tn\\\":\\\"H\\\"}\"] > div[data-ft=\"{\\\"tn\\\":\\\"H\\\"}\"] > .mtm > ._2l7q > a",
+          "target": "iframe #u_1_8_Z1 > ._5pcr.userContentWrapper[data-ft=\"{\\\"tn\\\":\\\"-R\\\"}\"] > ._1dwg._1w_m._q7o > ._3x-2._2p_a[data-ft=\"{\\\"tn\\\":\\\"H\\\"}\"] > div[data-ft=\"{\\\"tn\\\":\\\"H\\\"}\"] > .mtm > ._2l7q > a",
           "html": "<a href=\"https://www.facebook.com/photo.php?fbid=1697774572355178&set=a.492687362863911&type=3&ref=embed_page\" target=\"_blank\">",
           "impact": "serious",
           "messages": [
@@ -724,8 +1804,8 @@
           "box": null
         },
         {
-          "target": "iframe #u_1_7_Y\\/ > ._5pcr.userContentWrapper[data-ft=\"{\\\"tn\\\":\\\"-R\\\"}\"] > ._1dwg._1w_m._q7o > div:nth-child(2) > .l_c3pyo2v0u._5eit._4d-l > ._302 > span > a",
-          "html": "<a href=\"/northernhealthregion/posts/pfbid0rxJvHj3aPKnSPm4Lw6qbNicxsvWkrjqhVyMjMmRxBHxd8D7NFSBuJQxMnojMreZyl?ref=embed_page\" target=\"_blank\"><i class=\"img sp_JtTaN8Jb8oq sx_53fd32\"></i></a>",
+          "target": "iframe #u_1_8_Z1 > ._5pcr.userContentWrapper[data-ft=\"{\\\"tn\\\":\\\"-R\\\"}\"] > ._1dwg._1w_m._q7o > div:nth-child(2) > .l_c3pyo2v0u._5eit._4d-l > ._302 > span > a",
+          "html": "<a href=\"/northernhealthregion/posts/pfbid02vokdUPyQEujCtjoEpeH9SCAxkc1qCMHXpyJBSD5zqXEVJHHC8mQ9PKhgvKyyk38tl?ref=embed_page\" target=\"_blank\"><i class=\"img sp_JtTaN8Jb8oq sx_53fd32\"></i></a>",
           "impact": "serious",
           "messages": [
             "Element does not have text that is visible to screen readers",
@@ -737,7 +1817,7 @@
           "box": null
         },
         {
-          "target": "iframe #u_1_9_7n > ._5pcr.userContentWrapper[data-ft=\"{\\\"tn\\\":\\\"-R\\\"}\"] > ._1dwg._1w_m._q7o > ._3x-2._2p_a[data-ft=\"{\\\"tn\\\":\\\"H\\\"}\"] > div[data-ft=\"{\\\"tn\\\":\\\"H\\\"}\"] > .mtm > ._2l7q > a",
+          "target": "iframe #u_1_5_UX > ._5pcr.userContentWrapper[data-ft=\"{\\\"tn\\\":\\\"-R\\\"}\"] > ._1dwg._1w_m._q7o > ._3x-2._2p_a[data-ft=\"{\\\"tn\\\":\\\"H\\\"}\"] > div[data-ft=\"{\\\"tn\\\":\\\"H\\\"}\"] > .mtm > ._2l7q > a",
           "html": "<a href=\"https://www.facebook.com/photo.php?fbid=1697713685694600&set=a.492687362863911&type=3&ref=embed_page\" target=\"_blank\">",
           "impact": "serious",
           "messages": [
@@ -750,8 +1830,8 @@
           "box": null
         },
         {
-          "target": "iframe #u_1_9_7n > ._5pcr.userContentWrapper[data-ft=\"{\\\"tn\\\":\\\"-R\\\"}\"] > ._1dwg._1w_m._q7o > div:nth-child(2) > .l_c3pyo2v0u._5eit._4d-l > ._302 > span > a",
-          "html": "<a href=\"/northernhealthregion/posts/pfbid0AxaU8riitTCdDYnFKSQjq8Ugs4fmuUiEd7fSqf6avHd5P5mmYzmhaSxdAmCLtbukl?ref=embed_page\" target=\"_blank\"><i class=\"img sp_JtTaN8Jb8oq sx_53fd32\"></i></a>",
+          "target": "iframe #u_1_5_UX > ._5pcr.userContentWrapper[data-ft=\"{\\\"tn\\\":\\\"-R\\\"}\"] > ._1dwg._1w_m._q7o > div:nth-child(2) > .l_c3pyo2v0u._5eit._4d-l > ._302 > span > a",
+          "html": "<a href=\"/northernhealthregion/posts/pfbid02Ep2BKXeYk3SizpTXqWMnfy6F6rrnog2Ym71GZ9tXtSkduY7RG9u7vXtHVuujDThyl?ref=embed_page\" target=\"_blank\"><i class=\"img sp_JtTaN8Jb8oq sx_53fd32\"></i></a>",
           "impact": "serious",
           "messages": [
             "Element does not have text that is visible to screen readers",

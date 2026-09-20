@@ -19,7 +19,1892 @@
     "width": 1366,
     "height": 900
   },
-  "scannedAt": "2026-09-19T06:27:33.107Z",
+  "scannedAt": "2026-09-19T23:59:49.709Z",
+  "content": {
+    "images": [
+      {
+        "target": "div:nth-of-type(1) > div > div:nth-of-type(1) > a > img:nth-of-type(1)",
+        "tag": "img",
+        "src": "https://sb45storage.blob.core.windows.net/pub/themes/Ptsd/images/logo.svg",
+        "alt": "Pembina Trails School Division",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 226,
+        "naturalHeight": 68,
+        "box": {
+          "x": 20,
+          "y": 21,
+          "w": 226,
+          "h": 68
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://sb45storage.blob.core.windows.net/pub/themes/Ptsd/images/logo.svg\" width=\"226\" height=\"68\" class=\"screen-only\" alt=\"Pembina Trails School Division\">"
+      },
+      {
+        "target": "div:nth-of-type(5) > ul > li:nth-of-type(2) > a > img",
+        "tag": "img",
+        "src": "https://sb45storage.blob.core.windows.net/pub/themes/Ptsd/images/facebook.svg",
+        "alt": "facebook",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 151,
+        "naturalHeight": 150,
+        "box": {
+          "x": 1136,
+          "y": 43,
+          "w": 24,
+          "h": 24
+        },
+        "inLink": true,
+        "linkText": "facebook",
+        "linkHref": "https://www.facebook.com/pembinatrails",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://sb45storage.blob.core.windows.net/pub/themes/Ptsd/images/facebook.svg\" width=\"24\" height=\"24\" style=\"width: 24px ; height: 24px ;\" alt=\"facebook\">"
+      },
+      {
+        "target": "div:nth-of-type(5) > ul > li:nth-of-type(3) > a > img",
+        "tag": "img",
+        "src": "https://sb45storage.blob.core.windows.net/pub/themes/Ptsd/images/instagram.svg",
+        "alt": "instagram",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 150,
+        "naturalHeight": 150,
+        "box": {
+          "x": 1180,
+          "y": 43,
+          "w": 24,
+          "h": 24
+        },
+        "inLink": true,
+        "linkText": "instagram",
+        "linkHref": "https://www.instagram.com/pembinatrailsschooldivision",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://sb45storage.blob.core.windows.net/pub/themes/Ptsd/images/instagram.svg\" width=\"24\" height=\"24\" style=\"width: 24px ; height: 24px ;\" alt=\"instagram\">"
+      },
+      {
+        "target": "div:nth-of-type(5) > ul > li:nth-of-type(4) > a > img",
+        "tag": "img",
+        "src": "https://sb45storage.blob.core.windows.net/pub/themes/Ptsd/images/youtube.svg",
+        "alt": "youtube",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 200,
+        "naturalHeight": 150,
+        "box": {
+          "x": 1224,
+          "y": 43,
+          "w": 24,
+          "h": 24
+        },
+        "inLink": true,
+        "linkText": "youtube",
+        "linkHref": "https://www.youtube.com/user/PembinaTrails",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://sb45storage.blob.core.windows.net/pub/themes/Ptsd/images/youtube.svg\" width=\"24\" height=\"24\" style=\"width: 24px ; height: 24px ;\" alt=\"youtube\">"
+      },
+      {
+        "target": "div:nth-of-type(5) > ul > li:nth-of-type(5) > a > img",
+        "tag": "img",
+        "src": "https://sb45storage.blob.core.windows.net/pub/themes/Ptsd/images/linkedin.svg",
+        "alt": "linkedin",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 150,
+        "naturalHeight": 150,
+        "box": {
+          "x": 1268,
+          "y": 43,
+          "w": 24,
+          "h": 24
+        },
+        "inLink": true,
+        "linkText": "linkedin",
+        "linkHref": "https://www.linkedin.com/company/9310277",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://sb45storage.blob.core.windows.net/pub/themes/Ptsd/images/linkedin.svg\" width=\"24\" height=\"24\" style=\"width: 24px ; height: 24px ;\" alt=\"linkedin\">"
+      },
+      {
+        "target": "div:nth-of-type(5) > ul > li:nth-of-type(6) > a > img",
+        "tag": "img",
+        "src": "https://sb45storage.blob.core.windows.net/pub/themes/Ptsd/images/bluesky.svg",
+        "alt": "bluesky",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 168,
+        "naturalHeight": 150,
+        "box": {
+          "x": 1312,
+          "y": 43,
+          "w": 24,
+          "h": 24
+        },
+        "inLink": true,
+        "linkText": "bluesky",
+        "linkHref": "https://bsky.app/profile/pembinatrailssd.bsky.social",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://sb45storage.blob.core.windows.net/pub/themes/Ptsd/images/bluesky.svg\" width=\"24\" height=\"24\" style=\"width: 24px ; height: 24px ;\" alt=\"bluesky\">"
+      },
+      {
+        "target": "#slick-slide00 > div:nth-of-type(1) > picture > a > img",
+        "tag": "img",
+        "src": "https://media.pembinatrails.ca/media/Default/pgg/5/Spotlight_After-School-Newcome-Event%20(1).jpg",
+        "alt": "image description",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 1600,
+        "naturalHeight": 900,
+        "box": {
+          "x": 497.375,
+          "y": 150,
+          "w": 848.625,
+          "h": 477.34375
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "/after-school-newcomer-family-event-.47104",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://media.pembinatrails.ca/media/Default/pgg/5/Spotlight_After-School-Newcome-Event%20(1).jpg\" alt=\"image description\" width=\"791\" height=\"444\">"
+      },
+      {
+        "target": "#slick-slide01 > div:nth-of-type(1) > picture > a > img",
+        "tag": "img",
+        "src": "https://media.pembinatrails.ca/media/Default/pgg/5/Free-Transit-Pass-Information.jpg",
+        "alt": "image description",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 1598,
+        "naturalHeight": 899,
+        "box": {
+          "x": 497.375,
+          "y": 150,
+          "w": 848.625,
+          "h": 477.40625
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "/free-transit-pass-information-.46994",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://media.pembinatrails.ca/media/Default/pgg/5/Free-Transit-Pass-Information.jpg\" alt=\"image description\" width=\"791\" height=\"444\">"
+      },
+      {
+        "target": "#slick-slide02 > div:nth-of-type(1) > picture > a > img",
+        "tag": "img",
+        "src": "https://media.pembinatrails.ca/media/Default/pgg/5/Fast-Facts-for-Families_Spotlight.jpg",
+        "alt": "image description",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 1600,
+        "naturalHeight": 900,
+        "box": {
+          "x": 497.375,
+          "y": 150,
+          "w": 848.625,
+          "h": 477.34375
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "/fast-facts-for-families",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://media.pembinatrails.ca/media/Default/pgg/5/Fast-Facts-for-Families_Spotlight.jpg\" alt=\"image description\" width=\"791\" height=\"444\">"
+      },
+      {
+        "target": "div > div:nth-of-type(1) > a > div > img",
+        "tag": "img",
+        "src": "https://media.pembinatrails.ca/media/Default/fgg/5/edsby.png",
+        "alt": "image description",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 72,
+        "naturalHeight": 56,
+        "box": {
+          "x": 171.5,
+          "y": 619.40625,
+          "w": 72,
+          "h": 56
+        },
+        "inLink": true,
+        "linkText": "Edsby",
+        "linkHref": "https://pembinatrails.edsby.com/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://media.pembinatrails.ca/media/Default/fgg/5/edsby.png\" height=\"56\" width=\"56\" alt=\"image description\">"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > a > div > img",
+        "tag": "img",
+        "src": "https://media.pembinatrails.ca/media/Default/fgg/5/Division-Calendar.png",
+        "alt": "image description",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 56,
+        "naturalHeight": 53,
+        "box": {
+          "x": 400.5,
+          "y": 620.90625,
+          "w": 56,
+          "h": 53
+        },
+        "inLink": true,
+        "linkText": "Division Calendar",
+        "linkHref": "https://www.pembinatrails.ca/page/15151/calendar",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://media.pembinatrails.ca/media/Default/fgg/5/Division-Calendar.png\" height=\"56\" width=\"56\" alt=\"image description\">"
+      },
+      {
+        "target": "div > div:nth-of-type(3) > a > div > img",
+        "tag": "img",
+        "src": "https://media.pembinatrails.ca/media/Default/fgg/5/School-locator.png",
+        "alt": "image description",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 53,
+        "naturalHeight": 56,
+        "box": {
+          "x": 623,
+          "y": 619.40625,
+          "w": 53,
+          "h": 56
+        },
+        "inLink": true,
+        "linkText": "School Locator",
+        "linkHref": "https://www.pembinatrails.ca/page/785/school-locator",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://media.pembinatrails.ca/media/Default/fgg/5/School-locator.png\" height=\"56\" width=\"56\" alt=\"image description\">"
+      },
+      {
+        "target": "div > div:nth-of-type(4) > a > div > img",
+        "tag": "img",
+        "src": "https://media.pembinatrails.ca/media/Default/fgg/5/Transportation.png",
+        "alt": "image description",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 54,
+        "naturalHeight": 56,
+        "box": {
+          "x": 843.5,
+          "y": 619.40625,
+          "w": 54,
+          "h": 56
+        },
+        "inLink": true,
+        "linkText": "Transportation",
+        "linkHref": "https://www.pembinatrails.ca/page/556/transportation",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://media.pembinatrails.ca/media/Default/fgg/5/Transportation.png\" height=\"56\" width=\"56\" alt=\"image description\">"
+      },
+      {
+        "target": "div > div:nth-of-type(5) > a > div > img",
+        "tag": "img",
+        "src": "https://media.pembinatrails.ca/media/Default/fgg/5/People20comment.png",
+        "alt": "image description",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 56,
+        "naturalHeight": 53,
+        "box": {
+          "x": 1063.5,
+          "y": 620.90625,
+          "w": 56,
+          "h": 53
+        },
+        "inLink": true,
+        "linkText": "Public Concerns and Complaints",
+        "linkHref": "https://media.pembinatrails.ca/media/Default/medialib/concern-protocol-infographic.47982f44197.pdf",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://media.pembinatrails.ca/media/Default/fgg/5/People20comment.png\" height=\"56\" width=\"56\" alt=\"image description\">"
+      },
+      {
+        "target": "div > div:nth-of-type(1) > a > picture > img",
+        "tag": "img",
+        "src": "https://media.pembinatrails.ca/media/Default/pgg/5/SoB-Website-Spotlight.jpg",
+        "alt": "image description",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 1600,
+        "naturalHeight": 900,
+        "box": {
+          "x": 20,
+          "y": 825,
+          "w": 410,
+          "h": 231.5
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "/standard-of-behaviour-brochure.43276",
+        "caption": "",
+        "nearText": "",
+        "html": "<img class=\" lazyloaded\" data-expand=\"250\" width=\"380.66\" height=\"214.98\" data-src=\"https://media.pembinatrails.ca/media/Default/pgg/5/SoB-Website-Spotlight.jpg\" alt=\"image description\" src=\"https://media.pembinatrails.ca/media/Default/pgg/5/SoB-Website-Spotlight.jpg\">"
+      },
+      {
+        "target": "div > div:nth-of-type(1) > a > picture > img",
+        "tag": "img",
+        "src": "https://media.pembinatrails.ca/media/Default/pgg/5/SPOTLIGHT_My-Ride.jpg",
+        "alt": "image description",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 1595,
+        "naturalHeight": 897,
+        "box": {
+          "x": 478,
+          "y": 825,
+          "w": 410,
+          "h": 231.4375
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "/how-to-turn-on-notifications-and-see-messages-on-your-myride-k-12-app-iphone-and-android-users.42933",
+        "caption": "",
+        "nearText": "",
+        "html": "<img class=\" lazyloaded\" data-expand=\"250\" width=\"380.66\" height=\"214.98\" data-src=\"https://media.pembinatrails.ca/media/Default/pgg/5/SPOTLIGHT_My-Ride.jpg\" alt=\"image description\" src=\"https://media.pembinatrails.ca/media/Default/pgg/5/SPOTLIGHT_My-Ride.jpg\">"
+      },
+      {
+        "target": "div > div:nth-of-type(1) > a > picture > img",
+        "tag": "img",
+        "src": "https://media.pembinatrails.ca/media/Default/pgg/5/Concern-Protocol_Spotlight.jpg",
+        "alt": "image description",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 1196,
+        "naturalHeight": 672,
+        "box": {
+          "x": 936,
+          "y": 825,
+          "w": 410,
+          "h": 231.234375
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "/public-concerns-and-complaint-protocol.44214",
+        "caption": "",
+        "nearText": "",
+        "html": "<img class=\" lazyloaded\" data-expand=\"250\" width=\"380.66\" height=\"214.98\" data-src=\"https://media.pembinatrails.ca/media/Default/pgg/5/Concern-Protocol_Spotlight.jpg\" alt=\"image description\" src=\"https://media.pembinatrails.ca/media/Default/pgg/5/Concern-Protocol_Spotlight.jpg\">"
+      },
+      {
+        "target": "div > ul > li:nth-of-type(2) > a > img",
+        "tag": "img",
+        "src": "https://sb45storage.blob.core.windows.net/pub/themes/Ptsd/images/facebook.svg",
+        "alt": "facebook",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 151,
+        "naturalHeight": 150,
+        "box": {
+          "x": 591,
+          "y": 1335.125,
+          "w": 24,
+          "h": 24
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "https://www.facebook.com/pembinatrails",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://sb45storage.blob.core.windows.net/pub/themes/Ptsd/images/facebook.svg\" style=\"width: 24px ; height: 24px ;\" alt=\"facebook\">"
+      },
+      {
+        "target": "div > ul > li:nth-of-type(3) > a > img",
+        "tag": "img",
+        "src": "https://sb45storage.blob.core.windows.net/pub/themes/Ptsd/images/instagram.svg",
+        "alt": "instagram",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 150,
+        "naturalHeight": 150,
+        "box": {
+          "x": 644,
+          "y": 1335.125,
+          "w": 24,
+          "h": 24
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "https://www.instagram.com/pembinatrailsschooldivision",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://sb45storage.blob.core.windows.net/pub/themes/Ptsd/images/instagram.svg\" style=\"width: 24px ; height: 24px ;\" alt=\"instagram\">"
+      },
+      {
+        "target": "div > ul > li:nth-of-type(4) > a > img",
+        "tag": "img",
+        "src": "https://sb45storage.blob.core.windows.net/pub/themes/Ptsd/images/youtube.svg",
+        "alt": "youtube",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 200,
+        "naturalHeight": 150,
+        "box": {
+          "x": 697,
+          "y": 1335.125,
+          "w": 24,
+          "h": 24
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "https://www.youtube.com/user/PembinaTrails",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://sb45storage.blob.core.windows.net/pub/themes/Ptsd/images/youtube.svg\" style=\"width: 24px ; height: 24px ;\" alt=\"youtube\">"
+      },
+      {
+        "target": "div > ul > li:nth-of-type(5) > a > img",
+        "tag": "img",
+        "src": "https://sb45storage.blob.core.windows.net/pub/themes/Ptsd/images/linkedin.svg",
+        "alt": "linkedin",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 150,
+        "naturalHeight": 150,
+        "box": {
+          "x": 750,
+          "y": 1335.125,
+          "w": 24,
+          "h": 24
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "https://www.linkedin.com/company/9310277",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://sb45storage.blob.core.windows.net/pub/themes/Ptsd/images/linkedin.svg\" style=\"width: 24px ; height: 24px ;\" alt=\"linkedin\">"
+      },
+      {
+        "target": "div > ul > li:nth-of-type(6) > a > img",
+        "tag": "img",
+        "src": "https://sb45storage.blob.core.windows.net/pub/themes/Ptsd/images/bluesky.svg",
+        "alt": "bluesky",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 168,
+        "naturalHeight": 150,
+        "box": {
+          "x": 803,
+          "y": 1335.125,
+          "w": 24,
+          "h": 24
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "https://bsky.app/profile/pembinatrailssd.bsky.social",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://sb45storage.blob.core.windows.net/pub/themes/Ptsd/images/bluesky.svg\" style=\"width: 24px ; height: 24px ;\" alt=\"bluesky\">"
+      },
+      {
+        "target": "div > div:nth-of-type(1) > div:nth-of-type(1) > a > img:nth-of-type(1)",
+        "tag": "img",
+        "src": "https://sb45storage.blob.core.windows.net/pub/themes/Ptsd/images/f-logo.svg",
+        "alt": "Pembina Trails School Division Accomplish Anything",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 228,
+        "naturalHeight": 68,
+        "box": {
+          "x": 18,
+          "y": 1469.125,
+          "w": 228,
+          "h": 68
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://sb45storage.blob.core.windows.net/pub/themes/Ptsd/images/f-logo.svg\" class=\"screen-only\" width=\"228\" height=\"68\" alt=\"Pembina Trails School Division Accomplish Anything\">"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(2) > a > img",
+        "tag": "img",
+        "src": "https://sb45storage.blob.core.windows.net/pub/themes/Ptsd/images/facebook.svg",
+        "alt": "facebook",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 151,
+        "naturalHeight": 150,
+        "box": {
+          "x": 982.65625,
+          "y": 1710.375,
+          "w": 24,
+          "h": 24
+        },
+        "inLink": true,
+        "linkText": "facebook",
+        "linkHref": "https://www.facebook.com/pembinatrails",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://sb45storage.blob.core.windows.net/pub/themes/Ptsd/images/facebook.svg\" width=\"24\" height=\"24\" style=\"width: 24px ; height: 24px ;\" alt=\"facebook\">"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(3) > a > img",
+        "tag": "img",
+        "src": "https://sb45storage.blob.core.windows.net/pub/themes/Ptsd/images/instagram.svg",
+        "alt": "instagram",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 150,
+        "naturalHeight": 150,
+        "box": {
+          "x": 1035.65625,
+          "y": 1710.375,
+          "w": 24,
+          "h": 24
+        },
+        "inLink": true,
+        "linkText": "instagram",
+        "linkHref": "https://www.instagram.com/pembinatrailsschooldivision",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://sb45storage.blob.core.windows.net/pub/themes/Ptsd/images/instagram.svg\" width=\"24\" height=\"24\" style=\"width: 24px ; height: 24px ;\" alt=\"instagram\">"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(4) > a > img",
+        "tag": "img",
+        "src": "https://sb45storage.blob.core.windows.net/pub/themes/Ptsd/images/youtube.svg",
+        "alt": "youtube",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 200,
+        "naturalHeight": 150,
+        "box": {
+          "x": 1088.65625,
+          "y": 1710.375,
+          "w": 24,
+          "h": 24
+        },
+        "inLink": true,
+        "linkText": "youtube",
+        "linkHref": "https://www.youtube.com/user/PembinaTrails",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://sb45storage.blob.core.windows.net/pub/themes/Ptsd/images/youtube.svg\" width=\"24\" height=\"24\" style=\"width: 24px ; height: 24px ;\" alt=\"youtube\">"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(5) > a > img",
+        "tag": "img",
+        "src": "https://sb45storage.blob.core.windows.net/pub/themes/Ptsd/images/linkedin.svg",
+        "alt": "linkedin",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 150,
+        "naturalHeight": 150,
+        "box": {
+          "x": 1141.65625,
+          "y": 1710.375,
+          "w": 24,
+          "h": 24
+        },
+        "inLink": true,
+        "linkText": "linkedin",
+        "linkHref": "https://www.linkedin.com/company/9310277",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://sb45storage.blob.core.windows.net/pub/themes/Ptsd/images/linkedin.svg\" width=\"24\" height=\"24\" style=\"width: 24px ; height: 24px ;\" alt=\"linkedin\">"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(6) > a > img",
+        "tag": "img",
+        "src": "https://sb45storage.blob.core.windows.net/pub/themes/Ptsd/images/bluesky.svg",
+        "alt": "bluesky",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 168,
+        "naturalHeight": 150,
+        "box": {
+          "x": 1194.65625,
+          "y": 1710.375,
+          "w": 24,
+          "h": 24
+        },
+        "inLink": true,
+        "linkText": "bluesky",
+        "linkHref": "https://bsky.app/profile/pembinatrailssd.bsky.social",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://sb45storage.blob.core.windows.net/pub/themes/Ptsd/images/bluesky.svg\" width=\"24\" height=\"24\" style=\"width: 24px ; height: 24px ;\" alt=\"bluesky\">"
+      },
+      {
+        "target": "div:nth-of-type(2) > div > div:nth-of-type(2) > a > img",
+        "tag": "img",
+        "src": "https://sb45storage.blob.core.windows.net/pub/themes/Ptsd/images/logo-sb.svg",
+        "alt": "SchoolBundle",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 113,
+        "naturalHeight": 15,
+        "box": {
+          "x": 1235,
+          "y": 1792.375,
+          "w": 113,
+          "h": 15
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "http://www.schoolbundle.ca/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://sb45storage.blob.core.windows.net/pub/themes/Ptsd/images/logo-sb.svg\" width=\"113\" height=\"15\" alt=\"SchoolBundle\">"
+      }
+    ],
+    "links": [
+      {
+        "target": "html > body > a:nth-of-type(1)",
+        "text": "Accessibility Screen-Reader Guide, Feedback, and Issue Reporting | New window",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://accessibe.com/blog/knowledgebase/screen-reader-guide",
+        "imgAlt": "",
+        "box": {
+          "x": 0,
+          "y": -1,
+          "w": 200,
+          "h": 1
+        },
+        "context": "",
+        "contextKind": "none",
+        "html": "<a href=\"https://accessibe.com/blog/knowledgebase/screen-reader-guide\" target=\"_blank\" rel=\"noopener\" tabindex=\"-1\" data-acsb=\"sr-trigger\" data-acsb-sr-only=\"true\" class=\"acsb-sr-only\" style=\"position: absolute; width: 200px; height: 1px; margin-top: -1px; z-index: -1; border: 0px; top: 0px; left: 0"
+      },
+      {
+        "target": "html > body > a:nth-of-type(2)",
+        "text": "Skip to main content",
+        "ariaLabel": "",
+        "title": "",
+        "href": "#main",
+        "imgAlt": "",
+        "box": {
+          "x": -1,
+          "y": -1,
+          "w": 1,
+          "h": 1
+        },
+        "context": "",
+        "contextKind": "none",
+        "html": "<a class=\"sr-only sr-only-focusable\" href=\"#main\" accesskey=\"c\">Skip to main content</a>"
+      },
+      {
+        "target": "#header > div:nth-of-type(1) > div > div:nth-of-type(1) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/",
+        "imgAlt": "Pembina Trails School Division Pembina Trails School Division",
+        "box": {
+          "x": 20,
+          "y": 24,
+          "w": 226,
+          "h": 20
+        },
+        "context": "QUESTIONS TRANSLATE SIGN IN About Us Our Schools Our Community What We Offer Governance Careers Staff Resources Health Info Search Opener",
+        "contextKind": "block",
+        "html": "<a href=\"/\"> <img src=\"https://sb45storage.blob.core.windows.net/pub/themes/Ptsd/images/logo.svg\" width=\"226\" height=\"68\" class=\"screen-only\" alt=\"Pembina Trails School Division\"> <img src=\"https://sb45storage.blob.core.windows.net/pub/themes/Ptsd/images/logo-dark.svg\" class=\"print-only\" alt=\"Pembin"
+      },
+      {
+        "target": "#dropdown01",
+        "text": "QUESTIONS",
+        "ariaLabel": "",
+        "title": "",
+        "href": "#",
+        "imgAlt": "",
+        "box": {
+          "x": 631.640625,
+          "y": 45.5,
+          "w": 124.6875,
+          "h": 26
+        },
+        "context": "QUESTIONS TRANSLATE SIGN IN About Us Our Schools Our Community What We Offer Governance Careers Staff Resources Health Info Search Opener",
+        "contextKind": "block",
+        "html": "<a class=\"nav-link dropdown-toggle\" href=\"#\" id=\"dropdown01\" role=\"button\" data-toggle=\"dropdown\" data-display=\"static\" aria-haspopup=\"true\" aria-expanded=\"false\" style=\"outline:none;\"> <svg> <use xlink:href=\"#questions\"></use> </svg> QUESTIONS </a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div > div:nth-of-type(3) > div > a",
+        "text": "TRANSLATE",
+        "ariaLabel": "",
+        "title": "",
+        "href": "#",
+        "imgAlt": "",
+        "box": {
+          "x": 768.328125,
+          "y": 45.5,
+          "w": 153,
+          "h": 26
+        },
+        "context": "QUESTIONS TRANSLATE SIGN IN About Us Our Schools Our Community What We Offer Governance Careers Staff Resources Health Info Search Opener",
+        "contextKind": "block",
+        "html": "<a href=\"#\" class=\"dropdown-opener js-dropdown-opener\" style=\"outline:none;\"> Translate <svg> <use xlink:href=\"#translate\"></use> </svg> <svg class=\"d-arrow\"> <use xlink:href=\"#downArrow\"></use> </svg> </a>"
+      },
+      {
+        "target": "#dropdown02",
+        "text": "SIGN IN",
+        "ariaLabel": "",
+        "title": "",
+        "href": "#",
+        "imgAlt": "",
+        "box": {
+          "x": 934.328125,
+          "y": 45.5,
+          "w": 130.671875,
+          "h": 26
+        },
+        "context": "QUESTIONS TRANSLATE SIGN IN About Us Our Schools Our Community What We Offer Governance Careers Staff Resources Health Info Search Opener",
+        "contextKind": "block",
+        "html": "<a class=\"nav-link dropdown-toggle\" href=\"#\" id=\"dropdown02\" role=\"button\" data-toggle=\"dropdown\" data-display=\"static\" aria-haspopup=\"true\" aria-expanded=\"false\" style=\"outline:none;\"> Sign In <svg> <use xlink:href=\"#signIn\"></use> </svg> <svg class=\"d-arrow\"> <use xlink:href=\"#downArrow\"></use> </"
+      },
+      {
+        "target": "div > div:nth-of-type(5) > ul > li:nth-of-type(1) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://pembinatrails.edsby.com/",
+        "imgAlt": "",
+        "box": {
+          "x": 1092,
+          "y": 45,
+          "w": 24,
+          "h": 20
+        },
+        "context": "",
+        "contextKind": "li",
+        "html": "<a href=\"https://pembinatrails.edsby.com/\" target=\"_blank\"> <svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" id=\"Layer_1\" x=\"0px\" y=\"0px\" width=\"24px\" height=\"20px\" viewBox=\"0 0 245 206\" enable-background=\"new 0 0 245 206\" xml:space=\"preserve\"> <image "
+      },
+      {
+        "target": "div > div:nth-of-type(5) > ul > li:nth-of-type(2) > a",
+        "text": "",
+        "ariaLabel": "facebook",
+        "title": "",
+        "href": "https://www.facebook.com/pembinatrails",
+        "imgAlt": "facebook",
+        "box": {
+          "x": 1136,
+          "y": 43,
+          "w": 24,
+          "h": 24
+        },
+        "context": "",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.facebook.com/pembinatrails\" target=\"_blank\" aria-label=\"facebook\"> <img src=\"https://sb45storage.blob.core.windows.net/pub/themes/Ptsd/images/facebook.svg\" width=\"24\" height=\"24\" style=\"width: 24px ; height: 24px ;\" alt=\"facebook\"> </a>"
+      },
+      {
+        "target": "div > div:nth-of-type(5) > ul > li:nth-of-type(3) > a",
+        "text": "",
+        "ariaLabel": "instagram",
+        "title": "",
+        "href": "https://www.instagram.com/pembinatrailsschooldivision",
+        "imgAlt": "instagram",
+        "box": {
+          "x": 1180,
+          "y": 43,
+          "w": 24,
+          "h": 24
+        },
+        "context": "",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.instagram.com/pembinatrailsschooldivision\" target=\"_blank\" aria-label=\"instagram\"> <img src=\"https://sb45storage.blob.core.windows.net/pub/themes/Ptsd/images/instagram.svg\" width=\"24\" height=\"24\" style=\"width: 24px ; height: 24px ;\" alt=\"instagram\"> </a>"
+      },
+      {
+        "target": "div > div:nth-of-type(5) > ul > li:nth-of-type(4) > a",
+        "text": "",
+        "ariaLabel": "youtube",
+        "title": "",
+        "href": "https://www.youtube.com/user/PembinaTrails",
+        "imgAlt": "youtube",
+        "box": {
+          "x": 1224,
+          "y": 43,
+          "w": 24,
+          "h": 24
+        },
+        "context": "",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.youtube.com/user/PembinaTrails\" target=\"_blank\" aria-label=\"youtube\"> <img src=\"https://sb45storage.blob.core.windows.net/pub/themes/Ptsd/images/youtube.svg\" width=\"24\" height=\"24\" style=\"width: 24px ; height: 24px ;\" alt=\"youtube\"> </a>"
+      },
+      {
+        "target": "div > div:nth-of-type(5) > ul > li:nth-of-type(5) > a",
+        "text": "",
+        "ariaLabel": "linkedin",
+        "title": "",
+        "href": "https://www.linkedin.com/company/9310277",
+        "imgAlt": "linkedin",
+        "box": {
+          "x": 1268,
+          "y": 43,
+          "w": 24,
+          "h": 24
+        },
+        "context": "",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.linkedin.com/company/9310277\" target=\"_blank\" aria-label=\"linkedin\"> <img src=\"https://sb45storage.blob.core.windows.net/pub/themes/Ptsd/images/linkedin.svg\" width=\"24\" height=\"24\" style=\"width: 24px ; height: 24px ;\" alt=\"linkedin\"> </a>"
+      },
+      {
+        "target": "div > div:nth-of-type(5) > ul > li:nth-of-type(6) > a",
+        "text": "",
+        "ariaLabel": "bluesky",
+        "title": "",
+        "href": "https://bsky.app/profile/pembinatrailssd.bsky.social",
+        "imgAlt": "bluesky",
+        "box": {
+          "x": 1312,
+          "y": 43,
+          "w": 24,
+          "h": 24
+        },
+        "context": "",
+        "contextKind": "li",
+        "html": "<a href=\"https://bsky.app/profile/pembinatrailssd.bsky.social\" target=\"_blank\" aria-label=\"bluesky\"> <img src=\"https://sb45storage.blob.core.windows.net/pub/themes/Ptsd/images/bluesky.svg\" width=\"24\" height=\"24\" style=\"width: 24px ; height: 24px ;\" alt=\"bluesky\"> </a>"
+      },
+      {
+        "target": "#nav > ul > li:nth-of-type(1) > a",
+        "text": "About Us",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/about-us",
+        "imgAlt": "",
+        "box": {
+          "x": 14,
+          "y": 118,
+          "w": 95.109375,
+          "h": 72
+        },
+        "context": "About Us",
+        "contextKind": "li",
+        "html": "<a class=\"has-drop-down-a\" href=\"/about-us\" tabindex=\"0\">About Us <span class=\"inner-opener \" data-opener=\"\" role=\"button\" tabindex=\"0\" aria-label=\"inner opener\"></span></a>"
+      },
+      {
+        "target": "#nav > ul > li:nth-of-type(2) > a",
+        "text": "Our Schools",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/our-schools",
+        "imgAlt": "",
+        "box": {
+          "x": 123.109375,
+          "y": 118,
+          "w": 119.125,
+          "h": 72
+        },
+        "context": "Our Schools",
+        "contextKind": "li",
+        "html": "<a class=\"has-drop-down-a\" href=\"/our-schools\" tabindex=\"0\">Our Schools <span class=\"inner-opener \" data-opener=\"\" role=\"button\" tabindex=\"0\" aria-label=\"inner opener\"></span></a>"
+      },
+      {
+        "target": "#nav > ul > li:nth-of-type(3) > a",
+        "text": "Our Community",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/our-community",
+        "imgAlt": "",
+        "box": {
+          "x": 256.234375,
+          "y": 118,
+          "w": 144.890625,
+          "h": 72
+        },
+        "context": "Our Community",
+        "contextKind": "li",
+        "html": "<a class=\"has-drop-down-a\" href=\"/our-community\" tabindex=\"0\">Our Community <span class=\"inner-opener \" data-opener=\"\" role=\"button\" tabindex=\"0\" aria-label=\"inner opener\"></span></a>"
+      },
+      {
+        "target": "#nav > ul > li:nth-of-type(4) > a",
+        "text": "What We Offer",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/what-we-offer",
+        "imgAlt": "",
+        "box": {
+          "x": 415.125,
+          "y": 118,
+          "w": 133.9375,
+          "h": 72
+        },
+        "context": "What We Offer",
+        "contextKind": "li",
+        "html": "<a class=\"has-drop-down-a\" href=\"/what-we-offer\" tabindex=\"0\">What We Offer <span class=\"inner-opener \" data-opener=\"\" role=\"button\" tabindex=\"0\" aria-label=\"inner opener\"></span></a>"
+      },
+      {
+        "target": "#nav > ul > li:nth-of-type(5) > a",
+        "text": "Governance",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/governance",
+        "imgAlt": "",
+        "box": {
+          "x": 563.0625,
+          "y": 118,
+          "w": 116.484375,
+          "h": 72
+        },
+        "context": "Governance",
+        "contextKind": "li",
+        "html": "<a class=\"has-drop-down-a\" href=\"/governance\" tabindex=\"0\">Governance <span class=\"inner-opener \" data-opener=\"\" role=\"button\" tabindex=\"0\" aria-label=\"inner opener\"></span></a>"
+      },
+      {
+        "target": "#nav > ul > li:nth-of-type(6) > a",
+        "text": "Careers",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/careers",
+        "imgAlt": "",
+        "box": {
+          "x": 693.546875,
+          "y": 118,
+          "w": 83.609375,
+          "h": 72
+        },
+        "context": "Careers",
+        "contextKind": "li",
+        "html": "<a class=\"has-drop-down-a\" href=\"/careers\" tabindex=\"0\">Careers <span class=\"inner-opener \" data-opener=\"\" role=\"button\" tabindex=\"0\" aria-label=\"inner opener\"></span></a>"
+      },
+      {
+        "target": "#nav > ul > li:nth-of-type(7) > a",
+        "text": "Staff Resources",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/staff-resources",
+        "imgAlt": "",
+        "box": {
+          "x": 791.15625,
+          "y": 118,
+          "w": 145.828125,
+          "h": 72
+        },
+        "context": "Staff Resources",
+        "contextKind": "li",
+        "html": "<a class=\"has-drop-down-a\" href=\"/staff-resources\" tabindex=\"0\">Staff Resources <span class=\"inner-opener \" data-opener=\"\" role=\"button\" tabindex=\"0\" aria-label=\"inner opener\"></span></a>"
+      },
+      {
+        "target": "#nav > ul > li:nth-of-type(8) > a",
+        "text": "Health Info",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/health-info",
+        "imgAlt": "",
+        "box": {
+          "x": 950.984375,
+          "y": 118,
+          "w": 106.671875,
+          "h": 72
+        },
+        "context": "Health Info",
+        "contextKind": "li",
+        "html": "<a class=\"ontenav \" href=\"/health-info\" tabindex=\"0\">Health Info <span class=\"inner-opener \" data-opener=\"\" role=\"button\" tabindex=\"0\" aria-label=\"inner opener\"></span></a>"
+      },
+      {
+        "target": "#dropdown_03",
+        "text": "Search Opener",
+        "ariaLabel": "",
+        "title": "",
+        "href": "#",
+        "imgAlt": "",
+        "box": {
+          "x": 1314,
+          "y": 136.8359375,
+          "w": 24,
+          "h": 26.328125
+        },
+        "context": "About Us Our Schools Our Community What We Offer Governance Careers Staff Resources Health Info Search Opener",
+        "contextKind": "block",
+        "html": "<a class=\"search-opener dropdown-toggle\" href=\"#\" id=\"dropdown_03\" role=\"button\" data-toggle=\"dropdown\" data-display=\"static\" aria-haspopup=\"true\" aria-expanded=\"false\" accesskey=\"4\" tabindex=\"0\"> <span class=\"sr-only\">Search Opener</span> <svg> <use xlink:href=\"#search\"></use> </svg> </a>"
+      },
+      {
+        "target": "#main > section:nth-of-type(1) > div > div > a:nth-of-type(1)",
+        "text": "",
+        "ariaLabel": "Slick Previous",
+        "title": "",
+        "href": "#",
+        "imgAlt": "",
+        "box": {
+          "x": 413.3125,
+          "y": 447.40625,
+          "w": 60,
+          "h": 60
+        },
+        "context": "After-School Newcomer Family Event After-School Newcomer Family Event Read More Free Transit Pass information Free Transit Pass information Read More Fast Facts For Families Fast Facts For Families Read More 1 2 3",
+        "contextKind": "block",
+        "html": "<a href=\"#\" class=\"ci-slick-prev slick-arrow\" aria-label=\"Slick Previous\" style=\"\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 6 9.1\"><path class=\"st0\" d=\"M5 9.1c-.3 0-.6-.1-.7-.3L0 4.5 4.3.3c.4-.4 1-.4 1.4 0s.4 1 0 1.4L2.8 4.5l2.8 2.8c.4.4.4 1 0 1.4-.1.3-.4.4-.6.4z\"></path></svg></a>"
+      },
+      {
+        "target": "#slick-slide00 > div:nth-of-type(1) > picture > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/after-school-newcomer-family-event-.47104",
+        "imgAlt": "image description",
+        "box": {
+          "x": 497.375,
+          "y": 150,
+          "w": 848.625,
+          "h": 477.34375
+        },
+        "context": "After-School Newcomer Family Event After-School Newcomer Family Event Read More",
+        "contextKind": "block",
+        "html": "<a href=\"/after-school-newcomer-family-event-.47104\" tabindex=\"-1\"> <source data-srcset=\"https://media.pembinatrails.ca/media/Default/pgg/5/Spotlight_After-School-Newcome-Event%20(1).jpg\"> <img src=\"https://media.pembinatrails.ca/media/Default/pgg/5/Spotlight_After-School-Newcome-Event%20(1).jpg\" al"
+      },
+      {
+        "target": "#slick-slide00 > div:nth-of-type(2) > h1 > a",
+        "text": "After-School Newcomer Family Event",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/after-school-newcomer-family-event-.47104",
+        "imgAlt": "",
+        "box": {
+          "x": 70,
+          "y": 287.65625,
+          "w": 359.015625,
+          "h": 79.546875
+        },
+        "context": "heading: After-School Newcomer Family Event | After-School Newcomer Family Event After-School Newcomer Family Event Read More",
+        "contextKind": "block",
+        "html": "<a href=\"/after-school-newcomer-family-event-.47104\" tabindex=\"-1\">After-School Newcomer Family Event </a>"
+      },
+      {
+        "target": "#slick-slide00 > div:nth-of-type(2) > a",
+        "text": "After-School Newcomer Family Event Read More",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/after-school-newcomer-family-event-.47104",
+        "imgAlt": "",
+        "box": {
+          "x": 70,
+          "y": 446.609375,
+          "w": 140,
+          "h": 60.796875
+        },
+        "context": "heading: After-School Newcomer Family Event | After-School Newcomer Family Event After-School Newcomer Family Event Read More",
+        "contextKind": "block",
+        "html": "<a href=\"/after-school-newcomer-family-event-.47104\" class=\"btn btn-primary\" tabindex=\"-1\"><span class=\"seo-desc\">After-School Newcomer Family Event </span>Read More</a>"
+      },
+      {
+        "target": "#slick-slide01 > div:nth-of-type(1) > picture > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/free-transit-pass-information-.46994",
+        "imgAlt": "image description",
+        "box": {
+          "x": 497.375,
+          "y": 150,
+          "w": 848.625,
+          "h": 477.40625
+        },
+        "context": "heading: After-School Newcomer Family Event | Free Transit Pass information Free Transit Pass information Read More",
+        "contextKind": "block",
+        "html": "<a href=\"/free-transit-pass-information-.46994\" tabindex=\"-1\"> <source data-srcset=\"https://media.pembinatrails.ca/media/Default/pgg/5/Free-Transit-Pass-Information.jpg\"> <img src=\"https://media.pembinatrails.ca/media/Default/pgg/5/Free-Transit-Pass-Information.jpg\" alt=\"image description\" width=\"79"
+      },
+      {
+        "target": "#slick-slide01 > div:nth-of-type(2) > h1 > a",
+        "text": "Free Transit Pass information",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/free-transit-pass-information-.46994",
+        "imgAlt": "",
+        "box": {
+          "x": 70,
+          "y": 287.65625,
+          "w": 266.421875,
+          "h": 79.546875
+        },
+        "context": "heading: Free Transit Pass information | Free Transit Pass information Free Transit Pass information Read More",
+        "contextKind": "block",
+        "html": "<a href=\"/free-transit-pass-information-.46994\" tabindex=\"-1\">Free Transit Pass information </a>"
+      },
+      {
+        "target": "#slick-slide01 > div:nth-of-type(2) > a",
+        "text": "Free Transit Pass information Read More",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/free-transit-pass-information-.46994",
+        "imgAlt": "",
+        "box": {
+          "x": 70,
+          "y": 446.609375,
+          "w": 140,
+          "h": 60.796875
+        },
+        "context": "heading: Free Transit Pass information | Free Transit Pass information Free Transit Pass information Read More",
+        "contextKind": "block",
+        "html": "<a href=\"/free-transit-pass-information-.46994\" class=\"btn btn-primary\" tabindex=\"-1\"><span class=\"seo-desc\">Free Transit Pass information </span>Read More</a>"
+      },
+      {
+        "target": "#slick-slide02 > div:nth-of-type(1) > picture > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/fast-facts-for-families",
+        "imgAlt": "image description",
+        "box": {
+          "x": 497.375,
+          "y": 150,
+          "w": 848.625,
+          "h": 477.34375
+        },
+        "context": "heading: Free Transit Pass information | Fast Facts For Families Fast Facts For Families Read More",
+        "contextKind": "block",
+        "html": "<a href=\"/fast-facts-for-families\" tabindex=\"0\"> <source data-srcset=\"https://media.pembinatrails.ca/media/Default/pgg/5/Fast-Facts-for-Families_Spotlight.jpg\"> <img src=\"https://media.pembinatrails.ca/media/Default/pgg/5/Fast-Facts-for-Families_Spotlight.jpg\" alt=\"image description\" width=\"791\" hei"
+      },
+      {
+        "target": "#slick-slide02 > div:nth-of-type(2) > h1 > a",
+        "text": "Fast Facts For Families",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/fast-facts-for-families",
+        "imgAlt": "",
+        "box": {
+          "x": 70,
+          "y": 308.421875,
+          "w": 355.171875,
+          "h": 38
+        },
+        "context": "heading: Fast Facts For Families | Fast Facts For Families Fast Facts For Families Read More",
+        "contextKind": "block",
+        "html": "<a href=\"/fast-facts-for-families\" tabindex=\"0\">Fast Facts For Families</a>"
+      },
+      {
+        "target": "#slick-slide02 > div:nth-of-type(2) > a",
+        "text": "Fast Facts For Families Read More",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/fast-facts-for-families",
+        "imgAlt": "",
+        "box": {
+          "x": 70,
+          "y": 446.609375,
+          "w": 140,
+          "h": 60.796875
+        },
+        "context": "heading: Fast Facts For Families | Fast Facts For Families Fast Facts For Families Read More",
+        "contextKind": "block",
+        "html": "<a href=\"/fast-facts-for-families\" class=\"btn btn-primary\" tabindex=\"0\"><span class=\"seo-desc\">Fast Facts For Families</span>Read More</a>"
+      },
+      {
+        "target": "#main > section:nth-of-type(1) > div > div > a:nth-of-type(2)",
+        "text": "",
+        "ariaLabel": "Slick Next",
+        "title": "",
+        "href": "#",
+        "imgAlt": "",
+        "box": {
+          "x": 483.3125,
+          "y": 447.40625,
+          "w": 60,
+          "h": 60
+        },
+        "context": "heading: Fast Facts For Families | After-School Newcomer Family Event After-School Newcomer Family Event Read More Free Transit Pass information Free Transit Pass information Read More Fast Facts For Families Fast Facts For Families Read More 1 2 3",
+        "contextKind": "block",
+        "html": "<a href=\"#\" class=\"ci-slick-next slick-arrow\" aria-label=\"Slick Next\" style=\"\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 6 9.1\"><path d=\"M5 .9c.3 0 .5.1.7.3.4.4.4 1 0 1.4L2.9 5.5l2.8 2.8c.4.4.4 1 0 1.4-.4.4-1 .4-1.4 0L0 5.5l4.3-4.2c.2-.3.4-.4.7-.4z\" transform=\"rotate(-180 3 5)\"></path></s"
+      },
+      {
+        "target": "div > div > div > div:nth-of-type(1) > a",
+        "text": "Edsby",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://pembinatrails.edsby.com/",
+        "imgAlt": "image description",
+        "box": {
+          "x": 136.5,
+          "y": 576.40625,
+          "w": 131,
+          "h": 177.796875
+        },
+        "context": "heading: Fast Facts For Families | Edsby Division Calendar School Locator Transportation Public Concerns and Complaints",
+        "contextKind": "block",
+        "html": "<a target=\"&quot;_blank&quot;\" href=\"https://pembinatrails.edsby.com/\" tabindex=\"0\"> <div class=\"ci-icon d-flex flex-wrap align-items-center justify-content-center\"> <img src=\"https://media.pembinatrails.ca/media/Default/fgg/5/edsby.png\" height=\"56\" width=\"56\" alt=\"image description\"> </div> <span c"
+      },
+      {
+        "target": "div > div > div > div:nth-of-type(2) > a",
+        "text": "Division Calendar",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.pembinatrails.ca/page/15151/calendar",
+        "imgAlt": "image description",
+        "box": {
+          "x": 357.5,
+          "y": 576.40625,
+          "w": 131,
+          "h": 177.796875
+        },
+        "context": "heading: Fast Facts For Families | Edsby Division Calendar School Locator Transportation Public Concerns and Complaints",
+        "contextKind": "block",
+        "html": "<a target=\"&quot;_blank&quot;\" href=\"https://www.pembinatrails.ca/page/15151/calendar\" tabindex=\"0\"> <div class=\"ci-icon d-flex flex-wrap align-items-center justify-content-center\"> <img src=\"https://media.pembinatrails.ca/media/Default/fgg/5/Division-Calendar.png\" height=\"56\" width=\"56\" alt=\"image "
+      },
+      {
+        "target": "div > div > div > div:nth-of-type(3) > a",
+        "text": "School Locator",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.pembinatrails.ca/page/785/school-locator",
+        "imgAlt": "image description",
+        "box": {
+          "x": 578.5,
+          "y": 576.40625,
+          "w": 131,
+          "h": 177.796875
+        },
+        "context": "heading: Fast Facts For Families | Edsby Division Calendar School Locator Transportation Public Concerns and Complaints",
+        "contextKind": "block",
+        "html": "<a target=\"&quot;_blank&quot;\" href=\"https://www.pembinatrails.ca/page/785/school-locator\" tabindex=\"0\"> <div class=\"ci-icon d-flex flex-wrap align-items-center justify-content-center\"> <img src=\"https://media.pembinatrails.ca/media/Default/fgg/5/School-locator.png\" height=\"56\" width=\"56\" alt=\"image"
+      },
+      {
+        "target": "div > div > div > div:nth-of-type(4) > a",
+        "text": "Transportation",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.pembinatrails.ca/page/556/transportation",
+        "imgAlt": "image description",
+        "box": {
+          "x": 799.5,
+          "y": 576.40625,
+          "w": 131,
+          "h": 177.796875
+        },
+        "context": "heading: Fast Facts For Families | Edsby Division Calendar School Locator Transportation Public Concerns and Complaints",
+        "contextKind": "block",
+        "html": "<a target=\"&quot;_blank&quot;\" href=\"https://www.pembinatrails.ca/page/556/transportation\" tabindex=\"0\"> <div class=\"ci-icon d-flex flex-wrap align-items-center justify-content-center\"> <img src=\"https://media.pembinatrails.ca/media/Default/fgg/5/Transportation.png\" height=\"56\" width=\"56\" alt=\"image"
+      },
+      {
+        "target": "div > div > div > div:nth-of-type(5) > a",
+        "text": "Public Concerns and Complaints",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://media.pembinatrails.ca/media/Default/medialib/concern-protocol-infographic.47982f44197.pdf",
+        "imgAlt": "image description",
+        "box": {
+          "x": 1020.5,
+          "y": 576.40625,
+          "w": 131,
+          "h": 194.59375
+        },
+        "context": "heading: Fast Facts For Families | Edsby Division Calendar School Locator Transportation Public Concerns and Complaints",
+        "contextKind": "block",
+        "html": "<a target=\"&quot;_blank&quot;\" href=\"https://media.pembinatrails.ca/media/Default/medialib/concern-protocol-infographic.47982f44197.pdf\" tabindex=\"0\"> <div class=\"ci-icon d-flex flex-wrap align-items-center justify-content-center\"> <img src=\"https://media.pembinatrails.ca/media/Default/fgg/5/People2"
+      },
+      {
+        "target": "div:nth-of-type(1) > div:nth-of-type(1) > div > div:nth-of-type(1) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/standard-of-behaviour-brochure.43276",
+        "imgAlt": "image description",
+        "box": {
+          "x": 20,
+          "y": 828,
+          "w": 410,
+          "h": 20
+        },
+        "context": "heading: Fast Facts For Families | Standard of Behaviour Brochure How to turn on notifications and see messages on your MyRide K-12 app - iPhone and Android users Public Concerns and Complaint Protocol",
+        "contextKind": "block",
+        "html": "<a href=\"/standard-of-behaviour-brochure.43276\"> <picture> <source data-srcset=\"https://media.pembinatrails.ca/media/Default/pgg/5/SoB-Website-Spotlight.jpg\" srcset=\"https://media.pembinatrails.ca/media/Default/pgg/5/SoB-Website-Spotlight.jpg\"> <img class=\" lazyloaded\" data-expand=\"250\" width=\"380.6"
+      },
+      {
+        "target": "div:nth-of-type(1) > div > div:nth-of-type(2) > h2 > a",
+        "text": "Standard of Behaviour Brochure",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/standard-of-behaviour-brochure.43276",
+        "imgAlt": "",
+        "box": {
+          "x": 20,
+          "y": 1072.5,
+          "w": 314.3125,
+          "h": 25
+        },
+        "context": "heading: Standard of Behaviour Brochure | Standard of Behaviour Brochure How to turn on notifications and see messages on your MyRide K-12 app - iPhone and Android users Public Concerns and Complaint Protocol",
+        "contextKind": "block",
+        "html": "<a href=\"/standard-of-behaviour-brochure.43276\">Standard of Behaviour Brochure</a>"
+      },
+      {
+        "target": "div:nth-of-type(1) > div:nth-of-type(2) > div > div:nth-of-type(1) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/how-to-turn-on-notifications-and-see-messages-on-your-myride-k-12-app-iphone-and-android-users.42933",
+        "imgAlt": "image description",
+        "box": {
+          "x": 478,
+          "y": 828,
+          "w": 410,
+          "h": 20
+        },
+        "context": "heading: Standard of Behaviour Brochure | How to turn on notifications and see messages on your MyRide K-12 app - iPhone and Android users",
+        "contextKind": "block",
+        "html": "<a href=\"/how-to-turn-on-notifications-and-see-messages-on-your-myride-k-12-app-iphone-and-android-users.42933\"> <picture> <source data-srcset=\"https://media.pembinatrails.ca/media/Default/pgg/5/SPOTLIGHT_My-Ride.jpg\" srcset=\"https://media.pembinatrails.ca/media/Default/pgg/5/SPOTLIGHT_My-Ride.jpg\">"
+      },
+      {
+        "target": "div:nth-of-type(2) > div > div:nth-of-type(2) > h2 > a",
+        "text": "How to turn on notifications and see messages on your MyRide K-12 app - iPhone and Android users",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/how-to-turn-on-notifications-and-see-messages-on-your-myride-k-12-app-iphone-and-android-users.42933",
+        "imgAlt": "",
+        "box": {
+          "x": 478,
+          "y": 1072.4375,
+          "w": 349.765625,
+          "h": 80
+        },
+        "context": "heading: How to turn on notifications and see messages on your MyRide K-12 app - iPhone and Android users | How to turn on notifications and see messages on your MyRide K-12 app - iPhone and Android users",
+        "contextKind": "block",
+        "html": "<a href=\"/how-to-turn-on-notifications-and-see-messages-on-your-myride-k-12-app-iphone-and-android-users.42933\">How to turn on notifications and see messages on your MyRide K-12 app - iPhone and Android users</a>"
+      },
+      {
+        "target": "div:nth-of-type(1) > div:nth-of-type(3) > div > div:nth-of-type(1) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/public-concerns-and-complaint-protocol.44214",
+        "imgAlt": "image description",
+        "box": {
+          "x": 936,
+          "y": 828,
+          "w": 410,
+          "h": 20
+        },
+        "context": "heading: How to turn on notifications and see messages on your MyRide K-12 app - iPhone and Android users | Standard of Behaviour Brochure How to turn on notifications and see messages on your MyRide K-12 app - iPhone and Android users Public Concerns and Comp",
+        "contextKind": "block",
+        "html": "<a href=\"/public-concerns-and-complaint-protocol.44214\"> <picture> <source data-srcset=\"https://media.pembinatrails.ca/media/Default/pgg/5/Concern-Protocol_Spotlight.jpg\" srcset=\"https://media.pembinatrails.ca/media/Default/pgg/5/Concern-Protocol_Spotlight.jpg\"> <img class=\" lazyloaded\" data-expand="
+      },
+      {
+        "target": "div:nth-of-type(3) > div > div:nth-of-type(2) > h2 > a",
+        "text": "Public Concerns and Complaint Protocol",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/public-concerns-and-complaint-protocol.44214",
+        "imgAlt": "",
+        "box": {
+          "x": 936,
+          "y": 1072.234375,
+          "w": 308.171875,
+          "h": 52.5
+        },
+        "context": "heading: Public Concerns and Complaint Protocol | Standard of Behaviour Brochure How to turn on notifications and see messages on your MyRide K-12 app - iPhone and Android users Public Concerns and Complaint Protocol",
+        "contextKind": "block",
+        "html": "<a href=\"/public-concerns-and-complaint-protocol.44214\">Public Concerns and Complaint Protocol</a>"
+      },
+      {
+        "target": "#main > section:nth-of-type(3) > div > div:nth-of-type(2) > a",
+        "text": "View All Pembina Trails News",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/newsfeed",
+        "imgAlt": "",
+        "box": {
+          "x": 493,
+          "y": 1197.9375,
+          "w": 380,
+          "h": 60.796875
+        },
+        "context": "heading: Public Concerns and Complaint Protocol | Standard of Behaviour Brochure How to turn on notifications and see messages on your MyRide K-12 app - iPhone and Android users Public Concerns and Complaint Protocol View All Pembina Trails News",
+        "contextKind": "block",
+        "html": "<a href=\"/newsfeed\" class=\"btn btn-primary\"><span>View All Pembina Trails News</span></a>"
+      },
+      {
+        "target": "section:nth-of-type(4) > div > ul > li:nth-of-type(1) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://pembinatrails.edsby.com/",
+        "imgAlt": "",
+        "box": {
+          "x": 538,
+          "y": 1334.125,
+          "w": 24,
+          "h": 26
+        },
+        "context": "",
+        "contextKind": "li",
+        "html": "<a href=\"https://pembinatrails.edsby.com/\" target=\"_blank\"> <svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" id=\"Layer_1\" x=\"0px\" y=\"0px\" width=\"24px\" height=\"20px\" viewBox=\"0 0 245 206\" enable-background=\"new 0 0 245 206\" xml:space=\"preserve\"> <image "
+      },
+      {
+        "target": "section:nth-of-type(4) > div > ul > li:nth-of-type(2) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.facebook.com/pembinatrails",
+        "imgAlt": "facebook",
+        "box": {
+          "x": 591,
+          "y": 1335.125,
+          "w": 24,
+          "h": 24
+        },
+        "context": "",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.facebook.com/pembinatrails\" target=\"_blank\"> <img src=\"https://sb45storage.blob.core.windows.net/pub/themes/Ptsd/images/facebook.svg\" style=\"width: 24px ; height: 24px ;\" alt=\"facebook\"> </a>"
+      },
+      {
+        "target": "section:nth-of-type(4) > div > ul > li:nth-of-type(3) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.instagram.com/pembinatrailsschooldivision",
+        "imgAlt": "instagram",
+        "box": {
+          "x": 644,
+          "y": 1335.125,
+          "w": 24,
+          "h": 24
+        },
+        "context": "",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.instagram.com/pembinatrailsschooldivision\" target=\"_blank\"> <img src=\"https://sb45storage.blob.core.windows.net/pub/themes/Ptsd/images/instagram.svg\" style=\"width: 24px ; height: 24px ;\" alt=\"instagram\"> </a>"
+      },
+      {
+        "target": "section:nth-of-type(4) > div > ul > li:nth-of-type(4) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.youtube.com/user/PembinaTrails",
+        "imgAlt": "youtube",
+        "box": {
+          "x": 697,
+          "y": 1335.125,
+          "w": 24,
+          "h": 24
+        },
+        "context": "",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.youtube.com/user/PembinaTrails\" target=\"_blank\"> <img src=\"https://sb45storage.blob.core.windows.net/pub/themes/Ptsd/images/youtube.svg\" style=\"width: 24px ; height: 24px ;\" alt=\"youtube\"> </a>"
+      },
+      {
+        "target": "section:nth-of-type(4) > div > ul > li:nth-of-type(5) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.linkedin.com/company/9310277",
+        "imgAlt": "linkedin",
+        "box": {
+          "x": 750,
+          "y": 1335.125,
+          "w": 24,
+          "h": 24
+        },
+        "context": "",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.linkedin.com/company/9310277\" target=\"_blank\"> <img src=\"https://sb45storage.blob.core.windows.net/pub/themes/Ptsd/images/linkedin.svg\" style=\"width: 24px ; height: 24px ;\" alt=\"linkedin\"> </a>"
+      },
+      {
+        "target": "section:nth-of-type(4) > div > ul > li:nth-of-type(6) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://bsky.app/profile/pembinatrailssd.bsky.social",
+        "imgAlt": "bluesky",
+        "box": {
+          "x": 803,
+          "y": 1335.125,
+          "w": 24,
+          "h": 24
+        },
+        "context": "",
+        "contextKind": "li",
+        "html": "<a href=\"https://bsky.app/profile/pembinatrailssd.bsky.social\" target=\"_blank\"> <img src=\"https://sb45storage.blob.core.windows.net/pub/themes/Ptsd/images/bluesky.svg\" style=\"width: 24px ; height: 24px ;\" alt=\"bluesky\"> </a>"
+      },
+      {
+        "target": "div:nth-of-type(1) > div > div:nth-of-type(1) > div:nth-of-type(1) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/",
+        "imgAlt": "Pembina Trails School Division Accomplish Anything Pembina Trails School Division Accomplish Anything",
+        "box": {
+          "x": 18,
+          "y": 1472.125,
+          "w": 228,
+          "h": 20
+        },
+        "context": "heading: Follow Us on Social Media | Get in touch with us 181 Henlow Bay Winnipeg, MB R3Y 1M7 View Map For Directions Phone: 204-488-1757 Email: info@pembinatrails.ca",
+        "contextKind": "block",
+        "html": "<a href=\"/\"> <img src=\"https://sb45storage.blob.core.windows.net/pub/themes/Ptsd/images/f-logo.svg\" class=\"screen-only\" width=\"228\" height=\"68\" alt=\"Pembina Trails School Division Accomplish Anything\"> <img src=\"https://sb45storage.blob.core.windows.net/pub/themes/Ptsd/images/f-logo-dark.svg\" class="
+      },
+      {
+        "target": "div:nth-of-type(1) > div > div:nth-of-type(1) > div:nth-of-type(2) > a",
+        "text": "View Map For Directions",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.google.ca/maps/place/Pembina+Trails+School+Division/@49.815226,-97.190803,12z/data=!4m5!3m4!1s0x52ea7455eae94799:0x677c24736a885569!8m2!3d49.8152271!4d-97.1910515",
+        "imgAlt": "",
+        "box": {
+          "x": 70,
+          "y": 1639.375,
+          "w": 152.25,
+          "h": 16
+        },
+        "context": "heading: Follow Us on Social Media | Get in touch with us 181 Henlow Bay Winnipeg, MB R3Y 1M7 View Map For Directions Phone: 204-488-1757 Email: info@pembinatrails.ca",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.google.ca/maps/place/Pembina+Trails+School+Division/@49.815226,-97.190803,12z/data=!4m5!3m4!1s0x52ea7455eae94799:0x677c24736a885569!8m2!3d49.8152271!4d-97.1910515\" class=\"link d-print-none\" target=\"_blank\">View Map For Directions</a>"
+      },
+      {
+        "target": "div:nth-of-type(1) > div:nth-of-type(2) > ul > li:nth-of-type(1) > a",
+        "text": "204-488-1757",
+        "ariaLabel": "",
+        "title": "",
+        "href": "tel:2044881757",
+        "imgAlt": "",
+        "box": {
+          "x": 139,
+          "y": 1675.375,
+          "w": 87.1875,
+          "h": 16.796875
+        },
+        "context": "Phone: 204-488-1757",
+        "contextKind": "li",
+        "html": "<a href=\"tel:2044881757\" class=\"tel\">204-488-1757</a>"
+      },
+      {
+        "target": "div:nth-of-type(1) > div:nth-of-type(2) > ul > li:nth-of-type(2) > a",
+        "text": "info@pembinatrails.ca",
+        "ariaLabel": "",
+        "title": "",
+        "href": "mailto:info@pembinatrails.ca",
+        "imgAlt": "",
+        "box": {
+          "x": 139,
+          "y": 1702.171875,
+          "w": 138.734375,
+          "h": 16.796875
+        },
+        "context": "Email: info@pembinatrails.ca",
+        "contextKind": "li",
+        "html": "<a href=\"mailto:info@pembinatrails.ca\">info@pembinatrails.ca</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div:nth-of-type(2) > ul > li:nth-of-type(1) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://pembinatrails.edsby.com/",
+        "imgAlt": "",
+        "box": {
+          "x": 929.65625,
+          "y": 1709.375,
+          "w": 24,
+          "h": 26
+        },
+        "context": "",
+        "contextKind": "li",
+        "html": "<a href=\"https://pembinatrails.edsby.com/\" target=\"_blank\"> <svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" id=\"Layer_1\" x=\"0px\" y=\"0px\" width=\"24px\" height=\"20px\" viewBox=\"0 0 245 206\" enable-background=\"new 0 0 245 206\" xml:space=\"preserve\"> <image "
+      },
+      {
+        "target": "div:nth-of-type(2) > div:nth-of-type(2) > ul > li:nth-of-type(2) > a",
+        "text": "",
+        "ariaLabel": "facebook",
+        "title": "",
+        "href": "https://www.facebook.com/pembinatrails",
+        "imgAlt": "facebook",
+        "box": {
+          "x": 982.65625,
+          "y": 1710.375,
+          "w": 24,
+          "h": 24
+        },
+        "context": "",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.facebook.com/pembinatrails\" target=\"_blank\" aria-label=\"facebook\"> <img src=\"https://sb45storage.blob.core.windows.net/pub/themes/Ptsd/images/facebook.svg\" width=\"24\" height=\"24\" style=\"width: 24px ; height: 24px ;\" alt=\"facebook\"> </a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div:nth-of-type(2) > ul > li:nth-of-type(3) > a",
+        "text": "",
+        "ariaLabel": "instagram",
+        "title": "",
+        "href": "https://www.instagram.com/pembinatrailsschooldivision",
+        "imgAlt": "instagram",
+        "box": {
+          "x": 1035.65625,
+          "y": 1710.375,
+          "w": 24,
+          "h": 24
+        },
+        "context": "",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.instagram.com/pembinatrailsschooldivision\" target=\"_blank\" aria-label=\"instagram\"> <img src=\"https://sb45storage.blob.core.windows.net/pub/themes/Ptsd/images/instagram.svg\" width=\"24\" height=\"24\" style=\"width: 24px ; height: 24px ;\" alt=\"instagram\"> </a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div:nth-of-type(2) > ul > li:nth-of-type(4) > a",
+        "text": "",
+        "ariaLabel": "youtube",
+        "title": "",
+        "href": "https://www.youtube.com/user/PembinaTrails",
+        "imgAlt": "youtube",
+        "box": {
+          "x": 1088.65625,
+          "y": 1710.375,
+          "w": 24,
+          "h": 24
+        },
+        "context": "",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.youtube.com/user/PembinaTrails\" target=\"_blank\" aria-label=\"youtube\"> <img src=\"https://sb45storage.blob.core.windows.net/pub/themes/Ptsd/images/youtube.svg\" width=\"24\" height=\"24\" style=\"width: 24px ; height: 24px ;\" alt=\"youtube\"> </a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div:nth-of-type(2) > ul > li:nth-of-type(5) > a",
+        "text": "",
+        "ariaLabel": "linkedin",
+        "title": "",
+        "href": "https://www.linkedin.com/company/9310277",
+        "imgAlt": "linkedin",
+        "box": {
+          "x": 1141.65625,
+          "y": 1710.375,
+          "w": 24,
+          "h": 24
+        },
+        "context": "",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.linkedin.com/company/9310277\" target=\"_blank\" aria-label=\"linkedin\"> <img src=\"https://sb45storage.blob.core.windows.net/pub/themes/Ptsd/images/linkedin.svg\" width=\"24\" height=\"24\" style=\"width: 24px ; height: 24px ;\" alt=\"linkedin\"> </a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div:nth-of-type(2) > ul > li:nth-of-type(6) > a",
+        "text": "",
+        "ariaLabel": "bluesky",
+        "title": "",
+        "href": "https://bsky.app/profile/pembinatrailssd.bsky.social",
+        "imgAlt": "bluesky",
+        "box": {
+          "x": 1194.65625,
+          "y": 1710.375,
+          "w": 24,
+          "h": 24
+        },
+        "context": "",
+        "contextKind": "li",
+        "html": "<a href=\"https://bsky.app/profile/pembinatrailssd.bsky.social\" target=\"_blank\" aria-label=\"bluesky\"> <img src=\"https://sb45storage.blob.core.windows.net/pub/themes/Ptsd/images/bluesky.svg\" width=\"24\" height=\"24\" style=\"width: 24px ; height: 24px ;\" alt=\"bluesky\"> </a>"
+      },
+      {
+        "target": "div > div:nth-of-type(1) > ul > li:nth-of-type(1) > a",
+        "text": "Privacy Policy",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/privacy-policy",
+        "imgAlt": "",
+        "box": {
+          "x": 320.296875,
+          "y": 1792.375,
+          "w": 74.6875,
+          "h": 14
+        },
+        "context": "Privacy Policy",
+        "contextKind": "li",
+        "html": "<a href=\"/privacy-policy\">Privacy Policy</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(1) > ul > li:nth-of-type(2) > a",
+        "text": "Site Map",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/sitemap",
+        "imgAlt": "",
+        "box": {
+          "x": 427.984375,
+          "y": 1792.375,
+          "w": 47.359375,
+          "h": 14
+        },
+        "context": "Site Map",
+        "contextKind": "li",
+        "html": "<a href=\"/sitemap\" target=\"_self\">Site Map</a>"
+      },
+      {
+        "target": "#footer > div:nth-of-type(2) > div > div:nth-of-type(2) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "http://www.schoolbundle.ca/",
+        "imgAlt": "SchoolBundle",
+        "box": {
+          "x": 1235,
+          "y": 1792.375,
+          "w": 113,
+          "h": 14
+        },
+        "context": "heading: Follow Us on Social Media | © Pembina Trails School Division. All rights reserved. Privacy Policy Site Map",
+        "contextKind": "block",
+        "html": "<a href=\"http://www.schoolbundle.ca/\" target=\"_blank\"> <img src=\"https://sb45storage.blob.core.windows.net/pub/themes/Ptsd/images/logo-sb.svg\" width=\"113\" height=\"15\" alt=\"SchoolBundle\"> </a>"
+      },
+      {
+        "target": "html > body > a:nth-of-type(3)",
+        "text": "Back to top",
+        "ariaLabel": "",
+        "title": "",
+        "href": "#wrapper",
+        "imgAlt": "",
+        "box": {
+          "x": -1,
+          "y": 1838.765625,
+          "w": 1,
+          "h": 1
+        },
+        "context": "heading: Follow Us on Social Media",
+        "contextKind": "heading-only",
+        "html": "<a class=\"sr-only sr-only-focusable\" href=\"#wrapper\" accesskey=\"t\">Back to top</a>"
+      }
+    ],
+    "headings": [
+      {
+        "target": "#slick-slide00 > div:nth-of-type(2) > h1",
+        "level": 1,
+        "text": "After-School Newcomer Family Event",
+        "visible": true,
+        "box": {
+          "x": 70,
+          "y": 286.65625,
+          "w": 384,
+          "h": 83.09375
+        },
+        "html": "<h1><a href=\"/after-school-newcomer-family-event-.47104\" tabindex=\"-1\">After-School Newcomer Family Event </a></h1>"
+      },
+      {
+        "target": "#slick-slide01 > div:nth-of-type(2) > h1",
+        "level": 1,
+        "text": "Free Transit Pass information",
+        "visible": true,
+        "box": {
+          "x": 70,
+          "y": 286.65625,
+          "w": 384,
+          "h": 83.09375
+        },
+        "html": "<h1><a href=\"/free-transit-pass-information-.46994\" tabindex=\"-1\">Free Transit Pass information </a></h1>"
+      },
+      {
+        "target": "#slick-slide02 > div:nth-of-type(2) > h1",
+        "level": 1,
+        "text": "Fast Facts For Families",
+        "visible": true,
+        "box": {
+          "x": 70,
+          "y": 307.421875,
+          "w": 384,
+          "h": 41.546875
+        },
+        "html": "<h1><a href=\"/fast-facts-for-families\" tabindex=\"0\">Fast Facts For Families</a></h1>"
+      },
+      {
+        "target": "div:nth-of-type(1) > div:nth-of-type(1) > div > div:nth-of-type(2) > h2",
+        "level": 2,
+        "text": "Standard of Behaviour Brochure",
+        "visible": true,
+        "box": {
+          "x": 20,
+          "y": 1071.5,
+          "w": 352.609375,
+          "h": 27.5
+        },
+        "html": "<h2><a href=\"/standard-of-behaviour-brochure.43276\">Standard of Behaviour Brochure</a></h2>"
+      },
+      {
+        "target": "div:nth-of-type(1) > div:nth-of-type(2) > div > div:nth-of-type(2) > h2",
+        "level": 2,
+        "text": "How to turn on notifications and see messages on your MyRide K-12 app - iPhone and Android users",
+        "visible": true,
+        "box": {
+          "x": 478,
+          "y": 1071.4375,
+          "w": 352.609375,
+          "h": 82.5
+        },
+        "html": "<h2><a href=\"/how-to-turn-on-notifications-and-see-messages-on-your-myride-k-12-app-iphone-and-android-users.42933\">How to turn on notifications and see messages on your MyRide K-12 app - iPhone and Android users</a></h2>"
+      },
+      {
+        "target": "div:nth-of-type(1) > div:nth-of-type(3) > div > div:nth-of-type(2) > h2",
+        "level": 2,
+        "text": "Public Concerns and Complaint Protocol",
+        "visible": true,
+        "box": {
+          "x": 936,
+          "y": 1071.234375,
+          "w": 352.609375,
+          "h": 55
+        },
+        "html": "<h2><a href=\"/public-concerns-and-complaint-protocol.44214\">Public Concerns and Complaint Protocol</a></h2>"
+      },
+      {
+        "target": "#main > section:nth-of-type(4) > div > h2",
+        "level": 2,
+        "text": "Follow Us on Social Media",
+        "visible": true,
+        "box": {
+          "x": 20,
+          "y": 1277.734375,
+          "w": 1326,
+          "h": 38.390625
+        },
+        "html": "<h2>Follow Us on Social Media</h2>"
+      }
+    ],
+    "lang": "en",
+    "title": "Pembina Trails School Division"
+  },
   "axe": {
     "violationRules": 1,
     "violationNodes": 4,

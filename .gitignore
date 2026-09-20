@@ -10,3 +10,5 @@ propose.log
 exports/
 measure.log
 review-server.log
+checks.log
+propose.log

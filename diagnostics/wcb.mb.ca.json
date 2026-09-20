@@ -19,7 +19,1286 @@
     "width": 1366,
     "height": 900
   },
-  "scannedAt": "2026-09-19T06:23:55.288Z",
+  "scannedAt": "2026-09-19T23:56:11.085Z",
+  "content": {
+    "images": [
+      {
+        "target": "div > div > div:nth-of-type(1) > a:nth-of-type(1) > img",
+        "tag": "img",
+        "src": "https://www.wcb.mb.ca/wp-content/themes/site-theme/images/logo-black.svg?x29410",
+        "alt": "WCB logo",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 300,
+        "naturalHeight": 107,
+        "box": {
+          "x": 139,
+          "y": 20,
+          "w": 117,
+          "h": 41.796875
+        },
+        "inLink": true,
+        "linkText": "Go to WCB homepage",
+        "linkHref": "https://www.wcb.mb.ca",
+        "caption": "",
+        "nearText": "",
+        "html": "<img class=\"lazy entered loaded\" src=\"/wp-content/themes/site-theme/images/logo-black.svg?x29410\" data-src=\"/wp-content/themes/site-theme/images/logo-black.svg?x29410\" alt=\"WCB logo\" width=\"117\" height=\"42\" data-ll-status=\"loaded\">"
+      },
+      {
+        "target": "div > div > div:nth-of-type(1) > a:nth-of-type(2) > img",
+        "tag": "img",
+        "src": "https://www.wcb.mb.ca/wp-content/themes/site-theme/images/safework-logo-black.svg?x29410",
+        "alt": "SAFE Work logo",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 300,
+        "naturalHeight": 127,
+        "box": {
+          "x": 296,
+          "y": 27.046875,
+          "w": 82,
+          "h": 34.75
+        },
+        "inLink": true,
+        "linkText": "Go to SAFE Work homepage",
+        "linkHref": "/safeworkmanitoba/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img class=\"lazy entered loaded\" src=\"/wp-content/themes/site-theme/images/safework-logo-black.svg?x29410\" data-src=\"/wp-content/themes/site-theme/images/safework-logo-black.svg?x29410\" alt=\"SAFE Work logo\" width=\"82\" height=\"35\" data-ll-status=\"loaded\">"
+      },
+      {
+        "target": "div:nth-of-type(3) > div > div > div:nth-of-type(1) > img",
+        "tag": "img",
+        "src": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20522%20294%22%3E%3C%2Fsvg%3E",
+        "alt": "Workplace injury and illness prevention",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 266,
+        "naturalHeight": 150,
+        "box": {
+          "x": 140,
+          "y": 1387.765625,
+          "w": 252,
+          "h": 141.5625
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "Workplace injury and illness prevention Learn more",
+        "html": "<img fetchpriority=\"high\" decoding=\"async\" width=\"522\" height=\"294\" src=\"data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20522%20294%22%3E%3C%2Fsvg%3E\" data-src=\"https://www.wcb.mb.ca/uploads/2025/04/HomePage1.jpg?x29410\" class=\"c-imageBoxList__itemImage lazy\" alt=\"Workplace injury and illness prevention\" data-srcset=\"https://www.wcb.mb.ca/upload"
+      },
+      {
+        "target": "div:nth-of-type(3) > div > div > div:nth-of-type(2) > img",
+        "tag": "img",
+        "src": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20522%20294%22%3E%3C%2Fsvg%3E",
+        "alt": "Safety rights and responsibilities",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 266,
+        "naturalHeight": 150,
+        "box": {
+          "x": 418,
+          "y": 1387.765625,
+          "w": 252,
+          "h": 141.5625
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "Safety rights and responsibilities Learn more",
+        "html": "<img decoding=\"async\" width=\"522\" height=\"294\" src=\"data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20522%20294%22%3E%3C%2Fsvg%3E\" data-src=\"https://www.wcb.mb.ca/uploads/2025/04/HomePage2.jpg?x29410\" class=\"c-imageBoxList__itemImage lazy\" alt=\"Safety rights and responsibilities\" data-srcset=\"https://www.wcb.mb.ca/uploads/2025/04/HomePage2.jpg 52"
+      },
+      {
+        "target": "div:nth-of-type(3) > div > div > div:nth-of-type(3) > img",
+        "tag": "img",
+        "src": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20522%20294%22%3E%3C%2Fsvg%3E",
+        "alt": "Hazards and exposure information",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 266,
+        "naturalHeight": 150,
+        "box": {
+          "x": 696,
+          "y": 1387.765625,
+          "w": 252,
+          "h": 141.5625
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "Hazards and exposure information Learn more",
+        "html": "<img decoding=\"async\" width=\"522\" height=\"294\" src=\"data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20522%20294%22%3E%3C%2Fsvg%3E\" data-src=\"https://www.wcb.mb.ca/uploads/2025/04/HomePage3.jpg?x29410\" class=\"c-imageBoxList__itemImage lazy\" alt=\"Hazards and exposure information\" data-srcset=\"https://www.wcb.mb.ca/uploads/2025/04/HomePage3.jpg 522w"
+      },
+      {
+        "target": "div:nth-of-type(3) > div > div > div:nth-of-type(4) > img",
+        "tag": "img",
+        "src": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20522%20294%22%3E%3C%2Fsvg%3E",
+        "alt": "Health and safety information",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 266,
+        "naturalHeight": 150,
+        "box": {
+          "x": 974,
+          "y": 1387.765625,
+          "w": 252,
+          "h": 141.5625
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "Health and safety information Learn more",
+        "html": "<img decoding=\"async\" width=\"522\" height=\"294\" src=\"data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20522%20294%22%3E%3C%2Fsvg%3E\" data-src=\"https://www.wcb.mb.ca/uploads/2025/04/HomePage4.jpg?x29410\" class=\"c-imageBoxList__itemImage lazy\" alt=\"Health and safety information\" data-srcset=\"https://www.wcb.mb.ca/uploads/2025/04/HomePage4.jpg 522w, h"
+      }
+    ],
+    "links": [
+      {
+        "target": "html > body > a",
+        "text": "Skip to content",
+        "ariaLabel": "",
+        "title": "",
+        "href": "#primary",
+        "imgAlt": "",
+        "box": {
+          "x": 584.5234375,
+          "y": -125,
+          "w": 196.953125,
+          "h": 85.75
+        },
+        "context": "",
+        "contextKind": "none",
+        "html": "<a href=\"#primary\" class=\"g-layout__skip\">Skip to content</a>"
+      },
+      {
+        "target": "div:nth-of-type(3) > div > div > div:nth-of-type(1) > a:nth-of-type(1)",
+        "text": "",
+        "ariaLabel": "Go to WCB homepage",
+        "title": "",
+        "href": "https://www.wcb.mb.ca",
+        "imgAlt": "WCB logo",
+        "box": {
+          "x": 139,
+          "y": 20,
+          "w": 117,
+          "h": 46.796875
+        },
+        "context": "EN Workers Employers Healthcare providers SAFE Work Manitoba Legislation and policies About Contact Careers News",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.wcb.mb.ca\" class=\"g-header__logoLink\" aria-label=\"Go to WCB homepage\"><img class=\"lazy entered loaded\" src=\"/wp-content/themes/site-theme/images/logo-black.svg?x29410\" data-src=\"/wp-content/themes/site-theme/images/logo-black.svg?x29410\" alt=\"WCB logo\" width=\"117\" height=\"42\" da"
+      },
+      {
+        "target": "div:nth-of-type(3) > div > div > div:nth-of-type(1) > a:nth-of-type(2)",
+        "text": "",
+        "ariaLabel": "Go to SAFE Work homepage",
+        "title": "",
+        "href": "/safeworkmanitoba/",
+        "imgAlt": "SAFE Work logo",
+        "box": {
+          "x": 296,
+          "y": 27.046875,
+          "w": 82,
+          "h": 39.75
+        },
+        "context": "EN Workers Employers Healthcare providers SAFE Work Manitoba Legislation and policies About Contact Careers News",
+        "contextKind": "block",
+        "html": "<a href=\"/safeworkmanitoba/\" class=\"g-header__logoLink\" aria-label=\"Go to SAFE Work homepage\"><img class=\"lazy entered loaded\" src=\"/wp-content/themes/site-theme/images/safework-logo-black.svg?x29410\" data-src=\"/wp-content/themes/site-theme/images/safework-logo-black.svg?x29410\" alt=\"SAFE Work logo\""
+      },
+      {
+        "target": "div:nth-of-type(3) > div > div > div:nth-of-type(2) > a",
+        "text": "",
+        "ariaLabel": "Open Search",
+        "title": "",
+        "href": "#",
+        "imgAlt": "",
+        "box": {
+          "x": 1189,
+          "y": 24.390625,
+          "w": 38,
+          "h": 38
+        },
+        "context": "EN Workers Employers Healthcare providers SAFE Work Manitoba Legislation and policies About Contact Careers News",
+        "contextKind": "block",
+        "html": "<a href=\"#\" class=\"g-btn__search js-cmdSearchToggle\" aria-label=\"Open Search\"><span class=\"g-icon--search\"></span></a>"
+      },
+      {
+        "target": "#menu-primary > li:nth-of-type(1) > a",
+        "text": "Workers",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.wcb.mb.ca/workers/",
+        "imgAlt": "",
+        "box": {
+          "x": 139,
+          "y": 106.796875,
+          "w": 122.546875,
+          "h": 44
+        },
+        "context": "Workers",
+        "contextKind": "li",
+        "html": "<a class=\"g-menu__link \" href=\"https://www.wcb.mb.ca/workers/\">Workers</a>"
+      },
+      {
+        "target": "#menu-primary > li:nth-of-type(2) > a",
+        "text": "Employers",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.wcb.mb.ca/employers/",
+        "imgAlt": "",
+        "box": {
+          "x": 292.6875,
+          "y": 106.796875,
+          "w": 140.609375,
+          "h": 44
+        },
+        "context": "Employers",
+        "contextKind": "li",
+        "html": "<a class=\"g-menu__link \" href=\"https://www.wcb.mb.ca/employers/\">Employers</a>"
+      },
+      {
+        "target": "#menu-primary > li:nth-of-type(3) > a",
+        "text": "Healthcare providers",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.wcb.mb.ca/healthcare-providers/",
+        "imgAlt": "",
+        "box": {
+          "x": 464.453125,
+          "y": 106.796875,
+          "w": 225.53125,
+          "h": 44
+        },
+        "context": "Healthcare providers",
+        "contextKind": "li",
+        "html": "<a class=\"g-menu__link \" href=\"https://www.wcb.mb.ca/healthcare-providers/\">Healthcare providers</a>"
+      },
+      {
+        "target": "#menu-primary > li:nth-of-type(4) > a",
+        "text": "SAFE Work Manitoba",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.wcb.mb.ca/safeworkmanitoba/",
+        "imgAlt": "",
+        "box": {
+          "x": 721.125,
+          "y": 106.796875,
+          "w": 227.75,
+          "h": 44
+        },
+        "context": "SAFE Work Manitoba",
+        "contextKind": "li",
+        "html": "<a class=\"g-menu__link \" href=\"https://www.wcb.mb.ca/safeworkmanitoba/\">SAFE Work Manitoba</a>"
+      },
+      {
+        "target": "#menu-primary > li:nth-of-type(5) > a",
+        "text": "Legislation and policies",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.wcb.mb.ca/legislation-and-policies/",
+        "imgAlt": "",
+        "box": {
+          "x": 980.015625,
+          "y": 106.796875,
+          "w": 246.984375,
+          "h": 44
+        },
+        "context": "Legislation and policies",
+        "contextKind": "li",
+        "html": "<a class=\"g-menu__link \" href=\"https://www.wcb.mb.ca/legislation-and-policies/\">Legislation and policies</a>"
+      },
+      {
+        "target": "#secondary-menu > li:nth-of-type(1) > a",
+        "text": "About",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.wcb.mb.ca/about/",
+        "imgAlt": "",
+        "box": {
+          "x": 687.609375,
+          "y": 33.796875,
+          "w": 68.625,
+          "h": 20
+        },
+        "context": "About",
+        "contextKind": "li",
+        "html": "<a class=\"g-menu__link \" href=\"https://www.wcb.mb.ca/about/\">About</a>"
+      },
+      {
+        "target": "#secondary-menu > li:nth-of-type(2) > a",
+        "text": "Contact",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.wcb.mb.ca/contact/",
+        "imgAlt": "",
+        "box": {
+          "x": 796.234375,
+          "y": 33.796875,
+          "w": 82.0625,
+          "h": 20
+        },
+        "context": "Contact",
+        "contextKind": "li",
+        "html": "<a class=\"g-menu__link \" href=\"https://www.wcb.mb.ca/contact/\">Contact</a>"
+      },
+      {
+        "target": "#secondary-menu > li:nth-of-type(3) > a",
+        "text": "Careers",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.wcb.mb.ca/careers/",
+        "imgAlt": "",
+        "box": {
+          "x": 918.296875,
+          "y": 33.796875,
+          "w": 60.390625,
+          "h": 20
+        },
+        "context": "Careers",
+        "contextKind": "li",
+        "html": "<a class=\"g-menu__link \" href=\"https://www.wcb.mb.ca/careers/\">Careers</a>"
+      },
+      {
+        "target": "#secondary-menu > li:nth-of-type(4) > a",
+        "text": "News",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.wcb.mb.ca/news/",
+        "imgAlt": "",
+        "box": {
+          "x": 1018.6875,
+          "y": 33.796875,
+          "w": 63.3125,
+          "h": 20
+        },
+        "context": "News",
+        "contextKind": "li",
+        "html": "<a class=\"g-menu__link \" href=\"https://www.wcb.mb.ca/news/\">News</a>"
+      },
+      {
+        "target": "div > div > div > div > a",
+        "text": "About us",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/about/",
+        "imgAlt": "",
+        "box": {
+          "x": 138,
+          "y": 505.890625,
+          "w": 140.828125,
+          "h": 45.796875
+        },
+        "context": "heading: If you’re hurt at work, we’re here to help. | If you’re hurt at work, we’re here to help. The Workers Compensation Board of Manitoba is dedicated to helping workers and employers across the province. About us",
+        "contextKind": "block",
+        "html": "<a class=\"c-headerImage__btn g-btn\" href=\"/about/\" \"=\"\"><span>About us</span></a>"
+      },
+      {
+        "target": "div > div:nth-of-type(1) > div > p > a",
+        "text": "Report your workplace injury to the WCB. Learn more.",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.wcb.mb.ca/workers/report-your-injury/",
+        "imgAlt": "",
+        "box": {
+          "x": 139,
+          "y": 679.796875,
+          "w": 244.71875,
+          "h": 45
+        },
+        "context": "Report your workplace injury to the WCB. Learn more.",
+        "contextKind": "p",
+        "html": "<a href=\"https://www.wcb.mb.ca/workers/report-your-injury/\"><strong>Report your workplace injury to the WCB.</strong> Learn more.</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > div > p > a",
+        "text": "Learn more.",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.wcb.mb.ca/safeworkmanitoba/committee-leadership-conference/",
+        "imgAlt": "",
+        "box": {
+          "x": 520.828125,
+          "y": 719.796875,
+          "w": 112.75,
+          "h": 25
+        },
+        "context": "Sign up to attend our Committee Leadership Conference. Learn more.",
+        "contextKind": "p",
+        "html": "<a href=\"https://www.wcb.mb.ca/safeworkmanitoba/committee-leadership-conference/\">Learn more.</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(3) > div > p > a",
+        "text": "We’re committed to a safe working environment. Read our Code of Conduct.",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.wcb.mb.ca/code-of-conduct/",
+        "imgAlt": "",
+        "box": {
+          "x": 693,
+          "y": 679.796875,
+          "w": 224.671875,
+          "h": 65
+        },
+        "context": "We’re committed to a safe working environment. Read our Code of Conduct.",
+        "contextKind": "p",
+        "html": "<a href=\"https://www.wcb.mb.ca/code-of-conduct/\">We’re committed to a safe working environment. <strong>Read our Code of Conduct.</strong></a>"
+      },
+      {
+        "target": "div > div:nth-of-type(4) > div > p > a",
+        "text": "Learn more.",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.wcb.mb.ca/notice-cybersecurity-incident/",
+        "imgAlt": "",
+        "box": {
+          "x": 1043.890625,
+          "y": 719.796875,
+          "w": 117.140625,
+          "h": 25
+        },
+        "context": "We have posted information about a recent cybersecurity incident. Learn more.",
+        "contextKind": "p",
+        "html": "<a href=\"https://www.wcb.mb.ca/notice-cybersecurity-incident/\"><strong>Learn more.</strong></a>"
+      },
+      {
+        "target": "div > div > div > div:nth-of-type(1) > a",
+        "text": "Report your injury",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/workers/report-your-injury/",
+        "imgAlt": "",
+        "box": {
+          "x": 82,
+          "y": 875.59375,
+          "w": 332.65625,
+          "h": 39.796875
+        },
+        "context": "heading: Workers | Report your injury Worker claim process Benefits Return to work Worker rights and responsibilities",
+        "contextKind": "block",
+        "html": "<a class=\"c-linkList__itemBtn g-btn__arrow--fullWidth\" href=\"/workers/report-your-injury/\"><span>Report your injury</span></a>"
+      },
+      {
+        "target": "div > div > div > div:nth-of-type(2) > a",
+        "text": "Worker claim process",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/workers/report-your-injury/worker-claim-process/",
+        "imgAlt": "",
+        "box": {
+          "x": 82,
+          "y": 925.390625,
+          "w": 332.65625,
+          "h": 39.796875
+        },
+        "context": "heading: Workers | Report your injury Worker claim process Benefits Return to work Worker rights and responsibilities",
+        "contextKind": "block",
+        "html": "<a class=\"c-linkList__itemBtn g-btn__arrow--fullWidth\" href=\"/workers/report-your-injury/worker-claim-process/\"><span>Worker claim process</span></a>"
+      },
+      {
+        "target": "div > div > div > div:nth-of-type(3) > a",
+        "text": "Benefits",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/workers/workers-compensation-benefits/wage-loss-benefits/",
+        "imgAlt": "",
+        "box": {
+          "x": 82,
+          "y": 975.1875,
+          "w": 332.65625,
+          "h": 39.796875
+        },
+        "context": "heading: Workers | Report your injury Worker claim process Benefits Return to work Worker rights and responsibilities",
+        "contextKind": "block",
+        "html": "<a class=\"c-linkList__itemBtn g-btn__arrow--fullWidth\" href=\"/workers/workers-compensation-benefits/wage-loss-benefits/\"><span>Benefits</span></a>"
+      },
+      {
+        "target": "div > div > div > div:nth-of-type(4) > a",
+        "text": "Return to work",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/workers/return-to-work/",
+        "imgAlt": "",
+        "box": {
+          "x": 82,
+          "y": 1024.984375,
+          "w": 332.65625,
+          "h": 39.796875
+        },
+        "context": "heading: Workers | Report your injury Worker claim process Benefits Return to work Worker rights and responsibilities",
+        "contextKind": "block",
+        "html": "<a class=\"c-linkList__itemBtn g-btn__arrow--fullWidth\" href=\"/workers/return-to-work/\"><span>Return to work</span></a>"
+      },
+      {
+        "target": "div > div > div > div:nth-of-type(5) > a",
+        "text": "Worker rights and responsibilities",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/workers/worker-rights-and-responsibilities/",
+        "imgAlt": "",
+        "box": {
+          "x": 82,
+          "y": 1074.78125,
+          "w": 332.65625,
+          "h": 59.59375
+        },
+        "context": "heading: Workers | Report your injury Worker claim process Benefits Return to work Worker rights and responsibilities",
+        "contextKind": "block",
+        "html": "<a class=\"c-linkList__itemBtn g-btn__arrow--fullWidth\" href=\"/workers/worker-rights-and-responsibilities/\"><span>Worker rights and responsibilities</span></a>"
+      },
+      {
+        "target": "div > div > div > div:nth-of-type(1) > a",
+        "text": "Report an injury",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/employers/report-an-injury/",
+        "imgAlt": "",
+        "box": {
+          "x": 516.65625,
+          "y": 875.59375,
+          "w": 332.671875,
+          "h": 39.796875
+        },
+        "context": "heading: Employers | Report an injury Return to work Register a business Clearances Claims and claim decisions",
+        "contextKind": "block",
+        "html": "<a class=\"c-linkList__itemBtn g-btn__arrow--fullWidth\" href=\"/employers/report-an-injury/\"><span>Report an injury</span></a>"
+      },
+      {
+        "target": "div > div > div > div:nth-of-type(2) > a",
+        "text": "Return to work",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/employers/return-to-work/",
+        "imgAlt": "",
+        "box": {
+          "x": 516.65625,
+          "y": 925.390625,
+          "w": 332.671875,
+          "h": 39.796875
+        },
+        "context": "heading: Employers | Report an injury Return to work Register a business Clearances Claims and claim decisions",
+        "contextKind": "block",
+        "html": "<a class=\"c-linkList__itemBtn g-btn__arrow--fullWidth\" href=\"/employers/return-to-work/\"><span>Return to work</span></a>"
+      },
+      {
+        "target": "div > div > div > div:nth-of-type(3) > a",
+        "text": "Register a business",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/employers/register-a-business-for-wcb-coverage/",
+        "imgAlt": "",
+        "box": {
+          "x": 516.65625,
+          "y": 975.1875,
+          "w": 332.671875,
+          "h": 39.796875
+        },
+        "context": "heading: Employers | Report an injury Return to work Register a business Clearances Claims and claim decisions",
+        "contextKind": "block",
+        "html": "<a class=\"c-linkList__itemBtn g-btn__arrow--fullWidth\" href=\"/employers/register-a-business-for-wcb-coverage/\"><span>Register a business</span></a>"
+      },
+      {
+        "target": "div > div > div > div:nth-of-type(4) > a",
+        "text": "Clearances",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/employers/clearances/",
+        "imgAlt": "",
+        "box": {
+          "x": 516.65625,
+          "y": 1024.984375,
+          "w": 332.671875,
+          "h": 39.796875
+        },
+        "context": "heading: Employers | Report an injury Return to work Register a business Clearances Claims and claim decisions",
+        "contextKind": "block",
+        "html": "<a class=\"c-linkList__itemBtn g-btn__arrow--fullWidth\" href=\"/employers/clearances/\"><span>Clearances</span></a>"
+      },
+      {
+        "target": "div > div > div > div:nth-of-type(5) > a",
+        "text": "Claims and claim decisions",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/employers/claims-and-claim-decisions/",
+        "imgAlt": "",
+        "box": {
+          "x": 516.65625,
+          "y": 1074.78125,
+          "w": 332.671875,
+          "h": 39.796875
+        },
+        "context": "heading: Employers | Report an injury Return to work Register a business Clearances Claims and claim decisions",
+        "contextKind": "block",
+        "html": "<a class=\"c-linkList__itemBtn g-btn__arrow--fullWidth\" href=\"/employers/claims-and-claim-decisions/\"><span>Claims and claim decisions</span></a>"
+      },
+      {
+        "target": "div > div > div > div:nth-of-type(1) > a",
+        "text": "Healthcare provider information",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/healthcare-providers/",
+        "imgAlt": "",
+        "box": {
+          "x": 951.328125,
+          "y": 875.59375,
+          "w": 332.65625,
+          "h": 39.796875
+        },
+        "context": "heading: Healthcare providers | Healthcare provider information Billing and payments Return to work Resources and forms Create a WCB provider account",
+        "contextKind": "block",
+        "html": "<a class=\"c-linkList__itemBtn g-btn__arrow--fullWidth\" href=\"/healthcare-providers/\"><span>Healthcare provider information</span></a>"
+      },
+      {
+        "target": "div > div > div > div:nth-of-type(2) > a",
+        "text": "Billing and payments",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/healthcare-providers/billing-and-payments/",
+        "imgAlt": "",
+        "box": {
+          "x": 951.328125,
+          "y": 925.390625,
+          "w": 332.65625,
+          "h": 39.796875
+        },
+        "context": "heading: Healthcare providers | Healthcare provider information Billing and payments Return to work Resources and forms Create a WCB provider account",
+        "contextKind": "block",
+        "html": "<a class=\"c-linkList__itemBtn g-btn__arrow--fullWidth\" href=\"/healthcare-providers/billing-and-payments/\"><span>Billing and payments</span></a>"
+      },
+      {
+        "target": "div > div > div > div:nth-of-type(3) > a",
+        "text": "Return to work",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/healthcare-providers/return-to-work/",
+        "imgAlt": "",
+        "box": {
+          "x": 951.328125,
+          "y": 975.1875,
+          "w": 332.65625,
+          "h": 39.796875
+        },
+        "context": "heading: Healthcare providers | Healthcare provider information Billing and payments Return to work Resources and forms Create a WCB provider account",
+        "contextKind": "block",
+        "html": "<a class=\"c-linkList__itemBtn g-btn__arrow--fullWidth\" href=\"/healthcare-providers/return-to-work/\"><span>Return to work</span></a>"
+      },
+      {
+        "target": "div > div > div > div:nth-of-type(4) > a",
+        "text": "Resources and forms",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/healthcare-providers/resources-and-forms/",
+        "imgAlt": "",
+        "box": {
+          "x": 951.328125,
+          "y": 1024.984375,
+          "w": 332.65625,
+          "h": 39.796875
+        },
+        "context": "heading: Healthcare providers | Healthcare provider information Billing and payments Return to work Resources and forms Create a WCB provider account",
+        "contextKind": "block",
+        "html": "<a class=\"c-linkList__itemBtn g-btn__arrow--fullWidth\" href=\"/healthcare-providers/resources-and-forms/\"><span>Resources and forms</span></a>"
+      },
+      {
+        "target": "div > div > div > div:nth-of-type(5) > a",
+        "text": "Create a WCB provider account",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/healthcare-providers/billing-and-payments/create-a-wcb-provider-account/",
+        "imgAlt": "",
+        "box": {
+          "x": 951.328125,
+          "y": 1074.78125,
+          "w": 332.65625,
+          "h": 39.796875
+        },
+        "context": "heading: Healthcare providers | Healthcare provider information Billing and payments Return to work Resources and forms Create a WCB provider account",
+        "contextKind": "block",
+        "html": "<a class=\"c-linkList__itemBtn g-btn__arrow--fullWidth\" href=\"/healthcare-providers/billing-and-payments/create-a-wcb-provider-account/\"><span>Create a WCB provider account</span></a>"
+      },
+      {
+        "target": "div:nth-of-type(3) > div > div > div:nth-of-type(1) > a",
+        "text": "Learn more",
+        "ariaLabel": "Learn more Workplace injury and illness prevention",
+        "title": "",
+        "href": "/safeworkmanitoba/",
+        "imgAlt": "",
+        "box": {
+          "x": 160,
+          "y": 1664.328125,
+          "w": 156.46875,
+          "h": 39.796875
+        },
+        "context": "heading: SAFE Work Manitoba | Workplace injury and illness prevention Learn more",
+        "contextKind": "block",
+        "html": "<a class=\"c-imageBoxList__itemBtn g-btn\" href=\"/safeworkmanitoba/\" aria-label=\"Learn more Workplace injury and illness prevention\"><span>Learn more</span></a>"
+      },
+      {
+        "target": "div:nth-of-type(3) > div > div > div:nth-of-type(2) > a",
+        "text": "Learn more",
+        "ariaLabel": "Learn more Safety rights and responsibilities",
+        "title": "",
+        "href": "/safeworkmanitoba/safety-training-and-certification/",
+        "imgAlt": "",
+        "box": {
+          "x": 438,
+          "y": 1664.328125,
+          "w": 156.46875,
+          "h": 39.796875
+        },
+        "context": "heading: SAFE Work Manitoba | Safety rights and responsibilities Learn more",
+        "contextKind": "block",
+        "html": "<a class=\"c-imageBoxList__itemBtn g-btn\" href=\"/safeworkmanitoba/safety-training-and-certification/\" aria-label=\"Learn more Safety rights and responsibilities\"><span>Learn more</span></a>"
+      },
+      {
+        "target": "div:nth-of-type(3) > div > div > div:nth-of-type(3) > a",
+        "text": "Learn more",
+        "ariaLabel": "Learn more Hazards and exposure information",
+        "title": "",
+        "href": "/safeworkmanitoba/hazards-and-exposures/",
+        "imgAlt": "",
+        "box": {
+          "x": 716,
+          "y": 1664.328125,
+          "w": 156.46875,
+          "h": 39.796875
+        },
+        "context": "heading: SAFE Work Manitoba | Hazards and exposure information Learn more",
+        "contextKind": "block",
+        "html": "<a class=\"c-imageBoxList__itemBtn g-btn\" href=\"/safeworkmanitoba/hazards-and-exposures/\" aria-label=\"Learn more Hazards and exposure information\"><span>Learn more</span></a>"
+      },
+      {
+        "target": "div:nth-of-type(3) > div > div > div:nth-of-type(4) > a",
+        "text": "Learn more",
+        "ariaLabel": "Learn more Health and safety information",
+        "title": "",
+        "href": "/safeworkmanitoba/health-and-safety-topics/",
+        "imgAlt": "",
+        "box": {
+          "x": 994,
+          "y": 1664.328125,
+          "w": 156.46875,
+          "h": 39.796875
+        },
+        "context": "heading: SAFE Work Manitoba | Health and safety information Learn more",
+        "contextKind": "block",
+        "html": "<a class=\"c-imageBoxList__itemBtn g-btn\" href=\"/safeworkmanitoba/health-and-safety-topics/\" aria-label=\"Learn more Health and safety information\"><span>Learn more</span></a>"
+      },
+      {
+        "target": "div > div:nth-of-type(3) > div > div > a",
+        "text": "Explore now",
+        "ariaLabel": "Explore now - Workplace safety training and certification",
+        "title": "",
+        "href": "/safeworkmanitoba/safety-training-and-certification/safe-work-manitoba-training-portal/",
+        "imgAlt": "",
+        "box": {
+          "x": 596.921875,
+          "y": 2107.125,
+          "w": 172.140625,
+          "h": 45.796875
+        },
+        "context": "heading: Workplace safety training and certification | Workplace safety training and certification Explore our Training Portal, access high-calibre training, become a SAFE Work Endorsed Training provider and more. Explore now",
+        "contextKind": "block",
+        "html": "<a class=\"elementor-button elementor-button-link elementor-size-sm\" href=\"/safeworkmanitoba/safety-training-and-certification/safe-work-manitoba-training-portal/\" aria-label=\"Explore now - Workplace safety training and certification\">\n<span class=\"elementor-button-content-wrapper\">\n<span class=\"elem"
+      },
+      {
+        "target": "div > div > div > div:nth-of-type(1) > a",
+        "text": "2026-05-11 WCB invests in a safer and stronger Manitoba",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.wcb.mb.ca/news/wcb-invests-in-a-safer-and-stronger-manitoba/",
+        "imgAlt": "",
+        "box": {
+          "x": 139,
+          "y": 2485.703125,
+          "w": 524,
+          "h": 123.171875
+        },
+        "context": "heading: Latest News | 2026-05-11 WCB invests in a safer and stronger Manitoba",
+        "contextKind": "block",
+        "html": "<a class=\"c-blogList__itemLink g-btn__arrow--fullWidth\" href=\"https://www.wcb.mb.ca/news/wcb-invests-in-a-safer-and-stronger-manitoba/\"><div class=\"c-blogList__itemText\"><div class=\"c-blogList__itemDate\">2026-05-11</div><h3 class=\"c-blogList__itemTitle\">WCB invests in a safer and stronger Manitoba</"
+      },
+      {
+        "target": "div > div > div > div:nth-of-type(2) > a",
+        "text": "2026-04-28 Day of Mourning honours Manitoban lives lost to workplace tragedies",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.wcb.mb.ca/news/day-of-mourning-honours-manitoban-lives-lost-to-workplace-tragedies/",
+        "imgAlt": "",
+        "box": {
+          "x": 703,
+          "y": 2459.3125,
+          "w": 524,
+          "h": 149.5625
+        },
+        "context": "heading: WCB invests in a safer and stronger Manitoba | 2026-04-28 Day of Mourning honours Manitoban lives lost to workplace tragedies",
+        "contextKind": "block",
+        "html": "<a class=\"c-blogList__itemLink g-btn__arrow--fullWidth\" href=\"https://www.wcb.mb.ca/news/day-of-mourning-honours-manitoban-lives-lost-to-workplace-tragedies/\"><div class=\"c-blogList__itemText\"><div class=\"c-blogList__itemDate\">2026-04-28</div><h3 class=\"c-blogList__itemTitle\">Day of Mourning honours"
+      },
+      {
+        "target": "div > div > div > div:nth-of-type(3) > a",
+        "text": "2026-02-12 Safety and Health Week",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.wcb.mb.ca/news/safety-and-health-week/",
+        "imgAlt": "",
+        "box": {
+          "x": 139,
+          "y": 2675.265625,
+          "w": 524,
+          "h": 96.78125
+        },
+        "context": "heading: Day of Mourning honours Manitoban lives lost to workplace tragedies",
+        "contextKind": "heading-only",
+        "html": "<a class=\"c-blogList__itemLink g-btn__arrow--fullWidth\" href=\"https://www.wcb.mb.ca/news/safety-and-health-week/\"><div class=\"c-blogList__itemText\"><div class=\"c-blogList__itemDate\">2026-02-12</div><h3 class=\"c-blogList__itemTitle\">Safety and Health Week</h3></div></a>"
+      },
+      {
+        "target": "div > div > div > div:nth-of-type(4) > a",
+        "text": "2026-01-29 Safe working procedures vital during cold winter months",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.wcb.mb.ca/news/safe-working-procedures-vital-during-cold-winter-months/",
+        "imgAlt": "",
+        "box": {
+          "x": 703,
+          "y": 2648.875,
+          "w": 524,
+          "h": 123.171875
+        },
+        "context": "heading: Safety and Health Week | 2026-01-29 Safe working procedures vital during cold winter months",
+        "contextKind": "block",
+        "html": "<a class=\"c-blogList__itemLink g-btn__arrow--fullWidth\" href=\"https://www.wcb.mb.ca/news/safe-working-procedures-vital-during-cold-winter-months/\"><div class=\"c-blogList__itemText\"><div class=\"c-blogList__itemDate\">2026-01-29</div><h3 class=\"c-blogList__itemTitle\">Safe working procedures vital durin"
+      },
+      {
+        "target": "div > div:nth-of-type(3) > div > div > a",
+        "text": "View more",
+        "ariaLabel": "View more news",
+        "title": "",
+        "href": "/news/",
+        "imgAlt": "",
+        "box": {
+          "x": 604.578125,
+          "y": 2872.046875,
+          "w": 156.84375,
+          "h": 45.796875
+        },
+        "context": "heading: Safe working procedures vital during cold winter months",
+        "contextKind": "heading-only",
+        "html": "<a class=\"elementor-button elementor-button-link elementor-size-sm\" href=\"/news/\" aria-label=\"View more news\">\n<span class=\"elementor-button-content-wrapper\">\n<span class=\"elementor-button-text\">View more</span>\n</span>\n</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > div > p > a",
+        "text": "SAFE Work Manitoba training portal",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://swmb.bluedrop.io/storefront/safeworkmanitoba",
+        "imgAlt": "",
+        "box": {
+          "x": 581.296875,
+          "y": 3170.84375,
+          "w": 339.921875,
+          "h": 28
+        },
+        "context": "To register for WCB Basics and Return to Work Basics workshops, please visit the SAFE Work Manitoba training portal.",
+        "contextKind": "p",
+        "html": "<a href=\"https://swmb.bluedrop.io/storefront/safeworkmanitoba\" target=\"_blank\" rel=\"noopener\">SAFE Work Manitoba training portal</a>"
+      },
+      {
+        "target": "div:nth-of-type(1) > div > div:nth-of-type(1) > div > a:nth-of-type(1)",
+        "text": "",
+        "ariaLabel": "WCB logo",
+        "title": "",
+        "href": "https://www.wcb.mb.ca",
+        "imgAlt": "",
+        "box": {
+          "x": 139,
+          "y": 3317.84375,
+          "w": 151.140625,
+          "h": 67.5
+        },
+        "context": "heading: Workshops | Contact Careers Privacy and security Terms of use Accessibility Surveys",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.wcb.mb.ca\" class=\"g-footer__logoLink\" aria-label=\"WCB logo\"><span class=\"g-icon--wcb-logo\"></span></a>"
+      },
+      {
+        "target": "div:nth-of-type(1) > div > div:nth-of-type(1) > div > a:nth-of-type(2)",
+        "text": "",
+        "ariaLabel": "SAFE Work logo",
+        "title": "",
+        "href": "/safeworkmanitoba/",
+        "imgAlt": "",
+        "box": {
+          "x": 330.140625,
+          "y": 3317.84375,
+          "w": 127.40625,
+          "h": 67.5
+        },
+        "context": "heading: Workshops | Contact Careers Privacy and security Terms of use Accessibility Surveys",
+        "contextKind": "block",
+        "html": "<a href=\"/safeworkmanitoba/\" class=\"g-footer__logoLink\" aria-label=\"SAFE Work logo\"><span class=\"g-icon--safework-logo\"></span></a>"
+      },
+      {
+        "target": "#footer-menu > li:nth-of-type(1) > a",
+        "text": "Contact",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.wcb.mb.ca/contact/",
+        "imgAlt": "",
+        "box": {
+          "x": 139,
+          "y": 3415.34375,
+          "w": 132.96875,
+          "h": 22.5
+        },
+        "context": "Contact",
+        "contextKind": "li",
+        "html": "<a class=\"g-menu__link \" href=\"https://www.wcb.mb.ca/contact/\">Contact</a>"
+      },
+      {
+        "target": "#footer-menu > li:nth-of-type(2) > a",
+        "text": "Careers",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.wcb.mb.ca/careers/",
+        "imgAlt": "",
+        "box": {
+          "x": 290.828125,
+          "y": 3415.34375,
+          "w": 130.359375,
+          "h": 22.5
+        },
+        "context": "Careers",
+        "contextKind": "li",
+        "html": "<a class=\"g-menu__link \" href=\"https://www.wcb.mb.ca/careers/\">Careers</a>"
+      },
+      {
+        "target": "#footer-menu > li:nth-of-type(3) > a",
+        "text": "Privacy and security",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.wcb.mb.ca/privacy/",
+        "imgAlt": "",
+        "box": {
+          "x": 440.03125,
+          "y": 3415.34375,
+          "w": 246.125,
+          "h": 22.5
+        },
+        "context": "Privacy and security",
+        "contextKind": "li",
+        "html": "<a class=\"g-menu__link \" href=\"https://www.wcb.mb.ca/privacy/\">Privacy and security</a>"
+      },
+      {
+        "target": "#footer-menu > li:nth-of-type(4) > a",
+        "text": "Terms of use",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.wcb.mb.ca/terms-of-use/",
+        "imgAlt": "",
+        "box": {
+          "x": 705.015625,
+          "y": 3415.34375,
+          "w": 177.65625,
+          "h": 22.5
+        },
+        "context": "Terms of use",
+        "contextKind": "li",
+        "html": "<a class=\"g-menu__link \" href=\"https://www.wcb.mb.ca/terms-of-use/\">Terms of use</a>"
+      },
+      {
+        "target": "#footer-menu > li:nth-of-type(5) > a",
+        "text": "Accessibility",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.wcb.mb.ca/accessibility/",
+        "imgAlt": "",
+        "box": {
+          "x": 901.515625,
+          "y": 3415.34375,
+          "w": 174.34375,
+          "h": 22.5
+        },
+        "context": "Accessibility",
+        "contextKind": "li",
+        "html": "<a class=\"g-menu__link \" href=\"https://www.wcb.mb.ca/accessibility/\">Accessibility</a>"
+      },
+      {
+        "target": "#footer-menu > li:nth-of-type(6) > a",
+        "text": "Surveys",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.wcb.mb.ca/wcb-surveys/",
+        "imgAlt": "",
+        "box": {
+          "x": 1094.71875,
+          "y": 3415.34375,
+          "w": 132.28125,
+          "h": 22.5
+        },
+        "context": "Surveys",
+        "contextKind": "li",
+        "html": "<a class=\"g-menu__link \" href=\"https://www.wcb.mb.ca/wcb-surveys/\">Surveys</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(3) > ul > li:nth-of-type(1) > a",
+        "text": "",
+        "ariaLabel": "View our facebook page",
+        "title": "",
+        "href": "https://www.facebook.com/WCBManitoba",
+        "imgAlt": "",
+        "box": {
+          "x": 978.84375,
+          "y": 3452.84375,
+          "w": 24,
+          "h": 29
+        },
+        "context": "",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.facebook.com/WCBManitoba\" class=\"c-social__link c-social__link--\" target=\"_blank\" aria-label=\"View our facebook page\"><span class=\"g-icon--facebook\" <=\"\" span=\"\"></span></a>"
+      },
+      {
+        "target": "div > div:nth-of-type(3) > ul > li:nth-of-type(3) > a",
+        "text": "",
+        "ariaLabel": "View our instagram page",
+        "title": "",
+        "href": "https://www.instagram.com/wcbmanitoba/",
+        "imgAlt": "",
+        "box": {
+          "x": 1032.84375,
+          "y": 3452.84375,
+          "w": 20.578125,
+          "h": 29
+        },
+        "context": "",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.instagram.com/wcbmanitoba/\" class=\"c-social__link c-social__link--\" target=\"_blank\" aria-label=\"View our instagram page\"><span class=\"g-icon--instagram\" <=\"\" span=\"\"></span></a>"
+      },
+      {
+        "target": "div > div:nth-of-type(3) > ul > li:nth-of-type(5) > a",
+        "text": "",
+        "ariaLabel": "View our linkedin page",
+        "title": "",
+        "href": "https://www.linkedin.com/company/wcb-manitoba",
+        "imgAlt": "",
+        "box": {
+          "x": 1083.421875,
+          "y": 3452.84375,
+          "w": 20.578125,
+          "h": 29
+        },
+        "context": "",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.linkedin.com/company/wcb-manitoba\" class=\"c-social__link c-social__link--\" target=\"_blank\" aria-label=\"View our linkedin page\"><span class=\"g-icon--linkedin\" <=\"\" span=\"\"></span></a>"
+      },
+      {
+        "target": "div > div:nth-of-type(3) > ul > li:nth-of-type(7) > a",
+        "text": "",
+        "ariaLabel": "View our twitter page",
+        "title": "",
+        "href": "https://x.com/wcbmanitoba",
+        "imgAlt": "",
+        "box": {
+          "x": 1134,
+          "y": 3452.84375,
+          "w": 24,
+          "h": 29
+        },
+        "context": "",
+        "contextKind": "li",
+        "html": "<a href=\"https://x.com/wcbmanitoba\" class=\"c-social__link c-social__link--wcb\" target=\"_blank\" aria-label=\"View our twitter page\"><span class=\"g-icon--twitter\" <=\"\" span=\"\"></span></a>"
+      },
+      {
+        "target": "div > div:nth-of-type(3) > ul > li:nth-of-type(9) > a",
+        "text": "",
+        "ariaLabel": "View our youtube page",
+        "title": "",
+        "href": "https://www.youtube.com/@wcbmanitoba",
+        "imgAlt": "",
+        "box": {
+          "x": 1188,
+          "y": 3452.84375,
+          "w": 24,
+          "h": 29
+        },
+        "context": "",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.youtube.com/@wcbmanitoba\" class=\"c-social__link c-social__link--\" target=\"_blank\" aria-label=\"View our youtube page\"><span class=\"g-icon--youtube\" <=\"\" span=\"\"></span></a>"
+      }
+    ],
+    "headings": [
+      {
+        "target": "div > div > div > div > h1",
+        "level": 1,
+        "text": "If you’re hurt at work, we’re here to help.",
+        "visible": true,
+        "box": {
+          "x": 138,
+          "y": 329.890625,
+          "w": 485,
+          "h": 96
+        },
+        "html": "<h1>If you’re hurt at work,<br><span style=\"color: #b3dfe7;\">we’re here to help.</span></h1>"
+      },
+      {
+        "target": "div:nth-of-type(1) > div > div > div > h2",
+        "level": 2,
+        "text": "Workers",
+        "visible": true,
+        "box": {
+          "x": 82,
+          "y": 816.796875,
+          "w": 332.65625,
+          "h": 28.796875
+        },
+        "html": "<h2 class=\"c-linkList__title\"><span>Workers</span></h2>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div > div > div > h2",
+        "level": 2,
+        "text": "Employers",
+        "visible": true,
+        "box": {
+          "x": 516.65625,
+          "y": 816.796875,
+          "w": 332.671875,
+          "h": 28.796875
+        },
+        "html": "<h2 class=\"c-linkList__title\"><span>Employers</span></h2>"
+      },
+      {
+        "target": "div:nth-of-type(3) > div > div > div > h2",
+        "level": 2,
+        "text": "Healthcare providers",
+        "visible": true,
+        "box": {
+          "x": 951.328125,
+          "y": 816.796875,
+          "w": 332.65625,
+          "h": 28.796875
+        },
+        "html": "<h2 class=\"c-linkList__title\"><span>Healthcare providers</span></h2>"
+      },
+      {
+        "target": "div:nth-of-type(4) > div > div:nth-of-type(2) > div > h2",
+        "level": 2,
+        "text": "SAFE Work Manitoba",
+        "visible": true,
+        "box": {
+          "x": 139,
+          "y": 1320.375,
+          "w": 1088,
+          "h": 38.390625
+        },
+        "html": "<h2>SAFE Work Manitoba</h2>"
+      },
+      {
+        "target": "div > div > div:nth-of-type(1) > div > h2",
+        "level": 2,
+        "text": "Workplace safety training and certification",
+        "visible": true,
+        "box": {
+          "x": 159,
+          "y": 1970.125,
+          "w": 1048,
+          "h": 32
+        },
+        "html": "<h2 class=\"elementor-heading-title elementor-size-default\">Workplace safety training and certification</h2>"
+      },
+      {
+        "target": "div:nth-of-type(6) > div > div:nth-of-type(1) > div > h2",
+        "level": 2,
+        "text": "Latest News",
+        "visible": true,
+        "box": {
+          "x": 139,
+          "y": 2372.921875,
+          "w": 1088,
+          "h": 38.390625
+        },
+        "html": "<h2>Latest News</h2>"
+      },
+      {
+        "target": "div > div:nth-of-type(1) > a > div > h3",
+        "level": 3,
+        "text": "WCB invests in a safer and stronger Manitoba",
+        "visible": true,
+        "box": {
+          "x": 161,
+          "y": 2526.09375,
+          "w": 412,
+          "h": 72.78125
+        },
+        "html": "<h3 class=\"c-blogList__itemTitle\">WCB invests in a safer and stronger Manitoba</h3>"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > a > div > h3",
+        "level": 3,
+        "text": "Day of Mourning honours Manitoban lives lost to workplace tragedies",
+        "visible": true,
+        "box": {
+          "x": 725,
+          "y": 2499.703125,
+          "w": 412,
+          "h": 99.171875
+        },
+        "html": "<h3 class=\"c-blogList__itemTitle\">Day of Mourning honours Manitoban lives lost to workplace tragedies</h3>"
+      },
+      {
+        "target": "div > div:nth-of-type(3) > a > div > h3",
+        "level": 3,
+        "text": "Safety and Health Week",
+        "visible": true,
+        "box": {
+          "x": 161,
+          "y": 2715.65625,
+          "w": 412,
+          "h": 46.390625
+        },
+        "html": "<h3 class=\"c-blogList__itemTitle\">Safety and Health Week</h3>"
+      },
+      {
+        "target": "div > div:nth-of-type(4) > a > div > h3",
+        "level": 3,
+        "text": "Safe working procedures vital during cold winter months",
+        "visible": true,
+        "box": {
+          "x": 725,
+          "y": 2689.265625,
+          "w": 412,
+          "h": 72.78125
+        },
+        "html": "<h3 class=\"c-blogList__itemTitle\">Safe working procedures vital during cold winter months</h3>"
+      },
+      {
+        "target": "div > div > div:nth-of-type(1) > div > h2",
+        "level": 2,
+        "text": "Workshops",
+        "visible": true,
+        "box": {
+          "x": 139,
+          "y": 3089.34375,
+          "w": 1088,
+          "h": 32
+        },
+        "html": "<h2 class=\"elementor-heading-title elementor-size-default\">Workshops</h2>"
+      }
+    ],
+    "lang": "en-US",
+    "title": "Workers Compensation Board of Manitoba"
+  },
   "axe": {
     "violationRules": 0,
     "violationNodes": 0,

@@ -5,7 +5,7 @@
   "title": "CCMB Homepage",
   "finalUrl": "https://www.cancercare.mb.ca/home/",
   "shape": {
-    "elements": 726,
+    "elements": 727,
     "images": 12,
     "links": 172,
     "buttons": 15,
@@ -19,7 +19,1179 @@
     "width": 1366,
     "height": 900
   },
-  "scannedAt": "2026-09-19T06:25:38.299Z",
+  "scannedAt": "2026-09-19T23:57:53.281Z",
+  "content": {
+    "images": [
+      {
+        "target": "div > div:nth-of-type(2) > div:nth-of-type(1) > a > img",
+        "tag": "img",
+        "src": "https://www.cancercare.mb.ca/export/sites/default/.galleries/images/CCMB-bilingual-logo-240.png",
+        "alt": "CancerCare Manitoba Logo",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 240,
+        "naturalHeight": 48,
+        "box": {
+          "x": 62,
+          "y": 10,
+          "w": 240,
+          "h": 48
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img class=\"logo img-responsive\" style=\"width: auto;height: auto; float:none;\" src=\"/export/sites/default/.galleries/images/CCMB-bilingual-logo-240.png\" alt=\"CancerCare Manitoba Logo\">"
+      },
+      {
+        "target": "div > a > div > span > img",
+        "tag": "img",
+        "src": "https://www.cancercare.mb.ca/export/sites/default/Patient-Family/.galleries/images/guardian-angel-caring-room-images/group-photo.png",
+        "alt": "group of people talking around a coffee table (c) CancerCare Manitoba",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "Discussion Group (c) CancerCare Manitoba",
+        "naturalWidth": 651,
+        "naturalHeight": 533,
+        "box": {
+          "x": 113,
+          "y": 1072.65625,
+          "w": 359.984375,
+          "h": 294.734375
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "/export/sites/default/.galleries/files/the-navigator-newsletter-files/The-Navigator.pdf",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"/export/sites/default/Patient-Family/.galleries/images/guardian-angel-caring-room-images/group-photo.png\" class=\"img-responsive \" alt=\"group of people talking around a coffee table (c) CancerCare Manitoba\" title=\"Discussion Group (c) CancerCare Manitoba\">"
+      },
+      {
+        "target": "div:nth-of-type(2) > div > div > span > img",
+        "tag": "img",
+        "src": "https://www.cancercare.mb.ca/export/sites/default/.galleries/images/Page-8_Microscope.jpg_297258699.jpg",
+        "alt": "Image of a microscope (c) CancerCare Manitoba",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "Microscope (c) CancerCare Manitoba",
+        "naturalWidth": 500,
+        "naturalHeight": 333,
+        "box": {
+          "x": 893,
+          "y": 1418.390625,
+          "w": 359.984375,
+          "h": 239.75
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"/export/sites/default/.galleries/images/Page-8_Microscope.jpg_297258699.jpg\" class=\"img-responsive \" alt=\"Image of a microscope (c) CancerCare Manitoba\" title=\"Microscope (c) CancerCare Manitoba\">"
+      },
+      {
+        "target": "div > a > div > span > img",
+        "tag": "img",
+        "src": "https://www.cancercare.mb.ca/export/sites/default/.galleries/images/mcdermot-site.jpg",
+        "alt": "image of CancerCare Manitoba building (c) CancerCare Manitoba",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "CCMB McDermot Building (c) CancerCare Manitoba",
+        "naturalWidth": 500,
+        "naturalHeight": 500,
+        "box": {
+          "x": 113,
+          "y": 1729.140625,
+          "w": 360,
+          "h": 360
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "/About-Us/Locations/our-locations",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"/export/sites/default/.galleries/images/mcdermot-site.jpg\" class=\"img-responsive img-bordered\" alt=\"image of CancerCare Manitoba building (c) CancerCare Manitoba\" title=\"CCMB McDermot Building (c) CancerCare Manitoba\">"
+      },
+      {
+        "target": "div > a > div > span > img",
+        "tag": "img",
+        "src": "https://www.cancercare.mb.ca/export/sites/default/.galleries/images/ccm-foundation-logo-transparent.png_797690293.png",
+        "alt": "CancerCare Manitoba Foundation Logo (c) CancerCare Manitoba Foundation",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "CancerCare Foundation Logo (c) CancerCare Manitoba Foundation",
+        "naturalWidth": 500,
+        "naturalHeight": 135,
+        "box": {
+          "x": 990.5,
+          "y": 2197.53125,
+          "w": 262.5,
+          "h": 70.875
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "http://www.cancercarefdn.mb.ca/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"/export/sites/default/.galleries/images/ccm-foundation-logo-transparent.png_797690293.png\" class=\"img-responsive \" alt=\"CancerCare Manitoba Foundation Logo (c) CancerCare Manitoba Foundation\" title=\"CancerCare Foundation Logo (c) CancerCare Manitoba Foundation\">"
+      },
+      {
+        "target": "div:nth-of-type(3) > a > div > span > img",
+        "tag": "img",
+        "src": "https://www.cancercare.mb.ca/export/sites/default/.galleries/images/ccmf-signature-events/Canada-Helps-landing-page-image.png",
+        "alt": " ",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": " ",
+        "naturalWidth": 688,
+        "naturalHeight": 344,
+        "box": {
+          "x": 113,
+          "y": 3070.4375,
+          "w": 555,
+          "h": 277.5
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "https://www.cancercarefdn.mb.ca/steves-story/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"/export/sites/default/.galleries/images/ccmf-signature-events/Canada-Helps-landing-page-image.png\" class=\"img-responsive \" alt=\" \" title=\" \">"
+      },
+      {
+        "target": "div:nth-of-type(3) > a > div > span > img",
+        "tag": "img",
+        "src": "https://www.cancercare.mb.ca/export/sites/default/.galleries/images/ccmf-signature-events/RIKA.png",
+        "alt": " ",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": " ",
+        "naturalWidth": 783,
+        "naturalHeight": 492,
+        "box": {
+          "x": 698,
+          "y": 2796.21875,
+          "w": 554.984375,
+          "h": 348.734375
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "https://youtu.be/F2Fjgi0v2NQ?si=YSl3psHG45OVGJID",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"/export/sites/default/.galleries/images/ccmf-signature-events/RIKA.png\" class=\"img-responsive \" alt=\" \" title=\" \">"
+      },
+      {
+        "target": "div > a > div > span > img",
+        "tag": "img",
+        "src": "https://www.cancercare.mb.ca/export/sites/default/.galleries/images/ACSealAwES.JPG_576729172.jpg",
+        "alt": "Accreditation Canada Seal (c) Accreditation Canada",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "Accreditation Canada Seal (c) Accreditation Canada",
+        "naturalWidth": 200,
+        "naturalHeight": 203,
+        "box": {
+          "x": 583,
+          "y": 3491.78125,
+          "w": 200,
+          "h": 203
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "/About-Us/corporate-publications/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"/export/sites/default/.galleries/images/ACSealAwES.JPG_576729172.jpg\" class=\"img-responsive \" alt=\"Accreditation Canada Seal (c) Accreditation Canada\" title=\"Accreditation Canada Seal (c) Accreditation Canada\">"
+      },
+      {
+        "target": "div > div > div:nth-of-type(1) > a:nth-of-type(1) > img",
+        "tag": "img",
+        "src": "https://www.cancercare.mb.ca/export/sites/default/.galleries/images/icon-fb-128x128.png",
+        "alt": "Facebook",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 128,
+        "naturalHeight": 128,
+        "box": {
+          "x": 1080.484375,
+          "y": 3460.359375,
+          "w": 40,
+          "h": 40
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "https://www.facebook.com/CancerCareMB",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"/export/sites/default/.galleries/images/icon-fb-128x128.png\" alt=\"Facebook\" width=\"40\" height=\"40\">"
+      },
+      {
+        "target": "div > div > div:nth-of-type(1) > a:nth-of-type(2) > img",
+        "tag": "img",
+        "src": "https://www.cancercare.mb.ca/export/sites/default/.galleries/images/x-icon.png",
+        "alt": "Twitter",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 128,
+        "naturalHeight": 128,
+        "box": {
+          "x": 1124.65625,
+          "y": 3460.359375,
+          "w": 40,
+          "h": 40
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "https://x.com/CancerCareMB",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"/export/sites/default/.galleries/images/x-icon.png\" alt=\"Twitter\" width=\"40\" height=\"40\">"
+      },
+      {
+        "target": "div > div > div:nth-of-type(1) > a:nth-of-type(3) > img",
+        "tag": "img",
+        "src": "https://www.cancercare.mb.ca/export/sites/default/.galleries/images/icon-yt-128x128.png",
+        "alt": "YouTube",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 128,
+        "naturalHeight": 128,
+        "box": {
+          "x": 1168.828125,
+          "y": 3460.359375,
+          "w": 40,
+          "h": 40
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "https://www.youtube.com/user/CancerCareMB/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"/export/sites/default/.galleries/images/icon-yt-128x128.png\" alt=\"YouTube\" width=\"40\" height=\"40\">"
+      },
+      {
+        "target": "div > div > div:nth-of-type(1) > a:nth-of-type(4) > img",
+        "tag": "img",
+        "src": "https://www.cancercare.mb.ca/export/sites/default/.galleries/images/Instagram_icon-128px.png",
+        "alt": "Instagram",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 128,
+        "naturalHeight": 128,
+        "box": {
+          "x": 1213,
+          "y": 3460.359375,
+          "w": 40,
+          "h": 40
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "https://www.instagram.com/cancercare.mb/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"/export/sites/default/.galleries/images/Instagram_icon-128px.png\" alt=\"Instagram\" width=\"40\" height=\"40\">"
+      }
+    ],
+    "links": [
+      {
+        "target": "div > div > div:nth-of-type(2) > div:nth-of-type(1) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/",
+        "imgAlt": "CancerCare Manitoba Logo",
+        "box": {
+          "x": 30,
+          "y": 10,
+          "w": 304,
+          "h": 48
+        },
+        "context": "Go PATIENTS & FAMILY TREATMENT & CARE SCREENING RESEARCH HEALTH PROFESSIONALS WAYS TO HELP ABOUT US",
+        "contextKind": "block",
+        "html": "<a href=\"/\"><img class=\"logo img-responsive\" style=\"width: auto;height: auto; float:none;\" src=\"/export/sites/default/.galleries/images/CCMB-bilingual-logo-240.png\" alt=\"CancerCare Manitoba Logo\"></a>"
+      },
+      {
+        "target": "#bs-example-navbar-collapse-1 > div > ul > li:nth-of-type(1) > a",
+        "text": "PATIENTS & FAMILY",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/Patient-Family/",
+        "imgAlt": "",
+        "box": {
+          "x": 192.890625,
+          "y": 81.421875,
+          "w": 161.703125,
+          "h": 40
+        },
+        "context": "PATIENTS & FAMILY",
+        "contextKind": "li",
+        "html": "<a href=\"/Patient-Family/\" class=\"dropdown-toggle\" data-toggle=\"dropdown\" role=\"button\" aria-haspopup=\"true\" aria-expanded=\"false\">Patients &amp; Family</a>"
+      },
+      {
+        "target": "#bs-example-navbar-collapse-1 > div > ul > li:nth-of-type(2) > a",
+        "text": "TREATMENT & CARE",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/Treatments/",
+        "imgAlt": "",
+        "box": {
+          "x": 354.59375,
+          "y": 81.421875,
+          "w": 170.296875,
+          "h": 40
+        },
+        "context": "TREATMENT & CARE",
+        "contextKind": "li",
+        "html": "<a href=\"/Treatments/\" class=\"dropdown-toggle\" data-toggle=\"dropdown\" role=\"button\" aria-haspopup=\"true\" aria-expanded=\"false\">Treatment &amp; Care</a>"
+      },
+      {
+        "target": "#bs-example-navbar-collapse-1 > div > ul > li:nth-of-type(3) > a",
+        "text": "SCREENING",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/screening/",
+        "imgAlt": "",
+        "box": {
+          "x": 524.890625,
+          "y": 81.421875,
+          "w": 109.1875,
+          "h": 40
+        },
+        "context": "SCREENING",
+        "contextKind": "li",
+        "html": "<a href=\"/screening/\" class=\"dropdown-toggle\" data-toggle=\"dropdown\" role=\"button\" aria-haspopup=\"true\" aria-expanded=\"false\">Screening</a>"
+      },
+      {
+        "target": "#bs-example-navbar-collapse-1 > div > ul > li:nth-of-type(4) > a",
+        "text": "RESEARCH",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/Research/",
+        "imgAlt": "",
+        "box": {
+          "x": 634.078125,
+          "y": 81.421875,
+          "w": 103.359375,
+          "h": 40
+        },
+        "context": "RESEARCH",
+        "contextKind": "li",
+        "html": "<a href=\"/Research/\" class=\"dropdown-toggle\" data-toggle=\"dropdown\" role=\"button\" aria-haspopup=\"true\" aria-expanded=\"false\">Research</a>"
+      },
+      {
+        "target": "#bs-example-navbar-collapse-1 > div > ul > li:nth-of-type(5) > a",
+        "text": "HEALTH PROFESSIONALS",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/For-Health-Professionals/",
+        "imgAlt": "",
+        "box": {
+          "x": 737.4375,
+          "y": 81.421875,
+          "w": 208.9375,
+          "h": 40
+        },
+        "context": "HEALTH PROFESSIONALS",
+        "contextKind": "li",
+        "html": "<a href=\"/For-Health-Professionals/\" class=\"dropdown-toggle\" data-toggle=\"dropdown\" role=\"button\" aria-haspopup=\"true\" aria-expanded=\"false\">Health Professionals</a>"
+      },
+      {
+        "target": "#bs-example-navbar-collapse-1 > div > ul > li:nth-of-type(6) > a",
+        "text": "WAYS TO HELP",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/Ways-To-Help/",
+        "imgAlt": "",
+        "box": {
+          "x": 946.375,
+          "y": 81.421875,
+          "w": 130.3125,
+          "h": 40
+        },
+        "context": "WAYS TO HELP",
+        "contextKind": "li",
+        "html": "<a href=\"/Ways-To-Help/\" class=\"dropdown-toggle\" data-toggle=\"dropdown\" role=\"button\" aria-haspopup=\"true\" aria-expanded=\"false\">Ways To Help</a>"
+      },
+      {
+        "target": "#bs-example-navbar-collapse-1 > div > ul > li:nth-of-type(7) > a",
+        "text": "ABOUT US",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/About-Us/",
+        "imgAlt": "",
+        "box": {
+          "x": 1076.6875,
+          "y": 81.421875,
+          "w": 96.40625,
+          "h": 40
+        },
+        "context": "ABOUT US",
+        "contextKind": "li",
+        "html": "<a href=\"/About-Us/\" class=\"dropdown-toggle\" data-toggle=\"dropdown\" role=\"button\" aria-haspopup=\"true\" aria-expanded=\"false\">About Us</a>"
+      },
+      {
+        "target": "#revslider-60 > ul > li:nth-of-type(1) > div:nth-of-type(2) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://secure.erbium.com/ui/register/e-MRJ0EyX97x",
+        "imgAlt": "",
+        "box": {
+          "x": 15,
+          "y": 121.171875,
+          "w": 1336,
+          "h": 418
+        },
+        "context": "",
+        "contextKind": "li",
+        "html": "<a style=\"width:100%;height:100%;display:block\" target=\"_self\" href=\"https://secure.erbium.com/ui/register/e-MRJ0EyX97x\"><span style=\"width:100%;height:100%;display:block\"></span></a>"
+      },
+      {
+        "target": "div > div:nth-of-type(3) > div > div > a",
+        "text": "News",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/About-Us/communications-and-public-affairs/news-archive/",
+        "imgAlt": "",
+        "box": {
+          "x": 113,
+          "y": 555.421875,
+          "w": 1140,
+          "h": 32.390625
+        },
+        "context": "",
+        "contextKind": "none",
+        "html": "<a href=\"/About-Us/communications-and-public-affairs/news-archive/\"> <div class=\"headline\">\n\t\t\t\t\t\t\t<h2>\n\t\t\t\t\t\t\tNews</h2>\n\t\t\t\t\t\t</div></a>"
+      },
+      {
+        "target": "#e77d88f6-b485-11f1-9ba3-005056a70a4a > a",
+        "text": "Important Updated Information About Laboratory Services",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/About-Us/communications-and-public-affairs/news-archive/Important-Updated-Information-About-Laboratory-Services/",
+        "imgAlt": "",
+        "box": {
+          "x": 128,
+          "y": 611.8125,
+          "w": 460.265625,
+          "h": 20
+        },
+        "context": "heading: Important Updated Information About Laboratory Services | Important Updated Information About Laboratory Services",
+        "contextKind": "block",
+        "html": "<a href=\"/About-Us/communications-and-public-affairs/news-archive/Important-Updated-Information-About-Laboratory-Services/\">Important Updated Information About Laboratory Services</a>"
+      },
+      {
+        "target": "#list_large_page_1 > div:nth-of-type(1) > div > p > a",
+        "text": "read more...",
+        "ariaLabel": "Read More about Important Updated Information About Laboratory Services",
+        "title": "",
+        "href": "/About-Us/communications-and-public-affairs/news-archive/Important-Updated-Information-About-Laboratory-Services/",
+        "imgAlt": "",
+        "box": {
+          "x": 1113.25,
+          "y": 639.609375,
+          "w": 85.046875,
+          "h": 17
+        },
+        "context": "The Manitoba Labour Board has issued an interim order requiring Dynacare staff to temporarily suspend their labour disruption and return to work. ... read more...",
+        "contextKind": "p",
+        "html": "<a aria-label=\"Read More about Important Updated Information About Laboratory Services\" href=\"/About-Us/communications-and-public-affairs/news-archive/Important-Updated-Information-About-Laboratory-Services/\"> read more...</a>"
+      },
+      {
+        "target": "#e77f36a7-b485-11f1-9ba3-005056a70a4a > a",
+        "text": "Important Information About CCMB Laboratory Services",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/About-Us/communications-and-public-affairs/news-archive/Important-Information-About-CCMB-Laboratory-Services/",
+        "imgAlt": "",
+        "box": {
+          "x": 128,
+          "y": 683.03125,
+          "w": 445.203125,
+          "h": 20
+        },
+        "context": "heading: Important Information About CCMB Laboratory Services | Important Information About CCMB Laboratory Services",
+        "contextKind": "block",
+        "html": "<a href=\"/About-Us/communications-and-public-affairs/news-archive/Important-Information-About-CCMB-Laboratory-Services/\">Important Information About CCMB Laboratory Services </a>"
+      },
+      {
+        "target": "#list_large_page_1 > div:nth-of-type(2) > div > p > a",
+        "text": "read more...",
+        "ariaLabel": "Read More about Important Information About CCMB Laboratory Services ",
+        "title": "",
+        "href": "/About-Us/communications-and-public-affairs/news-archive/Important-Information-About-CCMB-Laboratory-Services/",
+        "imgAlt": "",
+        "box": {
+          "x": 288.90625,
+          "y": 732.25,
+          "w": 85.046875,
+          "h": 17
+        },
+        "context": "A potential Dynacare work stoppage may begin Tuesday, September 8, 2026. Negotiations are ongoing, and we hope an agreement will be reached to avoid a disruption in services. ... read more...",
+        "contextKind": "p",
+        "html": "<a aria-label=\"Read More about Important Information About CCMB Laboratory Services \" href=\"/About-Us/communications-and-public-affairs/news-archive/Important-Information-About-CCMB-Laboratory-Services/\"> read more...</a>"
+      },
+      {
+        "target": "#e7809638-b485-11f1-9ba3-005056a70a4a > a",
+        "text": "Dynacare Labour Disruption Update: Manitoba’s Health System Response",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/About-Us/communications-and-public-affairs/news-archive/Dynacare-Labour-Disruption-Update-Manitobas-Health-System-Response/",
+        "imgAlt": "",
+        "box": {
+          "x": 128,
+          "y": 775.671875,
+          "w": 592,
+          "h": 20
+        },
+        "context": "heading: Dynacare Labour Disruption Update: Manitoba’s Health System Response | Dynacare Labour Disruption Update: Manitoba’s Health System Response",
+        "contextKind": "block",
+        "html": "<a href=\"/About-Us/communications-and-public-affairs/news-archive/Dynacare-Labour-Disruption-Update-Manitobas-Health-System-Response/\">Dynacare Labour Disruption Update: Manitoba’s Health System Response</a>"
+      },
+      {
+        "target": "#list_large_page_1 > div:nth-of-type(3) > div > p > a",
+        "text": "read more...",
+        "ariaLabel": "Read More about Dynacare Labour Disruption Update: Manitoba’s Health System Response",
+        "title": "",
+        "href": "/About-Us/communications-and-public-affairs/news-archive/Dynacare-Labour-Disruption-Update-Manitobas-Health-System-Response/",
+        "imgAlt": "",
+        "box": {
+          "x": 417.34375,
+          "y": 824.890625,
+          "w": 85.046875,
+          "h": 17
+        },
+        "context": "September 4, 2026 — Shared Health, Manitoba Regional Health Authorities, CancerCare Manitoba (CCMB) and government partners have been working closely together to prepare for the possibility of a ... r",
+        "contextKind": "p",
+        "html": "<a aria-label=\"Read More about Dynacare Labour Disruption Update: Manitoba’s Health System Response\" href=\"/About-Us/communications-and-public-affairs/news-archive/Dynacare-Labour-Disruption-Update-Manitobas-Health-System-Response/\"> read more...</a>"
+      },
+      {
+        "target": "#e7821cd9-b485-11f1-9ba3-005056a70a4a > a",
+        "text": "For Health Care Providers: Register for the Provincial Cancer Care Conference",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/About-Us/communications-and-public-affairs/news-archive/For-Health-Care-Providers-Register-for-the-Provincial-Cancer-Care-Conference-00001/",
+        "imgAlt": "",
+        "box": {
+          "x": 128,
+          "y": 868.3125,
+          "w": 630.265625,
+          "h": 20
+        },
+        "context": "heading: For Health Care Providers: Register for the Provincial Cancer Care Conference | For Health Care Providers: Register for the Provincial Cancer Care Conference",
+        "contextKind": "block",
+        "html": "<a href=\"/About-Us/communications-and-public-affairs/news-archive/For-Health-Care-Providers-Register-for-the-Provincial-Cancer-Care-Conference-00001/\">For Health Care Providers: Register for the Provincial Cancer Care Conference</a>"
+      },
+      {
+        "target": "#list_large_page_1 > div:nth-of-type(4) > div > p > a",
+        "text": "read more...",
+        "ariaLabel": "Read More about For Health Care Providers: Register for the Provincial Cancer Care Conference",
+        "title": "",
+        "href": "/About-Us/communications-and-public-affairs/news-archive/For-Health-Care-Providers-Register-for-the-Provincial-Cancer-Care-Conference-00001/",
+        "imgAlt": "",
+        "box": {
+          "x": 378.125,
+          "y": 917.53125,
+          "w": 85.046875,
+          "h": 17
+        },
+        "context": "CancerCare Manitoba invites healthcare professionals from across Manitoba to attend the Provincial Cancer Care Conference taking place September 24-25, 2026, This year, the conference will focus ... r",
+        "contextKind": "p",
+        "html": "<a aria-label=\"Read More about For Health Care Providers: Register for the Provincial Cancer Care Conference\" href=\"/About-Us/communications-and-public-affairs/news-archive/For-Health-Care-Providers-Register-for-the-Provincial-Cancer-Care-Conference-00001/\"> read more...</a>"
+      },
+      {
+        "target": "div > div > div:nth-of-type(2) > p > a",
+        "text": "News Archive",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/About-Us/communications-and-public-affairs/news-archive/",
+        "imgAlt": "",
+        "box": {
+          "x": 113,
+          "y": 976.953125,
+          "w": 135.046875,
+          "h": 39.703125
+        },
+        "context": "News Archive",
+        "contextKind": "p",
+        "html": "<a class=\"btn btn-u btn-u-md btn-u-ccmbblue\" href=\"/About-Us/communications-and-public-affairs/news-archive/\">\n\t\t\t\t\t\t\t\t\tNews Archive</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > div:nth-of-type(1) > div > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "Click here for the latest issue of The Navigator Newsletter",
+        "href": "/export/sites/default/.galleries/files/the-navigator-newsletter-files/The-Navigator.pdf",
+        "imgAlt": "group of people talking around a coffee table (c) CancerCare Manitoba",
+        "box": {
+          "x": 113,
+          "y": 1072.65625,
+          "w": 360,
+          "h": 294.734375
+        },
+        "context": "heading: For Health Care Providers: Register for the Provincial Cancer Care Conference",
+        "contextKind": "heading-only",
+        "html": "<a target=\"_blank\" href=\"/export/sites/default/.galleries/files/the-navigator-newsletter-files/The-Navigator.pdf\" title=\"Click here for the latest issue of The Navigator Newsletter\">\n\t\t<div class=\"ap-img-pic \">\n\t\t\t\t<span data-imagednd=\"43565277-f6df-11e7-929f-005056a70a4a|Image[1]/Image[1]|en\">\n\t\t\t\t"
+      },
+      {
+        "target": "div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(2) > p > a",
+        "text": "Click here for the latest issue of The Navigator Newsletter",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/export/sites/default/.galleries/files/the-navigator-newsletter-files/The-Navigator.pdf",
+        "imgAlt": "",
+        "box": {
+          "x": 503,
+          "y": 1256.828125,
+          "w": 382.90625,
+          "h": 34
+        },
+        "context": "Click here for the latest issue of The Navigator Newsletter",
+        "contextKind": "p",
+        "html": "<a class=\"btn btn-u u-small btn-u-ccmbblue\" href=\"/export/sites/default/.galleries/files/the-navigator-newsletter-files/The-Navigator.pdf\" target=\"_blank\">\n\t\t\t\t\tClick here for the latest issue of The Navigator Newsletter</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(1) > div:nth-of-type(2) > p > a",
+        "text": "View Details",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/Research/",
+        "imgAlt": "",
+        "box": {
+          "x": 113,
+          "y": 1598.953125,
+          "w": 102.78125,
+          "h": 34
+        },
+        "context": "View Details",
+        "contextKind": "p",
+        "html": "<a class=\"btn btn-u u-small btn-u-ccmbblue\" href=\"/Research/\">\n\t\t\t\t\tView Details</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > div:nth-of-type(1) > div > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "View Locations",
+        "href": "/About-Us/Locations/our-locations",
+        "imgAlt": "image of CancerCare Manitoba building (c) CancerCare Manitoba",
+        "box": {
+          "x": 113,
+          "y": 1729.140625,
+          "w": 360,
+          "h": 360
+        },
+        "context": "heading: Research & Education. | Where You Can Find Us. CancerCare Manitoba offers services in a variety of locations all across the province of Manitoba.Take a look at our locations page for detailed information on specific sites. View Locations",
+        "contextKind": "block",
+        "html": "<a target=\"_blank\" href=\"/About-Us/Locations/our-locations\" title=\"View Locations\">\n\t\t<div class=\"ap-img-pic img-bordered\">\n\t\t\t\t<span data-imagednd=\"01a0287b-0c20-11e8-a0c0-005056a70a4a|Image[1]/Image[1]|en\">\n\t\t\t\t\t\t<img src=\"/export/sites/default/.galleries/images/mcdermot-site.jpg\" class=\"img-respo"
+      },
+      {
+        "target": "div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(2) > p > a",
+        "text": "View Locations",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/About-Us/Locations/our-locations",
+        "imgAlt": "",
+        "box": {
+          "x": 503,
+          "y": 1900.3125,
+          "w": 119.921875,
+          "h": 34
+        },
+        "context": "View Locations",
+        "contextKind": "p",
+        "html": "<a class=\"btn btn-u u-small btn-u-ccmbblue\" href=\"/About-Us/Locations/our-locations\">\n\t\t\t\t\tView Locations</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(1) > div:nth-of-type(3) > div > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "The CancerCare Manitoba Foundation Website",
+        "href": "http://www.cancercarefdn.mb.ca/",
+        "imgAlt": "CancerCare Manitoba Foundation Logo (c) CancerCare Manitoba Foundation",
+        "box": {
+          "x": 990.5,
+          "y": 2197.53125,
+          "w": 262.5,
+          "h": 70.875
+        },
+        "context": "heading: CancerCare Manitoba Foundation",
+        "contextKind": "heading-only",
+        "html": "<a target=\"_blank\" href=\"http://www.cancercarefdn.mb.ca/\" title=\"The CancerCare Manitoba Foundation Website\">\n\t\t<div class=\"ap-img-pic \">\n\t\t\t\t<span data-imagednd=\"9fabd701-4abe-11e7-8a49-005056a70a4a|Image[1]/Image[1]|en\">\n\t\t\t\t\t\t<img src=\"/export/sites/default/.galleries/images/ccm-foundation-logo-t"
+      },
+      {
+        "target": "div > div:nth-of-type(7) > div > div:nth-of-type(2) > a",
+        "text": "Learn More",
+        "ariaLabel": "Learn More on how to donate to the CancerCare Manitoba Foundation",
+        "title": "",
+        "href": "https://www.cancercarefdn.mb.ca/",
+        "imgAlt": "",
+        "box": {
+          "x": 113,
+          "y": 2376.0625,
+          "w": 148.734375,
+          "h": 48.28125
+        },
+        "context": "heading: CancerCare Manitoba Foundation",
+        "contextKind": "heading-only",
+        "html": "<a aria-label=\"Learn More on how to donate to the CancerCare Manitoba Foundation\" class=\"btn btn-u btn-u-lrg btn-u-ccmbblue\" href=\"https://www.cancercarefdn.mb.ca/\" target=\"_blank\">Learn More</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > div > p:nth-of-type(9) > a",
+        "text": "cancercarefdn.mb.ca/steves-story",
+        "ariaLabel": "",
+        "title": "",
+        "href": "http://www.cancercarefdn.mb.ca/steves-story",
+        "imgAlt": "",
+        "box": {
+          "x": 113,
+          "y": 3041.015625,
+          "w": 223.984375,
+          "h": 17
+        },
+        "context": "Read Steve’s full story and learn how your donation today will be doubled, deepening your support for patients, here at CancerCare Manitoba: cancercarefdn.mb.ca/steves-story.",
+        "contextKind": "p",
+        "html": "<a href=\"http://www.cancercarefdn.mb.ca/steves-story\" target=\"_blank\">cancercarefdn.mb.ca/steves-story</a>"
+      },
+      {
+        "target": "div:nth-of-type(9) > div:nth-of-type(1) > div > div:nth-of-type(3) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.cancercarefdn.mb.ca/steves-story/",
+        "imgAlt": "",
+        "box": {
+          "x": 113,
+          "y": 3070.4375,
+          "w": 555,
+          "h": 277.5
+        },
+        "context": "heading: Steve's Story",
+        "contextKind": "heading-only",
+        "html": "<a target=\"_blank\" href=\"https://www.cancercarefdn.mb.ca/steves-story/\">\n\t\t<div class=\"ap-img-pic \">\n\t\t\t\t<span data-imagednd=\"b4eec97e-0e2c-11eb-82a4-005056a70a4a|Image[1]/Image[1]|en\">\n\t\t\t\t\t\t<img src=\"/export/sites/default/.galleries/images/ccmf-signature-events/Canada-Helps-landing-page-image.png\""
+      },
+      {
+        "target": "div > div:nth-of-type(2) > div > p:nth-of-type(3) > a",
+        "text": "Learn more",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.cancercarefdn.mb.ca/fundraise/",
+        "imgAlt": "",
+        "box": {
+          "x": 698,
+          "y": 2745.375,
+          "w": 76.71875,
+          "h": 17
+        },
+        "context": "Learn more about hosting a community event and what’s happening right here in Manitoba.",
+        "contextKind": "p",
+        "html": "<a href=\"https://www.cancercarefdn.mb.ca/fundraise/\" target=\"_blank\">Learn more</a>"
+      },
+      {
+        "target": "div:nth-of-type(9) > div:nth-of-type(2) > div > div:nth-of-type(3) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://youtu.be/F2Fjgi0v2NQ?si=YSl3psHG45OVGJID",
+        "imgAlt": "",
+        "box": {
+          "x": 698,
+          "y": 2796.21875,
+          "w": 555,
+          "h": 348.734375
+        },
+        "context": "heading: Fundraise Your Way",
+        "contextKind": "heading-only",
+        "html": "<a target=\"_blank\" href=\"https://youtu.be/F2Fjgi0v2NQ?si=YSl3psHG45OVGJID\">\n\t\t<div class=\"ap-img-pic \">\n\t\t\t\t<span data-imagednd=\"89201381-0e2d-11eb-82a4-005056a70a4a|Image[1]/Image[1]|en\">\n\t\t\t\t\t\t<img src=\"/export/sites/default/.galleries/images/ccmf-signature-events/RIKA.png\" class=\"img-responsive \""
+      },
+      {
+        "target": "#ccmb-footer-nav > ul > li:nth-of-type(1) > a",
+        "text": "Feedback",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/feedback/",
+        "imgAlt": "",
+        "box": {
+          "x": 113,
+          "y": 3393.9375,
+          "w": 287.953125,
+          "h": 22.84375
+        },
+        "context": "Feedback",
+        "contextKind": "li",
+        "html": "<a href=\"/feedback/\">Feedback</a>"
+      },
+      {
+        "target": "#ccmb-footer-nav > ul > li:nth-of-type(2) > a",
+        "text": "Careers",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/About-Us/human-resources-careers/",
+        "imgAlt": "",
+        "box": {
+          "x": 400.953125,
+          "y": 3393.9375,
+          "w": 273.75,
+          "h": 22.84375
+        },
+        "context": "Careers",
+        "contextKind": "li",
+        "html": "<a href=\"/About-Us/human-resources-careers/\">Careers</a>"
+      },
+      {
+        "target": "#ccmb-footer-nav > ul > li:nth-of-type(3) > a",
+        "text": "Board SharePoint",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://extranet.manitoba-ehealth.ca/ccmb/board/",
+        "imgAlt": "",
+        "box": {
+          "x": 674.703125,
+          "y": 3393.9375,
+          "w": 298.609375,
+          "h": 22.84375
+        },
+        "context": "Board SharePoint",
+        "contextKind": "li",
+        "html": "<a href=\"https://extranet.manitoba-ehealth.ca/ccmb/board/\">Board SharePoint</a>"
+      },
+      {
+        "target": "#ccmb-footer-nav > ul > li:nth-of-type(4) > a",
+        "text": "Staff Webmail",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://outlook.office.com/",
+        "imgAlt": "",
+        "box": {
+          "x": 973.3125,
+          "y": 3393.9375,
+          "w": 279.6875,
+          "h": 22.84375
+        },
+        "context": "Staff Webmail",
+        "contextKind": "li",
+        "html": "<a href=\"https://outlook.office.com/\">Staff Webmail</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(2) > div > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "Corporate Publications",
+        "href": "/About-Us/corporate-publications/",
+        "imgAlt": "Accreditation Canada Seal (c) Accreditation Canada",
+        "box": {
+          "x": 503,
+          "y": 3491.78125,
+          "w": 360,
+          "h": 203
+        },
+        "context": "heading: Fundraise Your Way | Copyright © 2000-2026 CancerCare Manitoba. All Rights Reserved.",
+        "contextKind": "block",
+        "html": "<a target=\"_blank\" href=\"/About-Us/corporate-publications/\" title=\"Corporate Publications\">\n\t\t<div class=\"ap-img-pic \">\n\t\t\t\t<span data-imagednd=\"a4d47bec-1bd6-11e8-a0c0-005056a70a4a|Image[1]/Image[1]|en\">\n\t\t\t\t\t\t<img src=\"/export/sites/default/.galleries/images/ACSealAwES.JPG_576729172.jpg\" class=\"im"
+      },
+      {
+        "target": "div:nth-of-type(2) > div:nth-of-type(3) > div > div > a:nth-of-type(1)",
+        "text": "Home",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/home/",
+        "imgAlt": "",
+        "box": {
+          "x": 920.5625,
+          "y": 3440.9375,
+          "w": 41.6875,
+          "h": 17
+        },
+        "context": "heading: Fundraise Your Way | Home | Site Map | Conditions of Use | Web Admin",
+        "contextKind": "block",
+        "html": "<a href=\"/home/\"><b>Home</b></a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div:nth-of-type(3) > div > div > a:nth-of-type(2)",
+        "text": "Site Map",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/sitemap/",
+        "imgAlt": "",
+        "box": {
+          "x": 974.484375,
+          "y": 3440.9375,
+          "w": 59.203125,
+          "h": 17
+        },
+        "context": "heading: Fundraise Your Way | Home | Site Map | Conditions of Use | Web Admin",
+        "contextKind": "block",
+        "html": "<a href=\"/sitemap/\">Site Map</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div:nth-of-type(3) > div > div > a:nth-of-type(3)",
+        "text": "Conditions of Use",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/conditions-of-use/",
+        "imgAlt": "",
+        "box": {
+          "x": 1045.921875,
+          "y": 3440.9375,
+          "w": 118.40625,
+          "h": 17
+        },
+        "context": "heading: Fundraise Your Way | Home | Site Map | Conditions of Use | Web Admin",
+        "contextKind": "block",
+        "html": "<a href=\"/conditions-of-use/\">Conditions of Use</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div:nth-of-type(3) > div > div > a:nth-of-type(4)",
+        "text": "Web Admin",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/login/",
+        "imgAlt": "",
+        "box": {
+          "x": 1176.5625,
+          "y": 3440.9375,
+          "w": 76.4375,
+          "h": 17
+        },
+        "context": "heading: Fundraise Your Way | Home | Site Map | Conditions of Use | Web Admin",
+        "contextKind": "block",
+        "html": "<a href=\"/login/\">Web Admin</a>"
+      },
+      {
+        "target": "div:nth-of-type(3) > div > div > div:nth-of-type(1) > a:nth-of-type(1)",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.facebook.com/CancerCareMB",
+        "imgAlt": "Facebook",
+        "box": {
+          "x": 1080.484375,
+          "y": 3470.25,
+          "w": 40,
+          "h": 17
+        },
+        "context": "heading: Fundraise Your Way | Home | Site Map | Conditions of Use | Web Admin",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.facebook.com/CancerCareMB\" border=\"0\" target=\"_blank\"><img src=\"/export/sites/default/.galleries/images/icon-fb-128x128.png\" alt=\"Facebook\" width=\"40\" height=\"40\"></a>"
+      },
+      {
+        "target": "div:nth-of-type(3) > div > div > div:nth-of-type(1) > a:nth-of-type(2)",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://x.com/CancerCareMB",
+        "imgAlt": "Twitter",
+        "box": {
+          "x": 1124.65625,
+          "y": 3470.25,
+          "w": 40,
+          "h": 17
+        },
+        "context": "heading: Fundraise Your Way | Home | Site Map | Conditions of Use | Web Admin",
+        "contextKind": "block",
+        "html": "<a href=\"https://x.com/CancerCareMB\" border=\"0\" target=\"_blank\"><img src=\"/export/sites/default/.galleries/images/x-icon.png\" alt=\"Twitter\" width=\"40\" height=\"40\"></a>"
+      },
+      {
+        "target": "div:nth-of-type(3) > div > div > div:nth-of-type(1) > a:nth-of-type(3)",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.youtube.com/user/CancerCareMB/",
+        "imgAlt": "YouTube",
+        "box": {
+          "x": 1168.828125,
+          "y": 3470.25,
+          "w": 40,
+          "h": 17
+        },
+        "context": "heading: Fundraise Your Way | Home | Site Map | Conditions of Use | Web Admin",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.youtube.com/user/CancerCareMB/\" border=\"0\" target=\"_blank\"><img src=\"/export/sites/default/.galleries/images/icon-yt-128x128.png\" alt=\"YouTube\" width=\"40\" height=\"40\"></a>"
+      },
+      {
+        "target": "div:nth-of-type(3) > div > div > div:nth-of-type(1) > a:nth-of-type(4)",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.instagram.com/cancercare.mb/",
+        "imgAlt": "Instagram",
+        "box": {
+          "x": 1213,
+          "y": 3470.25,
+          "w": 40,
+          "h": 17
+        },
+        "context": "heading: Fundraise Your Way | Home | Site Map | Conditions of Use | Web Admin",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.instagram.com/cancercare.mb/\" border=\"0\" target=\"_blank\"><img src=\"/export/sites/default/.galleries/images/Instagram_icon-128px.png\" alt=\"Instagram\" width=\"40\" height=\"40\"></a>"
+      }
+    ],
+    "headings": [
+      {
+        "target": "div > div > a > div > h2",
+        "level": 2,
+        "text": "News",
+        "visible": true,
+        "box": {
+          "x": 113,
+          "y": 555.421875,
+          "w": 60.015625,
+          "h": 33.390625
+        },
+        "html": "<h2>\n\t\t\t\t\t\t\tNews</h2>"
+      },
+      {
+        "target": "#e77d88f6-b485-11f1-9ba3-005056a70a4a",
+        "level": 4,
+        "text": "Important Updated Information About Laboratory Services",
+        "visible": true,
+        "box": {
+          "x": 128,
+          "y": 612.8125,
+          "w": 460.265625,
+          "h": 19.796875
+        },
+        "html": "<h4 id=\"e77d88f6-b485-11f1-9ba3-005056a70a4a\" class=\"mb-5\" style=\"display:inline-block;\">\n\t\t\t\t<a href=\"/About-Us/communications-and-public-affairs/news-archive/Important-Updated-Information-About-Laboratory-Services/\">Important Updated Information About Laboratory Services</a>\n\t\t\t</h4>"
+      },
+      {
+        "target": "#e77f36a7-b485-11f1-9ba3-005056a70a4a",
+        "level": 4,
+        "text": "Important Information About CCMB Laboratory Services",
+        "visible": true,
+        "box": {
+          "x": 128,
+          "y": 684.03125,
+          "w": 445.203125,
+          "h": 19.796875
+        },
+        "html": "<h4 id=\"e77f36a7-b485-11f1-9ba3-005056a70a4a\" class=\"mb-5\" style=\"display:inline-block;\">\n\t\t\t\t<a href=\"/About-Us/communications-and-public-affairs/news-archive/Important-Information-About-CCMB-Laboratory-Services/\">Important Information About CCMB Laboratory Services </a>\n\t\t\t</h4>"
+      },
+      {
+        "target": "#e7809638-b485-11f1-9ba3-005056a70a4a",
+        "level": 4,
+        "text": "Dynacare Labour Disruption Update: Manitoba’s Health System Response",
+        "visible": true,
+        "box": {
+          "x": 128,
+          "y": 776.671875,
+          "w": 592,
+          "h": 19.796875
+        },
+        "html": "<h4 id=\"e7809638-b485-11f1-9ba3-005056a70a4a\" class=\"mb-5\" style=\"display:inline-block;\">\n\t\t\t\t<a href=\"/About-Us/communications-and-public-affairs/news-archive/Dynacare-Labour-Disruption-Update-Manitobas-Health-System-Response/\">Dynacare Labour Disruption Update: Manitoba’s Health System Response</a"
+      },
+      {
+        "target": "#e7821cd9-b485-11f1-9ba3-005056a70a4a",
+        "level": 4,
+        "text": "For Health Care Providers: Register for the Provincial Cancer Care Conference",
+        "visible": true,
+        "box": {
+          "x": 128,
+          "y": 869.3125,
+          "w": 630.265625,
+          "h": 19.796875
+        },
+        "html": "<h4 id=\"e7821cd9-b485-11f1-9ba3-005056a70a4a\" class=\"mb-5\" style=\"display:inline-block;\">\n\t\t\t\t<a href=\"/About-Us/communications-and-public-affairs/news-archive/For-Health-Care-Providers-Register-for-the-Provincial-Cancer-Care-Conference-00001/\">For Health Care Providers: Register for the Provincial "
+      },
+      {
+        "target": "div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > div > h2",
+        "level": 2,
+        "text": "Supporting Patients and their Families. The Navigator Newsletter",
+        "visible": true,
+        "box": {
+          "x": 503,
+          "y": 1072.65625,
+          "w": 750,
+          "h": 66
+        },
+        "html": "<h2 class=\"featurette-heading\" style=\"box-sizing: border-box; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 500; line-height: 1.1; color: #333333; margin-top: 0px; margin-bottom: 10px; font-size: 30px; font-style: normal; font-variant-ligatures: normal; font-variant-caps:"
+      },
+      {
+        "target": "div > div:nth-of-type(1) > div:nth-of-type(1) > div > h2",
+        "level": 2,
+        "text": "Research & Education.",
+        "visible": true,
+        "box": {
+          "x": 113,
+          "y": 1418.390625,
+          "w": 750,
+          "h": 33
+        },
+        "html": "<h2 class=\"featurette-heading\" style=\"box-sizing: border-box; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 500; line-height: 1.1; color: #333333; margin-top: 0px; margin-bottom: 10px; font-size: 30px; font-style: normal; font-variant-ligatures: normal; font-variant-caps:"
+      },
+      {
+        "target": "div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > div > h2",
+        "level": 2,
+        "text": "Where You Can Find Us.",
+        "visible": true,
+        "box": {
+          "x": 503,
+          "y": 1749.140625,
+          "w": 750,
+          "h": 33
+        },
+        "html": "<h2 class=\"featurette-heading\" style=\"color: #333333; text-transform: none; line-height: 1.1; text-indent: 0px; letter-spacing: normal; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 30px; font-style: normal; font-weight: 500; margin-top: 20px; margin-bottom: 10px; word-spac"
+      },
+      {
+        "target": "div > div:nth-of-type(1) > div:nth-of-type(1) > div > h2",
+        "level": 2,
+        "text": "CancerCare Manitoba Foundation",
+        "visible": true,
+        "box": {
+          "x": 113,
+          "y": 2150.140625,
+          "w": 361.546875,
+          "h": 33.390625
+        },
+        "html": "<h2>\t\t\t\n\t\t\tCancerCare Manitoba Foundation</h2>"
+      },
+      {
+        "target": "div:nth-of-type(9) > div:nth-of-type(1) > div > div:nth-of-type(1) > h2",
+        "level": 2,
+        "text": "Steve's Story",
+        "visible": true,
+        "box": {
+          "x": 113,
+          "y": 2440.34375,
+          "w": 140.640625,
+          "h": 33.390625
+        },
+        "html": "<h2>\t\t\t\n\t\t\tSteve's Story</h2>"
+      },
+      {
+        "target": "div:nth-of-type(9) > div:nth-of-type(2) > div > div:nth-of-type(1) > h2",
+        "level": 2,
+        "text": "Fundraise Your Way",
+        "visible": true,
+        "box": {
+          "x": 698,
+          "y": 2440.34375,
+          "w": 215.234375,
+          "h": 33.390625
+        },
+        "html": "<h2>\t\t\t\n\t\t\tFundraise Your Way</h2>"
+      }
+    ],
+    "lang": "en",
+    "title": "CCMB Homepage"
+  },
   "axe": {
     "violationRules": 3,
     "violationNodes": 11,

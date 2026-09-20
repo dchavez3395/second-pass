@@ -19,7 +19,1538 @@
     "width": 1366,
     "height": 900
   },
-  "scannedAt": "2026-09-19T06:22:47.442Z",
+  "scannedAt": "2026-09-19T23:55:03.952Z",
+  "content": {
+    "images": [],
+    "links": [
+      {
+        "target": "body > div:nth-of-type(1) > ol > li:nth-of-type(1) > a",
+        "text": "Information like Address, Phone, and Email Address",
+        "ariaLabel": "",
+        "title": "Information about French River",
+        "href": "#headerTop",
+        "imgAlt": "",
+        "box": {
+          "x": 64,
+          "y": -159931,
+          "w": 228,
+          "h": 52.8125
+        },
+        "context": "Information like Address, Phone, and Email Address",
+        "contextKind": "li",
+        "html": "<a href=\"#headerTop\" class=\"stcLink\" accesskey=\"1\" title=\"Information about French River\">Information like Address, Phone, and Email Address</a>"
+      },
+      {
+        "target": "body > div:nth-of-type(1) > ol > li:nth-of-type(2) > a",
+        "text": "Main Navigation",
+        "ariaLabel": "",
+        "title": "Primary Site Navigation",
+        "href": "#desktopNav",
+        "imgAlt": "",
+        "box": {
+          "x": 64,
+          "y": -159878.1875,
+          "w": 228,
+          "h": 31.203125
+        },
+        "context": "Main Navigation",
+        "contextKind": "li",
+        "html": "<a href=\"#desktopNav\" class=\"stcLink\" accesskey=\"2\" title=\"Primary Site Navigation\">Main Navigation</a>"
+      },
+      {
+        "target": "body > div:nth-of-type(1) > ol > li:nth-of-type(3) > a",
+        "text": "Quick Links",
+        "ariaLabel": "",
+        "title": "Choose from the selection from the lists for quick information",
+        "href": "#quickLinks",
+        "imgAlt": "",
+        "box": {
+          "x": 64,
+          "y": -159846.984375,
+          "w": 228,
+          "h": 31.203125
+        },
+        "context": "Quick Links",
+        "contextKind": "li",
+        "html": "<a href=\"#quickLinks\" class=\"stcLink\" accesskey=\"3\" title=\"Choose from the selection from the lists for quick information\">Quick Links</a>"
+      },
+      {
+        "target": "body > div:nth-of-type(1) > ol > li:nth-of-type(4) > a",
+        "text": "Search The Website",
+        "ariaLabel": "",
+        "title": "Cant find what you are looking for? Search here",
+        "href": "#search-txt",
+        "imgAlt": "",
+        "box": {
+          "x": 64,
+          "y": -159815.78125,
+          "w": 228,
+          "h": 31.203125
+        },
+        "context": "Search The Website",
+        "contextKind": "li",
+        "html": "<a href=\"#search-txt\" class=\"stcLink\" accesskey=\"4\" title=\"Cant find what you are looking for? Search here\">Search The Website</a>"
+      },
+      {
+        "target": "body > div:nth-of-type(1) > ol > li:nth-of-type(5) > a",
+        "text": "Main Content",
+        "ariaLabel": "",
+        "title": "Skip and read the main content of the site",
+        "href": "#main",
+        "imgAlt": "",
+        "box": {
+          "x": 64,
+          "y": -159784.578125,
+          "w": 228,
+          "h": 31.203125
+        },
+        "context": "Main Content",
+        "contextKind": "li",
+        "html": "<a href=\"#main\" class=\"stcLink\" accesskey=\"5\" title=\"Skip and read the main content of the site\">Main Content</a>"
+      },
+      {
+        "target": "body > div:nth-of-type(1) > ol > li:nth-of-type(6) > a",
+        "text": "What's your view?",
+        "ariaLabel": "",
+        "title": "Vote Now!",
+        "href": "#footerTop",
+        "imgAlt": "",
+        "box": {
+          "x": 64,
+          "y": -159753.375,
+          "w": 228,
+          "h": 31.203125
+        },
+        "context": "What's your view?",
+        "contextKind": "li",
+        "html": "<a href=\"#footerTop\" class=\"stcLink\" accesskey=\"6\" title=\"Vote Now!\">What's your view?</a>"
+      },
+      {
+        "target": "body > div:nth-of-type(1) > ol > li:nth-of-type(7) > a",
+        "text": "Download The Mobile App",
+        "ariaLabel": "",
+        "title": "Download Mobile App For French River",
+        "href": "#downloadOurApp",
+        "imgAlt": "",
+        "box": {
+          "x": 64,
+          "y": -159722.171875,
+          "w": 228,
+          "h": 31.203125
+        },
+        "context": "Download The Mobile App",
+        "contextKind": "li",
+        "html": "<a href=\"#downloadOurApp\" class=\"stcLink\" accesskey=\"7\" title=\"Download Mobile App For French River\">Download The Mobile App</a>"
+      },
+      {
+        "target": "body > div:nth-of-type(1) > ol > li:nth-of-type(8) > a",
+        "text": "Get More Information",
+        "ariaLabel": "",
+        "title": "Company Information and Location",
+        "href": "#getInTouch",
+        "imgAlt": "",
+        "box": {
+          "x": 64,
+          "y": -159690.96875,
+          "w": 228,
+          "h": 31.203125
+        },
+        "context": "Get More Information",
+        "contextKind": "li",
+        "html": "<a href=\"#getInTouch\" class=\"stcLink\" accesskey=\"8\" title=\"Company Information and Location\">Get More Information</a>"
+      },
+      {
+        "target": "body > div:nth-of-type(1) > ol > li:nth-of-type(9) > a",
+        "text": "Register to our Enews",
+        "ariaLabel": "",
+        "title": "Click here to register to our Electronic Newsletter",
+        "href": "#btnRegister",
+        "imgAlt": "",
+        "box": {
+          "x": 64,
+          "y": -159659.765625,
+          "w": 228,
+          "h": 31.203125
+        },
+        "context": "Register to our Enews",
+        "contextKind": "li",
+        "html": "<a href=\"#btnRegister\" class=\"stcLink\" accesskey=\"9\" title=\"Click here to register to our Electronic Newsletter\">Register to our Enews</a>"
+      },
+      {
+        "target": "#headerTop",
+        "text": "100 Main Street South Dauphin, MB R7N 1K3",
+        "ariaLabel": "",
+        "title": "Our office is located at 100 Main Street South Dauphin, MB R7N 1K3",
+        "href": "https://www.google.com/maps/place/100+Main+St+S,+Dauphin,+MB+R7N+1K3/@51.148288,-100.0530712,17z/data=!3m1!4b1!4m5!3m4!1s0x52e5ee60320d778d:0xf3ace2c0e3fd9f1c!8m2!3d51.148288!4d-100.0508825",
+        "imgAlt": "",
+        "box": {
+          "x": 32,
+          "y": 16,
+          "w": 284.71875,
+          "h": 21.484375
+        },
+        "context": "heading: Skip To Content | 100 Main Street South Dauphin, MB R7N 1K3 204-622-3200",
+        "contextKind": "block",
+        "html": "<a id=\"headerTop\" class=\"hMap\" href=\"https://www.google.com/maps/place/100+Main+St+S,+Dauphin,+MB+R7N+1K3/@51.148288,-100.0530712,17z/data=!3m1!4b1!4m5!3m4!1s0x52e5ee60320d778d:0xf3ace2c0e3fd9f1c!8m2!3d51.148288!4d-100.0508825\" title=\"Our office is located at 100 Main Street South Dauphin, MB R7N 1K"
+      },
+      {
+        "target": "header > div:nth-of-type(1) > div:nth-of-type(1) > div > a:nth-of-type(2)",
+        "text": "204-622-3200",
+        "ariaLabel": "",
+        "title": "Call us at +1204-622-3200",
+        "href": "tel:+1204-622-3200",
+        "imgAlt": "",
+        "box": {
+          "x": 490.75,
+          "y": 16,
+          "w": 102.25,
+          "h": 21.484375
+        },
+        "context": "heading: Skip To Content | 100 Main Street South Dauphin, MB R7N 1K3 204-622-3200",
+        "contextKind": "block",
+        "html": "<a class=\"hPhone\" href=\"tel:+1204-622-3200\" title=\"Call us at +1204-622-3200\"><span>204-622-3200</span></a>"
+      },
+      {
+        "target": "header > div:nth-of-type(1) > div:nth-of-type(3) > div > a",
+        "text": "info@dauphin.ca",
+        "ariaLabel": "",
+        "title": "Email us at info@dauphin.ca",
+        "href": "mailto:info@dauphin.ca",
+        "imgAlt": "",
+        "box": {
+          "x": 773,
+          "y": 16,
+          "w": 121.546875,
+          "h": 27
+        },
+        "context": "heading: Skip To Content | info@dauphin.ca Stay Connected Facebook Instagram Youtube Search Our Website Search Our Website TYPE HERE TO SEARCH CONTENTS IN OUR WEBSITE SEARCH HERE",
+        "contextKind": "block",
+        "html": "<a class=\"hEmail\" href=\"mailto:info@dauphin.ca\" title=\"Email us at info@dauphin.ca\"><span>info@dauphin.ca</span></a>"
+      },
+      {
+        "target": "#socialMedia",
+        "text": "Facebook",
+        "ariaLabel": "",
+        "title": "Join us in our Facebook page",
+        "href": "https://www.facebook.com/CityofDauphin/",
+        "imgAlt": "",
+        "box": {
+          "x": 988.421875,
+          "y": 19,
+          "w": 12.796875,
+          "h": 20.484375
+        },
+        "context": "heading: Skip To Content | Stay Connected Facebook Instagram Youtube",
+        "contextKind": "block",
+        "html": "<a id=\"socialMedia\" href=\"https://www.facebook.com/CityofDauphin/\" class=\"facebook\" title=\"Join us in our Facebook page\" target=\"_blank\"><span class=\"hideMe\">Facebook</span></a>"
+      },
+      {
+        "target": "div:nth-of-type(1) > div:nth-of-type(3) > div > figure > a:nth-of-type(2)",
+        "text": "Instagram",
+        "ariaLabel": "",
+        "title": "Join us in our Instagram page",
+        "href": "https://www.instagram.com/cityofdauphin/",
+        "imgAlt": "",
+        "box": {
+          "x": 1005.375,
+          "y": 19,
+          "w": 12.796875,
+          "h": 20.484375
+        },
+        "context": "heading: Skip To Content | Stay Connected Facebook Instagram Youtube",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.instagram.com/cityofdauphin/\" class=\"instagram\" title=\"Join us in our Instagram page\" target=\"_blank\"><span class=\"hideMe\">Instagram</span></a>"
+      },
+      {
+        "target": "div:nth-of-type(1) > div:nth-of-type(3) > div > figure > a:nth-of-type(3)",
+        "text": "Youtube",
+        "ariaLabel": "",
+        "title": "Watch our community videos on our Youtube page",
+        "href": "https://www.youtube.com/channel/UC0sbR6mgwddHtyQ_MISgedQ",
+        "imgAlt": "",
+        "box": {
+          "x": 1022.328125,
+          "y": 19,
+          "w": 12.796875,
+          "h": 20.484375
+        },
+        "context": "heading: Skip To Content | Stay Connected Facebook Instagram Youtube",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.youtube.com/channel/UC0sbR6mgwddHtyQ_MISgedQ\" class=\"youtube\" title=\"Watch our community videos on our Youtube page\" target=\"_blank\"><span class=\"hideMe\">Youtube</span></a>"
+      },
+      {
+        "target": "#\\#categoryNavID0",
+        "text": "SERVICES",
+        "ariaLabel": "",
+        "title": "Click to view Services",
+        "href": "/p/services",
+        "imgAlt": "",
+        "box": {
+          "x": 0,
+          "y": 60,
+          "w": 197.671875,
+          "h": 84
+        },
+        "context": "SERVICES",
+        "contextKind": "li",
+        "html": "<a href=\"/p/services\" title=\"Click to view Services\" class=\"menuonehovercolor \" id=\"#categoryNavID0\" role=\"menuitem\" aria-haspopup=\"true\" aria-owns=\"subMainMenu0\" style=\"cursor: default;\">\n\t\t\t\t\t<span>Services</span> \n\t\t\t</a>"
+      },
+      {
+        "target": "#\\#categoryNavID1",
+        "text": "GOVERNMENT",
+        "ariaLabel": "",
+        "title": "Click to view Government ",
+        "href": "/p/government",
+        "imgAlt": "",
+        "box": {
+          "x": 197.671875,
+          "y": 60,
+          "w": 197.65625,
+          "h": 84
+        },
+        "context": "GOVERNMENT",
+        "contextKind": "li",
+        "html": "<a href=\"/p/government\" title=\"Click to view Government \" class=\"menuonehovercolor \" id=\"#categoryNavID1\" role=\"menuitem\" aria-haspopup=\"true\" aria-owns=\"subMainMenu1\" style=\"cursor: default;\">\n\t\t\t\t\t<span>Government </span> \n\t\t\t</a>"
+      },
+      {
+        "target": "#\\#categoryNavID2",
+        "text": "BUSINESS",
+        "ariaLabel": "",
+        "title": "Click to view Business",
+        "href": "/p/business",
+        "imgAlt": "",
+        "box": {
+          "x": 395.328125,
+          "y": 60,
+          "w": 197.671875,
+          "h": 84
+        },
+        "context": "BUSINESS",
+        "contextKind": "li",
+        "html": "<a href=\"/p/business\" title=\"Click to view Business\" class=\"menuonehovercolor \" id=\"#categoryNavID2\" role=\"menuitem\" aria-haspopup=\"true\" aria-owns=\"subMainMenu2\" style=\"cursor: default;\">\n\t\t\t\t\t<span>Business</span> \n\t\t\t</a>"
+      },
+      {
+        "target": "#desktopNav > ul > li:nth-of-type(4) > h1 > a",
+        "text": "CITY OF DAUPHIN",
+        "ariaLabel": "",
+        "title": "Welcome to City of Dauphin",
+        "href": "/",
+        "imgAlt": "",
+        "box": {
+          "x": 625.5,
+          "y": 24,
+          "w": 115,
+          "h": 104
+        },
+        "context": "CITY OF DAUPHIN",
+        "contextKind": "li",
+        "html": "<a href=\"/\" title=\"Welcome to City of Dauphin\" role=\"menuitem\">City of Dauphin</a>"
+      },
+      {
+        "target": "#\\#categoryNavID3",
+        "text": "COMMUNITY",
+        "ariaLabel": "",
+        "title": "Click to view Community",
+        "href": "/p/community",
+        "imgAlt": "",
+        "box": {
+          "x": 773,
+          "y": 60,
+          "w": 197.65625,
+          "h": 84
+        },
+        "context": "COMMUNITY",
+        "contextKind": "li",
+        "html": "<a href=\"/p/community\" title=\"Click to view Community\" class=\"menuonehovercolor \" id=\"#categoryNavID3\" role=\"menuitem\" aria-haspopup=\"true\" aria-owns=\"subMainMenu3\" style=\"cursor: default;\">\n\t\t\t\t\t<span>Community</span> </a>"
+      },
+      {
+        "target": "#\\#categoryNavID4",
+        "text": "DISCOVER DAUPHIN",
+        "ariaLabel": "",
+        "title": "Click to view Discover Dauphin",
+        "href": "https://www.tourismdauphin.ca/",
+        "imgAlt": "",
+        "box": {
+          "x": 970.65625,
+          "y": 60,
+          "w": 197.671875,
+          "h": 84
+        },
+        "context": "DISCOVER DAUPHIN",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.tourismdauphin.ca/\" target=\"_blank\" title=\"Click to view Discover Dauphin\" class=\"menuonehovercolor home\" id=\"#categoryNavID4\" role=\"menuitem\"> \n\t\t  <span>Discover Dauphin</span> </a>"
+      },
+      {
+        "target": "#quickLinks > div > div:nth-of-type(1) > a:nth-of-type(1)",
+        "text": "FORM DIRECTORY",
+        "ariaLabel": "",
+        "title": "Click here to read more about Form Directory",
+        "href": "/p/form-directory",
+        "imgAlt": "",
+        "box": {
+          "x": 96,
+          "y": 830.390625,
+          "w": 205.109375,
+          "h": 69.609375
+        },
+        "context": "heading: Quick Links | FORM DIRECTORY CITY CONTACTS CITY INQUIRIES COUNCIL MEETINGS BYLAWS WASTE & RECYCLING",
+        "contextKind": "block",
+        "html": "<a href=\"/p/form-directory\" title=\"Click here to read more about Form Directory\"><i class=\"fa fa-bell\" aria-hidden=\"true\"></i> <span>Form Directory</span></a>"
+      },
+      {
+        "target": "#quickLinks > div > div:nth-of-type(1) > a:nth-of-type(2)",
+        "text": "CITY CONTACTS",
+        "ariaLabel": "",
+        "title": "Click here to read more about City Contacts",
+        "href": "/p/city-contacts-",
+        "imgAlt": "",
+        "box": {
+          "x": 301.109375,
+          "y": 830.390625,
+          "w": 190.703125,
+          "h": 69.609375
+        },
+        "context": "heading: Quick Links | FORM DIRECTORY CITY CONTACTS CITY INQUIRIES COUNCIL MEETINGS BYLAWS WASTE & RECYCLING",
+        "contextKind": "block",
+        "html": "<a href=\"/p/city-contacts-\" title=\"Click here to read more about City Contacts\"><i class=\"fa fa-phone\" aria-hidden=\"true\"></i> <span>City Contacts</span></a>"
+      },
+      {
+        "target": "#quickLinks > div > div:nth-of-type(1) > a:nth-of-type(3)",
+        "text": "CITY INQUIRIES",
+        "ariaLabel": "",
+        "title": "Click here to read more about City Inquiries",
+        "href": "/p/service-requests",
+        "imgAlt": "",
+        "box": {
+          "x": 491.8125,
+          "y": 830.390625,
+          "w": 188.75,
+          "h": 69.609375
+        },
+        "context": "heading: Quick Links | FORM DIRECTORY CITY CONTACTS CITY INQUIRIES COUNCIL MEETINGS BYLAWS WASTE & RECYCLING",
+        "contextKind": "block",
+        "html": "<a href=\"/p/service-requests\" title=\"Click here to read more about City Inquiries\"><i class=\"fa fa-info-circle\" aria-hidden=\"true\"></i> <span>City Inquiries</span></a>"
+      },
+      {
+        "target": "#quickLinks > div > div:nth-of-type(1) > a:nth-of-type(4)",
+        "text": "COUNCIL MEETINGS",
+        "ariaLabel": "",
+        "title": "Click here to read more about Council Meetings",
+        "href": "/p/minutes",
+        "imgAlt": "",
+        "box": {
+          "x": 680.5625,
+          "y": 830.390625,
+          "w": 226.046875,
+          "h": 69.609375
+        },
+        "context": "heading: Quick Links | FORM DIRECTORY CITY CONTACTS CITY INQUIRIES COUNCIL MEETINGS BYLAWS WASTE & RECYCLING",
+        "contextKind": "block",
+        "html": "<a href=\"/p/minutes\" title=\"Click here to read more about Council Meetings\"><i class=\"fa fa-folder-open\" aria-hidden=\"true\"></i> <span>Council Meetings</span></a>"
+      },
+      {
+        "target": "#quickLinks > div > div:nth-of-type(1) > a:nth-of-type(5)",
+        "text": "BYLAWS",
+        "ariaLabel": "",
+        "title": "Click here to read more about Bylaws",
+        "href": "/p/bylaws",
+        "imgAlt": "",
+        "box": {
+          "x": 906.609375,
+          "y": 830.390625,
+          "w": 130.28125,
+          "h": 69.609375
+        },
+        "context": "heading: Quick Links | FORM DIRECTORY CITY CONTACTS CITY INQUIRIES COUNCIL MEETINGS BYLAWS WASTE & RECYCLING",
+        "contextKind": "block",
+        "html": "<a href=\"/p/bylaws\" title=\"Click here to read more about Bylaws\"><i class=\"fa fa-book\" aria-hidden=\"true\"></i> <span>Bylaws</span></a>"
+      },
+      {
+        "target": "#quickLinks > div > div:nth-of-type(1) > a:nth-of-type(6)",
+        "text": "WASTE & RECYCLING",
+        "ariaLabel": "",
+        "title": "Click here to read more about Waste & Recycling",
+        "href": "/p/recycling-waste",
+        "imgAlt": "",
+        "box": {
+          "x": 1036.890625,
+          "y": 830.390625,
+          "w": 233.109375,
+          "h": 69.609375
+        },
+        "context": "heading: Quick Links | FORM DIRECTORY CITY CONTACTS CITY INQUIRIES COUNCIL MEETINGS BYLAWS WASTE & RECYCLING",
+        "contextKind": "block",
+        "html": "<a href=\"/p/recycling-waste\" title=\"Click here to read more about Waste &amp; Recycling\"><i class=\"fa fa-truck\" aria-hidden=\"true\"></i> <span>Waste &amp; Recycling</span></a>"
+      },
+      {
+        "target": "#\\#imageCaption1 > a",
+        "text": "READ MORE",
+        "ariaLabel": "",
+        "title": "Click here to read more",
+        "href": "/p/welcome-to-dauphin",
+        "imgAlt": "",
+        "box": {
+          "x": 112,
+          "y": 488,
+          "w": 200,
+          "h": 52
+        },
+        "context": "WELCOME TO THE City of Dauphin READ MORE",
+        "contextKind": "figcaption",
+        "html": "<a href=\"/p/welcome-to-dauphin\" title=\"Click here to read more\">Read More</a>"
+      },
+      {
+        "target": "#carousel > div:nth-of-type(2) > div:nth-of-type(1) > a",
+        "text": "Dauphin, MB, Canada",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://forecast7.com/en/51d15n100d05/dauphin/",
+        "imgAlt": "",
+        "box": {
+          "x": 1045,
+          "y": 626,
+          "w": 225,
+          "h": 98
+        },
+        "context": "Featured slideshows, Notices and Events WELCOME TO THE City of Dauphin READ MORE Dauphin, MB, Canada",
+        "contextKind": "block",
+        "html": "<a class=\"weatherwidget-io\" href=\"https://forecast7.com/en/51d15n100d05/dauphin/\" data-font=\"Open Sans\" data-icons=\"Climacons\" data-mode=\"Current\" data-theme=\"pure\" data-basecolor=\"\" data-shadow=\"rgba(1, 1, 1, 0.25)\" data-textcolor=\"#fff\" data-highcolor=\"#fff\" data-lowcolor=\"#fff\" data-suncolor=\"#ff"
+      },
+      {
+        "target": "#recentNewsCont > div > a:nth-of-type(1)",
+        "text": "SEPTEMBER 18, 2026 Fall Clean-Up Begins October 13",
+        "ariaLabel": "",
+        "title": "Click here to read more about the Fall Clean-Up Begins October 13",
+        "href": "#",
+        "imgAlt": "",
+        "box": {
+          "x": 111,
+          "y": 1022.8125,
+          "w": 557,
+          "h": 65.125
+        },
+        "context": "heading: STAY INFORMED Latest Notices",
+        "contextKind": "heading-only",
+        "html": "<a class=\"iconPost\" href=\"#\" data-toggle=\"modal\" data-target=\"#latestNews\" data-notice=\"/Home/NoticeDetailHome?noticeId=f8d35b47-a1a9-42a2-bba9-748f52aadc44\" title=\"Click here to read more about the Fall Clean-Up Begins October 13\">\n                                <i class=\"fas fa-bullhorn\" aria-hid"
+      },
+      {
+        "target": "#recentNewsCont > div > a:nth-of-type(2)",
+        "text": "SEPTEMBER 15, 2026 Downtown Safety Patrol Pilot Continues with New Service Provider",
+        "ariaLabel": "",
+        "title": "Click here to read more about the Downtown Safety Patrol Pilot Continues with New Service Provider",
+        "href": "#",
+        "imgAlt": "",
+        "box": {
+          "x": 111,
+          "y": 1103.9375,
+          "w": 557,
+          "h": 73.125
+        },
+        "context": "heading: Fall Clean-Up Begins October 13",
+        "contextKind": "heading-only",
+        "html": "<a class=\"iconPost\" href=\"#\" data-toggle=\"modal\" data-target=\"#latestNews\" data-notice=\"/Home/NoticeDetailHome?noticeId=199db0d9-e746-429d-b6bb-57ef6d1f8189\" title=\"Click here to read more about the Downtown Safety Patrol Pilot Continues with New Service Provider\">\n                                <i"
+      },
+      {
+        "target": "#recentNewsCont > div > a:nth-of-type(3)",
+        "text": "SEPTEMBER 15, 2026 Road Closure - September 15, 2026",
+        "ariaLabel": "",
+        "title": "Click here to read more about the Road Closure - September 15, 2026",
+        "href": "#",
+        "imgAlt": "",
+        "box": {
+          "x": 111,
+          "y": 1193.0625,
+          "w": 557,
+          "h": 73.125
+        },
+        "context": "heading: Downtown Safety Patrol Pilot Continues with New Service Provider",
+        "contextKind": "heading-only",
+        "html": "<a class=\"iconPost\" href=\"#\" data-toggle=\"modal\" data-target=\"#latestNews\" data-notice=\"/Home/NoticeDetailHome?noticeId=23850597-264c-4388-aa5d-a2b2f03c8c98\" title=\"Click here to read more about the Road Closure - September 15, 2026\">\n                                <i class=\"fas fa-bullhorn\" aria-h"
+      },
+      {
+        "target": "#recentNewsCont > div > a:nth-of-type(4)",
+        "text": "SEPTEMBER 14, 2026 Street Fair Road Closure - September 18, 2026",
+        "ariaLabel": "",
+        "title": "Click here to read more about the Street Fair Road Closure - September 18, 2026 ",
+        "href": "#",
+        "imgAlt": "",
+        "box": {
+          "x": 111,
+          "y": 1282.1875,
+          "w": 557,
+          "h": 72.125
+        },
+        "context": "heading: Road Closure - September 15, 2026",
+        "contextKind": "heading-only",
+        "html": "<a class=\"iconPost\" href=\"#\" data-toggle=\"modal\" data-target=\"#latestNews\" data-notice=\"/Home/NoticeDetailHome?noticeId=f4d0e245-f5d2-4214-bf26-1968457ca02f\" title=\"Click here to read more about the Street Fair Road Closure - September 18, 2026 \">\n                                <i class=\"fas fa-bul"
+      },
+      {
+        "target": "#recentNewsCont > p > a",
+        "text": "VIEW ALL NOTICES",
+        "ariaLabel": "",
+        "title": "Click here to view all news",
+        "href": "/p/local-notices",
+        "imgAlt": "",
+        "box": {
+          "x": 483.890625,
+          "y": 1377.3125,
+          "w": 183.109375,
+          "h": 25
+        },
+        "context": "VIEW ALL NOTICES",
+        "contextKind": "p",
+        "html": "<a href=\"/p/local-notices\" title=\"Click here to view all news\">View All Notices</a>"
+      },
+      {
+        "target": "#upcomingEventsCont > a:nth-of-type(1)",
+        "text": "SEPTEMBER 19, 2026 Curbside Giveaway Weekend",
+        "ariaLabel": "",
+        "title": "Click here to read more about the Curbside Giveaway Weekend",
+        "href": "#",
+        "imgAlt": "",
+        "box": {
+          "x": 698,
+          "y": 1030.8125,
+          "w": 557,
+          "h": 85.125
+        },
+        "context": "heading: WHAT'S HAPPENING City Calendar | WHAT'S HAPPENING City Calendar SEPTEMBER 19, 2026 Curbside Giveaway Weekend SEPTEMBER 20, 2026 Curbside Giveaway Weekend SEPTEMBER 21, 2026 Climate Adaptation Plan Survey Deadline VIEW ALL EVENTS",
+        "contextKind": "block",
+        "html": "<a class=\"iconPost\" href=\"#\" data-toggle=\"modal\" data-target=\"#upcomingEvents\" data-event=\"/Home/GetEventDetails?eventid=268bf5d7-b120-487d-a1e4-434d56e0b9bc\" title=\"Click here to read more about the Curbside Giveaway Weekend\">\n                        <i class=\"fas fa-calendar\" aria-hidden=\"true\"></"
+      },
+      {
+        "target": "#upcomingEventsCont > a:nth-of-type(2)",
+        "text": "SEPTEMBER 20, 2026 Curbside Giveaway Weekend",
+        "ariaLabel": "",
+        "title": "Click here to read more about the Curbside Giveaway Weekend",
+        "href": "#",
+        "imgAlt": "",
+        "box": {
+          "x": 698,
+          "y": 1139.9375,
+          "w": 557,
+          "h": 85.125
+        },
+        "context": "heading: Curbside Giveaway Weekend | WHAT'S HAPPENING City Calendar SEPTEMBER 19, 2026 Curbside Giveaway Weekend SEPTEMBER 20, 2026 Curbside Giveaway Weekend SEPTEMBER 21, 2026 Climate Adaptation Plan Survey Deadline VIEW ALL EVENTS",
+        "contextKind": "block",
+        "html": "<a class=\"iconPost\" href=\"#\" data-toggle=\"modal\" data-target=\"#upcomingEvents\" data-event=\"/Home/GetEventDetails?eventid=3c6a14a2-0c18-4738-af99-e04fee45ef78\" title=\"Click here to read more about the Curbside Giveaway Weekend\">\n                        <i class=\"fas fa-calendar\" aria-hidden=\"true\"></"
+      },
+      {
+        "target": "#upcomingEventsCont > a:nth-of-type(3)",
+        "text": "SEPTEMBER 21, 2026 Climate Adaptation Plan Survey Deadline",
+        "ariaLabel": "",
+        "title": "Click here to read more about the Climate Adaptation Plan Survey Deadline",
+        "href": "#",
+        "imgAlt": "",
+        "box": {
+          "x": 698,
+          "y": 1249.0625,
+          "w": 557,
+          "h": 85.125
+        },
+        "context": "heading: Curbside Giveaway Weekend | WHAT'S HAPPENING City Calendar SEPTEMBER 19, 2026 Curbside Giveaway Weekend SEPTEMBER 20, 2026 Curbside Giveaway Weekend SEPTEMBER 21, 2026 Climate Adaptation Plan Survey Deadline VIEW ALL EVENTS",
+        "contextKind": "block",
+        "html": "<a class=\"iconPost\" href=\"#\" data-toggle=\"modal\" data-target=\"#upcomingEvents\" data-event=\"/Home/GetEventDetails?eventid=3147f8ec-89d7-4451-8dc1-31f75ea4dda1\" title=\"Click here to read more about the Climate Adaptation Plan Survey Deadline\">\n                        <i class=\"fas fa-calendar\" aria-hi"
+      },
+      {
+        "target": "#upcomingEventsCont > p > a",
+        "text": "VIEW ALL EVENTS",
+        "ariaLabel": "",
+        "title": "Click here to view calendar",
+        "href": "/p/upcoming-events",
+        "imgAlt": "",
+        "box": {
+          "x": 1080.609375,
+          "y": 1377.3125,
+          "w": 173.390625,
+          "h": 25
+        },
+        "context": "VIEW ALL EVENTS",
+        "contextKind": "p",
+        "html": "<a href=\"/p/upcoming-events\" title=\"Click here to view calendar\">View all Events</a>"
+      },
+      {
+        "target": "#main > div:nth-of-type(2) > div > div:nth-of-type(1) > a",
+        "text": "VIEW ALL COUNCIL MEETINGS",
+        "ariaLabel": "",
+        "title": "Click here to view all council Meetings",
+        "href": "/p/upcoming-council-events",
+        "imgAlt": "",
+        "box": {
+          "x": 990.328125,
+          "y": 1533.125,
+          "w": 279.671875,
+          "h": 25
+        },
+        "context": "heading: CITY OF DAUPHIN Council Meetings | CITY OF DAUPHIN Council Meetings VIEW ALL COUNCIL MEETINGS",
+        "contextKind": "block",
+        "html": "<a class=\"btnHomeCouncilMeetings\" href=\"/p/upcoming-council-events\" title=\"Click here to view all council Meetings\">View All Council Meetings</a>"
+      },
+      {
+        "target": "#council-meetings > a:nth-of-type(1)",
+        "text": "21 SEP Regular Council Meeting 05:00 PM - 06:30 PM",
+        "ariaLabel": "",
+        "title": "Click here to read more about the Regular Council Meeting",
+        "href": "#",
+        "imgAlt": "",
+        "box": {
+          "x": 96,
+          "y": 1598.125,
+          "w": 293.5,
+          "h": 88.28125
+        },
+        "context": "heading: Enter Here | Enter Here 21 SEP Regular Council Meeting 05:00 PM - 06:30 PM 05 OCT Regular Council Meeting 05:00 PM - 06:30 PM 19 OCT Regular Council Meeting 05:00 PM - 06:30 PM 09 NOV Regular Council Meeting 05:00 PM - 06:30 PM",
+        "contextKind": "block",
+        "html": "<a href=\"#\" data-toggle=\"modal\" data-target=\"#upcomingEvents\" data-event=\"/Home/GetEventDetails?eventid=692d9fea-e6ff-4838-bee1-c12cce2db3e9\" title=\"Click here to read more about the Regular Council Meeting\" class=\"col-sm meeting-post\">\n\t\t\t\t\t<div class=\"council-inner\">\n\t\t\t\t\t\t<time class=\"cmDate\">21 "
+      },
+      {
+        "target": "#council-meetings > a:nth-of-type(2)",
+        "text": "05 OCT Regular Council Meeting 05:00 PM - 06:30 PM",
+        "ariaLabel": "",
+        "title": "Click here to read more about the Regular Council Meeting",
+        "href": "#",
+        "imgAlt": "",
+        "box": {
+          "x": 389.5,
+          "y": 1598.125,
+          "w": 293.5,
+          "h": 88.28125
+        },
+        "context": "heading: Regular Council Meeting | Enter Here 21 SEP Regular Council Meeting 05:00 PM - 06:30 PM 05 OCT Regular Council Meeting 05:00 PM - 06:30 PM 19 OCT Regular Council Meeting 05:00 PM - 06:30 PM 09 NOV Regular Council Meeting 05:00 PM - 06:30 PM",
+        "contextKind": "block",
+        "html": "<a href=\"#\" data-toggle=\"modal\" data-target=\"#upcomingEvents\" data-event=\"/Home/GetEventDetails?eventid=f9a94504-b566-45d3-9c39-de630bbb2f8d\" title=\"Click here to read more about the Regular Council Meeting\" class=\"col-sm meeting-post\">\n\t\t\t\t\t<div class=\"council-inner\">\n\t\t\t\t\t\t<time class=\"cmDate\">05 "
+      },
+      {
+        "target": "#council-meetings > a:nth-of-type(3)",
+        "text": "19 OCT Regular Council Meeting 05:00 PM - 06:30 PM",
+        "ariaLabel": "",
+        "title": "Click here to read more about the Regular Council Meeting",
+        "href": "#",
+        "imgAlt": "",
+        "box": {
+          "x": 683,
+          "y": 1598.125,
+          "w": 293.5,
+          "h": 88.28125
+        },
+        "context": "heading: Regular Council Meeting | Enter Here 21 SEP Regular Council Meeting 05:00 PM - 06:30 PM 05 OCT Regular Council Meeting 05:00 PM - 06:30 PM 19 OCT Regular Council Meeting 05:00 PM - 06:30 PM 09 NOV Regular Council Meeting 05:00 PM - 06:30 PM",
+        "contextKind": "block",
+        "html": "<a href=\"#\" data-toggle=\"modal\" data-target=\"#upcomingEvents\" data-event=\"/Home/GetEventDetails?eventid=d382cc06-7363-41ef-85a1-292d38fa0bf2\" title=\"Click here to read more about the Regular Council Meeting\" class=\"col-sm meeting-post\">\n\t\t\t\t\t<div class=\"council-inner\">\n\t\t\t\t\t\t<time class=\"cmDate\">19 "
+      },
+      {
+        "target": "#council-meetings > a:nth-of-type(4)",
+        "text": "09 NOV Regular Council Meeting 05:00 PM - 06:30 PM",
+        "ariaLabel": "",
+        "title": "Click here to read more about the Regular Council Meeting",
+        "href": "#",
+        "imgAlt": "",
+        "box": {
+          "x": 976.5,
+          "y": 1598.125,
+          "w": 293.5,
+          "h": 88.28125
+        },
+        "context": "heading: Regular Council Meeting | Enter Here 21 SEP Regular Council Meeting 05:00 PM - 06:30 PM 05 OCT Regular Council Meeting 05:00 PM - 06:30 PM 19 OCT Regular Council Meeting 05:00 PM - 06:30 PM 09 NOV Regular Council Meeting 05:00 PM - 06:30 PM",
+        "contextKind": "block",
+        "html": "<a href=\"#\" data-toggle=\"modal\" data-target=\"#upcomingEvents\" data-event=\"/Home/GetEventDetails?eventid=4f59d44f-f8e0-4f9b-90a4-d8e019a7c746\" title=\"Click here to read more about the Regular Council Meeting\" class=\"col-sm meeting-post\">\n\t\t\t\t\t<div class=\"council-inner\">\n\t\t\t\t\t\t<time class=\"cmDate\">09 "
+      },
+      {
+        "target": "#highlightContainer > div > div > div:nth-of-type(1) > a",
+        "text": "Tourism Dauphin Click here to visit the Tourism Dauphin website and start planning your next adventure! EXPLORE",
+        "ariaLabel": "",
+        "title": "Tourism Dauphin - Click here to visit the Tourism Dauphin website and start planning your next adventure! ",
+        "href": "https://tourismdauphin.ca",
+        "imgAlt": "",
+        "box": {
+          "x": 111,
+          "y": 2232.21875,
+          "w": 557,
+          "h": 22
+        },
+        "context": "heading: STAY INFORMED Discover Dauphin | Tourism Dauphin Click here to visit the Tourism Dauphin website and start planning your next adventure! EXPLORE",
+        "contextKind": "block",
+        "html": "<a class=\"hl-body\" href=\"https://tourismdauphin.ca\" title=\"Tourism Dauphin - Click here to visit the Tourism Dauphin website and start planning your next adventure! \">\n\t\t\t\t\t<div class=\"highlight-inner cf\">\n\t\t\t\t\t\t<div class=\"hl-image\" style=\"background-image:url(HTTPS://dauphin2022.municipalwebsites."
+      },
+      {
+        "target": "#highlightContainer > div > div > div:nth-of-type(2) > a",
+        "text": "Economic Development Click here to find local information to help propel your business into making smarter, faster & better decisions. EXPLORE",
+        "ariaLabel": "",
+        "title": "Economic Development - Click here to find local information to help propel your business into making smarter, faster & better decisions.",
+        "href": "/p/economic-development",
+        "imgAlt": "",
+        "box": {
+          "x": 698,
+          "y": 2232.21875,
+          "w": 557,
+          "h": 22
+        },
+        "context": "heading: Tourism Dauphin | Economic Development Click here to find local information to help propel your business into making smarter, faster & better decisions. EXPLORE",
+        "contextKind": "block",
+        "html": "<a class=\"hl-body\" href=\"/p/economic-development\" title=\"Economic Development - Click here to find local information to help propel your business into making smarter, faster &amp; better decisions.\">\n\t\t\t\t\t<div class=\"highlight-inner cf\">\n\t\t\t\t\t\t<div class=\"hl-image\" style=\"background-image:url(HTTPS:"
+      },
+      {
+        "target": "#footerTop > div > div:nth-of-type(1) > h1 > a",
+        "text": "City of Dauphin",
+        "ariaLabel": "",
+        "title": "Welcome to City of Dauphin",
+        "href": "/",
+        "imgAlt": "",
+        "box": {
+          "x": 102.5,
+          "y": 2374.796875,
+          "w": 115,
+          "h": 104
+        },
+        "context": "heading: City of Dauphin",
+        "contextKind": "heading-only",
+        "html": "<a href=\"/\" title=\"Welcome to City of Dauphin\">City of Dauphin</a>"
+      },
+      {
+        "target": "#footerTop > div > div:nth-of-type(3) > a",
+        "text": "SUBMIT",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/p/service-requests",
+        "imgAlt": "",
+        "box": {
+          "x": 593,
+          "y": 2458.390625,
+          "w": 180,
+          "h": 44
+        },
+        "context": "heading: CITY INQUIRIES | CITY INQUIRIES Do you have a service request or question for a member of our administration team? Submit your request online today. SUBMIT",
+        "contextKind": "block",
+        "html": "<a class=\"footer-button\" href=\"/p/service-requests\">Submit</a>"
+      },
+      {
+        "target": "#footerTop > div > div:nth-of-type(4) > a",
+        "text": "MONDAY - FRIDAY 9:00 AM - 4:30 PM",
+        "ariaLabel": "",
+        "title": "",
+        "href": "#",
+        "imgAlt": "",
+        "box": {
+          "x": 998,
+          "y": 2381.21875,
+          "w": 272,
+          "h": 43.609375
+        },
+        "context": "heading: OFFICE HOURS | OFFICE HOURS MONDAY - FRIDAY 9:00 AM - 4:30 PM * Closed ALL Statutory Holidays",
+        "contextKind": "block",
+        "html": "<a class=\"officeHoursBTN\" data-toggle=\"modal\" data-target=\"#officeHoursModal\" href=\"#\"><span>Monday - Friday</span>9:00 AM - 4:30 PM</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > div > cite > a",
+        "text": "WEBSITE BY:",
+        "ariaLabel": "",
+        "title": "Developed and maintained by All-Net Municipal Solutions",
+        "href": "http://all-net.ca",
+        "imgAlt": "",
+        "box": {
+          "x": 1086.421875,
+          "y": 2535.390625,
+          "w": 168.578125,
+          "h": 18
+        },
+        "context": "heading: OFFICE HOURS",
+        "contextKind": "heading-only",
+        "html": "<a href=\"http://all-net.ca\" title=\"Developed and maintained by All-Net Municipal Solutions\" target=\"_blank\">Website By: <span class=\"allnet-logo\"></span></a>"
+      }
+    ],
+    "headings": [
+      {
+        "target": "#skipToContent",
+        "level": 2,
+        "text": "Skip To Content",
+        "visible": true,
+        "box": {
+          "x": 40,
+          "y": -159960,
+          "w": 252,
+          "h": 21
+        },
+        "html": "<h2 id=\"skipToContent\">Skip To Content</h2>"
+      },
+      {
+        "target": "header > div:nth-of-type(2) > div > div:nth-of-type(2) > h1",
+        "level": 1,
+        "text": "Town of Dauphin",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h1 class=\"siteLogo\"><a href=\"/\" title=\"Welcome to Town of Dauphin\">Town of Dauphin</a></h1>"
+      },
+      {
+        "target": "body > header > div:nth-of-type(2) > nav > h2",
+        "level": 2,
+        "text": "Main Navigation",
+        "visible": true,
+        "box": {
+          "x": -159984,
+          "y": -159984,
+          "w": 221.3125,
+          "h": 40
+        },
+        "html": "<h2 class=\"hideMe\">Main Navigation</h2>"
+      },
+      {
+        "target": "#desktopNav > ul > li:nth-of-type(4) > h1",
+        "level": 1,
+        "text": "CITY OF DAUPHIN",
+        "visible": true,
+        "box": {
+          "x": 625.5,
+          "y": 24,
+          "w": 115,
+          "h": 104
+        },
+        "html": "<h1 class=\"siteLogo\"><a href=\"/\" title=\"Welcome to City of Dauphin\" role=\"menuitem\">City of Dauphin</a></h1>"
+      },
+      {
+        "target": "#quickLinks > h2",
+        "level": 2,
+        "text": "Quick Links",
+        "visible": true,
+        "box": {
+          "x": -159984,
+          "y": -159153.609375,
+          "w": 163.5625,
+          "h": 40
+        },
+        "html": "<h2 class=\"hideMe\">Quick Links</h2>"
+      },
+      {
+        "target": "#\\#imageCaption0 > h2",
+        "level": 2,
+        "text": "Welcome to The",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h2>Welcome to The</h2>"
+      },
+      {
+        "target": "#\\#imageCaption0 > h3",
+        "level": 3,
+        "text": "",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h3></h3>"
+      },
+      {
+        "target": "#\\#imageCaption1 > h2",
+        "level": 2,
+        "text": "WELCOME TO THE",
+        "visible": true,
+        "box": {
+          "x": 112,
+          "y": 360,
+          "w": 1033.109375,
+          "h": 33
+        },
+        "html": "<h2>Welcome to the</h2>"
+      },
+      {
+        "target": "#\\#imageCaption1 > h3",
+        "level": 3,
+        "text": "",
+        "visible": false,
+        "box": {
+          "x": 112,
+          "y": 393,
+          "w": 1033.109375,
+          "h": 0
+        },
+        "html": "<h3></h3>"
+      },
+      {
+        "target": "#\\#imageCaption2 > h2",
+        "level": 2,
+        "text": "Welcome to the",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h2>Welcome to the</h2>"
+      },
+      {
+        "target": "#\\#imageCaption2 > h3",
+        "level": 3,
+        "text": "",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h3></h3>"
+      },
+      {
+        "target": "#\\#imageCaption3 > h2",
+        "level": 2,
+        "text": "Welcome to the",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h2>Welcome to the</h2>"
+      },
+      {
+        "target": "#\\#imageCaption3 > h3",
+        "level": 3,
+        "text": "",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h3></h3>"
+      },
+      {
+        "target": "#\\#imageCaption4 > h2",
+        "level": 2,
+        "text": "Welcome to the",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h2>Welcome to the</h2>"
+      },
+      {
+        "target": "#\\#imageCaption4 > h3",
+        "level": 3,
+        "text": "",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h3></h3>"
+      },
+      {
+        "target": "#\\#imageCaption5 > h2",
+        "level": 2,
+        "text": "Welcome to The",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h2>Welcome to The</h2>"
+      },
+      {
+        "target": "#\\#imageCaption5 > h3",
+        "level": 3,
+        "text": "",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h3></h3>"
+      },
+      {
+        "target": "#\\#imageCaption6 > h2",
+        "level": 2,
+        "text": "Welcome to the",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h2>Welcome to the</h2>"
+      },
+      {
+        "target": "#\\#imageCaption6 > h3",
+        "level": 3,
+        "text": "",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h3></h3>"
+      },
+      {
+        "target": "#\\#imageCaption7 > h2",
+        "level": 2,
+        "text": "Welcome to the",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h2>Welcome to the</h2>"
+      },
+      {
+        "target": "#\\#imageCaption7 > h3",
+        "level": 3,
+        "text": "",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h3></h3>"
+      },
+      {
+        "target": "#newsAndEvents",
+        "level": 2,
+        "text": "News & Events",
+        "visible": true,
+        "box": {
+          "x": -159984,
+          "y": -159984,
+          "w": 195.96875,
+          "h": 40
+        },
+        "html": "<h2 id=\"newsAndEvents\" class=\"hideMe\">News &amp; Events</h2>"
+      },
+      {
+        "target": "#recentNewsCont > h3",
+        "level": 3,
+        "text": "STAY INFORMED Latest Notices",
+        "visible": true,
+        "box": {
+          "x": 111,
+          "y": 932,
+          "w": 557,
+          "h": 90.8125
+        },
+        "html": "<h3><span>Stay Informed</span>Latest Notices</h3>"
+      },
+      {
+        "target": "#recentNewsCont > div > a:nth-of-type(1) > h4",
+        "level": 4,
+        "text": "Fall Clean-Up Begins October 13",
+        "visible": true,
+        "box": {
+          "x": 175,
+          "y": 1041.8125,
+          "w": 461,
+          "h": 21.125
+        },
+        "html": "<h4>Fall Clean-Up Begins October 13</h4>"
+      },
+      {
+        "target": "#recentNewsCont > div > a:nth-of-type(2) > h4",
+        "level": 4,
+        "text": "Downtown Safety Patrol Pilot Continues with New Service Provider",
+        "visible": true,
+        "box": {
+          "x": 175,
+          "y": 1130.9375,
+          "w": 461,
+          "h": 21.125
+        },
+        "html": "<h4>Downtown Safety Patrol Pilot Continues with New Service Provider</h4>"
+      },
+      {
+        "target": "#recentNewsCont > div > a:nth-of-type(3) > h4",
+        "level": 4,
+        "text": "Road Closure - September 15, 2026",
+        "visible": true,
+        "box": {
+          "x": 175,
+          "y": 1220.0625,
+          "w": 461,
+          "h": 21.125
+        },
+        "html": "<h4>Road Closure - September 15, 2026</h4>"
+      },
+      {
+        "target": "#recentNewsCont > div > a:nth-of-type(4) > h4",
+        "level": 4,
+        "text": "Street Fair Road Closure - September 18, 2026",
+        "visible": true,
+        "box": {
+          "x": 175,
+          "y": 1309.1875,
+          "w": 461,
+          "h": 21.125
+        },
+        "html": "<h4>Street Fair Road Closure - September 18, 2026 </h4>"
+      },
+      {
+        "target": "#upcomingEventsCont > h3",
+        "level": 3,
+        "text": "WHAT'S HAPPENING City Calendar",
+        "visible": true,
+        "box": {
+          "x": 698,
+          "y": 932,
+          "w": 557,
+          "h": 90.8125
+        },
+        "html": "<h3><span>What's Happening</span>City Calendar</h3>"
+      },
+      {
+        "target": "#upcomingEventsCont > a:nth-of-type(1) > h4",
+        "level": 4,
+        "text": "Curbside Giveaway Weekend",
+        "visible": true,
+        "box": {
+          "x": 795,
+          "y": 1069.8125,
+          "w": 395,
+          "h": 21.125
+        },
+        "html": "<h4>Curbside Giveaway Weekend</h4>"
+      },
+      {
+        "target": "#upcomingEventsCont > a:nth-of-type(2) > h4",
+        "level": 4,
+        "text": "Curbside Giveaway Weekend",
+        "visible": true,
+        "box": {
+          "x": 795,
+          "y": 1178.9375,
+          "w": 395,
+          "h": 21.125
+        },
+        "html": "<h4>Curbside Giveaway Weekend</h4>"
+      },
+      {
+        "target": "#upcomingEventsCont > a:nth-of-type(3) > h4",
+        "level": 4,
+        "text": "Climate Adaptation Plan Survey Deadline",
+        "visible": true,
+        "box": {
+          "x": 795,
+          "y": 1288.0625,
+          "w": 395,
+          "h": 21.125
+        },
+        "html": "<h4>Climate Adaptation Plan Survey Deadline</h4>"
+      },
+      {
+        "target": "#main > div:nth-of-type(2) > div > div:nth-of-type(1) > h2",
+        "level": 2,
+        "text": "CITY OF DAUPHIN Council Meetings",
+        "visible": true,
+        "box": {
+          "x": 96,
+          "y": 1482.3125,
+          "w": 1014,
+          "h": 82.8125
+        },
+        "html": "<h2><span>City Of Dauphin</span>Council Meetings</h2>"
+      },
+      {
+        "target": "#council-meetings > h3",
+        "level": 3,
+        "text": "Enter Here",
+        "visible": true,
+        "box": {
+          "x": -159984,
+          "y": -159984,
+          "w": 192.640625,
+          "h": 53.40625
+        },
+        "html": "<h3 class=\"hideMe\">Enter Here</h3>"
+      },
+      {
+        "target": "#council-meetings > a:nth-of-type(1) > div > h3",
+        "level": 3,
+        "text": "Regular Council Meeting",
+        "visible": true,
+        "box": {
+          "x": 160,
+          "y": 1622.125,
+          "w": 201.5,
+          "h": 21.28125
+        },
+        "html": "<h3>Regular Council Meeting</h3>"
+      },
+      {
+        "target": "#council-meetings > a:nth-of-type(2) > div > h3",
+        "level": 3,
+        "text": "Regular Council Meeting",
+        "visible": true,
+        "box": {
+          "x": 469.5,
+          "y": 1622.125,
+          "w": 185.5,
+          "h": 21.28125
+        },
+        "html": "<h3>Regular Council Meeting</h3>"
+      },
+      {
+        "target": "#council-meetings > a:nth-of-type(3) > div > h3",
+        "level": 3,
+        "text": "Regular Council Meeting",
+        "visible": true,
+        "box": {
+          "x": 763,
+          "y": 1622.125,
+          "w": 185.5,
+          "h": 21.28125
+        },
+        "html": "<h3>Regular Council Meeting</h3>"
+      },
+      {
+        "target": "#council-meetings > a:nth-of-type(4) > div > h3",
+        "level": 3,
+        "text": "Regular Council Meeting",
+        "visible": true,
+        "box": {
+          "x": 1056.5,
+          "y": 1622.125,
+          "w": 201.5,
+          "h": 21.28125
+        },
+        "html": "<h3>Regular Council Meeting</h3>"
+      },
+      {
+        "target": "#latestNewsLabel",
+        "level": 2,
+        "text": "Local Notices",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h2 class=\"modalTitle\" id=\"latestNewsLabel\">Local Notices</h2>"
+      },
+      {
+        "target": "#upcomingEventsLabel",
+        "level": 2,
+        "text": "Upcoming Events",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h2 class=\"modalTitle\" id=\"upcomingEventsLabel\">Upcoming Events</h2>"
+      },
+      {
+        "target": "#municipalEventsLabel",
+        "level": 2,
+        "text": "Municipal Events",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h2 class=\"modalTitle\" id=\"municipalEventsLabel\">Municipal Events</h2>"
+      },
+      {
+        "target": "#highlightContainer > h2",
+        "level": 2,
+        "text": "STAY INFORMED Discover Dauphin",
+        "visible": true,
+        "box": {
+          "x": 0,
+          "y": 1750.40625,
+          "w": 1366,
+          "h": 90.8125
+        },
+        "html": "<h2><span>Stay Informed</span>Discover Dauphin</h2>"
+      },
+      {
+        "target": "a > div > div:nth-of-type(2) > div > h5",
+        "level": 5,
+        "text": "Tourism Dauphin",
+        "visible": true,
+        "box": {
+          "x": 389.5,
+          "y": 2021.03125,
+          "w": 278.5,
+          "h": 36.40625
+        },
+        "html": "<h5 class=\"card-title\">Tourism Dauphin</h5>"
+      },
+      {
+        "target": "a > div > div:nth-of-type(2) > div > h5",
+        "level": 5,
+        "text": "Economic Development",
+        "visible": true,
+        "box": {
+          "x": 976.5,
+          "y": 2021.03125,
+          "w": 278.5,
+          "h": 36.40625
+        },
+        "html": "<h5 class=\"card-title\">Economic Development</h5>"
+      },
+      {
+        "target": "#footerTop > div > div:nth-of-type(1) > h1",
+        "level": 1,
+        "text": "City of Dauphin",
+        "visible": true,
+        "box": {
+          "x": 102.5,
+          "y": 2374.796875,
+          "w": 115,
+          "h": 104
+        },
+        "html": "<h1 class=\"siteLogo\"><a href=\"/\" title=\"Welcome to City of Dauphin\">City of Dauphin</a></h1>"
+      },
+      {
+        "target": "#footerTop > div > div:nth-of-type(2) > h2",
+        "level": 2,
+        "text": "REGISTER FOR CONNECT",
+        "visible": true,
+        "box": {
+          "x": 256,
+          "y": 2351.21875,
+          "w": 272,
+          "h": 22
+        },
+        "html": "<h2>Register For Connect</h2>"
+      },
+      {
+        "target": "#footerTop > div > div:nth-of-type(3) > h2",
+        "level": 2,
+        "text": "CITY INQUIRIES",
+        "visible": true,
+        "box": {
+          "x": 593,
+          "y": 2351.21875,
+          "w": 340,
+          "h": 22
+        },
+        "html": "<h2>City Inquiries</h2>"
+      },
+      {
+        "target": "#footerTop > div > div:nth-of-type(4) > h2",
+        "level": 2,
+        "text": "OFFICE HOURS",
+        "visible": true,
+        "box": {
+          "x": 998,
+          "y": 2351.21875,
+          "w": 272,
+          "h": 22
+        },
+        "html": "<h2>Office Hours</h2>"
+      },
+      {
+        "target": "#modalPollQuestionLabel",
+        "level": 2,
+        "text": "Tell Us What You Think",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h2 class=\"modalTitle\" id=\"modalPollQuestionLabel\">Tell Us What You Think</h2>"
+      },
+      {
+        "target": "#fireRatingModalLabel",
+        "level": 2,
+        "text": "Fire Ban",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h2 class=\"modalTitle iconFireRating modalFireRating fireLow\" id=\"fireRatingModalLabel\">Fire Ban </h2>"
+      },
+      {
+        "target": "#weatherLabel",
+        "level": 2,
+        "text": "Local Weather",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h2 class=\"modalTitle\" id=\"weatherLabel\">Local Weather</h2>"
+      },
+      {
+        "target": "#modalHeaderWeatherLabel",
+        "level": 2,
+        "text": "Weather Forecast",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h2 class=\"modalTitle\" id=\"modalHeaderWeatherLabel\">Weather Forecast</h2>"
+      },
+      {
+        "target": "#registerLabel",
+        "level": 2,
+        "text": "Registration",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h2 class=\"modalTitle\" id=\"registerLabel\">Registration</h2>"
+      },
+      {
+        "target": "#idLiketoSearchModalLabel",
+        "level": 2,
+        "text": "Search and I Like To...",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h2 class=\"modalTitle\" id=\"idLiketoSearchModalLabel\">Search and I Like To...</h2>"
+      }
+    ],
+    "lang": "en",
+    "title": "City of Dauphin - Home"
+  },
   "axe": {
     "violationRules": 5,
     "violationNodes": 13,
@@ -967,7 +2498,7 @@
       "items": [
         {
           "target": "#weatherwidget-io-0 .currentDesc",
-          "html": "<div class=\"currentDesc ng-binding\">light rain</div>",
+          "html": "<div class=\"currentDesc ng-binding\">clear sky</div>",
           "impact": "serious",
           "messages": [
             "Element has insufficient color contrast of 1.29 (foreground color: #ffffff, background color: #e2e2e2, font size: 9.2pt (12.32px), font weight: normal). Expected contrast ratio of 4.5:1"

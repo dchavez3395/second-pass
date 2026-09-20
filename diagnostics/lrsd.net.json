@@ -11,7 +11,7 @@
     "buttons": 16,
     "inputs": 11,
     "headings": 20,
-    "textLength": 8642,
+    "textLength": 8643,
     "lang": "en",
     "iframes": 1
   },
@@ -19,7 +19,5208 @@
     "width": 1366,
     "height": 900
   },
-  "scannedAt": "2026-09-19T06:27:55.566Z",
+  "scannedAt": "2026-09-20T00:00:11.975Z",
+  "content": {
+    "images": [
+      {
+        "target": "div:nth-of-type(2) > section:nth-of-type(2) > div:nth-of-type(2) > a > img",
+        "tag": "img",
+        "src": "https://sb45storage.blob.core.windows.net/pub/themes/Lrsd3/images/logo0.svg",
+        "alt": "lrsd logo",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 300,
+        "naturalHeight": 65,
+        "box": {
+          "x": 1026.140625,
+          "y": 79.578125,
+          "w": 299.859375,
+          "h": 64.828125
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img class=\"w-full stickylogoimg\" src=\"https://sb45storage.blob.core.windows.net/pub/themes/Lrsd3/images/logo0.svg\" alt=\"lrsd logo\" loading=\"eager\">"
+      },
+      {
+        "target": "#spotlight > div:nth-of-type(1) > img",
+        "tag": "img",
+        "src": "https://media.lrsd.net/media/Default/pgg/5/Regular%20Board%20Meeting%202023%202-1.webp",
+        "alt": "September 22 Regular Board Meeting",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 1197,
+        "naturalHeight": 524,
+        "box": {
+          "x": 0,
+          "y": 165,
+          "w": 1366,
+          "h": 670
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "September 22 Regular Board Meeting The next meeting of the Louis Riel School Division Board of Trustees will be held on September 22, 2026, at 6:30 p.m. Follow ",
+        "html": "<img src=\"https://media.lrsd.net/media/Default/pgg/5/Regular%20Board%20Meeting%202023%202-1.webp\" class=\"w-lvw h-[calc(100vh-156px)] max-h-[670px] mobile:h-[334px] mobile-s:h-[270px]\" width=\"1416\" height=\"619\" alt=\"September 22 Regular Board Meeting\">"
+      },
+      {
+        "target": "#spotlight > div:nth-of-type(2) > img",
+        "tag": "img",
+        "src": "https://media.lrsd.net/media/Default/pgg/5/Peace%20Days.webp",
+        "alt": "Recognizing Peace Days from September 11 to 28, 2026",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 1600,
+        "naturalHeight": 700,
+        "box": {
+          "x": 0,
+          "y": 165,
+          "w": 1366,
+          "h": 670
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "Recognizing Peace Days from September 11 to 28, 2026 Recognizing Peace Days from September 11 to 28, 2026 Minister of Education and Early Childhood Learning Tra",
+        "html": "<img src=\"https://media.lrsd.net/media/Default/pgg/5/Peace%20Days.webp\" class=\"w-lvw h-[calc(100vh-156px)] max-h-[670px] mobile:h-[334px] mobile-s:h-[270px]\" width=\"1416\" height=\"619\" alt=\"Recognizing Peace Days from September 11 to 28, 2026\" loading=\"'lazy'\">"
+      },
+      {
+        "target": "#spotlight > div:nth-of-type(3) > img",
+        "tag": "img",
+        "src": "https://media.lrsd.net/media/Default/pgg/5/iStock-2230244111.webp",
+        "alt": "Celebrating National Payroll Week 2026",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 1600,
+        "naturalHeight": 700,
+        "box": {
+          "x": 0,
+          "y": 165,
+          "w": 1366,
+          "h": 670
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "Celebrating National Payroll Week 2026 Celebrating National Payroll Week 2026 This week, we proudly recognize and celebrate National Payroll Week and the dedica",
+        "html": "<img src=\"https://media.lrsd.net/media/Default/pgg/5/iStock-2230244111.webp\" class=\"w-lvw h-[calc(100vh-156px)] max-h-[670px] mobile:h-[334px] mobile-s:h-[270px]\" width=\"1416\" height=\"619\" alt=\"Celebrating National Payroll Week 2026\" loading=\"'lazy'\">"
+      },
+      {
+        "target": "#spotlight > div:nth-of-type(4) > img",
+        "tag": "img",
+        "src": "https://media.lrsd.net/media/Default/pgg/5/FREE%20TRANSIT%20SERVICES%20FOR%20YOUTH%20(WEBSITE%20BANNER).webp",
+        "alt": "Free Transit Services for Youth",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 1600,
+        "naturalHeight": 700,
+        "box": {
+          "x": 0,
+          "y": 165,
+          "w": 1366,
+          "h": 670
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "Free Transit Services for Youth Free Transit Services for Youth We are pleased to share that the Manitoba government is introducing free transit for children an",
+        "html": "<img src=\"https://media.lrsd.net/media/Default/pgg/5/FREE%20TRANSIT%20SERVICES%20FOR%20YOUTH%20(WEBSITE%20BANNER).webp\" class=\"w-lvw h-[calc(100vh-156px)] max-h-[670px] mobile:h-[334px] mobile-s:h-[270px]\" width=\"1416\" height=\"619\" alt=\"Free Transit Services for Youth\" loading=\"'lazy'\">"
+      },
+      {
+        "target": "#spotlight > div:nth-of-type(5) > img",
+        "tag": "img",
+        "src": "https://media.lrsd.net/media/Default/pgg/5/We%E2%80%99re%20Hiring%20assistant%20Superintendent%20Student%20and%20Clinical%20Services.webp",
+        "alt": "We're Hiring an Assistant Superintendent, Student & Clinical Services",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 1600,
+        "naturalHeight": 700,
+        "box": {
+          "x": 0,
+          "y": 165,
+          "w": 1366,
+          "h": 670
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "We're Hiring an Assistant Superintendent, Student & Clinical Services We're Hiring an Assistant Superintendent, Student & Clinical Services The Louis Riel Schoo",
+        "html": "<img src=\"https://media.lrsd.net/media/Default/pgg/5/We%E2%80%99re%20Hiring%20assistant%20Superintendent%20Student%20and%20Clinical%20Services.webp\" class=\"w-lvw h-[calc(100vh-156px)] max-h-[670px] mobile:h-[334px] mobile-s:h-[270px]\" width=\"1416\" height=\"619\" alt=\"We're Hiring an Assistant Superintendent, Student &amp; Clinical Services\" loading=\"'lazy'\">"
+      },
+      {
+        "target": "#spotlight > div:nth-of-type(6) > img",
+        "tag": "img",
+        "src": "https://media.lrsd.net/media/Default/pgg/5/JUN_1917.webp",
+        "alt": "Employment",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 1600,
+        "naturalHeight": 700,
+        "box": {
+          "x": 0,
+          "y": 165,
+          "w": 1366,
+          "h": 670
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "Employment Employment opportunities with the Louis Riel School Division",
+        "html": "<img src=\"https://media.lrsd.net/media/Default/pgg/5/JUN_1917.webp\" class=\"w-lvw h-[calc(100vh-156px)] max-h-[670px] mobile:h-[334px] mobile-s:h-[270px]\" width=\"1416\" height=\"619\" alt=\"Employment\" loading=\"'lazy'\">"
+      },
+      {
+        "target": "#spotlight > div:nth-of-type(7) > img",
+        "tag": "img",
+        "src": "https://media.lrsd.net/media/Default/pgg/5/RIEL%20STORIES%20Bulletin%20Board.webp",
+        "alt": "Riel Stories Bulletin Board",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 1600,
+        "naturalHeight": 700,
+        "box": {
+          "x": 0,
+          "y": 165,
+          "w": 1366,
+          "h": 670
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "Riel Stories Bulletin Board Riel Stories Bulletin Board This page will be updated with new information every week. Awards & Contests Burn Awareness Week Poster ",
+        "html": "<img src=\"https://media.lrsd.net/media/Default/pgg/5/RIEL%20STORIES%20Bulletin%20Board.webp\" class=\"w-lvw h-[calc(100vh-156px)] max-h-[670px] mobile:h-[334px] mobile-s:h-[270px]\" width=\"1416\" height=\"619\" alt=\"Riel Stories Bulletin Board\" loading=\"'lazy'\">"
+      },
+      {
+        "target": "section:nth-of-type(2) > div:nth-of-type(1) > div > span > img",
+        "tag": "img",
+        "src": "https://sb45storage.blob.core.windows.net/pub/themes/Lrsd3/images/weather/6.png",
+        "alt": "weather icon",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 50,
+        "naturalHeight": 50,
+        "box": {
+          "x": 639.984375,
+          "y": 866.5,
+          "w": 25,
+          "h": 28
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "18.6°C Conditions: Partly Cloudy Wind: NNE 11 km/h Full Forecast",
+        "html": "<img src=\"https://sb45storage.blob.core.windows.net/pub/themes/Lrsd3/images/weather/6.png\" alt=\"weather icon\" class=\"ci-alignleft\" width=\"25\" height=\"25\" style=\"margin-right:10px;width:25px;height:auto;\">"
+      },
+      {
+        "target": "main > section:nth-of-type(2) > div:nth-of-type(2) > section:nth-of-type(1) > img",
+        "tag": "img",
+        "src": "https://media.lrsd.net/media/Default/pgg/5/LRSD%202034%20PDF-01.webp",
+        "alt": "LRSD 2034 outlines a comprehensive infrastructure plan for the period of 2024 to 2034, focusing on new school constructions, additions, renovations, and system upgrades to address capacity and accessi...",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 1600,
+        "naturalHeight": 700,
+        "box": {
+          "x": 30,
+          "y": 921,
+          "w": 414,
+          "h": 185.125
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "LRSD 2034 LRSD 2034 outlines a comprehensive infrastructure plan for the period of 2024 to 2034, focusing on new school constructions, additions, renovations, a",
+        "html": "<img class=\"border-t-pb border-b-[4px]\" src=\"https://media.lrsd.net/media/Default/pgg/5/LRSD%202034%20PDF-01.webp\" alt=\"LRSD 2034 outlines a comprehensive infrastructure plan for the period of 2024 to 2034, focusing on new school constructions, additions, renovations, and system upgrades to address capacity and accessi...\" decoding=\"async\" loading=\"lazy\">"
+      },
+      {
+        "target": "main > section:nth-of-type(2) > div:nth-of-type(2) > section:nth-of-type(2) > img",
+        "tag": "img",
+        "src": "https://sb365static.schoolbundle365.com/sb365static/images/lrsd/blank-news.png",
+        "alt": "Multi-Year Strategic Plan 2023-2027 Four strategic priorities encompassing 25 strategic actions shape our journey of human flourishing in schools and workspaces. 1.1 LRSD Community Sc...",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 3959,
+        "naturalHeight": 1750,
+        "box": {
+          "x": 476,
+          "y": 921,
+          "w": 413.984375,
+          "h": 187
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "Multi-Year Strategic Plan 2023-2027 Multi-Year Strategic Plan 2023-2027 Four strategic priorities encompassing 25 strategic actions shape our journey of human f",
+        "html": "<img class=\"border-t-pb border-b-[4px]\" src=\"https://sb365static.schoolbundle365.com/sb365static/images/lrsd/blank-news.png\" alt=\"Multi-Year Strategic Plan 2023-2027 Four strategic priorities encompassing 25 strategic actions shape our journey of human flourishing in schools and workspaces. 1.1 LRSD Community Sc...\" decoding=\"async\" loading=\"lazy\">"
+      },
+      {
+        "target": "main > section:nth-of-type(2) > div:nth-of-type(2) > section:nth-of-type(3) > img",
+        "tag": "img",
+        "src": "https://media.lrsd.net/media/Default/pgg/5/Untitled%20design%20(33).webp",
+        "alt": "Introducing the improved LRSD Annual School Building Review Dashboard May 25, 2026 We are excited to launch the brand-new Annual School Building Review Dashboard — a single, easy-to-use place where ...",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 1600,
+        "naturalHeight": 700,
+        "box": {
+          "x": 922,
+          "y": 921,
+          "w": 414,
+          "h": 185.125
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "LRSD Annual School Building Review Dashboard Introducing the improved LRSD Annual School Building Review Dashboard May 25, 2026 We are excited to launch the bra",
+        "html": "<img class=\"border-t-pb border-b-[4px]\" src=\"https://media.lrsd.net/media/Default/pgg/5/Untitled%20design%20(33).webp\" alt=\"Introducing the improved LRSD Annual School Building Review Dashboard May 25, 2026 We are excited to launch the brand-new Annual School Building Review&nbsp;Dashboard — a single, easy-to-use place where ...\" decoding=\"async\" loading=\"lazy\">"
+      },
+      {
+        "target": "div:nth-of-type(1) > section > a > div > img",
+        "tag": "img",
+        "src": "https://media.lrsd.net/media/Default/fgg/5/0e19f588-8f2a-408e-99a9-8951ac306001_LRSDApps.png",
+        "alt": "LRSD Apps",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 54,
+        "naturalHeight": 55,
+        "box": {
+          "x": 656,
+          "y": 2239.640625,
+          "w": 54,
+          "h": 55
+        },
+        "inLink": true,
+        "linkText": "LRSD Apps",
+        "linkHref": "https://www.lrsd.net/loginhelp",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://media.lrsd.net/media/Default/fgg/5/0e19f588-8f2a-408e-99a9-8951ac306001_LRSDApps.png\" alt=\"LRSD Apps\">"
+      },
+      {
+        "target": "section > div:nth-of-type(1) > strong > a > img",
+        "tag": "img",
+        "src": "https://sb45storage.blob.core.windows.net/pub/themes/Lrsd/content/r2/LRSDLogo.svg",
+        "alt": "Division Scolaire Louis Riel School Division",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 143,
+        "naturalHeight": 150,
+        "box": {
+          "x": 130,
+          "y": 2617.140625,
+          "w": 123.984375,
+          "h": 130.28125
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "https://www.lrsd.net",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://sb45storage.blob.core.windows.net/pub/themes/Lrsd/content/r2/LRSDLogo.svg\" alt=\"Division Scolaire Louis Riel School Division\">"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(1) > a > img",
+        "tag": "img",
+        "src": "https://sb45storage.blob.core.windows.net/pub/themes/Lrsd/content/r2/Facebook.svg?r=230616338",
+        "alt": "Facebook",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 150,
+        "naturalHeight": 150,
+        "box": {
+          "x": 1011.984375,
+          "y": 2630.140625,
+          "w": 30,
+          "h": 30
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "http://www.facebook.com/LouisRielSchoolDivision",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://sb45storage.blob.core.windows.net/pub/themes/Lrsd/content/r2/Facebook.svg?r=230616338\" style=\"width: 30px ; height: 30px ;\" alt=\"Facebook\">"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(2) > a > img",
+        "tag": "img",
+        "src": "https://sb45storage.blob.core.windows.net/pub/themes/Lrsd/content/r2/Instagram.svg?r=230616338",
+        "alt": "Instagram",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 150,
+        "naturalHeight": 150,
+        "box": {
+          "x": 1051.984375,
+          "y": 2630.140625,
+          "w": 30,
+          "h": 30
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "https://www.instagram.com/louisrielsd/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://sb45storage.blob.core.windows.net/pub/themes/Lrsd/content/r2/Instagram.svg?r=230616338\" style=\"width: 30px ; height: 30px ;\" alt=\"Instagram\">"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(3) > a > img",
+        "tag": "img",
+        "src": "https://sb45storage.blob.core.windows.net/pub/themes/Lrsd/content/r2/LinkedIn.svg?r=230616338",
+        "alt": "LinkedIn",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 150,
+        "naturalHeight": 150,
+        "box": {
+          "x": 1091.984375,
+          "y": 2630.140625,
+          "w": 30,
+          "h": 30
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "https://www.linkedin.com/company/louis-riel-school-division/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://sb45storage.blob.core.windows.net/pub/themes/Lrsd/content/r2/LinkedIn.svg?r=230616338\" style=\"width: 30px ; height: 30px ;\" alt=\"LinkedIn\">"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(4) > a > img",
+        "tag": "img",
+        "src": "https://sb45storage.blob.core.windows.net/pub/themes/Lrsd/content/r2/YouTube.svg?r=230616338",
+        "alt": "YouTube",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 150,
+        "naturalHeight": 150,
+        "box": {
+          "x": 1131.984375,
+          "y": 2630.140625,
+          "w": 30,
+          "h": 30
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "https://www.youtube.com/channel/UCR9bZ768WeK4-Cvx6mKQEsg/videos",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://sb45storage.blob.core.windows.net/pub/themes/Lrsd/content/r2/YouTube.svg?r=230616338\" style=\"width: 30px ; height: 30px ;\" alt=\"YouTube\">"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(5) > a > img",
+        "tag": "img",
+        "src": "https://sb45storage.blob.core.windows.net/pub/themes/Lrsd/content/r2/BlueSky.svg?r=230616338",
+        "alt": "BlueSky",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 168,
+        "naturalHeight": 150,
+        "box": {
+          "x": 1171.984375,
+          "y": 2630.140625,
+          "w": 30,
+          "h": 30
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "https://bsky.app/profile/louisrielsd.bsky.social",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://sb45storage.blob.core.windows.net/pub/themes/Lrsd/content/r2/BlueSky.svg?r=230616338\" style=\"width: 30px ; height: 30px ;\" alt=\"BlueSky\">"
+      },
+      {
+        "target": "div:nth-of-type(2) > section > div:nth-of-type(2) > a:nth-of-type(1) > img",
+        "tag": "img",
+        "src": "https://media.lrsd.net/media/App%20Store.svg",
+        "alt": "",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 300,
+        "naturalHeight": 100,
+        "box": {
+          "x": 1006.984375,
+          "y": 2860.140625,
+          "w": 110,
+          "h": 34
+        },
+        "inLink": true,
+        "linkText": "App Store",
+        "linkHref": "https://apps.apple.com/tr/app/lrsd-connect/id1631941001",
+        "caption": "",
+        "nearText": "",
+        "html": "<img class=\"h-[34px]\" src=\"https://media.lrsd.net/media/App%20Store.svg\" width=\"110\" height=\"34\" alt=\"\">"
+      },
+      {
+        "target": "div:nth-of-type(2) > section > div:nth-of-type(2) > a:nth-of-type(2) > img",
+        "tag": "img",
+        "src": "https://media.lrsd.net/media/Google%20Play.svg",
+        "alt": "",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 300,
+        "naturalHeight": 116,
+        "box": {
+          "x": 1116.984375,
+          "y": 2852.140625,
+          "w": 130,
+          "h": 50.296875
+        },
+        "inLink": true,
+        "linkText": "Google Play",
+        "linkHref": "https://play.google.com/store/apps/details?id=ca.schoolbundle.lrsd",
+        "caption": "",
+        "nearText": "",
+        "html": "<img class=\"w-[130px] -mt-[8px]\" src=\"https://media.lrsd.net/media/Google%20Play.svg\" width=\"110\" height=\"34\" alt=\"\">"
+      },
+      {
+        "target": "section > div:nth-of-type(2) > div > a > img",
+        "tag": "img",
+        "src": "https://sb45storage.blob.core.windows.net/pub/themes/Lrsd/content/r2/schoolbundle-logo-white.svg",
+        "alt": "school bundle",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 300,
+        "naturalHeight": 38,
+        "box": {
+          "x": 1198,
+          "y": 2957.4375,
+          "w": 136,
+          "h": 17.421875
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "http://www.schoolbundle.ca/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://sb45storage.blob.core.windows.net/pub/themes/Lrsd/content/r2/schoolbundle-logo-white.svg\" alt=\"school bundle\" class=\"alignright\" width=\"136\" height=\"17\">"
+      }
+    ],
+    "links": [
+      {
+        "target": "#thmr > a",
+        "text": "Accessibility Screen-Reader Guide, Feedback, and Issue Reporting | New window",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://accessibe.com/blog/knowledgebase/screen-reader-guide",
+        "imgAlt": "",
+        "box": {
+          "x": 0,
+          "y": -1,
+          "w": 200,
+          "h": 1
+        },
+        "context": "",
+        "contextKind": "none",
+        "html": "<a href=\"https://accessibe.com/blog/knowledgebase/screen-reader-guide\" target=\"_blank\" rel=\"noopener\" tabindex=\"-1\" data-acsb=\"sr-trigger\" data-acsb-sr-only=\"true\" class=\"acsb-sr-only\" style=\"position: absolute; width: 200px; height: 1px; margin-top: -1px; z-index: -1; border: 0px; top: 0px; left: 0"
+      },
+      {
+        "target": "#appHeader > div:nth-of-type(1) > div > section:nth-of-type(1) > a:nth-of-type(2)",
+        "text": "Thriving Learners ∞ Flourishing Communities | Des apprenants épanouis ∞ Des communautés florissantes | Gegwe-gikenjigewaad ∞ Mamino-ayaang Eyaang",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.lrsd.net/page/1368/our-vision-mission-values-and-motto",
+        "imgAlt": "",
+        "box": {
+          "x": 30,
+          "y": 19,
+          "w": 867.15625,
+          "h": 21
+        },
+        "context": "Thriving Learners ∞ Flourishing Communities | Des apprenants épanouis ∞ Des communautés florissantes | Gegwe-gikenjigewaad ∞ Mamino-ayaang Eyaang",
+        "contextKind": "block",
+        "html": "<a class=\"text-[14px] top-motto\" href=\"https://www.lrsd.net/page/1368/our-vision-mission-values-and-motto\"> <span class=\"line-clamp-1\">Thriving Learners ∞ Flourishing Communities <span class=\"top-motto-more\">| Des apprenants épanouis ∞ Des communautés florissantes | Gegwe-gikenjigewaad ∞ Mamino-ayaa"
+      },
+      {
+        "target": "div > section:nth-of-type(2) > ul:nth-of-type(1) > li > a",
+        "text": "Afrikaans Albania Arabic Armenian Azerbaijani Basque Belarusia Bengali Bosnian Bulgarian Catalan Cebuano Chinese (Simplifield) Chinese (Traditional) Croatian Czech Danish Dutch Esperanto Estonian Filipino Finnish French Galician Georgia German Greek Gujarati Haitian Creola Hebrew Hindi Hmong Hungarian Icelandic Indonesian Irish Italian Japanese Javanese Kannada Khmer Korean Lao Latin Latvian Lithuanian Macedonian Malay Maltese Marathi Norwegian Persian Polish Portuguese Romanian Russian Serbian Slovak Slovenian Spanish Swahili Swedish Tamil Telugy Thai Turkish Ukrainian Urdu Vietnamese Welsh Yiddish",
+        "ariaLabel": "",
+        "title": "",
+        "href": "javascript:",
+        "imgAlt": "",
+        "box": {
+          "x": 897.15625,
+          "y": 10,
+          "w": 26,
+          "h": 39
+        },
+        "context": "Afrikaans Albania Arabic Armenian Azerbaijani Basque Belarusia Bengali Bosnian Bulgarian Catalan Cebuano Chinese (Simplifield) Chinese (Traditional) Croatian Czech Danish Dutch Esperanto Estonian Fili",
+        "contextKind": "li",
+        "html": "<a class=\"relative overflow-hidden\" href=\"javascript:\"> <span class=\"icon-g_translate\"></span> <select id=\"translate\" class=\"text-[#444] text-base top-0 left-0 cursor-pointer absolute w-full border-0 opacity-0\" style=\"appearance: none;padding: 0 10px 10px 10px;\"> <option value=\"af\">Afrikaans</option"
+      },
+      {
+        "target": "div > section:nth-of-type(2) > ul:nth-of-type(2) > li:nth-of-type(1) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "http://www.facebook.com/LouisRielSchoolDivision",
+        "imgAlt": "",
+        "box": {
+          "x": 935.15625,
+          "y": 13,
+          "w": 22,
+          "h": 33
+        },
+        "context": "",
+        "contextKind": "li",
+        "html": "<a href=\"http://www.facebook.com/LouisRielSchoolDivision\" target=\"_blank\"> <span class=\"icon-facebook\"></span> </a>"
+      },
+      {
+        "target": "div > section:nth-of-type(2) > ul:nth-of-type(2) > li:nth-of-type(2) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.instagram.com/louisrielsd/",
+        "imgAlt": "",
+        "box": {
+          "x": 969.15625,
+          "y": 13,
+          "w": 22,
+          "h": 33
+        },
+        "context": "",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.instagram.com/louisrielsd/\" target=\"_blank\"> <span class=\"icon-instagram\"></span> </a>"
+      },
+      {
+        "target": "div > section:nth-of-type(2) > ul:nth-of-type(2) > li:nth-of-type(3) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.linkedin.com/company/louis-riel-school-division/",
+        "imgAlt": "",
+        "box": {
+          "x": 1003.15625,
+          "y": 13,
+          "w": 22,
+          "h": 33
+        },
+        "context": "",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.linkedin.com/company/louis-riel-school-division/\" target=\"_blank\"> <span class=\"icon-linkedin\"></span> </a>"
+      },
+      {
+        "target": "div > section:nth-of-type(2) > ul:nth-of-type(2) > li:nth-of-type(4) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.youtube.com/channel/UCR9bZ768WeK4-Cvx6mKQEsg/videos",
+        "imgAlt": "",
+        "box": {
+          "x": 1037.15625,
+          "y": 13,
+          "w": 22,
+          "h": 33
+        },
+        "context": "",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.youtube.com/channel/UCR9bZ768WeK4-Cvx6mKQEsg/videos\" target=\"_blank\"> <span class=\"icon-youtube\"></span> </a>"
+      },
+      {
+        "target": "div > section:nth-of-type(2) > ul:nth-of-type(2) > li:nth-of-type(5) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://bsky.app/profile/louisrielsd.bsky.social",
+        "imgAlt": "",
+        "box": {
+          "x": 1071.15625,
+          "y": 13,
+          "w": 24.71875,
+          "h": 33
+        },
+        "context": "",
+        "contextKind": "li",
+        "html": "<a href=\"https://bsky.app/profile/louisrielsd.bsky.social\" target=\"_blank\"> <span class=\"icon-bluesky\"></span> </a>"
+      },
+      {
+        "target": "div > section:nth-of-type(2) > ul:nth-of-type(3) > li > a",
+        "text": "Sign In Staff/Student Sign In Parent/Guardian Sign In",
+        "ariaLabel": "",
+        "title": "",
+        "href": "javascript:",
+        "imgAlt": "",
+        "box": {
+          "x": 1283.875,
+          "y": 17.5,
+          "w": 52.125,
+          "h": 24
+        },
+        "context": "Sign In Staff/Student Sign In Parent/Guardian Sign In",
+        "contextKind": "li",
+        "html": "<a class=\"relative overflow-hidden\" href=\"javascript:\"> <span style=\"white-space: nowrap\">Sign In</span> <select id=\"headerLogin\" class=\"text-[#444] text-base top-0 left-0 cursor-pointer absolute w-full border-0 opacity-0\" style=\"appearance: none;padding: 0 10px 10px 10px;\"> <option value=\"https://l"
+      },
+      {
+        "target": "div:nth-of-type(2) > section:nth-of-type(1) > aside > div > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/",
+        "imgAlt": "",
+        "box": {
+          "x": -231,
+          "y": 0,
+          "w": 60,
+          "h": 63
+        },
+        "context": "",
+        "contextKind": "none",
+        "html": "<a href=\"/\"> <span class=\"text-[60px] icon-logo1\"></span> </a>"
+      },
+      {
+        "target": "#hamburger-body > li:nth-of-type(1) > div > a",
+        "text": "HOME",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 123,
+          "w": 395,
+          "h": 60
+        },
+        "context": "HOME",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/\">Home</a>"
+      },
+      {
+        "target": "#hamburger-body > li:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "text": "MULTI-YEAR STRATEGIC PLAN 2023-2027",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/multi-year-strategic-plan-2023-2027",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 183,
+          "w": 357.53125,
+          "h": 88
+        },
+        "context": "MULTI-YEAR STRATEGIC PLAN 2023-2027 Strategic Priority 1: Belonging 1.1 Community Schools Network 1.2 Staff Wellness to Support Student Wellness 1.3 Reinforce trauma-responsive practices. 1.4 Indigeno",
+        "contextKind": "li",
+        "html": "<a href=\"/multi-year-strategic-plan-2023-2027\" class=\"laptop:py-[28px] laptop:px-[45px]\">Multi-Year Strategic Plan 2023-2027</a>"
+      },
+      {
+        "target": "#hamburger-body > li:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(2)",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "javascript:",
+        "imgAlt": "",
+        "box": {
+          "x": -43.46875,
+          "y": 203,
+          "w": 27.46875,
+          "h": 48
+        },
+        "context": "MULTI-YEAR STRATEGIC PLAN 2023-2027 Strategic Priority 1: Belonging 1.1 Community Schools Network 1.2 Staff Wellness to Support Student Wellness 1.3 Reinforce trauma-responsive practices. 1.4 Indigeno",
+        "contextKind": "li",
+        "html": "<a href=\"javascript:\" class=\"sub-trigger\" data-id=\"26539\">            \n            <span class=\"icon-arrow-right\"></span>\t            \t            \n        </a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "text": "Strategic Priority 1: Belonging",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.lrsd.net/page/51244/1-1-community-schools-network",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 271,
+          "w": 357.53125,
+          "h": 88
+        },
+        "context": "Strategic Priority 1: Belonging 1.1 Community Schools Network 1.2 Staff Wellness to Support Student Wellness 1.3 Reinforce trauma-responsive practices. 1.4 Indigenous Languages 1.5 Decolonization & In",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.lrsd.net/page/51244/1-1-community-schools-network\" class=\"laptop:py-[28px] laptop:px-[45px]\">Strategic Priority 1: Belonging</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(2)",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "javascript:",
+        "imgAlt": "",
+        "box": {
+          "x": -43.46875,
+          "y": 291,
+          "w": 27.46875,
+          "h": 48
+        },
+        "context": "Strategic Priority 1: Belonging 1.1 Community Schools Network 1.2 Staff Wellness to Support Student Wellness 1.3 Reinforce trauma-responsive practices. 1.4 Indigenous Languages 1.5 Decolonization & In",
+        "contextKind": "li",
+        "html": "<a href=\"javascript:\" class=\"sub-trigger\" data-id=\"64603\">            \n            <span class=\"icon-arrow-right\"></span>\t            \t            \n        </a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(1) > div > a",
+        "text": "1.1 Community Schools Network",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/1-1-community-schools-network",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 359,
+          "w": 395,
+          "h": 60
+        },
+        "context": "1.1 Community Schools Network",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/1-1-community-schools-network\">1.1 Community Schools Network</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(2) > div > a",
+        "text": "1.2 Staff Wellness to Support Student Wellness",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/1-2-staff-wellness-to-support-student-wellness",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 419,
+          "w": 395,
+          "h": 88
+        },
+        "context": "1.2 Staff Wellness to Support Student Wellness",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/1-2-staff-wellness-to-support-student-wellness\">1.2 Staff Wellness to Support Student Wellness</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(3) > div > a",
+        "text": "1.3 Reinforce trauma-responsive practices.",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/1-3-reinforce-trauma-responsive-practices",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 507,
+          "w": 395,
+          "h": 88
+        },
+        "context": "1.3 Reinforce trauma-responsive practices.",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/1-3-reinforce-trauma-responsive-practices\">1.3 Reinforce trauma-responsive practices.</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(4) > div > a",
+        "text": "1.4 Indigenous Languages",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/1-4-indigenous-languages",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 595,
+          "w": 395,
+          "h": 60
+        },
+        "context": "1.4 Indigenous Languages",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/1-4-indigenous-languages\">1.4 Indigenous Languages</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(5) > div > a",
+        "text": "1.5 Decolonization & Indigenization",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/1-5-decolonization-indigenization",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 655,
+          "w": 395,
+          "h": 60
+        },
+        "context": "1.5 Decolonization & Indigenization",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/1-5-decolonization-indigenization\">1.5 Decolonization &amp; Indigenization</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(6) > div > a",
+        "text": "1.6 International & Heritage Languages",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/1-6-international-heritage-languages",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 715,
+          "w": 395,
+          "h": 88
+        },
+        "context": "1.6 International & Heritage Languages",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/1-6-international-heritage-languages\">1.6 International &amp; Heritage Languages</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "text": "Strategic Priority 2: Mastery",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.lrsd.net/page/51227/2-2-neurodiversity-and-diverse-abilities",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 359,
+          "w": 357.53125,
+          "h": 60
+        },
+        "context": "Strategic Priority 2: Mastery 2.2 Neurodiversity and Diverse Abilities 2.3 Universal Early Screening & Monitoring 2.4 Social and Emotional Competencies 2.5 Access to French Immersion 2.6 French in Eng",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.lrsd.net/page/51227/2-2-neurodiversity-and-diverse-abilities\" class=\"laptop:py-[28px] laptop:px-[45px]\">Strategic Priority 2: Mastery</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(2)",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "javascript:",
+        "imgAlt": "",
+        "box": {
+          "x": -43.46875,
+          "y": 365,
+          "w": 27.46875,
+          "h": 48
+        },
+        "context": "Strategic Priority 2: Mastery 2.2 Neurodiversity and Diverse Abilities 2.3 Universal Early Screening & Monitoring 2.4 Social and Emotional Competencies 2.5 Access to French Immersion 2.6 French in Eng",
+        "contextKind": "li",
+        "html": "<a href=\"javascript:\" class=\"sub-trigger\" data-id=\"64606\">            \n            <span class=\"icon-arrow-right\"></span>\t            \t            \n        </a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(1) > div > a",
+        "text": "2.2 Neurodiversity and Diverse Abilities",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/2-2-neurodiversity-and-diverse-abilities",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 419,
+          "w": 395,
+          "h": 88
+        },
+        "context": "2.2 Neurodiversity and Diverse Abilities",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/2-2-neurodiversity-and-diverse-abilities\">2.2 Neurodiversity and Diverse Abilities</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(2) > div > a",
+        "text": "2.3 Universal Early Screening & Monitoring",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/2-3-universal-early-screening-monitoring",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 507,
+          "w": 395,
+          "h": 88
+        },
+        "context": "2.3 Universal Early Screening & Monitoring",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/2-3-universal-early-screening-monitoring\">2.3 Universal Early Screening &amp; Monitoring</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(3) > div > a",
+        "text": "2.4 Social and Emotional Competencies",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/2-4-social-and-emotional-competencies",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 595,
+          "w": 395,
+          "h": 88
+        },
+        "context": "2.4 Social and Emotional Competencies",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/2-4-social-and-emotional-competencies\">2.4 Social and Emotional Competencies</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(4) > div > a",
+        "text": "2.5 Access to French Immersion",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/2-5-access-to-french-immersion",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 683,
+          "w": 395,
+          "h": 60
+        },
+        "context": "2.5 Access to French Immersion",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/2-5-access-to-french-immersion\">2.5 Access to French Immersion</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(5) > div > a",
+        "text": "2.6 French in English Program Schools",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/2-6-french-in-english-program-schools",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 743,
+          "w": 395,
+          "h": 88
+        },
+        "context": "2.6 French in English Program Schools",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/2-6-french-in-english-program-schools\">2.6 French in English Program Schools</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(3) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "text": "Strategic Priority 3: Independence",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.lrsd.net/page/51210/3-1-learner-agency",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 419,
+          "w": 357.53125,
+          "h": 88
+        },
+        "context": "Strategic Priority 3: Independence 3.1 Assessment for Learning 3.2 Student Voice & Agency 3.3 Information Literacy 3.4 Multilingual Learners 3.5 Specialized Learning Spaces 3.6 Enhance Project-Based L",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.lrsd.net/page/51210/3-1-learner-agency\" class=\"laptop:py-[28px] laptop:px-[45px]\">Strategic Priority 3: Independence</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(3) > div:nth-of-type(1) > a:nth-of-type(2)",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "javascript:",
+        "imgAlt": "",
+        "box": {
+          "x": -43.46875,
+          "y": 439,
+          "w": 27.46875,
+          "h": 48
+        },
+        "context": "Strategic Priority 3: Independence 3.1 Assessment for Learning 3.2 Student Voice & Agency 3.3 Information Literacy 3.4 Multilingual Learners 3.5 Specialized Learning Spaces 3.6 Enhance Project-Based L",
+        "contextKind": "li",
+        "html": "<a href=\"javascript:\" class=\"sub-trigger\" data-id=\"64609\">            \n            <span class=\"icon-arrow-right\"></span>\t            \t            \n        </a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(1) > div > a",
+        "text": "3.1 Assessment for Learning",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/3-1-assessment-for-learning",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 507,
+          "w": 395,
+          "h": 60
+        },
+        "context": "3.1 Assessment for Learning",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/3-1-assessment-for-learning\">3.1 Assessment for Learning</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(2) > div > a",
+        "text": "3.2 Student Voice & Agency",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/3-2-student-voice-agency",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 567,
+          "w": 395,
+          "h": 60
+        },
+        "context": "3.2 Student Voice & Agency",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/3-2-student-voice-agency\">3.2 Student Voice &amp; Agency</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(3) > div > a",
+        "text": "3.3 Information Literacy",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/3-3-information-literacy",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 627,
+          "w": 395,
+          "h": 60
+        },
+        "context": "3.3 Information Literacy",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/3-3-information-literacy\">3.3 Information Literacy</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(4) > div > a",
+        "text": "3.4 Multilingual Learners",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/3-4-multilingual-learners",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 687,
+          "w": 395,
+          "h": 60
+        },
+        "context": "3.4 Multilingual Learners",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/3-4-multilingual-learners\">3.4 Multilingual Learners</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(5) > div > a",
+        "text": "3.5 Specialized Learning Spaces",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/3-5-specialized-learning-spaces",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 747,
+          "w": 395,
+          "h": 60
+        },
+        "context": "3.5 Specialized Learning Spaces",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/3-5-specialized-learning-spaces\">3.5 Specialized Learning Spaces</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(6) > div > a",
+        "text": "3.6 Enhance Project-Based Learning",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/3-6-enhance-project-based-learning",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 807,
+          "w": 395,
+          "h": 60
+        },
+        "context": "3.6 Enhance Project-Based Learning",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/3-6-enhance-project-based-learning\">3.6 Enhance Project-Based Learning</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(4) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "text": "Strategic Priority 4: Generosity",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.lrsd.net/page/50958/4-1-safe-modern-accessible-spaces",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 507,
+          "w": 357.53125,
+          "h": 88
+        },
+        "context": "Strategic Priority 4: Generosity 4.1 Safe, Modern, & Accessible Spaces 4.2 Safe & Active Transportation 4.3 Full-Day Kindergarten and Childcare 4.4 Universal Nutrition Program 4.5 United Nations' SDGs",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.lrsd.net/page/50958/4-1-safe-modern-accessible-spaces\" class=\"laptop:py-[28px] laptop:px-[45px]\">Strategic Priority 4: Generosity</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(4) > div:nth-of-type(1) > a:nth-of-type(2)",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "javascript:",
+        "imgAlt": "",
+        "box": {
+          "x": -43.46875,
+          "y": 527,
+          "w": 27.46875,
+          "h": 48
+        },
+        "context": "Strategic Priority 4: Generosity 4.1 Safe, Modern, & Accessible Spaces 4.2 Safe & Active Transportation 4.3 Full-Day Kindergarten and Childcare 4.4 Universal Nutrition Program 4.5 United Nations' SDGs",
+        "contextKind": "li",
+        "html": "<a href=\"javascript:\" class=\"sub-trigger\" data-id=\"64610\">            \n            <span class=\"icon-arrow-right\"></span>\t            \t            \n        </a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(1) > div > a",
+        "text": "4.1 Safe, Modern, & Accessible Spaces",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/4-1-safe-modern-accessible-spaces",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 595,
+          "w": 395,
+          "h": 88
+        },
+        "context": "4.1 Safe, Modern, & Accessible Spaces",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/4-1-safe-modern-accessible-spaces\">4.1 Safe, Modern, &amp; Accessible Spaces</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(2) > div > a",
+        "text": "4.2 Safe & Active Transportation",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/4-2-safe-active-transportation",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 683,
+          "w": 395,
+          "h": 60
+        },
+        "context": "4.2 Safe & Active Transportation",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/4-2-safe-active-transportation\">4.2 Safe &amp; Active Transportation</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(3) > div > a",
+        "text": "4.3 Full-Day Kindergarten and Childcare",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/4-3-full-day-kindergarten-and-childcare",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 743,
+          "w": 395,
+          "h": 88
+        },
+        "context": "4.3 Full-Day Kindergarten and Childcare",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/4-3-full-day-kindergarten-and-childcare\">4.3 Full-Day Kindergarten and Childcare </a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(4) > div > a",
+        "text": "4.4 Universal Nutrition Program",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/4-4-universal-nutrition-program",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 831,
+          "w": 395,
+          "h": 60
+        },
+        "context": "4.4 Universal Nutrition Program",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/4-4-universal-nutrition-program\">4.4 Universal Nutrition Program</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(5) > div > a",
+        "text": "4.5 United Nations' SDGs and the UNDRIP",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/4-5-united-nations-sdgs-and-the-undrip",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 891,
+          "w": 395,
+          "h": 88
+        },
+        "context": "4.5 United Nations' SDGs and the UNDRIP",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/4-5-united-nations-sdgs-and-the-undrip\">4.5 United Nations' SDGs and the UNDRIP</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(6) > div > a",
+        "text": "4.6 Employment Equity",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/4-6-employment-equity",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 979,
+          "w": 395,
+          "h": 60
+        },
+        "context": "4.6 Employment Equity",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/4-6-employment-equity\">4.6 Employment Equity</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(7) > div > a",
+        "text": "4.7 Teacher Development Program",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/4-7-teacher-development-program",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 1039,
+          "w": 395,
+          "h": 60
+        },
+        "context": "4.7 Teacher Development Program",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/4-7-teacher-development-program\">4.7 Teacher Development Program</a>"
+      },
+      {
+        "target": "#hamburger-body > li:nth-of-type(3) > div > a",
+        "text": "DATA HUB",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/data-hub",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 271,
+          "w": 395,
+          "h": 60
+        },
+        "context": "DATA HUB",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/data-hub\">Data Hub</a>"
+      },
+      {
+        "target": "#hamburger-body > li:nth-of-type(4) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "text": "ABOUT US",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/about-us",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 331,
+          "w": 357.53125,
+          "h": 60
+        },
+        "context": "ABOUT US Our Vision, Mission, Values and Motto Calendar Organizational Chart Weather Station Accessibility Accessibility Plan Customer Service Design of Public Spaces Employment Information and Commun",
+        "contextKind": "li",
+        "html": "<a href=\"/about-us\" class=\"laptop:py-[28px] laptop:px-[45px]\">About Us</a>"
+      },
+      {
+        "target": "#hamburger-body > li:nth-of-type(4) > div:nth-of-type(1) > a:nth-of-type(2)",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "javascript:",
+        "imgAlt": "",
+        "box": {
+          "x": -43.46875,
+          "y": 337,
+          "w": 27.46875,
+          "h": 48
+        },
+        "context": "ABOUT US Our Vision, Mission, Values and Motto Calendar Organizational Chart Weather Station Accessibility Accessibility Plan Customer Service Design of Public Spaces Employment Information and Commun",
+        "contextKind": "li",
+        "html": "<a href=\"javascript:\" class=\"sub-trigger\" data-id=\"1355\">            \n            <span class=\"icon-arrow-right\"></span>\t            \t            \n        </a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(1) > div > a",
+        "text": "Our Vision, Mission, Values and Motto",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/our-vision-mission-values-and-motto",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 391,
+          "w": 395,
+          "h": 88
+        },
+        "context": "Our Vision, Mission, Values and Motto",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/our-vision-mission-values-and-motto\">Our Vision, Mission, Values and Motto</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(2) > div > a",
+        "text": "Calendar",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/calendar",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 479,
+          "w": 395,
+          "h": 60
+        },
+        "context": "Calendar",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/calendar\">Calendar</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(3) > div > a",
+        "text": "Organizational Chart",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/organizational-chart",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 539,
+          "w": 395,
+          "h": 60
+        },
+        "context": "Organizational Chart",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/organizational-chart\">Organizational Chart</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(4) > div > a",
+        "text": "Weather Station",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/weather-station",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 599,
+          "w": 395,
+          "h": 60
+        },
+        "context": "Weather Station",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/weather-station\">Weather Station</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(5) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "text": "Accessibility",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/accessibility",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 659,
+          "w": 357.53125,
+          "h": 60
+        },
+        "context": "Accessibility Accessibility Plan Customer Service Design of Public Spaces Employment Information and Communication Resources Student Transportation",
+        "contextKind": "li",
+        "html": "<a href=\"/accessibility\" class=\"laptop:py-[28px] laptop:px-[45px]\">Accessibility</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(5) > div:nth-of-type(1) > a:nth-of-type(2)",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "javascript:",
+        "imgAlt": "",
+        "box": {
+          "x": -43.46875,
+          "y": 665,
+          "w": 27.46875,
+          "h": 48
+        },
+        "context": "Accessibility Accessibility Plan Customer Service Design of Public Spaces Employment Information and Communication Resources Student Transportation",
+        "contextKind": "li",
+        "html": "<a href=\"javascript:\" class=\"sub-trigger\" data-id=\"1358\">            \n            <span class=\"icon-arrow-right\"></span>\t            \t            \n        </a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(1) > div > a",
+        "text": "Accessibility Plan",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/accessibility-plan",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 719,
+          "w": 395,
+          "h": 60
+        },
+        "context": "Accessibility Plan",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/accessibility-plan\">Accessibility Plan</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(2) > div > a",
+        "text": "Customer Service",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/customer-service",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 779,
+          "w": 395,
+          "h": 60
+        },
+        "context": "Customer Service",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/customer-service\">Customer Service</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(3) > div > a",
+        "text": "Design of Public Spaces",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/design-of-public-spaces",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 839,
+          "w": 395,
+          "h": 60
+        },
+        "context": "Design of Public Spaces",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/design-of-public-spaces\">Design of Public Spaces</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(4) > div > a",
+        "text": "Employment",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/employment-1",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 899,
+          "w": 395,
+          "h": 60
+        },
+        "context": "Employment",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/employment-1\">Employment</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(5) > div > a",
+        "text": "Information and Communication",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/information-and-communication",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 959,
+          "w": 395,
+          "h": 60
+        },
+        "context": "Information and Communication",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/information-and-communication\">Information and Communication</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(6) > div > a",
+        "text": "Resources",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/resources",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 1019,
+          "w": 395,
+          "h": 60
+        },
+        "context": "Resources",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/resources\">Resources</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(7) > div > a",
+        "text": "Student Transportation",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/student-transportation",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 1079,
+          "w": 395,
+          "h": 60
+        },
+        "context": "Student Transportation",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/student-transportation\">Student Transportation</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(6) > div > a",
+        "text": "Senior Leadership Team",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/senior-leadership-team",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 719,
+          "w": 395,
+          "h": 60
+        },
+        "context": "Senior Leadership Team",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/senior-leadership-team\">Senior Leadership Team</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(7) > div > a",
+        "text": "Our History",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/our-history",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 779,
+          "w": 395,
+          "h": 60
+        },
+        "context": "Our History",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/our-history\">Our History</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(8) > div > a",
+        "text": "Annual Report to the Community",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/annual-report-to-the-community",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 839,
+          "w": 395,
+          "h": 88
+        },
+        "context": "Annual Report to the Community",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/annual-report-to-the-community\">Annual Report to the Community</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(9) > div > a",
+        "text": "LRSD Land Acknowledgement",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/lrsd-land-acknowledgement",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 927,
+          "w": 395,
+          "h": 60
+        },
+        "context": "LRSD Land Acknowledgement",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/lrsd-land-acknowledgement\">LRSD Land Acknowledgement</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(10) > div > a",
+        "text": "Diversity, Equity, Inclusion, and Anti-Racism Services",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/diversity-equity-inclusion-and-anti-racism-services",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 987,
+          "w": 395,
+          "h": 88
+        },
+        "context": "Diversity, Equity, Inclusion, and Anti-Racism Services",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/diversity-equity-inclusion-and-anti-racism-services\">Diversity, Equity, Inclusion, and Anti-Racism Services</a>"
+      },
+      {
+        "target": "#hamburger-body > li:nth-of-type(5) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "text": "EMPLOYMENT",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/employment",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 391,
+          "w": 357.53125,
+          "h": 60
+        },
+        "context": "EMPLOYMENT Job Postings Job Postings For External Candidates Substitute Applications Why LRSD? About Winnipeg Mentorship PPDF EAP Services Graduating Teacher Candidates",
+        "contextKind": "li",
+        "html": "<a href=\"/employment\" class=\"laptop:py-[28px] laptop:px-[45px]\">Employment</a>"
+      },
+      {
+        "target": "#hamburger-body > li:nth-of-type(5) > div:nth-of-type(1) > a:nth-of-type(2)",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "javascript:",
+        "imgAlt": "",
+        "box": {
+          "x": -43.46875,
+          "y": 397,
+          "w": 27.46875,
+          "h": 48
+        },
+        "context": "EMPLOYMENT Job Postings Job Postings For External Candidates Substitute Applications Why LRSD? About Winnipeg Mentorship PPDF EAP Services Graduating Teacher Candidates",
+        "contextKind": "li",
+        "html": "<a href=\"javascript:\" class=\"sub-trigger\" data-id=\"1390\">            \n            <span class=\"icon-arrow-right\"></span>\t            \t            \n        </a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "text": "Job Postings",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/job-postings",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 451,
+          "w": 357.53125,
+          "h": 60
+        },
+        "context": "Job Postings Job Postings For External Candidates",
+        "contextKind": "li",
+        "html": "<a href=\"/job-postings\" class=\"laptop:py-[28px] laptop:px-[45px]\">Job Postings</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(2)",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "javascript:",
+        "imgAlt": "",
+        "box": {
+          "x": -43.46875,
+          "y": 457,
+          "w": 27.46875,
+          "h": 48
+        },
+        "context": "Job Postings Job Postings For External Candidates",
+        "contextKind": "li",
+        "html": "<a href=\"javascript:\" class=\"sub-trigger\" data-id=\"1392\">            \n            <span class=\"icon-arrow-right\"></span>\t            \t            \n        </a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li > div > a",
+        "text": "Job Postings For External Candidates",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/job-postings-for-external-candidates",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 511,
+          "w": 395,
+          "h": 60
+        },
+        "context": "Job Postings For External Candidates",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/job-postings-for-external-candidates\">Job Postings For External Candidates</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(2) > div > a",
+        "text": "Substitute Applications",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/substitute-applications",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 511,
+          "w": 395,
+          "h": 60
+        },
+        "context": "Substitute Applications",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/substitute-applications\">Substitute Applications</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(3) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "text": "Why LRSD?",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/why-lrsd",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 571,
+          "w": 357.53125,
+          "h": 60
+        },
+        "context": "Why LRSD? About Winnipeg Mentorship PPDF EAP Services",
+        "contextKind": "li",
+        "html": "<a href=\"/why-lrsd\" class=\"laptop:py-[28px] laptop:px-[45px]\">Why LRSD?</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(3) > div:nth-of-type(1) > a:nth-of-type(2)",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "javascript:",
+        "imgAlt": "",
+        "box": {
+          "x": -43.46875,
+          "y": 577,
+          "w": 27.46875,
+          "h": 48
+        },
+        "context": "Why LRSD? About Winnipeg Mentorship PPDF EAP Services",
+        "contextKind": "li",
+        "html": "<a href=\"javascript:\" class=\"sub-trigger\" data-id=\"1394\">            \n            <span class=\"icon-arrow-right\"></span>\t            \t            \n        </a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(1) > div > a",
+        "text": "About Winnipeg",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/about-winnipeg",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 631,
+          "w": 395,
+          "h": 60
+        },
+        "context": "About Winnipeg",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/about-winnipeg\">About Winnipeg</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(2) > div > a",
+        "text": "Mentorship",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/mentorship",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 691,
+          "w": 395,
+          "h": 60
+        },
+        "context": "Mentorship",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/mentorship\">Mentorship</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(3) > div > a",
+        "text": "PPDF",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/ppdf",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 751,
+          "w": 395,
+          "h": 60
+        },
+        "context": "PPDF",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/ppdf\">PPDF</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(4) > div > a",
+        "text": "EAP Services",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/eap-services",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 811,
+          "w": 395,
+          "h": 60
+        },
+        "context": "EAP Services",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/eap-services\">EAP Services</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(4) > div > a",
+        "text": "Graduating Teacher Candidates",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/graduating-teacher-candidates",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 631,
+          "w": 395,
+          "h": 60
+        },
+        "context": "Graduating Teacher Candidates",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/graduating-teacher-candidates\">Graduating Teacher Candidates</a>"
+      },
+      {
+        "target": "#hamburger-body > li:nth-of-type(6) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "text": "SCHOOLS",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.lrsd.net/community-of-schools",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 451,
+          "w": 357.53125,
+          "h": 60
+        },
+        "context": "SCHOOLS Community of Schools FAQ: Changes to Configuration & Catchment for Schools Housing Developments Bonavista Sage Creek Waterside Estates & Camiel Sys Water Tower District Dawson Trail (Precinct ",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.lrsd.net/community-of-schools\" class=\"laptop:py-[28px] laptop:px-[45px]\">Schools</a>"
+      },
+      {
+        "target": "#hamburger-body > li:nth-of-type(6) > div:nth-of-type(1) > a:nth-of-type(2)",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "javascript:",
+        "imgAlt": "",
+        "box": {
+          "x": -43.46875,
+          "y": 457,
+          "w": 27.46875,
+          "h": 48
+        },
+        "context": "SCHOOLS Community of Schools FAQ: Changes to Configuration & Catchment for Schools Housing Developments Bonavista Sage Creek Waterside Estates & Camiel Sys Water Tower District Dawson Trail (Precinct ",
+        "contextKind": "li",
+        "html": "<a href=\"javascript:\" class=\"sub-trigger\" data-id=\"12632\">            \n            <span class=\"icon-arrow-right\"></span>\t            \t            \n        </a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(1) > div > a",
+        "text": "Community of Schools",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/community-of-schools",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 511,
+          "w": 395,
+          "h": 60
+        },
+        "context": "Community of Schools",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/community-of-schools\">Community of Schools</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(2) > div > a",
+        "text": "FAQ: Changes to Configuration & Catchment for Schools",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/faq-changes-to-configuration-catchment-for-schools",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 571,
+          "w": 395,
+          "h": 88
+        },
+        "context": "FAQ: Changes to Configuration & Catchment for Schools",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/faq-changes-to-configuration-catchment-for-schools\">FAQ: Changes to Configuration &amp; Catchment for Schools</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(3) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "text": "Housing Developments",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/housing-developments",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 659,
+          "w": 357.53125,
+          "h": 60
+        },
+        "context": "Housing Developments Bonavista Sage Creek Waterside Estates & Camiel Sys Water Tower District Dawson Trail (Precinct J) Precinct K South The Waters Urban Village",
+        "contextKind": "li",
+        "html": "<a href=\"/housing-developments\" class=\"laptop:py-[28px] laptop:px-[45px]\">Housing Developments</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(3) > div:nth-of-type(1) > a:nth-of-type(2)",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "javascript:",
+        "imgAlt": "",
+        "box": {
+          "x": -43.46875,
+          "y": 665,
+          "w": 27.46875,
+          "h": 48
+        },
+        "context": "Housing Developments Bonavista Sage Creek Waterside Estates & Camiel Sys Water Tower District Dawson Trail (Precinct J) Precinct K South The Waters Urban Village",
+        "contextKind": "li",
+        "html": "<a href=\"javascript:\" class=\"sub-trigger\" data-id=\"56461\">            \n            <span class=\"icon-arrow-right\"></span>\t            \t            \n        </a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(1) > div > a",
+        "text": "Bonavista",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/bonavista-development",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 719,
+          "w": 395,
+          "h": 60
+        },
+        "context": "Bonavista",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/bonavista-development\">Bonavista</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(2) > div > a",
+        "text": "Sage Creek",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/sage-creek",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 779,
+          "w": 395,
+          "h": 60
+        },
+        "context": "Sage Creek",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/sage-creek\">Sage Creek</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(3) > div > a",
+        "text": "Waterside Estates & Camiel Sys",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/waterside-estates-camiel-sys",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 839,
+          "w": 395,
+          "h": 60
+        },
+        "context": "Waterside Estates & Camiel Sys",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/waterside-estates-camiel-sys\">Waterside Estates &amp; Camiel Sys</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(4) > div > a",
+        "text": "Water Tower District",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/water-tower-district",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 899,
+          "w": 395,
+          "h": 60
+        },
+        "context": "Water Tower District",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/water-tower-district\">Water Tower District</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(5) > div > a",
+        "text": "Dawson Trail (Precinct J)",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/dawson-trail-precinct-j",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 959,
+          "w": 395,
+          "h": 60
+        },
+        "context": "Dawson Trail (Precinct J)",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/dawson-trail-precinct-j\">Dawson Trail (Precinct J)</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(6) > div > a",
+        "text": "Precinct K South",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/precinct-k-south",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 1019,
+          "w": 395,
+          "h": 60
+        },
+        "context": "Precinct K South",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/precinct-k-south\">Precinct K South</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(7) > div > a",
+        "text": "The Waters Urban Village",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/the-waters-urban-village",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 1079,
+          "w": 395,
+          "h": 60
+        },
+        "context": "The Waters Urban Village",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/the-waters-urban-village\">The Waters Urban Village</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(4) > div > a",
+        "text": "Locate a School",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/locate-a-school",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 719,
+          "w": 395,
+          "h": 60
+        },
+        "context": "Locate a School",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/locate-a-school\">Locate a School</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(5) > div > a",
+        "text": "Parent Resources",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/parent-resources",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 779,
+          "w": 395,
+          "h": 60
+        },
+        "context": "Parent Resources",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/parent-resources\">Parent Resources</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(6) > div > a",
+        "text": "Requesting Transcripts",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/requesting-transcripts",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 839,
+          "w": 395,
+          "h": 60
+        },
+        "context": "Requesting Transcripts",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/requesting-transcripts\">Requesting Transcripts</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(7) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "text": "School Registration",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/school-registration",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 899,
+          "w": 357.53125,
+          "h": 60
+        },
+        "context": "School Registration Canadian Student Newcomer Student Schools of Choice Middle and Late Immersion French Language Programs",
+        "contextKind": "li",
+        "html": "<a href=\"/school-registration\" class=\"laptop:py-[28px] laptop:px-[45px]\">School Registration</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(7) > div:nth-of-type(1) > a:nth-of-type(2)",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "javascript:",
+        "imgAlt": "",
+        "box": {
+          "x": -43.46875,
+          "y": 905,
+          "w": 27.46875,
+          "h": 48
+        },
+        "context": "School Registration Canadian Student Newcomer Student Schools of Choice Middle and Late Immersion French Language Programs",
+        "contextKind": "li",
+        "html": "<a href=\"javascript:\" class=\"sub-trigger\" data-id=\"1372\">            \n            <span class=\"icon-arrow-right\"></span>\t            \t            \n        </a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(1) > div > a",
+        "text": "Canadian Student",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/canadian-student",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 959,
+          "w": 395,
+          "h": 60
+        },
+        "context": "Canadian Student",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/canadian-student\">Canadian Student</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(2) > div > a",
+        "text": "Newcomer Student",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/newcomer-student",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 1019,
+          "w": 395,
+          "h": 60
+        },
+        "context": "Newcomer Student",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/newcomer-student\">Newcomer Student</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(3) > div > a",
+        "text": "Schools of Choice",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/schools-of-choice",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 1079,
+          "w": 395,
+          "h": 60
+        },
+        "context": "Schools of Choice",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/schools-of-choice\">Schools of Choice</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(4) > div > a",
+        "text": "Middle and Late Immersion French Language Programs",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/middle-and-late-immersion-french-language-programs",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 1139,
+          "w": 395,
+          "h": 88
+        },
+        "context": "Middle and Late Immersion French Language Programs",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/middle-and-late-immersion-french-language-programs\">Middle and Late Immersion French Language Programs</a>"
+      },
+      {
+        "target": "#hamburger-body > li:nth-of-type(7) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "text": "SCHOOL BOARD",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/school-board",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 511,
+          "w": 357.53125,
+          "h": 60
+        },
+        "context": "SCHOOL BOARD Divisional Policies, Procedural By-Laws, and Committees Terms of Reference Divisional Policies - A Divisional Policies - B Divisional Policies - C Divisional Policies - D Divisional Polic",
+        "contextKind": "li",
+        "html": "<a href=\"/school-board\" class=\"laptop:py-[28px] laptop:px-[45px]\">School Board</a>"
+      },
+      {
+        "target": "#hamburger-body > li:nth-of-type(7) > div:nth-of-type(1) > a:nth-of-type(2)",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "javascript:",
+        "imgAlt": "",
+        "box": {
+          "x": -43.46875,
+          "y": 517,
+          "w": 27.46875,
+          "h": 48
+        },
+        "context": "SCHOOL BOARD Divisional Policies, Procedural By-Laws, and Committees Terms of Reference Divisional Policies - A Divisional Policies - B Divisional Policies - C Divisional Policies - D Divisional Polic",
+        "contextKind": "li",
+        "html": "<a href=\"javascript:\" class=\"sub-trigger\" data-id=\"1411\">            \n            <span class=\"icon-arrow-right\"></span>\t            \t            \n        </a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "text": "Divisional Policies, Procedural By-Laws, and Committees Terms of Reference",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/divisional-policies-procedural-by-laws-and-committees-terms-of-reference",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 571,
+          "w": 357.53125,
+          "h": 144
+        },
+        "context": "Divisional Policies, Procedural By-Laws, and Committees Terms of Reference Divisional Policies - A Divisional Policies - B Divisional Policies - C Divisional Policies - D Divisional Policies - E Divis",
+        "contextKind": "li",
+        "html": "<a href=\"/divisional-policies-procedural-by-laws-and-committees-terms-of-reference\" class=\"laptop:py-[28px] laptop:px-[45px]\">Divisional Policies, Procedural By-Laws, and Committees Terms of Reference</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(2)",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "javascript:",
+        "imgAlt": "",
+        "box": {
+          "x": -43.46875,
+          "y": 619,
+          "w": 27.46875,
+          "h": 48
+        },
+        "context": "Divisional Policies, Procedural By-Laws, and Committees Terms of Reference Divisional Policies - A Divisional Policies - B Divisional Policies - C Divisional Policies - D Divisional Policies - E Divis",
+        "contextKind": "li",
+        "html": "<a href=\"javascript:\" class=\"sub-trigger\" data-id=\"1451\">            \n            <span class=\"icon-arrow-right\"></span>\t            \t            \n        </a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(1) > div > a",
+        "text": "Divisional Policies - A",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/divisional-policies-a",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 715,
+          "w": 395,
+          "h": 60
+        },
+        "context": "Divisional Policies - A",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/divisional-policies-a\">Divisional Policies - A</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(2) > div > a",
+        "text": "Divisional Policies - B",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/divisional-policies-b",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 775,
+          "w": 395,
+          "h": 60
+        },
+        "context": "Divisional Policies - B",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/divisional-policies-b\">Divisional Policies - B</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(3) > div > a",
+        "text": "Divisional Policies - C",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/divisional-policies-c",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 835,
+          "w": 395,
+          "h": 60
+        },
+        "context": "Divisional Policies - C",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/divisional-policies-c\">Divisional Policies - C</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(4) > div > a",
+        "text": "Divisional Policies - D",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/divisional-policies-d",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 895,
+          "w": 395,
+          "h": 60
+        },
+        "context": "Divisional Policies - D",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/divisional-policies-d\">Divisional Policies - D</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(5) > div > a",
+        "text": "Divisional Policies - E",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/divisional-policies-e",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 955,
+          "w": 395,
+          "h": 60
+        },
+        "context": "Divisional Policies - E",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/divisional-policies-e\">Divisional Policies - E</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(6) > div > a",
+        "text": "Divisional Policies - F",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/divisional-policies-f",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 1015,
+          "w": 395,
+          "h": 60
+        },
+        "context": "Divisional Policies - F",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/divisional-policies-f\">Divisional Policies - F</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(7) > div > a",
+        "text": "Divisional Policies - G",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/divisional-policies-g",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 1075,
+          "w": 395,
+          "h": 60
+        },
+        "context": "Divisional Policies - G",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/divisional-policies-g\">Divisional Policies - G</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(8) > div > a",
+        "text": "Divisional Policies - H",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/divisional-policies-h",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 1135,
+          "w": 395,
+          "h": 60
+        },
+        "context": "Divisional Policies - H",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/divisional-policies-h\">Divisional Policies - H</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(9) > div > a",
+        "text": "Divisional Policies - I",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/divisional-policies-i",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 1195,
+          "w": 395,
+          "h": 60
+        },
+        "context": "Divisional Policies - I",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/divisional-policies-i\">Divisional Policies - I</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(10) > div > a",
+        "text": "Divisional Policies - J",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/divisional-policies-j",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 1255,
+          "w": 395,
+          "h": 60
+        },
+        "context": "Divisional Policies - J",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/divisional-policies-j\">Divisional Policies - J</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(11) > div > a",
+        "text": "Divisional Policies - K",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/divisional-policies-k",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 1315,
+          "w": 395,
+          "h": 60
+        },
+        "context": "Divisional Policies - K",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/divisional-policies-k\">Divisional Policies - K</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(12) > div > a",
+        "text": "Divisional Policies - L",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/divisional-policies-l",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 1375,
+          "w": 395,
+          "h": 60
+        },
+        "context": "Divisional Policies - L",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/divisional-policies-l\">Divisional Policies - L</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(13) > div > a",
+        "text": "Procedural By-Laws",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/procedural-by-laws",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 1435,
+          "w": 395,
+          "h": 60
+        },
+        "context": "Procedural By-Laws",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/procedural-by-laws\">Procedural By-Laws </a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "text": "Financial Information",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/financial-information",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 715,
+          "w": 357.53125,
+          "h": 60
+        },
+        "context": "Financial Information Budget Fighting Against Forced Labour and Child Labour in Supply Chains Financial Statements Public Sector Compensation Disclosure",
+        "contextKind": "li",
+        "html": "<a href=\"/financial-information\" class=\"laptop:py-[28px] laptop:px-[45px]\">Financial Information</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(2) > div:nth-of-type(1) > a:nth-of-type(2)",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "javascript:",
+        "imgAlt": "",
+        "box": {
+          "x": -43.46875,
+          "y": 721,
+          "w": 27.46875,
+          "h": 48
+        },
+        "context": "Financial Information Budget Fighting Against Forced Labour and Child Labour in Supply Chains Financial Statements Public Sector Compensation Disclosure",
+        "contextKind": "li",
+        "html": "<a href=\"javascript:\" class=\"sub-trigger\" data-id=\"40517\">            \n            <span class=\"icon-arrow-right\"></span>\t            \t            \n        </a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(1) > div > a",
+        "text": "Budget",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/budget",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 775,
+          "w": 395,
+          "h": 60
+        },
+        "context": "Budget",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/budget\">Budget</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(2) > div > a",
+        "text": "Fighting Against Forced Labour and Child Labour in Supply Chains",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/fighting-against-forced-labour-and-child-labour-in-supply-chains",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 835,
+          "w": 395,
+          "h": 88
+        },
+        "context": "Fighting Against Forced Labour and Child Labour in Supply Chains",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/fighting-against-forced-labour-and-child-labour-in-supply-chains\">Fighting Against Forced Labour and Child Labour in Supply Chains</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(3) > div > a",
+        "text": "Financial Statements",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/financial-statements",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 923,
+          "w": 395,
+          "h": 60
+        },
+        "context": "Financial Statements",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/financial-statements\">Financial Statements</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(4) > div > a",
+        "text": "Public Sector Compensation Disclosure",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/public-sector-compensation-disclosure",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 983,
+          "w": 395,
+          "h": 88
+        },
+        "context": "Public Sector Compensation Disclosure",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/public-sector-compensation-disclosure\">Public Sector Compensation Disclosure</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(3) > div > a",
+        "text": "Minutes & Agenda",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/minutes-agenda",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 775,
+          "w": 395,
+          "h": 60
+        },
+        "context": "Minutes & Agenda",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/minutes-agenda\">Minutes &amp; Agenda</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(4) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "text": "Trustees",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/trustees",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 835,
+          "w": 357.53125,
+          "h": 60
+        },
+        "context": "Trustees Peter Bjornson Pamela Kolochuk Sandy Nemeth Irene Nordheim Ryan Palmquist Chris Sigurdson Chipalo Simunyola Cindy Turner Ian Walker",
+        "contextKind": "li",
+        "html": "<a href=\"/trustees\" class=\"laptop:py-[28px] laptop:px-[45px]\">Trustees</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(4) > div:nth-of-type(1) > a:nth-of-type(2)",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "javascript:",
+        "imgAlt": "",
+        "box": {
+          "x": -43.46875,
+          "y": 841,
+          "w": 27.46875,
+          "h": 48
+        },
+        "context": "Trustees Peter Bjornson Pamela Kolochuk Sandy Nemeth Irene Nordheim Ryan Palmquist Chris Sigurdson Chipalo Simunyola Cindy Turner Ian Walker",
+        "contextKind": "li",
+        "html": "<a href=\"javascript:\" class=\"sub-trigger\" data-id=\"1421\">            \n            <span class=\"icon-arrow-right\"></span>\t            \t            \n        </a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(1) > div > a",
+        "text": "Peter Bjornson",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/peter-bjornson",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 895,
+          "w": 395,
+          "h": 60
+        },
+        "context": "Peter Bjornson",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/peter-bjornson\">Peter Bjornson</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(2) > div > a",
+        "text": "Pamela Kolochuk",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/pamela-kolochuk-1",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 955,
+          "w": 395,
+          "h": 60
+        },
+        "context": "Pamela Kolochuk",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/pamela-kolochuk-1\">Pamela Kolochuk </a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(3) > div > a",
+        "text": "Sandy Nemeth",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/sandy-nemeth-1",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 1015,
+          "w": 395,
+          "h": 60
+        },
+        "context": "Sandy Nemeth",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/sandy-nemeth-1\">Sandy Nemeth</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(4) > div > a",
+        "text": "Irene Nordheim",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/irene-nordheim",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 1075,
+          "w": 395,
+          "h": 60
+        },
+        "context": "Irene Nordheim",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/irene-nordheim\">Irene Nordheim </a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(5) > div > a",
+        "text": "Ryan Palmquist",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/ryan-palmquist",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 1135,
+          "w": 395,
+          "h": 60
+        },
+        "context": "Ryan Palmquist",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/ryan-palmquist\">Ryan Palmquist</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(6) > div > a",
+        "text": "Chris Sigurdson",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/chris-sigurdson-1",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 1195,
+          "w": 395,
+          "h": 60
+        },
+        "context": "Chris Sigurdson",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/chris-sigurdson-1\">Chris Sigurdson</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(7) > div > a",
+        "text": "Chipalo Simunyola",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/chipalo-simunyola",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 1255,
+          "w": 395,
+          "h": 60
+        },
+        "context": "Chipalo Simunyola",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/chipalo-simunyola\">Chipalo Simunyola  </a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(8) > div > a",
+        "text": "Cindy Turner",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/cindy-turner-1",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 1315,
+          "w": 395,
+          "h": 60
+        },
+        "context": "Cindy Turner",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/cindy-turner-1\">Cindy Turner</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(9) > div > a",
+        "text": "Ian Walker",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/ian-walker",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 1375,
+          "w": 395,
+          "h": 60
+        },
+        "context": "Ian Walker",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/ian-walker\">Ian Walker</a>"
+      },
+      {
+        "target": "#hamburger-body > li:nth-of-type(8) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "text": "WHAT WE OFFER",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/career-and-vocational-education",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 571,
+          "w": 357.53125,
+          "h": 60
+        },
+        "context": "WHAT WE OFFER Before and After School Childcare BLAST Program Career and Vocational Education Community Use of School Facilities Curriculum English Language Arts French Language Programs Mathematics M",
+        "contextKind": "li",
+        "html": "<a href=\"/career-and-vocational-education\" class=\"laptop:py-[28px] laptop:px-[45px]\">What We Offer</a>"
+      },
+      {
+        "target": "#hamburger-body > li:nth-of-type(8) > div:nth-of-type(1) > a:nth-of-type(2)",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "javascript:",
+        "imgAlt": "",
+        "box": {
+          "x": -43.46875,
+          "y": 577,
+          "w": 27.46875,
+          "h": 48
+        },
+        "context": "WHAT WE OFFER Before and After School Childcare BLAST Program Career and Vocational Education Community Use of School Facilities Curriculum English Language Arts French Language Programs Mathematics M",
+        "contextKind": "li",
+        "html": "<a href=\"javascript:\" class=\"sub-trigger\" data-id=\"34539\">            \n            <span class=\"icon-arrow-right\"></span>\t            \t            \n        </a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "text": "Before and After School",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/before-and-after-school",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 631,
+          "w": 357.53125,
+          "h": 60
+        },
+        "context": "Before and After School Childcare BLAST Program",
+        "contextKind": "li",
+        "html": "<a href=\"/before-and-after-school\" class=\"laptop:py-[28px] laptop:px-[45px]\">Before and After School</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(1) > div:nth-of-type(1) > a:nth-of-type(2)",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "javascript:",
+        "imgAlt": "",
+        "box": {
+          "x": -43.46875,
+          "y": 637,
+          "w": 27.46875,
+          "h": 48
+        },
+        "context": "Before and After School Childcare BLAST Program",
+        "contextKind": "li",
+        "html": "<a href=\"javascript:\" class=\"sub-trigger\" data-id=\"62348\">            \n            <span class=\"icon-arrow-right\"></span>\t            \t            \n        </a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(1) > div > a",
+        "text": "Childcare",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/childcare-lrsd-blast",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 691,
+          "w": 395,
+          "h": 60
+        },
+        "context": "Childcare",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/childcare-lrsd-blast\">Childcare</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(2) > div > a",
+        "text": "BLAST Program",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/blast-program",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 751,
+          "w": 395,
+          "h": 60
+        },
+        "context": "BLAST Program",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/blast-program\">BLAST Program</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(2) > div > a",
+        "text": "Career and Vocational Education",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/career-and-vocational-education",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 691,
+          "w": 395,
+          "h": 88
+        },
+        "context": "Career and Vocational Education",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/career-and-vocational-education\">Career and Vocational Education</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(3) > div > a",
+        "text": "Community Use of School Facilities",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/community-use-of-school-facilities",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 779,
+          "w": 395,
+          "h": 88
+        },
+        "context": "Community Use of School Facilities",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/community-use-of-school-facilities\">Community Use of School Facilities</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(4) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "text": "Curriculum",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/curriculum",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 867,
+          "w": 357.53125,
+          "h": 60
+        },
+        "context": "Curriculum English Language Arts French Language Programs Mathematics Music Education Physical Education Practical Arts Science Social Studies Visual Arts",
+        "contextKind": "li",
+        "html": "<a href=\"/curriculum\" class=\"laptop:py-[28px] laptop:px-[45px]\">Curriculum</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(4) > div:nth-of-type(1) > a:nth-of-type(2)",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "javascript:",
+        "imgAlt": "",
+        "box": {
+          "x": -43.46875,
+          "y": 873,
+          "w": 27.46875,
+          "h": 48
+        },
+        "context": "Curriculum English Language Arts French Language Programs Mathematics Music Education Physical Education Practical Arts Science Social Studies Visual Arts",
+        "contextKind": "li",
+        "html": "<a href=\"javascript:\" class=\"sub-trigger\" data-id=\"1480\">            \n            <span class=\"icon-arrow-right\"></span>\t            \t            \n        </a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(1) > div > a",
+        "text": "English Language Arts",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/english-language-arts",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 927,
+          "w": 395,
+          "h": 60
+        },
+        "context": "English Language Arts",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/english-language-arts\">English Language Arts</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(2) > div > a",
+        "text": "French Language Programs",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/french-language-programs",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 987,
+          "w": 395,
+          "h": 60
+        },
+        "context": "French Language Programs",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/french-language-programs\">French Language Programs</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(3) > div > a",
+        "text": "Mathematics",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/mathematics",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 1047,
+          "w": 395,
+          "h": 60
+        },
+        "context": "Mathematics",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/mathematics\">Mathematics</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(4) > div > a",
+        "text": "Music Education",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/music-education",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 1107,
+          "w": 395,
+          "h": 60
+        },
+        "context": "Music Education",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/music-education\">Music Education</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(5) > div > a",
+        "text": "Physical Education",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/physical-education",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 1167,
+          "w": 395,
+          "h": 60
+        },
+        "context": "Physical Education",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/physical-education\">Physical Education</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(6) > div > a",
+        "text": "Practical Arts",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/practical-arts",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 1227,
+          "w": 395,
+          "h": 60
+        },
+        "context": "Practical Arts",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/practical-arts\">Practical Arts</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(7) > div > a",
+        "text": "Science",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/science",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 1287,
+          "w": 395,
+          "h": 60
+        },
+        "context": "Science",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/science\">Science</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(8) > div > a",
+        "text": "Social Studies",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/social-studies",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 1347,
+          "w": 395,
+          "h": 60
+        },
+        "context": "Social Studies",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/social-studies\">Social Studies</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(9) > div > a",
+        "text": "Visual Arts",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/visual-arts",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 1407,
+          "w": 395,
+          "h": 60
+        },
+        "context": "Visual Arts",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/visual-arts\">Visual Arts</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(5) > div > a",
+        "text": "Divisional Choir",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/divisional-choir",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 927,
+          "w": 395,
+          "h": 60
+        },
+        "context": "Divisional Choir",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/divisional-choir\">Divisional Choir</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(6) > div > a",
+        "text": "Family Centres",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/family-centres",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 987,
+          "w": 395,
+          "h": 60
+        },
+        "context": "Family Centres",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/family-centres\">Family Centres</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(7) > div > a",
+        "text": "French Immersion",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/french-immersion",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 1047,
+          "w": 395,
+          "h": 60
+        },
+        "context": "French Immersion",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/french-immersion\">French Immersion</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(8) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "text": "Indigenous Education",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/indigenous-education",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 1107,
+          "w": 357.53125,
+          "h": 60
+        },
+        "context": "Indigenous Education Treaty Education Initiative Year of Indigenous Languages Indigenous Council of Grandmothers and Grandfathers Indigenous Education Resources",
+        "contextKind": "li",
+        "html": "<a href=\"/indigenous-education\" class=\"laptop:py-[28px] laptop:px-[45px]\">Indigenous Education</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(8) > div:nth-of-type(1) > a:nth-of-type(2)",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "javascript:",
+        "imgAlt": "",
+        "box": {
+          "x": -43.46875,
+          "y": 1113,
+          "w": 27.46875,
+          "h": 48
+        },
+        "context": "Indigenous Education Treaty Education Initiative Year of Indigenous Languages Indigenous Council of Grandmothers and Grandfathers Indigenous Education Resources",
+        "contextKind": "li",
+        "html": "<a href=\"javascript:\" class=\"sub-trigger\" data-id=\"1494\">            \n            <span class=\"icon-arrow-right\"></span>\t            \t            \n        </a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(1) > div > a",
+        "text": "Treaty Education Initiative",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/treaty-education-initiative",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 1167,
+          "w": 395,
+          "h": 60
+        },
+        "context": "Treaty Education Initiative",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/treaty-education-initiative\">Treaty Education Initiative</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(2) > div > a",
+        "text": "Year of Indigenous Languages",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/year-of-indigenous-languages",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 1227,
+          "w": 395,
+          "h": 60
+        },
+        "context": "Year of Indigenous Languages",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/year-of-indigenous-languages\">Year of Indigenous Languages</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(3) > div > a",
+        "text": "Indigenous Council of Grandmothers and Grandfathers",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/indigenous-council-of-grandmothers-and-grandfathers",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 1287,
+          "w": 395,
+          "h": 88
+        },
+        "context": "Indigenous Council of Grandmothers and Grandfathers",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/indigenous-council-of-grandmothers-and-grandfathers\">Indigenous Council of Grandmothers and Grandfathers</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(4) > div > a",
+        "text": "Indigenous Education Resources",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.lrsd.net/indigenoused/resources",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 1375,
+          "w": 395,
+          "h": 60
+        },
+        "context": "Indigenous Education Resources",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"https://www.lrsd.net/indigenoused/resources\">Indigenous Education Resources</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(9) > div > a",
+        "text": "International Students Program",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.lrsd.net/isp",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 1167,
+          "w": 395,
+          "h": 88
+        },
+        "context": "International Students Program",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"https://www.lrsd.net/isp\">International Students Program</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(10) > div > a",
+        "text": "Learning from Home Resources",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/learning-from-home-resources",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 1255,
+          "w": 395,
+          "h": 60
+        },
+        "context": "Learning from Home Resources",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/learning-from-home-resources\">Learning from Home Resources</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(11) > div > a",
+        "text": "Level Up: Winnipeg",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/level-up-winnipeg",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 1315,
+          "w": 395,
+          "h": 60
+        },
+        "context": "Level Up: Winnipeg",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/level-up-winnipeg\">Level Up: Winnipeg</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(12) > div > a",
+        "text": "Literacy & Numeracy Resources",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/literacy-resources",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 1375,
+          "w": 395,
+          "h": 60
+        },
+        "context": "Literacy & Numeracy Resources",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/literacy-resources\">Literacy &amp; Numeracy Resources</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(13) > div > a",
+        "text": "Manito Ahbee Aki",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/manito-ahbee-aki",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 1435,
+          "w": 395,
+          "h": 60
+        },
+        "context": "Manito Ahbee Aki",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/manito-ahbee-aki\">Manito Ahbee Aki</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(14) > div > a",
+        "text": "Newcomer & EAL Programs",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/newcomer-eal-programs",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 1495,
+          "w": 395,
+          "h": 60
+        },
+        "context": "Newcomer & EAL Programs",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/newcomer-eal-programs\">Newcomer &amp; EAL Programs</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(15) > div > a",
+        "text": "Online Courses",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.lrsd.net/atc/page/5122/online-courses",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 1555,
+          "w": 395,
+          "h": 60
+        },
+        "context": "Online Courses",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"https://www.lrsd.net/atc/page/5122/online-courses\">Online Courses</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(16) > div > a",
+        "text": "Riel Stories Bulletin Board",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/riel-stories-bulletin-board",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 1615,
+          "w": 395,
+          "h": 60
+        },
+        "context": "Riel Stories Bulletin Board",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/riel-stories-bulletin-board\">Riel Stories Bulletin Board</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(17) > div > a",
+        "text": "Safety",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/safety",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 1675,
+          "w": 395,
+          "h": 60
+        },
+        "context": "Safety",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/safety\">Safety</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(18) > div > a",
+        "text": "Special Language Credit",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/special-language-credit",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 1735,
+          "w": 395,
+          "h": 60
+        },
+        "context": "Special Language Credit",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/special-language-credit\">Special Language Credit</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(19) > div > a",
+        "text": "Student Accident Insurance",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/student-accident-insurance",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 1795,
+          "w": 395,
+          "h": 60
+        },
+        "context": "Student Accident Insurance",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/student-accident-insurance\">Student Accident Insurance</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(20) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "text": "Student Support Services",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/student-support-services",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 1855,
+          "w": 357.53125,
+          "h": 60
+        },
+        "context": "Student Support Services Programming Out of Monterey Supporting Multilingual Learners Literacy & Numeracy Screening & Progress Monitoring",
+        "contextKind": "li",
+        "html": "<a href=\"/student-support-services\" class=\"laptop:py-[28px] laptop:px-[45px]\">Student Support Services</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(20) > div:nth-of-type(1) > a:nth-of-type(2)",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "javascript:",
+        "imgAlt": "",
+        "box": {
+          "x": -43.46875,
+          "y": 1861,
+          "w": 27.46875,
+          "h": 48
+        },
+        "context": "Student Support Services Programming Out of Monterey Supporting Multilingual Learners Literacy & Numeracy Screening & Progress Monitoring",
+        "contextKind": "li",
+        "html": "<a href=\"javascript:\" class=\"sub-trigger\" data-id=\"1478\">            \n            <span class=\"icon-arrow-right\"></span>\t            \t            \n        </a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(1) > div > a",
+        "text": "Programming Out of Monterey",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/programming-out-of-monterey",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 1915,
+          "w": 395,
+          "h": 60
+        },
+        "context": "Programming Out of Monterey",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/programming-out-of-monterey\">Programming Out of Monterey</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(2) > div > a",
+        "text": "Supporting Multilingual Learners",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/supporting-multilingual-learners",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 1975,
+          "w": 395,
+          "h": 60
+        },
+        "context": "Supporting Multilingual Learners",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/supporting-multilingual-learners\">Supporting Multilingual Learners</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(3) > div > a",
+        "text": "Literacy & Numeracy Screening & Progress Monitoring",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/literacy-numeracy-screening-progress-monitoring",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 2035,
+          "w": 395,
+          "h": 88
+        },
+        "context": "Literacy & Numeracy Screening & Progress Monitoring",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/literacy-numeracy-screening-progress-monitoring\">Literacy &amp; Numeracy Screening &amp; Progress Monitoring</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(21) > div > a",
+        "text": "Summer Learning Opportunities",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/summer-learning-opportunities",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 1915,
+          "w": 395,
+          "h": 88
+        },
+        "context": "Summer Learning Opportunities",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/summer-learning-opportunities\">Summer Learning Opportunities</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(22) > div > a",
+        "text": "Technology",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/technology",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 2003,
+          "w": 395,
+          "h": 60
+        },
+        "context": "Technology",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/technology\">Technology</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(23) > div > a",
+        "text": "Transportation",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/transportation",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 2063,
+          "w": 395,
+          "h": 60
+        },
+        "context": "Transportation",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/transportation\">Transportation</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(24) > div > a",
+        "text": "Universal Nutrition Program",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/universal-nutrition-program",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 2123,
+          "w": 395,
+          "h": 60
+        },
+        "context": "Universal Nutrition Program",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/universal-nutrition-program\">Universal Nutrition Program</a>"
+      },
+      {
+        "target": "#hamburger-body > li:nth-of-type(9) > div > a",
+        "text": "CONTACT US",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/contact-us",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 631,
+          "w": 395,
+          "h": 60
+        },
+        "context": "CONTACT US",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/contact-us\">Contact Us</a>"
+      },
+      {
+        "target": "#hamburger-body > li:nth-of-type(10) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "text": "SIGN IN HELP - SUPPORT INFORMATION",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/sign-in-help-support-information",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 691,
+          "w": 357.53125,
+          "h": 88
+        },
+        "context": "SIGN IN HELP - SUPPORT INFORMATION How to Create School Messenger Account to use Safe Arrival (Report Child's Absences) How to Create Parent Portal Account How to Access the Report Card and LRSD Forms",
+        "contextKind": "li",
+        "html": "<a href=\"/sign-in-help-support-information\" class=\"laptop:py-[28px] laptop:px-[45px]\">Sign in help - Support Information</a>"
+      },
+      {
+        "target": "#hamburger-body > li:nth-of-type(10) > div:nth-of-type(1) > a:nth-of-type(2)",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "javascript:",
+        "imgAlt": "",
+        "box": {
+          "x": -43.46875,
+          "y": 711,
+          "w": 27.46875,
+          "h": 48
+        },
+        "context": "SIGN IN HELP - SUPPORT INFORMATION How to Create School Messenger Account to use Safe Arrival (Report Child's Absences) How to Create Parent Portal Account How to Access the Report Card and LRSD Forms",
+        "contextKind": "li",
+        "html": "<a href=\"javascript:\" class=\"sub-trigger\" data-id=\"5117\">            \n            <span class=\"icon-arrow-right\"></span>\t            \t            \n        </a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(1) > div > a",
+        "text": "How to Create School Messenger Account to use Safe Arrival (Report Child's Absences)",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/how-to-create-school-messenger-account-to-use-safe-arrival-report-child-s-absences",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 779,
+          "w": 395,
+          "h": 144
+        },
+        "context": "How to Create School Messenger Account to use Safe Arrival (Report Child's Absences)",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/how-to-create-school-messenger-account-to-use-safe-arrival-report-child-s-absences\">How to Create School Messenger Account to use Safe Arrival (Report Child's Absences)</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(2) > div > a",
+        "text": "How to Create Parent Portal Account",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/how-to-create-parent-portal-account",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 923,
+          "w": 395,
+          "h": 88
+        },
+        "context": "How to Create Parent Portal Account",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/how-to-create-parent-portal-account\">How to Create Parent Portal Account</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(3) > div > a",
+        "text": "How to Access the Report Card and LRSD Forms",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/how-to-access-the-report-card",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 1011,
+          "w": 395,
+          "h": 88
+        },
+        "context": "How to Access the Report Card and LRSD Forms",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/how-to-access-the-report-card\">How to Access the Report Card and LRSD Forms</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul > li:nth-of-type(4) > div > a",
+        "text": "How to SchoolCash Online fees",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/how-to-schoolcash-online-fees",
+        "imgAlt": "",
+        "box": {
+          "x": -401,
+          "y": 1099,
+          "w": 395,
+          "h": 60
+        },
+        "context": "How to SchoolCash Online fees",
+        "contextKind": "li",
+        "html": "<a class=\"text-black\" href=\"/how-to-schoolcash-online-fees\">How to SchoolCash Online fees</a>"
+      },
+      {
+        "target": "section:nth-of-type(1) > aside > section:nth-of-type(2) > div:nth-of-type(5) > a:nth-of-type(1)",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "http://www.facebook.com/LouisRielSchoolDivision",
+        "imgAlt": "",
+        "box": {
+          "x": -371,
+          "y": 855,
+          "w": 22,
+          "h": 28
+        },
+        "context": "",
+        "contextKind": "none",
+        "html": "<a href=\"http://www.facebook.com/LouisRielSchoolDivision\" target=\"_blank\"> <span class=\"icon-facebook\"></span> </a>"
+      },
+      {
+        "target": "section:nth-of-type(1) > aside > section:nth-of-type(2) > div:nth-of-type(5) > a:nth-of-type(2)",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.instagram.com/louisrielsd/",
+        "imgAlt": "",
+        "box": {
+          "x": -329,
+          "y": 855,
+          "w": 22,
+          "h": 28
+        },
+        "context": "",
+        "contextKind": "none",
+        "html": "<a href=\"https://www.instagram.com/louisrielsd/\" target=\"_blank\"> <span class=\"icon-instagram\"></span> </a>"
+      },
+      {
+        "target": "section:nth-of-type(1) > aside > section:nth-of-type(2) > div:nth-of-type(5) > a:nth-of-type(3)",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.linkedin.com/company/louis-riel-school-division/",
+        "imgAlt": "",
+        "box": {
+          "x": -287,
+          "y": 855,
+          "w": 22,
+          "h": 28
+        },
+        "context": "",
+        "contextKind": "none",
+        "html": "<a href=\"https://www.linkedin.com/company/louis-riel-school-division/\" target=\"_blank\"> <span class=\"icon-linkedin\"></span> </a>"
+      },
+      {
+        "target": "section:nth-of-type(1) > aside > section:nth-of-type(2) > div:nth-of-type(5) > a:nth-of-type(4)",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.youtube.com/channel/UCR9bZ768WeK4-Cvx6mKQEsg/videos",
+        "imgAlt": "",
+        "box": {
+          "x": -245,
+          "y": 855,
+          "w": 22,
+          "h": 28
+        },
+        "context": "",
+        "contextKind": "none",
+        "html": "<a href=\"https://www.youtube.com/channel/UCR9bZ768WeK4-Cvx6mKQEsg/videos\" target=\"_blank\"> <span class=\"icon-youtube\"></span> </a>"
+      },
+      {
+        "target": "section:nth-of-type(1) > aside > section:nth-of-type(2) > div:nth-of-type(5) > a:nth-of-type(5)",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://bsky.app/profile/louisrielsd.bsky.social",
+        "imgAlt": "",
+        "box": {
+          "x": -203,
+          "y": 855,
+          "w": 24.71875,
+          "h": 28
+        },
+        "context": "",
+        "contextKind": "none",
+        "html": "<a href=\"https://bsky.app/profile/louisrielsd.bsky.social\" target=\"_blank\"> <span class=\"icon-bluesky\"></span> </a>"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > div > section > a",
+        "text": "Louis Riel School Division 900 St. Mary's Road Winnipeg, MB, R2M 3R3 | Phone: (204) 257-7827",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/",
+        "imgAlt": "",
+        "box": {
+          "x": 194,
+          "y": 77,
+          "w": 613,
+          "h": 69
+        },
+        "context": "Louis Riel School Division 900 St. Mary's Road Winnipeg, MB, R2M 3R3 | Phone: (204) 257-7827",
+        "contextKind": "block",
+        "html": "<a href=\"/\" class=\"relative text-lred flex items-center\"> <span class=\"text-nowrap font-bold text-[46px] tracking-[.03em] mobile:hidden\">Louis Riel School Division</span> <span class=\"absolute -bottom-[15px] text-lred mobile:hidden hidden-sticky pad:text-sm\">&nbsp;900 St. Mary's Road Winnipeg, MB, R"
+      },
+      {
+        "target": "#appHeader > div:nth-of-type(2) > section:nth-of-type(2) > div:nth-of-type(1) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/",
+        "imgAlt": "",
+        "box": {
+          "x": 651,
+          "y": 151.40625,
+          "w": 65,
+          "h": 22
+        },
+        "context": "",
+        "contextKind": "none",
+        "html": "<a href=\"/\"> <span class=\"icon-logo1 text-[65px]\"></span> </a>"
+      },
+      {
+        "target": "#appHeader > div:nth-of-type(2) > section:nth-of-type(2) > div:nth-of-type(2) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/",
+        "imgAlt": "lrsd logo",
+        "box": {
+          "x": 1026.140625,
+          "y": 79.578125,
+          "w": 299.859375,
+          "h": 64.828125
+        },
+        "context": "",
+        "contextKind": "none",
+        "html": "<a href=\"/\" class=\"ml-[26px] flex 2xl:w-[421px] 2xl:ml-[20px]\"> <img class=\"w-full stickylogoimg\" src=\"https://sb45storage.blob.core.windows.net/pub/themes/Lrsd3/images/logo0.svg\" alt=\"lrsd logo\" loading=\"eager\"> </a>"
+      },
+      {
+        "target": "#spotlight > div:nth-of-type(1) > section > h1 > a",
+        "text": "September 22 Regular Board Meeting",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/september-22-regular-board-meeting.91539",
+        "imgAlt": "",
+        "box": {
+          "x": 30,
+          "y": 642,
+          "w": 671.90625,
+          "h": 49
+        },
+        "context": "heading: September 22 Regular Board Meeting",
+        "contextKind": "heading-only",
+        "html": "<a href=\"/september-22-regular-board-meeting.91539\" class=\"text-4xl font-bold\">September 22 Regular Board Meeting</a>"
+      },
+      {
+        "target": "#spotlight > div:nth-of-type(2) > section > h1 > a",
+        "text": "Recognizing Peace Days from September 11 to 28, 2026",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/recognizing-peace-days-from-september-11-to-28--2026.91025",
+        "imgAlt": "",
+        "box": {
+          "x": 30,
+          "y": 642,
+          "w": 981.9375,
+          "h": 49
+        },
+        "context": "heading: Recognizing Peace Days from September 11 to 28, 2026 | Recognizing Peace Days from September 11 to 28, 2026",
+        "contextKind": "block",
+        "html": "<a href=\"/recognizing-peace-days-from-september-11-to-28--2026.91025\" class=\"text-4xl font-bold\">Recognizing Peace Days from September 11 to 28, 2026</a>"
+      },
+      {
+        "target": "#spotlight > div:nth-of-type(3) > section > h1 > a",
+        "text": "Celebrating National Payroll Week 2026",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/celebrating-national-payroll-week-2026.91018",
+        "imgAlt": "",
+        "box": {
+          "x": 30,
+          "y": 642,
+          "w": 709.421875,
+          "h": 49
+        },
+        "context": "heading: Celebrating National Payroll Week 2026",
+        "contextKind": "heading-only",
+        "html": "<a href=\"/celebrating-national-payroll-week-2026.91018\" class=\"text-4xl font-bold\">Celebrating National Payroll Week 2026</a>"
+      },
+      {
+        "target": "#spotlight > div:nth-of-type(4) > section > h1 > a",
+        "text": "Free Transit Services for Youth",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/free-transit-services-for-youth.89956",
+        "imgAlt": "",
+        "box": {
+          "x": 30,
+          "y": 642,
+          "w": 544.96875,
+          "h": 49
+        },
+        "context": "heading: Free Transit Services for Youth",
+        "contextKind": "heading-only",
+        "html": "<a href=\"/free-transit-services-for-youth.89956\" class=\"text-4xl font-bold\">Free Transit Services for Youth</a>"
+      },
+      {
+        "target": "#spotlight > div:nth-of-type(5) > section > h1 > a",
+        "text": "We're Hiring an Assistant Superintendent, Student & Clinical Services",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/we-re-hiring-an-assistant-superintendent--student---clinical-services.90644",
+        "imgAlt": "",
+        "box": {
+          "x": 30,
+          "y": 642,
+          "w": 1238.59375,
+          "h": 49
+        },
+        "context": "heading: We're Hiring an Assistant Superintendent, Student & Clinical Services | We're Hiring an Assistant Superintendent, Student & Clinical Services",
+        "contextKind": "block",
+        "html": "<a href=\"/we-re-hiring-an-assistant-superintendent--student---clinical-services.90644\" class=\"text-4xl font-bold\">We're Hiring an Assistant Superintendent, Student &amp; Clinical Services</a>"
+      },
+      {
+        "target": "#spotlight > div:nth-of-type(6) > section > h1 > a",
+        "text": "Employment",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/employment",
+        "imgAlt": "",
+        "box": {
+          "x": 30,
+          "y": 666,
+          "w": 227.234375,
+          "h": 49
+        },
+        "context": "heading: Employment | Employment Employment opportunities with the Louis Riel School Division",
+        "contextKind": "block",
+        "html": "<a href=\"/employment\" class=\"text-4xl font-bold\">Employment</a>"
+      },
+      {
+        "target": "#spotlight > div:nth-of-type(7) > section > h1 > a",
+        "text": "Riel Stories Bulletin Board",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/riel-stories-bulletin-board",
+        "imgAlt": "",
+        "box": {
+          "x": 30,
+          "y": 642,
+          "w": 467.28125,
+          "h": 49
+        },
+        "context": "heading: Riel Stories Bulletin Board",
+        "contextKind": "heading-only",
+        "html": "<a href=\"/riel-stories-bulletin-board\" class=\"text-4xl font-bold\">Riel Stories Bulletin Board</a>"
+      },
+      {
+        "target": "#spotlight-prev",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "javascript:",
+        "imgAlt": "",
+        "box": {
+          "x": 259.546875,
+          "y": 464.5,
+          "w": 71,
+          "h": 71
+        },
+        "context": "heading: Riel Stories Bulletin Board",
+        "contextKind": "heading-only",
+        "html": "<a id=\"spotlight-prev\" href=\"javascript:\" class=\"prev bg-[#212121] rounded-full w-[50px] h-[50px] xl:w-[71px] xl:h-[71px] opacity-80 flex items-center justify-center\"> <span class=\"icon-chevron-thin-left text-[30px] xl:text-[50px] text-[#fff]\"></span> </a>"
+      },
+      {
+        "target": "#spotlight-next",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "javascript:",
+        "imgAlt": "",
+        "box": {
+          "x": 1035.453125,
+          "y": 464.5,
+          "w": 71,
+          "h": 71
+        },
+        "context": "heading: Riel Stories Bulletin Board",
+        "contextKind": "heading-only",
+        "html": "<a id=\"spotlight-next\" href=\"javascript:\" class=\"next bg-[#212121] rounded-full w-[50px] h-[50px] xl:w-[71px] xl:h-[71px] opacity-80 flex items-center justify-center\"> <span class=\"icon-chevron-thin-right text-[30px] xl:text-[50px] text-[#fff]\"></span> </a>"
+      },
+      {
+        "target": "main > section:nth-of-type(1) > div:nth-of-type(1) > section:nth-of-type(3) > a:nth-of-type(1)",
+        "text": "SCHOOLS",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/community-of-schools",
+        "imgAlt": "",
+        "box": {
+          "x": 1166,
+          "y": 393,
+          "w": 200,
+          "h": 58
+        },
+        "context": "heading: Riel Stories Bulletin Board",
+        "contextKind": "heading-only",
+        "html": "<a href=\"/community-of-schools\" class=\"bg-t-pb p-3 rounded-sm h-[58px]\">SCHOOLS</a>"
+      },
+      {
+        "target": "main > section:nth-of-type(1) > div:nth-of-type(1) > section:nth-of-type(3) > a:nth-of-type(2)",
+        "text": "NEWS",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/news",
+        "imgAlt": "",
+        "box": {
+          "x": 1166,
+          "y": 471,
+          "w": 200,
+          "h": 58
+        },
+        "context": "heading: Riel Stories Bulletin Board",
+        "contextKind": "heading-only",
+        "html": "<a href=\"/news\" class=\"bg-t-pb p-3 h-[58px] rounded-sm\">NEWS</a>"
+      },
+      {
+        "target": "main > section:nth-of-type(1) > div:nth-of-type(1) > section:nth-of-type(3) > a:nth-of-type(3)",
+        "text": "EVENTS",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/calendar",
+        "imgAlt": "",
+        "box": {
+          "x": 1166,
+          "y": 549,
+          "w": 200,
+          "h": 58
+        },
+        "context": "heading: Riel Stories Bulletin Board",
+        "contextKind": "heading-only",
+        "html": "<a href=\"/calendar\" class=\"bg-t-pb p-3 h-[58px] rounded-sm\">EVENTS</a>"
+      },
+      {
+        "target": "main > section:nth-of-type(2) > div:nth-of-type(1) > div > a",
+        "text": "Full Forecast",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://weather.gc.ca/en/location/index.html?coords=49.889,-97.129",
+        "imgAlt": "",
+        "box": {
+          "x": 1204.59375,
+          "y": 866.5,
+          "w": 131.40625,
+          "h": 28
+        },
+        "context": "heading: News and Announcements | 18.6°C Conditions: Partly Cloudy Wind: NNE 11 km/h Full Forecast",
+        "contextKind": "block",
+        "html": "<a target=\"_blank\" href=\"https://weather.gc.ca/en/location/index.html?coords=49.889,-97.129\" class=\"flex items-center text-t-pb\" style=\"font-weight:bold;text-transform:unset;font-family:'Noto Sans', sans-serif;font-weight:600;\">Full Forecast&nbsp;<span class=\"icon-chevron-thin-right text-base\"></spa"
+      },
+      {
+        "target": "div:nth-of-type(2) > section:nth-of-type(1) > div > h1 > a",
+        "text": "LRSD 2034",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/lrsd-2034.51440",
+        "imgAlt": "",
+        "box": {
+          "x": 45,
+          "y": 1120.125,
+          "w": 141.796875,
+          "h": 38
+        },
+        "context": "heading: LRSD 2034",
+        "contextKind": "heading-only",
+        "html": "<a href=\"/lrsd-2034.51440\" class=\"hover:text-t-pb\">LRSD 2034</a>"
+      },
+      {
+        "target": "section:nth-of-type(2) > div:nth-of-type(2) > section:nth-of-type(1) > div > a",
+        "text": "Read More",
+        "ariaLabel": "Read More",
+        "title": "",
+        "href": "/lrsd-2034.51440",
+        "imgAlt": "",
+        "box": {
+          "x": 45,
+          "y": 1337.125,
+          "w": 106.703125,
+          "h": 22
+        },
+        "context": "heading: LRSD 2034",
+        "contextKind": "heading-only",
+        "html": "<a class=\"text-base text-black hover:text-t-pb\" href=\"/lrsd-2034.51440\" target=\"_self\" aria-label=\"Read More\"> <span class=\"text-[20px] font-bold\">Read More</span> <span class=\"icon-angle-right\"></span> </a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > section:nth-of-type(2) > div > h1 > a",
+        "text": "Multi-Year Strategic Plan 2023-2027",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/multi-year-strategic-plan-2023-2027",
+        "imgAlt": "",
+        "box": {
+          "x": 491,
+          "y": 1122,
+          "w": 347.296875,
+          "h": 80
+        },
+        "context": "heading: Multi-Year Strategic Plan 2023-2027",
+        "contextKind": "heading-only",
+        "html": "<a href=\"/multi-year-strategic-plan-2023-2027\" class=\"hover:text-t-pb\">Multi-Year Strategic Plan 2023-2027</a>"
+      },
+      {
+        "target": "section:nth-of-type(2) > div:nth-of-type(2) > section:nth-of-type(2) > div > a",
+        "text": "Read More",
+        "ariaLabel": "Read More",
+        "title": "",
+        "href": "/multi-year-strategic-plan-2023-2027",
+        "imgAlt": "",
+        "box": {
+          "x": 491,
+          "y": 1381,
+          "w": 106.703125,
+          "h": 22
+        },
+        "context": "heading: Multi-Year Strategic Plan 2023-2027",
+        "contextKind": "heading-only",
+        "html": "<a class=\"text-base text-black hover:text-t-pb\" href=\"/multi-year-strategic-plan-2023-2027\" target=\"_self\" aria-label=\"Read More\"> <span class=\"text-[20px] font-bold\">Read More</span> <span class=\"icon-angle-right\"></span> </a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > section:nth-of-type(3) > div > h1 > a",
+        "text": "LRSD Annual School Building Review Dashboard",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/introducing-the-improved-lrsd-annual-school-building-review-dashboard.85582",
+        "imgAlt": "",
+        "box": {
+          "x": 937,
+          "y": 1120.125,
+          "w": 381.921875,
+          "h": 80
+        },
+        "context": "heading: LRSD Annual School Building Review Dashboard | LRSD Annual School Building Review Dashboard",
+        "contextKind": "block",
+        "html": "<a href=\"/introducing-the-improved-lrsd-annual-school-building-review-dashboard.85582\" class=\"hover:text-t-pb\">LRSD Annual School Building Review Dashboard</a>"
+      },
+      {
+        "target": "section:nth-of-type(2) > div:nth-of-type(2) > section:nth-of-type(3) > div > a",
+        "text": "Read More",
+        "ariaLabel": "Read More",
+        "title": "",
+        "href": "/introducing-the-improved-lrsd-annual-school-building-review-dashboard.85582",
+        "imgAlt": "",
+        "box": {
+          "x": 937,
+          "y": 1379.125,
+          "w": 106.703125,
+          "h": 22
+        },
+        "context": "heading: LRSD Annual School Building Review Dashboard",
+        "contextKind": "heading-only",
+        "html": "<a class=\"text-base text-black hover:text-t-pb\" href=\"/introducing-the-improved-lrsd-annual-school-building-review-dashboard.85582\" target=\"_self\" aria-label=\"Read More\"> <span class=\"text-[20px] font-bold\">Read More</span> <span class=\"icon-angle-right\"></span> </a>"
+      },
+      {
+        "target": "#wrapper > main > section:nth-of-type(2) > div:nth-of-type(3) > a",
+        "text": "VIEW ALL NEWS",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/news",
+        "imgAlt": "",
+        "box": {
+          "x": 556.8125,
+          "y": 1486,
+          "w": 252.359375,
+          "h": 54
+        },
+        "context": "heading: LRSD Annual School Building Review Dashboard",
+        "contextKind": "heading-only",
+        "html": "<a class=\"text-[#767676] border-[#c8c8c8] rounded-[1px] border px-[55px] py-[12px] font-bold hover:opacity-60\" href=\"/news\">VIEW ALL NEWS</a>"
+      },
+      {
+        "target": "#wrapper > main > section:nth-of-type(3) > div:nth-of-type(2) > a:nth-of-type(1)",
+        "text": "SEP 22 Early Dismissal All Day",
+        "ariaLabel": "",
+        "title": "",
+        "href": "javascript:openUpcomingPop(0)",
+        "imgAlt": "",
+        "box": {
+          "x": 30,
+          "y": 1651,
+          "w": 189.328125,
+          "h": 209.140625
+        },
+        "context": "heading: Upcoming Events",
+        "contextKind": "heading-only",
+        "html": "<a href=\"javascript:openUpcomingPop(0)\" class=\"text-black border-[1px] border-[solid] border-[rgb(218,218,218)] rounded-[5px] px-[20px] py-[12px] large:min-h-[170px]\"> <span class=\"flex flex-col gap-[4px] items-center justify-center w-[58px] h-[58px] rounded-[100%] bg-[rgb(255,_204,_2)] uppercase te"
+      },
+      {
+        "target": "#wrapper > main > section:nth-of-type(3) > div:nth-of-type(2) > a:nth-of-type(2)",
+        "text": "SEP 22 Regular Board Meeting 6:30 PM - 8:30 PM",
+        "ariaLabel": "",
+        "title": "",
+        "href": "javascript:openUpcomingPop(1)",
+        "imgAlt": "",
+        "box": {
+          "x": 253.328125,
+          "y": 1651,
+          "w": 189.328125,
+          "h": 209.140625
+        },
+        "context": "heading: Upcoming Events",
+        "contextKind": "heading-only",
+        "html": "<a href=\"javascript:openUpcomingPop(1)\" class=\"text-black border-[1px] border-[solid] border-[rgb(218,218,218)] rounded-[5px] px-[20px] py-[12px] large:min-h-[170px]\"> <span class=\"flex flex-col gap-[4px] items-center justify-center w-[58px] h-[58px] rounded-[100%] bg-[rgb(255,_204,_2)] uppercase te"
+      },
+      {
+        "target": "#wrapper > main > section:nth-of-type(3) > div:nth-of-type(2) > a:nth-of-type(3)",
+        "text": "SEP 30 National Day for Truth and Reconciliation All Day",
+        "ariaLabel": "",
+        "title": "",
+        "href": "javascript:openUpcomingPop(2)",
+        "imgAlt": "",
+        "box": {
+          "x": 476.65625,
+          "y": 1651,
+          "w": 189.328125,
+          "h": 209.140625
+        },
+        "context": "heading: Upcoming Events",
+        "contextKind": "heading-only",
+        "html": "<a href=\"javascript:openUpcomingPop(2)\" class=\"text-black border-[1px] border-[solid] border-[rgb(218,218,218)] rounded-[5px] px-[20px] py-[12px] large:min-h-[170px]\"> <span class=\"flex flex-col gap-[4px] items-center justify-center w-[58px] h-[58px] rounded-[100%] bg-[rgb(255,_204,_2)] uppercase te"
+      },
+      {
+        "target": "#wrapper > main > section:nth-of-type(3) > div:nth-of-type(2) > a:nth-of-type(4)",
+        "text": "OCT 06 Regular Board Meeting 6:30 PM - 8:30 PM",
+        "ariaLabel": "",
+        "title": "",
+        "href": "javascript:openUpcomingPop(3)",
+        "imgAlt": "",
+        "box": {
+          "x": 699.984375,
+          "y": 1651,
+          "w": 189.34375,
+          "h": 209.140625
+        },
+        "context": "heading: Upcoming Events",
+        "contextKind": "heading-only",
+        "html": "<a href=\"javascript:openUpcomingPop(3)\" class=\"text-black border-[1px] border-[solid] border-[rgb(218,218,218)] rounded-[5px] px-[20px] py-[12px] large:min-h-[170px]\"> <span class=\"flex flex-col gap-[4px] items-center justify-center w-[58px] h-[58px] rounded-[100%] bg-[rgb(255,_204,_2)] uppercase te"
+      },
+      {
+        "target": "#wrapper > main > section:nth-of-type(3) > div:nth-of-type(2) > a:nth-of-type(5)",
+        "text": "OCT 12 Thanksgiving Day All Day",
+        "ariaLabel": "",
+        "title": "",
+        "href": "javascript:openUpcomingPop(4)",
+        "imgAlt": "",
+        "box": {
+          "x": 923.328125,
+          "y": 1651,
+          "w": 189.328125,
+          "h": 209.140625
+        },
+        "context": "heading: Upcoming Events",
+        "contextKind": "heading-only",
+        "html": "<a href=\"javascript:openUpcomingPop(4)\" class=\"text-black border-[1px] border-[solid] border-[rgb(218,218,218)] rounded-[5px] px-[20px] py-[12px] large:min-h-[170px]\"> <span class=\"flex flex-col gap-[4px] items-center justify-center w-[58px] h-[58px] rounded-[100%] bg-[rgb(255,_204,_2)] uppercase te"
+      },
+      {
+        "target": "#wrapper > main > section:nth-of-type(3) > div:nth-of-type(2) > a:nth-of-type(6)",
+        "text": "OCT 14 Leadership Retreat All Day",
+        "ariaLabel": "",
+        "title": "",
+        "href": "javascript:openUpcomingPop(5)",
+        "imgAlt": "",
+        "box": {
+          "x": 1146.65625,
+          "y": 1651,
+          "w": 189.328125,
+          "h": 209.140625
+        },
+        "context": "heading: Upcoming Events",
+        "contextKind": "heading-only",
+        "html": "<a href=\"javascript:openUpcomingPop(5)\" class=\"text-black border-[1px] border-[solid] border-[rgb(218,218,218)] rounded-[5px] px-[20px] py-[12px] large:min-h-[170px]\"> <span class=\"flex flex-col gap-[4px] items-center justify-center w-[58px] h-[58px] rounded-[100%] bg-[rgb(255,_204,_2)] uppercase te"
+      },
+      {
+        "target": "#wrapper > main > section:nth-of-type(3) > div:nth-of-type(3) > a:nth-of-type(1)",
+        "text": "VIEW ALL EVENTS",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/calendar#listview",
+        "imgAlt": "",
+        "box": {
+          "x": 408.96875,
+          "y": 1890.140625,
+          "w": 263.15625,
+          "h": 54
+        },
+        "context": "heading: Upcoming Events",
+        "contextKind": "heading-only",
+        "html": "<a href=\"/calendar#listview\" class=\"text-[#767676] border-[#c8c8c8] rounded-[1px] text-center border px-[53px] py-[12px] font-bold hover:opacity-60\">VIEW ALL EVENTS</a>"
+      },
+      {
+        "target": "#wrapper > main > section:nth-of-type(3) > div:nth-of-type(3) > a:nth-of-type(2)",
+        "text": "VIEW CALENDAR",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/calendar#monthview",
+        "imgAlt": "",
+        "box": {
+          "x": 702.125,
+          "y": 1890.140625,
+          "w": 254.90625,
+          "h": 54
+        },
+        "context": "heading: Upcoming Events",
+        "contextKind": "heading-only",
+        "html": "<a href=\"/calendar#monthview\" class=\"text-[#767676] border-[#c8c8c8] rounded-[1px] text-center border px-[53px] py-[12px] font-bold hover:opacity-60\">VIEW CALENDAR</a>"
+      },
+      {
+        "target": "#quicklink-tabs > ul > li:nth-of-type(1) > a",
+        "text": "Students",
+        "ariaLabel": "",
+        "title": "",
+        "href": "#tab-0",
+        "imgAlt": "",
+        "box": {
+          "x": 232.59375,
+          "y": 2035.140625,
+          "w": 116.625,
+          "h": 42
+        },
+        "context": "Students",
+        "contextKind": "li",
+        "html": "<a href=\"#tab-0\" class=\"hover:opacity-60 active\">Students</a>"
+      },
+      {
+        "target": "#quicklink-tabs > ul > li:nth-of-type(3) > a",
+        "text": "Community",
+        "ariaLabel": "",
+        "title": "",
+        "href": "#tab-1",
+        "imgAlt": "",
+        "box": {
+          "x": 611.046875,
+          "y": 2035.140625,
+          "w": 153.21875,
+          "h": 42
+        },
+        "context": "Community",
+        "contextKind": "li",
+        "html": "<a href=\"#tab-1\" class=\"hover:opacity-60\">Community</a>"
+      },
+      {
+        "target": "#quicklink-tabs > ul > li:nth-of-type(5) > a",
+        "text": "Families",
+        "ariaLabel": "",
+        "title": "",
+        "href": "#tab-2",
+        "imgAlt": "",
+        "box": {
+          "x": 1026.09375,
+          "y": 2035.140625,
+          "w": 107.296875,
+          "h": 42
+        },
+        "context": "Families",
+        "contextKind": "li",
+        "html": "<a href=\"#tab-2\" class=\"hover:opacity-60\">Families</a>"
+      },
+      {
+        "target": "#tab-0 > div:nth-of-type(1) > section > a",
+        "text": "LRSD Apps",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.lrsd.net/loginhelp",
+        "imgAlt": "LRSD Apps",
+        "box": {
+          "x": 519.75,
+          "y": 2177.140625,
+          "w": 326.5,
+          "h": 228
+        },
+        "context": "heading: Quicklinks | Students | Community | Families LRSD Apps",
+        "contextKind": "block",
+        "html": "<a target=\"&quot;_blank&quot;\" href=\"https://www.lrsd.net/loginhelp\" class=\"flex items-center justify-center flex-col\"> <div class=\"border-[8px] rounded-full h-[148px] w-[148px] flex items-center justify-center border-[#777] hover:opacity-60\"> <img src=\"https://media.lrsd.net/media/Default/fgg/5/0e1"
+      },
+      {
+        "target": "#wrapper > main > section:nth-of-type(4) > div:nth-of-type(2) > a",
+        "text": "VIEW ALL QUICKLINKS",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/quick-links",
+        "imgAlt": "",
+        "box": {
+          "x": 526.828125,
+          "y": 2425.140625,
+          "w": 312.34375,
+          "h": 54
+        },
+        "context": "heading: Quicklinks | Quicklinks Students | Community | Families LRSD Apps VIEW ALL QUICKLINKS",
+        "contextKind": "block",
+        "html": "<a href=\"/quick-links\" class=\"text-[#767676] border-[#c8c8c8] rounded-[1px] border px-[55px] py-[12px] font-bold hover:opacity-60\">VIEW ALL QUICKLINKS</a>"
+      },
+      {
+        "target": "#upcoming-p0 > aside > a",
+        "text": "",
+        "ariaLabel": "event-close",
+        "title": "",
+        "href": "javascript:clearUpcomingPops()",
+        "imgAlt": "",
+        "box": {
+          "x": 1706,
+          "y": 26,
+          "w": 24,
+          "h": 18
+        },
+        "context": "heading: Quicklinks | September 22. 2026 Early Dismissal All Day EARLY DISMISSAL ADD EVENT TO MY CALENDAR",
+        "contextKind": "block",
+        "html": "<a href=\"javascript:clearUpcomingPops()\" class=\"close absolute top-[26px] right-[37px]\" name=\"hide_eventDetil\" aria-label=\"event-close\" style=\"height:18px;min-height:18px;cursor:pointer;\"> <svg width=\"24\" height=\"24\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentC"
+      },
+      {
+        "target": "#upcoming-p0 > aside > div:nth-of-type(3) > a",
+        "text": "ADD EVENT TO MY CALENDAR",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://cicmsapi.azurewebsites.net/lrsd/_ci/calendar/ics/80387",
+        "imgAlt": "",
+        "box": {
+          "x": 1395,
+          "y": 196,
+          "w": 344,
+          "h": 49
+        },
+        "context": "heading: Early Dismissal | September 22. 2026 Early Dismissal All Day EARLY DISMISSAL ADD EVENT TO MY CALENDAR",
+        "contextKind": "block",
+        "html": "<a class=\"btn\" href=\"https://cicmsapi.azurewebsites.net/lrsd/_ci/calendar/ics/80387\" style=\"font-size:14px;font-weight:bold;color:#BA2F32;\">Add Event To My Calendar</a>"
+      },
+      {
+        "target": "#upcoming-p1 > aside > a",
+        "text": "",
+        "ariaLabel": "event-close",
+        "title": "",
+        "href": "javascript:clearUpcomingPops()",
+        "imgAlt": "",
+        "box": {
+          "x": 1706,
+          "y": 26,
+          "w": 24,
+          "h": 18
+        },
+        "context": "heading: Early Dismissal | September 22. 2026 Regular Board Meeting 6:30 PM - 8:30 PM SCHOOL BOARD ADD EVENT TO MY CALENDAR",
+        "contextKind": "block",
+        "html": "<a href=\"javascript:clearUpcomingPops()\" class=\"close absolute top-[26px] right-[37px]\" name=\"hide_eventDetil\" aria-label=\"event-close\" style=\"height:18px;min-height:18px;cursor:pointer;\"> <svg width=\"24\" height=\"24\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentC"
+      },
+      {
+        "target": "#upcoming-p1 > aside > div:nth-of-type(3) > a",
+        "text": "ADD EVENT TO MY CALENDAR",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://cicmsapi.azurewebsites.net/lrsd/_ci/calendar/ics/90622",
+        "imgAlt": "",
+        "box": {
+          "x": 1395,
+          "y": 196,
+          "w": 344,
+          "h": 49
+        },
+        "context": "heading: Regular Board Meeting | September 22. 2026 Regular Board Meeting 6:30 PM - 8:30 PM SCHOOL BOARD ADD EVENT TO MY CALENDAR",
+        "contextKind": "block",
+        "html": "<a class=\"btn\" href=\"https://cicmsapi.azurewebsites.net/lrsd/_ci/calendar/ics/90622\" style=\"font-size:14px;font-weight:bold;color:#BA2F32;\">Add Event To My Calendar</a>"
+      },
+      {
+        "target": "#upcoming-p2 > aside > a",
+        "text": "",
+        "ariaLabel": "event-close",
+        "title": "",
+        "href": "javascript:clearUpcomingPops()",
+        "imgAlt": "",
+        "box": {
+          "x": 1706,
+          "y": 26,
+          "w": 24,
+          "h": 18
+        },
+        "context": "heading: Regular Board Meeting | September 30. 2026 National Day for Truth and Reconciliation All Day HOLIDAY ADD EVENT TO MY CALENDAR",
+        "contextKind": "block",
+        "html": "<a href=\"javascript:clearUpcomingPops()\" class=\"close absolute top-[26px] right-[37px]\" name=\"hide_eventDetil\" aria-label=\"event-close\" style=\"height:18px;min-height:18px;cursor:pointer;\"> <svg width=\"24\" height=\"24\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentC"
+      },
+      {
+        "target": "#upcoming-p2 > aside > div:nth-of-type(3) > a",
+        "text": "ADD EVENT TO MY CALENDAR",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://cicmsapi.azurewebsites.net/lrsd/_ci/calendar/ics/80404",
+        "imgAlt": "",
+        "box": {
+          "x": 1395,
+          "y": 232,
+          "w": 344,
+          "h": 49
+        },
+        "context": "heading: National Day for Truth and Reconciliation | September 30. 2026 National Day for Truth and Reconciliation All Day HOLIDAY ADD EVENT TO MY CALENDAR",
+        "contextKind": "block",
+        "html": "<a class=\"btn\" href=\"https://cicmsapi.azurewebsites.net/lrsd/_ci/calendar/ics/80404\" style=\"font-size:14px;font-weight:bold;color:#BA2F32;\">Add Event To My Calendar</a>"
+      },
+      {
+        "target": "#upcoming-p3 > aside > a",
+        "text": "",
+        "ariaLabel": "event-close",
+        "title": "",
+        "href": "javascript:clearUpcomingPops()",
+        "imgAlt": "",
+        "box": {
+          "x": 1706,
+          "y": 26,
+          "w": 24,
+          "h": 18
+        },
+        "context": "heading: National Day for Truth and Reconciliation | October 06. 2026 Regular Board Meeting 6:30 PM - 8:30 PM SCHOOL BOARD ADD EVENT TO MY CALENDAR",
+        "contextKind": "block",
+        "html": "<a href=\"javascript:clearUpcomingPops()\" class=\"close absolute top-[26px] right-[37px]\" name=\"hide_eventDetil\" aria-label=\"event-close\" style=\"height:18px;min-height:18px;cursor:pointer;\"> <svg width=\"24\" height=\"24\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentC"
+      },
+      {
+        "target": "#upcoming-p3 > aside > div:nth-of-type(3) > a",
+        "text": "ADD EVENT TO MY CALENDAR",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://cicmsapi.azurewebsites.net/lrsd/_ci/calendar/ics/90622",
+        "imgAlt": "",
+        "box": {
+          "x": 1395,
+          "y": 196,
+          "w": 344,
+          "h": 49
+        },
+        "context": "heading: Regular Board Meeting | October 06. 2026 Regular Board Meeting 6:30 PM - 8:30 PM SCHOOL BOARD ADD EVENT TO MY CALENDAR",
+        "contextKind": "block",
+        "html": "<a class=\"btn\" href=\"https://cicmsapi.azurewebsites.net/lrsd/_ci/calendar/ics/90622\" style=\"font-size:14px;font-weight:bold;color:#BA2F32;\">Add Event To My Calendar</a>"
+      },
+      {
+        "target": "#upcoming-p4 > aside > a",
+        "text": "",
+        "ariaLabel": "event-close",
+        "title": "",
+        "href": "javascript:clearUpcomingPops()",
+        "imgAlt": "",
+        "box": {
+          "x": 1706,
+          "y": 26,
+          "w": 24,
+          "h": 18
+        },
+        "context": "heading: Regular Board Meeting | October 12. 2026 Thanksgiving Day All Day HOLIDAY ADD EVENT TO MY CALENDAR",
+        "contextKind": "block",
+        "html": "<a href=\"javascript:clearUpcomingPops()\" class=\"close absolute top-[26px] right-[37px]\" name=\"hide_eventDetil\" aria-label=\"event-close\" style=\"height:18px;min-height:18px;cursor:pointer;\"> <svg width=\"24\" height=\"24\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentC"
+      },
+      {
+        "target": "#upcoming-p4 > aside > div:nth-of-type(3) > a",
+        "text": "ADD EVENT TO MY CALENDAR",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://cicmsapi.azurewebsites.net/lrsd/_ci/calendar/ics/80411",
+        "imgAlt": "",
+        "box": {
+          "x": 1395,
+          "y": 196,
+          "w": 344,
+          "h": 49
+        },
+        "context": "heading: Thanksgiving Day | October 12. 2026 Thanksgiving Day All Day HOLIDAY ADD EVENT TO MY CALENDAR",
+        "contextKind": "block",
+        "html": "<a class=\"btn\" href=\"https://cicmsapi.azurewebsites.net/lrsd/_ci/calendar/ics/80411\" style=\"font-size:14px;font-weight:bold;color:#BA2F32;\">Add Event To My Calendar</a>"
+      },
+      {
+        "target": "#upcoming-p5 > aside > a",
+        "text": "",
+        "ariaLabel": "event-close",
+        "title": "",
+        "href": "javascript:clearUpcomingPops()",
+        "imgAlt": "",
+        "box": {
+          "x": 1706,
+          "y": 26,
+          "w": 24,
+          "h": 18
+        },
+        "context": "heading: Thanksgiving Day | October 14. 2026 Leadership Retreat All Day LEADERSHIP COUNCIL ADD EVENT TO MY CALENDAR",
+        "contextKind": "block",
+        "html": "<a href=\"javascript:clearUpcomingPops()\" class=\"close absolute top-[26px] right-[37px]\" name=\"hide_eventDetil\" aria-label=\"event-close\" style=\"height:18px;min-height:18px;cursor:pointer;\"> <svg width=\"24\" height=\"24\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentC"
+      },
+      {
+        "target": "#upcoming-p5 > aside > div:nth-of-type(3) > a",
+        "text": "ADD EVENT TO MY CALENDAR",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://cicmsapi.azurewebsites.net/lrsd/_ci/calendar/ics/76438",
+        "imgAlt": "",
+        "box": {
+          "x": 1395,
+          "y": 196,
+          "w": 344,
+          "h": 49
+        },
+        "context": "heading: Leadership Retreat | October 14. 2026 Leadership Retreat All Day LEADERSHIP COUNCIL ADD EVENT TO MY CALENDAR",
+        "contextKind": "block",
+        "html": "<a class=\"btn\" href=\"https://cicmsapi.azurewebsites.net/lrsd/_ci/calendar/ics/76438\" style=\"font-size:14px;font-weight:bold;color:#BA2F32;\">Add Event To My Calendar</a>"
+      },
+      {
+        "target": "div:nth-of-type(1) > section > div:nth-of-type(1) > strong > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.lrsd.net",
+        "imgAlt": "Division Scolaire Louis Riel School Division",
+        "box": {
+          "x": 130,
+          "y": 2617.140625,
+          "w": 124,
+          "h": 216
+        },
+        "context": "heading: Leadership Retreat",
+        "contextKind": "heading-only",
+        "html": "<a class=\"inline-block w-[124px] h-[216px]\" href=\"https://www.lrsd.net\"> <img src=\"https://sb45storage.blob.core.windows.net/pub/themes/Lrsd/content/r2/LRSDLogo.svg\" alt=\"Division Scolaire Louis Riel School Division\"> </a>"
+      },
+      {
+        "target": "section > div:nth-of-type(2) > div:nth-of-type(1) > span:nth-of-type(3) > a",
+        "text": "(204) 257-7827",
+        "ariaLabel": "",
+        "title": "",
+        "href": "tel:2042577827",
+        "imgAlt": "",
+        "box": {
+          "x": 420.609375,
+          "y": 2689.140625,
+          "w": 110.4375,
+          "h": 22
+        },
+        "context": "heading: Leadership Retreat | CONTACT THE SCHOOL DIVISION Louis Riel School Division 900 St. Mary's Road Winnipeg, MB, R2M 3R3 Phone: (204) 257-7827 CONTACT US",
+        "contextKind": "block",
+        "html": "<a href=\"tel:2042577827\" class=\"tel\">(204) 257-7827</a>"
+      },
+      {
+        "target": "section > div:nth-of-type(2) > div:nth-of-type(1) > div > a",
+        "text": "CONTACT US",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/page/1409/contact-us",
+        "imgAlt": "",
+        "box": {
+          "x": 364,
+          "y": 2750.140625,
+          "w": 207.703125,
+          "h": 49
+        },
+        "context": "heading: Leadership Retreat | CONTACT THE SCHOOL DIVISION Louis Riel School Division 900 St. Mary's Road Winnipeg, MB, R2M 3R3 Phone: (204) 257-7827 CONTACT US",
+        "contextKind": "block",
+        "html": "<a href=\"/page/1409/contact-us\" class=\"contact-form font-[Arial] font-bold px-[52px] py-[16px] bg-t-pb hover:bg-t-pd rounded-[4px]\"> CONTACT US </a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div:nth-of-type(2) > ul > li:nth-of-type(1) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "http://www.facebook.com/LouisRielSchoolDivision",
+        "imgAlt": "Facebook",
+        "box": {
+          "x": 1011.984375,
+          "y": 2630.140625,
+          "w": 30,
+          "h": 30
+        },
+        "context": "",
+        "contextKind": "li",
+        "html": "<a href=\"http://www.facebook.com/LouisRielSchoolDivision\" target=\"_blank\"> <img src=\"https://sb45storage.blob.core.windows.net/pub/themes/Lrsd/content/r2/Facebook.svg?r=230616338\" style=\"width: 30px ; height: 30px ;\" alt=\"Facebook\"> </a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div:nth-of-type(2) > ul > li:nth-of-type(2) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.instagram.com/louisrielsd/",
+        "imgAlt": "Instagram",
+        "box": {
+          "x": 1051.984375,
+          "y": 2630.140625,
+          "w": 30,
+          "h": 30
+        },
+        "context": "",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.instagram.com/louisrielsd/\" target=\"_blank\"> <img src=\"https://sb45storage.blob.core.windows.net/pub/themes/Lrsd/content/r2/Instagram.svg?r=230616338\" style=\"width: 30px ; height: 30px ;\" alt=\"Instagram\"> </a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div:nth-of-type(2) > ul > li:nth-of-type(3) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.linkedin.com/company/louis-riel-school-division/",
+        "imgAlt": "LinkedIn",
+        "box": {
+          "x": 1091.984375,
+          "y": 2630.140625,
+          "w": 30,
+          "h": 30
+        },
+        "context": "",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.linkedin.com/company/louis-riel-school-division/\" target=\"_blank\"> <img src=\"https://sb45storage.blob.core.windows.net/pub/themes/Lrsd/content/r2/LinkedIn.svg?r=230616338\" style=\"width: 30px ; height: 30px ;\" alt=\"LinkedIn\"> </a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div:nth-of-type(2) > ul > li:nth-of-type(4) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.youtube.com/channel/UCR9bZ768WeK4-Cvx6mKQEsg/videos",
+        "imgAlt": "YouTube",
+        "box": {
+          "x": 1131.984375,
+          "y": 2630.140625,
+          "w": 30,
+          "h": 30
+        },
+        "context": "",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.youtube.com/channel/UCR9bZ768WeK4-Cvx6mKQEsg/videos\" target=\"_blank\"> <img src=\"https://sb45storage.blob.core.windows.net/pub/themes/Lrsd/content/r2/YouTube.svg?r=230616338\" style=\"width: 30px ; height: 30px ;\" alt=\"YouTube\"> </a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div:nth-of-type(2) > ul > li:nth-of-type(5) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://bsky.app/profile/louisrielsd.bsky.social",
+        "imgAlt": "BlueSky",
+        "box": {
+          "x": 1171.984375,
+          "y": 2630.140625,
+          "w": 30,
+          "h": 30
+        },
+        "context": "",
+        "contextKind": "li",
+        "html": "<a href=\"https://bsky.app/profile/louisrielsd.bsky.social\" target=\"_blank\"> <img src=\"https://sb45storage.blob.core.windows.net/pub/themes/Lrsd/content/r2/BlueSky.svg?r=230616338\" style=\"width: 30px ; height: 30px ;\" alt=\"BlueSky\"> </a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div:nth-of-type(2) > section > div:nth-of-type(2) > a:nth-of-type(1)",
+        "text": "",
+        "ariaLabel": "App Store",
+        "title": "",
+        "href": "https://apps.apple.com/tr/app/lrsd-connect/id1631941001",
+        "imgAlt": "",
+        "box": {
+          "x": 1006.984375,
+          "y": 2860.140625,
+          "w": 110,
+          "h": 42.296875
+        },
+        "context": "heading: Leadership Retreat | LRSD CONNECT APP Download our app and stay connected with up-to-date notifications, information and news from your school and teachers on your mobile device.",
+        "contextKind": "block",
+        "html": "<a href=\"https://apps.apple.com/tr/app/lrsd-connect/id1631941001\" target=\"'_blank'\" aria-label=\"App Store\"> <img class=\"h-[34px]\" src=\"https://media.lrsd.net/media/App%20Store.svg\" width=\"110\" height=\"34\" alt=\"\"> </a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div:nth-of-type(2) > section > div:nth-of-type(2) > a:nth-of-type(2)",
+        "text": "",
+        "ariaLabel": "Google Play",
+        "title": "",
+        "href": "https://play.google.com/store/apps/details?id=ca.schoolbundle.lrsd",
+        "imgAlt": "",
+        "box": {
+          "x": 1116.984375,
+          "y": 2860.140625,
+          "w": 130,
+          "h": 42.296875
+        },
+        "context": "heading: Leadership Retreat | LRSD CONNECT APP Download our app and stay connected with up-to-date notifications, information and news from your school and teachers on your mobile device.",
+        "contextKind": "block",
+        "html": "<a href=\"https://play.google.com/store/apps/details?id=ca.schoolbundle.lrsd\" target=\"'_blank'\" aria-label=\"Google Play\"> <img class=\"w-[130px] -mt-[8px]\" src=\"https://media.lrsd.net/media/Google%20Play.svg\" width=\"110\" height=\"34\" alt=\"\"> </a>"
+      },
+      {
+        "target": "div > span > span:nth-of-type(2) > span > a:nth-of-type(1)",
+        "text": "Privacy Policy",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/privacy-policy",
+        "imgAlt": "",
+        "box": {
+          "x": 447,
+          "y": 2957.4375,
+          "w": 99.578125,
+          "h": 24
+        },
+        "context": "heading: Leadership Retreat | Privacy Policy Site Map Copyright - Fair Dealing Guidelines",
+        "contextKind": "block",
+        "html": "<a href=\"/privacy-policy\">Privacy Policy</a>"
+      },
+      {
+        "target": "div > span > span:nth-of-type(2) > span > a:nth-of-type(2)",
+        "text": "Site Map",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/sitemap",
+        "imgAlt": "",
+        "box": {
+          "x": 567.578125,
+          "y": 2957.4375,
+          "w": 63.140625,
+          "h": 24
+        },
+        "context": "heading: Leadership Retreat | Privacy Policy Site Map Copyright - Fair Dealing Guidelines",
+        "contextKind": "block",
+        "html": "<a href=\"/sitemap\">Site Map</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div > span > span:nth-of-type(2) > a",
+        "text": "Copyright - Fair Dealing Guidelines",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.fairdealingdecisiontool.ca/",
+        "imgAlt": "",
+        "box": {
+          "x": 651.71875,
+          "y": 2957.4375,
+          "w": 249,
+          "h": 24
+        },
+        "context": "heading: Leadership Retreat | Privacy Policy Site Map Copyright - Fair Dealing Guidelines",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.fairdealingdecisiontool.ca/\" target=\"_blank\">Copyright - Fair Dealing Guidelines</a>"
+      },
+      {
+        "target": "footer > section > div:nth-of-type(2) > div > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "http://www.schoolbundle.ca/",
+        "imgAlt": "school bundle",
+        "box": {
+          "x": 1198,
+          "y": 2957.4375,
+          "w": 136,
+          "h": 24
+        },
+        "context": "heading: Leadership Retreat | © 2026 Louis Riel School Division. All rights reserved. Privacy Policy Site Map Copyright - Fair Dealing Guidelines",
+        "contextKind": "block",
+        "html": "<a href=\"http://www.schoolbundle.ca/\" target=\"_blank\" class=\"hidden-print\"> <img src=\"https://sb45storage.blob.core.windows.net/pub/themes/Lrsd/content/r2/schoolbundle-logo-white.svg\" alt=\"school bundle\" class=\"alignright\" width=\"136\" height=\"17\"> </a>"
+      },
+      {
+        "target": "#wrapper > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "javascript:scrollToTop()",
+        "imgAlt": "",
+        "box": {
+          "x": 1308,
+          "y": 850,
+          "w": 40,
+          "h": 40
+        },
+        "context": "heading: Leadership Retreat",
+        "contextKind": "heading-only",
+        "html": "<a href=\"javascript:scrollToTop()\" class=\"fixed bottom-[10px] right-[18px] h-[40px] w-[40px] z-[99999] bg-[#444] rounded-[4px] flex items-center justify-center hidden-print\"> <span class=\"icon-arrow-right\" style=\"color: #fff;transform: rotate(-90deg);\"></span> </a>"
+      }
+    ],
+    "headings": [
+      {
+        "target": "#spotlight > div:nth-of-type(1) > section > h1",
+        "level": 1,
+        "text": "September 22 Regular Board Meeting",
+        "visible": true,
+        "box": {
+          "x": 30,
+          "y": 647,
+          "w": 671.90625,
+          "h": 40
+        },
+        "html": "<h1 class=\"mb-[20px]\"><a href=\"/september-22-regular-board-meeting.91539\" class=\"text-4xl font-bold\">September 22 Regular Board Meeting</a></h1>"
+      },
+      {
+        "target": "#spotlight > div:nth-of-type(2) > section > h1",
+        "level": 1,
+        "text": "Recognizing Peace Days from September 11 to 28, 2026",
+        "visible": true,
+        "box": {
+          "x": 30,
+          "y": 647,
+          "w": 981.9375,
+          "h": 40
+        },
+        "html": "<h1 class=\"mb-[20px]\"><a href=\"/recognizing-peace-days-from-september-11-to-28--2026.91025\" class=\"text-4xl font-bold\">Recognizing Peace Days from September 11 to 28, 2026</a></h1>"
+      },
+      {
+        "target": "#spotlight > div:nth-of-type(3) > section > h1",
+        "level": 1,
+        "text": "Celebrating National Payroll Week 2026",
+        "visible": true,
+        "box": {
+          "x": 30,
+          "y": 647,
+          "w": 709.421875,
+          "h": 40
+        },
+        "html": "<h1 class=\"mb-[20px]\"><a href=\"/celebrating-national-payroll-week-2026.91018\" class=\"text-4xl font-bold\">Celebrating National Payroll Week 2026</a></h1>"
+      },
+      {
+        "target": "#spotlight > div:nth-of-type(4) > section > h1",
+        "level": 1,
+        "text": "Free Transit Services for Youth",
+        "visible": true,
+        "box": {
+          "x": 30,
+          "y": 647,
+          "w": 544.96875,
+          "h": 40
+        },
+        "html": "<h1 class=\"mb-[20px]\"><a href=\"/free-transit-services-for-youth.89956\" class=\"text-4xl font-bold\">Free Transit Services for Youth</a></h1>"
+      },
+      {
+        "target": "#spotlight > div:nth-of-type(5) > section > h1",
+        "level": 1,
+        "text": "We're Hiring an Assistant Superintendent, Student & Clinical Services",
+        "visible": true,
+        "box": {
+          "x": 30,
+          "y": 647,
+          "w": 1238.59375,
+          "h": 40
+        },
+        "html": "<h1 class=\"mb-[20px]\"><a href=\"/we-re-hiring-an-assistant-superintendent--student---clinical-services.90644\" class=\"text-4xl font-bold\">We're Hiring an Assistant Superintendent, Student &amp; Clinical Services</a></h1>"
+      },
+      {
+        "target": "#spotlight > div:nth-of-type(6) > section > h1",
+        "level": 1,
+        "text": "Employment",
+        "visible": true,
+        "box": {
+          "x": 30,
+          "y": 671,
+          "w": 227.234375,
+          "h": 40
+        },
+        "html": "<h1 class=\"mb-[20px]\"><a href=\"/employment\" class=\"text-4xl font-bold\">Employment</a></h1>"
+      },
+      {
+        "target": "#spotlight > div:nth-of-type(7) > section > h1",
+        "level": 1,
+        "text": "Riel Stories Bulletin Board",
+        "visible": true,
+        "box": {
+          "x": 30,
+          "y": 647,
+          "w": 467.28125,
+          "h": 40
+        },
+        "html": "<h1 class=\"mb-[20px]\"><a href=\"/riel-stories-bulletin-board\" class=\"text-4xl font-bold\">Riel Stories Bulletin Board</a></h1>"
+      },
+      {
+        "target": "#spotlight-text > h1",
+        "level": 1,
+        "text": "Recognizing Peace Days from September 11 to 28, 2026",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h1 class=\"text-2xl font-bold mb-[6px]\"><a href=\"https://www.lrsd.net/recognizing-peace-days-from-september-11-to-28--2026.91025\">Recognizing Peace Days from September 11 to 28, 2026</a></h1>"
+      },
+      {
+        "target": "#wrapper > main > section:nth-of-type(2) > div:nth-of-type(1) > h1",
+        "level": 1,
+        "text": "News and Announcements",
+        "visible": true,
+        "box": {
+          "x": 30,
+          "y": 855,
+          "w": 454.046875,
+          "h": 51
+        },
+        "html": "<h1 class=\"text-t-pb text-[28px] large:text-[34px] font-bold order-2 xl:order-1\">News and Announcements</h1>"
+      },
+      {
+        "target": "section:nth-of-type(2) > div:nth-of-type(2) > section:nth-of-type(1) > div > h1",
+        "level": 1,
+        "text": "LRSD 2034",
+        "visible": true,
+        "box": {
+          "x": 45,
+          "y": 1118.125,
+          "w": 384,
+          "h": 42
+        },
+        "html": "<h1 class=\"text-black text-[20px] large:text-[28px] font-bold mb-[24px]\"><a href=\"/lrsd-2034.51440\" class=\"hover:text-t-pb\">LRSD 2034</a></h1>"
+      },
+      {
+        "target": "section:nth-of-type(2) > div:nth-of-type(2) > section:nth-of-type(2) > div > h1",
+        "level": 1,
+        "text": "Multi-Year Strategic Plan 2023-2027",
+        "visible": true,
+        "box": {
+          "x": 491,
+          "y": 1120,
+          "w": 384,
+          "h": 84
+        },
+        "html": "<h1 class=\"text-black text-[20px] large:text-[28px] font-bold mb-[24px]\"><a href=\"/multi-year-strategic-plan-2023-2027\" class=\"hover:text-t-pb\">Multi-Year Strategic Plan 2023-2027</a></h1>"
+      },
+      {
+        "target": "section:nth-of-type(2) > div:nth-of-type(2) > section:nth-of-type(3) > div > h1",
+        "level": 1,
+        "text": "LRSD Annual School Building Review Dashboard",
+        "visible": true,
+        "box": {
+          "x": 937,
+          "y": 1118.125,
+          "w": 384,
+          "h": 84
+        },
+        "html": "<h1 class=\"text-black text-[20px] large:text-[28px] font-bold mb-[24px]\"><a href=\"/introducing-the-improved-lrsd-annual-school-building-review-dashboard.85582\" class=\"hover:text-t-pb\">LRSD Annual School Building Review Dashboard</a></h1>"
+      },
+      {
+        "target": "#wrapper > main > section:nth-of-type(3) > div:nth-of-type(1) > h1",
+        "level": 1,
+        "text": "Upcoming Events",
+        "visible": true,
+        "box": {
+          "x": 30,
+          "y": 1560,
+          "w": 294.6875,
+          "h": 51
+        },
+        "html": "<h1 class=\"text-t-pb font-bold\">Upcoming Events</h1>"
+      },
+      {
+        "target": "#wrapper > main > section:nth-of-type(4) > h1",
+        "level": 1,
+        "text": "Quicklinks",
+        "visible": true,
+        "box": {
+          "x": 30,
+          "y": 1964.140625,
+          "w": 1306,
+          "h": 51
+        },
+        "html": "<h1 class=\"text-t-pb text-[28px] large:text-[34px] font-bold\">Quicklinks</h1>"
+      },
+      {
+        "target": "#upcoming-p0 > aside > div:nth-of-type(1) > h3",
+        "level": 3,
+        "text": "Early Dismissal",
+        "visible": true,
+        "box": {
+          "x": 1395,
+          "y": 67,
+          "w": 344,
+          "h": 36
+        },
+        "html": "<h3 style=\"font-size:24px;font-weight:bold;\" class=\"text-t-pb\">Early Dismissal</h3>"
+      },
+      {
+        "target": "#upcoming-p1 > aside > div:nth-of-type(1) > h3",
+        "level": 3,
+        "text": "Regular Board Meeting",
+        "visible": true,
+        "box": {
+          "x": 1395,
+          "y": 67,
+          "w": 344,
+          "h": 36
+        },
+        "html": "<h3 style=\"font-size:24px;font-weight:bold;\" class=\"text-t-pb\">Regular Board Meeting</h3>"
+      },
+      {
+        "target": "#upcoming-p2 > aside > div:nth-of-type(1) > h3",
+        "level": 3,
+        "text": "National Day for Truth and Reconciliation",
+        "visible": true,
+        "box": {
+          "x": 1395,
+          "y": 67,
+          "w": 344,
+          "h": 72
+        },
+        "html": "<h3 style=\"font-size:24px;font-weight:bold;\" class=\"text-t-pb\">National Day for Truth and Reconciliation</h3>"
+      },
+      {
+        "target": "#upcoming-p3 > aside > div:nth-of-type(1) > h3",
+        "level": 3,
+        "text": "Regular Board Meeting",
+        "visible": true,
+        "box": {
+          "x": 1395,
+          "y": 67,
+          "w": 344,
+          "h": 36
+        },
+        "html": "<h3 style=\"font-size:24px;font-weight:bold;\" class=\"text-t-pb\">Regular Board Meeting</h3>"
+      },
+      {
+        "target": "#upcoming-p4 > aside > div:nth-of-type(1) > h3",
+        "level": 3,
+        "text": "Thanksgiving Day",
+        "visible": true,
+        "box": {
+          "x": 1395,
+          "y": 67,
+          "w": 344,
+          "h": 36
+        },
+        "html": "<h3 style=\"font-size:24px;font-weight:bold;\" class=\"text-t-pb\">Thanksgiving Day</h3>"
+      },
+      {
+        "target": "#upcoming-p5 > aside > div:nth-of-type(1) > h3",
+        "level": 3,
+        "text": "Leadership Retreat",
+        "visible": true,
+        "box": {
+          "x": 1395,
+          "y": 67,
+          "w": 344,
+          "h": 36
+        },
+        "html": "<h3 style=\"font-size:24px;font-weight:bold;\" class=\"text-t-pb\">Leadership Retreat</h3>"
+      }
+    ],
+    "lang": "en",
+    "title": "Louis Riel School Division"
+  },
   "axe": {
     "violationRules": 5,
     "violationNodes": 55,

@@ -1,0 +1,9 @@
+{"site":"assiniboine.net","check":"alt-text","model":"qwen3-vl:8b","at":"2026-09-20T00:02:50.396Z","images":8,"checkedByModel":6,"raised":2}
+{"site":"assiniboine.net","check":"link-purpose","model":"qwen3-vl:8b","at":"2026-09-20T00:03:17.278Z","links":58,"candidates":10,"raised":3}
+{"site":"assiniboine.net","check":"headings","model":"qwen3-vl:8b","at":"2026-09-20T00:03:20.811Z","headings":17,"raised":1}
+{"site":"brandon.ca","check":"alt-text","model":"qwen3-vl:8b","at":"2026-09-20T00:04:06.063Z","images":23,"checkedByModel":10,"raised":2}
+{"site":"brandon.ca","check":"link-purpose","model":"qwen3-vl:8b","at":"2026-09-20T00:04:06.849Z","links":59,"candidates":2,"raised":1}
+{"site":"brandon.ca","check":"headings","model":"qwen3-vl:8b","at":"2026-09-20T00:04:07.536Z","headings":2,"raised":0}
+{"site":"brandonu.ca","check":"alt-text","model":"qwen3-vl:8b","at":"2026-09-20T00:04:15.128Z","images":3,"checkedByModel":3,"raised":1}
+{"site":"brandonu.ca","check":"link-purpose","model":"qwen3-vl:8b","at":"2026-09-20T00:04:17.987Z","links":75,"candidates":8,"raised":5}
+{"site":"brandonu.ca","check":"headings","model":"qwen3-vl:8b","at":"2026-09-20T00:04:20.583Z","headings":14,"raised":1}

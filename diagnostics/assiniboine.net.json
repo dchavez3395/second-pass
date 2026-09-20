@@ -11,7 +11,7 @@
     "buttons": 2,
     "inputs": 2,
     "headings": 17,
-    "textLength": 4568,
+    "textLength": 4584,
     "lang": "en",
     "iframes": 2
   },
@@ -19,7 +19,1416 @@
     "width": 1366,
     "height": 900
   },
-  "scannedAt": "2026-09-19T06:26:45.842Z",
+  "scannedAt": "2026-09-19T23:59:02.474Z",
+  "content": {
+    "images": [
+      {
+        "target": "#block-de-theme-branding > a > img",
+        "tag": "img",
+        "src": "https://assiniboine.net/themes/custom/de_theme/logo.png",
+        "alt": "Home",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 401,
+        "naturalHeight": 200,
+        "box": {
+          "x": 90.03125,
+          "y": 39.0625,
+          "w": 260.890625,
+          "h": 130.125
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"/themes/custom/de_theme/logo.png\" alt=\"Home\">"
+      },
+      {
+        "target": "div:nth-of-type(1) > div > a > div:nth-of-type(1) > img",
+        "tag": "img",
+        "src": "https://assiniboine.net/sites/default/files/styles/thumbnail/public/images/2026-07/Peters%20School%20Icon.png?itok=icW6yWFb",
+        "alt": "Peters School of Business",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 90,
+        "naturalHeight": 90,
+        "box": {
+          "x": 771.5,
+          "y": 1062.75,
+          "w": 40,
+          "h": 40
+        },
+        "inLink": true,
+        "linkText": "School of Business",
+        "linkHref": "/study-here/why-assiniboine/peters-school-business",
+        "caption": "",
+        "nearText": "",
+        "html": "<img loading=\"lazy\" src=\"/sites/default/files/styles/thumbnail/public/images/2026-07/Peters%20School%20Icon.png?itok=icW6yWFb\" width=\"90\" height=\"90\" alt=\"Peters School of Business\" class=\"image-style-thumbnail\">"
+      },
+      {
+        "target": "div:nth-of-type(2) > div > a > div:nth-of-type(1) > img",
+        "tag": "img",
+        "src": "https://assiniboine.net/sites/default/files/styles/thumbnail/public/images/2026-07/Edwards%20School%20Icon.png?itok=cKjoJs6I",
+        "alt": "Russ Edwards School of Agriculture and Environment",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 90,
+        "naturalHeight": 90,
+        "box": {
+          "x": 989.5,
+          "y": 1039.75,
+          "w": 40,
+          "h": 40
+        },
+        "inLink": true,
+        "linkText": "School of Ag & Enviro",
+        "linkHref": "/study-here/why-assiniboine/russ-edwards-school-agriculture-environment",
+        "caption": "",
+        "nearText": "",
+        "html": "<img loading=\"lazy\" src=\"/sites/default/files/styles/thumbnail/public/images/2026-07/Edwards%20School%20Icon.png?itok=cKjoJs6I\" width=\"90\" height=\"90\" alt=\"Russ Edwards School of Agriculture and Environment\" class=\"image-style-thumbnail\">"
+      },
+      {
+        "target": "div:nth-of-type(3) > div > a > div:nth-of-type(1) > img",
+        "tag": "img",
+        "src": "https://assiniboine.net/sites/default/files/styles/thumbnail/public/images/2026-07/Edna%20Edwards%20School%20Icon.png?itok=tySmefxY",
+        "alt": "Edna Edwards School of Nursing",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 90,
+        "naturalHeight": 90,
+        "box": {
+          "x": 1208,
+          "y": 1062.75,
+          "w": 40,
+          "h": 40
+        },
+        "inLink": true,
+        "linkText": "School of Nursing",
+        "linkHref": "/ednaedwards",
+        "caption": "",
+        "nearText": "",
+        "html": "<img loading=\"lazy\" src=\"/sites/default/files/styles/thumbnail/public/images/2026-07/Edna%20Edwards%20School%20Icon.png?itok=tySmefxY\" width=\"90\" height=\"90\" alt=\"Edna Edwards School of Nursing\" class=\"image-style-thumbnail\">"
+      },
+      {
+        "target": "div:nth-of-type(1) > article > div > a > img",
+        "tag": "img",
+        "src": "https://assiniboine.net/sites/default/files/styles/large/public/images/2026-09/Fall%20Enrolment_0.JPG?itok=W4vjAu3g",
+        "alt": "Fall at Assiniboine College",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 880,
+        "naturalHeight": 660,
+        "box": {
+          "x": 105.28125,
+          "y": 1693.359375,
+          "w": 516.6875,
+          "h": 387.515625
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "/community/news-events/news-assiniboine/fall-term-assiniboine-college-underway-thousands-studying-0",
+        "caption": "",
+        "nearText": "",
+        "html": "<img loading=\"lazy\" src=\"/sites/default/files/styles/large/public/images/2026-09/Fall%20Enrolment_0.JPG?itok=W4vjAu3g\" width=\"880\" height=\"660\" alt=\"Fall at Assiniboine College\" class=\"image-style-large\">"
+      },
+      {
+        "target": "div:nth-of-type(2) > article > div > a > img",
+        "tag": "img",
+        "src": "https://assiniboine.net/sites/default/files/styles/large/public/images/2026-08/International%20Students%20-%20Assiniboine%20%28file%29%5B46%5D.jpg?itok=yaqGrET6",
+        "alt": "Three international students in hallway.",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 880,
+        "naturalHeight": 587,
+        "box": {
+          "x": 105.28125,
+          "y": 2163.34375,
+          "w": 250.34375,
+          "h": 166.984375
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "/community/news-events/news-assiniboine/province-and-assiniboine-partnering-offer-free-workplace-0",
+        "caption": "",
+        "nearText": "",
+        "html": "<img loading=\"lazy\" src=\"/sites/default/files/styles/large/public/images/2026-08/International%20Students%20-%20Assiniboine%20%28file%29%5B46%5D.jpg?itok=yaqGrET6\" width=\"880\" height=\"587\" alt=\"Three international students in hallway.\" class=\"image-style-large\">"
+      },
+      {
+        "target": "div:nth-of-type(3) > article > div > a > img",
+        "tag": "img",
+        "src": "https://assiniboine.net/sites/default/files/styles/large/public/images/2026-07/Centre%20for%20Adult%20Learning%20%28file%20photo%29.jpg?itok=IIs3g7wp",
+        "alt": "CAL file photo- Assiniboine",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 880,
+        "naturalHeight": 503,
+        "box": {
+          "x": 371.625,
+          "y": 2163.34375,
+          "w": 250.34375,
+          "h": 143.09375
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "/community/news-events/news-assiniboine/assiniboine-college-adult-learning-centres-coming-minnedosa",
+        "caption": "",
+        "nearText": "",
+        "html": "<img loading=\"lazy\" src=\"/sites/default/files/styles/large/public/images/2026-07/Centre%20for%20Adult%20Learning%20%28file%20photo%29.jpg?itok=IIs3g7wp\" width=\"880\" height=\"503\" alt=\"CAL file photo- Assiniboine\" class=\"image-style-large\">"
+      },
+      {
+        "target": "div > article > div > div:nth-of-type(2) > img",
+        "tag": "img",
+        "src": "https://assiniboine.net/sites/default/files/styles/medium/public/images/2024-06/Assiniboine%20Logo_Primary%20Reverse.png?itok=CcNluxB8",
+        "alt": "White Logo",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 212,
+        "naturalHeight": 220,
+        "box": {
+          "x": 115.03125,
+          "y": 3973.28125,
+          "w": 207.4375,
+          "h": 215.25
+        },
+        "inLink": true,
+        "linkText": "Image",
+        "linkHref": "/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img loading=\"lazy\" src=\"/sites/default/files/styles/medium/public/images/2024-06/Assiniboine%20Logo_Primary%20Reverse.png?itok=CcNluxB8\" width=\"212\" height=\"220\" alt=\"White Logo\" class=\"image-style-medium\">"
+      }
+    ],
+    "links": [
+      {
+        "target": "html > body > a",
+        "text": "Skip to main content",
+        "ariaLabel": "",
+        "title": "",
+        "href": "#main-content",
+        "imgAlt": "",
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 1,
+          "h": 1
+        },
+        "context": "",
+        "contextKind": "none",
+        "html": "<a href=\"#main-content\" class=\"visually-hidden focusable skip-link\">\n      Skip to main content\n    </a>"
+      },
+      {
+        "target": "#block-de-theme-branding > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "Home",
+        "href": "/",
+        "imgAlt": "Home",
+        "box": {
+          "x": 90.03125,
+          "y": 39.0625,
+          "w": 260.90625,
+          "h": 136.125
+        },
+        "context": "Assiniboine College Secondary navigation RESEARCH CAREERS DONATE STRATEGIC PLAN Utility navigation QUICK LINKS APPLY NOW",
+        "contextKind": "block",
+        "html": "<a href=\"/\" title=\"Home\" rel=\"home\" class=\"site-logo\">\n        <img src=\"/themes/custom/de_theme/logo.png\" alt=\"Home\">\n      </a>"
+      },
+      {
+        "target": "#block-secondary-navigation > ul > li:nth-of-type(1) > a",
+        "text": "RESEARCH",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/community/about-us/applied-research",
+        "imgAlt": "",
+        "box": {
+          "x": 437.875,
+          "y": 85.625,
+          "w": 65.984375,
+          "h": 19
+        },
+        "context": "RESEARCH",
+        "contextKind": "li",
+        "html": "<a href=\"/community/about-us/applied-research\" data-drupal-link-system-path=\"node/62\">Research</a>"
+      },
+      {
+        "target": "#block-secondary-navigation > ul > li:nth-of-type(2) > a",
+        "text": "CAREERS",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/community/employment/working-assiniboine",
+        "imgAlt": "",
+        "box": {
+          "x": 519.859375,
+          "y": 85.625,
+          "w": 56.53125,
+          "h": 19
+        },
+        "context": "CAREERS",
+        "contextKind": "li",
+        "html": "<a href=\"/community/employment/working-assiniboine\" data-drupal-link-system-path=\"node/15244\">Careers</a>"
+      },
+      {
+        "target": "#block-secondary-navigation > ul > li:nth-of-type(3) > a",
+        "text": "DONATE",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/community/assiniboine-foundation/donate-today",
+        "imgAlt": "",
+        "box": {
+          "x": 592.390625,
+          "y": 85.625,
+          "w": 51.171875,
+          "h": 19
+        },
+        "context": "DONATE",
+        "contextKind": "li",
+        "html": "<a href=\"/community/assiniboine-foundation/donate-today\" data-drupal-link-system-path=\"node/55\">Donate</a>"
+      },
+      {
+        "target": "#block-secondary-navigation > ul > li:nth-of-type(4) > a",
+        "text": "STRATEGIC PLAN",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/media/8454",
+        "imgAlt": "",
+        "box": {
+          "x": 659.5625,
+          "y": 85.625,
+          "w": 103.6875,
+          "h": 19
+        },
+        "context": "STRATEGIC PLAN",
+        "contextKind": "li",
+        "html": "<a href=\"/media/8454\" target=\"_blank\" data-drupal-link-system-path=\"media/8454\">Strategic Plan</a>"
+      },
+      {
+        "target": "#block-social-media-links > ul > li:nth-of-type(1) > a",
+        "text": "",
+        "ariaLabel": "Find us on Facebook",
+        "title": "Find us on Facebook",
+        "href": "https://www.facebook.com/AssiniboineCollege",
+        "imgAlt": "",
+        "box": {
+          "x": 798.484375,
+          "y": 88.125,
+          "w": 32,
+          "h": 23
+        },
+        "context": "",
+        "contextKind": "li",
+        "html": "<a class=\"social-media-link-icon--facebook\" href=\"https://www.facebook.com/AssiniboineCollege\" target=\"_blank\" aria-label=\"Find us on Facebook\" title=\"Find us on Facebook\">\n        <span class=\"fab fa-facebook fa-2x\"></span>\n      </a>"
+      },
+      {
+        "target": "#block-social-media-links > ul > li:nth-of-type(2) > a",
+        "text": "",
+        "ariaLabel": "Follow us on Instagram",
+        "title": "Follow us on Instagram",
+        "href": "https://www.instagram.com/AssiniboineCollege",
+        "imgAlt": "",
+        "box": {
+          "x": 847.71875,
+          "y": 88.125,
+          "w": 28,
+          "h": 23
+        },
+        "context": "",
+        "contextKind": "li",
+        "html": "<a class=\"social-media-link-icon--instagram\" href=\"https://www.instagram.com/AssiniboineCollege\" target=\"_blank\" aria-label=\"Follow us on Instagram\" title=\"Follow us on Instagram\">\n        <span class=\"fab fa-instagram fa-2x\"></span>\n      </a>"
+      },
+      {
+        "target": "#block-social-media-links > ul > li:nth-of-type(3) > a",
+        "text": "",
+        "ariaLabel": "Watch us on Youtube",
+        "title": "Watch us on Youtube",
+        "href": "https://www.youtube.com/user/ACCManitoba",
+        "imgAlt": "",
+        "box": {
+          "x": 892.953125,
+          "y": 88.125,
+          "w": 36,
+          "h": 23
+        },
+        "context": "",
+        "contextKind": "li",
+        "html": "<a class=\"social-media-link-icon--youtube\" href=\"https://www.youtube.com/user/ACCManitoba\" target=\"_blank\" aria-label=\"Watch us on Youtube\" title=\"Watch us on Youtube\">\n        <span class=\"fab fa-youtube fa-2x\"></span>\n      </a>"
+      },
+      {
+        "target": "#block-social-media-links > ul > li:nth-of-type(4) > a",
+        "text": "",
+        "ariaLabel": "Find us on X",
+        "title": "Find us on X",
+        "href": "https://x.com/assiniboine_MB",
+        "imgAlt": "",
+        "box": {
+          "x": 946.1875,
+          "y": 88.125,
+          "w": 32,
+          "h": 23
+        },
+        "context": "",
+        "contextKind": "li",
+        "html": "<a class=\"social-media-link-icon--twitter\" href=\"https://x.com/assiniboine_MB\" target=\"_blank\" aria-label=\"Find us on X\" title=\"Find us on X\">\n        <span class=\"fab fa-x-twitter fa-2x\"></span>\n      </a>"
+      },
+      {
+        "target": "#block-utility-navigation > ul > li:nth-of-type(1) > a",
+        "text": "QUICK LINKS",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://myacc.assiniboine.net/",
+        "imgAlt": "",
+        "box": {
+          "x": 1000.734375,
+          "y": 76.890625,
+          "w": 124.78125,
+          "h": 35.46875
+        },
+        "context": "QUICK LINKS",
+        "contextKind": "li",
+        "html": "<a href=\"https://myacc.assiniboine.net/\" class=\"menu-show menu-main-link\">Quick Links</a>"
+      },
+      {
+        "target": "#block-utility-navigation > ul > li:nth-of-type(2) > a",
+        "text": "APPLY NOW",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://apply.assiniboine.net/login",
+        "imgAlt": "",
+        "box": {
+          "x": 1141.515625,
+          "y": 73.9375,
+          "w": 134.453125,
+          "h": 41.375
+        },
+        "context": "APPLY NOW",
+        "contextKind": "li",
+        "html": "<a href=\"https://apply.assiniboine.net/login\" target=\"_blank\">Apply now</a>"
+      },
+      {
+        "target": "#block-assiniboine-navigation-wizard-trigger-header-block > a",
+        "text": "I want to... Select an option...",
+        "ariaLabel": "",
+        "title": "",
+        "href": "",
+        "imgAlt": "",
+        "box": {
+          "x": 1145.109375,
+          "y": 223.6875,
+          "w": 91.0625,
+          "h": 23
+        },
+        "context": "heading: Main navigation",
+        "contextKind": "heading-only",
+        "html": "<a href=\"\" class=\"mock-select-label navigation-wizard-modal-trigger\"><span class=\"user-want\">I want to...</span><div class=\"mock-select navigation-wizard-modal-trigger\"><span class=\"mock-select-text\">Select an option...</span></div></a>"
+      },
+      {
+        "target": "div > div > div > div > a",
+        "text": "LEARN MORE",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/ece",
+        "imgAlt": "",
+        "box": {
+          "x": 109,
+          "y": 874.15625,
+          "w": 178.359375,
+          "h": 48.59375
+        },
+        "context": "heading: Breadcrumb",
+        "contextKind": "heading-only",
+        "html": "<a href=\"/ece\">Learn more</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > div > a",
+        "text": "I want to... Select an option...",
+        "ariaLabel": "",
+        "title": "",
+        "href": "",
+        "imgAlt": "",
+        "box": {
+          "x": 207.1875,
+          "y": 1043.75,
+          "w": 297.625,
+          "h": 117
+        },
+        "context": "heading: Breadcrumb | I want to... Select an option... School of Business School of Ag & Enviro School of Nursing",
+        "contextKind": "block",
+        "html": "<a href=\"\" class=\"mock-select-label navigation-wizard-modal-trigger\"><span class=\"user-want\">I want to...</span><div class=\"mock-select navigation-wizard-modal-trigger\"><span class=\"mock-select-text\">Select an option...</span></div></a>"
+      },
+      {
+        "target": "div > div > div:nth-of-type(1) > div > a",
+        "text": "School of Business",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/study-here/why-assiniboine/peters-school-business",
+        "imgAlt": "Peters School of Business",
+        "box": {
+          "x": 756.5,
+          "y": 1062.75,
+          "w": 70,
+          "h": 102
+        },
+        "context": "heading: Breadcrumb | School of Business School of Ag & Enviro School of Nursing",
+        "contextKind": "block",
+        "html": "<a href=\"/study-here/why-assiniboine/peters-school-business\">\n            <div class=\"field field--name-field-image field--type-entity-reference field--label-hidden field__item\">  <img loading=\"lazy\" src=\"/sites/default/files/styles/thumbnail/public/images/2026-07/Peters%20School%20Icon.png?itok=icW"
+      },
+      {
+        "target": "div > div > div:nth-of-type(2) > div > a",
+        "text": "School of Ag & Enviro",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/study-here/why-assiniboine/russ-edwards-school-agriculture-environment",
+        "imgAlt": "Russ Edwards School of Agriculture and Environment",
+        "box": {
+          "x": 974.5,
+          "y": 1039.75,
+          "w": 70,
+          "h": 125
+        },
+        "context": "heading: Breadcrumb | School of Business School of Ag & Enviro School of Nursing",
+        "contextKind": "block",
+        "html": "<a href=\"/study-here/why-assiniboine/russ-edwards-school-agriculture-environment\">\n            <div class=\"field field--name-field-image field--type-entity-reference field--label-hidden field__item\">  <img loading=\"lazy\" src=\"/sites/default/files/styles/thumbnail/public/images/2026-07/Edwards%20Scho"
+      },
+      {
+        "target": "div > div > div:nth-of-type(3) > div > a",
+        "text": "School of Nursing",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/ednaedwards",
+        "imgAlt": "Edna Edwards School of Nursing",
+        "box": {
+          "x": 1193,
+          "y": 1062.75,
+          "w": 70,
+          "h": 102
+        },
+        "context": "heading: Breadcrumb | School of Business School of Ag & Enviro School of Nursing",
+        "contextKind": "block",
+        "html": "<a href=\"/ednaedwards\">\n            <div class=\"field field--name-field-image field--type-entity-reference field--label-hidden field__item\">  <img loading=\"lazy\" src=\"/sites/default/files/styles/thumbnail/public/images/2026-07/Edna%20Edwards%20School%20Icon.png?itok=tySmefxY\" width=\"90\" height=\"90\" "
+      },
+      {
+        "target": "div > div > div > div > a",
+        "text": "FIND YOUR PROGRAM",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/programs",
+        "imgAlt": "",
+        "box": {
+          "x": 94.171875,
+          "y": 1464.734375,
+          "w": 196.640625,
+          "h": 39.46875
+        },
+        "context": "heading: Breadcrumb | FIND YOUR PROGRAM INDIGENOUS STUDENTS COUGARS ATHLETICS INTERNATIONAL STUDENTS",
+        "contextKind": "block",
+        "html": "<a href=\"/programs\">Find Your Program</a>"
+      },
+      {
+        "target": "div > div > div > div > a",
+        "text": "INDIGENOUS STUDENTS",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/study-here/why-assiniboine/indigenous-students",
+        "imgAlt": "",
+        "box": {
+          "x": 414.75,
+          "y": 1464.734375,
+          "w": 209.5,
+          "h": 39.46875
+        },
+        "context": "heading: Breadcrumb | FIND YOUR PROGRAM INDIGENOUS STUDENTS COUGARS ATHLETICS INTERNATIONAL STUDENTS",
+        "contextKind": "block",
+        "html": "<a href=\"/study-here/why-assiniboine/indigenous-students\">Indigenous Students</a>"
+      },
+      {
+        "target": "div > div > div > div > a",
+        "text": "COUGARS ATHLETICS",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/student-life/athletics",
+        "imgAlt": "",
+        "box": {
+          "x": 749.59375,
+          "y": 1464.734375,
+          "w": 193.8125,
+          "h": 39.46875
+        },
+        "context": "heading: Breadcrumb | FIND YOUR PROGRAM INDIGENOUS STUDENTS COUGARS ATHLETICS INTERNATIONAL STUDENTS",
+        "contextKind": "block",
+        "html": "<a href=\"/student-life/athletics\">Cougars Athletics</a>"
+      },
+      {
+        "target": "div > div > div > div > a",
+        "text": "INTERNATIONAL STUDENTS",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/study-here/international-students/international-students",
+        "imgAlt": "",
+        "box": {
+          "x": 1058.53125,
+          "y": 1464.734375,
+          "w": 229.9375,
+          "h": 39.46875
+        },
+        "context": "heading: Breadcrumb | FIND YOUR PROGRAM INDIGENOUS STUDENTS COUGARS ATHLETICS INTERNATIONAL STUDENTS",
+        "contextKind": "block",
+        "html": "<a href=\"/study-here/international-students/international-students\">International Students</a>"
+      },
+      {
+        "target": "div:nth-of-type(1) > div:nth-of-type(1) > article > div > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/community/news-events/news-assiniboine/fall-term-assiniboine-college-underway-thousands-studying-0",
+        "imgAlt": "Fall at Assiniboine College",
+        "box": {
+          "x": 105.28125,
+          "y": 1693.359375,
+          "w": 516.6875,
+          "h": 387.515625
+        },
+        "context": "heading: News | Fall term at Assiniboine College underway with thousands studying across the province",
+        "contextKind": "block",
+        "html": "<a href=\"/community/news-events/news-assiniboine/fall-term-assiniboine-college-underway-thousands-studying-0\" hreflang=\"en\"><img loading=\"lazy\" src=\"/sites/default/files/styles/large/public/images/2026-09/Fall%20Enrolment_0.JPG?itok=W4vjAu3g\" width=\"880\" height=\"660\" alt=\"Fall at Assiniboine College"
+      },
+      {
+        "target": "div:nth-of-type(1) > div:nth-of-type(1) > article > h3 > a",
+        "text": "Fall term at Assiniboine College underway with thousands studying across the province",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/community/news-events/news-assiniboine/fall-term-assiniboine-college-underway-thousands-studying-0",
+        "imgAlt": "",
+        "box": {
+          "x": 105.28125,
+          "y": 2080.875,
+          "w": 516.6875,
+          "h": 66.46875
+        },
+        "context": "heading: Fall term at Assiniboine College underway with thousands studying across the province | Fall term at Assiniboine College underway with thousands studying across the province",
+        "contextKind": "block",
+        "html": "<a href=\"/community/news-events/news-assiniboine/fall-term-assiniboine-college-underway-thousands-studying-0\"><span class=\"field field--name-title field--type-string field--label-hidden\">Fall term at Assiniboine College underway with thousands studying across the province</span>\n</a>"
+      },
+      {
+        "target": "div:nth-of-type(1) > div:nth-of-type(2) > article > div > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/community/news-events/news-assiniboine/province-and-assiniboine-partnering-offer-free-workplace-0",
+        "imgAlt": "Three international students in hallway.",
+        "box": {
+          "x": 105.28125,
+          "y": 2163.34375,
+          "w": 250.34375,
+          "h": 166.984375
+        },
+        "context": "heading: Fall term at Assiniboine College underway with thousands studying across the province | Province and Assiniboine partnering to offer free workplace skill course to newcomers",
+        "contextKind": "block",
+        "html": "<a href=\"/community/news-events/news-assiniboine/province-and-assiniboine-partnering-offer-free-workplace-0\" hreflang=\"en\"><img loading=\"lazy\" src=\"/sites/default/files/styles/large/public/images/2026-08/International%20Students%20-%20Assiniboine%20%28file%29%5B46%5D.jpg?itok=yaqGrET6\" width=\"880\" h"
+      },
+      {
+        "target": "div:nth-of-type(1) > div:nth-of-type(2) > article > h3 > a",
+        "text": "Province and Assiniboine partnering to offer free workplace skill course to newcomers",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/community/news-events/news-assiniboine/province-and-assiniboine-partnering-offer-free-workplace-0",
+        "imgAlt": "",
+        "box": {
+          "x": 105.28125,
+          "y": 2330.328125,
+          "w": 250.34375,
+          "h": 73.375
+        },
+        "context": "heading: Province and Assiniboine partnering to offer free workplace skill course to newcomers | Province and Assiniboine partnering to offer free workplace skill course to newcomers",
+        "contextKind": "block",
+        "html": "<a href=\"/community/news-events/news-assiniboine/province-and-assiniboine-partnering-offer-free-workplace-0\"><span class=\"field field--name-title field--type-string field--label-hidden\">Province and Assiniboine partnering to offer free workplace skill course  to newcomers</span>\n</a>"
+      },
+      {
+        "target": "div:nth-of-type(1) > div:nth-of-type(3) > article > div > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/community/news-events/news-assiniboine/assiniboine-college-adult-learning-centres-coming-minnedosa",
+        "imgAlt": "CAL file photo- Assiniboine",
+        "box": {
+          "x": 371.625,
+          "y": 2163.34375,
+          "w": 250.34375,
+          "h": 143.09375
+        },
+        "context": "heading: Province and Assiniboine partnering to offer free workplace skill course to newcomers | Assiniboine College adult learning centres coming to Minnedosa, Neepawa",
+        "contextKind": "block",
+        "html": "<a href=\"/community/news-events/news-assiniboine/assiniboine-college-adult-learning-centres-coming-minnedosa\" hreflang=\"en\"><img loading=\"lazy\" src=\"/sites/default/files/styles/large/public/images/2026-07/Centre%20for%20Adult%20Learning%20%28file%20photo%29.jpg?itok=IIs3g7wp\" width=\"880\" height=\"503"
+      },
+      {
+        "target": "div:nth-of-type(1) > div:nth-of-type(3) > article > h3 > a",
+        "text": "Assiniboine College adult learning centres coming to Minnedosa, Neepawa",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/community/news-events/news-assiniboine/assiniboine-college-adult-learning-centres-coming-minnedosa",
+        "imgAlt": "",
+        "box": {
+          "x": 371.625,
+          "y": 2306.4375,
+          "w": 250.34375,
+          "h": 73.375
+        },
+        "context": "heading: Assiniboine College adult learning centres coming to Minnedosa, Neepawa | Assiniboine College adult learning centres coming to Minnedosa, Neepawa",
+        "contextKind": "block",
+        "html": "<a href=\"/community/news-events/news-assiniboine/assiniboine-college-adult-learning-centres-coming-minnedosa\"><span class=\"field field--name-title field--type-string field--label-hidden\">Assiniboine College adult learning centres coming to Minnedosa, Neepawa </span>\n</a>"
+      },
+      {
+        "target": "div > div > div > div:nth-of-type(2) > a",
+        "text": "VIEW MORE",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/community/news-events/news-assiniboine",
+        "imgAlt": "",
+        "box": {
+          "x": 296.78125,
+          "y": 2442.765625,
+          "w": 133.6875,
+          "h": 39.46875
+        },
+        "context": "heading: Assiniboine College adult learning centres coming to Minnedosa, Neepawa",
+        "contextKind": "heading-only",
+        "html": "<a href=\"/community/news-events/news-assiniboine\">View more</a>"
+      },
+      {
+        "target": "article > div > div:nth-of-type(2) > h3 > a",
+        "text": "FALL FEAST 2026",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/community/news-events/upcoming-events/fall-feast-2026",
+        "imgAlt": "",
+        "box": {
+          "x": 768,
+          "y": 1694.359375,
+          "w": 164.09375,
+          "h": 30
+        },
+        "context": "heading: FALL FEAST 2026 | FALL FEAST 2026 September 21, 2026 5:30 pm September 21, 2026 8:00 pm",
+        "contextKind": "block",
+        "html": "<a href=\"/community/news-events/upcoming-events/fall-feast-2026\"><span class=\"field field--name-title field--type-string field--label-hidden\">Fall Feast 2026</span>\n</a>"
+      },
+      {
+        "target": "article > div > div:nth-of-type(2) > h3 > a",
+        "text": "TRUTH AND RECONCILIATION: EVENTS & ACTIVITIES",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/community/news-events/upcoming-events/truth-and-reconciliation-events-activities",
+        "imgAlt": "",
+        "box": {
+          "x": 768,
+          "y": 1789.359375,
+          "w": 384.140625,
+          "h": 60
+        },
+        "context": "heading: TRUTH AND RECONCILIATION: EVENTS & ACTIVITIES | TRUTH AND RECONCILIATION: EVENTS & ACTIVITIES",
+        "contextKind": "block",
+        "html": "<a href=\"/community/news-events/upcoming-events/truth-and-reconciliation-events-activities\"><span class=\"field field--name-title field--type-string field--label-hidden\">Truth and Reconciliation: Events &amp; Activities</span>\n</a>"
+      },
+      {
+        "target": "article > div > div:nth-of-type(2) > h3 > a",
+        "text": "REWIND THE UNWINDER",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/community/news-events/upcoming-events/rewind-unwinder",
+        "imgAlt": "",
+        "box": {
+          "x": 768,
+          "y": 1915.359375,
+          "w": 231.90625,
+          "h": 30
+        },
+        "context": "heading: REWIND THE UNWINDER | REWIND THE UNWINDER October 17, 2026 7:00 pm October 18, 2026 1:00 am",
+        "contextKind": "block",
+        "html": "<a href=\"/community/news-events/upcoming-events/rewind-unwinder\"><span class=\"field field--name-title field--type-string field--label-hidden\">Rewind the Unwinder</span>\n</a>"
+      },
+      {
+        "target": "article > div > div:nth-of-type(2) > h3 > a",
+        "text": "NEEPAWA TRAINING CENTRE OPEN HOUSE",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/community/news-events/upcoming-events/neepawa-training-centre-open-house",
+        "imgAlt": "",
+        "box": {
+          "x": 768,
+          "y": 2011.359375,
+          "w": 404.34375,
+          "h": 30
+        },
+        "context": "heading: NEEPAWA TRAINING CENTRE OPEN HOUSE | NEEPAWA TRAINING CENTRE OPEN HOUSE October 20, 2026 6:00 pm October 20, 2026 8:00 pm",
+        "contextKind": "block",
+        "html": "<a href=\"/community/news-events/upcoming-events/neepawa-training-centre-open-house\"><span class=\"field field--name-title field--type-string field--label-hidden\">Neepawa Training Centre Open House</span>\n</a>"
+      },
+      {
+        "target": "div:nth-of-type(1) > div > div > div:nth-of-type(2) > a",
+        "text": "VIEW MORE",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/community/news-events/upcoming-events",
+        "imgAlt": "",
+        "box": {
+          "x": 683,
+          "y": 2090.359375,
+          "w": 133.6875,
+          "h": 39.46875
+        },
+        "context": "heading: NEEPAWA TRAINING CENTRE OPEN HOUSE",
+        "contextKind": "heading-only",
+        "html": "<a href=\"/community/news-events/upcoming-events\">View more</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div > a",
+        "text": "Men's Soccer",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/teams/mens-soccer",
+        "imgAlt": "",
+        "box": {
+          "x": 768,
+          "y": 2261.78125,
+          "w": 95.796875,
+          "h": 23
+        },
+        "context": "heading: Upcoming Games | Men's Soccer Providence University College Pilots",
+        "contextKind": "block",
+        "html": "<a href=\"/teams/mens-soccer\" hreflang=\"en\">Men's Soccer</a>"
+      },
+      {
+        "target": "article > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(2) > a",
+        "text": "VIEW GAME",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/games/assiniboine-vs-providence-university-20",
+        "imgAlt": "",
+        "box": {
+          "x": 768,
+          "y": 2365.328125,
+          "w": 492.71875,
+          "h": 19
+        },
+        "context": "heading: Upcoming Games | Men's Soccer Providence University College Pilots REGULAR SEASON VIEW GAME",
+        "contextKind": "block",
+        "html": "<a class=\"more-link\" href=\"/games/assiniboine-vs-providence-university-20\">View game</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div > a",
+        "text": "Women's Volleyball",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/teams/womens-volleyball",
+        "imgAlt": "",
+        "box": {
+          "x": 768,
+          "y": 2400.328125,
+          "w": 140.109375,
+          "h": 23
+        },
+        "context": "heading: Upcoming Games | Women's Volleyball University of Manitoba",
+        "contextKind": "block",
+        "html": "<a href=\"/teams/womens-volleyball\" hreflang=\"en\">Women's Volleyball</a>"
+      },
+      {
+        "target": "article > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(2) > a",
+        "text": "VIEW GAME",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/games/assiniboine-vs-university-manitoba",
+        "imgAlt": "",
+        "box": {
+          "x": 768,
+          "y": 2503.875,
+          "w": 492.71875,
+          "h": 19
+        },
+        "context": "heading: Upcoming Games | Women's Volleyball University of Manitoba EXHIBITION VIEW GAME",
+        "contextKind": "block",
+        "html": "<a class=\"more-link\" href=\"/games/assiniboine-vs-university-manitoba\">View game</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div > a",
+        "text": "Women's Soccer",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/teams/womens-soccer",
+        "imgAlt": "",
+        "box": {
+          "x": 768,
+          "y": 2538.875,
+          "w": 118.984375,
+          "h": 23
+        },
+        "context": "heading: Upcoming Games | Women's Soccer Providence University College Pilots",
+        "contextKind": "block",
+        "html": "<a href=\"/teams/womens-soccer\" hreflang=\"en\">Women's Soccer</a>"
+      },
+      {
+        "target": "article > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(2) > a",
+        "text": "VIEW GAME",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/games/assiniboine-vs-providence-university-21",
+        "imgAlt": "",
+        "box": {
+          "x": 768,
+          "y": 2642.421875,
+          "w": 492.71875,
+          "h": 19
+        },
+        "context": "heading: Upcoming Games | Women's Soccer Providence University College Pilots REGULAR SEASON VIEW GAME",
+        "contextKind": "block",
+        "html": "<a class=\"more-link\" href=\"/games/assiniboine-vs-providence-university-21\">View game</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div > a",
+        "text": "Women's Volleyball",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/teams/womens-volleyball",
+        "imgAlt": "",
+        "box": {
+          "x": 768,
+          "y": 2677.421875,
+          "w": 140.109375,
+          "h": 23
+        },
+        "context": "heading: Upcoming Games | Women's Volleyball Lakehead University Thunderwolves",
+        "contextKind": "block",
+        "html": "<a href=\"/teams/womens-volleyball\" hreflang=\"en\">Women's Volleyball</a>"
+      },
+      {
+        "target": "article > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(2) > a",
+        "text": "VIEW GAME",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/games/assiniboine-vs-lakehead-university",
+        "imgAlt": "",
+        "box": {
+          "x": 768,
+          "y": 2780.96875,
+          "w": 492.71875,
+          "h": 19
+        },
+        "context": "heading: Upcoming Games | Women's Volleyball Lakehead University Thunderwolves EXHIBITION VIEW GAME",
+        "contextKind": "block",
+        "html": "<a class=\"more-link\" href=\"/games/assiniboine-vs-lakehead-university\">View game</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div > a",
+        "text": "Men's Soccer",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/teams/mens-soccer",
+        "imgAlt": "",
+        "box": {
+          "x": 768,
+          "y": 2815.96875,
+          "w": 95.796875,
+          "h": 23
+        },
+        "context": "heading: Upcoming Games | Men's Soccer Canadian Mennonite University Blazers",
+        "contextKind": "block",
+        "html": "<a href=\"/teams/mens-soccer\" hreflang=\"en\">Men's Soccer</a>"
+      },
+      {
+        "target": "article > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(2) > a",
+        "text": "VIEW GAME",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/games/assiniboine-vs-canadian-mennonite-university-22",
+        "imgAlt": "",
+        "box": {
+          "x": 768,
+          "y": 2919.515625,
+          "w": 492.71875,
+          "h": 19
+        },
+        "context": "heading: Upcoming Games | Men's Soccer Canadian Mennonite University Blazers REGULAR SEASON VIEW GAME",
+        "contextKind": "block",
+        "html": "<a class=\"more-link\" href=\"/games/assiniboine-vs-canadian-mennonite-university-22\">View game</a>"
+      },
+      {
+        "target": "div > div > div:nth-of-type(2) > div > a",
+        "text": "VIEW ALL GAMES",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/student-life/athletics/schedule",
+        "imgAlt": "",
+        "box": {
+          "x": 1094.0625,
+          "y": 2967.3125,
+          "w": 166.65625,
+          "h": 39.46875
+        },
+        "context": "heading: Upcoming Games",
+        "contextKind": "heading-only",
+        "html": "<a href=\"/student-life/athletics/schedule\">View all games</a>"
+      },
+      {
+        "target": "div > div > div > div > a",
+        "text": "REGISTER NOW",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/study-here/visit-us/information-sessions",
+        "imgAlt": "",
+        "box": {
+          "x": 212.12811279296875,
+          "y": 3242.50537109375,
+          "w": 194.4375,
+          "h": 48.59375
+        },
+        "context": "heading: Upcoming Games",
+        "contextKind": "heading-only",
+        "html": "<a href=\"/study-here/visit-us/information-sessions\">Register now</a>"
+      },
+      {
+        "target": "div > div > div > div > a",
+        "text": "BOOK NOW",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/study-here/visit-us/spend-day-assiniboine",
+        "imgAlt": "",
+        "box": {
+          "x": 212.12811279296875,
+          "y": 3522.50537109375,
+          "w": 165.765625,
+          "h": 48.59375
+        },
+        "context": "heading: Upcoming Games",
+        "contextKind": "heading-only",
+        "html": "<a href=\"/study-here/visit-us/spend-day-assiniboine\">Book now</a>"
+      },
+      {
+        "target": "#block-footer-logo > a",
+        "text": "Image",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/",
+        "imgAlt": "White Logo",
+        "box": {
+          "x": 115.03125,
+          "y": 3973.28125,
+          "w": 207.4375,
+          "h": 221.25
+        },
+        "context": "",
+        "contextKind": "none",
+        "html": "<a href=\"/\">\n            <div class=\"field field--name-field-logo field--type-entity-reference field--label-hidden field__item\"><article class=\"media media--type-image media--view-mode-medium\">\n  \n      \n  <div class=\"field field--name-field-media-image field--type-image field--label-visually_hidden"
+      },
+      {
+        "target": "div > div > div:nth-of-type(1) > article > a",
+        "text": "Portage Campus",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/locations/campus/portage-campus",
+        "imgAlt": "",
+        "box": {
+          "x": 435.5,
+          "y": 4056.90625,
+          "w": 120.625,
+          "h": 23
+        },
+        "context": "heading: OUR CAMPUSES | Portage Campus North Hill Campus Winnipeg Campus Parkland Campus Victoria Avenue East Campus",
+        "contextKind": "block",
+        "html": "<a href=\"/locations/campus/portage-campus\"><span class=\"field field--name-title field--type-string field--label-hidden\">Portage Campus</span>\n</a>"
+      },
+      {
+        "target": "div > div > div:nth-of-type(2) > article > a",
+        "text": "North Hill Campus",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/locations/campus-north-hill-campus/north-hill-campus",
+        "imgAlt": "",
+        "box": {
+          "x": 713.296875,
+          "y": 4056.90625,
+          "w": 132.90625,
+          "h": 23
+        },
+        "context": "heading: OUR CAMPUSES | Portage Campus North Hill Campus Winnipeg Campus Parkland Campus Victoria Avenue East Campus",
+        "contextKind": "block",
+        "html": "<a href=\"/locations/campus-north-hill-campus/north-hill-campus\"><span class=\"field field--name-title field--type-string field--label-hidden\">North Hill Campus</span>\n</a>"
+      },
+      {
+        "target": "div > div > div:nth-of-type(3) > article > a",
+        "text": "Winnipeg Campus",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/locations/campus/winnipeg-campus",
+        "imgAlt": "",
+        "box": {
+          "x": 435.5,
+          "y": 4104.90625,
+          "w": 132.546875,
+          "h": 23
+        },
+        "context": "heading: OUR CAMPUSES | Portage Campus North Hill Campus Winnipeg Campus Parkland Campus Victoria Avenue East Campus",
+        "contextKind": "block",
+        "html": "<a href=\"/locations/campus/winnipeg-campus\"><span class=\"field field--name-title field--type-string field--label-hidden\">Winnipeg Campus</span>\n</a>"
+      },
+      {
+        "target": "div > div > div:nth-of-type(4) > article > a",
+        "text": "Parkland Campus",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/locations/campus-parkland-campus/parkland-campus",
+        "imgAlt": "",
+        "box": {
+          "x": 713.296875,
+          "y": 4104.90625,
+          "w": 127.71875,
+          "h": 23
+        },
+        "context": "heading: OUR CAMPUSES | Portage Campus North Hill Campus Winnipeg Campus Parkland Campus Victoria Avenue East Campus",
+        "contextKind": "block",
+        "html": "<a href=\"/locations/campus-parkland-campus/parkland-campus\"><span class=\"field field--name-title field--type-string field--label-hidden\">Parkland Campus </span>\n</a>"
+      },
+      {
+        "target": "div > div > div:nth-of-type(5) > article > a",
+        "text": "Victoria Avenue East Campus",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/locations/campus-victoria-avenue-east-campus/victoria-avenue-east-campus",
+        "imgAlt": "",
+        "box": {
+          "x": 435.5,
+          "y": 4152.90625,
+          "w": 214.046875,
+          "h": 23
+        },
+        "context": "heading: OUR CAMPUSES | Portage Campus North Hill Campus Winnipeg Campus Parkland Campus Victoria Avenue East Campus",
+        "contextKind": "block",
+        "html": "<a href=\"/locations/campus-victoria-avenue-east-campus/victoria-avenue-east-campus\"><span class=\"field field--name-title field--type-string field--label-hidden\">Victoria Avenue East Campus</span>\n</a>"
+      },
+      {
+        "target": "#block-de-theme-footer > ul > li:nth-of-type(1) > a",
+        "text": "CONTACT US",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/community/employment/department-directory",
+        "imgAlt": "",
+        "box": {
+          "x": 1171.578125,
+          "y": 4035.40625,
+          "w": 79.390625,
+          "h": 19
+        },
+        "context": "CONTACT US",
+        "contextKind": "li",
+        "html": "<a href=\"/community/employment/department-directory\" data-drupal-link-system-path=\"node/40\">Contact us</a>"
+      },
+      {
+        "target": "#block-de-theme-footer > ul > li:nth-of-type(2) > a",
+        "text": "CAREERS",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/community/employment/working-assiniboine/career-opportunities",
+        "imgAlt": "",
+        "box": {
+          "x": 1194.4375,
+          "y": 4061.40625,
+          "w": 56.53125,
+          "h": 19
+        },
+        "context": "CAREERS",
+        "contextKind": "li",
+        "html": "<a href=\"/community/employment/working-assiniboine/career-opportunities\" data-drupal-link-system-path=\"node/51\">Careers</a>"
+      },
+      {
+        "target": "#block-de-theme-footer > ul > li:nth-of-type(3) > a",
+        "text": "DONATE",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/community/assiniboine-foundation/donate-today",
+        "imgAlt": "",
+        "box": {
+          "x": 1199.796875,
+          "y": 4087.40625,
+          "w": 51.171875,
+          "h": 19
+        },
+        "context": "DONATE",
+        "contextKind": "li",
+        "html": "<a href=\"/community/assiniboine-foundation/donate-today\" data-drupal-link-system-path=\"node/55\">Donate</a>"
+      },
+      {
+        "target": "#block-de-theme-footer > ul > li:nth-of-type(4) > a",
+        "text": "PRIVACY",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/privacy",
+        "imgAlt": "",
+        "box": {
+          "x": 1198,
+          "y": 4113.40625,
+          "w": 52.96875,
+          "h": 19
+        },
+        "context": "PRIVACY",
+        "contextKind": "li",
+        "html": "<a href=\"/privacy\" data-drupal-link-system-path=\"node/567\">Privacy</a>"
+      },
+      {
+        "target": "#block-de-theme-footer > ul > li:nth-of-type(5) > a",
+        "text": "ACCESSIBILITY",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/community/about-us/justice-equity-diversity-inclusion/accessibility-accommodations",
+        "imgAlt": "",
+        "box": {
+          "x": 1160.828125,
+          "y": 4139.40625,
+          "w": 90.140625,
+          "h": 19
+        },
+        "context": "ACCESSIBILITY",
+        "contextKind": "li",
+        "html": "<a href=\"/community/about-us/justice-equity-diversity-inclusion/accessibility-accommodations\" data-drupal-link-system-path=\"node/74\">Accessibility</a>"
+      }
+    ],
+    "headings": [
+      {
+        "target": "#block-secondary-navigation-menu",
+        "level": 2,
+        "text": "Secondary navigation",
+        "visible": true,
+        "box": {
+          "x": 437.875,
+          "y": 130.4375,
+          "w": 1,
+          "h": 1
+        },
+        "html": "<h2 class=\"visually-hidden\" id=\"block-secondary-navigation-menu\">Secondary navigation</h2>"
+      },
+      {
+        "target": "#block-utility-navigation-menu",
+        "level": 2,
+        "text": "Utility navigation",
+        "visible": true,
+        "box": {
+          "x": 1000.734375,
+          "y": 122.75,
+          "w": 1,
+          "h": 1
+        },
+        "html": "<h2 class=\"visually-hidden\" id=\"block-utility-navigation-menu\">Utility navigation</h2>"
+      },
+      {
+        "target": "#block-de-theme-main-menu-menu",
+        "level": 2,
+        "text": "Main navigation",
+        "visible": true,
+        "box": {
+          "x": 90.03125,
+          "y": 272.5,
+          "w": 1,
+          "h": 1
+        },
+        "html": "<h2 class=\"visually-hidden\" id=\"block-de-theme-main-menu-menu\">Main navigation</h2>"
+      },
+      {
+        "target": "#system-breadcrumb",
+        "level": 2,
+        "text": "Breadcrumb",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h2 id=\"system-breadcrumb\" class=\"visually-hidden\">Breadcrumb</h2>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div:nth-of-type(4) > div:nth-of-type(1) > div > h2",
+        "level": 2,
+        "text": "News",
+        "visible": true,
+        "box": {
+          "x": 105.28125,
+          "y": 1605.46875,
+          "w": 516.6875,
+          "h": 48.828125
+        },
+        "html": "<h2>News</h2>"
+      },
+      {
+        "target": "div > div:nth-of-type(1) > div:nth-of-type(1) > article > h3",
+        "level": 3,
+        "text": "Fall term at Assiniboine College underway with thousands studying across the province",
+        "visible": true,
+        "box": {
+          "x": 105.28125,
+          "y": 2080.875,
+          "w": 516.6875,
+          "h": 66.46875
+        },
+        "html": "<h3><a href=\"/community/news-events/news-assiniboine/fall-term-assiniboine-college-underway-thousands-studying-0\"><span class=\"field field--name-title field--type-string field--label-hidden\">Fall term at Assiniboine College underway with thousands studying across the province</span>\n</a></h3>"
+      },
+      {
+        "target": "div > div:nth-of-type(1) > div:nth-of-type(2) > article > h3",
+        "level": 3,
+        "text": "Province and Assiniboine partnering to offer free workplace skill course to newcomers",
+        "visible": true,
+        "box": {
+          "x": 105.28125,
+          "y": 2330.328125,
+          "w": 250.34375,
+          "h": 73.375
+        },
+        "html": "<h3><a href=\"/community/news-events/news-assiniboine/province-and-assiniboine-partnering-offer-free-workplace-0\"><span class=\"field field--name-title field--type-string field--label-hidden\">Province and Assiniboine partnering to offer free workplace skill course  to newcomers</span>\n</a></h3>"
+      },
+      {
+        "target": "div > div:nth-of-type(1) > div:nth-of-type(3) > article > h3",
+        "level": 3,
+        "text": "Assiniboine College adult learning centres coming to Minnedosa, Neepawa",
+        "visible": true,
+        "box": {
+          "x": 371.625,
+          "y": 2306.4375,
+          "w": 250.34375,
+          "h": 73.375
+        },
+        "html": "<h3><a href=\"/community/news-events/news-assiniboine/assiniboine-college-adult-learning-centres-coming-minnedosa\"><span class=\"field field--name-title field--type-string field--label-hidden\">Assiniboine College adult learning centres coming to Minnedosa, Neepawa </span>\n</a></h3>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div:nth-of-type(4) > div:nth-of-type(2) > div:nth-of-type(1) > h2",
+        "level": 2,
+        "text": "Events",
+        "visible": true,
+        "box": {
+          "x": 683,
+          "y": 1605.46875,
+          "w": 577.71875,
+          "h": 48.828125
+        },
+        "html": "<h2>Events</h2>"
+      },
+      {
+        "target": "div:nth-of-type(1) > article > div > div:nth-of-type(2) > h3",
+        "level": 3,
+        "text": "FALL FEAST 2026",
+        "visible": true,
+        "box": {
+          "x": 768,
+          "y": 1694.359375,
+          "w": 392.4375,
+          "h": 30
+        },
+        "html": "<h3><a href=\"/community/news-events/upcoming-events/fall-feast-2026\"><span class=\"field field--name-title field--type-string field--label-hidden\">Fall Feast 2026</span>\n</a></h3>"
+      },
+      {
+        "target": "div:nth-of-type(2) > article > div > div:nth-of-type(2) > h3",
+        "level": 3,
+        "text": "TRUTH AND RECONCILIATION: EVENTS & ACTIVITIES",
+        "visible": true,
+        "box": {
+          "x": 768,
+          "y": 1789.359375,
+          "w": 492.71875,
+          "h": 60
+        },
+        "html": "<h3><a href=\"/community/news-events/upcoming-events/truth-and-reconciliation-events-activities\"><span class=\"field field--name-title field--type-string field--label-hidden\">Truth and Reconciliation: Events &amp; Activities</span>\n</a></h3>"
+      },
+      {
+        "target": "div:nth-of-type(3) > article > div > div:nth-of-type(2) > h3",
+        "level": 3,
+        "text": "REWIND THE UNWINDER",
+        "visible": true,
+        "box": {
+          "x": 768,
+          "y": 1915.359375,
+          "w": 350.171875,
+          "h": 30
+        },
+        "html": "<h3><a href=\"/community/news-events/upcoming-events/rewind-unwinder\"><span class=\"field field--name-title field--type-string field--label-hidden\">Rewind the Unwinder</span>\n</a></h3>"
+      },
+      {
+        "target": "div:nth-of-type(4) > article > div > div:nth-of-type(2) > h3",
+        "level": 3,
+        "text": "NEEPAWA TRAINING CENTRE OPEN HOUSE",
+        "visible": true,
+        "box": {
+          "x": 768,
+          "y": 2011.359375,
+          "w": 404.34375,
+          "h": 30
+        },
+        "html": "<h3><a href=\"/community/news-events/upcoming-events/neepawa-training-centre-open-house\"><span class=\"field field--name-title field--type-string field--label-hidden\">Neepawa Training Centre Open House</span>\n</a></h3>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div:nth-of-type(4) > div:nth-of-type(2) > div:nth-of-type(2) > h2",
+        "level": 2,
+        "text": "Upcoming Games",
+        "visible": true,
+        "box": {
+          "x": 683,
+          "y": 2173.890625,
+          "w": 577.71875,
+          "h": 48.828125
+        },
+        "html": "<h2>Upcoming Games</h2>"
+      },
+      {
+        "target": "div:nth-of-type(3) > div > div > div > h2",
+        "level": 2,
+        "text": "",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h2></h2>"
+      },
+      {
+        "target": "#block-views-block-locations-block-campus-featured > h2",
+        "level": 2,
+        "text": "OUR CAMPUSES",
+        "visible": true,
+        "box": {
+          "x": 435.5,
+          "y": 3991.90625,
+          "w": 530.59375,
+          "h": 45
+        },
+        "html": "<h2>Our Campuses</h2>"
+      },
+      {
+        "target": "#block-de-theme-footer-menu",
+        "level": 2,
+        "text": "Footer menu",
+        "visible": true,
+        "box": {
+          "x": 1144.828125,
+          "y": 4080.21875,
+          "w": 1,
+          "h": 1
+        },
+        "html": "<h2 class=\"visually-hidden\" id=\"block-de-theme-footer-menu\">Footer menu</h2>"
+      }
+    ],
+    "lang": "en",
+    "title": "Assiniboine College"
+  },
   "axe": {
     "violationRules": 0,
     "violationNodes": 0,
@@ -527,26 +1936,26 @@
         },
         {
           "target": ".views-row:nth-child(1) > .node--type-athletic-event.node--view-mode-upcoming.node > .content-header > footer > .node__submitted-day",
-          "html": "<span class=\"node__submitted-day\">18</span>",
+          "html": "<span class=\"node__submitted-day\">19</span>",
           "impact": "serious",
           "messages": [
             "Element's background color could not be determined due to a background image"
           ],
           "box": {
-            "x": 685.75,
+            "x": 685.71875,
             "y": 2284.78125,
-            "w": 28.484375,
+            "w": 28.546875,
             "h": 41,
             "fontSize": 28,
             "fontWeight": "700",
             "color": "rgb(0, 0, 0)",
             "background": "rgba(0, 0, 0, 0)",
-            "text": "18"
+            "text": "19"
           }
         },
         {
-          "target": ".views-row:nth-child(1) > .node--type-athletic-event.node--view-mode-upcoming.node > .content-details > .team-wrapper > .away.team > .field--name-field-team.field--type-entity-reference.field__item > a[href$=\"womens-volleyball\"][hreflang=\"en\"]",
-          "html": "<a href=\"/teams/womens-volleyball\" hreflang=\"en\">Women's Volleyball</a>",
+          "target": ".views-row:nth-child(1) > .node--type-athletic-event.node--view-mode-upcoming.node > .content-details > .team-wrapper > .away.team > .field--name-field-team.field--type-entity-reference.field__item > a[href$=\"mens-soccer\"][hreflang=\"en\"]",
+          "html": "<a href=\"/teams/mens-soccer\" hreflang=\"en\">Men's Soccer</a>",
           "impact": "serious",
           "messages": [
             "Element's background color could not be determined due to a background image"
@@ -554,18 +1963,18 @@
           "box": {
             "x": 768,
             "y": 2261.78125,
-            "w": 140.109375,
+            "w": 95.796875,
             "h": 23,
             "fontSize": 16,
             "fontWeight": "700",
             "color": "rgb(71, 10, 104)",
             "background": "rgba(0, 0, 0, 0)",
-            "text": "Women's Volleyball"
+            "text": "Men's Soccer"
           }
         },
         {
           "target": ".views-row:nth-child(1) > .node--type-athletic-event.node--view-mode-upcoming.node > .content-details > .team-wrapper > .home.team > .field--name-field-opposing-team.field--type-entity-reference.field__item",
-          "html": "<div class=\"field field--name-field-opposing-team field--type-entity-reference field--label-hidden field__item\">Memorial University</div>",
+          "html": "<div class=\"field field--name-field-opposing-team field--type-entity-reference field--label-hidden field__item\">Providence University College Pilots</div>",
           "impact": "serious",
           "messages": [
             "Element's background color could not be determined due to a background image"
@@ -573,18 +1982,18 @@
           "box": {
             "x": 768,
             "y": 2291.328125,
-            "w": 145.0625,
+            "w": 262.5,
             "h": 23,
             "fontSize": 16,
             "fontWeight": "700",
             "color": "rgb(0, 0, 0)",
             "background": "rgba(0, 0, 0, 0)",
-            "text": "Memorial University"
+            "text": "Providence University College Pilots"
           }
         },
         {
           "target": ".views-row:nth-child(1) > .node--type-athletic-event.node--view-mode-upcoming.node > .content-details > .node__content > .category-wrapper > .field--name-field-athletic-event-category.field--type-entity-reference.field__item",
-          "html": "<div class=\"field field--name-field-athletic-event-category field--type-entity-reference field--label-hidden field__item\">Exhibition</div>",
+          "html": "<div class=\"field field--name-field-athletic-event-category field--type-entity-reference field--label-hidden field__item\">Regular Season</div>",
           "impact": "serious",
           "messages": [
             "Element's background color could not be determined due to a background image"
@@ -598,12 +2007,12 @@
             "fontWeight": "700",
             "color": "rgb(76, 76, 76)",
             "background": "rgba(0, 0, 0, 0)",
-            "text": "EXHIBITION"
+            "text": "REGULAR SEASON"
           }
         },
         {
           "target": ".views-row:nth-child(1) > .node--type-athletic-event.node--view-mode-upcoming.node > .content-details > .node__content > .more-link-wrapper > .more-link",
-          "html": "<a class=\"more-link\" href=\"/games/assiniboine-vs-memorial-university\">View game</a>",
+          "html": "<a class=\"more-link\" href=\"/games/assiniboine-vs-providence-university-20\">View game</a>",
           "impact": "serious",
           "messages": [
             "Element's background color could not be determined due to a background image"
@@ -773,8 +2182,8 @@
           }
         },
         {
-          "target": ".views-row:nth-child(3) > .node--type-athletic-event.node--view-mode-upcoming.node > .content-details > .team-wrapper > .away.team > .field--name-field-team.field--type-entity-reference.field__item > a[href$=\"mens-soccer\"]",
-          "html": "<a href=\"/teams/mens-soccer\" hreflang=\"en\">Men's Soccer</a>",
+          "target": "a[href$=\"womens-soccer\"]",
+          "html": "<a href=\"/teams/womens-soccer\" hreflang=\"en\">Women's Soccer</a>",
           "impact": "serious",
           "messages": [
             "Element's background color could not be determined due to a background image"
@@ -782,13 +2191,13 @@
           "box": {
             "x": 768,
             "y": 2538.875,
-            "w": 95.796875,
+            "w": 118.984375,
             "h": 23,
             "fontSize": 16,
             "fontWeight": "700",
             "color": "rgb(71, 10, 104)",
             "background": "rgba(0, 0, 0, 0)",
-            "text": "Men's Soccer"
+            "text": "Women's Soccer"
           }
         },
         {
@@ -831,7 +2240,7 @@
         },
         {
           "target": ".views-row:nth-child(3) > .node--type-athletic-event.node--view-mode-upcoming.node > .content-details > .node__content > .more-link-wrapper > .more-link",
-          "html": "<a class=\"more-link\" href=\"/games/assiniboine-vs-providence-university-20\">View game</a>",
+          "html": "<a class=\"more-link\" href=\"/games/assiniboine-vs-providence-university-21\">View game</a>",
           "impact": "serious",
           "messages": [
             "Element's background color could not be determined due to a background image"
@@ -887,8 +2296,8 @@
           }
         },
         {
-          "target": "a[href$=\"womens-soccer\"]",
-          "html": "<a href=\"/teams/womens-soccer\" hreflang=\"en\">Women's Soccer</a>",
+          "target": ".views-row:nth-child(4) > .node--type-athletic-event.node--view-mode-upcoming.node > .content-details > .team-wrapper > .away.team > .field--name-field-team.field--type-entity-reference.field__item > a[href$=\"womens-volleyball\"][hreflang=\"en\"]",
+          "html": "<a href=\"/teams/womens-volleyball\" hreflang=\"en\">Women's Volleyball</a>",
           "impact": "serious",
           "messages": [
             "Element's background color could not be determined due to a background image"
@@ -896,18 +2305,18 @@
           "box": {
             "x": 768,
             "y": 2677.421875,
-            "w": 118.984375,
+            "w": 140.109375,
             "h": 23,
             "fontSize": 16,
             "fontWeight": "700",
             "color": "rgb(71, 10, 104)",
             "background": "rgba(0, 0, 0, 0)",
-            "text": "Women's Soccer"
+            "text": "Women's Volleyball"
           }
         },
         {
           "target": ".views-row:nth-child(4) > .node--type-athletic-event.node--view-mode-upcoming.node > .content-details > .team-wrapper > .home.team > .field--name-field-opposing-team.field--type-entity-reference.field__item",
-          "html": "<div class=\"field field--name-field-opposing-team field--type-entity-reference field--label-hidden field__item\">Providence University College Pilots</div>",
+          "html": "<div class=\"field field--name-field-opposing-team field--type-entity-reference field--label-hidden field__item\">Lakehead University Thunderwolves</div>",
           "impact": "serious",
           "messages": [
             "Element's background color could not be determined due to a background image"
@@ -915,18 +2324,18 @@
           "box": {
             "x": 768,
             "y": 2706.96875,
-            "w": 262.5,
+            "w": 262.8125,
             "h": 23,
             "fontSize": 16,
             "fontWeight": "700",
             "color": "rgb(0, 0, 0)",
             "background": "rgba(0, 0, 0, 0)",
-            "text": "Providence University College Pilots"
+            "text": "Lakehead University Thunderwolves"
           }
         },
         {
           "target": ".views-row:nth-child(4) > .node--type-athletic-event.node--view-mode-upcoming.node > .content-details > .node__content > .category-wrapper > .field--name-field-athletic-event-category.field--type-entity-reference.field__item",
-          "html": "<div class=\"field field--name-field-athletic-event-category field--type-entity-reference field--label-hidden field__item\">Regular Season</div>",
+          "html": "<div class=\"field field--name-field-athletic-event-category field--type-entity-reference field--label-hidden field__item\">Exhibition</div>",
           "impact": "serious",
           "messages": [
             "Element's background color could not be determined due to a background image"
@@ -940,12 +2349,12 @@
             "fontWeight": "700",
             "color": "rgb(76, 76, 76)",
             "background": "rgba(0, 0, 0, 0)",
-            "text": "REGULAR SEASON"
+            "text": "EXHIBITION"
           }
         },
         {
           "target": ".views-row:nth-child(4) > .node--type-athletic-event.node--view-mode-upcoming.node > .content-details > .node__content > .more-link-wrapper > .more-link",
-          "html": "<a class=\"more-link\" href=\"/games/assiniboine-vs-providence-university-21\">View game</a>",
+          "html": "<a class=\"more-link\" href=\"/games/assiniboine-vs-lakehead-university\">View game</a>",
           "impact": "serious",
           "messages": [
             "Element's background color could not be determined due to a background image"
@@ -983,26 +2392,26 @@
         },
         {
           "target": ".views-row:nth-child(5) > .node--type-athletic-event.node--view-mode-upcoming.node > .content-header > footer > .node__submitted-day",
-          "html": "<span class=\"node__submitted-day\">19</span>",
+          "html": "<span class=\"node__submitted-day\">20</span>",
           "impact": "serious",
           "messages": [
             "Element's background color could not be determined due to a background image"
           ],
           "box": {
-            "x": 685.71875,
+            "x": 682.921875,
             "y": 2838.96875,
-            "w": 28.546875,
+            "w": 34.171875,
             "h": 41,
             "fontSize": 28,
             "fontWeight": "700",
             "color": "rgb(0, 0, 0)",
             "background": "rgba(0, 0, 0, 0)",
-            "text": "19"
+            "text": "20"
           }
         },
         {
-          "target": ".views-row:nth-child(5) > .node--type-athletic-event.node--view-mode-upcoming.node > .content-details > .team-wrapper > .away.team > .field--name-field-team.field--type-entity-reference.field__item > a[href$=\"womens-volleyball\"][hreflang=\"en\"]",
-          "html": "<a href=\"/teams/womens-volleyball\" hreflang=\"en\">Women's Volleyball</a>",
+          "target": ".views-row:nth-child(5) > .node--type-athletic-event.node--view-mode-upcoming.node > .content-details > .team-wrapper > .away.team > .field--name-field-team.field--type-entity-reference.field__item > a[href$=\"mens-soccer\"][hreflang=\"en\"]",
+          "html": "<a href=\"/teams/mens-soccer\" hreflang=\"en\">Men's Soccer</a>",
           "impact": "serious",
           "messages": [
             "Element's background color could not be determined due to a background image"
@@ -1010,18 +2419,18 @@
           "box": {
             "x": 768,
             "y": 2815.96875,
-            "w": 140.109375,
+            "w": 95.796875,
             "h": 23,
             "fontSize": 16,
             "fontWeight": "700",
             "color": "rgb(71, 10, 104)",
             "background": "rgba(0, 0, 0, 0)",
-            "text": "Women's Volleyball"
+            "text": "Men's Soccer"
           }
         },
         {
           "target": ".views-row:nth-child(5) > .node--type-athletic-event.node--view-mode-upcoming.node > .content-details > .team-wrapper > .home.team > .field--name-field-opposing-team.field--type-entity-reference.field__item",
-          "html": "<div class=\"field field--name-field-opposing-team field--type-entity-reference field--label-hidden field__item\">Lakehead University Thunderwolves</div>",
+          "html": "<div class=\"field field--name-field-opposing-team field--type-entity-reference field--label-hidden field__item\">Canadian Mennonite University Blazers</div>",
           "impact": "serious",
           "messages": [
             "Element's background color could not be determined due to a background image"
@@ -1029,18 +2438,18 @@
           "box": {
             "x": 768,
             "y": 2845.515625,
-            "w": 262.8125,
+            "w": 285.4375,
             "h": 23,
             "fontSize": 16,
             "fontWeight": "700",
             "color": "rgb(0, 0, 0)",
             "background": "rgba(0, 0, 0, 0)",
-            "text": "Lakehead University Thunderwolves"
+            "text": "Canadian Mennonite University Blazers"
           }
         },
         {
           "target": ".views-row:nth-child(5) > .node--type-athletic-event.node--view-mode-upcoming.node > .content-details > .node__content > .category-wrapper > .field--name-field-athletic-event-category.field--type-entity-reference.field__item",
-          "html": "<div class=\"field field--name-field-athletic-event-category field--type-entity-reference field--label-hidden field__item\">Exhibition</div>",
+          "html": "<div class=\"field field--name-field-athletic-event-category field--type-entity-reference field--label-hidden field__item\">Regular Season</div>",
           "impact": "serious",
           "messages": [
             "Element's background color could not be determined due to a background image"
@@ -1054,12 +2463,12 @@
             "fontWeight": "700",
             "color": "rgb(76, 76, 76)",
             "background": "rgba(0, 0, 0, 0)",
-            "text": "EXHIBITION"
+            "text": "REGULAR SEASON"
           }
         },
         {
           "target": ".views-row:nth-child(5) > .node--type-athletic-event.node--view-mode-upcoming.node > .content-details > .node__content > .more-link-wrapper > .more-link",
-          "html": "<a class=\"more-link\" href=\"/games/assiniboine-vs-lakehead-university\">View game</a>",
+          "html": "<a class=\"more-link\" href=\"/games/assiniboine-vs-canadian-mennonite-university-22\">View game</a>",
           "impact": "serious",
           "messages": [
             "Element's background color could not be determined due to a background image"

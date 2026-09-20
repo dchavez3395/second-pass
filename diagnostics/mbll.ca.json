@@ -19,7 +19,2549 @@
     "width": 1366,
     "height": 900
   },
-  "scannedAt": "2026-09-19T06:23:43.112Z",
+  "scannedAt": "2026-09-19T23:55:59.307Z",
+  "content": {
+    "images": [
+      {
+        "target": "#block-mbll-ca-subtheme-site-branding > div:nth-of-type(1) > a > img",
+        "tag": "img",
+        "src": "https://www.mbll.ca/themes/custom/mbll_ca_subtheme/logo.png",
+        "alt": "Manitoba Liquor and Lotteries Logo",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 323,
+        "naturalHeight": 68,
+        "box": {
+          "x": 133,
+          "y": 96,
+          "w": 323,
+          "h": 68
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"/themes/custom/mbll_ca_subtheme/logo.png\" alt=\"Manitoba Liquor and Lotteries Logo\">"
+      },
+      {
+        "target": "#main-menu-link-content5d9a23fb-96bd-459d-af5f-c804af16ea8a > a > span > svg",
+        "tag": "svg",
+        "src": "",
+        "alt": null,
+        "ariaLabel": "(link is external)",
+        "role": "img",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0,
+        "box": {
+          "x": 752.296875,
+          "y": -19289,
+          "w": 14,
+          "h": 14
+        },
+        "inLink": true,
+        "linkText": "DrinkSense",
+        "linkHref": "https://www.drinksense.ca/",
+        "caption": "",
+        "nearText": "DrinkSense",
+        "html": "<svg focusable=\"false\" class=\"ext\" data-extlink-placement=\"append\" aria-label=\"(link is external)\" viewBox=\"0 0 80 40\" role=\"img\" aria-hidden=\"false\"><metadata><sfw xmlns=\"http://ns.adobe.com/SaveForWeb/1.0/\"><slicesourcebounds y=\"-8160\" x=\"-8165\" width=\"16389\" height=\"16384\" bottomleftorigin=\"true\"></slicesourcebounds><optimizationsettings><targetsettings targetsettingsid=\"0\" fileformat=\"PNG24For"
+      },
+      {
+        "target": "div > div > div:nth-of-type(2) > picture > img",
+        "tag": "img",
+        "src": "https://www.mbll.ca/sites/mbll-ca/files/styles/max_1300x1300/public/2025-10/0357-ESG-Landing-Page-Header-1140x403-p2-WR.jpg?itok=Jva_UzrO",
+        "alt": "MBLL Environmental,  Social and Governance Report",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 1366,
+        "naturalHeight": 484,
+        "box": {
+          "x": -982,
+          "y": 199,
+          "w": 1110,
+          "h": 393.609375
+        },
+        "inLink": true,
+        "linkText": "Image",
+        "linkHref": "https://www.mbll.ca/esg",
+        "caption": "",
+        "nearText": "",
+        "html": "<img loading=\"eager\" width=\"1300\" height=\"461\" src=\"/sites/mbll-ca/files/styles/max_1300x1300/public/2025-10/0357-ESG-Landing-Page-Header-1140x403-p2-WR.jpg?itok=Jva_UzrO\" alt=\"MBLL Environmental,  Social and Governance Report\">"
+      },
+      {
+        "target": "div > div > div:nth-of-type(2) > picture > img",
+        "tag": "img",
+        "src": "https://www.mbll.ca/sites/mbll-ca/files/styles/max_1300x1300/public/2024-08/0213-MBLLGoodTogetherSlider-1140x403_p2_WR%20%281%29.jpg?itok=hoY-o0Q6",
+        "alt": "2 friends having fun at a festival. Text: Sponsorships and funding for what Manitobans care about.",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 1366,
+        "naturalHeight": 484,
+        "box": {
+          "x": 128,
+          "y": 199,
+          "w": 1110,
+          "h": 393.609375
+        },
+        "inLink": true,
+        "linkText": "Image",
+        "linkHref": "https://www.mbll.ca/goodtogether",
+        "caption": "",
+        "nearText": "",
+        "html": "<img loading=\"eager\" width=\"1300\" height=\"461\" src=\"/sites/mbll-ca/files/styles/max_1300x1300/public/2024-08/0213-MBLLGoodTogetherSlider-1140x403_p2_WR%20%281%29.jpg?itok=hoY-o0Q6\" alt=\"2 friends having fun at a festival. Text: Sponsorships and funding for what Manitobans care about.\">"
+      },
+      {
+        "target": "div > div > div:nth-of-type(2) > picture > img",
+        "tag": "img",
+        "src": "https://www.mbll.ca/sites/mbll-ca/files/styles/max_1300x1300/public/2025-03/0395_MBLL_ITS-Recruitment-WebBanner-p1-WR.jpg?itok=jP6nSoy8",
+        "alt": "MBLL IT Careers - Work worthy of your talent",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 1366,
+        "naturalHeight": 483,
+        "box": {
+          "x": 1238,
+          "y": 199,
+          "w": 1110,
+          "h": 392.765625
+        },
+        "inLink": true,
+        "linkText": "Image",
+        "linkHref": "https://www.mbll.ca/content/it-careers",
+        "caption": "",
+        "nearText": "",
+        "html": "<img loading=\"eager\" width=\"1300\" height=\"460\" src=\"/sites/mbll-ca/files/styles/max_1300x1300/public/2025-03/0395_MBLL_ITS-Recruitment-WebBanner-p1-WR.jpg?itok=jP6nSoy8\" alt=\"MBLL IT Careers - Work worthy of your talent\">"
+      },
+      {
+        "target": "div > div > div:nth-of-type(2) > picture > img",
+        "tag": "img",
+        "src": "https://www.mbll.ca/sites/mbll-ca/files/styles/max_1300x1300/public/2024-07/0009-MBLLGoodTogether-Web-Slider_1140x403-Home_P6-WR.jpg?itok=Q8AfarH8",
+        "alt": "Enriching the lives of Manitobans #MBGoodTogether",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 1366,
+        "naturalHeight": 483,
+        "box": {
+          "x": 2348,
+          "y": 199,
+          "w": 1110,
+          "h": 392.765625
+        },
+        "inLink": true,
+        "linkText": "Image",
+        "linkHref": "https://www.mbll.ca/content/our-responsibilities",
+        "caption": "",
+        "nearText": "",
+        "html": "<img loading=\"eager\" width=\"1300\" height=\"460\" src=\"/sites/mbll-ca/files/styles/max_1300x1300/public/2024-07/0009-MBLLGoodTogether-Web-Slider_1140x403-Home_P6-WR.jpg?itok=Q8AfarH8\" alt=\"Enriching the lives of Manitobans #MBGoodTogether\">"
+      },
+      {
+        "target": "div > div > div:nth-of-type(2) > picture > img",
+        "tag": "img",
+        "src": "https://www.mbll.ca/sites/mbll-ca/files/styles/max_1300x1300/public/2025-04/MBLL_DrinkSense_WebsiteBanner_ENG%5B1140x403%5D_OP1.jpg?itok=ZIOlZXet",
+        "alt": "Drink Sense - Facts. Flavours. Fundamentals.",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 1366,
+        "naturalHeight": 483,
+        "box": {
+          "x": 3458,
+          "y": 199,
+          "w": 1110,
+          "h": 392.765625
+        },
+        "inLink": true,
+        "linkText": "Image",
+        "linkHref": "https://www.mbll.ca/drinksense",
+        "caption": "",
+        "nearText": "",
+        "html": "<img loading=\"eager\" width=\"1300\" height=\"460\" src=\"/sites/mbll-ca/files/styles/max_1300x1300/public/2025-04/MBLL_DrinkSense_WebsiteBanner_ENG%5B1140x403%5D_OP1.jpg?itok=ZIOlZXet\" alt=\"Drink Sense - Facts. Flavours. Fundamentals.\">"
+      },
+      {
+        "target": "span > div > div > a > img",
+        "tag": "img",
+        "src": "https://www.mbll.ca/sites/mbll-ca/files/front_back/operating-responsibly-150-grey.jpg",
+        "alt": "",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 219,
+        "naturalHeight": 150,
+        "box": {
+          "x": 628,
+          "y": 972.609375,
+          "w": 106.578125,
+          "h": 75
+        },
+        "inLink": true,
+        "linkText": "Our Responsibilities We enrich the lives of Manitobans by making the greatest possible contribution to the economic and social well-being of our province.",
+        "linkHref": "/content/our-responsibilities",
+        "caption": "",
+        "nearText": "Our Responsibilities We enrich the lives of Manitobans by making the greatest possible contribution to the economic and social well-being of our province.",
+        "html": "<img class=\"flipbox-icon\" src=\"/sites/mbll-ca/files/front_back/operating-responsibly-150-grey.jpg\" alt=\"\">"
+      },
+      {
+        "target": "span > div > div > a > img",
+        "tag": "img",
+        "src": "https://www.mbll.ca/sites/mbll-ca/files/front_back/economic-contributions-150-grey.jpg",
+        "alt": "",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 219,
+        "naturalHeight": 150,
+        "box": {
+          "x": 258,
+          "y": 1252.609375,
+          "w": 106.578125,
+          "h": 75
+        },
+        "inLink": true,
+        "linkText": "Economic Impact People, communities and businesses across Manitoba benefit from our economic contributions.",
+        "linkHref": "/content/economic-impact",
+        "caption": "",
+        "nearText": "Economic Impact People, communities and businesses across Manitoba benefit from our economic contributions.",
+        "html": "<img class=\"flipbox-icon\" src=\"/sites/mbll-ca/files/front_back/economic-contributions-150-grey.jpg\" alt=\"\">"
+      },
+      {
+        "target": "span > div > div > a > img",
+        "tag": "img",
+        "src": "https://www.mbll.ca/sites/mbll-ca/files/front_back/focus-on-customer-well-150-grey.jpg",
+        "alt": "",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 219,
+        "naturalHeight": 150,
+        "box": {
+          "x": 628,
+          "y": 1252.609375,
+          "w": 106.578125,
+          "h": 75
+        },
+        "inLink": true,
+        "linkText": "Customer Well-Being We commit to helping customers enjoy our products safely and sensibly.",
+        "linkHref": "/content/customer-well-being",
+        "caption": "",
+        "nearText": "Customer Well-Being We commit to helping customers enjoy our products safely and sensibly.",
+        "html": "<img class=\"flipbox-icon\" src=\"/sites/mbll-ca/files/front_back/focus-on-customer-well-150-grey.jpg\" alt=\"\">"
+      },
+      {
+        "target": "span > div > div > a > img",
+        "tag": "img",
+        "src": "https://www.mbll.ca/sites/mbll-ca/files/front_back/strength-local-communities-150-grey.jpg",
+        "alt": "",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 219,
+        "naturalHeight": 150,
+        "box": {
+          "x": 998,
+          "y": 1252.609375,
+          "w": 106.578125,
+          "h": 75
+        },
+        "inLink": true,
+        "linkText": "Community Support We support a wide range of charitable, non-profit and community groups in Manitoba.",
+        "linkHref": "/content/community-support",
+        "caption": "",
+        "nearText": "Community Support We support a wide range of charitable, non-profit and community groups in Manitoba.",
+        "html": "<img class=\"flipbox-icon\" src=\"/sites/mbll-ca/files/front_back/strength-local-communities-150-grey.jpg\" alt=\"\">"
+      },
+      {
+        "target": "span > div > div > a > img",
+        "tag": "img",
+        "src": "https://www.mbll.ca/sites/mbll-ca/files/front_back/environmental-footprint-150-grey.jpg",
+        "alt": "",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 219,
+        "naturalHeight": 150,
+        "box": {
+          "x": 258,
+          "y": 1532.609375,
+          "w": 106.578125,
+          "h": 75
+        },
+        "inLink": true,
+        "linkText": "Environmental Stewardship Innovation and collaboration drive efforts to reduce our waste, water and energy environmental impact.",
+        "linkHref": "/content/environmental-stewardship",
+        "caption": "",
+        "nearText": "Environmental Stewardship Innovation and collaboration drive efforts to reduce our waste, water and energy environmental impact.",
+        "html": "<img class=\"flipbox-icon\" src=\"/sites/mbll-ca/files/front_back/environmental-footprint-150-grey.jpg\" alt=\"\">"
+      },
+      {
+        "target": "span > div > div > a > img",
+        "tag": "img",
+        "src": "https://www.mbll.ca/sites/mbll-ca/files/front_back/informed-gambling-grey-text.png",
+        "alt": "",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 219,
+        "naturalHeight": 150,
+        "box": {
+          "x": 628,
+          "y": 1532.609375,
+          "w": 106.578125,
+          "h": 75
+        },
+        "inLink": true,
+        "linkText": "Informed Gambling Learn how to use Informed Gambling to understand and enjoy gambling.",
+        "linkHref": "/content/informed-gambling",
+        "caption": "",
+        "nearText": "Informed Gambling Learn how to use Informed Gambling to understand and enjoy gambling.",
+        "html": "<img class=\"flipbox-icon\" src=\"/sites/mbll-ca/files/front_back/informed-gambling-grey-text.png\" alt=\"\">"
+      },
+      {
+        "target": "span > div > div > a > img",
+        "tag": "img",
+        "src": "https://www.mbll.ca/sites/mbll-ca/files/front_back/drinksense%20%281%29.png",
+        "alt": "",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 219,
+        "naturalHeight": 150,
+        "box": {
+          "x": 998,
+          "y": 1532.609375,
+          "w": 106.578125,
+          "h": 75
+        },
+        "inLink": true,
+        "linkText": "DrinkSense Learn how to use your DrinkSense when it comes to buying, serving and enjoying liquor.",
+        "linkHref": "/content/drinksense-1",
+        "caption": "",
+        "nearText": "DrinkSense Learn how to use your DrinkSense when it comes to buying, serving and enjoying liquor.",
+        "html": "<img class=\"flipbox-icon\" src=\"/sites/mbll-ca/files/front_back/drinksense%20%281%29.png\" alt=\"\">"
+      },
+      {
+        "target": "ul > li:nth-of-type(7) > a > span > svg",
+        "tag": "svg",
+        "src": "",
+        "alt": null,
+        "ariaLabel": "(link is external)",
+        "role": "img",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0,
+        "box": {
+          "x": 275.703125,
+          "y": 2051.421875,
+          "w": 18,
+          "h": 14
+        },
+        "inLink": true,
+        "linkText": "Doing Business With Us",
+        "linkHref": "http://www.mbllpartners.ca/",
+        "caption": "",
+        "nearText": "Doing Business With Us",
+        "html": "<svg focusable=\"false\" class=\"ext\" data-extlink-placement=\"append\" aria-label=\"(link is external)\" viewBox=\"0 0 80 40\" role=\"img\" aria-hidden=\"false\"><metadata><sfw xmlns=\"http://ns.adobe.com/SaveForWeb/1.0/\"><slicesourcebounds y=\"-8160\" x=\"-8165\" width=\"16389\" height=\"16384\" bottomleftorigin=\"true\"></slicesourcebounds><optimizationsettings><targetsettings targetsettingsid=\"0\" fileformat=\"PNG24For"
+      },
+      {
+        "target": "ul > li:nth-of-type(1) > a > span > svg",
+        "tag": "svg",
+        "src": "",
+        "alt": null,
+        "ariaLabel": "(link is external)",
+        "role": "img",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0,
+        "box": {
+          "x": 488.21875,
+          "y": 1937.984375,
+          "w": 18,
+          "h": 14
+        },
+        "inLink": true,
+        "linkText": "Liquor, Gaming and Cannabis Authority of Manitoba",
+        "linkHref": "https://lgcamb.ca/",
+        "caption": "",
+        "nearText": "Liquor, Gaming and Cannabis Authority of Manitoba",
+        "html": "<svg focusable=\"false\" class=\"ext\" data-extlink-placement=\"append\" aria-label=\"(link is external)\" viewBox=\"0 0 80 40\" role=\"img\" aria-hidden=\"false\"><metadata><sfw xmlns=\"http://ns.adobe.com/SaveForWeb/1.0/\"><slicesourcebounds y=\"-8160\" x=\"-8165\" width=\"16389\" height=\"16384\" bottomleftorigin=\"true\"></slicesourcebounds><optimizationsettings><targetsettings targetsettingsid=\"0\" fileformat=\"PNG24For"
+      },
+      {
+        "target": "ul > li:nth-of-type(2) > a > span > svg",
+        "tag": "svg",
+        "src": "",
+        "alt": null,
+        "ariaLabel": "(link is external)",
+        "role": "img",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0,
+        "box": {
+          "x": 511,
+          "y": 1983.359375,
+          "w": 18,
+          "h": 14
+        },
+        "inLink": true,
+        "linkText": "The Manitoba Liquor and Lotteries Corporation Act",
+        "linkHref": "https://web2.gov.mb.ca/laws/statutes/ccsm/l155.php#",
+        "caption": "",
+        "nearText": "The Manitoba Liquor and Lotteries Corporation Act",
+        "html": "<svg focusable=\"false\" class=\"ext\" data-extlink-placement=\"append\" aria-label=\"(link is external)\" viewBox=\"0 0 80 40\" role=\"img\" aria-hidden=\"false\"><metadata><sfw xmlns=\"http://ns.adobe.com/SaveForWeb/1.0/\"><slicesourcebounds y=\"-8160\" x=\"-8165\" width=\"16389\" height=\"16384\" bottomleftorigin=\"true\"></slicesourcebounds><optimizationsettings><targetsettings targetsettingsid=\"0\" fileformat=\"PNG24For"
+      },
+      {
+        "target": "ul > li:nth-of-type(3) > a > span > svg",
+        "tag": "svg",
+        "src": "",
+        "alt": null,
+        "ariaLabel": "(link is external)",
+        "role": "img",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0,
+        "box": {
+          "x": 482.9375,
+          "y": 2028.734375,
+          "w": 18,
+          "h": 14
+        },
+        "inLink": true,
+        "linkText": "The Liquor, Gaming and Cannabis Control Act",
+        "linkHref": "https://web2.gov.mb.ca/laws/statutes/ccsm/l153.php",
+        "caption": "",
+        "nearText": "The Liquor, Gaming and Cannabis Control Act",
+        "html": "<svg focusable=\"false\" class=\"ext\" data-extlink-placement=\"append\" aria-label=\"(link is external)\" viewBox=\"0 0 80 40\" role=\"img\" aria-hidden=\"false\"><metadata><sfw xmlns=\"http://ns.adobe.com/SaveForWeb/1.0/\"><slicesourcebounds y=\"-8160\" x=\"-8165\" width=\"16389\" height=\"16384\" bottomleftorigin=\"true\"></slicesourcebounds><optimizationsettings><targetsettings targetsettingsid=\"0\" fileformat=\"PNG24For"
+      },
+      {
+        "target": "ul > li:nth-of-type(4) > a > span > svg",
+        "tag": "svg",
+        "src": "",
+        "alt": null,
+        "ariaLabel": "(link is external)",
+        "role": "img",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0,
+        "box": {
+          "x": 783.3125,
+          "y": 1983.359375,
+          "w": 18,
+          "h": 14
+        },
+        "inLink": true,
+        "linkText": "PlayNow.com",
+        "linkHref": "https://www.playnow.com/mb/",
+        "caption": "",
+        "nearText": "PlayNow.com",
+        "html": "<svg focusable=\"false\" class=\"ext\" data-extlink-placement=\"append\" aria-label=\"(link is external)\" viewBox=\"0 0 80 40\" role=\"img\" aria-hidden=\"false\"><metadata><sfw xmlns=\"http://ns.adobe.com/SaveForWeb/1.0/\"><slicesourcebounds y=\"-8160\" x=\"-8165\" width=\"16389\" height=\"16384\" bottomleftorigin=\"true\"></slicesourcebounds><optimizationsettings><targetsettings targetsettingsid=\"0\" fileformat=\"PNG24For"
+      },
+      {
+        "target": "ul > li:nth-of-type(5) > a > span > svg",
+        "tag": "svg",
+        "src": "",
+        "alt": null,
+        "ariaLabel": "(link is external)",
+        "role": "img",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0,
+        "box": {
+          "x": 789.734375,
+          "y": 2006.046875,
+          "w": 18,
+          "h": 14
+        },
+        "inLink": true,
+        "linkText": "Manitoba VLTs",
+        "linkHref": "http://www.manitobavlts.ca/",
+        "caption": "",
+        "nearText": "Manitoba VLTs",
+        "html": "<svg focusable=\"false\" class=\"ext\" data-extlink-placement=\"append\" aria-label=\"(link is external)\" viewBox=\"0 0 80 40\" role=\"img\" aria-hidden=\"false\"><metadata><sfw xmlns=\"http://ns.adobe.com/SaveForWeb/1.0/\"><slicesourcebounds y=\"-8160\" x=\"-8165\" width=\"16389\" height=\"16384\" bottomleftorigin=\"true\"></slicesourcebounds><optimizationsettings><targetsettings targetsettingsid=\"0\" fileformat=\"PNG24For"
+      },
+      {
+        "target": "ul > li:nth-of-type(6) > a > span > svg",
+        "tag": "svg",
+        "src": "",
+        "alt": null,
+        "ariaLabel": "(link is external)",
+        "role": "img",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0,
+        "box": {
+          "x": 790.09375,
+          "y": 2028.734375,
+          "w": 18,
+          "h": 14
+        },
+        "inLink": true,
+        "linkText": "Lottery Tickets",
+        "linkHref": "http://www.wclc.com/home.htm",
+        "caption": "",
+        "nearText": "Lottery Tickets",
+        "html": "<svg focusable=\"false\" class=\"ext\" data-extlink-placement=\"append\" aria-label=\"(link is external)\" viewBox=\"0 0 80 40\" role=\"img\" aria-hidden=\"false\"><metadata><sfw xmlns=\"http://ns.adobe.com/SaveForWeb/1.0/\"><slicesourcebounds y=\"-8160\" x=\"-8165\" width=\"16389\" height=\"16384\" bottomleftorigin=\"true\"></slicesourcebounds><optimizationsettings><targetsettings targetsettingsid=\"0\" fileformat=\"PNG24For"
+      },
+      {
+        "target": "ul > li:nth-of-type(1) > a > span > svg",
+        "tag": "svg",
+        "src": "",
+        "alt": null,
+        "ariaLabel": "(link is external)",
+        "role": "img",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0,
+        "box": {
+          "x": 1211.234375,
+          "y": 1915.296875,
+          "w": 18,
+          "h": 14
+        },
+        "inLink": true,
+        "linkText": "Manitoba Liquor & Lotteries LinkedIn",
+        "linkHref": "https://www.linkedin.com/company/mbliquorlotteries",
+        "caption": "",
+        "nearText": "Manitoba Liquor & Lotteries LinkedIn",
+        "html": "<svg focusable=\"false\" class=\"ext\" data-extlink-placement=\"append\" aria-label=\"(link is external)\" viewBox=\"0 0 80 40\" role=\"img\" aria-hidden=\"false\"><metadata><sfw xmlns=\"http://ns.adobe.com/SaveForWeb/1.0/\"><slicesourcebounds y=\"-8160\" x=\"-8165\" width=\"16389\" height=\"16384\" bottomleftorigin=\"true\"></slicesourcebounds><optimizationsettings><targetsettings targetsettingsid=\"0\" fileformat=\"PNG24For"
+      },
+      {
+        "target": "ul > li:nth-of-type(2) > a > span > svg",
+        "tag": "svg",
+        "src": "",
+        "alt": null,
+        "ariaLabel": "(link is external)",
+        "role": "img",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0,
+        "box": {
+          "x": 1219.546875,
+          "y": 1937.984375,
+          "w": 18,
+          "h": 14
+        },
+        "inLink": true,
+        "linkText": "Manitoba Liquor & Lotteries Facebook",
+        "linkHref": "https://www.facebook.com/MBLiquorLotteries",
+        "caption": "",
+        "nearText": "Manitoba Liquor & Lotteries Facebook",
+        "html": "<svg focusable=\"false\" class=\"ext\" data-extlink-placement=\"append\" aria-label=\"(link is external)\" viewBox=\"0 0 80 40\" role=\"img\" aria-hidden=\"false\"><metadata><sfw xmlns=\"http://ns.adobe.com/SaveForWeb/1.0/\"><slicesourcebounds y=\"-8160\" x=\"-8165\" width=\"16389\" height=\"16384\" bottomleftorigin=\"true\"></slicesourcebounds><optimizationsettings><targetsettings targetsettingsid=\"0\" fileformat=\"PNG24For"
+      },
+      {
+        "target": "ul > li:nth-of-type(3) > a > span > svg",
+        "tag": "svg",
+        "src": "",
+        "alt": null,
+        "ariaLabel": "(link is external)",
+        "role": "img",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0,
+        "box": {
+          "x": 1046.1875,
+          "y": 1983.359375,
+          "w": 18,
+          "h": 14
+        },
+        "inLink": true,
+        "linkText": "Manitoba Liquor & Lotteries Instagram",
+        "linkHref": "https://www.instagram.com/mbliquorlotteries/",
+        "caption": "",
+        "nearText": "Manitoba Liquor & Lotteries Instagram",
+        "html": "<svg focusable=\"false\" class=\"ext\" data-extlink-placement=\"append\" aria-label=\"(link is external)\" viewBox=\"0 0 80 40\" role=\"img\" aria-hidden=\"false\"><metadata><sfw xmlns=\"http://ns.adobe.com/SaveForWeb/1.0/\"><slicesourcebounds y=\"-8160\" x=\"-8165\" width=\"16389\" height=\"16384\" bottomleftorigin=\"true\"></slicesourcebounds><optimizationsettings><targetsettings targetsettingsid=\"0\" fileformat=\"PNG24For"
+      },
+      {
+        "target": "ul > li:nth-of-type(4) > a > span > svg",
+        "tag": "svg",
+        "src": "",
+        "alt": null,
+        "ariaLabel": "(link is external)",
+        "role": "img",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0,
+        "box": {
+          "x": 1213.109375,
+          "y": 2006.046875,
+          "w": 18,
+          "h": 14
+        },
+        "inLink": true,
+        "linkText": "Manitoba Liquor & Lotteries YouTube",
+        "linkHref": "https://www.youtube.com/@mbliquorlotteries",
+        "caption": "",
+        "nearText": "Manitoba Liquor & Lotteries YouTube",
+        "html": "<svg focusable=\"false\" class=\"ext\" data-extlink-placement=\"append\" aria-label=\"(link is external)\" viewBox=\"0 0 80 40\" role=\"img\" aria-hidden=\"false\"><metadata><sfw xmlns=\"http://ns.adobe.com/SaveForWeb/1.0/\"><slicesourcebounds y=\"-8160\" x=\"-8165\" width=\"16389\" height=\"16384\" bottomleftorigin=\"true\"></slicesourcebounds><optimizationsettings><targetsettings targetsettingsid=\"0\" fileformat=\"PNG24For"
+      },
+      {
+        "target": "ul > li:nth-of-type(6) > a > span > svg",
+        "tag": "svg",
+        "src": "",
+        "alt": null,
+        "ariaLabel": "(link is external)",
+        "role": "img",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0,
+        "box": {
+          "x": 1175.234375,
+          "y": 2051.421875,
+          "w": 18,
+          "h": 14
+        },
+        "inLink": true,
+        "linkText": "Casinos of Winnipeg Facebook",
+        "linkHref": "https://www.facebook.com/casinosofwpg",
+        "caption": "",
+        "nearText": "Casinos of Winnipeg Facebook",
+        "html": "<svg focusable=\"false\" class=\"ext\" data-extlink-placement=\"append\" aria-label=\"(link is external)\" viewBox=\"0 0 80 40\" role=\"img\" aria-hidden=\"false\"><metadata><sfw xmlns=\"http://ns.adobe.com/SaveForWeb/1.0/\"><slicesourcebounds y=\"-8160\" x=\"-8165\" width=\"16389\" height=\"16384\" bottomleftorigin=\"true\"></slicesourcebounds><optimizationsettings><targetsettings targetsettingsid=\"0\" fileformat=\"PNG24For"
+      },
+      {
+        "target": "ul > li:nth-of-type(7) > a > span > svg",
+        "tag": "svg",
+        "src": "",
+        "alt": null,
+        "ariaLabel": "(link is external)",
+        "role": "img",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0,
+        "box": {
+          "x": 1177.609375,
+          "y": 2074.109375,
+          "w": 18,
+          "h": 14
+        },
+        "inLink": true,
+        "linkText": "Casinos of Winnipeg Instagram",
+        "linkHref": "https://www.instagram.com/casinosofwpg/",
+        "caption": "",
+        "nearText": "Casinos of Winnipeg Instagram",
+        "html": "<svg focusable=\"false\" class=\"ext\" data-extlink-placement=\"append\" aria-label=\"(link is external)\" viewBox=\"0 0 80 40\" role=\"img\" aria-hidden=\"false\"><metadata><sfw xmlns=\"http://ns.adobe.com/SaveForWeb/1.0/\"><slicesourcebounds y=\"-8160\" x=\"-8165\" width=\"16389\" height=\"16384\" bottomleftorigin=\"true\"></slicesourcebounds><optimizationsettings><targetsettings targetsettingsid=\"0\" fileformat=\"PNG24For"
+      },
+      {
+        "target": "ul > li:nth-of-type(9) > a > span > svg",
+        "tag": "svg",
+        "src": "",
+        "alt": null,
+        "ariaLabel": "(link is external)",
+        "role": "img",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0,
+        "box": {
+          "x": 1181.96875,
+          "y": 2119.484375,
+          "w": 18,
+          "h": 14
+        },
+        "inLink": true,
+        "linkText": "Manitoba Liquor Mart Facebook",
+        "linkHref": "http://facebook.com/liquormartsmb",
+        "caption": "",
+        "nearText": "Manitoba Liquor Mart Facebook",
+        "html": "<svg focusable=\"false\" class=\"ext\" data-extlink-placement=\"append\" aria-label=\"(link is external)\" viewBox=\"0 0 80 40\" role=\"img\" aria-hidden=\"false\"><metadata><sfw xmlns=\"http://ns.adobe.com/SaveForWeb/1.0/\"><slicesourcebounds y=\"-8160\" x=\"-8165\" width=\"16389\" height=\"16384\" bottomleftorigin=\"true\"></slicesourcebounds><optimizationsettings><targetsettings targetsettingsid=\"0\" fileformat=\"PNG24For"
+      },
+      {
+        "target": "ul > li:nth-of-type(10) > a > span > svg",
+        "tag": "svg",
+        "src": "",
+        "alt": null,
+        "ariaLabel": "(link is external)",
+        "role": "img",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0,
+        "box": {
+          "x": 1184.34375,
+          "y": 2142.171875,
+          "w": 18,
+          "h": 14
+        },
+        "inLink": true,
+        "linkText": "Manitoba Liquor Mart Instagram",
+        "linkHref": "https://www.instagram.com/manitobaliquormarts/",
+        "caption": "",
+        "nearText": "Manitoba Liquor Mart Instagram",
+        "html": "<svg focusable=\"false\" class=\"ext\" data-extlink-placement=\"append\" aria-label=\"(link is external)\" viewBox=\"0 0 80 40\" role=\"img\" aria-hidden=\"false\"><metadata><sfw xmlns=\"http://ns.adobe.com/SaveForWeb/1.0/\"><slicesourcebounds y=\"-8160\" x=\"-8165\" width=\"16389\" height=\"16384\" bottomleftorigin=\"true\"></slicesourcebounds><optimizationsettings><targetsettings targetsettingsid=\"0\" fileformat=\"PNG24For"
+      },
+      {
+        "target": "ul > li:nth-of-type(12) > a > span > svg",
+        "tag": "svg",
+        "src": "",
+        "alt": null,
+        "ariaLabel": "(link is external)",
+        "role": "img",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0,
+        "box": {
+          "x": 1164.515625,
+          "y": 2187.546875,
+          "w": 18,
+          "h": 14
+        },
+        "inLink": true,
+        "linkText": "PlayNow Manitoba Facebook",
+        "linkHref": "https://www.facebook.com/playnowmanitoba",
+        "caption": "",
+        "nearText": "PlayNow Manitoba Facebook",
+        "html": "<svg focusable=\"false\" class=\"ext\" data-extlink-placement=\"append\" aria-label=\"(link is external)\" viewBox=\"0 0 80 40\" role=\"img\" aria-hidden=\"false\"><metadata><sfw xmlns=\"http://ns.adobe.com/SaveForWeb/1.0/\"><slicesourcebounds y=\"-8160\" x=\"-8165\" width=\"16389\" height=\"16384\" bottomleftorigin=\"true\"></slicesourcebounds><optimizationsettings><targetsettings targetsettingsid=\"0\" fileformat=\"PNG24For"
+      },
+      {
+        "target": "ul > li:nth-of-type(13) > a > span > svg",
+        "tag": "svg",
+        "src": "",
+        "alt": null,
+        "ariaLabel": "(link is external)",
+        "role": "img",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0,
+        "box": {
+          "x": 1146.640625,
+          "y": 2210.234375,
+          "w": 18,
+          "h": 14
+        },
+        "inLink": true,
+        "linkText": "PlayNow Manitoba Twitter",
+        "linkHref": "https://twitter.com/playnowmanitoba",
+        "caption": "",
+        "nearText": "PlayNow Manitoba Twitter",
+        "html": "<svg focusable=\"false\" class=\"ext\" data-extlink-placement=\"append\" aria-label=\"(link is external)\" viewBox=\"0 0 80 40\" role=\"img\" aria-hidden=\"false\"><metadata><sfw xmlns=\"http://ns.adobe.com/SaveForWeb/1.0/\"><slicesourcebounds y=\"-8160\" x=\"-8165\" width=\"16389\" height=\"16384\" bottomleftorigin=\"true\"></slicesourcebounds><optimizationsettings><targetsettings targetsettingsid=\"0\" fileformat=\"PNG24For"
+      },
+      {
+        "target": "ul > li:nth-of-type(15) > a > span > svg",
+        "tag": "svg",
+        "src": "",
+        "alt": null,
+        "ariaLabel": "(link is external)",
+        "role": "img",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0,
+        "box": {
+          "x": 1117.578125,
+          "y": 2255.609375,
+          "w": 18,
+          "h": 14
+        },
+        "inLink": true,
+        "linkText": "DrinkSense Facebook",
+        "linkHref": "https://www.facebook.com/DrinkSenseMB",
+        "caption": "",
+        "nearText": "DrinkSense Facebook",
+        "html": "<svg focusable=\"false\" class=\"ext\" data-extlink-placement=\"append\" aria-label=\"(link is external)\" viewBox=\"0 0 80 40\" role=\"img\" aria-hidden=\"false\"><metadata><sfw xmlns=\"http://ns.adobe.com/SaveForWeb/1.0/\"><slicesourcebounds y=\"-8160\" x=\"-8165\" width=\"16389\" height=\"16384\" bottomleftorigin=\"true\"></slicesourcebounds><optimizationsettings><targetsettings targetsettingsid=\"0\" fileformat=\"PNG24For"
+      },
+      {
+        "target": "ul > li:nth-of-type(16) > a > span > svg",
+        "tag": "svg",
+        "src": "",
+        "alt": null,
+        "ariaLabel": "(link is external)",
+        "role": "img",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0,
+        "box": {
+          "x": 1119.953125,
+          "y": 2278.296875,
+          "w": 18,
+          "h": 14
+        },
+        "inLink": true,
+        "linkText": "DrinkSense Instagram",
+        "linkHref": "https://www.instagram.com/drinksensemb/",
+        "caption": "",
+        "nearText": "DrinkSense Instagram",
+        "html": "<svg focusable=\"false\" class=\"ext\" data-extlink-placement=\"append\" aria-label=\"(link is external)\" viewBox=\"0 0 80 40\" role=\"img\" aria-hidden=\"false\"><metadata><sfw xmlns=\"http://ns.adobe.com/SaveForWeb/1.0/\"><slicesourcebounds y=\"-8160\" x=\"-8165\" width=\"16389\" height=\"16384\" bottomleftorigin=\"true\"></slicesourcebounds><optimizationsettings><targetsettings targetsettingsid=\"0\" fileformat=\"PNG24For"
+      },
+      {
+        "target": "ul > li:nth-of-type(17) > a > span > svg",
+        "tag": "svg",
+        "src": "",
+        "alt": null,
+        "ariaLabel": "(link is external)",
+        "role": "img",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0,
+        "box": {
+          "x": 1111.140625,
+          "y": 2300.984375,
+          "w": 18,
+          "h": 14
+        },
+        "inLink": true,
+        "linkText": "DrinkSense YouTube",
+        "linkHref": "https://www.youtube.com/@DrinkSenseMB ",
+        "caption": "",
+        "nearText": "DrinkSense YouTube",
+        "html": "<svg focusable=\"false\" class=\"ext\" data-extlink-placement=\"append\" aria-label=\"(link is external)\" viewBox=\"0 0 80 40\" role=\"img\" aria-hidden=\"false\"><metadata><sfw xmlns=\"http://ns.adobe.com/SaveForWeb/1.0/\"><slicesourcebounds y=\"-8160\" x=\"-8165\" width=\"16389\" height=\"16384\" bottomleftorigin=\"true\"></slicesourcebounds><optimizationsettings><targetsettings targetsettingsid=\"0\" fileformat=\"PNG24For"
+      },
+      {
+        "target": "ul > li:nth-of-type(19) > a > span > svg",
+        "tag": "svg",
+        "src": "",
+        "alt": null,
+        "ariaLabel": "(link is external)",
+        "role": "img",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0,
+        "box": {
+          "x": 1167.1875,
+          "y": 2346.359375,
+          "w": 18,
+          "h": 14
+        },
+        "inLink": true,
+        "linkText": "Informed Gambling Facebook",
+        "linkHref": "https://www.facebook.com/share/1APKjPA3SY/?mibextid=wwXIfr",
+        "caption": "",
+        "nearText": "Informed Gambling Facebook",
+        "html": "<svg focusable=\"false\" class=\"ext\" data-extlink-placement=\"append\" aria-label=\"(link is external)\" viewBox=\"0 0 80 40\" role=\"img\" aria-hidden=\"false\"><metadata><sfw xmlns=\"http://ns.adobe.com/SaveForWeb/1.0/\"><slicesourcebounds y=\"-8160\" x=\"-8165\" width=\"16389\" height=\"16384\" bottomleftorigin=\"true\"></slicesourcebounds><optimizationsettings><targetsettings targetsettingsid=\"0\" fileformat=\"PNG24For"
+      },
+      {
+        "target": "ul > li:nth-of-type(20) > a > span > svg",
+        "tag": "svg",
+        "src": "",
+        "alt": null,
+        "ariaLabel": "(link is external)",
+        "role": "img",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0,
+        "box": {
+          "x": 1169.5625,
+          "y": 2369.046875,
+          "w": 18,
+          "h": 14
+        },
+        "inLink": true,
+        "linkText": "Informed Gambling Instagram",
+        "linkHref": "https://www.instagram.com/informedgamblingmbll?igsh=NTVlcDRta254MGh6",
+        "caption": "",
+        "nearText": "Informed Gambling Instagram",
+        "html": "<svg focusable=\"false\" class=\"ext\" data-extlink-placement=\"append\" aria-label=\"(link is external)\" viewBox=\"0 0 80 40\" role=\"img\" aria-hidden=\"false\"><metadata><sfw xmlns=\"http://ns.adobe.com/SaveForWeb/1.0/\"><slicesourcebounds y=\"-8160\" x=\"-8165\" width=\"16389\" height=\"16384\" bottomleftorigin=\"true\"></slicesourcebounds><optimizationsettings><targetsettings targetsettingsid=\"0\" fileformat=\"PNG24For"
+      },
+      {
+        "target": "ul > li:nth-of-type(21) > a > span > svg",
+        "tag": "svg",
+        "src": "",
+        "alt": null,
+        "ariaLabel": "(link is external)",
+        "role": "img",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0,
+        "box": {
+          "x": 1160.75,
+          "y": 2391.734375,
+          "w": 18,
+          "h": 14
+        },
+        "inLink": true,
+        "linkText": "Informed Gambling YouTube",
+        "linkHref": "https://youtube.com/@informedgamblingmbll?si=mDf2IoUXAOFCYiav",
+        "caption": "",
+        "nearText": "Informed Gambling YouTube",
+        "html": "<svg focusable=\"false\" class=\"ext\" data-extlink-placement=\"append\" aria-label=\"(link is external)\" viewBox=\"0 0 80 40\" role=\"img\" aria-hidden=\"false\"><metadata><sfw xmlns=\"http://ns.adobe.com/SaveForWeb/1.0/\"><slicesourcebounds y=\"-8160\" x=\"-8165\" width=\"16389\" height=\"16384\" bottomleftorigin=\"true\"></slicesourcebounds><optimizationsettings><targetsettings targetsettingsid=\"0\" fileformat=\"PNG24For"
+      }
+    ],
+    "links": [
+      {
+        "target": "html > body > a",
+        "text": "Skip to main content",
+        "ariaLabel": "",
+        "title": "",
+        "href": "#main-content",
+        "imgAlt": "",
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 1,
+          "h": 1
+        },
+        "context": "",
+        "contextKind": "none",
+        "html": "<a href=\"#main-content\" class=\"visually-hidden focusable skip-link\">\n      Skip to main content\n    </a>"
+      },
+      {
+        "target": "#block-submenuproductsites > div > ul > li:nth-of-type(1) > a",
+        "text": "Liquor Mart",
+        "ariaLabel": "",
+        "title": "",
+        "href": "http://www.liquormarts.ca",
+        "imgAlt": "",
+        "box": {
+          "x": 128,
+          "y": 24,
+          "w": 62,
+          "h": 14
+        },
+        "context": "Liquor Mart",
+        "contextKind": "li",
+        "html": "<a href=\"http://www.liquormarts.ca\" rel=\"nofollow\" target=\"_blank\">Liquor Mart</a>"
+      },
+      {
+        "target": "#block-submenuproductsites > div > ul > li:nth-of-type(2) > a",
+        "text": "PlayNow",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.playnow.com/mb/",
+        "imgAlt": "",
+        "box": {
+          "x": 190,
+          "y": 24,
+          "w": 57.96875,
+          "h": 14
+        },
+        "context": "PlayNow",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.playnow.com/mb/\" rel=\"nofollow\" target=\"_blank\">PlayNow</a>"
+      },
+      {
+        "target": "#block-submenuproductsites > div > ul > li:nth-of-type(3) > a",
+        "text": "Casinos of Winnipeg",
+        "ariaLabel": "",
+        "title": "",
+        "href": "http://www.casinosofwinnipeg.com",
+        "imgAlt": "",
+        "box": {
+          "x": 247.96875,
+          "y": 24,
+          "w": 120.609375,
+          "h": 14
+        },
+        "context": "Casinos of Winnipeg",
+        "contextKind": "li",
+        "html": "<a href=\"http://www.casinosofwinnipeg.com\" rel=\"nofollow\" target=\"_blank\">Casinos of Winnipeg</a>"
+      },
+      {
+        "target": "#block-submenuproductsites > div > ul > li:nth-of-type(4) > a",
+        "text": "Manitoba VLTs",
+        "ariaLabel": "",
+        "title": "",
+        "href": "http://www.manitobavlts.ca/",
+        "imgAlt": "",
+        "box": {
+          "x": 368.578125,
+          "y": 24,
+          "w": 89.546875,
+          "h": 14
+        },
+        "context": "Manitoba VLTs",
+        "contextKind": "li",
+        "html": "<a href=\"http://www.manitobavlts.ca/\" rel=\"nofollow\" target=\"_blank\">Manitoba VLTs</a>"
+      },
+      {
+        "target": "#block-submenuproductsites > div > ul > li:nth-of-type(5) > a",
+        "text": "WCLC",
+        "ariaLabel": "",
+        "title": "",
+        "href": "http://www.wclc.com/home.htm",
+        "imgAlt": "",
+        "box": {
+          "x": 458.125,
+          "y": 24,
+          "w": 43.296875,
+          "h": 14
+        },
+        "context": "WCLC",
+        "contextKind": "li",
+        "html": "<a href=\"http://www.wclc.com/home.htm\" target=\"_blank\">WCLC</a>"
+      },
+      {
+        "target": "#block-submenuproductsites > div > ul > li:nth-of-type(6) > a",
+        "text": "Lottery Tickets",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.playnow.com/mb/lottery/",
+        "imgAlt": "",
+        "box": {
+          "x": 501.421875,
+          "y": 24,
+          "w": 89.859375,
+          "h": 14
+        },
+        "context": "Lottery Tickets",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.playnow.com/mb/lottery/\" rel=\"nofollow\" target=\"_blank\">Lottery Tickets</a>"
+      },
+      {
+        "target": "#block-submenuproductsites > div > ul > li:nth-of-type(7) > a",
+        "text": "DrinkSense",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.drinksense.ca",
+        "imgAlt": "",
+        "box": {
+          "x": 591.28125,
+          "y": 24,
+          "w": 71.1875,
+          "h": 14
+        },
+        "context": "DrinkSense",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.drinksense.ca\" rel=\"nofollow\">DrinkSense</a>"
+      },
+      {
+        "target": "#block-submenuproductsites > div > ul > li:nth-of-type(8) > a",
+        "text": "Informed Gambling",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.informedgambling.ca/",
+        "imgAlt": "",
+        "box": {
+          "x": 662.46875,
+          "y": 24,
+          "w": 113.71875,
+          "h": 14
+        },
+        "context": "Informed Gambling",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.informedgambling.ca/\" rel=\"nofollow\">Informed Gambling</a>"
+      },
+      {
+        "target": "#block-mbll-ca-subtheme-languageswitcher > ul > li > a",
+        "text": "Français",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/fr",
+        "imgAlt": "",
+        "box": {
+          "x": 1152,
+          "y": 25,
+          "w": 55.390625,
+          "h": 14
+        },
+        "context": "Français",
+        "contextKind": "li",
+        "html": "<a href=\"/fr\" class=\"language-link\" hreflang=\"fr\" data-drupal-link-system-path=\"&lt;front&gt;\">Français</a>"
+      },
+      {
+        "target": "#block-mbll-ca-subtheme-site-branding > div:nth-of-type(1) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "Home",
+        "href": "/",
+        "imgAlt": "Manitoba Liquor and Lotteries Logo",
+        "box": {
+          "x": 133,
+          "y": 120.703125,
+          "w": 323,
+          "h": 17
+        },
+        "context": "",
+        "contextKind": "none",
+        "html": "<a href=\"/\" title=\"Home\" rel=\"home\" class=\"site-branding__logo\">\n        <img src=\"/themes/custom/mbll_ca_subtheme/logo.png\" alt=\"Manitoba Liquor and Lotteries Logo\">\n      </a>"
+      },
+      {
+        "target": "#main-menu-link-contente07c6c9c-7509-4c80-87e8-dca69360fa09 > a",
+        "text": "Our Responsibilities",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/content/our-responsibilities",
+        "imgAlt": "",
+        "box": {
+          "x": 669.953125,
+          "y": 109,
+          "w": 143.15625,
+          "h": 42
+        },
+        "context": "Our Responsibilities Our Approach Our Stories Our Focus is on your Safety » Controlled Entrances Anti-Money Laundering Program Economic Impact Customer Well-Being » Finding Help DrinkSense Informed Ga",
+        "contextKind": "li",
+        "html": "<a href=\"/content/our-responsibilities\" class=\"sf-depth-1 menuparent sf-with-ul\" role=\"menuitem\" aria-haspopup=\"true\" aria-expanded=\"false\">Our Responsibilities<span class=\"sf-sub-indicator\"> »</span></a>"
+      },
+      {
+        "target": "#main-menu-link-content8b5d8f0a-af75-4479-8f88-25ef63fcae65 > a",
+        "text": "Our Approach",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/content/our-responsibilities#approach",
+        "imgAlt": "",
+        "box": {
+          "x": 669.953125,
+          "y": -9890,
+          "w": 13,
+          "h": 84
+        },
+        "context": "Our Approach",
+        "contextKind": "li",
+        "html": "<a href=\"/content/our-responsibilities#approach\" class=\"sf-depth-2\" role=\"menuitem\" style=\"\">Our Approach</a>"
+      },
+      {
+        "target": "#main-menu-link-content0f5a2306-2bbc-47bb-b0d6-df001908687b > a",
+        "text": "Our Stories",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/content/our-stories",
+        "imgAlt": "",
+        "box": {
+          "x": 669.953125,
+          "y": -9806,
+          "w": 13,
+          "h": 84
+        },
+        "context": "Our Stories",
+        "contextKind": "li",
+        "html": "<a href=\"/content/our-stories\" class=\"sf-depth-2\" role=\"menuitem\" style=\"\">Our Stories</a>"
+      },
+      {
+        "target": "#main-menu-link-contentfc972f04-7ea5-44f2-af19-e7a3bfe29ab3 > a",
+        "text": "Our Focus is on your Safety »",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/content/our-focus-your-safety",
+        "imgAlt": "",
+        "box": {
+          "x": 669.953125,
+          "y": -9722,
+          "w": 39.5,
+          "h": 252
+        },
+        "context": "Our Focus is on your Safety » Controlled Entrances Anti-Money Laundering Program",
+        "contextKind": "li",
+        "html": "<a href=\"/content/our-focus-your-safety\" class=\"sf-depth-2 menuparent sf-with-ul\" role=\"menuitem\" aria-haspopup=\"true\" aria-expanded=\"false\" style=\"\">Our Focus is on your Safety<span class=\"sf-sub-indicator\"> »</span></a>"
+      },
+      {
+        "target": "#main-menu-link-contentc45616ae-9e88-4d9a-a772-e5ab81f84d78 > a",
+        "text": "Controlled Entrances",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/content/controlled-entrances",
+        "imgAlt": "",
+        "box": {
+          "x": 670.953125,
+          "y": -19721,
+          "w": 13,
+          "h": 84
+        },
+        "context": "Controlled Entrances",
+        "contextKind": "li",
+        "html": "<a href=\"/content/controlled-entrances\" class=\"sf-depth-3\" role=\"menuitem\" style=\"\">Controlled Entrances</a>"
+      },
+      {
+        "target": "#main-menu-link-content546afca6-8eaf-4248-811d-a0aa2eecebc7 > a",
+        "text": "Anti-Money Laundering Program",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/content/manitoba-liquor-lotteries-anti-money-laundering-program",
+        "imgAlt": "",
+        "box": {
+          "x": 670.953125,
+          "y": -19637,
+          "w": 13,
+          "h": 168
+        },
+        "context": "Anti-Money Laundering Program",
+        "contextKind": "li",
+        "html": "<a href=\"/content/manitoba-liquor-lotteries-anti-money-laundering-program\" class=\"sf-depth-3\" role=\"menuitem\" style=\"\">Anti-Money Laundering Program</a>"
+      },
+      {
+        "target": "#main-menu-link-content7766c708-e6ba-447c-a445-5234ff1be82f > a",
+        "text": "Economic Impact",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/content/economic-impact",
+        "imgAlt": "",
+        "box": {
+          "x": 669.953125,
+          "y": -9470,
+          "w": 13,
+          "h": 84
+        },
+        "context": "Economic Impact",
+        "contextKind": "li",
+        "html": "<a href=\"/content/economic-impact\" class=\"sf-depth-2\" role=\"menuitem\" style=\"\">Economic Impact</a>"
+      },
+      {
+        "target": "#main-menu-link-contentb95bc093-5eb7-4f04-9d8a-a9dea3661428 > a",
+        "text": "Customer Well-Being »",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/content/customer-well-being",
+        "imgAlt": "",
+        "box": {
+          "x": 669.953125,
+          "y": -9386,
+          "w": 39.5,
+          "h": 126
+        },
+        "context": "Customer Well-Being » Finding Help DrinkSense Informed Gambling Cannabis Facts, Tips & Resources Social Responsibility Funding",
+        "contextKind": "li",
+        "html": "<a href=\"/content/customer-well-being\" class=\"sf-depth-2 menuparent sf-with-ul\" role=\"menuitem\" aria-haspopup=\"true\" aria-expanded=\"false\" style=\"\">Customer Well-Being<span class=\"sf-sub-indicator\"> »</span></a>"
+      },
+      {
+        "target": "#main-menu-link-content75130639-b725-4bf6-a1b3-f2407e3fb94e > a",
+        "text": "Finding Help",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/content/finding-help",
+        "imgAlt": "",
+        "box": {
+          "x": 670.953125,
+          "y": -19385,
+          "w": 13,
+          "h": 84
+        },
+        "context": "Finding Help",
+        "contextKind": "li",
+        "html": "<a href=\"/content/finding-help\" class=\"sf-depth-3\" role=\"menuitem\" style=\"\">Finding Help</a>"
+      },
+      {
+        "target": "#main-menu-link-content5d9a23fb-96bd-459d-af5f-c804af16ea8a > a",
+        "text": "DrinkSense",
+        "ariaLabel": "",
+        "title": "(opens in a new window)",
+        "href": "https://www.drinksense.ca/",
+        "imgAlt": "",
+        "box": {
+          "x": 670.953125,
+          "y": -19301,
+          "w": 13,
+          "h": 42
+        },
+        "context": "DrinkSense",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.drinksense.ca/\" class=\"sf-depth-3 sf-external ext\" role=\"menuitem\" data-extlink=\"\" rel=\"noreferrer\" title=\"(opens in a new window)\" style=\"\"><span class=\"extlink-nobreak\">DrinkSense<svg focusable=\"false\" class=\"ext\" data-extlink-placement=\"append\" aria-label=\"(link is external)\""
+      },
+      {
+        "target": "#main-menu-link-content51aa62f1-d757-4b61-8f97-4587ca644c5f > a",
+        "text": "Informed Gambling",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.informedgambling.ca/",
+        "imgAlt": "",
+        "box": {
+          "x": 670.953125,
+          "y": -19259,
+          "w": 13,
+          "h": 84
+        },
+        "context": "Informed Gambling",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.informedgambling.ca/\" class=\"sf-depth-3 sf-external\" role=\"menuitem\" style=\"\">Informed Gambling</a>"
+      },
+      {
+        "target": "#main-menu-link-content78780bf8-aee4-4c16-981c-50efc3ae644c > a",
+        "text": "Cannabis Facts, Tips & Resources",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/content/cannabis-facts-tips-resources",
+        "imgAlt": "",
+        "box": {
+          "x": 670.953125,
+          "y": -19175,
+          "w": 13,
+          "h": 210
+        },
+        "context": "Cannabis Facts, Tips & Resources",
+        "contextKind": "li",
+        "html": "<a href=\"/content/cannabis-facts-tips-resources\" class=\"sf-depth-3\" role=\"menuitem\" style=\"\">Cannabis Facts, Tips &amp; Resources</a>"
+      },
+      {
+        "target": "#main-menu-link-content75acedff-5e8b-4bb8-a583-ebb3420b6b92 > a",
+        "text": "Social Responsibility Funding",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.mbll.ca/content/social-responsibility-funding",
+        "imgAlt": "",
+        "box": {
+          "x": 670.953125,
+          "y": -18965,
+          "w": 13,
+          "h": 126
+        },
+        "context": "Social Responsibility Funding",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.mbll.ca/content/social-responsibility-funding\" class=\"sf-depth-3 sf-external\" role=\"menuitem\" style=\"\">Social Responsibility Funding</a>"
+      },
+      {
+        "target": "#main-menu-link-content9b8bb3c9-23ae-437e-8d19-9ceb26d51064 > a",
+        "text": "Community Support",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/content/community-support",
+        "imgAlt": "",
+        "box": {
+          "x": 669.953125,
+          "y": -9260,
+          "w": 13,
+          "h": 84
+        },
+        "context": "Community Support",
+        "contextKind": "li",
+        "html": "<a href=\"/content/community-support\" class=\"sf-depth-2\" role=\"menuitem\" style=\"\">Community Support</a>"
+      },
+      {
+        "target": "#main-menu-link-content2affbfa1-2832-41d9-8c5d-80bed6430df3 > a",
+        "text": "Environmental Stewardship",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/content/environmental-stewardship",
+        "imgAlt": "",
+        "box": {
+          "x": 669.953125,
+          "y": -9176,
+          "w": 13,
+          "h": 84
+        },
+        "context": "Environmental Stewardship",
+        "contextKind": "li",
+        "html": "<a href=\"/content/environmental-stewardship\" class=\"sf-depth-2\" role=\"menuitem\" style=\"\">Environmental Stewardship</a>"
+      },
+      {
+        "target": "#main-menu-link-content2c9c4faa-d3bf-492b-ac4a-5d2747276344 > a",
+        "text": "Employee Giving",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/content/employee-giving",
+        "imgAlt": "",
+        "box": {
+          "x": 669.953125,
+          "y": -9092,
+          "w": 13,
+          "h": 84
+        },
+        "context": "Employee Giving",
+        "contextKind": "li",
+        "html": "<a href=\"/content/employee-giving\" class=\"sf-depth-2\" role=\"menuitem\" style=\"\">Employee Giving</a>"
+      },
+      {
+        "target": "#main-menu-link-contentac931c35-e516-4cbd-a56d-fc675327f5d0 > a",
+        "text": "Our Products",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/content/our-products",
+        "imgAlt": "",
+        "box": {
+          "x": 813.109375,
+          "y": 109,
+          "w": 97.84375,
+          "h": 42
+        },
+        "context": "Our Products",
+        "contextKind": "li",
+        "html": "<a href=\"/content/our-products\" class=\"sf-depth-1\" role=\"menuitem\">Our Products</a>"
+      },
+      {
+        "target": "#main-menu-link-contentce7ee124-0234-4096-ba46-e42a5bb3c123 > a",
+        "text": "Careers",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/content/careers",
+        "imgAlt": "",
+        "box": {
+          "x": 910.953125,
+          "y": 109,
+          "w": 63.3125,
+          "h": 42
+        },
+        "context": "Careers",
+        "contextKind": "li",
+        "html": "<a href=\"/content/careers\" class=\"sf-depth-1\" role=\"menuitem\">Careers</a>"
+      },
+      {
+        "target": "#main-menu-link-contentac4e2f46-0188-4098-82b2-1ee49abd2255 > a",
+        "text": "About Us",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/content/about-us",
+        "imgAlt": "",
+        "box": {
+          "x": 974.265625,
+          "y": 109,
+          "w": 76.15625,
+          "h": 42
+        },
+        "context": "About Us Vision, Mission, Purpose, Goals & Values Structure & Governance Code of Conduct Accessibility History Land Acknowledgement",
+        "contextKind": "li",
+        "html": "<a href=\"/content/about-us\" class=\"sf-depth-1 menuparent sf-with-ul\" role=\"menuitem\" aria-haspopup=\"true\" aria-expanded=\"false\">About Us<span class=\"sf-sub-indicator\"> »</span></a>"
+      },
+      {
+        "target": "#main-menu-link-content0e57dcd2-2758-4fa4-8037-9a441eabaf41 > a",
+        "text": "Vision, Mission, Purpose, Goals & Values",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/content/vision-mission-purpose-goals-values",
+        "imgAlt": "",
+        "box": {
+          "x": 974.265625,
+          "y": -9890,
+          "w": 13,
+          "h": 252
+        },
+        "context": "Vision, Mission, Purpose, Goals & Values",
+        "contextKind": "li",
+        "html": "<a href=\"/content/vision-mission-purpose-goals-values\" class=\"sf-depth-2\" role=\"menuitem\" style=\"\">Vision, Mission, Purpose, Goals &amp; Values</a>"
+      },
+      {
+        "target": "#main-menu-link-content39c23081-425e-48c7-8b29-4cd0d1194d72 > a",
+        "text": "Structure & Governance",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/content/structure-and-governance",
+        "imgAlt": "",
+        "box": {
+          "x": 974.265625,
+          "y": -9638,
+          "w": 13,
+          "h": 126
+        },
+        "context": "Structure & Governance",
+        "contextKind": "li",
+        "html": "<a href=\"/content/structure-and-governance\" class=\"sf-depth-2\" role=\"menuitem\" style=\"\">Structure &amp; Governance</a>"
+      },
+      {
+        "target": "#main-menu-link-content6c082306-59e4-4fb0-84a1-506738fa44f8 > a",
+        "text": "Code of Conduct",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/content/code-conduct-1",
+        "imgAlt": "",
+        "box": {
+          "x": 974.265625,
+          "y": -9512,
+          "w": 13,
+          "h": 126
+        },
+        "context": "Code of Conduct",
+        "contextKind": "li",
+        "html": "<a href=\"/content/code-conduct-1\" class=\"sf-depth-2\" role=\"menuitem\" style=\"\">Code of Conduct</a>"
+      },
+      {
+        "target": "#main-menu-link-content988fb530-39a4-481b-8ed0-d79e452a5dba > a",
+        "text": "Accessibility",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/content/accessibility",
+        "imgAlt": "",
+        "box": {
+          "x": 974.265625,
+          "y": -9386,
+          "w": 13,
+          "h": 42
+        },
+        "context": "Accessibility",
+        "contextKind": "li",
+        "html": "<a href=\"/content/accessibility\" class=\"sf-depth-2\" role=\"menuitem\" style=\"\">Accessibility</a>"
+      },
+      {
+        "target": "#main-menu-link-content13f17c3e-02d9-4315-936c-74471c4f0edc > a",
+        "text": "History",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/content/history",
+        "imgAlt": "",
+        "box": {
+          "x": 974.265625,
+          "y": -9344,
+          "w": 13,
+          "h": 42
+        },
+        "context": "History",
+        "contextKind": "li",
+        "html": "<a href=\"/content/history\" class=\"sf-depth-2\" role=\"menuitem\" style=\"\">History</a>"
+      },
+      {
+        "target": "#main-menu-link-content819afe15-ebe3-41f8-9f9f-987b300ddb5f > a",
+        "text": "Land Acknowledgement",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/content/manitoba-liquor-lotteries-land-acknowledgement",
+        "imgAlt": "",
+        "box": {
+          "x": 974.265625,
+          "y": -9302,
+          "w": 13,
+          "h": 84
+        },
+        "context": "Land Acknowledgement",
+        "contextKind": "li",
+        "html": "<a href=\"/content/manitoba-liquor-lotteries-land-acknowledgement\" class=\"sf-depth-2\" role=\"menuitem\" style=\"\">Land Acknowledgement</a>"
+      },
+      {
+        "target": "#main-menu-link-contentd2dc26c4-ff7d-4d18-bfa8-b0532fa30d26 > a",
+        "text": "Media Centre",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/content/media-centre",
+        "imgAlt": "",
+        "box": {
+          "x": 1050.421875,
+          "y": 109,
+          "w": 103.15625,
+          "h": 42
+        },
+        "context": "Media Centre News Releases Guidelines External Links Reports",
+        "contextKind": "li",
+        "html": "<a href=\"/content/media-centre\" class=\"sf-depth-1 menuparent sf-with-ul\" role=\"menuitem\" aria-haspopup=\"true\" aria-expanded=\"false\">Media Centre<span class=\"sf-sub-indicator\"> »</span></a>"
+      },
+      {
+        "target": "#main-menu-link-content2e23b251-bc02-4ea1-a322-5facc646e0fa > a",
+        "text": "News Releases",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/news-releases",
+        "imgAlt": "",
+        "box": {
+          "x": 1050.421875,
+          "y": -9890,
+          "w": 13,
+          "h": 84
+        },
+        "context": "News Releases",
+        "contextKind": "li",
+        "html": "<a href=\"/news-releases\" class=\"sf-depth-2\" role=\"menuitem\" style=\"\">News Releases</a>"
+      },
+      {
+        "target": "#main-menu-link-content353133fd-6416-4736-abad-d795ea34f665 > a",
+        "text": "Guidelines",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/content/guidelines-media",
+        "imgAlt": "",
+        "box": {
+          "x": 1050.421875,
+          "y": -9806,
+          "w": 13,
+          "h": 42
+        },
+        "context": "Guidelines",
+        "contextKind": "li",
+        "html": "<a href=\"/content/guidelines-media\" class=\"sf-depth-2\" role=\"menuitem\" style=\"\">Guidelines</a>"
+      },
+      {
+        "target": "#main-menu-link-contentd6e42e28-bb73-4da2-876d-3a5c60bc864f > a",
+        "text": "External Links",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/content/external-links",
+        "imgAlt": "",
+        "box": {
+          "x": 1050.421875,
+          "y": -9764,
+          "w": 13,
+          "h": 84
+        },
+        "context": "External Links",
+        "contextKind": "li",
+        "html": "<a href=\"/content/external-links\" class=\"sf-depth-2\" role=\"menuitem\" style=\"\">External Links</a>"
+      },
+      {
+        "target": "#main-menu-link-content14ba97f9-39e1-4997-9cd9-38c97ff3e33f > a",
+        "text": "Reports",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/content/reports",
+        "imgAlt": "",
+        "box": {
+          "x": 1050.421875,
+          "y": -9680,
+          "w": 13,
+          "h": 42
+        },
+        "context": "Reports",
+        "contextKind": "li",
+        "html": "<a href=\"/content/reports\" class=\"sf-depth-2\" role=\"menuitem\" style=\"\">Reports</a>"
+      },
+      {
+        "target": "#main-menu-link-content254e9293-202a-4ea2-8a10-d2f43ca89c81 > a",
+        "text": "Contact Us",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/content/contact-us",
+        "imgAlt": "",
+        "box": {
+          "x": 1153.578125,
+          "y": 109,
+          "w": 84.421875,
+          "h": 42
+        },
+        "context": "Contact Us",
+        "contextKind": "li",
+        "html": "<a href=\"/content/contact-us\" class=\"sf-depth-1\" role=\"menuitem\">Contact Us</a>"
+      },
+      {
+        "target": "#splide-0f6a29ab30e-slide01 > div > div > a",
+        "text": "Image",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.mbll.ca/esg",
+        "imgAlt": "MBLL Environmental,  Social and Governance Report",
+        "box": {
+          "x": -982,
+          "y": 199,
+          "w": 1110,
+          "h": 393.609375
+        },
+        "context": "Image",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.mbll.ca/esg\" tabindex=\"-1\"><div>\n  \n  \n  <div>\n    <div class=\"visually-hidden\">Image</div>\n              <div>    <picture>\n                  <source srcset=\"/sites/mbll-ca/files/styles/max_1300x1300/public/2025-10/0357-ESG-Landing-Page-Header-1140x403-p2-WR.jpg?itok=Jva_UzrO 1"
+      },
+      {
+        "target": "#splide-0f6a29ab30e-slide02 > div > div > a",
+        "text": "Image",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.mbll.ca/goodtogether",
+        "imgAlt": "2 friends having fun at a festival. Text: Sponsorships and funding for what Manitobans care about.",
+        "box": {
+          "x": 128,
+          "y": 199,
+          "w": 1110,
+          "h": 393.609375
+        },
+        "context": "Image",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.mbll.ca/goodtogether\"><div>\n  \n  \n  <div>\n    <div class=\"visually-hidden\">Image</div>\n              <div>    <picture>\n                  <source srcset=\"/sites/mbll-ca/files/styles/max_1300x1300/public/2024-08/0213-MBLLGoodTogetherSlider-1140x403_p2_WR%20%281%29.jpg?itok=hoY-o0"
+      },
+      {
+        "target": "#splide-0f6a29ab30e-slide03 > div > div > a",
+        "text": "Image",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.mbll.ca/content/it-careers",
+        "imgAlt": "MBLL IT Careers - Work worthy of your talent",
+        "box": {
+          "x": 1238,
+          "y": 199,
+          "w": 1110,
+          "h": 392.765625
+        },
+        "context": "Image",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.mbll.ca/content/it-careers\" tabindex=\"-1\"><div>\n  \n  \n  <div>\n    <div class=\"visually-hidden\">Image</div>\n              <div>    <picture>\n                  <source srcset=\"/sites/mbll-ca/files/styles/max_1300x1300/public/2025-03/0395_MBLL_ITS-Recruitment-WebBanner-p1-WR.jpg?it"
+      },
+      {
+        "target": "#splide-0f6a29ab30e-slide04 > div > div > a",
+        "text": "Image",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.mbll.ca/content/our-responsibilities",
+        "imgAlt": "Enriching the lives of Manitobans #MBGoodTogether",
+        "box": {
+          "x": 2348,
+          "y": 199,
+          "w": 1110,
+          "h": 392.765625
+        },
+        "context": "Image",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.mbll.ca/content/our-responsibilities\" tabindex=\"-1\"><div>\n  \n  \n  <div>\n    <div class=\"visually-hidden\">Image</div>\n              <div>    <picture>\n                  <source srcset=\"/sites/mbll-ca/files/styles/max_1300x1300/public/2024-07/0009-MBLLGoodTogether-Web-Slider_1140x"
+      },
+      {
+        "target": "#splide-0f6a29ab30e-slide05 > div > div > a",
+        "text": "Image",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.mbll.ca/drinksense",
+        "imgAlt": "Drink Sense - Facts. Flavours. Fundamentals.",
+        "box": {
+          "x": 3458,
+          "y": 199,
+          "w": 1110,
+          "h": 392.765625
+        },
+        "context": "Image",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.mbll.ca/drinksense\" tabindex=\"-1\"><div>\n  \n  \n  <div>\n    <div class=\"visually-hidden\">Image</div>\n              <div>    <picture>\n                  <source srcset=\"/sites/mbll-ca/files/styles/max_1300x1300/public/2025-04/MBLL_DrinkSense_WebsiteBanner_ENG%5B1140x403%5D_OP1.jpg?"
+      },
+      {
+        "target": "div > span > div > div > a",
+        "text": "Our Responsibilities We enrich the lives of Manitobans by making the greatest possible contribution to the economic and social well-being of our province.",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/content/our-responsibilities",
+        "imgAlt": "",
+        "box": {
+          "x": 159,
+          "y": 839.609375,
+          "w": 1048,
+          "h": 90.375
+        },
+        "context": "heading: I want to learn more about: | Our Responsibilities We enrich the lives of Manitobans by making the greatest possible contribution to the economic and social well-being of our province.",
+        "contextKind": "block",
+        "html": "<a href=\"/content/our-responsibilities\">\n          <h3>Our Responsibilities</h3>\n                    <p>\n            &nbsp;We enrich the lives of Manitobans by making the greatest possible contribution to the economic and social well-being of our province.\n          </p>\n\n          <img class=\"flipb"
+      },
+      {
+        "target": "div > span > div > div > a",
+        "text": "Economic Impact People, communities and businesses across Manitoba benefit from our economic contributions.",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/content/economic-impact",
+        "imgAlt": "",
+        "box": {
+          "x": 159,
+          "y": 1119.609375,
+          "w": 308,
+          "h": 113.0625
+        },
+        "context": "heading: Our Responsibilities | Economic Impact People, communities and businesses across Manitoba benefit from our economic contributions.",
+        "contextKind": "block",
+        "html": "<a href=\"/content/economic-impact\">\n          <h3>Economic Impact</h3>\n                    <p>\n            People, communities and businesses across Manitoba benefit from our economic contributions.\n          </p>\n\n          <img class=\"flipbox-icon\" src=\"/sites/mbll-ca/files/front_back/economic-con"
+      },
+      {
+        "target": "div > span > div > div > a",
+        "text": "Customer Well-Being We commit to helping customers enjoy our products safely and sensibly.",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/content/customer-well-being",
+        "imgAlt": "",
+        "box": {
+          "x": 529,
+          "y": 1119.609375,
+          "w": 308,
+          "h": 90.375
+        },
+        "context": "heading: Economic Impact | Customer Well-Being We commit to helping customers enjoy our products safely and sensibly.",
+        "contextKind": "block",
+        "html": "<a href=\"/content/customer-well-being\">\n          <h3>Customer Well-Being</h3>\n                    <p>\n            We commit to helping customers enjoy our products safely and sensibly.&nbsp;\n          </p>\n\n          <img class=\"flipbox-icon\" src=\"/sites/mbll-ca/files/front_back/focus-on-customer-w"
+      },
+      {
+        "target": "div > span > div > div > a",
+        "text": "Community Support We support a wide range of charitable, non-profit and community groups in Manitoba.",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/content/community-support",
+        "imgAlt": "",
+        "box": {
+          "x": 899,
+          "y": 1119.609375,
+          "w": 308,
+          "h": 90.375
+        },
+        "context": "heading: Customer Well-Being | Community Support We support a wide range of charitable, non-profit and community groups in Manitoba.",
+        "contextKind": "block",
+        "html": "<a href=\"/content/community-support\">\n          <h3>Community Support</h3>\n                    <p>\n            We support a wide range of charitable, non-profit and community groups in Manitoba.\n          </p>\n\n          <img class=\"flipbox-icon\" src=\"/sites/mbll-ca/files/front_back/strength-local-c"
+      },
+      {
+        "target": "div > span > div > div > a",
+        "text": "Environmental Stewardship Innovation and collaboration drive efforts to reduce our waste, water and energy environmental impact.",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/content/environmental-stewardship",
+        "imgAlt": "",
+        "box": {
+          "x": 159,
+          "y": 1399.609375,
+          "w": 308,
+          "h": 113.0625
+        },
+        "context": "heading: Community Support | Environmental Stewardship Innovation and collaboration drive efforts to reduce our waste, water and energy environmental impact.",
+        "contextKind": "block",
+        "html": "<a href=\"/content/environmental-stewardship\">\n          <h3>Environmental Stewardship</h3>\n                    <p>\n            Innovation and collaboration drive efforts to reduce our waste, water and energy environmental impact.\n          </p>\n\n          <img class=\"flipbox-icon\" src=\"/sites/mbll-c"
+      },
+      {
+        "target": "div > span > div > div > a",
+        "text": "Informed Gambling Learn how to use Informed Gambling to understand and enjoy gambling.",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/content/informed-gambling",
+        "imgAlt": "",
+        "box": {
+          "x": 529,
+          "y": 1399.609375,
+          "w": 308,
+          "h": 90.375
+        },
+        "context": "heading: Environmental Stewardship | Informed Gambling Learn how to use Informed Gambling to understand and enjoy gambling.",
+        "contextKind": "block",
+        "html": "<a href=\"/content/informed-gambling\">\n          <h3>Informed Gambling</h3>\n                    <p>\n            Learn how to use Informed Gambling to understand and enjoy gambling.\n          </p>\n\n          <img class=\"flipbox-icon\" src=\"/sites/mbll-ca/files/front_back/informed-gambling-grey-text.png"
+      },
+      {
+        "target": "div > span > div > div > a",
+        "text": "DrinkSense Learn how to use your DrinkSense when it comes to buying, serving and enjoying liquor.",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/content/drinksense-1",
+        "imgAlt": "",
+        "box": {
+          "x": 899,
+          "y": 1399.609375,
+          "w": 308,
+          "h": 90.375
+        },
+        "context": "heading: Informed Gambling | DrinkSense Learn how to use your DrinkSense when it comes to buying, serving and enjoying liquor.",
+        "contextKind": "block",
+        "html": "<a href=\"/content/drinksense-1\">\n          <h3>DrinkSense</h3>\n                    <p>\n            Learn how to use your DrinkSense when it comes to buying, serving and enjoying liquor.\n          </p>\n\n          <img class=\"flipbox-icon\" src=\"/sites/mbll-ca/files/front_back/drinksense%20%281%29.png\""
+      },
+      {
+        "target": "#block-custom-block-16 > div > ul > li:nth-of-type(1) > a",
+        "text": "Contact Us",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/content/contact-us",
+        "imgAlt": "",
+        "box": {
+          "x": 128,
+          "y": 1916.296875,
+          "w": 68.71875,
+          "h": 17
+        },
+        "context": "Contact Us",
+        "contextKind": "li",
+        "html": "<a href=\"/content/contact-us\">Contact Us</a>"
+      },
+      {
+        "target": "#block-custom-block-16 > div > ul > li:nth-of-type(2) > a",
+        "text": "Media | News Releases",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.mbll.ca/news-releases",
+        "imgAlt": "",
+        "box": {
+          "x": 128,
+          "y": 1938.984375,
+          "w": 143.9375,
+          "h": 17
+        },
+        "context": "Media | News Releases",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.mbll.ca/news-releases\">Media | News Releases</a>"
+      },
+      {
+        "target": "#block-custom-block-16 > div > ul > li:nth-of-type(3) > a",
+        "text": "Privacy",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/content/privacy-notice",
+        "imgAlt": "",
+        "box": {
+          "x": 128,
+          "y": 1961.671875,
+          "w": 45.234375,
+          "h": 17
+        },
+        "context": "Privacy",
+        "contextKind": "li",
+        "html": "<a href=\"/content/privacy-notice\">Privacy</a>"
+      },
+      {
+        "target": "#block-custom-block-16 > div > ul > li:nth-of-type(4) > a",
+        "text": "Accessibility",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/node/4911",
+        "imgAlt": "",
+        "box": {
+          "x": 128,
+          "y": 1984.359375,
+          "w": 78.359375,
+          "h": 17
+        },
+        "context": "Accessibility",
+        "contextKind": "li",
+        "html": "<a href=\"/node/4911\">Accessibility</a>"
+      },
+      {
+        "target": "#block-custom-block-16 > div > ul > li:nth-of-type(5) > a",
+        "text": "Code of Conduct",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.mbll.ca/content/code-conduct-0",
+        "imgAlt": "",
+        "box": {
+          "x": 128,
+          "y": 2007.046875,
+          "w": 104.5625,
+          "h": 17
+        },
+        "context": "Code of Conduct",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.mbll.ca/content/code-conduct-0\">Code of Conduct</a>"
+      },
+      {
+        "target": "#block-custom-block-16 > div > ul > li:nth-of-type(6) > a",
+        "text": "Terms and Conditions",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/content/terms-and-conditions",
+        "imgAlt": "",
+        "box": {
+          "x": 128,
+          "y": 2029.734375,
+          "w": 136.59375,
+          "h": 17
+        },
+        "context": "Terms and Conditions",
+        "contextKind": "li",
+        "html": "<a href=\"/content/terms-and-conditions\" rel=\"nofollow\">Terms and Conditions</a>"
+      },
+      {
+        "target": "#block-custom-block-16 > div > ul > li:nth-of-type(7) > a",
+        "text": "Doing Business With Us",
+        "ariaLabel": "",
+        "title": "(opens in a new window)",
+        "href": "http://www.mbllpartners.ca/",
+        "imgAlt": "",
+        "box": {
+          "x": 128,
+          "y": 2052.421875,
+          "w": 165.703125,
+          "h": 17
+        },
+        "context": "Doing Business With Us",
+        "contextKind": "li",
+        "html": "<a href=\"http://www.mbllpartners.ca/\" class=\"ext\" data-extlink=\"\" rel=\"noreferrer\" title=\"(opens in a new window)\">Doing Business With <span class=\"extlink-nobreak\">Us<svg focusable=\"false\" class=\"ext\" data-extlink-placement=\"append\" aria-label=\"(link is external)\" viewBox=\"0 0 80 40\" role=\"img\" ari"
+      },
+      {
+        "target": "#block-mbll-moreusefullinks > div > ul > li:nth-of-type(1) > a",
+        "text": "Liquor, Gaming and Cannabis Authority of Manitoba",
+        "ariaLabel": "",
+        "title": "(opens in a new window)",
+        "href": "https://lgcamb.ca/",
+        "imgAlt": "",
+        "box": {
+          "x": 413,
+          "y": 1916.296875,
+          "w": 241.53125,
+          "h": 39.6875
+        },
+        "context": "Liquor, Gaming and Cannabis Authority of Manitoba",
+        "contextKind": "li",
+        "html": "<a href=\"https://lgcamb.ca/\" class=\"ext\" data-extlink=\"\" rel=\"noreferrer\" title=\"(opens in a new window)\">Liquor, Gaming and Cannabis Authority of <span class=\"extlink-nobreak\">Manitoba<svg focusable=\"false\" class=\"ext\" data-extlink-placement=\"append\" aria-label=\"(link is external)\" viewBox=\"0 0 80 "
+      },
+      {
+        "target": "#block-mbll-moreusefullinks > div > ul > li:nth-of-type(2) > a",
+        "text": "The Manitoba Liquor and Lotteries Corporation Act",
+        "ariaLabel": "",
+        "title": "(opens in a new window)",
+        "href": "https://web2.gov.mb.ca/laws/statutes/ccsm/l155.php#",
+        "imgAlt": "",
+        "box": {
+          "x": 413,
+          "y": 1961.671875,
+          "w": 213.765625,
+          "h": 39.6875
+        },
+        "context": "The Manitoba Liquor and Lotteries Corporation Act",
+        "contextKind": "li",
+        "html": "<a href=\"https://web2.gov.mb.ca/laws/statutes/ccsm/l155.php#\" class=\"ext\" data-extlink=\"\" rel=\"noreferrer\" title=\"(opens in a new window)\">The Manitoba Liquor and Lotteries Corporation <span class=\"extlink-nobreak\">Act<svg focusable=\"false\" class=\"ext\" data-extlink-placement=\"append\" aria-label=\"(li"
+      },
+      {
+        "target": "#block-mbll-moreusefullinks > div > ul > li:nth-of-type(3) > a",
+        "text": "The Liquor, Gaming and Cannabis Control Act",
+        "ariaLabel": "",
+        "title": "(opens in a new window)",
+        "href": "https://web2.gov.mb.ca/laws/statutes/ccsm/l153.php",
+        "imgAlt": "",
+        "box": {
+          "x": 413,
+          "y": 2007.046875,
+          "w": 208.609375,
+          "h": 39.6875
+        },
+        "context": "The Liquor, Gaming and Cannabis Control Act",
+        "contextKind": "li",
+        "html": "<a href=\"https://web2.gov.mb.ca/laws/statutes/ccsm/l153.php\" class=\"ext\" data-extlink=\"\" rel=\"noreferrer\" title=\"(opens in a new window)\">The Liquor, Gaming and Cannabis Control <span class=\"extlink-nobreak\">Act<svg focusable=\"false\" class=\"ext\" data-extlink-placement=\"append\" aria-label=\"(link is e"
+      },
+      {
+        "target": "#block-custom-block-46 > div > ul > li:nth-of-type(1) > a",
+        "text": "Liquor Marts",
+        "ariaLabel": "",
+        "title": "",
+        "href": "http://www.liquormarts.ca/",
+        "imgAlt": "",
+        "box": {
+          "x": 698,
+          "y": 1916.296875,
+          "w": 79.5625,
+          "h": 17
+        },
+        "context": "Liquor Marts",
+        "contextKind": "li",
+        "html": "<a href=\"http://www.liquormarts.ca/\" rel=\"nofollow\" target=\"_blank\">Liquor Marts</a>"
+      },
+      {
+        "target": "#block-custom-block-46 > div > ul > li:nth-of-type(2) > a",
+        "text": "Club Regent Casino",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.casinosofwinnipeg.com/club-regent-casino-home/",
+        "imgAlt": "",
+        "box": {
+          "x": 698,
+          "y": 1938.984375,
+          "w": 121.765625,
+          "h": 17
+        },
+        "context": "Club Regent Casino",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.casinosofwinnipeg.com/club-regent-casino-home/\" rel=\"nofollow\" target=\"_blank\">Club Regent Casino</a>"
+      },
+      {
+        "target": "#block-custom-block-46 > div > ul > li:nth-of-type(3) > a",
+        "text": "McPhillips Station Casino",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.casinosofwinnipeg.com/mcphillips-station-casino-home/",
+        "imgAlt": "",
+        "box": {
+          "x": 698,
+          "y": 1961.671875,
+          "w": 159.03125,
+          "h": 17
+        },
+        "context": "McPhillips Station Casino",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.casinosofwinnipeg.com/mcphillips-station-casino-home/\" rel=\"nofollow\" target=\"_blank\">McPhillips Station Casino</a>"
+      },
+      {
+        "target": "#block-custom-block-46 > div > ul > li:nth-of-type(4) > a",
+        "text": "PlayNow.com",
+        "ariaLabel": "",
+        "title": "(opens in a new window)",
+        "href": "https://www.playnow.com/mb/",
+        "imgAlt": "",
+        "box": {
+          "x": 698,
+          "y": 1984.359375,
+          "w": 103.3125,
+          "h": 17
+        },
+        "context": "PlayNow.com",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.playnow.com/mb/\" rel=\"nofollow noreferrer\" target=\"_blank\" class=\"ext\" data-extlink=\"\" title=\"(opens in a new window)\"><span class=\"extlink-nobreak\">PlayNow.com<svg focusable=\"false\" class=\"ext\" data-extlink-placement=\"append\" aria-label=\"(link is external)\" viewBox=\"0 0 80 40\" "
+      },
+      {
+        "target": "#block-custom-block-46 > div > ul > li:nth-of-type(5) > a",
+        "text": "Manitoba VLTs",
+        "ariaLabel": "",
+        "title": "(opens in a new window)",
+        "href": "http://www.manitobavlts.ca/",
+        "imgAlt": "",
+        "box": {
+          "x": 698,
+          "y": 2007.046875,
+          "w": 109.734375,
+          "h": 17
+        },
+        "context": "Manitoba VLTs",
+        "contextKind": "li",
+        "html": "<a href=\"http://www.manitobavlts.ca/\" rel=\"nofollow noreferrer\" target=\"_blank\" class=\"ext\" data-extlink=\"\" title=\"(opens in a new window)\">Manitoba <span class=\"extlink-nobreak\">VLTs<svg focusable=\"false\" class=\"ext\" data-extlink-placement=\"append\" aria-label=\"(link is external)\" viewBox=\"0 0 80 40"
+      },
+      {
+        "target": "#block-custom-block-46 > div > ul > li:nth-of-type(6) > a",
+        "text": "Lottery Tickets",
+        "ariaLabel": "",
+        "title": "(opens in a new window)",
+        "href": "http://www.wclc.com/home.htm",
+        "imgAlt": "",
+        "box": {
+          "x": 698,
+          "y": 2029.734375,
+          "w": 110.09375,
+          "h": 17
+        },
+        "context": "Lottery Tickets",
+        "contextKind": "li",
+        "html": "<a href=\"http://www.wclc.com/home.htm\" rel=\"nofollow noreferrer\" target=\"_blank\" class=\"ext\" data-extlink=\"\" title=\"(opens in a new window)\">Lottery <span class=\"extlink-nobreak\">Tickets<svg focusable=\"false\" class=\"ext\" data-extlink-placement=\"append\" aria-label=\"(link is external)\" viewBox=\"0 0 80"
+      },
+      {
+        "target": "#block-custom-block-96 > div > ul > li:nth-of-type(1) > a",
+        "text": "Manitoba Liquor & Lotteries LinkedIn",
+        "ariaLabel": "",
+        "title": "(opens in a new window)",
+        "href": "https://www.linkedin.com/company/mbliquorlotteries",
+        "imgAlt": "",
+        "box": {
+          "x": 983,
+          "y": 1916.296875,
+          "w": 246.234375,
+          "h": 17
+        },
+        "context": "Manitoba Liquor & Lotteries LinkedIn",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.linkedin.com/company/mbliquorlotteries\" class=\"ext\" data-extlink=\"\" rel=\"noreferrer\" title=\"(opens in a new window)\">Manitoba Liquor &amp; Lotteries <span class=\"extlink-nobreak\">LinkedIn<svg focusable=\"false\" class=\"ext\" data-extlink-placement=\"append\" aria-label=\"(link is exte"
+      },
+      {
+        "target": "#block-custom-block-96 > div > ul > li:nth-of-type(2) > a",
+        "text": "Manitoba Liquor & Lotteries Facebook",
+        "ariaLabel": "",
+        "title": "(opens in a new window)",
+        "href": "https://www.facebook.com/MBLiquorLotteries",
+        "imgAlt": "",
+        "box": {
+          "x": 983,
+          "y": 1938.984375,
+          "w": 254.546875,
+          "h": 17
+        },
+        "context": "Manitoba Liquor & Lotteries Facebook",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.facebook.com/MBLiquorLotteries\" class=\"ext\" data-extlink=\"\" rel=\"noreferrer\" title=\"(opens in a new window)\">Manitoba Liquor &amp; Lotteries <span class=\"extlink-nobreak\">Facebook<svg focusable=\"false\" class=\"ext\" data-extlink-placement=\"append\" aria-label=\"(link is external)\" v"
+      },
+      {
+        "target": "#block-custom-block-96 > div > ul > li:nth-of-type(3) > a",
+        "text": "Manitoba Liquor & Lotteries Instagram",
+        "ariaLabel": "",
+        "title": "(opens in a new window)",
+        "href": "https://www.instagram.com/mbliquorlotteries/",
+        "imgAlt": "",
+        "box": {
+          "x": 983,
+          "y": 1961.671875,
+          "w": 172.265625,
+          "h": 39.6875
+        },
+        "context": "Manitoba Liquor & Lotteries Instagram",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.instagram.com/mbliquorlotteries/\" class=\"ext\" data-extlink=\"\" rel=\"noreferrer\" title=\"(opens in a new window)\">Manitoba Liquor &amp; Lotteries <span class=\"extlink-nobreak\">Instagram<svg focusable=\"false\" class=\"ext\" data-extlink-placement=\"append\" aria-label=\"(link is external)"
+      },
+      {
+        "target": "#block-custom-block-96 > div > ul > li:nth-of-type(4) > a",
+        "text": "Manitoba Liquor & Lotteries YouTube",
+        "ariaLabel": "",
+        "title": "(opens in a new window)",
+        "href": "https://www.youtube.com/@mbliquorlotteries",
+        "imgAlt": "",
+        "box": {
+          "x": 983,
+          "y": 2007.046875,
+          "w": 248.109375,
+          "h": 17
+        },
+        "context": "Manitoba Liquor & Lotteries YouTube",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.youtube.com/@mbliquorlotteries\" class=\"ext\" data-extlink=\"\" rel=\"noreferrer\" title=\"(opens in a new window)\">Manitoba Liquor &amp; Lotteries <span class=\"extlink-nobreak\">YouTube<svg focusable=\"false\" class=\"ext\" data-extlink-placement=\"append\" aria-label=\"(link is external)\" vi"
+      },
+      {
+        "target": "#block-custom-block-96 > div > ul > li:nth-of-type(6) > a",
+        "text": "Casinos of Winnipeg Facebook",
+        "ariaLabel": "",
+        "title": "(opens in a new window)",
+        "href": "https://www.facebook.com/casinosofwpg",
+        "imgAlt": "",
+        "box": {
+          "x": 983,
+          "y": 2052.421875,
+          "w": 210.234375,
+          "h": 17
+        },
+        "context": "Casinos of Winnipeg Facebook",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.facebook.com/casinosofwpg\" class=\"ext\" data-extlink=\"\" rel=\"noreferrer\" title=\"(opens in a new window)\">Casinos of Winnipeg <span class=\"extlink-nobreak\">Facebook<svg focusable=\"false\" class=\"ext\" data-extlink-placement=\"append\" aria-label=\"(link is external)\" viewBox=\"0 0 80 40"
+      },
+      {
+        "target": "#block-custom-block-96 > div > ul > li:nth-of-type(7) > a",
+        "text": "Casinos of Winnipeg Instagram",
+        "ariaLabel": "",
+        "title": "(opens in a new window)",
+        "href": "https://www.instagram.com/casinosofwpg/",
+        "imgAlt": "",
+        "box": {
+          "x": 983,
+          "y": 2075.109375,
+          "w": 212.609375,
+          "h": 17
+        },
+        "context": "Casinos of Winnipeg Instagram",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.instagram.com/casinosofwpg/\" class=\"ext\" data-extlink=\"\" rel=\"noreferrer\" title=\"(opens in a new window)\">Casinos of Winnipeg <span class=\"extlink-nobreak\">Instagram<svg focusable=\"false\" class=\"ext\" data-extlink-placement=\"append\" aria-label=\"(link is external)\" viewBox=\"0 0 80"
+      },
+      {
+        "target": "#block-custom-block-96 > div > ul > li:nth-of-type(9) > a",
+        "text": "Manitoba Liquor Mart Facebook",
+        "ariaLabel": "",
+        "title": "(opens in a new window)",
+        "href": "http://facebook.com/liquormartsmb",
+        "imgAlt": "",
+        "box": {
+          "x": 983,
+          "y": 2120.484375,
+          "w": 216.96875,
+          "h": 17
+        },
+        "context": "Manitoba Liquor Mart Facebook",
+        "contextKind": "li",
+        "html": "<a href=\"http://facebook.com/liquormartsmb\" class=\"ext\" data-extlink=\"\" rel=\"noreferrer\" title=\"(opens in a new window)\">Manitoba Liquor Mart <span class=\"extlink-nobreak\">Facebook<svg focusable=\"false\" class=\"ext\" data-extlink-placement=\"append\" aria-label=\"(link is external)\" viewBox=\"0 0 80 40\" r"
+      },
+      {
+        "target": "#block-custom-block-96 > div > ul > li:nth-of-type(10) > a",
+        "text": "Manitoba Liquor Mart Instagram",
+        "ariaLabel": "",
+        "title": "(opens in a new window)",
+        "href": "https://www.instagram.com/manitobaliquormarts/",
+        "imgAlt": "",
+        "box": {
+          "x": 983,
+          "y": 2143.171875,
+          "w": 219.34375,
+          "h": 17
+        },
+        "context": "Manitoba Liquor Mart Instagram",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.instagram.com/manitobaliquormarts/\" class=\"ext\" data-extlink=\"\" rel=\"noreferrer\" title=\"(opens in a new window)\">Manitoba Liquor Mart <span class=\"extlink-nobreak\">Instagram<svg focusable=\"false\" class=\"ext\" data-extlink-placement=\"append\" aria-label=\"(link is external)\" viewBox"
+      },
+      {
+        "target": "#block-custom-block-96 > div > ul > li:nth-of-type(12) > a",
+        "text": "PlayNow Manitoba Facebook",
+        "ariaLabel": "",
+        "title": "(opens in a new window)",
+        "href": "https://www.facebook.com/playnowmanitoba",
+        "imgAlt": "",
+        "box": {
+          "x": 983,
+          "y": 2188.546875,
+          "w": 199.515625,
+          "h": 17
+        },
+        "context": "PlayNow Manitoba Facebook",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.facebook.com/playnowmanitoba\" class=\"ext\" data-extlink=\"\" rel=\"noreferrer\" title=\"(opens in a new window)\">PlayNow Manitoba <span class=\"extlink-nobreak\">Facebook<svg focusable=\"false\" class=\"ext\" data-extlink-placement=\"append\" aria-label=\"(link is external)\" viewBox=\"0 0 80 40"
+      },
+      {
+        "target": "#block-custom-block-96 > div > ul > li:nth-of-type(13) > a",
+        "text": "PlayNow Manitoba Twitter",
+        "ariaLabel": "",
+        "title": "(opens in a new window)",
+        "href": "https://twitter.com/playnowmanitoba",
+        "imgAlt": "",
+        "box": {
+          "x": 983,
+          "y": 2211.234375,
+          "w": 181.640625,
+          "h": 17
+        },
+        "context": "PlayNow Manitoba Twitter",
+        "contextKind": "li",
+        "html": "<a href=\"https://twitter.com/playnowmanitoba\" class=\"ext\" data-extlink=\"\" rel=\"noreferrer\" title=\"(opens in a new window)\">PlayNow Manitoba <span class=\"extlink-nobreak\">Twitter<svg focusable=\"false\" class=\"ext\" data-extlink-placement=\"append\" aria-label=\"(link is external)\" viewBox=\"0 0 80 40\" role"
+      },
+      {
+        "target": "#block-custom-block-96 > div > ul > li:nth-of-type(15) > a",
+        "text": "DrinkSense Facebook",
+        "ariaLabel": "",
+        "title": "(opens in a new window)",
+        "href": "https://www.facebook.com/DrinkSenseMB",
+        "imgAlt": "",
+        "box": {
+          "x": 983,
+          "y": 2256.609375,
+          "w": 152.578125,
+          "h": 17
+        },
+        "context": "DrinkSense Facebook",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.facebook.com/DrinkSenseMB\" class=\"ext\" data-extlink=\"\" rel=\"noreferrer\" title=\"(opens in a new window)\">DrinkSense <span class=\"extlink-nobreak\">Facebook<svg focusable=\"false\" class=\"ext\" data-extlink-placement=\"append\" aria-label=\"(link is external)\" viewBox=\"0 0 80 40\" role=\"i"
+      },
+      {
+        "target": "#block-custom-block-96 > div > ul > li:nth-of-type(16) > a",
+        "text": "DrinkSense Instagram",
+        "ariaLabel": "",
+        "title": "(opens in a new window)",
+        "href": "https://www.instagram.com/drinksensemb/",
+        "imgAlt": "",
+        "box": {
+          "x": 983,
+          "y": 2279.296875,
+          "w": 154.953125,
+          "h": 17
+        },
+        "context": "DrinkSense Instagram",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.instagram.com/drinksensemb/\" class=\"ext\" data-extlink=\"\" rel=\"noreferrer\" title=\"(opens in a new window)\">DrinkSense <span class=\"extlink-nobreak\">Instagram<svg focusable=\"false\" class=\"ext\" data-extlink-placement=\"append\" aria-label=\"(link is external)\" viewBox=\"0 0 80 40\" role"
+      },
+      {
+        "target": "#block-custom-block-96 > div > ul > li:nth-of-type(17) > a",
+        "text": "DrinkSense YouTube",
+        "ariaLabel": "",
+        "title": "(opens in a new window)",
+        "href": "https://www.youtube.com/@DrinkSenseMB ",
+        "imgAlt": "",
+        "box": {
+          "x": 983,
+          "y": 2301.984375,
+          "w": 146.140625,
+          "h": 17
+        },
+        "context": "DrinkSense YouTube",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.youtube.com/@DrinkSenseMB \" class=\"ext\" data-extlink=\"\" rel=\"noreferrer\" title=\"(opens in a new window)\">DrinkSense <span class=\"extlink-nobreak\">YouTube<svg focusable=\"false\" class=\"ext\" data-extlink-placement=\"append\" aria-label=\"(link is external)\" viewBox=\"0 0 80 40\" role=\"i"
+      },
+      {
+        "target": "#block-custom-block-96 > div > ul > li:nth-of-type(19) > a",
+        "text": "Informed Gambling Facebook",
+        "ariaLabel": "",
+        "title": "(opens in a new window)",
+        "href": "https://www.facebook.com/share/1APKjPA3SY/?mibextid=wwXIfr",
+        "imgAlt": "",
+        "box": {
+          "x": 983,
+          "y": 2347.359375,
+          "w": 202.1875,
+          "h": 17
+        },
+        "context": "Informed Gambling Facebook",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.facebook.com/share/1APKjPA3SY/?mibextid=wwXIfr\" class=\"ext\" data-extlink=\"\" rel=\"noreferrer\" title=\"(opens in a new window)\">Informed Gambling <span class=\"extlink-nobreak\">Facebook<svg focusable=\"false\" class=\"ext\" data-extlink-placement=\"append\" aria-label=\"(link is external)\""
+      },
+      {
+        "target": "#block-custom-block-96 > div > ul > li:nth-of-type(20) > a",
+        "text": "Informed Gambling Instagram",
+        "ariaLabel": "",
+        "title": "(opens in a new window)",
+        "href": "https://www.instagram.com/informedgamblingmbll?igsh=NTVlcDRta254MGh6",
+        "imgAlt": "",
+        "box": {
+          "x": 983,
+          "y": 2370.046875,
+          "w": 204.5625,
+          "h": 17
+        },
+        "context": "Informed Gambling Instagram",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.instagram.com/informedgamblingmbll?igsh=NTVlcDRta254MGh6\" class=\"ext\" data-extlink=\"\" rel=\"noreferrer\" title=\"(opens in a new window)\">Informed Gambling <span class=\"extlink-nobreak\">Instagram<svg focusable=\"false\" class=\"ext\" data-extlink-placement=\"append\" aria-label=\"(link is"
+      },
+      {
+        "target": "#block-custom-block-96 > div > ul > li:nth-of-type(21) > a",
+        "text": "Informed Gambling YouTube",
+        "ariaLabel": "",
+        "title": "(opens in a new window)",
+        "href": "https://youtube.com/@informedgamblingmbll?si=mDf2IoUXAOFCYiav",
+        "imgAlt": "",
+        "box": {
+          "x": 983,
+          "y": 2392.734375,
+          "w": 195.75,
+          "h": 17
+        },
+        "context": "Informed Gambling YouTube",
+        "contextKind": "li",
+        "html": "<a href=\"https://youtube.com/@informedgamblingmbll?si=mDf2IoUXAOFCYiav\" class=\"ext\" data-extlink=\"\" rel=\"noreferrer\" title=\"(opens in a new window)\">Informed Gambling <span class=\"extlink-nobreak\">YouTube<svg focusable=\"false\" class=\"ext\" data-extlink-placement=\"append\" aria-label=\"(link is external"
+      }
+    ],
+    "headings": [
+      {
+        "target": "#block-mbll-ca-subtheme-site-branding > div:nth-of-type(2) > div > h1",
+        "level": 1,
+        "text": "Manitoba Liquor & Lotteries",
+        "visible": true,
+        "box": {
+          "x": 496,
+          "y": 81,
+          "w": 355.96875,
+          "h": 40
+        },
+        "html": "<h1>\n          Manitoba Liquor &amp; Lotteries\n        </h1>"
+      },
+      {
+        "target": "#block-homepagetitletext > div > h2",
+        "level": 2,
+        "text": "I want to learn more about:",
+        "visible": true,
+        "box": {
+          "x": 128,
+          "y": 740.609375,
+          "w": 1110,
+          "h": 40
+        },
+        "html": "<h2>I want to learn more about:</h2>"
+      },
+      {
+        "target": "span > div > div > a > h3",
+        "level": 3,
+        "text": "Our Responsibilities",
+        "visible": true,
+        "box": {
+          "x": 159,
+          "y": 839.609375,
+          "w": 1048,
+          "h": 40
+        },
+        "html": "<h3>Our Responsibilities</h3>"
+      },
+      {
+        "target": "span > div > div > a > h3",
+        "level": 3,
+        "text": "Economic Impact",
+        "visible": true,
+        "box": {
+          "x": 159,
+          "y": 1119.609375,
+          "w": 308,
+          "h": 40
+        },
+        "html": "<h3>Economic Impact</h3>"
+      },
+      {
+        "target": "span > div > div > a > h3",
+        "level": 3,
+        "text": "Customer Well-Being",
+        "visible": true,
+        "box": {
+          "x": 529,
+          "y": 1119.609375,
+          "w": 308,
+          "h": 40
+        },
+        "html": "<h3>Customer Well-Being</h3>"
+      },
+      {
+        "target": "span > div > div > a > h3",
+        "level": 3,
+        "text": "Community Support",
+        "visible": true,
+        "box": {
+          "x": 899,
+          "y": 1119.609375,
+          "w": 308,
+          "h": 40
+        },
+        "html": "<h3>Community Support</h3>"
+      },
+      {
+        "target": "span > div > div > a > h3",
+        "level": 3,
+        "text": "Environmental Stewardship",
+        "visible": true,
+        "box": {
+          "x": 159,
+          "y": 1399.609375,
+          "w": 308,
+          "h": 40
+        },
+        "html": "<h3>Environmental Stewardship</h3>"
+      },
+      {
+        "target": "span > div > div > a > h3",
+        "level": 3,
+        "text": "Informed Gambling",
+        "visible": true,
+        "box": {
+          "x": 529,
+          "y": 1399.609375,
+          "w": 308,
+          "h": 40
+        },
+        "html": "<h3>Informed Gambling</h3>"
+      },
+      {
+        "target": "span > div > div > a > h3",
+        "level": 3,
+        "text": "DrinkSense",
+        "visible": true,
+        "box": {
+          "x": 899,
+          "y": 1399.609375,
+          "w": 308,
+          "h": 40
+        },
+        "html": "<h3>DrinkSense</h3>"
+      },
+      {
+        "target": "#block-custom-block-81 > div > h2",
+        "level": 2,
+        "text": "Quick Links",
+        "visible": true,
+        "box": {
+          "x": 128,
+          "y": 1736.609375,
+          "w": 1110,
+          "h": 40
+        },
+        "html": "<h2>Quick Links</h2>"
+      },
+      {
+        "target": "#block-custom-block-16 > h3",
+        "level": 3,
+        "text": "Useful Links",
+        "visible": true,
+        "box": {
+          "x": 128,
+          "y": 1847.296875,
+          "w": 255,
+          "h": 67
+        },
+        "html": "<h3>Useful Links</h3>"
+      },
+      {
+        "target": "#block-mbll-moreusefullinks > div > h3",
+        "level": 3,
+        "text": "Regulatory Links",
+        "visible": true,
+        "box": {
+          "x": 413,
+          "y": 1847.296875,
+          "w": 255,
+          "h": 67
+        },
+        "html": "<h3>Regulatory Links</h3>"
+      },
+      {
+        "target": "#block-custom-block-46 > h3",
+        "level": 3,
+        "text": "Our Products",
+        "visible": true,
+        "box": {
+          "x": 698,
+          "y": 1847.296875,
+          "w": 255,
+          "h": 67
+        },
+        "html": "<h3>Our Products</h3>"
+      },
+      {
+        "target": "#block-custom-block-96 > h3",
+        "level": 3,
+        "text": "Social Media Links",
+        "visible": true,
+        "box": {
+          "x": 983,
+          "y": 1847.296875,
+          "w": 255,
+          "h": 67
+        },
+        "html": "<h3>Social Media Links</h3>"
+      }
+    ],
+    "lang": "en",
+    "title": "Home | Manitoba Liquor & Lotteries"
+  },
   "axe": {
     "violationRules": 1,
     "violationNodes": 7,

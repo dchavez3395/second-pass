@@ -19,7 +19,2259 @@
     "width": 1366,
     "height": 900
   },
-  "scannedAt": "2026-09-19T06:20:21.876Z",
+  "scannedAt": "2026-09-19T23:52:42.022Z",
+  "content": {
+    "images": [
+      {
+        "target": "header > div:nth-of-type(2) > h1 > a > img",
+        "tag": "img",
+        "src": "https://www.thompson.ca/Content/images/logo.png",
+        "alt": "City of Thompson - Home",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 273,
+        "naturalHeight": 71,
+        "box": {
+          "x": 51.1875,
+          "y": 121.9375,
+          "w": 235.984375,
+          "h": 61.375
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img class=\"img-fluid\" src=\"/Content/images/logo.png\" alt=\"City of Thompson - Home\">"
+      },
+      {
+        "target": "div > div:nth-of-type(1) > div > a > img",
+        "tag": "img",
+        "src": "https://thompson2021.municipalwebsites.ca/UploadFiles/Highlights/Original/5b443119-56e9-478c-bf02-97d4a40d988f.jpg",
+        "alt": "Indoor Recreation",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 780,
+        "naturalHeight": 541,
+        "box": {
+          "x": -1434.239990234375,
+          "y": 1667.943115234375,
+          "w": 340.47998046875,
+          "h": 236.14501953125
+        },
+        "inLink": true,
+        "linkText": "INDOOR RECREATION Arenas & Skating",
+        "linkHref": "/p/arenas-skating",
+        "caption": "",
+        "nearText": "INDOOR RECREATION Arenas & Skating",
+        "html": "<img src=\"https://thompson2021.municipalwebsites.ca/UploadFiles/Highlights/Original/5b443119-56e9-478c-bf02-97d4a40d988f.jpg\" alt=\"Indoor Recreation\" class=\"card-img-top\">"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > div > a > img",
+        "tag": "img",
+        "src": "https://thompson2021.municipalwebsites.ca/UploadFiles/Highlights/Original/6e677be1-8afa-4ebd-a00d-d8d24ec8515f.jpg",
+        "alt": "Play Ball",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 780,
+        "naturalHeight": 541,
+        "box": {
+          "x": -1080.239990234375,
+          "y": 1667.943115234375,
+          "w": 340.47998046875,
+          "h": 236.14501953125
+        },
+        "inLink": true,
+        "linkText": "PLAY BALL Fields & Courts",
+        "linkHref": "/p/fields-courts",
+        "caption": "",
+        "nearText": "PLAY BALL Fields & Courts",
+        "html": "<img src=\"https://thompson2021.municipalwebsites.ca/UploadFiles/Highlights/Original/6e677be1-8afa-4ebd-a00d-d8d24ec8515f.jpg\" alt=\"Play Ball\" class=\"card-img-top\">"
+      },
+      {
+        "target": "div > div:nth-of-type(3) > div > a > img",
+        "tag": "img",
+        "src": "https://thompson2021.municipalwebsites.ca/UploadFiles/Highlights/Original/f8a35de7-87ed-491f-8720-14890d42acb8.jpg",
+        "alt": "Step Outside",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 780,
+        "naturalHeight": 541,
+        "box": {
+          "x": -726.239990234375,
+          "y": 1667.943115234375,
+          "w": 340.47998046875,
+          "h": 236.14501953125
+        },
+        "inLink": true,
+        "linkText": "STEP OUTSIDE Parks & Trails",
+        "linkHref": "/p/parks-trails",
+        "caption": "",
+        "nearText": "STEP OUTSIDE Parks & Trails",
+        "html": "<img src=\"https://thompson2021.municipalwebsites.ca/UploadFiles/Highlights/Original/f8a35de7-87ed-491f-8720-14890d42acb8.jpg\" alt=\"Step Outside\" class=\"card-img-top\">"
+      },
+      {
+        "target": "div > div:nth-of-type(4) > div > a > img",
+        "tag": "img",
+        "src": "https://thompson2021.municipalwebsites.ca/UploadFiles/Highlights/Original/09a64d74-656b-46cd-a838-60b1b28fb0a6.jpg",
+        "alt": "Mayor & Council",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 780,
+        "naturalHeight": 541,
+        "box": {
+          "x": -372.239990234375,
+          "y": 1667.943115234375,
+          "w": 340.47998046875,
+          "h": 236.14501953125
+        },
+        "inLink": true,
+        "linkText": "MAYOR & COUNCIL Meetings, minutes, and more.",
+        "linkHref": "https://thompson.ca/p/meetings-and-hearings",
+        "caption": "",
+        "nearText": "MAYOR & COUNCIL Meetings, minutes, and more.",
+        "html": "<img src=\"https://thompson2021.municipalwebsites.ca/UploadFiles/Highlights/Original/09a64d74-656b-46cd-a838-60b1b28fb0a6.jpg\" alt=\"Mayor &amp; Council\" class=\"card-img-top\">"
+      },
+      {
+        "target": "div > div:nth-of-type(5) > div > a > img",
+        "tag": "img",
+        "src": "https://thompson2021.municipalwebsites.ca/UploadFiles/Highlights/Original/6c17970e-0752-454f-99ca-b13f9418c261.jpg",
+        "alt": "TRCC",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 780,
+        "naturalHeight": 541,
+        "box": {
+          "x": -18.240005493164062,
+          "y": 1667.943115234375,
+          "w": 340.47998046875,
+          "h": 236.14501953125
+        },
+        "inLink": true,
+        "linkText": "TRCC Thompson Regional Community Centre",
+        "linkHref": "/p/thompson-regional-community-centre",
+        "caption": "",
+        "nearText": "TRCC Thompson Regional Community Centre",
+        "html": "<img src=\"https://thompson2021.municipalwebsites.ca/UploadFiles/Highlights/Original/6c17970e-0752-454f-99ca-b13f9418c261.jpg\" alt=\"TRCC\" class=\"card-img-top\">"
+      },
+      {
+        "target": "div > div:nth-of-type(6) > div > a > img",
+        "tag": "img",
+        "src": "https://thompson2021.municipalwebsites.ca/UploadFiles/Highlights/Original/5b443119-56e9-478c-bf02-97d4a40d988f.jpg",
+        "alt": "Indoor Recreation",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 780,
+        "naturalHeight": 541,
+        "box": {
+          "x": 335.760009765625,
+          "y": 1667.943115234375,
+          "w": 340.47998046875,
+          "h": 236.14501953125
+        },
+        "inLink": true,
+        "linkText": "INDOOR RECREATION Arenas & Skating",
+        "linkHref": "/p/arenas-skating",
+        "caption": "",
+        "nearText": "INDOOR RECREATION Arenas & Skating",
+        "html": "<img src=\"https://thompson2021.municipalwebsites.ca/UploadFiles/Highlights/Original/5b443119-56e9-478c-bf02-97d4a40d988f.jpg\" alt=\"Indoor Recreation\" class=\"card-img-top\">"
+      },
+      {
+        "target": "div > div:nth-of-type(7) > div > a > img",
+        "tag": "img",
+        "src": "https://thompson2021.municipalwebsites.ca/UploadFiles/Highlights/Original/6e677be1-8afa-4ebd-a00d-d8d24ec8515f.jpg",
+        "alt": "Play Ball",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 780,
+        "naturalHeight": 541,
+        "box": {
+          "x": 689.760009765625,
+          "y": 1667.943115234375,
+          "w": 340.47998046875,
+          "h": 236.14501953125
+        },
+        "inLink": true,
+        "linkText": "PLAY BALL Fields & Courts",
+        "linkHref": "/p/fields-courts",
+        "caption": "",
+        "nearText": "PLAY BALL Fields & Courts",
+        "html": "<img src=\"https://thompson2021.municipalwebsites.ca/UploadFiles/Highlights/Original/6e677be1-8afa-4ebd-a00d-d8d24ec8515f.jpg\" alt=\"Play Ball\" class=\"card-img-top\">"
+      },
+      {
+        "target": "div > div:nth-of-type(8) > div > a > img",
+        "tag": "img",
+        "src": "https://thompson2021.municipalwebsites.ca/UploadFiles/Highlights/Original/f8a35de7-87ed-491f-8720-14890d42acb8.jpg",
+        "alt": "Step Outside",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 780,
+        "naturalHeight": 541,
+        "box": {
+          "x": 1043.760009765625,
+          "y": 1667.943115234375,
+          "w": 340.47998046875,
+          "h": 236.14501953125
+        },
+        "inLink": true,
+        "linkText": "STEP OUTSIDE Parks & Trails",
+        "linkHref": "/p/parks-trails",
+        "caption": "",
+        "nearText": "STEP OUTSIDE Parks & Trails",
+        "html": "<img src=\"https://thompson2021.municipalwebsites.ca/UploadFiles/Highlights/Original/f8a35de7-87ed-491f-8720-14890d42acb8.jpg\" alt=\"Step Outside\" class=\"card-img-top\">"
+      },
+      {
+        "target": "div > div:nth-of-type(9) > div > a > img",
+        "tag": "img",
+        "src": "https://thompson2021.municipalwebsites.ca/UploadFiles/Highlights/Original/09a64d74-656b-46cd-a838-60b1b28fb0a6.jpg",
+        "alt": "Mayor & Council",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 780,
+        "naturalHeight": 541,
+        "box": {
+          "x": 1397.760009765625,
+          "y": 1667.943115234375,
+          "w": 340.47998046875,
+          "h": 236.14501953125
+        },
+        "inLink": true,
+        "linkText": "MAYOR & COUNCIL Meetings, minutes, and more.",
+        "linkHref": "https://thompson.ca/p/meetings-and-hearings",
+        "caption": "",
+        "nearText": "MAYOR & COUNCIL Meetings, minutes, and more.",
+        "html": "<img src=\"https://thompson2021.municipalwebsites.ca/UploadFiles/Highlights/Original/09a64d74-656b-46cd-a838-60b1b28fb0a6.jpg\" alt=\"Mayor &amp; Council\" class=\"card-img-top\">"
+      },
+      {
+        "target": "div > div:nth-of-type(10) > div > a > img",
+        "tag": "img",
+        "src": "https://thompson2021.municipalwebsites.ca/UploadFiles/Highlights/Original/6c17970e-0752-454f-99ca-b13f9418c261.jpg",
+        "alt": "TRCC",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 780,
+        "naturalHeight": 541,
+        "box": {
+          "x": 1751.760009765625,
+          "y": 1667.943115234375,
+          "w": 340.47998046875,
+          "h": 236.14501953125
+        },
+        "inLink": true,
+        "linkText": "TRCC Thompson Regional Community Centre",
+        "linkHref": "/p/thompson-regional-community-centre",
+        "caption": "",
+        "nearText": "TRCC Thompson Regional Community Centre",
+        "html": "<img src=\"https://thompson2021.municipalwebsites.ca/UploadFiles/Highlights/Original/6c17970e-0752-454f-99ca-b13f9418c261.jpg\" alt=\"TRCC\" class=\"card-img-top\">"
+      },
+      {
+        "target": "div > div:nth-of-type(11) > div > a > img",
+        "tag": "img",
+        "src": "https://thompson2021.municipalwebsites.ca/UploadFiles/Highlights/Original/5b443119-56e9-478c-bf02-97d4a40d988f.jpg",
+        "alt": "Indoor Recreation",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 780,
+        "naturalHeight": 541,
+        "box": {
+          "x": 2105.760009765625,
+          "y": 1667.943115234375,
+          "w": 340.47998046875,
+          "h": 236.14501953125
+        },
+        "inLink": true,
+        "linkText": "INDOOR RECREATION Arenas & Skating",
+        "linkHref": "/p/arenas-skating",
+        "caption": "",
+        "nearText": "INDOOR RECREATION Arenas & Skating",
+        "html": "<img src=\"https://thompson2021.municipalwebsites.ca/UploadFiles/Highlights/Original/5b443119-56e9-478c-bf02-97d4a40d988f.jpg\" alt=\"Indoor Recreation\" class=\"card-img-top\">"
+      },
+      {
+        "target": "div > div:nth-of-type(12) > div > a > img",
+        "tag": "img",
+        "src": "https://thompson2021.municipalwebsites.ca/UploadFiles/Highlights/Original/6e677be1-8afa-4ebd-a00d-d8d24ec8515f.jpg",
+        "alt": "Play Ball",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 780,
+        "naturalHeight": 541,
+        "box": {
+          "x": 2459.760009765625,
+          "y": 1667.943115234375,
+          "w": 340.47998046875,
+          "h": 236.14501953125
+        },
+        "inLink": true,
+        "linkText": "PLAY BALL Fields & Courts",
+        "linkHref": "/p/fields-courts",
+        "caption": "",
+        "nearText": "PLAY BALL Fields & Courts",
+        "html": "<img src=\"https://thompson2021.municipalwebsites.ca/UploadFiles/Highlights/Original/6e677be1-8afa-4ebd-a00d-d8d24ec8515f.jpg\" alt=\"Play Ball\" class=\"card-img-top\">"
+      },
+      {
+        "target": "div > div:nth-of-type(13) > div > a > img",
+        "tag": "img",
+        "src": "https://thompson2021.municipalwebsites.ca/UploadFiles/Highlights/Original/f8a35de7-87ed-491f-8720-14890d42acb8.jpg",
+        "alt": "Step Outside",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 780,
+        "naturalHeight": 541,
+        "box": {
+          "x": 2813.760009765625,
+          "y": 1667.943115234375,
+          "w": 340.47998046875,
+          "h": 236.14501953125
+        },
+        "inLink": true,
+        "linkText": "STEP OUTSIDE Parks & Trails",
+        "linkHref": "/p/parks-trails",
+        "caption": "",
+        "nearText": "STEP OUTSIDE Parks & Trails",
+        "html": "<img src=\"https://thompson2021.municipalwebsites.ca/UploadFiles/Highlights/Original/f8a35de7-87ed-491f-8720-14890d42acb8.jpg\" alt=\"Step Outside\" class=\"card-img-top\">"
+      },
+      {
+        "target": "div > div > div:nth-of-type(1) > div > img",
+        "tag": "img",
+        "src": "https://www.thompson.ca/Content/images/footer-logo.png",
+        "alt": null,
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 240,
+        "naturalHeight": 63,
+        "box": {
+          "x": 15,
+          "y": 2383.8125,
+          "w": 197.609375,
+          "h": 51.875
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "",
+        "html": "<img class=\"img-fluid\" src=\"/Content/images/footer-logo.png\">"
+      },
+      {
+        "target": "#downloadOurApp > div > img",
+        "tag": "img",
+        "src": "https://www.thompson.ca/Content/images/downloadOurAppimg.png",
+        "alt": "Apple Store",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 155,
+        "naturalHeight": 33,
+        "box": {
+          "x": 1174.640625,
+          "y": 2428,
+          "w": 155,
+          "h": 33
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "https://apps.apple.com/us/app/city-of-thompson/id1260667680",
+        "caption": "",
+        "nearText": "",
+        "html": "<img class=\"img-fluid\" src=\"/Content/images/downloadOurAppimg.png\" alt=\"Apple Store\">"
+      },
+      {
+        "target": "#GooglePlayStore > div > img",
+        "tag": "img",
+        "src": "https://www.thompson.ca/Content/images/fa-google-play.png",
+        "alt": "Google Play Store",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 155,
+        "naturalHeight": 33,
+        "box": {
+          "x": 1174.640625,
+          "y": 2499.375,
+          "w": 155,
+          "h": 33
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "https://play.google.com/store/apps/details?id=com.all_net.thompson",
+        "caption": "",
+        "nearText": "",
+        "html": "<img class=\"img-fluid\" src=\"/Content/images/fa-google-play.png\" alt=\"Google Play Store\">"
+      },
+      {
+        "target": "div > div:nth-of-type(4) > cite > a > img",
+        "tag": "img",
+        "src": "https://www.thompson.ca/Content/images/all-netBlack.svg",
+        "alt": "All-Net Municipal Solutions",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 615,
+        "naturalHeight": 194,
+        "box": {
+          "x": 1276,
+          "y": 2610.3125,
+          "w": 75,
+          "h": 23.65625
+        },
+        "inLink": true,
+        "linkText": "WEBSITE BY:",
+        "linkHref": "http://all-net.ca",
+        "caption": "",
+        "nearText": "WEBSITE BY:",
+        "html": "<img class=\"img-fluid\" alt=\"All-Net Municipal Solutions\" src=\"/Content/images/all-netBlack.svg\">"
+      }
+    ],
+    "links": [
+      {
+        "target": "#readspeaker_button1 > a",
+        "text": "Listen",
+        "ariaLabel": "Listen",
+        "title": "Listen to this page using ReadSpeaker webReader",
+        "href": "https://app-na.readspeaker.com/cgi-bin/rsent?customerid=14511&lang=en_au&readid=main&url=thompson.ca",
+        "imgAlt": "",
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 156.140625,
+          "h": 28
+        },
+        "context": "",
+        "contextKind": "none",
+        "html": "<a rel=\"nofollow\" class=\"rsbtn_play\" title=\"Listen to this page using ReadSpeaker webReader\" href=\"https://app-na.readspeaker.com/cgi-bin/rsent?customerid=14511&amp;lang=en_au&amp;readid=main&amp;url=thompson.ca\" role=\"button\" aria-label=\"Listen\" data-rs-tooltip=\".\" data-rs-direction=\"u\" aria-haspop"
+      },
+      {
+        "target": "body > div:nth-of-type(2) > ol > li:nth-of-type(1) > a",
+        "text": "Information like Address, Phone, and Email Address",
+        "ariaLabel": "",
+        "title": "Information about French River",
+        "href": "#headerTop",
+        "imgAlt": "",
+        "box": {
+          "x": 64,
+          "y": -159933,
+          "w": 228,
+          "h": 52.8125
+        },
+        "context": "Information like Address, Phone, and Email Address",
+        "contextKind": "li",
+        "html": "<a href=\"#headerTop\" class=\"stcLink\" accesskey=\"1\" title=\"Information about French River\">Information like Address, Phone, and Email Address</a>"
+      },
+      {
+        "target": "body > div:nth-of-type(2) > ol > li:nth-of-type(2) > a",
+        "text": "Main Navigation",
+        "ariaLabel": "",
+        "title": "Primary Site Navigation",
+        "href": "#desktopNav",
+        "imgAlt": "",
+        "box": {
+          "x": 64,
+          "y": -159880.1875,
+          "w": 228,
+          "h": 31.203125
+        },
+        "context": "Main Navigation",
+        "contextKind": "li",
+        "html": "<a href=\"#desktopNav\" class=\"stcLink\" accesskey=\"2\" title=\"Primary Site Navigation\">Main Navigation</a>"
+      },
+      {
+        "target": "body > div:nth-of-type(2) > ol > li:nth-of-type(3) > a",
+        "text": "Quick Links",
+        "ariaLabel": "",
+        "title": "Choose from the selection from the lists for quick information",
+        "href": "#quickLinks",
+        "imgAlt": "",
+        "box": {
+          "x": 64,
+          "y": -159848.984375,
+          "w": 228,
+          "h": 31.203125
+        },
+        "context": "Quick Links",
+        "contextKind": "li",
+        "html": "<a href=\"#quickLinks\" class=\"stcLink\" accesskey=\"3\" title=\"Choose from the selection from the lists for quick information\">Quick Links</a>"
+      },
+      {
+        "target": "body > div:nth-of-type(2) > ol > li:nth-of-type(4) > a",
+        "text": "Search The Website",
+        "ariaLabel": "",
+        "title": "Cant find what you are looking for? Search here",
+        "href": "#search-txt",
+        "imgAlt": "",
+        "box": {
+          "x": 64,
+          "y": -159817.78125,
+          "w": 228,
+          "h": 31.203125
+        },
+        "context": "Search The Website",
+        "contextKind": "li",
+        "html": "<a href=\"#search-txt\" class=\"stcLink\" accesskey=\"4\" title=\"Cant find what you are looking for? Search here\">Search The Website</a>"
+      },
+      {
+        "target": "body > div:nth-of-type(2) > ol > li:nth-of-type(5) > a",
+        "text": "Main Content",
+        "ariaLabel": "",
+        "title": "Skip and read the main content of the site",
+        "href": "#main",
+        "imgAlt": "",
+        "box": {
+          "x": 64,
+          "y": -159786.578125,
+          "w": 228,
+          "h": 31.203125
+        },
+        "context": "Main Content",
+        "contextKind": "li",
+        "html": "<a href=\"#main\" class=\"stcLink\" accesskey=\"5\" title=\"Skip and read the main content of the site\">Main Content</a>"
+      },
+      {
+        "target": "body > div:nth-of-type(2) > ol > li:nth-of-type(6) > a",
+        "text": "What's your view?",
+        "ariaLabel": "",
+        "title": "Vote Now!",
+        "href": "#footerTop",
+        "imgAlt": "",
+        "box": {
+          "x": 64,
+          "y": -159755.375,
+          "w": 228,
+          "h": 31.203125
+        },
+        "context": "What's your view?",
+        "contextKind": "li",
+        "html": "<a href=\"#footerTop\" class=\"stcLink\" accesskey=\"6\" title=\"Vote Now!\">What's your view?</a>"
+      },
+      {
+        "target": "body > div:nth-of-type(2) > ol > li:nth-of-type(7) > a",
+        "text": "Download The Mobile App",
+        "ariaLabel": "",
+        "title": "Download Mobile App For French River",
+        "href": "#downloadOurApp",
+        "imgAlt": "",
+        "box": {
+          "x": 64,
+          "y": -159724.171875,
+          "w": 228,
+          "h": 31.203125
+        },
+        "context": "Download The Mobile App",
+        "contextKind": "li",
+        "html": "<a href=\"#downloadOurApp\" class=\"stcLink\" accesskey=\"7\" title=\"Download Mobile App For French River\">Download The Mobile App</a>"
+      },
+      {
+        "target": "body > div:nth-of-type(2) > ol > li:nth-of-type(8) > a",
+        "text": "Get More Information",
+        "ariaLabel": "",
+        "title": "Company Information and Location",
+        "href": "#getInTouch",
+        "imgAlt": "",
+        "box": {
+          "x": 64,
+          "y": -159692.96875,
+          "w": 228,
+          "h": 31.203125
+        },
+        "context": "Get More Information",
+        "contextKind": "li",
+        "html": "<a href=\"#getInTouch\" class=\"stcLink\" accesskey=\"8\" title=\"Company Information and Location\">Get More Information</a>"
+      },
+      {
+        "target": "body > div:nth-of-type(2) > ol > li:nth-of-type(9) > a",
+        "text": "Register to our Enews",
+        "ariaLabel": "",
+        "title": "Click here to register to our Electronic Newsletter",
+        "href": "#btnRegister",
+        "imgAlt": "",
+        "box": {
+          "x": 64,
+          "y": -159661.765625,
+          "w": 228,
+          "h": 31.203125
+        },
+        "context": "Register to our Enews",
+        "contextKind": "li",
+        "html": "<a href=\"#btnRegister\" class=\"stcLink\" accesskey=\"9\" title=\"Click here to register to our Electronic Newsletter\">Register to our Enews</a>"
+      },
+      {
+        "target": "#headerTop",
+        "text": "226 MYSTERY LAKE ROAD, THOMPSON MB",
+        "ariaLabel": "",
+        "title": "Our office is located at 226 Mystery Lake Road, Thompson MB",
+        "href": "https://www.google.com/maps/place/City+of+Thompson/@55.7462081,-97.8494034,15z/data=!4m5!3m4!1s0x0:0xd6e50bf77a3a7bd8!8m2!3d55.7462081!4d-97.8494034",
+        "imgAlt": "",
+        "box": {
+          "x": 51.1875,
+          "y": 62.953125,
+          "w": 301.578125,
+          "h": 15
+        },
+        "context": "226 MYSTERY LAKE ROAD, THOMPSON MB",
+        "contextKind": "li",
+        "html": "<a id=\"headerTop\" class=\"hMap\" href=\"https://www.google.com/maps/place/City+of+Thompson/@55.7462081,-97.8494034,15z/data=!4m5!3m4!1s0x0:0xd6e50bf77a3a7bd8!8m2!3d55.7462081!4d-97.8494034\" title=\"Our office is located at 226 Mystery Lake Road, Thompson MB\" target=\"_blank\"><span>226 Mystery Lake Road, "
+      },
+      {
+        "target": "header > div:nth-of-type(1) > ul > li:nth-of-type(2) > a",
+        "text": "204-677-7910",
+        "ariaLabel": "",
+        "title": "Call us at +1204-677-7910",
+        "href": "tel:+1204-677-7910",
+        "imgAlt": "",
+        "box": {
+          "x": 378.53125,
+          "y": 62.953125,
+          "w": 112.828125,
+          "h": 15
+        },
+        "context": "204-677-7910",
+        "contextKind": "li",
+        "html": "<a class=\"hPhone\" href=\"tel:+1204-677-7910\" title=\"Call us at +1204-677-7910\"><span>204-677-7910</span></a>"
+      },
+      {
+        "target": "header > div:nth-of-type(1) > ul > li:nth-of-type(3) > a",
+        "text": "COMMUNICATIONS@THOMPSON.CA",
+        "ariaLabel": "",
+        "title": "Email us at communications@thompson.ca",
+        "href": "mailto:communications@thompson.ca",
+        "imgAlt": "",
+        "box": {
+          "x": 517.125,
+          "y": 62.953125,
+          "w": 262.65625,
+          "h": 15
+        },
+        "context": "COMMUNICATIONS@THOMPSON.CA",
+        "contextKind": "li",
+        "html": "<a class=\"hEmail\" href=\"mailto:communications@thompson.ca\" title=\"Email us at communications@thompson.ca\"><span>communications@thompson.ca</span></a>"
+      },
+      {
+        "target": "#socialMedia",
+        "text": "FACEBOOK",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.facebook.com/cityofthompson",
+        "imgAlt": "",
+        "box": {
+          "x": 805.546875,
+          "y": 62.953125,
+          "w": 9,
+          "h": 15
+        },
+        "context": "Stay Connected FACEBOOK TWITTER INSTAGRAM FLICKR",
+        "contextKind": "li",
+        "html": "<a id=\"socialMedia\" href=\"https://www.facebook.com/cityofthompson\" class=\"facebook\" title=\"\" target=\"_blank\" data-toggle=\"tooltip\" data-placement=\"top\" data-original-title=\"Join us in our Facebook page\"><span class=\"hideMe\">Facebook</span></a>"
+      },
+      {
+        "target": "div:nth-of-type(1) > ul > li:nth-of-type(4) > figure > a:nth-of-type(2)",
+        "text": "TWITTER",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://twitter.com/cityofthompson",
+        "imgAlt": "",
+        "box": {
+          "x": 840.3125,
+          "y": 62.953125,
+          "w": 13.8125,
+          "h": 15
+        },
+        "context": "Stay Connected FACEBOOK TWITTER INSTAGRAM FLICKR",
+        "contextKind": "li",
+        "html": "<a href=\"https://twitter.com/cityofthompson\" class=\"twitter\" title=\"\" target=\"_blank\" data-toggle=\"tooltip\" data-placement=\"top\" data-original-title=\"Keep updated on our daily tweets in our Twitter page\"><span class=\"hideMe\">Twitter</span></a>"
+      },
+      {
+        "target": "div:nth-of-type(1) > ul > li:nth-of-type(4) > figure > a:nth-of-type(3)",
+        "text": "INSTAGRAM",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.instagram.com/cothompson/",
+        "imgAlt": "",
+        "box": {
+          "x": 879.890625,
+          "y": 62.953125,
+          "w": 12.203125,
+          "h": 15
+        },
+        "context": "Stay Connected FACEBOOK TWITTER INSTAGRAM FLICKR",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.instagram.com/cothompson/\" class=\"instagram\" title=\"\" target=\"_blank\" data-toggle=\"tooltip\" data-placement=\"top\" data-original-title=\"Join us in our Instagram page\"><span class=\"hideMe\">Instagram</span></a>"
+      },
+      {
+        "target": "div:nth-of-type(1) > ul > li:nth-of-type(4) > figure > a:nth-of-type(4)",
+        "text": "FLICKR",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.flickr.com/people/thompsonmb/",
+        "imgAlt": "",
+        "box": {
+          "x": 917.859375,
+          "y": 62.953125,
+          "w": 12.203125,
+          "h": 15
+        },
+        "context": "Stay Connected FACEBOOK TWITTER INSTAGRAM FLICKR",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.flickr.com/people/thompsonmb/\" class=\"flickr\" title=\"\" target=\"_blank\" data-toggle=\"tooltip\" data-placement=\"top\" data-original-title=\"Watch our community videos on our flickr page\"><span class=\"hideMe\">flickr</span></a>"
+      },
+      {
+        "target": "body > header > div:nth-of-type(2) > h1 > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "Welcome to City of Thompson - Home",
+        "href": "/",
+        "imgAlt": "City of Thompson - Home",
+        "box": {
+          "x": 51.1875,
+          "y": 101.140625,
+          "w": 236,
+          "h": 102.96875
+        },
+        "context": "Main Navigation HOME SERVICES VISIT AND PLAY BUSINESS CITY HALL NEWS AND NOTICES I'D LIKE TO",
+        "contextKind": "block",
+        "html": "<a href=\"/\" title=\"Welcome to City of Thompson - Home\"><img class=\"img-fluid\" src=\"/Content/images/logo.png\" alt=\"City of Thompson - Home\"></a>"
+      },
+      {
+        "target": "#\\#categoryNavID0",
+        "text": "HOME",
+        "ariaLabel": "",
+        "title": "Go to home",
+        "href": "/",
+        "imgAlt": "",
+        "box": {
+          "x": 440.1875,
+          "y": 101.140625,
+          "w": 43.1875,
+          "h": 110.59375
+        },
+        "context": "HOME",
+        "contextKind": "li",
+        "html": "<a class=\"home menuonehovercolor\" href=\"/\" title=\"Go to home\" id=\"#categoryNavID0\" role=\"menuitem\"> <i class=\"far fa-home\"></i> <span class=\"hideMe\">Home</span></a>"
+      },
+      {
+        "target": "#\\#categoryNavID1",
+        "text": "SERVICES",
+        "ariaLabel": "",
+        "title": "Click to view Services",
+        "href": "/p/services",
+        "imgAlt": "",
+        "box": {
+          "x": 483.375,
+          "y": 101.140625,
+          "w": 111.125,
+          "h": 110.59375
+        },
+        "context": "SERVICES",
+        "contextKind": "li",
+        "html": "<a href=\"/p/services\" title=\"Click to view Services\" class=\"menuonehovercolor \" id=\"#categoryNavID1\" role=\"menuitem\" aria-haspopup=\"true\" aria-owns=\"subMainMenu0\" style=\"cursor: default;\">         Services </a>"
+      },
+      {
+        "target": "#\\#categoryNavID2",
+        "text": "VISIT AND PLAY",
+        "ariaLabel": "",
+        "title": "Click to view Visit and Play",
+        "href": "/p/visit-play",
+        "imgAlt": "",
+        "box": {
+          "x": 594.5,
+          "y": 101.140625,
+          "w": 166.25,
+          "h": 110.59375
+        },
+        "context": "VISIT AND PLAY",
+        "contextKind": "li",
+        "html": "<a href=\"/p/visit-play\" title=\"Click to view Visit and Play\" class=\"menuonehovercolor \" id=\"#categoryNavID2\" role=\"menuitem\" aria-haspopup=\"true\" aria-owns=\"subMainMenu1\" style=\"cursor: default;\">         Visit and Play </a>"
+      },
+      {
+        "target": "#\\#categoryNavID3",
+        "text": "BUSINESS",
+        "ariaLabel": "",
+        "title": "Click to view Business",
+        "href": "/p/business",
+        "imgAlt": "",
+        "box": {
+          "x": 760.75,
+          "y": 101.140625,
+          "w": 113.1875,
+          "h": 110.59375
+        },
+        "context": "BUSINESS",
+        "contextKind": "li",
+        "html": "<a href=\"/p/business\" title=\"Click to view Business\" class=\"menuonehovercolor \" id=\"#categoryNavID3\" role=\"menuitem\" aria-haspopup=\"true\" aria-owns=\"subMainMenu2\" style=\"cursor: default;\">         Business </a>"
+      },
+      {
+        "target": "#\\#categoryNavID4",
+        "text": "CITY HALL",
+        "ariaLabel": "",
+        "title": "Click to view City Hall",
+        "href": "/p/our-city",
+        "imgAlt": "",
+        "box": {
+          "x": 873.9375,
+          "y": 101.140625,
+          "w": 117.5625,
+          "h": 110.59375
+        },
+        "context": "CITY HALL",
+        "contextKind": "li",
+        "html": "<a href=\"/p/our-city\" title=\"Click to view City Hall\" class=\"menuonehovercolor \" id=\"#categoryNavID4\" role=\"menuitem\" aria-haspopup=\"true\" aria-owns=\"subMainMenu3\" style=\"cursor: default;\">         City Hall </a>"
+      },
+      {
+        "target": "#\\#categoryNavID5",
+        "text": "NEWS AND NOTICES",
+        "ariaLabel": "",
+        "title": "Click to view News and Notices",
+        "href": "/p/news-and-notices",
+        "imgAlt": "",
+        "box": {
+          "x": 991.5,
+          "y": 101.140625,
+          "w": 203.65625,
+          "h": 110.59375
+        },
+        "context": "NEWS AND NOTICES",
+        "contextKind": "li",
+        "html": "<a href=\"/p/news-and-notices\" title=\"Click to view News and Notices\" class=\"menuonehovercolor \" id=\"#categoryNavID5\" role=\"menuitem\" aria-haspopup=\"true\" aria-owns=\"subMainMenu4\" style=\"cursor: default;\">         News and Notices </a>"
+      },
+      {
+        "target": "#\\#imageCaption1 > div > a",
+        "text": "LEARN MORE",
+        "ariaLabel": "",
+        "title": "Click here to Register Today!",
+        "href": "https://thompson2021.municipalwebsites.ca/UploadFiles/Docs/GarbageSchedule20262027_PZew83.pdf",
+        "imgAlt": "",
+        "box": {
+          "x": 595.59375,
+          "y": 651.8125,
+          "w": 174.796875,
+          "h": 42.1875
+        },
+        "context": "WHEN IS MY GARBAGE DAY? CHECK SCHEDULE LEARN MORE",
+        "contextKind": "figcaption",
+        "html": "<a data-aos=\"fade-up\" data-aos-delay=\"300\" href=\"https://thompson2021.municipalwebsites.ca/UploadFiles/Docs/GarbageSchedule20262027_PZew83.pdf\" title=\"Click here to Register Today!\" class=\"aos-init aos-animate\">Learn More</a>"
+      },
+      {
+        "target": "#nav-LocalNotices-tab",
+        "text": "LOCAL NOTICES",
+        "ariaLabel": "",
+        "title": "",
+        "href": "#nav-LocalNotices",
+        "imgAlt": "",
+        "box": {
+          "x": 15,
+          "y": 890,
+          "w": 326.5,
+          "h": 65.1875
+        },
+        "context": "heading: News & Events",
+        "contextKind": "heading-only",
+        "html": "<a class=\"nav-item nav-link active\" id=\"nav-LocalNotices-tab\" data-toggle=\"tab\" href=\"#nav-LocalNotices\" role=\"tab\" aria-controls=\"nav-LocalNotices\" aria-selected=\"true\">Local Notices</a>"
+      },
+      {
+        "target": "#nav-UpcomingEvents-tab",
+        "text": "UPCOMING EVENTS",
+        "ariaLabel": "",
+        "title": "",
+        "href": "#nav-UpcomingEvents",
+        "imgAlt": "",
+        "box": {
+          "x": 341.5,
+          "y": 890,
+          "w": 326.5,
+          "h": 65.1875
+        },
+        "context": "heading: News & Events",
+        "contextKind": "heading-only",
+        "html": "<a class=\"nav-item nav-link\" id=\"nav-UpcomingEvents-tab\" data-toggle=\"tab\" href=\"#nav-UpcomingEvents\" role=\"tab\" aria-controls=\"nav-UpcomingEvents\" aria-selected=\"false\">Upcoming Events</a>"
+      },
+      {
+        "target": "#recentNewsCont > div > ul > li:nth-of-type(1) > a",
+        "text": "SEP 09 2026 | CIVICS NOTICE OF NOMINATIONS FOR 2026 GENERAL MUNICIPAL ELECTION",
+        "ariaLabel": "",
+        "title": "Click here to read more about the NOTICE OF NOMINATIONS FOR 2026 GENERAL MUNICIPAL ELECTION",
+        "href": "#",
+        "imgAlt": "",
+        "box": {
+          "x": 30,
+          "y": 956.1875,
+          "w": 623,
+          "h": 94.984375
+        },
+        "context": "SEP 09 2026 | CIVICS NOTICE OF NOMINATIONS FOR 2026 GENERAL MUNICIPAL ELECTION",
+        "contextKind": "li",
+        "html": "<a class=\"iconPost\" href=\"#\" data-toggle=\"modal\" data-target=\"#latestNews\" data-notice=\"/Home/NoticeDetailHome?noticeId=6d7c9f6c-de66-47fb-88eb-17972f722870\" title=\"Click here to read more about the NOTICE OF NOMINATIONS FOR 2026 GENERAL MUNICIPAL ELECTION\">\n                      <i class=\"fas fa-un"
+      },
+      {
+        "target": "#recentNewsCont > div > ul > li:nth-of-type(2) > a",
+        "text": "JUN 30 2026 | CIVICS REGISTRATION FOR COUNCILLOR & SCHOOL TRUSTEE CANDIDATES JUNE 30-SEPTEMBER 22",
+        "ariaLabel": "",
+        "title": "Click here to read more about the REGISTRATION FOR COUNCILLOR & SCHOOL TRUSTEE CANDIDATES JUNE 30-SEPTEMBER 22",
+        "href": "#",
+        "imgAlt": "",
+        "box": {
+          "x": 30,
+          "y": 1051.171875,
+          "w": 623,
+          "h": 95.984375
+        },
+        "context": "JUN 30 2026 | CIVICS REGISTRATION FOR COUNCILLOR & SCHOOL TRUSTEE CANDIDATES JUNE 30-SEPTEMBER 22",
+        "contextKind": "li",
+        "html": "<a class=\"iconPost\" href=\"#\" data-toggle=\"modal\" data-target=\"#latestNews\" data-notice=\"/Home/NoticeDetailHome?noticeId=7cb7381c-9e41-4239-9a19-8b292240cbd0\" title=\"Click here to read more about the REGISTRATION FOR COUNCILLOR &amp; SCHOOL TRUSTEE CANDIDATES JUNE 30-SEPTEMBER 22\">\n                  "
+      },
+      {
+        "target": "#recentNewsCont > div > ul > li:nth-of-type(3) > a",
+        "text": "SEP 19 2026 | GARBAGE AND RECYCLING WASTE DISPOSAL GROUNDS HOURS SEPTEMBER 19",
+        "ariaLabel": "",
+        "title": "Click here to read more about the WASTE DISPOSAL GROUNDS HOURS SEPTEMBER 19",
+        "href": "#",
+        "imgAlt": "",
+        "box": {
+          "x": 30,
+          "y": 1147.15625,
+          "w": 623,
+          "h": 95.984375
+        },
+        "context": "SEP 19 2026 | GARBAGE AND RECYCLING WASTE DISPOSAL GROUNDS HOURS SEPTEMBER 19",
+        "contextKind": "li",
+        "html": "<a class=\"iconPost\" href=\"#\" data-toggle=\"modal\" data-target=\"#latestNews\" data-notice=\"/Home/NoticeDetailHome?noticeId=1dcff0b1-d8b0-4977-8f60-6c0e8b5c18fa\" title=\"Click here to read more about the WASTE DISPOSAL GROUNDS HOURS SEPTEMBER 19\">\n                      <i class=\"fas fa-trash\"></i>\n      "
+      },
+      {
+        "target": "#recentNewsCont > div > ul > li:nth-of-type(4) > a",
+        "text": "SEP 19 2026 | TRCC DROP-IN PICKLEBALL SEPTEMBER 19",
+        "ariaLabel": "",
+        "title": "Click here to read more about the DROP-IN PICKLEBALL SEPTEMBER 19",
+        "href": "#",
+        "imgAlt": "",
+        "box": {
+          "x": 30,
+          "y": 1243.140625,
+          "w": 623,
+          "h": 95.984375
+        },
+        "context": "SEP 19 2026 | TRCC DROP-IN PICKLEBALL SEPTEMBER 19",
+        "contextKind": "li",
+        "html": "<a class=\"iconPost\" href=\"#\" data-toggle=\"modal\" data-target=\"#latestNews\" data-notice=\"/Home/NoticeDetailHome?noticeId=9c1ef8e3-e8ed-417c-8b72-2969e7e7acd0\" title=\"Click here to read more about the DROP-IN PICKLEBALL SEPTEMBER 19\">\n                      <i class=\"fas fa-basketball-hoop\"></i>\n      "
+      },
+      {
+        "target": "#recentNewsCont > p > a:nth-of-type(1)",
+        "text": "VIEW ALL NOTICES",
+        "ariaLabel": "",
+        "title": "Click here to View All Notices",
+        "href": "/p/local-notices",
+        "imgAlt": "",
+        "box": {
+          "x": 31,
+          "y": 1352.9375,
+          "w": 220,
+          "h": 50.1875
+        },
+        "context": "VIEW ALL NOTICES SUBMIT A NOTICE",
+        "contextKind": "p",
+        "html": "<a href=\"/p/local-notices\" title=\"Click here to View All Notices\">View All Notices</a>"
+      },
+      {
+        "target": "#recentNewsCont > p > a:nth-of-type(2)",
+        "text": "SUBMIT A NOTICE",
+        "ariaLabel": "",
+        "title": "Click here to Submit a Notice",
+        "href": "/p/add-notice",
+        "imgAlt": "",
+        "box": {
+          "x": 432,
+          "y": 1352.9375,
+          "w": 220,
+          "h": 50.1875
+        },
+        "context": "VIEW ALL NOTICES SUBMIT A NOTICE",
+        "contextKind": "p",
+        "html": "<a href=\"/p/add-notice\" title=\"Click here to Submit a Notice\">Submit a Notice</a>"
+      },
+      {
+        "target": "div > div > div:nth-of-type(2) > h3 > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "#main",
+        "imgAlt": "",
+        "box": {
+          "x": 1324.5,
+          "y": 696,
+          "w": 26.5,
+          "h": 24
+        },
+        "context": "heading: HOW DO I ... | HOW DO I ... OUTDOOR FIRE PIT PERMITS SIGN UP FOR PAPERLESS WATER BILLS PAY BILLS BY E-TRANSFER APPLY FOR A BUILDING PERMIT OPEN OR CLOSE A WATER UTILITY ACCOUNT CONTACT CITY STAFF",
+        "contextKind": "block",
+        "html": "<a href=\"#main\"><i class=\"fas fa-chevron-down\"></i></a>"
+      },
+      {
+        "target": "#quickLinks > div > div:nth-of-type(1) > a",
+        "text": "OUTDOOR FIRE PIT PERMITS",
+        "ariaLabel": "",
+        "title": "Click here to read more about Outdoor Fire Pit Permits",
+        "href": "/p/fire-pit-permits",
+        "imgAlt": "",
+        "box": {
+          "x": 698,
+          "y": 788,
+          "w": 311.5,
+          "h": 118.796875
+        },
+        "context": "heading: HOW DO I ... | OUTDOOR FIRE PIT PERMITS SIGN UP FOR PAPERLESS WATER BILLS PAY BILLS BY E-TRANSFER APPLY FOR A BUILDING PERMIT OPEN OR CLOSE A WATER UTILITY ACCOUNT CONTACT CITY STAFF",
+        "contextKind": "block",
+        "html": "<a title=\"Click here to read more about Outdoor Fire Pit Permits\" href=\"/p/fire-pit-permits\"><i class=\"fas fa-fire\"></i><span>Outdoor Fire Pit Permits</span></a>"
+      },
+      {
+        "target": "#quickLinks > div > div:nth-of-type(2) > a",
+        "text": "SIGN UP FOR PAPERLESS WATER BILLS",
+        "ariaLabel": "",
+        "title": "Click here to read more about Sign up for Paperless Water Bills",
+        "href": "https://cityofthompson.formstack.com/forms/paperlesswaterbillsignup",
+        "imgAlt": "",
+        "box": {
+          "x": 1039.5,
+          "y": 788,
+          "w": 311.5,
+          "h": 160
+        },
+        "context": "heading: HOW DO I ... | OUTDOOR FIRE PIT PERMITS SIGN UP FOR PAPERLESS WATER BILLS PAY BILLS BY E-TRANSFER APPLY FOR A BUILDING PERMIT OPEN OR CLOSE A WATER UTILITY ACCOUNT CONTACT CITY STAFF",
+        "contextKind": "block",
+        "html": "<a title=\"Click here to read more about Sign up for Paperless Water Bills\" href=\"https://cityofthompson.formstack.com/forms/paperlesswaterbillsignup\"><i class=\"fas fa-tint\"></i><span>Sign up for Paperless Water Bills</span></a>"
+      },
+      {
+        "target": "#quickLinks > div > div:nth-of-type(3) > a",
+        "text": "PAY BILLS BY E-TRANSFER",
+        "ariaLabel": "",
+        "title": "Click here to read more about Pay Bills By E-Transfer",
+        "href": "/p/paying-bills-by-e-transfer",
+        "imgAlt": "",
+        "box": {
+          "x": 698,
+          "y": 980,
+          "w": 311.5,
+          "h": 118.796875
+        },
+        "context": "heading: HOW DO I ... | OUTDOOR FIRE PIT PERMITS SIGN UP FOR PAPERLESS WATER BILLS PAY BILLS BY E-TRANSFER APPLY FOR A BUILDING PERMIT OPEN OR CLOSE A WATER UTILITY ACCOUNT CONTACT CITY STAFF",
+        "contextKind": "block",
+        "html": "<a title=\"Click here to read more about Pay Bills By E-Transfer\" href=\"/p/paying-bills-by-e-transfer\"><i class=\"fas fa-hand-holding-usd\"></i><span>Pay Bills By E-Transfer</span></a>"
+      },
+      {
+        "target": "#quickLinks > div > div:nth-of-type(4) > a",
+        "text": "APPLY FOR A BUILDING PERMIT",
+        "ariaLabel": "",
+        "title": "Click here to read more about Apply for a Building Permit",
+        "href": "https://ca.cloudpermit.com/thompson/",
+        "imgAlt": "",
+        "box": {
+          "x": 1039.5,
+          "y": 980,
+          "w": 311.5,
+          "h": 118.796875
+        },
+        "context": "heading: HOW DO I ... | OUTDOOR FIRE PIT PERMITS SIGN UP FOR PAPERLESS WATER BILLS PAY BILLS BY E-TRANSFER APPLY FOR A BUILDING PERMIT OPEN OR CLOSE A WATER UTILITY ACCOUNT CONTACT CITY STAFF",
+        "contextKind": "block",
+        "html": "<a title=\"Click here to read more about Apply for a Building Permit\" href=\"https://ca.cloudpermit.com/thompson/\"><i class=\"fas fa-wrench\"></i><span>Apply for a Building Permit</span></a>"
+      },
+      {
+        "target": "#quickLinks > div > div:nth-of-type(5) > a",
+        "text": "OPEN OR CLOSE A WATER UTILITY ACCOUNT",
+        "ariaLabel": "",
+        "title": "Click here to read more about Open or Close a Water Utility Account",
+        "href": "https://cityofthompson.formstack.com/forms/water_utility_residential_customer_information_form",
+        "imgAlt": "",
+        "box": {
+          "x": 698,
+          "y": 1130.796875,
+          "w": 311.5,
+          "h": 139.796875
+        },
+        "context": "heading: HOW DO I ... | OUTDOOR FIRE PIT PERMITS SIGN UP FOR PAPERLESS WATER BILLS PAY BILLS BY E-TRANSFER APPLY FOR A BUILDING PERMIT OPEN OR CLOSE A WATER UTILITY ACCOUNT CONTACT CITY STAFF",
+        "contextKind": "block",
+        "html": "<a title=\"Click here to read more about Open or Close a Water Utility Account\" href=\"https://cityofthompson.formstack.com/forms/water_utility_residential_customer_information_form\"><i class=\"fas fa-tint\"></i><span>Open or Close a Water Utility Account</span></a>"
+      },
+      {
+        "target": "#quickLinks > div > div:nth-of-type(6) > a",
+        "text": "CONTACT CITY STAFF",
+        "ariaLabel": "",
+        "title": "Click here to read more about Contact City Staff",
+        "href": "/p/contact-us",
+        "imgAlt": "",
+        "box": {
+          "x": 1039.5,
+          "y": 1130.796875,
+          "w": 311.5,
+          "h": 118.796875
+        },
+        "context": "heading: HOW DO I ... | OUTDOOR FIRE PIT PERMITS SIGN UP FOR PAPERLESS WATER BILLS PAY BILLS BY E-TRANSFER APPLY FOR A BUILDING PERMIT OPEN OR CLOSE A WATER UTILITY ACCOUNT CONTACT CITY STAFF",
+        "contextKind": "block",
+        "html": "<a title=\"Click here to read more about Contact City Staff\" href=\"/p/contact-us\"><i class=\"fas fa-phone\"></i><span>Contact City Staff</span></a>"
+      },
+      {
+        "target": "div:nth-of-type(1) > div > div:nth-of-type(1) > div > a",
+        "text": "INDOOR RECREATION Arenas & Skating",
+        "ariaLabel": "",
+        "title": "Indoor Recreation - Arenas & Skating",
+        "href": "/p/arenas-skating",
+        "imgAlt": "Indoor Recreation",
+        "box": {
+          "x": -1416,
+          "y": 1680.59375,
+          "w": 304,
+          "h": 210.84375
+        },
+        "context": "heading: DISCOVER OPPORTUNITIES THOMPSON SERVICES",
+        "contextKind": "heading-only",
+        "html": "<a class=\"card\" href=\"/p/arenas-skating\" target=\"_blank\" title=\"Indoor Recreation - Arenas &amp; Skating\">\n\t\t\t\t\t<img src=\"https://thompson2021.municipalwebsites.ca/UploadFiles/Highlights/Original/5b443119-56e9-478c-bf02-97d4a40d988f.jpg\" alt=\"Indoor Recreation\" class=\"card-img-top\">\n\t\t\t\t\t<div class="
+      },
+      {
+        "target": "div:nth-of-type(1) > div > div:nth-of-type(2) > div > a",
+        "text": "PLAY BALL Fields & Courts",
+        "ariaLabel": "",
+        "title": "Play Ball - Fields & Courts",
+        "href": "/p/fields-courts",
+        "imgAlt": "Play Ball",
+        "box": {
+          "x": -1062,
+          "y": 1680.59375,
+          "w": 304,
+          "h": 210.84375
+        },
+        "context": "heading: INDOOR RECREATION",
+        "contextKind": "heading-only",
+        "html": "<a class=\"card\" href=\"/p/fields-courts\" target=\"_blank\" title=\"Play Ball - Fields &amp; Courts\">\n\t\t\t\t\t<img src=\"https://thompson2021.municipalwebsites.ca/UploadFiles/Highlights/Original/6e677be1-8afa-4ebd-a00d-d8d24ec8515f.jpg\" alt=\"Play Ball\" class=\"card-img-top\">\n\t\t\t\t\t<div class=\"card-body\">\n\t\t\t\t\t"
+      },
+      {
+        "target": "div:nth-of-type(1) > div > div:nth-of-type(3) > div > a",
+        "text": "STEP OUTSIDE Parks & Trails",
+        "ariaLabel": "",
+        "title": "Step Outside - Parks & Trails",
+        "href": "/p/parks-trails",
+        "imgAlt": "Step Outside",
+        "box": {
+          "x": -708,
+          "y": 1680.59375,
+          "w": 304,
+          "h": 210.84375
+        },
+        "context": "heading: PLAY BALL",
+        "contextKind": "heading-only",
+        "html": "<a class=\"card\" href=\"/p/parks-trails\" target=\"_blank\" title=\"Step Outside - Parks &amp; Trails\">\n\t\t\t\t\t<img src=\"https://thompson2021.municipalwebsites.ca/UploadFiles/Highlights/Original/f8a35de7-87ed-491f-8720-14890d42acb8.jpg\" alt=\"Step Outside\" class=\"card-img-top\">\n\t\t\t\t\t<div class=\"card-body\">\n\t"
+      },
+      {
+        "target": "div:nth-of-type(1) > div > div:nth-of-type(4) > div > a",
+        "text": "MAYOR & COUNCIL Meetings, minutes, and more.",
+        "ariaLabel": "",
+        "title": "Mayor & Council - Meetings, minutes, and more.",
+        "href": "https://thompson.ca/p/meetings-and-hearings",
+        "imgAlt": "Mayor & Council",
+        "box": {
+          "x": -354,
+          "y": 1680.59375,
+          "w": 304,
+          "h": 210.84375
+        },
+        "context": "heading: STEP OUTSIDE | MAYOR & COUNCIL Meetings, minutes, and more.",
+        "contextKind": "block",
+        "html": "<a class=\"card\" href=\"https://thompson.ca/p/meetings-and-hearings\" target=\"_blank\" title=\"Mayor &amp; Council - Meetings, minutes, and more.\">\n\t\t\t\t\t<img src=\"https://thompson2021.municipalwebsites.ca/UploadFiles/Highlights/Original/09a64d74-656b-46cd-a838-60b1b28fb0a6.jpg\" alt=\"Mayor &amp; Council\" "
+      },
+      {
+        "target": "div:nth-of-type(1) > div > div:nth-of-type(5) > div > a",
+        "text": "TRCC Thompson Regional Community Centre",
+        "ariaLabel": "",
+        "title": "TRCC - Thompson Regional Community Centre",
+        "href": "/p/thompson-regional-community-centre",
+        "imgAlt": "TRCC",
+        "box": {
+          "x": 0,
+          "y": 1680.59375,
+          "w": 304,
+          "h": 210.84375
+        },
+        "context": "heading: MAYOR & COUNCIL",
+        "contextKind": "heading-only",
+        "html": "<a class=\"card\" href=\"/p/thompson-regional-community-centre\" target=\"_blank\" title=\"TRCC - Thompson Regional Community Centre\">\n\t\t\t\t\t<img src=\"https://thompson2021.municipalwebsites.ca/UploadFiles/Highlights/Original/6c17970e-0752-454f-99ca-b13f9418c261.jpg\" alt=\"TRCC\" class=\"card-img-top\">\n\t\t\t\t\t<di"
+      },
+      {
+        "target": "div:nth-of-type(1) > div > div:nth-of-type(6) > div > a",
+        "text": "INDOOR RECREATION Arenas & Skating",
+        "ariaLabel": "",
+        "title": "Indoor Recreation - Arenas & Skating",
+        "href": "/p/arenas-skating",
+        "imgAlt": "Indoor Recreation",
+        "box": {
+          "x": 354,
+          "y": 1680.59375,
+          "w": 304,
+          "h": 210.84375
+        },
+        "context": "heading: TRCC",
+        "contextKind": "heading-only",
+        "html": "<a class=\"card\" href=\"/p/arenas-skating\" target=\"_blank\" title=\"Indoor Recreation - Arenas &amp; Skating\">\n\t\t\t\t\t<img src=\"https://thompson2021.municipalwebsites.ca/UploadFiles/Highlights/Original/5b443119-56e9-478c-bf02-97d4a40d988f.jpg\" alt=\"Indoor Recreation\" class=\"card-img-top\">\n\t\t\t\t\t<div class="
+      },
+      {
+        "target": "div:nth-of-type(1) > div > div:nth-of-type(7) > div > a",
+        "text": "PLAY BALL Fields & Courts",
+        "ariaLabel": "",
+        "title": "Play Ball - Fields & Courts",
+        "href": "/p/fields-courts",
+        "imgAlt": "Play Ball",
+        "box": {
+          "x": 708,
+          "y": 1680.59375,
+          "w": 304,
+          "h": 210.84375
+        },
+        "context": "heading: INDOOR RECREATION",
+        "contextKind": "heading-only",
+        "html": "<a class=\"card\" href=\"/p/fields-courts\" target=\"_blank\" title=\"Play Ball - Fields &amp; Courts\">\n\t\t\t\t\t<img src=\"https://thompson2021.municipalwebsites.ca/UploadFiles/Highlights/Original/6e677be1-8afa-4ebd-a00d-d8d24ec8515f.jpg\" alt=\"Play Ball\" class=\"card-img-top\">\n\t\t\t\t\t<div class=\"card-body\">\n\t\t\t\t\t"
+      },
+      {
+        "target": "div:nth-of-type(1) > div > div:nth-of-type(8) > div > a",
+        "text": "STEP OUTSIDE Parks & Trails",
+        "ariaLabel": "",
+        "title": "Step Outside - Parks & Trails",
+        "href": "/p/parks-trails",
+        "imgAlt": "Step Outside",
+        "box": {
+          "x": 1062,
+          "y": 1680.59375,
+          "w": 304,
+          "h": 210.84375
+        },
+        "context": "heading: PLAY BALL",
+        "contextKind": "heading-only",
+        "html": "<a class=\"card\" href=\"/p/parks-trails\" target=\"_blank\" title=\"Step Outside - Parks &amp; Trails\">\n\t\t\t\t\t<img src=\"https://thompson2021.municipalwebsites.ca/UploadFiles/Highlights/Original/f8a35de7-87ed-491f-8720-14890d42acb8.jpg\" alt=\"Step Outside\" class=\"card-img-top\">\n\t\t\t\t\t<div class=\"card-body\">\n\t"
+      },
+      {
+        "target": "div:nth-of-type(1) > div > div:nth-of-type(9) > div > a",
+        "text": "MAYOR & COUNCIL Meetings, minutes, and more.",
+        "ariaLabel": "",
+        "title": "Mayor & Council - Meetings, minutes, and more.",
+        "href": "https://thompson.ca/p/meetings-and-hearings",
+        "imgAlt": "Mayor & Council",
+        "box": {
+          "x": 1416,
+          "y": 1680.59375,
+          "w": 304,
+          "h": 210.84375
+        },
+        "context": "heading: STEP OUTSIDE | MAYOR & COUNCIL Meetings, minutes, and more.",
+        "contextKind": "block",
+        "html": "<a class=\"card\" href=\"https://thompson.ca/p/meetings-and-hearings\" target=\"_blank\" title=\"Mayor &amp; Council - Meetings, minutes, and more.\">\n\t\t\t\t\t<img src=\"https://thompson2021.municipalwebsites.ca/UploadFiles/Highlights/Original/09a64d74-656b-46cd-a838-60b1b28fb0a6.jpg\" alt=\"Mayor &amp; Council\" "
+      },
+      {
+        "target": "div:nth-of-type(1) > div > div:nth-of-type(10) > div > a",
+        "text": "TRCC Thompson Regional Community Centre",
+        "ariaLabel": "",
+        "title": "TRCC - Thompson Regional Community Centre",
+        "href": "/p/thompson-regional-community-centre",
+        "imgAlt": "TRCC",
+        "box": {
+          "x": 1770,
+          "y": 1680.59375,
+          "w": 304,
+          "h": 210.84375
+        },
+        "context": "heading: MAYOR & COUNCIL",
+        "contextKind": "heading-only",
+        "html": "<a class=\"card\" href=\"/p/thompson-regional-community-centre\" target=\"_blank\" title=\"TRCC - Thompson Regional Community Centre\">\n\t\t\t\t\t<img src=\"https://thompson2021.municipalwebsites.ca/UploadFiles/Highlights/Original/6c17970e-0752-454f-99ca-b13f9418c261.jpg\" alt=\"TRCC\" class=\"card-img-top\">\n\t\t\t\t\t<di"
+      },
+      {
+        "target": "div:nth-of-type(1) > div > div:nth-of-type(11) > div > a",
+        "text": "INDOOR RECREATION Arenas & Skating",
+        "ariaLabel": "",
+        "title": "Indoor Recreation - Arenas & Skating",
+        "href": "/p/arenas-skating",
+        "imgAlt": "Indoor Recreation",
+        "box": {
+          "x": 2124,
+          "y": 1680.59375,
+          "w": 304,
+          "h": 210.84375
+        },
+        "context": "heading: TRCC",
+        "contextKind": "heading-only",
+        "html": "<a class=\"card\" href=\"/p/arenas-skating\" target=\"_blank\" title=\"Indoor Recreation - Arenas &amp; Skating\">\n\t\t\t\t\t<img src=\"https://thompson2021.municipalwebsites.ca/UploadFiles/Highlights/Original/5b443119-56e9-478c-bf02-97d4a40d988f.jpg\" alt=\"Indoor Recreation\" class=\"card-img-top\">\n\t\t\t\t\t<div class="
+      },
+      {
+        "target": "div:nth-of-type(1) > div > div:nth-of-type(12) > div > a",
+        "text": "PLAY BALL Fields & Courts",
+        "ariaLabel": "",
+        "title": "Play Ball - Fields & Courts",
+        "href": "/p/fields-courts",
+        "imgAlt": "Play Ball",
+        "box": {
+          "x": 2478,
+          "y": 1680.59375,
+          "w": 304,
+          "h": 210.84375
+        },
+        "context": "heading: INDOOR RECREATION",
+        "contextKind": "heading-only",
+        "html": "<a class=\"card\" href=\"/p/fields-courts\" target=\"_blank\" title=\"Play Ball - Fields &amp; Courts\">\n\t\t\t\t\t<img src=\"https://thompson2021.municipalwebsites.ca/UploadFiles/Highlights/Original/6e677be1-8afa-4ebd-a00d-d8d24ec8515f.jpg\" alt=\"Play Ball\" class=\"card-img-top\">\n\t\t\t\t\t<div class=\"card-body\">\n\t\t\t\t\t"
+      },
+      {
+        "target": "div:nth-of-type(1) > div > div:nth-of-type(13) > div > a",
+        "text": "STEP OUTSIDE Parks & Trails",
+        "ariaLabel": "",
+        "title": "Step Outside - Parks & Trails",
+        "href": "/p/parks-trails",
+        "imgAlt": "Step Outside",
+        "box": {
+          "x": 2832,
+          "y": 1680.59375,
+          "w": 304,
+          "h": 210.84375
+        },
+        "context": "heading: PLAY BALL",
+        "contextKind": "heading-only",
+        "html": "<a class=\"card\" href=\"/p/parks-trails\" target=\"_blank\" title=\"Step Outside - Parks &amp; Trails\">\n\t\t\t\t\t<img src=\"https://thompson2021.municipalwebsites.ca/UploadFiles/Highlights/Original/f8a35de7-87ed-491f-8720-14890d42acb8.jpg\" alt=\"Step Outside\" class=\"card-img-top\">\n\t\t\t\t\t<div class=\"card-body\">\n\t"
+      },
+      {
+        "target": "div:nth-of-type(2) > div > ul > li:nth-of-type(1) > a",
+        "text": "MAYOR & COUNCIL 204-677-7926",
+        "ariaLabel": "",
+        "title": "",
+        "href": "tel:+1-204-677-7926",
+        "imgAlt": "",
+        "box": {
+          "x": 251.15625,
+          "y": 2417.8125,
+          "w": 141.40625,
+          "h": 18
+        },
+        "context": "MAYOR & COUNCIL 204-677-7926",
+        "contextKind": "li",
+        "html": "<a href=\"tel:+1-204-677-7926\">Mayor &amp; COUNCIL <span>204-677-7926</span></a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div > ul > li:nth-of-type(2) > a",
+        "text": "CITY MANAGER 204-677-7951",
+        "ariaLabel": "",
+        "title": "",
+        "href": "tel:+1-204-677-7951",
+        "imgAlt": "",
+        "box": {
+          "x": 251.15625,
+          "y": 2444.21875,
+          "w": 116.359375,
+          "h": 18
+        },
+        "context": "CITY MANAGER 204-677-7951",
+        "contextKind": "li",
+        "html": "<a href=\"tel:+1-204-677-7951\">CITY MANAGER <span>204-677-7951</span></a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div > ul > li:nth-of-type(3) > a",
+        "text": "GENERAL INQUIRIES 204-677-7910",
+        "ariaLabel": "",
+        "title": "",
+        "href": "tel:+1-204-677-7910",
+        "imgAlt": "",
+        "box": {
+          "x": 251.15625,
+          "y": 2470.625,
+          "w": 151.859375,
+          "h": 18
+        },
+        "context": "GENERAL INQUIRIES 204-677-7910",
+        "contextKind": "li",
+        "html": "<a href=\"tel:+1-204-677-7910\">GENERAL INQUIRIES <span>204-677-7910</span></a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div > ul > li:nth-of-type(4) > a",
+        "text": "DIRECTOR OF PUBLIC WORKS 204-677-7973",
+        "ariaLabel": "",
+        "title": "",
+        "href": "tel:+1-204-677-7973",
+        "imgAlt": "",
+        "box": {
+          "x": 251.15625,
+          "y": 2497.03125,
+          "w": 219.734375,
+          "h": 18
+        },
+        "context": "DIRECTOR OF PUBLIC WORKS 204-677-7973",
+        "contextKind": "li",
+        "html": "<a href=\"tel:+1-204-677-7973\">DIRECTOR OF PUBLIC WORKS <span>204-677-7973</span></a>"
+      },
+      {
+        "target": "div > div > div:nth-of-type(2) > div > a",
+        "text": "VIEW THE FULL STAFF DIRECTORY",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/p/contact-us",
+        "imgAlt": "",
+        "box": {
+          "x": 251.15625,
+          "y": 2532.03125,
+          "w": 305.78125,
+          "h": 24
+        },
+        "context": "heading: PHONE NUMBERS | PHONE NUMBERS MAYOR & COUNCIL 204-677-7926 CITY MANAGER 204-677-7951 GENERAL INQUIRIES 204-677-7910 DIRECTOR OF PUBLIC WORKS 204-677-7973 VIEW THE FULL STAFF DIRECTORY",
+        "contextKind": "block",
+        "html": "<a class=\"directorylink\" href=\"/p/contact-us\"><i class=\"fas fa-book-open\"></i> VIEW THE FULL STAFF DIRECTORY</a>"
+      },
+      {
+        "target": "div:nth-of-type(3) > div > ul > li:nth-of-type(1) > a",
+        "text": "AMBULANCE/FIRE 204-677-7911",
+        "ariaLabel": "",
+        "title": "",
+        "href": "tel:+1-204-677-7911",
+        "imgAlt": "",
+        "box": {
+          "x": 706.484375,
+          "y": 2417.8125,
+          "w": 135.03125,
+          "h": 18
+        },
+        "context": "AMBULANCE/FIRE 204-677-7911",
+        "contextKind": "li",
+        "html": "<a href=\"tel:+1-204-677-7911\">AMBULANCE/FIRE <span>204-677-7911</span></a>"
+      },
+      {
+        "target": "div:nth-of-type(3) > div > ul > li:nth-of-type(2) > a",
+        "text": "R.C.M.P 204-677-6911",
+        "ariaLabel": "",
+        "title": "",
+        "href": "tel:+1-204-677-6911",
+        "imgAlt": "",
+        "box": {
+          "x": 706.484375,
+          "y": 2444.21875,
+          "w": 60.078125,
+          "h": 18
+        },
+        "context": "R.C.M.P 204-677-6911",
+        "contextKind": "li",
+        "html": "<a href=\"tel:+1-204-677-6911\">R.C.M.P <span>204-677-6911</span></a>"
+      },
+      {
+        "target": "div:nth-of-type(3) > div > ul > li:nth-of-type(3) > a",
+        "text": "COMMUNITY SAFETY OFFICERS 204-677-7916",
+        "ariaLabel": "",
+        "title": "",
+        "href": "tel:+1-204-677-7916",
+        "imgAlt": "",
+        "box": {
+          "x": 706.484375,
+          "y": 2470.625,
+          "w": 236.53125,
+          "h": 18
+        },
+        "context": "COMMUNITY SAFETY OFFICERS 204-677-7916",
+        "contextKind": "li",
+        "html": "<a href=\"tel:+1-204-677-7916\">COMMUNITY SAFETY OFFICERS <span>204-677-7916</span></a>"
+      },
+      {
+        "target": "div:nth-of-type(3) > div > ul > li:nth-of-type(4) > a",
+        "text": "HOSPITAL 204-677-2381",
+        "ariaLabel": "",
+        "title": "",
+        "href": "tel:+1-204-677-2381",
+        "imgAlt": "",
+        "box": {
+          "x": 706.484375,
+          "y": 2497.03125,
+          "w": 75.890625,
+          "h": 18
+        },
+        "context": "HOSPITAL 204-677-2381",
+        "contextKind": "li",
+        "html": "<a href=\"tel:+1-204-677-2381\">HOSPITAL <span>204-677-2381</span></a>"
+      },
+      {
+        "target": "#downloadOurApp",
+        "text": "",
+        "ariaLabel": "",
+        "title": "Download from the App Store",
+        "href": "https://apps.apple.com/us/app/city-of-thompson/id1260667680",
+        "imgAlt": "Apple Store",
+        "box": {
+          "x": 1153.3125,
+          "y": 2416.8125,
+          "w": 197.65625,
+          "h": 55.375
+        },
+        "context": "heading: DOWNLOAD OUR APP",
+        "contextKind": "heading-only",
+        "html": "<a id=\"downloadOurApp\" href=\"https://apps.apple.com/us/app/city-of-thompson/id1260667680\" title=\"Download from the App Store\" target=\"_blank\">\n                <div class=\"button-text\"> <img class=\"img-fluid\" src=\"/Content/images/downloadOurAppimg.png\" alt=\"Apple Store\"></div>\n              </a>"
+      },
+      {
+        "target": "#GooglePlayStore",
+        "text": "",
+        "ariaLabel": "",
+        "title": "Download from the Google Play Store",
+        "href": "https://play.google.com/store/apps/details?id=com.all_net.thompson",
+        "imgAlt": "Google Play Store",
+        "box": {
+          "x": 1153.3125,
+          "y": 2488.1875,
+          "w": 197.65625,
+          "h": 55.375
+        },
+        "context": "heading: DOWNLOAD OUR APP",
+        "contextKind": "heading-only",
+        "html": "<a id=\"GooglePlayStore\" href=\"https://play.google.com/store/apps/details?id=com.all_net.thompson\" title=\"Download from the Google Play Store\" target=\"_blank\">\n                <div class=\"button-text\"> <img class=\"img-fluid\" src=\"/Content/images/fa-google-play.png\" alt=\"Google Play Store\"></div>\n    "
+      },
+      {
+        "target": "#getInTouch",
+        "text": "226 MYSTERY LAKE ROAD THOMPSON, MB R8N 1S6",
+        "ariaLabel": "",
+        "title": "Our office is located here 226 Mystery Lake Road Thompson, MB R8N 1S6",
+        "href": "https://www.google.com/maps/place/City+of+Thompson/@55.7462081,-97.8494034,15z/data=!4m5!3m4!1s0x0:0xd6e50bf77a3a7bd8!8m2!3d55.7462081!4d-97.8494034",
+        "imgAlt": "",
+        "box": {
+          "x": 348.015625,
+          "y": 2614.34375,
+          "w": 329.015625,
+          "h": 15
+        },
+        "context": "226 MYSTERY LAKE ROAD THOMPSON, MB R8N 1S6",
+        "contextKind": "li",
+        "html": "<a class=\"FMap\" id=\"getInTouch\" href=\"https://www.google.com/maps/place/City+of+Thompson/@55.7462081,-97.8494034,15z/data=!4m5!3m4!1s0x0:0xd6e50bf77a3a7bd8!8m2!3d55.7462081!4d-97.8494034\" title=\"Our office is located here 226 Mystery Lake Road Thompson, MB R8N 1S6\" target=\"_blank\"><span>226 Mystery "
+      },
+      {
+        "target": "div > div:nth-of-type(3) > ul > li:nth-of-type(2) > a",
+        "text": "204-677-7910",
+        "ariaLabel": "",
+        "title": "Contact us at 204-677-7910",
+        "href": "tel:+1204-677-7910",
+        "imgAlt": "",
+        "box": {
+          "x": 709.125,
+          "y": 2614.34375,
+          "w": 105.640625,
+          "h": 15
+        },
+        "context": "204-677-7910",
+        "contextKind": "li",
+        "html": "<a class=\"FPhone\" href=\"tel:+1204-677-7910\" title=\"Contact us at 204-677-7910\"><span>204-677-7910</span></a>"
+      },
+      {
+        "target": "div > div:nth-of-type(3) > ul > li:nth-of-type(3) > a",
+        "text": "COMMUNICATIONS@THOMPSON.CA",
+        "ariaLabel": "",
+        "title": "Email us at communications@thompson.ca",
+        "href": "mailto:communications@thompson.ca",
+        "imgAlt": "",
+        "box": {
+          "x": 846.859375,
+          "y": 2614.34375,
+          "w": 241.109375,
+          "h": 15
+        },
+        "context": "COMMUNICATIONS@THOMPSON.CA",
+        "contextKind": "li",
+        "html": "<a class=\"FEmail\" href=\"mailto:communications@thompson.ca\" title=\"Email us at communications@thompson.ca\"><span>communications@thompson.ca</span></a>"
+      },
+      {
+        "target": "div > div > div:nth-of-type(4) > cite > a",
+        "text": "WEBSITE BY:",
+        "ariaLabel": "",
+        "title": "",
+        "href": "http://all-net.ca",
+        "imgAlt": "All-Net Municipal Solutions",
+        "box": {
+          "x": 1194.734375,
+          "y": 2610.3125,
+          "w": 156.265625,
+          "h": 23.65625
+        },
+        "context": "heading: DOWNLOAD OUR APP | 2026 © CITY OF CITY OF THOMPSON, MB 226 MYSTERY LAKE ROAD THOMPSON, MB R8N 1S6 204-677-7910 COMMUNICATIONS@THOMPSON.CA WEBSITE BY:",
+        "contextKind": "block",
+        "html": "<a href=\"http://all-net.ca\" title=\"\" target=\"_blank\" data-toggle=\"tooltip\" data-placement=\"top\" data-original-title=\"Developed and maintained by All-Net Municipal Solutions\">Website By: <img class=\"img-fluid\" alt=\"All-Net Municipal Solutions\" src=\"/Content/images/all-netBlack.svg\"></a>"
+      },
+      {
+        "target": "html > body > div:nth-of-type(8) > a:nth-of-type(2)",
+        "text": "POLL QUESTION",
+        "ariaLabel": "Click here to vote",
+        "title": "",
+        "href": "javascript:void(0);",
+        "imgAlt": "",
+        "box": {
+          "x": 1314.703125,
+          "y": 310.3125,
+          "w": 53.609375,
+          "h": 188.984375
+        },
+        "context": "heading: Fire Ban",
+        "contextKind": "heading-only",
+        "html": "<a class=\"ReportaProblemLink\" data-toggle=\"modal\" data-target=\"#modalPollQuestion\" aria-label=\"Click here to vote\" href=\"javascript:void(0);\"><i class=\"fas fa-comment-dots\"></i> <span>Poll question</span></a>"
+      }
+    ],
+    "headings": [
+      {
+        "target": "#skipToContent",
+        "level": 2,
+        "text": "Skip To Content",
+        "visible": true,
+        "box": {
+          "x": 40,
+          "y": -159960,
+          "w": 252,
+          "h": 19
+        },
+        "html": "<h2 id=\"skipToContent\">Skip To Content</h2>"
+      },
+      {
+        "target": "html > body > header > div:nth-of-type(2) > h1",
+        "level": 1,
+        "text": "",
+        "visible": true,
+        "box": {
+          "x": 51.1875,
+          "y": 101.140625,
+          "w": 236,
+          "h": 102.96875
+        },
+        "html": "<h1 class=\"siteLogo\"> <a href=\"/\" title=\"Welcome to City of Thompson - Home\"><img class=\"img-fluid\" src=\"/Content/images/logo.png\" alt=\"City of Thompson - Home\"></a> </h1>"
+      },
+      {
+        "target": "body > header > div:nth-of-type(2) > nav > h2",
+        "level": 2,
+        "text": "Main Navigation",
+        "visible": true,
+        "box": {
+          "x": -159984,
+          "y": -159882.859375,
+          "w": 227.78125,
+          "h": 34
+        },
+        "html": "<h2 class=\"hideMe\">Main Navigation</h2>"
+      },
+      {
+        "target": "#\\#imageCaption0 > div > h2",
+        "level": 2,
+        "text": "2026 Election Page",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h2 data-aos=\"fade-down\" data-aos-delay=\"100\" class=\"aos-init aos-animate\">2026 Election Page</h2>"
+      },
+      {
+        "target": "#\\#imageCaption0 > div > h3",
+        "level": 3,
+        "text": "Info for Voters",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h3 data-aos=\"fade-up\" data-aos-delay=\"200\" class=\"aos-init aos-animate\">Info for Voters</h3>"
+      },
+      {
+        "target": "#\\#imageCaption1 > div > h2",
+        "level": 2,
+        "text": "WHEN IS MY GARBAGE DAY?",
+        "visible": true,
+        "box": {
+          "x": 31,
+          "y": 559.21875,
+          "w": 1304,
+          "h": 24
+        },
+        "html": "<h2 data-aos=\"fade-down\" data-aos-delay=\"100\" class=\"aos-init aos-animate\">When is my garbage day?</h2>"
+      },
+      {
+        "target": "#\\#imageCaption1 > div > h3",
+        "level": 3,
+        "text": "CHECK SCHEDULE",
+        "visible": true,
+        "box": {
+          "x": 31,
+          "y": 583.21875,
+          "w": 1304,
+          "h": 67
+        },
+        "html": "<h3 data-aos=\"fade-up\" data-aos-delay=\"200\" class=\"aos-init aos-animate\">Check schedule</h3>"
+      },
+      {
+        "target": "#\\#imageCaption2 > div > h2",
+        "level": 2,
+        "text": "Careers",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h2 data-aos=\"fade-down\" data-aos-delay=\"100\" class=\"aos-init aos-animate\">Careers</h2>"
+      },
+      {
+        "target": "#\\#imageCaption2 > div > h3",
+        "level": 3,
+        "text": "Apply Now!",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h3 data-aos=\"fade-up\" data-aos-delay=\"200\" class=\"aos-init aos-animate\">Apply Now!</h3>"
+      },
+      {
+        "target": "#newsAndEvents",
+        "level": 2,
+        "text": "News & Events",
+        "visible": true,
+        "box": {
+          "x": -159984,
+          "y": -159984,
+          "w": 204.09375,
+          "h": 34
+        },
+        "html": "<h2 id=\"newsAndEvents\" class=\"hideMe\">News &amp; Events</h2>"
+      },
+      {
+        "target": "#recentNewsCont > h3",
+        "level": 3,
+        "text": "Recent News",
+        "visible": true,
+        "box": {
+          "x": -159969,
+          "y": -159027.8125,
+          "w": 161.234375,
+          "h": 30
+        },
+        "html": "<h3 class=\"hideMe\">Recent News</h3>"
+      },
+      {
+        "target": "div > ul > li:nth-of-type(1) > a > h4",
+        "level": 4,
+        "text": "NOTICE OF NOMINATIONS FOR 2026 GENERAL MUNICIPAL ELECTION",
+        "visible": true,
+        "box": {
+          "x": 102,
+          "y": 1004.578125,
+          "w": 522.203125,
+          "h": 21
+        },
+        "html": "<h4>NOTICE OF NOMINATIONS FOR 2026 GENERAL MUNICIPAL ELECTION</h4>"
+      },
+      {
+        "target": "div > ul > li:nth-of-type(2) > a > h4",
+        "level": 4,
+        "text": "REGISTRATION FOR COUNCILLOR & SCHOOL TRUSTEE CANDIDATES JUNE 30-SEPTEMBER 22",
+        "visible": true,
+        "box": {
+          "x": 102,
+          "y": 1100.5625,
+          "w": 522.203125,
+          "h": 21
+        },
+        "html": "<h4>REGISTRATION FOR COUNCILLOR &amp; SCHOOL TRUSTEE CANDIDATES JUNE 30-SEPTEMBER 22</h4>"
+      },
+      {
+        "target": "div > ul > li:nth-of-type(3) > a > h4",
+        "level": 4,
+        "text": "WASTE DISPOSAL GROUNDS HOURS SEPTEMBER 19",
+        "visible": true,
+        "box": {
+          "x": 102,
+          "y": 1196.546875,
+          "w": 522.203125,
+          "h": 21
+        },
+        "html": "<h4>WASTE DISPOSAL GROUNDS HOURS SEPTEMBER 19</h4>"
+      },
+      {
+        "target": "div > ul > li:nth-of-type(4) > a > h4",
+        "level": 4,
+        "text": "DROP-IN PICKLEBALL SEPTEMBER 19",
+        "visible": true,
+        "box": {
+          "x": 102,
+          "y": 1292.53125,
+          "w": 522.203125,
+          "h": 21
+        },
+        "html": "<h4>DROP-IN PICKLEBALL SEPTEMBER 19</h4>"
+      },
+      {
+        "target": "#upcomingEventsCont > h3",
+        "level": 3,
+        "text": "Upcoming Events",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h3 class=\"hideMe\">Upcoming Events</h3>"
+      },
+      {
+        "target": "#upcomingEventsCont > ul > li:nth-of-type(1) > a > h4",
+        "level": 4,
+        "text": "Drop-In Pickleball",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h4>Drop-In Pickleball</h4>"
+      },
+      {
+        "target": "#upcomingEventsCont > ul > li:nth-of-type(2) > a > h4",
+        "level": 4,
+        "text": "Drop-In Badminton",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h4>Drop-In Badminton</h4>"
+      },
+      {
+        "target": "#upcomingEventsCont > ul > li:nth-of-type(3) > a > h4",
+        "level": 4,
+        "text": "Drop-In Volleyball",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h4>Drop-In Volleyball</h4>"
+      },
+      {
+        "target": "#main > div > div > div:nth-of-type(2) > h3",
+        "level": 3,
+        "text": "HOW DO I ...",
+        "visible": true,
+        "box": {
+          "x": 698,
+          "y": 690,
+          "w": 653,
+          "h": 66
+        },
+        "html": "<h3 class=\"quickLinkstitle\"><i class=\"fas fa-info-circle\"></i> How Do i ... <a href=\"#main\"><i class=\"fas fa-chevron-down\"></i></a></h3>"
+      },
+      {
+        "target": "#latestNewsLabel",
+        "level": 2,
+        "text": "Local Notices",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h2 class=\"modalTitle\" id=\"latestNewsLabel\">Local Notices</h2>"
+      },
+      {
+        "target": "#upcomingEventsLabel",
+        "level": 2,
+        "text": "Upcoming Events",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h2 class=\"modalTitle\" id=\"upcomingEventsLabel\">Upcoming Events</h2>"
+      },
+      {
+        "target": "#municipalEventsLabel",
+        "level": 2,
+        "text": "Municipal Events",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h2 class=\"modalTitle\" id=\"municipalEventsLabel\">Municipal Events</h2>"
+      },
+      {
+        "target": "#highlightContainer > h2",
+        "level": 2,
+        "text": "DISCOVER OPPORTUNITIES THOMPSON SERVICES",
+        "visible": true,
+        "box": {
+          "x": 0,
+          "y": 1582.59375,
+          "w": 1366,
+          "h": 90
+        },
+        "html": "<h2>Discover Opportunities <span>Thompson services</span></h2>"
+      },
+      {
+        "target": "div:nth-of-type(1) > div > a > div > h5",
+        "level": 5,
+        "text": "INDOOR RECREATION",
+        "visible": true,
+        "box": {
+          "x": -1400,
+          "y": 1834.046875,
+          "w": 272,
+          "h": 19
+        },
+        "html": "<h5 class=\"card-title\">Indoor Recreation</h5>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div > a > div > h5",
+        "level": 5,
+        "text": "PLAY BALL",
+        "visible": true,
+        "box": {
+          "x": -1046,
+          "y": 1834.046875,
+          "w": 272,
+          "h": 19
+        },
+        "html": "<h5 class=\"card-title\">Play Ball</h5>"
+      },
+      {
+        "target": "div:nth-of-type(3) > div > a > div > h5",
+        "level": 5,
+        "text": "STEP OUTSIDE",
+        "visible": true,
+        "box": {
+          "x": -692,
+          "y": 1834.046875,
+          "w": 272,
+          "h": 19
+        },
+        "html": "<h5 class=\"card-title\">Step Outside</h5>"
+      },
+      {
+        "target": "div:nth-of-type(4) > div > a > div > h5",
+        "level": 5,
+        "text": "MAYOR & COUNCIL",
+        "visible": true,
+        "box": {
+          "x": -338,
+          "y": 1834.046875,
+          "w": 272,
+          "h": 19
+        },
+        "html": "<h5 class=\"card-title\">Mayor &amp; Council</h5>"
+      },
+      {
+        "target": "div:nth-of-type(5) > div > a > div > h5",
+        "level": 5,
+        "text": "TRCC",
+        "visible": true,
+        "box": {
+          "x": 16,
+          "y": 1834.046875,
+          "w": 272,
+          "h": 19
+        },
+        "html": "<h5 class=\"card-title\">TRCC</h5>"
+      },
+      {
+        "target": "div:nth-of-type(6) > div > a > div > h5",
+        "level": 5,
+        "text": "INDOOR RECREATION",
+        "visible": true,
+        "box": {
+          "x": 370,
+          "y": 1834.046875,
+          "w": 272,
+          "h": 19
+        },
+        "html": "<h5 class=\"card-title\">Indoor Recreation</h5>"
+      },
+      {
+        "target": "div:nth-of-type(7) > div > a > div > h5",
+        "level": 5,
+        "text": "PLAY BALL",
+        "visible": true,
+        "box": {
+          "x": 724,
+          "y": 1834.046875,
+          "w": 272,
+          "h": 19
+        },
+        "html": "<h5 class=\"card-title\">Play Ball</h5>"
+      },
+      {
+        "target": "div:nth-of-type(8) > div > a > div > h5",
+        "level": 5,
+        "text": "STEP OUTSIDE",
+        "visible": true,
+        "box": {
+          "x": 1078,
+          "y": 1834.046875,
+          "w": 272,
+          "h": 19
+        },
+        "html": "<h5 class=\"card-title\">Step Outside</h5>"
+      },
+      {
+        "target": "div:nth-of-type(9) > div > a > div > h5",
+        "level": 5,
+        "text": "MAYOR & COUNCIL",
+        "visible": true,
+        "box": {
+          "x": 1432,
+          "y": 1834.046875,
+          "w": 272,
+          "h": 19
+        },
+        "html": "<h5 class=\"card-title\">Mayor &amp; Council</h5>"
+      },
+      {
+        "target": "div:nth-of-type(10) > div > a > div > h5",
+        "level": 5,
+        "text": "TRCC",
+        "visible": true,
+        "box": {
+          "x": 1786,
+          "y": 1834.046875,
+          "w": 272,
+          "h": 19
+        },
+        "html": "<h5 class=\"card-title\">TRCC</h5>"
+      },
+      {
+        "target": "div:nth-of-type(11) > div > a > div > h5",
+        "level": 5,
+        "text": "INDOOR RECREATION",
+        "visible": true,
+        "box": {
+          "x": 2140,
+          "y": 1834.046875,
+          "w": 272,
+          "h": 19
+        },
+        "html": "<h5 class=\"card-title\">Indoor Recreation</h5>"
+      },
+      {
+        "target": "div:nth-of-type(12) > div > a > div > h5",
+        "level": 5,
+        "text": "PLAY BALL",
+        "visible": true,
+        "box": {
+          "x": 2494,
+          "y": 1834.046875,
+          "w": 272,
+          "h": 19
+        },
+        "html": "<h5 class=\"card-title\">Play Ball</h5>"
+      },
+      {
+        "target": "div:nth-of-type(13) > div > a > div > h5",
+        "level": 5,
+        "text": "STEP OUTSIDE",
+        "visible": true,
+        "box": {
+          "x": 2848,
+          "y": 1834.046875,
+          "w": 272,
+          "h": 19
+        },
+        "html": "<h5 class=\"card-title\">Step Outside</h5>"
+      },
+      {
+        "target": "div > div > div > div > h2",
+        "level": 2,
+        "text": "NEVER MISS A THING THOMPSON CONNECT",
+        "visible": true,
+        "box": {
+          "x": 754.921875,
+          "y": 1927.4375,
+          "w": 539.15625,
+          "h": 86
+        },
+        "html": "<h2 data-aos=\"fade-up\" data-aos-delay=\"100\" class=\"aos-init\">Never miss a thing <span>Thompson connect</span></h2>"
+      },
+      {
+        "target": "div > div > div:nth-of-type(2) > div > h2",
+        "level": 2,
+        "text": "PHONE NUMBERS",
+        "visible": true,
+        "box": {
+          "x": 251.15625,
+          "y": 2383.8125,
+          "w": 375.3125,
+          "h": 17
+        },
+        "html": "<h2><i class=\"fas fa-phone\"></i> Phone Numbers</h2>"
+      },
+      {
+        "target": "div > div > div:nth-of-type(3) > div > h2",
+        "level": 2,
+        "text": "EMERGENCY NUMBERS",
+        "visible": true,
+        "box": {
+          "x": 706.484375,
+          "y": 2383.8125,
+          "w": 375.3125,
+          "h": 17
+        },
+        "html": "<h2><i class=\"fas fa-first-aid\"></i> Emergency Numbers</h2>"
+      },
+      {
+        "target": "div > div > div:nth-of-type(4) > div > h2",
+        "level": 2,
+        "text": "DOWNLOAD OUR APP",
+        "visible": true,
+        "box": {
+          "x": 1153.3125,
+          "y": 2383.8125,
+          "w": 197.65625,
+          "h": 17
+        },
+        "html": "<h2><i class=\"fas fa-phone\"></i> Download Our App</h2>"
+      },
+      {
+        "target": "#modalPollQuestion > div > div > header > h2",
+        "level": 2,
+        "text": "",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h2 class=\"modalTitle\"></h2>"
+      },
+      {
+        "target": "#modalPollQuestionLabel",
+        "level": 2,
+        "text": "Your Opinion Matters. Tell us what you think !",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h2 class=\"modalTitleinner\" id=\"modalPollQuestionLabel\">Your Opinion Matters. Tell us what you think !</h2>"
+      },
+      {
+        "target": "#fireRatingModalLabel",
+        "level": 2,
+        "text": "Fire Ban",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h2 class=\"modalTitle iconFireRating modalFireRating fireLow\" id=\"fireRatingModalLabel\">Fire Ban </h2>"
+      },
+      {
+        "target": "#modalHeaderWeatherLabel",
+        "level": 2,
+        "text": "Weather Forecast",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h2 class=\"modalTitle\" id=\"modalHeaderWeatherLabel\">Weather Forecast</h2>"
+      },
+      {
+        "target": "#registerLabel",
+        "level": 2,
+        "text": "Registration",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h2 class=\"modalTitle\" id=\"registerLabel\">Registration</h2>"
+      },
+      {
+        "target": "#idLiketoSearchModalLabel",
+        "level": 2,
+        "text": "Search and I Like To...",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h2 class=\"modalTitle\" id=\"idLiketoSearchModalLabel\">Search and I Like To...</h2>"
+      },
+      {
+        "target": "#alertModal > div > div > header > h2",
+        "level": 2,
+        "text": "",
+        "visible": true,
+        "box": {
+          "x": 400.5,
+          "y": 189.90625,
+          "w": 145,
+          "h": 145
+        },
+        "html": "<h2 class=\"modalTitle\"></h2>"
+      },
+      {
+        "target": "#AlertCarouselModal > div > div > div > h2",
+        "level": 2,
+        "text": "Road Closure",
+        "visible": true,
+        "box": {
+          "x": 397,
+          "y": 341.90625,
+          "w": 572,
+          "h": 25
+        },
+        "html": "<h2>Road Closure</h2>"
+      }
+    ],
+    "lang": "en",
+    "title": "City of Thompson - Home"
+  },
   "axe": {
     "violationRules": 7,
     "violationNodes": 16,

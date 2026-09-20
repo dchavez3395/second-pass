@@ -104,6 +104,93 @@ async function diagnose(browser, url) {
     rec.viewport = { width: 1366, height: 900 };
     rec.scannedAt = new Date().toISOString();
 
+    // Content a rule cannot judge but a person (or a model proposing to one) can:
+    // every image with its alt, every link with its text, the heading outline.
+    // checks.mjs works from this; axe has no rule for "is this alt text any good".
+    rec.content = await page
+      .evaluate(() => {
+        const sel = (el) => {
+          if (el.id) return `#${CSS.escape(el.id)}`;
+          const parts = [];
+          for (let e = el; e && e.nodeType === 1 && parts.length < 5; e = e.parentElement) {
+            let s = e.tagName.toLowerCase();
+            if (e.id) { parts.unshift(`#${CSS.escape(e.id)}`); break; }
+            const sibs = e.parentElement ? [...e.parentElement.children].filter((x) => x.tagName === e.tagName) : [];
+            if (sibs.length > 1) s += `:nth-of-type(${sibs.indexOf(e) + 1})`;
+            parts.unshift(s);
+          }
+          return parts.join(' > ');
+        };
+        const box = (el) => { const b = el.getBoundingClientRect(); return { x: b.x, y: b.y, w: b.width, h: b.height }; };
+        const vis = (el) => { const b = el.getBoundingClientRect(); const cs = getComputedStyle(el); return b.width > 0 && b.height > 0 && cs.visibility !== 'hidden' && cs.display !== 'none'; };
+        const txt = (s) => (s || '').replace(/\s+/g, ' ').trim();
+
+        const images = [...document.querySelectorAll('img, [role="img"], svg[aria-label], svg[aria-labelledby]')].filter(vis).map((el) => {
+          const link = el.closest('a');
+          const fig = el.closest('figure');
+          const cap = fig && fig.querySelector('figcaption');
+          return {
+            target: sel(el),
+            tag: el.tagName.toLowerCase(),
+            src: el.currentSrc || el.getAttribute('src') || '',
+            alt: el.hasAttribute('alt') ? el.getAttribute('alt') : null,
+            ariaLabel: el.getAttribute('aria-label') || '',
+            role: el.getAttribute('role') || '',
+            ariaHidden: el.getAttribute('aria-hidden') === 'true',
+            title: el.getAttribute('title') || '',
+            naturalWidth: el.naturalWidth || 0,
+            naturalHeight: el.naturalHeight || 0,
+            box: box(el),
+            inLink: !!link,
+            linkText: link ? txt(link.innerText || link.getAttribute('aria-label')) : '',
+            linkHref: link ? link.getAttribute('href') || '' : '',
+            caption: cap ? txt(cap.innerText) : '',
+            nearText: txt((el.closest('figure, a, li, article, section, div') || el.parentElement || {}).innerText || '').slice(0, 160),
+            html: el.outerHTML.slice(0, 400),
+          };
+        });
+
+        const links = [...document.querySelectorAll('a[href]')].filter(vis).map((el) => ({
+          target: sel(el),
+          text: txt(el.innerText),
+          ariaLabel: el.getAttribute('aria-label') || '',
+          title: el.getAttribute('title') || '',
+          href: el.getAttribute('href') || '',
+          imgAlt: [...el.querySelectorAll('img[alt]')].map((i) => i.getAttribute('alt')).join(' ').trim(),
+          box: box(el),
+          // 2.4.4's "programmatically determined context": the enclosing sentence,
+          // list item or cell; failing that, the nearest heading before the link and
+          // the short block it sits in. A whole <section> is not context.
+          ...(() => {
+            const unit = el.closest('li, p, td, th, dt, dd, figcaption, blockquote, label');
+            if (unit) return { context: txt(unit.innerText).slice(0, 200), contextKind: unit.tagName.toLowerCase() };
+            let block = el.parentElement;
+            while (block && block !== document.body && txt(block.innerText).length < 40) block = block.parentElement;
+            const blockText = block ? txt(block.innerText) : '';
+            let heading = null;
+            const all = [...document.querySelectorAll('h1, h2, h3, h4, h5, h6, a[href]')];
+            for (let i = all.indexOf(el) - 1; i >= 0; i--) if (/^H[1-6]$/.test(all[i].tagName)) { heading = txt(all[i].innerText); break; }
+            return {
+              context: [heading ? `heading: ${heading}` : '', blockText.length <= 220 ? blockText : ''].filter(Boolean).join(' | ').slice(0, 260),
+              contextKind: blockText.length <= 220 ? 'block' : heading ? 'heading-only' : 'none',
+            };
+          })(),
+          html: el.outerHTML.slice(0, 300),
+        }));
+
+        const headings = [...document.querySelectorAll('h1, h2, h3, h4, h5, h6, [role="heading"]')].map((el) => ({
+          target: sel(el),
+          level: Number(el.getAttribute('aria-level')) || Number(el.tagName[1]) || 0,
+          text: txt(el.innerText),
+          visible: vis(el),
+          box: box(el),
+          html: el.outerHTML.slice(0, 300),
+        }));
+
+        return { images, links, headings, lang: document.documentElement.lang || '', title: document.title };
+      })
+      .catch(() => null);
+
     const r = await new AxeBuilder({ page }).withTags(TAGS).analyze();
 
     rec.axe = {

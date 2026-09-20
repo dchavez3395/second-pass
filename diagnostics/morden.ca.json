@@ -19,7 +19,89 @@
     "width": 1366,
     "height": 900
   },
-  "scannedAt": "2026-09-19T06:22:30.373Z",
+  "scannedAt": "2026-09-19T23:54:51.299Z",
+  "content": {
+    "images": [],
+    "links": [
+      {
+        "target": "div > div > div:nth-of-type(2) > span:nth-of-type(1) > a",
+        "text": "Cloudflare",
+        "ariaLabel": "Cloudflare, opens in a new tab",
+        "title": "",
+        "href": "https://www.cloudflare.com?utm_source=challenge&utm_campaign=m",
+        "imgAlt": "",
+        "box": {
+          "x": 705.578125,
+          "y": 866,
+          "w": 54.453125,
+          "h": 18
+        },
+        "context": "heading: Verification successful. Waiting for www.morden.ca to respond | Performance and Security by Cloudflare Privacy",
+        "contextKind": "block",
+        "html": "<a rel=\"noopener noreferrer\" href=\"https://www.cloudflare.com?utm_source=challenge&amp;utm_campaign=m\" target=\"_blank\" aria-label=\"Cloudflare, opens in a new tab\">Cloudflare</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div > div > div:nth-of-type(2) > a",
+        "text": "Privacy",
+        "ariaLabel": "Privacy, opens in a new tab",
+        "title": "",
+        "href": "https://www.cloudflare.com/privacypolicy/",
+        "imgAlt": "",
+        "box": {
+          "x": 778.03125,
+          "y": 866,
+          "w": 37.015625,
+          "h": 18
+        },
+        "context": "heading: Verification successful. Waiting for www.morden.ca to respond | Performance and Security by Cloudflare Privacy",
+        "contextKind": "block",
+        "html": "<a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.cloudflare.com/privacypolicy/\" aria-label=\"Privacy, opens in a new tab\" class=\"footer-text\">Privacy</a>"
+      }
+    ],
+    "headings": [
+      {
+        "target": "body > div:nth-of-type(1) > div > div:nth-of-type(1) > h1",
+        "level": 1,
+        "text": "www.morden.ca",
+        "visible": true,
+        "box": {
+          "x": 235,
+          "y": 128,
+          "w": 290.390625,
+          "h": 50
+        },
+        "html": "<h1>www.morden.ca</h1>"
+      },
+      {
+        "target": "#jddkS1",
+        "level": 2,
+        "text": "Performing security verification",
+        "visible": true,
+        "box": {
+          "x": 235,
+          "y": 186,
+          "w": 896,
+          "h": 30
+        },
+        "html": "<h2 id=\"jddkS1\" class=\"YNaX0 MmgY4\">Performing security verification</h2>"
+      },
+      {
+        "target": "#zfpQF7",
+        "level": 2,
+        "text": "Verification successful. Waiting for www.morden.ca to respond",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h2 id=\"zfpQF7\" class=\"ndZkd3\">Verification successful. Waiting for www.morden.ca to respond</h2>"
+      }
+    ],
+    "lang": "en-US",
+    "title": "Just a moment..."
+  },
   "axe": {
     "violationRules": 1,
     "violationNodes": 1,

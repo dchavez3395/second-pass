@@ -19,7 +19,1533 @@
     "width": 1366,
     "height": 900
   },
-  "scannedAt": "2026-09-19T06:20:07.053Z",
+  "scannedAt": "2026-09-19T23:52:29.445Z",
+  "content": {
+    "images": [
+      {
+        "target": "#logo > a > picture > img",
+        "tag": "img",
+        "src": "https://media-002-ca.cdn.govstack.com/cityplap-009-ca/media/mwkhzr44/portage-la-prairie-indentifier-logo.jpg?format=webp",
+        "alt": "",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 4974,
+        "naturalHeight": 2359,
+        "box": {
+          "x": 18,
+          "y": 15,
+          "w": 189.765625,
+          "h": 90
+        },
+        "inLink": true,
+        "linkText": "City of Portage la Prairie",
+        "linkHref": "/",
+        "caption": "",
+        "nearText": "City of Portage la Prairie",
+        "html": "<img src=\"https://media-002-ca.cdn.govstack.com/cityplap-009-ca/media/mwkhzr44/portage-la-prairie-indentifier-logo.jpg\" alt=\"\" fetchpriority=\"high\">"
+      },
+      {
+        "target": "#site-content > section:nth-of-type(2) > div:nth-of-type(1)",
+        "tag": "div",
+        "src": "",
+        "alt": null,
+        "ariaLabel": "Sunset over the Island Park Causeway in Portage la Prairie, with warm reflections on the water and scattered clouds in the sky",
+        "role": "img",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0,
+        "box": {
+          "x": 0,
+          "y": 120,
+          "w": 1366,
+          "h": 490
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "",
+        "html": "<div class=\"image background-image component-background-image lazyloaded\" style=\"background-image: url(&quot;https://media-002-ca.cdn.govstack.com/cityplap-009-ca/media/z14bhrta/causewayfromwater.jpg?format=webp&quot;); background-repeat: no-repeat; background-size: cover; background-position: center center;\" data-bgset=\"https://media-002-ca.cdn.govstack.com/cityplap-009-ca/media/z14bhrta/causeway"
+      },
+      {
+        "target": "div:nth-of-type(1) > div > a > div:nth-of-type(1) > img",
+        "tag": "img",
+        "src": "https://media-002-ca.cdn.govstack.com/cityplap-009-ca/media/a5sbtspi/message-boxes.svg",
+        "alt": "",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 70,
+        "naturalHeight": 70,
+        "box": {
+          "x": 74.421875,
+          "y": 670,
+          "w": 60,
+          "h": 60
+        },
+        "inLink": true,
+        "linkText": "Register for Connect Portage",
+        "linkHref": "https://www.city-plap.com/council-administration/service-requests/connect-portage/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://media-002-ca.cdn.govstack.com/cityplap-009-ca/media/a5sbtspi/message-boxes.svg\" alt=\"\">"
+      },
+      {
+        "target": "div:nth-of-type(2) > div > a > div:nth-of-type(1) > img",
+        "tag": "img",
+        "src": "https://media-002-ca.cdn.govstack.com/cityplap-009-ca/media/hpinizk1/street-sweeping.svg",
+        "alt": "",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 70,
+        "naturalHeight": 70,
+        "box": {
+          "x": 267.28125,
+          "y": 670,
+          "w": 60,
+          "h": 60
+        },
+        "inLink": true,
+        "linkText": "Service Requests",
+        "linkHref": "https://www.city-plap.com/council-administration/service-requests/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://media-002-ca.cdn.govstack.com/cityplap-009-ca/media/hpinizk1/street-sweeping.svg\" alt=\"\">"
+      },
+      {
+        "target": "div:nth-of-type(3) > div > a > div:nth-of-type(1) > img",
+        "tag": "img",
+        "src": "https://media-002-ca.cdn.govstack.com/cityplap-009-ca/media/kffjksog/recycle_bin.svg",
+        "alt": "",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 70,
+        "naturalHeight": 70,
+        "box": {
+          "x": 460.140625,
+          "y": 670,
+          "w": 60,
+          "h": 60
+        },
+        "inLink": true,
+        "linkText": "Garbage and Recycling",
+        "linkHref": "https://www.city-plap.com/home-property-community/garbage-and-recycling/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://media-002-ca.cdn.govstack.com/cityplap-009-ca/media/kffjksog/recycle_bin.svg\" alt=\"\">"
+      },
+      {
+        "target": "div:nth-of-type(4) > div > a > div:nth-of-type(1) > img",
+        "tag": "img",
+        "src": "https://media-002-ca.cdn.govstack.com/cityplap-009-ca/media/v2lbud4i/folded-newspaper.svg",
+        "alt": "",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 70,
+        "naturalHeight": 70,
+        "box": {
+          "x": 653,
+          "y": 670,
+          "w": 60,
+          "h": 60
+        },
+        "inLink": true,
+        "linkText": "News",
+        "linkHref": "https://www.city-plap.com/news/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://media-002-ca.cdn.govstack.com/cityplap-009-ca/media/v2lbud4i/folded-newspaper.svg\" alt=\"\">"
+      },
+      {
+        "target": "div:nth-of-type(5) > div > a > div:nth-of-type(1) > img",
+        "tag": "img",
+        "src": "https://media-002-ca.cdn.govstack.com/cityplap-009-ca/media/docn4q3n/property.svg",
+        "alt": "",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 70,
+        "naturalHeight": 70,
+        "box": {
+          "x": 845.828125,
+          "y": 670,
+          "w": 60,
+          "h": 60
+        },
+        "inLink": true,
+        "linkText": "Property Taxes",
+        "linkHref": "https://www.city-plap.com/home-property-community/property-taxes/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://media-002-ca.cdn.govstack.com/cityplap-009-ca/media/docn4q3n/property.svg\" alt=\"\">"
+      },
+      {
+        "target": "div:nth-of-type(6) > div > a > div:nth-of-type(1) > img",
+        "tag": "img",
+        "src": "https://media-002-ca.cdn.govstack.com/cityplap-009-ca/media/og3ctlgh/water-drop-waves.svg",
+        "alt": "",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 70,
+        "naturalHeight": 70,
+        "box": {
+          "x": 1038.703125,
+          "y": 670,
+          "w": 60,
+          "h": 60
+        },
+        "inLink": true,
+        "linkText": "Utilities",
+        "linkHref": "https://www.city-plap.com/home-property-community/water-and-wastewater-services/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://media-002-ca.cdn.govstack.com/cityplap-009-ca/media/og3ctlgh/water-drop-waves.svg\" alt=\"\">"
+      },
+      {
+        "target": "div:nth-of-type(7) > div > a > div:nth-of-type(1) > img",
+        "tag": "img",
+        "src": "https://media-002-ca.cdn.govstack.com/cityplap-009-ca/media/00fpssrk/court-library-city.svg",
+        "alt": "",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 70,
+        "naturalHeight": 70,
+        "box": {
+          "x": 1231.546875,
+          "y": 670,
+          "w": 60,
+          "h": 60
+        },
+        "inLink": true,
+        "linkText": "Virtual City Hall",
+        "linkHref": "http://ptgvch.city-plap.com/vch/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://media-002-ca.cdn.govstack.com/cityplap-009-ca/media/00fpssrk/court-library-city.svg\" alt=\"\">"
+      },
+      {
+        "target": "div > a > div:nth-of-type(1) > picture > img",
+        "tag": "img",
+        "src": "https://media-002-ca.cdn.govstack.com/cityplap-009-ca/media/vvtndgg0/saskatchewanavenue.jpg?width=1600&height=1000&v=1db475835dafdc0&format=webp",
+        "alt": "",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 1600,
+        "naturalHeight": 1000,
+        "box": {
+          "x": 23,
+          "y": 898,
+          "w": 307.5,
+          "h": 192.1875
+        },
+        "inLink": true,
+        "linkText": "Roads and Parking Learn about Roads and Parking.",
+        "linkHref": "https://www.city-plap.com/home-property-community/roads-and-parking/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img class=\" lazyloaded\" src=\"https://media-002-ca.cdn.govstack.com/cityplap-009-ca/media/vvtndgg0/saskatchewanavenue.jpg?width=400&amp;height=250&amp;v=1db475835dafdc0&amp;format=webp\" width=\"400\" height=\"250\" data-srcset=\"https://media-002-ca.cdn.govstack.com/cityplap-009-ca/media/vvtndgg0/saskatchewanavenue.jpg?width=1600&amp;height=1000&amp;v=1db475835dafdc0&amp;format=webp 1x\" alt=\"\" srcset=\""
+      },
+      {
+        "target": "div > a > div:nth-of-type(1) > picture > img",
+        "tag": "img",
+        "src": "https://media-002-ca.cdn.govstack.com/cityplap-009-ca/media/3ovbvjph/garbage.jpg?width=1600&height=1000&v=1dc2bf1cbd21dd0&format=webp",
+        "alt": "person throwing empty water bottles into a black garbage bag",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 1600,
+        "naturalHeight": 1000,
+        "box": {
+          "x": 360.5,
+          "y": 898,
+          "w": 307.5,
+          "h": 192.1875
+        },
+        "inLink": true,
+        "linkText": "Garbage and Recycling The City of Portage la Prairie operates a 5-day solid waste collection cycle.",
+        "linkHref": "https://www.city-plap.com/home-property-community/garbage-and-recycling/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img class=\" lazyloaded\" src=\"https://media-002-ca.cdn.govstack.com/cityplap-009-ca/media/3ovbvjph/garbage.jpg?width=400&amp;height=250&amp;v=1dc2bf1cbd21dd0&amp;format=webp\" width=\"400\" height=\"250\" data-srcset=\"https://media-002-ca.cdn.govstack.com/cityplap-009-ca/media/3ovbvjph/garbage.jpg?width=1600&amp;height=1000&amp;v=1dc2bf1cbd21dd0&amp;format=webp 1x\" alt=\"person throwing empty water bott"
+      },
+      {
+        "target": "div > a > div:nth-of-type(1) > picture > img",
+        "tag": "img",
+        "src": "https://media-002-ca.cdn.govstack.com/cityplap-009-ca/media/eq5npid1/dogcat.jpg?rxy=0.5832656464223536,0.5608745552999548&width=1600&height=1000&v=1db262e537f62d0&format=webp",
+        "alt": "",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 1600,
+        "naturalHeight": 1000,
+        "box": {
+          "x": 698,
+          "y": 898,
+          "w": 307.5,
+          "h": 192.1875
+        },
+        "inLink": true,
+        "linkText": "Animal Services Learn about Animal Services here.",
+        "linkHref": "https://www.city-plap.com/home-property-community/animal-services/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img class=\" lazyloaded\" src=\"https://media-002-ca.cdn.govstack.com/cityplap-009-ca/media/eq5npid1/dogcat.jpg?rxy=0.5832656464223536,0.5608745552999548&amp;width=400&amp;height=250&amp;v=1db262e537f62d0&amp;format=webp\" width=\"400\" height=\"250\" data-srcset=\"https://media-002-ca.cdn.govstack.com/cityplap-009-ca/media/eq5npid1/dogcat.jpg?rxy=0.5832656464223536,0.5608745552999548&amp;width=1600&amp;h"
+      },
+      {
+        "target": "div > a > div:nth-of-type(1) > picture > img",
+        "tag": "img",
+        "src": "https://media-002-ca.cdn.govstack.com/cityplap-009-ca/media/qe3n1xto/events.jpg?width=1600&height=1000&v=1db475d719ce580&format=webp",
+        "alt": "",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 1600,
+        "naturalHeight": 1000,
+        "box": {
+          "x": 1035.5,
+          "y": 898,
+          "w": 307.5,
+          "h": 192.1875
+        },
+        "inLink": true,
+        "linkText": "Community Events Discover events happening in Portage la Prairie and area.",
+        "linkHref": "https://www.portageonline.com/events",
+        "caption": "",
+        "nearText": "",
+        "html": "<img class=\" lazyloaded\" src=\"https://media-002-ca.cdn.govstack.com/cityplap-009-ca/media/qe3n1xto/events.jpg?width=400&amp;height=250&amp;v=1db475d719ce580&amp;format=webp\" width=\"400\" height=\"250\" data-srcset=\"https://media-002-ca.cdn.govstack.com/cityplap-009-ca/media/qe3n1xto/events.jpg?width=1600&amp;height=1000&amp;v=1db475d719ce580&amp;format=webp 1x\" alt=\"\" srcset=\"https://media-002-ca.cdn"
+      },
+      {
+        "target": "div > div > div > div:nth-of-type(1) > div:nth-of-type(1)",
+        "tag": "div",
+        "src": "",
+        "alt": null,
+        "ariaLabel": "",
+        "role": "img",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0,
+        "box": {
+          "x": 0,
+          "y": 1292.1875,
+          "w": 1366,
+          "h": 507
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "",
+        "html": "<div class=\"image background-image lazyloaded\" style=\"background-image: url(&quot;https://media-002-ca.cdn.govstack.com/cityplap-009-ca/media/terhogtd/cover.png?rxy=0.5000135461394836,0.5213563714075408&amp;width=3000&amp;height=1000&amp;v=1dd08c1f968fae0&amp;format=webp&quot;);\" data-bgset=\"https://media-002-ca.cdn.govstack.com/cityplap-009-ca/media/terhogtd/cover.png?rxy=0.5000135461394836,0.521"
+      },
+      {
+        "target": "div > div > div > div:nth-of-type(2) > div:nth-of-type(1)",
+        "tag": "div",
+        "src": "",
+        "alt": null,
+        "ariaLabel": "",
+        "role": "img",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0,
+        "box": {
+          "x": 0,
+          "y": 1292.1875,
+          "w": 1366,
+          "h": 411
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "",
+        "html": "<div class=\"image background-image lazyloaded\" style=\"background-image: url(&quot;https://media-002-ca.cdn.govstack.com/cityplap-009-ca/media/qztb0e34/election.png?width=3000&amp;height=1000&amp;v=1dcd8ea1705b870&amp;format=webp&quot;);\" data-bgset=\"https://media-002-ca.cdn.govstack.com/cityplap-009-ca/media/qztb0e34/election.png?width=3000&amp;height=1000&amp;v=1dcd8ea1705b870&amp;format=webp [ty"
+      },
+      {
+        "target": "div > div > div > div:nth-of-type(3) > div:nth-of-type(1)",
+        "tag": "div",
+        "src": "",
+        "alt": null,
+        "ariaLabel": "",
+        "role": "img",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0,
+        "box": {
+          "x": 0,
+          "y": 1292.1875,
+          "w": 1366,
+          "h": 465
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "",
+        "html": "<div class=\"image background-image lazyloaded\" style=\"background-image: url(&quot;https://media-002-ca.cdn.govstack.com/cityplap-009-ca/media/bfoggssc/springyardwaste.jpg?width=1600&amp;height=1200&amp;v=1db3f8f016d38d0&amp;format=webp&quot;);\" data-bgset=\"https://media-002-ca.cdn.govstack.com/cityplap-009-ca/media/bfoggssc/springyardwaste.jpg?width=1600&amp;height=1200&amp;v=1db3f8f016d38d0&amp;f"
+      },
+      {
+        "target": "div:nth-of-type(2) > div > div:nth-of-type(1) > picture > img",
+        "tag": "img",
+        "src": "https://media-002-ca.cdn.govstack.com/cityplap-009-ca/media/c22piycl/catchbasin3.png?width=940&height=627&format=webp",
+        "alt": "",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 940,
+        "naturalHeight": 627,
+        "box": {
+          "x": 698,
+          "y": 1923.1875,
+          "w": 645,
+          "h": 430.21875
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "",
+        "html": "<img class=\"lazypreload lazyloaded\" src=\"https://media-002-ca.cdn.govstack.com/cityplap-009-ca/media/c22piycl/catchbasin3.png?width=235&amp;height=156&amp;format=webp\" width=\"235\" height=\"156\" data-srcset=\"https://media-002-ca.cdn.govstack.com/cityplap-009-ca/media/c22piycl/catchbasin3.png?width=940&amp;height=627&amp;format=webp 1x\" alt=\"\" srcset=\"https://media-002-ca.cdn.govstack.com/cityplap-00"
+      },
+      {
+        "target": "#site-content > section:nth-of-type(7) > div:nth-of-type(1)",
+        "tag": "div",
+        "src": "",
+        "alt": null,
+        "ariaLabel": "",
+        "role": "img",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0,
+        "box": {
+          "x": 0,
+          "y": 3139.15625,
+          "w": 1366,
+          "h": 205
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "",
+        "html": "<div class=\"image lazyload background-image component-background-image\" style=\"background-image:url('https://media-002-ca.cdn.govstack.com/cityplap-009-ca/media/j3kayrdg/p_newsletter_signup_bg.jpg'); background-repeat:no-repeat;background-size:cover;background-position:right center;\" data-bgset=\"https://media-002-ca.cdn.govstack.com/cityplap-009-ca/media/j3kayrdg/p_newsletter_signup_bg.jpg?format="
+      },
+      {
+        "target": "ul > li:nth-of-type(1) > span > a > img",
+        "tag": "img",
+        "src": "https://media-002-ca.cdn.govstack.com/cityplap-009-ca/media/1otpokoh/facebook_circle.svg",
+        "alt": "Facebook Icon",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 45,
+        "naturalHeight": 45,
+        "box": {
+          "x": 923,
+          "y": 3443.15625,
+          "w": 35,
+          "h": 35
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "https://www.facebook.com/cityplap/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://media-002-ca.cdn.govstack.com/cityplap-009-ca/media/1otpokoh/facebook_circle.svg\" alt=\"Facebook Icon\">"
+      },
+      {
+        "target": "ul > li:nth-of-type(2) > span > a > img",
+        "tag": "img",
+        "src": "https://media-002-ca.cdn.govstack.com/cityplap-009-ca/media/solbg45u/instagram_circle.svg",
+        "alt": "Instagram Icon",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 45,
+        "naturalHeight": 45,
+        "box": {
+          "x": 964.1875,
+          "y": 3443.15625,
+          "w": 35,
+          "h": 35
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "https://www.instagram.com/cityofportagelaprairie/#",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://media-002-ca.cdn.govstack.com/cityplap-009-ca/media/solbg45u/instagram_circle.svg\" alt=\"Instagram Icon\">"
+      },
+      {
+        "target": "ul > li:nth-of-type(3) > span > a > img",
+        "tag": "img",
+        "src": "https://media-002-ca.cdn.govstack.com/cityplap-009-ca/media/4sahvgac/youtube_circle.svg",
+        "alt": "YouTube Icon",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 45,
+        "naturalHeight": 45,
+        "box": {
+          "x": 1005.375,
+          "y": 3443.15625,
+          "w": 35,
+          "h": 35
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "https://www.youtube.com/channel/UCy2MKYDEsK_SRF2ByXIBcBw",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://media-002-ca.cdn.govstack.com/cityplap-009-ca/media/4sahvgac/youtube_circle.svg\" alt=\"YouTube Icon\">"
+      }
+    ],
+    "links": [
+      {
+        "target": "#cookieconsent\\:desc > p > a",
+        "text": "Privacy Policy",
+        "ariaLabel": "",
+        "title": "Privacy Policy",
+        "href": "/privacy-policy/",
+        "imgAlt": "",
+        "box": {
+          "x": 604.59375,
+          "y": 781,
+          "w": 105.65625,
+          "h": 20
+        },
+        "context": "This website uses cookies to enhance usability and provide you with a more personal experience. By using this website, you agree to our use of cookies as explained in our Privacy Policy.",
+        "contextKind": "p",
+        "html": "<a href=\"/privacy-policy/\" title=\"Privacy Policy\">Privacy Policy</a>"
+      },
+      {
+        "target": "#skip-to-content-link",
+        "text": "Skip to main content",
+        "ariaLabel": "",
+        "title": "",
+        "href": "#site-content",
+        "imgAlt": "",
+        "box": {
+          "x": 597.4453125,
+          "y": -944,
+          "w": 171.109375,
+          "h": 44
+        },
+        "context": "",
+        "contextKind": "none",
+        "html": "<a class=\"skip-to-content\" id=\"skip-to-content-link\" href=\"#site-content\">Skip to main content</a>"
+      },
+      {
+        "target": "#skip-to-footer-link",
+        "text": "Skip to footer",
+        "ariaLabel": "",
+        "title": "",
+        "href": "#site-footer",
+        "imgAlt": "",
+        "box": {
+          "x": 623.984375,
+          "y": -944,
+          "w": 118.03125,
+          "h": 44
+        },
+        "context": "",
+        "contextKind": "none",
+        "html": "<a class=\"skip-to-content\" id=\"skip-to-footer-link\" href=\"#site-footer\">Skip to footer</a>"
+      },
+      {
+        "target": "#logo > a",
+        "text": "City of Portage la Prairie",
+        "ariaLabel": "",
+        "title": "City of Portage la Prairie",
+        "href": "/",
+        "imgAlt": "",
+        "box": {
+          "x": 18,
+          "y": 15,
+          "w": 189.765625,
+          "h": 90
+        },
+        "context": "",
+        "contextKind": "none",
+        "html": "<a href=\"/\" title=\"City of Portage la Prairie\">\n                    <picture>\n                            <source type=\"image/webp\" srcset=\"https://media-002-ca.cdn.govstack.com/cityplap-009-ca/media/mwkhzr44/portage-la-prairie-indentifier-logo.jpg?format=webp\" data-srcset=\"https://media-002-ca.cdn."
+      },
+      {
+        "target": "nav:nth-of-type(1) > ul > li:nth-of-type(1) > span > a",
+        "text": "Home, Property & Community",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.city-plap.com/home-property-community/",
+        "imgAlt": "",
+        "box": {
+          "x": 336.953125,
+          "y": 60,
+          "w": 255.328125,
+          "h": 60
+        },
+        "context": "Home, Property & Community Expand sub pages Home, Property & Community",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.city-plap.com/home-property-community/\">Home, Property &amp; Community</a>"
+      },
+      {
+        "target": "nav:nth-of-type(1) > ul > li:nth-of-type(2) > span > a",
+        "text": "Parks & Recreation",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.city-plap.com/parks-recreation/",
+        "imgAlt": "",
+        "box": {
+          "x": 612.28125,
+          "y": 60,
+          "w": 166.640625,
+          "h": 60
+        },
+        "context": "Parks & Recreation Expand sub pages Parks & Recreation",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.city-plap.com/parks-recreation/\">Parks &amp; Recreation</a>"
+      },
+      {
+        "target": "nav:nth-of-type(1) > ul > li:nth-of-type(3) > span > a",
+        "text": "Business, Building & Development",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.city-plap.com/business-building-development/",
+        "imgAlt": "",
+        "box": {
+          "x": 798.921875,
+          "y": 60,
+          "w": 287.46875,
+          "h": 60
+        },
+        "context": "Business, Building & Development Expand sub pages Business, Building & Development",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.city-plap.com/business-building-development/\">Business, Building &amp; Development</a>"
+      },
+      {
+        "target": "nav:nth-of-type(1) > ul > li:nth-of-type(4) > span > a",
+        "text": "Council & Administration",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.city-plap.com/council-administration/",
+        "imgAlt": "",
+        "box": {
+          "x": 1106.390625,
+          "y": 60,
+          "w": 216.609375,
+          "h": 60
+        },
+        "context": "Council & Administration Expand sub pages Council & Administration",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.city-plap.com/council-administration/\">Council &amp; Administration</a>"
+      },
+      {
+        "target": "nav:nth-of-type(2) > ul > li:nth-of-type(1) > span > a",
+        "text": "Careers",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.city-plap.com/council-administration/careers/",
+        "imgAlt": "",
+        "box": {
+          "x": 1003.6875,
+          "y": 0,
+          "w": 69.9375,
+          "h": 60
+        },
+        "context": "Careers",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.city-plap.com/council-administration/careers/\">Careers</a>"
+      },
+      {
+        "target": "nav:nth-of-type(2) > ul > li:nth-of-type(2) > span > a",
+        "text": "Service Requests",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.city-plap.com/council-administration/service-requests/",
+        "imgAlt": "",
+        "box": {
+          "x": 1073.625,
+          "y": 0,
+          "w": 130.625,
+          "h": 60
+        },
+        "context": "Service Requests",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.city-plap.com/council-administration/service-requests/\">Service Requests</a>"
+      },
+      {
+        "target": "nav:nth-of-type(2) > ul > li:nth-of-type(3) > span > a",
+        "text": "Contact Us",
+        "ariaLabel": "",
+        "title": "Link will open in a new window/tab",
+        "href": "https://www.city-plap.com/council-administration/contact-us/",
+        "imgAlt": "",
+        "box": {
+          "x": 1204.25,
+          "y": 0,
+          "w": 91.25,
+          "h": 60
+        },
+        "context": "Contact Us",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.city-plap.com/council-administration/contact-us/\" target=\"_blank\" rel=\"noreferrer noopener\" title=\"Link will open in a new window/tab\">Contact Us</a>"
+      },
+      {
+        "target": "div > div > div:nth-of-type(1) > div > a",
+        "text": "Register for Connect Portage",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.city-plap.com/council-administration/service-requests/connect-portage/",
+        "imgAlt": "",
+        "box": {
+          "x": 23,
+          "y": 670,
+          "w": 162.84375,
+          "h": 138
+        },
+        "context": "heading: Home | Register for Connect Portage Service Requests Garbage and Recycling News Property Taxes Utilities Virtual City Hall",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.city-plap.com/council-administration/service-requests/connect-portage/\">\n                    <div class=\"image    \">\n                                    <img src=\"https://media-002-ca.cdn.govstack.com/cityplap-009-ca/media/a5sbtspi/message-boxes.svg\" alt=\"\">\n\n                   "
+      },
+      {
+        "target": "div > div > div:nth-of-type(2) > div > a",
+        "text": "Service Requests",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.city-plap.com/council-administration/service-requests/",
+        "imgAlt": "",
+        "box": {
+          "x": 234.0625,
+          "y": 670,
+          "w": 126.4375,
+          "h": 114
+        },
+        "context": "heading: Home | Register for Connect Portage Service Requests Garbage and Recycling News Property Taxes Utilities Virtual City Hall",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.city-plap.com/council-administration/service-requests/\">\n                    <div class=\"image    \">\n                                    <img src=\"https://media-002-ca.cdn.govstack.com/cityplap-009-ca/media/hpinizk1/street-sweeping.svg\" alt=\"\">\n\n                    </div>\n      "
+      },
+      {
+        "target": "div > div > div:nth-of-type(3) > div > a",
+        "text": "Garbage and Recycling",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.city-plap.com/home-property-community/garbage-and-recycling/",
+        "imgAlt": "",
+        "box": {
+          "x": 408.71875,
+          "y": 670,
+          "w": 162.84375,
+          "h": 138
+        },
+        "context": "heading: Home | Register for Connect Portage Service Requests Garbage and Recycling News Property Taxes Utilities Virtual City Hall",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.city-plap.com/home-property-community/garbage-and-recycling/\">\n                    <div class=\"image    \">\n                                    <img src=\"https://media-002-ca.cdn.govstack.com/cityplap-009-ca/media/kffjksog/recycle_bin.svg\" alt=\"\">\n\n                    </div>\n    "
+      },
+      {
+        "target": "div > div > div:nth-of-type(4) > div > a",
+        "text": "News",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.city-plap.com/news/",
+        "imgAlt": "",
+        "box": {
+          "x": 653,
+          "y": 670,
+          "w": 60,
+          "h": 114
+        },
+        "context": "heading: Home | Register for Connect Portage Service Requests Garbage and Recycling News Property Taxes Utilities Virtual City Hall",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.city-plap.com/news/\">\n                    <div class=\"image    \">\n                                    <img src=\"https://media-002-ca.cdn.govstack.com/cityplap-009-ca/media/v2lbud4i/folded-newspaper.svg\" alt=\"\">\n\n                    </div>\n                    <div class=\"info \">\n"
+      },
+      {
+        "target": "div > div > div:nth-of-type(5) > div > a",
+        "text": "Property Taxes",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.city-plap.com/home-property-community/property-taxes/",
+        "imgAlt": "",
+        "box": {
+          "x": 820.296875,
+          "y": 670,
+          "w": 111.078125,
+          "h": 114
+        },
+        "context": "heading: Home | Register for Connect Portage Service Requests Garbage and Recycling News Property Taxes Utilities Virtual City Hall",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.city-plap.com/home-property-community/property-taxes/\">\n                    <div class=\"image    \">\n                                    <img src=\"https://media-002-ca.cdn.govstack.com/cityplap-009-ca/media/docn4q3n/property.svg\" alt=\"\">\n\n                    </div>\n              "
+      },
+      {
+        "target": "div > div > div:nth-of-type(6) > div > a",
+        "text": "Utilities",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.city-plap.com/home-property-community/water-and-wastewater-services/",
+        "imgAlt": "",
+        "box": {
+          "x": 1038.703125,
+          "y": 670,
+          "w": 60,
+          "h": 114
+        },
+        "context": "heading: Home | Register for Connect Portage Service Requests Garbage and Recycling News Property Taxes Utilities Virtual City Hall",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.city-plap.com/home-property-community/water-and-wastewater-services/\">\n                    <div class=\"image    \">\n                                    <img src=\"https://media-002-ca.cdn.govstack.com/cityplap-009-ca/media/og3ctlgh/water-drop-waves.svg\" alt=\"\">\n\n                  "
+      },
+      {
+        "target": "div > div > div:nth-of-type(7) > div > a",
+        "text": "Virtual City Hall",
+        "ariaLabel": "",
+        "title": "",
+        "href": "http://ptgvch.city-plap.com/vch/",
+        "imgAlt": "",
+        "box": {
+          "x": 1203.4375,
+          "y": 670,
+          "w": 116.234375,
+          "h": 114
+        },
+        "context": "heading: Home | Register for Connect Portage Service Requests Garbage and Recycling News Property Taxes Utilities Virtual City Hall",
+        "contextKind": "block",
+        "html": "<a href=\"http://ptgvch.city-plap.com/vch/\">\n                    <div class=\"image    \">\n                                    <img src=\"https://media-002-ca.cdn.govstack.com/cityplap-009-ca/media/00fpssrk/court-library-city.svg\" alt=\"\">\n\n                    </div>\n                    <div class=\"info "
+      },
+      {
+        "target": "div > div > div:nth-of-type(1) > div > a",
+        "text": "Roads and Parking Learn about Roads and Parking.",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.city-plap.com/home-property-community/roads-and-parking/",
+        "imgAlt": "",
+        "box": {
+          "x": 23,
+          "y": 898,
+          "w": 307.5,
+          "h": 265.1875
+        },
+        "context": "heading: Home | Roads and Parking Learn about Roads and Parking.",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.city-plap.com/home-property-community/roads-and-parking/\">\n                    <div class=\"image   image16by10 \">\n                                    <picture>\n                <source type=\"image/webp\" data-srcset=\"https://media-002-ca.cdn.govstack.com/cityplap-009-ca/media/vvtn"
+      },
+      {
+        "target": "div > div > div:nth-of-type(2) > div > a",
+        "text": "Garbage and Recycling The City of Portage la Prairie operates a 5-day solid waste collection cycle.",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.city-plap.com/home-property-community/garbage-and-recycling/",
+        "imgAlt": "person throwing empty water bottles into a black garbage bag",
+        "box": {
+          "x": 360.5,
+          "y": 898,
+          "w": 307.5,
+          "h": 289.1875
+        },
+        "context": "heading: Home | Garbage and Recycling The City of Portage la Prairie operates a 5-day solid waste collection cycle.",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.city-plap.com/home-property-community/garbage-and-recycling/\">\n                    <div class=\"image   image16by10 \">\n                                    <picture>\n                <source type=\"image/webp\" data-srcset=\"https://media-002-ca.cdn.govstack.com/cityplap-009-ca/media/"
+      },
+      {
+        "target": "div > div > div:nth-of-type(3) > div > a",
+        "text": "Animal Services Learn about Animal Services here.",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.city-plap.com/home-property-community/animal-services/",
+        "imgAlt": "",
+        "box": {
+          "x": 698,
+          "y": 898,
+          "w": 307.5,
+          "h": 265.1875
+        },
+        "context": "heading: Home | Animal Services Learn about Animal Services here.",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.city-plap.com/home-property-community/animal-services/\">\n                    <div class=\"image   image16by10 \">\n                                    <picture>\n                <source type=\"image/webp\" data-srcset=\"https://media-002-ca.cdn.govstack.com/cityplap-009-ca/media/eq5npi"
+      },
+      {
+        "target": "div > div > div:nth-of-type(4) > div > a",
+        "text": "Community Events Discover events happening in Portage la Prairie and area.",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.portageonline.com/events",
+        "imgAlt": "",
+        "box": {
+          "x": 1035.5,
+          "y": 898,
+          "w": 307.5,
+          "h": 289.1875
+        },
+        "context": "heading: Home | Community Events Discover events happening in Portage la Prairie and area.",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.portageonline.com/events\">\n                    <div class=\"image   image16by10 \">\n                                    <picture>\n                <source type=\"image/webp\" data-srcset=\"https://media-002-ca.cdn.govstack.com/cityplap-009-ca/media/qe3n1xto/events.jpg?width=1600&amp;h"
+      },
+      {
+        "target": "div > div > div > p:nth-of-type(2) > a",
+        "text": "Learn more",
+        "ariaLabel": "",
+        "title": "Link will open in a new window/tab",
+        "href": "https://issuu.com/poisepublications/docs/portage_la_prairie_city_guide_summer_2026",
+        "imgAlt": "",
+        "box": {
+          "x": 23,
+          "y": 1662.1875,
+          "w": 128.6875,
+          "h": 42
+        },
+        "context": "Learn more",
+        "contextKind": "p",
+        "html": "<a class=\"btn  base-btn-bg base-btn-bg-solid base-btn-bg-hover-solid base-btn-text base-btn-borders\" href=\"https://issuu.com/poisepublications/docs/portage_la_prairie_city_guide_summer_2026\" target=\"_blank\" rel=\"noreferrer noopener\" title=\"Link will open in a new window/tab\" tabindex=\"-1\">\n         "
+      },
+      {
+        "target": "div > div > div > p:nth-of-type(2) > a",
+        "text": "Learn more",
+        "ariaLabel": "",
+        "title": "Link will open in a new window/tab",
+        "href": "https://www.city-plap.com/council-administration/municipal-council-and-school-board-elections-2026/",
+        "imgAlt": "",
+        "box": {
+          "x": 191.75,
+          "y": 1566.1875,
+          "w": 128.6875,
+          "h": 42
+        },
+        "context": "Learn more",
+        "contextKind": "p",
+        "html": "<a class=\"btn  c2-btn-bg c2-btn-bg-solid c2-btn-bg-hover-solid c2-btn-text c2-btn-borders\" href=\"https://www.city-plap.com/council-administration/municipal-council-and-school-board-elections-2026/\" target=\"_blank\" rel=\"noreferrer noopener\" title=\"Link will open in a new window/tab\" tabindex=\"-1\">\n  "
+      },
+      {
+        "target": "div > div > div > p:nth-of-type(2) > a",
+        "text": "Learn More",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.city-plap.com/news/posts/2026-fall-clean-up-yard-waste-collection/",
+        "imgAlt": "",
+        "box": {
+          "x": 191.75,
+          "y": 1551.1875,
+          "w": 128.21875,
+          "h": 42
+        },
+        "context": "Learn More",
+        "contextKind": "p",
+        "html": "<a class=\"btn  base-btn-bg base-btn-bg-solid base-btn-bg-hover-solid base-btn-text base-btn-borders\" href=\"https://www.city-plap.com/news/posts/2026-fall-clean-up-yard-waste-collection/\">\n                                                        <span></span>\n                                          "
+      },
+      {
+        "target": "li:nth-of-type(1) > div > div > div > a",
+        "text": "Road Closure - 21st Street NW",
+        "ariaLabel": "",
+        "title": "Click to open Road Closure - 21st Street NW",
+        "href": "/news/posts/road-closure-21st-street-nw/",
+        "imgAlt": "",
+        "box": {
+          "x": 23,
+          "y": 2005.1875,
+          "w": 645,
+          "h": 26.59375
+        },
+        "context": "Road Closure - 21st Street NW 21st Street NW from Saskatchewan Avenue to Gigot Avenue has reopened to traffic. By City of Portage la Prairie - Sep 16, 2026 Service Disruptions",
+        "contextKind": "li",
+        "html": "<a href=\"/news/posts/road-closure-21st-street-nw/\" title=\"Click to open Road Closure - 21st Street NW\" class=\"gs-feed-list-title \">Road Closure - 21st Street NW</a>"
+      },
+      {
+        "target": "div > div > div > span:nth-of-type(1) > a",
+        "text": "By City of Portage la Prairie",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/news/authors/city-of-portage-la-prairie/",
+        "imgAlt": "",
+        "box": {
+          "x": 23,
+          "y": 2068.78125,
+          "w": 185.71875,
+          "h": 21
+        },
+        "context": "Road Closure - 21st Street NW 21st Street NW from Saskatchewan Avenue to Gigot Avenue has reopened to traffic. By City of Portage la Prairie - Sep 16, 2026 Service Disruptions",
+        "contextKind": "li",
+        "html": "<a href=\"/news/authors/city-of-portage-la-prairie/\">By City of Portage la Prairie</a>"
+      },
+      {
+        "target": "div > div > ul > li > a",
+        "text": "Service Disruptions",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/news/service-disruptions/",
+        "imgAlt": "",
+        "box": {
+          "x": 23,
+          "y": 2099.78125,
+          "w": 146.828125,
+          "h": 31
+        },
+        "context": "Service Disruptions",
+        "contextKind": "li",
+        "html": "<a class=\"cat-btn \" href=\"/news/service-disruptions/\">\n                                                <span></span>\n                                                Service Disruptions\n                                                </a>"
+      },
+      {
+        "target": "li:nth-of-type(2) > div > div > div > a",
+        "text": "Youth Member of Council Applications Open for 2026-2027 Term",
+        "ariaLabel": "",
+        "title": "Click to open Youth Member of Council Applications Open for 2026-2027 Term",
+        "href": "/news/posts/youth-member-of-council-applications-open-for-2026-2027-term/",
+        "imgAlt": "",
+        "box": {
+          "x": 23,
+          "y": 2200.78125,
+          "w": 645,
+          "h": 26.59375
+        },
+        "context": "Youth Member of Council Applications Open for 2026-2027 Term Mayor Knox and Council are seeking nominations for the 2026/27 Youth Member of Council position. By City of Portage la Prairie - Sep 14, 20",
+        "contextKind": "li",
+        "html": "<a href=\"/news/posts/youth-member-of-council-applications-open-for-2026-2027-term/\" title=\"Click to open Youth Member of Council Applications Open for 2026-2027 Term\" class=\"gs-feed-list-title \">Youth Member of Council Applications Open for 2026-2027 Term</a>"
+      },
+      {
+        "target": "div > div > div > span:nth-of-type(1) > a",
+        "text": "By City of Portage la Prairie",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/news/authors/city-of-portage-la-prairie/",
+        "imgAlt": "",
+        "box": {
+          "x": 23,
+          "y": 2288.375,
+          "w": 185.71875,
+          "h": 21
+        },
+        "context": "Youth Member of Council Applications Open for 2026-2027 Term Mayor Knox and Council are seeking nominations for the 2026/27 Youth Member of Council position. By City of Portage la Prairie - Sep 14, 20",
+        "contextKind": "li",
+        "html": "<a href=\"/news/authors/city-of-portage-la-prairie/\">By City of Portage la Prairie</a>"
+      },
+      {
+        "target": "div > div > ul > li > a",
+        "text": "News & Notices",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/news/news-notices/",
+        "imgAlt": "",
+        "box": {
+          "x": 23,
+          "y": 2319.375,
+          "w": 122.03125,
+          "h": 31
+        },
+        "context": "News & Notices",
+        "contextKind": "li",
+        "html": "<a class=\"cat-btn \" href=\"/news/news-notices/\">\n                                                <span></span>\n                                                News &amp; Notices\n                                                </a>"
+      },
+      {
+        "target": "li:nth-of-type(3) > div > div > div > a",
+        "text": "We're Hiring - Class 4 Water Pollution Control Facility Operator",
+        "ariaLabel": "",
+        "title": "Click to open We're Hiring - Class 4 Water Pollution Control Facility Operator",
+        "href": "/news/posts/were-hiring-class-4-water-pollution-control-facility-operator/",
+        "imgAlt": "",
+        "box": {
+          "x": 23,
+          "y": 2420.375,
+          "w": 645,
+          "h": 26.59375
+        },
+        "context": "We're Hiring - Class 4 Water Pollution Control Facility Operator The City of Portage la Prairie is accepting resumes for the position of Class 4 Water Pollution Control Facility Operator. By City of P",
+        "contextKind": "li",
+        "html": "<a href=\"/news/posts/were-hiring-class-4-water-pollution-control-facility-operator/\" title=\"Click to open We're Hiring - Class 4 Water Pollution Control Facility Operator\" class=\"gs-feed-list-title \">We're Hiring - Class 4 Water Pollution Control Facility Operator</a>"
+      },
+      {
+        "target": "div > div > div > span:nth-of-type(1) > a",
+        "text": "By City of Portage la Prairie",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/news/authors/city-of-portage-la-prairie/",
+        "imgAlt": "",
+        "box": {
+          "x": 23,
+          "y": 2507.96875,
+          "w": 185.71875,
+          "h": 21
+        },
+        "context": "We're Hiring - Class 4 Water Pollution Control Facility Operator The City of Portage la Prairie is accepting resumes for the position of Class 4 Water Pollution Control Facility Operator. By City of P",
+        "contextKind": "li",
+        "html": "<a href=\"/news/authors/city-of-portage-la-prairie/\">By City of Portage la Prairie</a>"
+      },
+      {
+        "target": "div > div > ul > li > a",
+        "text": "Job Opportunities",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/news/job-opportunities/",
+        "imgAlt": "",
+        "box": {
+          "x": 23,
+          "y": 2538.96875,
+          "w": 135.828125,
+          "h": 31
+        },
+        "context": "Job Opportunities",
+        "contextKind": "li",
+        "html": "<a class=\"cat-btn \" href=\"/news/job-opportunities/\">\n                                                <span></span>\n                                                Job Opportunities\n                                                </a>"
+      },
+      {
+        "target": "li:nth-of-type(4) > div > div > div > a",
+        "text": "Bulky Waste Collection Week: September 21 - 25, 2026",
+        "ariaLabel": "",
+        "title": "Click to open Bulky Waste Collection Week: September 21 - 25, 2026",
+        "href": "/news/posts/bulky-waste-collection-week-september-21-25-2026/",
+        "imgAlt": "",
+        "box": {
+          "x": 23,
+          "y": 2639.96875,
+          "w": 645,
+          "h": 26.59375
+        },
+        "context": "Bulky Waste Collection Week: September 21 - 25, 2026 Bulky Waste Collection Week will take place September 21-25. This free service is available to all City residents. By City of Portage la Prairie - ",
+        "contextKind": "li",
+        "html": "<a href=\"/news/posts/bulky-waste-collection-week-september-21-25-2026/\" title=\"Click to open Bulky Waste Collection Week: September 21 - 25, 2026\" class=\"gs-feed-list-title \">Bulky Waste Collection Week: September 21 - 25, 2026</a>"
+      },
+      {
+        "target": "div > div > div > span:nth-of-type(1) > a",
+        "text": "By City of Portage la Prairie",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/news/authors/city-of-portage-la-prairie/",
+        "imgAlt": "",
+        "box": {
+          "x": 23,
+          "y": 2727.5625,
+          "w": 185.71875,
+          "h": 21
+        },
+        "context": "Bulky Waste Collection Week: September 21 - 25, 2026 Bulky Waste Collection Week will take place September 21-25. This free service is available to all City residents. By City of Portage la Prairie - ",
+        "contextKind": "li",
+        "html": "<a href=\"/news/authors/city-of-portage-la-prairie/\">By City of Portage la Prairie</a>"
+      },
+      {
+        "target": "div > div > ul > li > a",
+        "text": "News & Notices",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/news/news-notices/",
+        "imgAlt": "",
+        "box": {
+          "x": 23,
+          "y": 2758.5625,
+          "w": 122.03125,
+          "h": 31
+        },
+        "context": "News & Notices",
+        "contextKind": "li",
+        "html": "<a class=\"cat-btn \" href=\"/news/news-notices/\">\n                                                <span></span>\n                                                News &amp; Notices\n                                                </a>"
+      },
+      {
+        "target": "li:nth-of-type(5) > div > div > div > a",
+        "text": "We're Hiring - Water Treatment Operator",
+        "ariaLabel": "",
+        "title": "Click to open We're Hiring - Water Treatment Operator",
+        "href": "/news/posts/were-hiring-water-treatment-operator/",
+        "imgAlt": "",
+        "box": {
+          "x": 23,
+          "y": 2859.5625,
+          "w": 645,
+          "h": 26.59375
+        },
+        "context": "We're Hiring - Water Treatment Operator The City of Portage la Prairie is accepting resumes for the position of Water Treatment Operator. By City of Portage la Prairie - Sep 09, 2026 Job Opportunities",
+        "contextKind": "li",
+        "html": "<a href=\"/news/posts/were-hiring-water-treatment-operator/\" title=\"Click to open We're Hiring - Water Treatment Operator\" class=\"gs-feed-list-title \">We're Hiring - Water Treatment Operator</a>"
+      },
+      {
+        "target": "div > div > div > span:nth-of-type(1) > a",
+        "text": "By City of Portage la Prairie",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/news/authors/city-of-portage-la-prairie/",
+        "imgAlt": "",
+        "box": {
+          "x": 23,
+          "y": 2947.15625,
+          "w": 185.71875,
+          "h": 21
+        },
+        "context": "We're Hiring - Water Treatment Operator The City of Portage la Prairie is accepting resumes for the position of Water Treatment Operator. By City of Portage la Prairie - Sep 09, 2026 Job Opportunities",
+        "contextKind": "li",
+        "html": "<a href=\"/news/authors/city-of-portage-la-prairie/\">By City of Portage la Prairie</a>"
+      },
+      {
+        "target": "div > div > ul > li > a",
+        "text": "Job Opportunities",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/news/job-opportunities/",
+        "imgAlt": "",
+        "box": {
+          "x": 23,
+          "y": 2978.15625,
+          "w": 135.828125,
+          "h": 31
+        },
+        "context": "Job Opportunities",
+        "contextKind": "li",
+        "html": "<a class=\"cat-btn \" href=\"/news/job-opportunities/\">\n                                                <span></span>\n                                                Job Opportunities\n                                                </a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div > div:nth-of-type(2) > p:nth-of-type(2) > a",
+        "text": "Adopt a Catch Basin",
+        "ariaLabel": "",
+        "title": "Link will open in a new window/tab",
+        "href": "https://www.city-plap.com/home-property-community/roads-and-parking/adopt-a-catch-basin/",
+        "imgAlt": "",
+        "box": {
+          "x": 728,
+          "y": 2657.40625,
+          "w": 199.390625,
+          "h": 42
+        },
+        "context": "Adopt a Catch Basin",
+        "contextKind": "p",
+        "html": "<a href=\"https://www.city-plap.com/home-property-community/roads-and-parking/adopt-a-catch-basin/\" target=\"_blank\" rel=\"noreferrer noopener\" title=\"Link will open in a new window/tab\" class=\"btn  base-btn-bg base-btn-bg-solid base-btn-bg-hover-solid base-btn-text base-btn-borders\">\n                 "
+      },
+      {
+        "target": "div:nth-of-type(2) > div > div > p > a",
+        "text": "Sign Up Today!",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.city-plap.com/subscription-messaging/",
+        "imgAlt": "",
+        "box": {
+          "x": 1180.828125,
+          "y": 3233.15625,
+          "w": 157.171875,
+          "h": 42
+        },
+        "context": "Sign Up Today!",
+        "contextKind": "p",
+        "html": "<a class=\"btn  c4-btn-bg c4-btn-bg-solid c4-btn-bg-hover-solid c4-btn-text c4-btn-borders\" href=\"https://www.city-plap.com/subscription-messaging/\">\n                                <span></span>\n                                Sign Up Today!\n                            </a>"
+      },
+      {
+        "target": "div > div > div > p > a:nth-of-type(1)",
+        "text": "",
+        "ariaLabel": "",
+        "title": "tel:204-239-8309",
+        "href": "tel:204-239-8309",
+        "imgAlt": "",
+        "box": {
+          "x": 77.84375,
+          "y": 3536.15625,
+          "w": 110.03125,
+          "h": 20
+        },
+        "context": "",
+        "contextKind": "p",
+        "html": "<a href=\"tel:204-239-8309\" title=\"tel:204-239-8309\" class=\"css-1rn59kg\" data-testid=\"link-with-safety\" data-renderer-mark=\"true\">204-239-8309</a>"
+      },
+      {
+        "target": "div > div > div > p > a:nth-of-type(2)",
+        "text": "",
+        "ariaLabel": "",
+        "title": "mailto:info@city-plap.com",
+        "href": "mailto:info@city-plap.com",
+        "imgAlt": "",
+        "box": {
+          "x": 23,
+          "y": 3560.15625,
+          "w": 147.359375,
+          "h": 20
+        },
+        "context": "",
+        "contextKind": "p",
+        "html": "<a href=\"mailto:info@city-plap.com\" title=\"mailto:info@city-plap.com\" class=\"css-1rn59kg\" data-testid=\"link-with-safety\" data-renderer-mark=\"true\">info@city-plap.com</a>"
+      },
+      {
+        "target": "div > div > div > p > a:nth-of-type(1)",
+        "text": "",
+        "ariaLabel": "",
+        "title": "Sitemap",
+        "href": "/sitemap/",
+        "imgAlt": "",
+        "box": {
+          "x": 473,
+          "y": 3440.15625,
+          "w": 63.484375,
+          "h": 20
+        },
+        "context": "",
+        "contextKind": "p",
+        "html": "<a href=\"/sitemap/\" title=\"Sitemap\">Sitemap</a>"
+      },
+      {
+        "target": "div > div > div > p > a:nth-of-type(2)",
+        "text": "",
+        "ariaLabel": "",
+        "title": "Accessibility",
+        "href": "/council-administration/accessibility/",
+        "imgAlt": "",
+        "box": {
+          "x": 473,
+          "y": 3464.15625,
+          "w": 94.046875,
+          "h": 20
+        },
+        "context": "",
+        "contextKind": "p",
+        "html": "<a href=\"/council-administration/accessibility/\" title=\"Accessibility\">Accessibility</a>"
+      },
+      {
+        "target": "div > div > div > p > a:nth-of-type(3)",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://forms.city-plap.com/Website-Feedback-Form",
+        "imgAlt": "",
+        "box": {
+          "x": 473,
+          "y": 3488.15625,
+          "w": 140,
+          "h": 20
+        },
+        "context": "",
+        "contextKind": "p",
+        "html": "<a href=\"https://forms.city-plap.com/Website-Feedback-Form\" data-anchor=\"#\">Website Feedback</a>"
+      },
+      {
+        "target": "div > div > div > p > a:nth-of-type(4)",
+        "text": "",
+        "ariaLabel": "",
+        "title": "Privacy Policy",
+        "href": "/privacy-policy/",
+        "imgAlt": "",
+        "box": {
+          "x": 473,
+          "y": 3512.15625,
+          "w": 105.65625,
+          "h": 20
+        },
+        "context": "",
+        "contextKind": "p",
+        "html": "<a href=\"/privacy-policy/\" title=\"Privacy Policy\">Privacy Policy</a>"
+      },
+      {
+        "target": "div > div > div > p > a:nth-of-type(5)",
+        "text": "",
+        "ariaLabel": "",
+        "title": "City Projects",
+        "href": "/council-administration/city-projects/",
+        "imgAlt": "",
+        "box": {
+          "x": 473,
+          "y": 3536.15625,
+          "w": 95.65625,
+          "h": 20
+        },
+        "context": "",
+        "contextKind": "p",
+        "html": "<a href=\"/council-administration/city-projects/\" title=\"City Projects\">City Projects</a>"
+      },
+      {
+        "target": "nav > ul > li:nth-of-type(1) > span > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "Link will open in a new window/tab",
+        "href": "https://www.facebook.com/cityplap/",
+        "imgAlt": "Facebook Icon",
+        "box": {
+          "x": 923,
+          "y": 3443.15625,
+          "w": 35,
+          "h": 35
+        },
+        "context": "",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.facebook.com/cityplap/\" class=\"item_icon-m\" data-icon=\"\" target=\"_blank\" rel=\"noreferrer noopener\" title=\"Link will open in a new window/tab\">\n                                            <img src=\"https://media-002-ca.cdn.govstack.com/cityplap-009-ca/media/1otpokoh/facebook_circ"
+      },
+      {
+        "target": "nav > ul > li:nth-of-type(2) > span > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.instagram.com/cityofportagelaprairie/#",
+        "imgAlt": "Instagram Icon",
+        "box": {
+          "x": 964.1875,
+          "y": 3443.15625,
+          "w": 35,
+          "h": 35
+        },
+        "context": "",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.instagram.com/cityofportagelaprairie/#\" class=\"item_icon-m\" data-icon=\"\">\n                                            <img src=\"https://media-002-ca.cdn.govstack.com/cityplap-009-ca/media/solbg45u/instagram_circle.svg\" alt=\"Instagram Icon\">\n                                      "
+      },
+      {
+        "target": "nav > ul > li:nth-of-type(3) > span > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "Link will open in a new window/tab",
+        "href": "https://www.youtube.com/channel/UCy2MKYDEsK_SRF2ByXIBcBw",
+        "imgAlt": "YouTube Icon",
+        "box": {
+          "x": 1005.375,
+          "y": 3443.15625,
+          "w": 35,
+          "h": 35
+        },
+        "context": "",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.youtube.com/channel/UCy2MKYDEsK_SRF2ByXIBcBw\" class=\"item_icon-m\" data-icon=\"\" target=\"_blank\" rel=\"noreferrer noopener\" title=\"Link will open in a new window/tab\">\n                                            <img src=\"https://media-002-ca.cdn.govstack.com/cityplap-009-ca/media/"
+      },
+      {
+        "target": "nav > ul > li:nth-of-type(2) > span > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "#",
+        "imgAlt": "",
+        "box": {
+          "x": 229.421875,
+          "y": 3668.15625,
+          "w": 65.140625,
+          "h": 16
+        },
+        "context": "",
+        "contextKind": "li",
+        "html": "<a href=\"#\">Disclaimer</a>"
+      },
+      {
+        "target": "nav > ul > li:nth-of-type(3) > span > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.city-plap.com/privacy-policy/",
+        "imgAlt": "",
+        "box": {
+          "x": 305.96875,
+          "y": 3668.15625,
+          "w": 85.84375,
+          "h": 16
+        },
+        "context": "",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.city-plap.com/privacy-policy/\">Privacy Policy</a>"
+      },
+      {
+        "target": "nav > ul > li:nth-of-type(4) > span > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.city-plap.com/sitemap/",
+        "imgAlt": "",
+        "box": {
+          "x": 403.21875,
+          "y": 3668.15625,
+          "w": 51.578125,
+          "h": 16
+        },
+        "context": "",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.city-plap.com/sitemap/\">Sitemap</a>"
+      },
+      {
+        "target": "nav > ul > li:nth-of-type(5) > span > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://forms.city-plap.com/Website-Feedback-Form#",
+        "imgAlt": "",
+        "box": {
+          "x": 466.203125,
+          "y": 3668.15625,
+          "w": 113.75,
+          "h": 16
+        },
+        "context": "",
+        "contextKind": "li",
+        "html": "<a href=\"https://forms.city-plap.com/Website-Feedback-Form#\">Website Feedback</a>"
+      },
+      {
+        "target": "nav > ul > li:nth-of-type(6) > span > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.city-plap.com/council-administration/contact-us/",
+        "imgAlt": "",
+        "box": {
+          "x": 591.359375,
+          "y": 3668.15625,
+          "w": 68.1875,
+          "h": 16
+        },
+        "context": "",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.city-plap.com/council-administration/contact-us/\">Contact Us</a>"
+      },
+      {
+        "target": "nav > ul > li:nth-of-type(7) > span > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "Link will open in a new window/tab",
+        "href": "https://www.govstack.com/",
+        "imgAlt": "",
+        "box": {
+          "x": 1285.703125,
+          "y": 3668.15625,
+          "w": 57.296875,
+          "h": 16
+        },
+        "context": "",
+        "contextKind": "li",
+        "html": "<a target=\"_blank\" rel=\"noopener\" title=\"Link will open in a new window/tab\" href=\"https://www.govstack.com/\">Govstack</a>"
+      }
+    ],
+    "headings": [
+      {
+        "target": "section:nth-of-type(1) > div > div > div > h1",
+        "level": 1,
+        "text": "Home",
+        "visible": true,
+        "box": {
+          "x": 8,
+          "y": 120,
+          "w": 1,
+          "h": 1
+        },
+        "html": "<h1 class=\"sr-only heading main base-heading\">Home</h1>"
+      },
+      {
+        "target": "div > div > div > div:nth-of-type(1) > h2",
+        "level": 2,
+        "text": "News",
+        "visible": true,
+        "box": {
+          "x": 23,
+          "y": 1923.1875,
+          "w": 645,
+          "h": 36
+        },
+        "html": "<h2 class=\"\">News</h2>"
+      }
+    ],
+    "lang": "en",
+    "title": "Home | City of Portage la Prairie"
+  },
   "axe": {
     "violationRules": 1,
     "violationNodes": 2,
@@ -206,7 +1732,7 @@
           ],
           "box": {
             "x": 0,
-            "y": 3172.40625,
+            "y": 3163,
             "w": 1366,
             "h": 205,
             "fontSize": 16,

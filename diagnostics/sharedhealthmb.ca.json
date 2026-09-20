@@ -19,7 +19,1046 @@
     "width": 1366,
     "height": 900
   },
-  "scannedAt": "2026-09-19T06:24:25.143Z",
+  "scannedAt": "2026-09-19T23:56:39.933Z",
+  "content": {
+    "images": [
+      {
+        "target": "#custom-1115-particle > a > img",
+        "tag": "img",
+        "src": "https://sharedhealthmb.ca/files/sharedhealth-logo.png",
+        "alt": "Shared Health logo",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "Shared Health Manitoba",
+        "naturalWidth": 280,
+        "naturalHeight": 89,
+        "box": {
+          "x": 117,
+          "y": 24,
+          "w": 280,
+          "h": 89
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"/files/sharedhealth-logo.png\" alt=\"Shared Health logo\" title=\"Shared Health Manitoba\">"
+      },
+      {
+        "target": "#metaslider_24702 > img",
+        "tag": "img",
+        "src": "https://sharedhealthmb.ca/wp-content/uploads/kid-care-front-page-banner.jpg",
+        "alt": "Kid Care",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 1920,
+        "naturalHeight": 400,
+        "box": {
+          "x": 0,
+          "y": 181.953125,
+          "w": 1366,
+          "h": 284.578125
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "Previous Next",
+        "html": "<img class=\"nivo-main-image\" src=\"https://sharedhealthmb.ca/wp-content/uploads/kid-care-front-page-banner.jpg\" alt=\"Kid Care\" style=\"height: auto; width: 1366px;\">"
+      },
+      {
+        "target": "#trkInMB > img",
+        "tag": "img",
+        "src": "https://sharedhealthmb.ca/wp-content/uploads/rural-mb-card.jpg",
+        "alt": "Grain Bin in Rural Manitoba",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "Find care in Manitoba",
+        "naturalWidth": 508,
+        "naturalHeight": 290,
+        "box": {
+          "x": 417,
+          "y": 1354.265625,
+          "w": 532,
+          "h": 303.6875
+        },
+        "inLink": true,
+        "linkText": "Where to Go",
+        "linkHref": "/patient-care/where-to-go/",
+        "caption": "",
+        "nearText": "Where to Go",
+        "html": "<img src=\"/wp-content/uploads/rural-mb-card.jpg\" alt=\"Grain Bin in Rural Manitoba\" title=\"Find care in Manitoba\">"
+      },
+      {
+        "target": "#custom-6994-particle > a:nth-of-type(1) > img",
+        "tag": "img",
+        "src": "https://sharedhealthmb.ca/files/shmb-logo-ko.png",
+        "alt": "Shared Health logo",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "Shared Health Manitoba",
+        "naturalWidth": 300,
+        "naturalHeight": 84,
+        "box": {
+          "x": 117,
+          "y": 1938.828125,
+          "w": 232,
+          "h": 64.953125
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"/files/shmb-logo-ko.png\" width=\"280\" alt=\"Shared Health logo\" title=\"Shared Health Manitoba\">"
+      },
+      {
+        "target": "#custom-6994-particle > a:nth-of-type(2) > img",
+        "tag": "img",
+        "src": "https://sharedhealthmb.ca/files/ACSealA-logo.png",
+        "alt": "Accreditation Canada seal",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "Accreditation Canada",
+        "naturalWidth": 237,
+        "naturalHeight": 237,
+        "box": {
+          "x": 173,
+          "y": 2009.78125,
+          "w": 120,
+          "h": 120
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "/about/accreditation/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"/files/ACSealA-logo.png\" width=\"120\" alt=\"Accreditation Canada seal\" title=\"Accreditation Canada\">"
+      },
+      {
+        "target": "html > body > section > button > img",
+        "tag": "img",
+        "src": "https://sharedhealthmb.ca/wp-content/plugins/accessibility-onetap/assets/images/admin/Original_Logo_Icon.svg",
+        "alt": "",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 150,
+        "naturalHeight": 150,
+        "box": {
+          "x": 1301,
+          "y": 385,
+          "w": 48,
+          "h": 48
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "",
+        "html": "<img class=\"design-size1 design-border1\" src=\"https://sharedhealthmb.ca/wp-content/plugins/accessibility-onetap/assets/images/admin/Original_Logo_Icon.svg\" alt=\"\">"
+      },
+      {
+        "target": "#onetap-language-list > div > img:nth-of-type(1)",
+        "tag": "img",
+        "src": "https://sharedhealthmb.ca/wp-content/plugins/accessibility-onetap/assets/images/english.png",
+        "alt": "United States",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 177,
+        "naturalHeight": 177,
+        "box": {
+          "x": 1392,
+          "y": 26,
+          "w": 22,
+          "h": 22
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://sharedhealthmb.ca/wp-content/plugins/accessibility-onetap/assets/images/english.png\" class=\"onetap-active\" data-language=\"en\" alt=\"United States\">"
+      },
+      {
+        "target": "#onetap-language-list > p > img",
+        "tag": "img",
+        "src": "https://sharedhealthmb.ca/wp-content/plugins/accessibility-onetap/assets/images/icon-drop-down-menu.png",
+        "alt": "",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 549,
+        "naturalHeight": 333,
+        "box": {
+          "x": 1475.296875,
+          "y": 35.96875,
+          "w": 10,
+          "h": 6.0625
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "English Accessibility Adjustments Powered by OneTap Hide Toolbar Content Modules Font Size Default Readable Font Line Height Default Big Cursor Letter Spacing A",
+        "html": "<img src=\"https://sharedhealthmb.ca/wp-content/plugins/accessibility-onetap/assets/images/icon-drop-down-menu.png\" width=\"10\" height=\"10\" alt=\"\">"
+      }
+    ],
+    "links": [
+      {
+        "target": "#execphp-2 > div > a",
+        "text": "En Français",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://soinscommunsmb.ca/",
+        "imgAlt": "",
+        "box": {
+          "x": 1117.5,
+          "y": 28,
+          "w": 74.46875,
+          "h": 19
+        },
+        "context": "",
+        "contextKind": "none",
+        "html": "<a href=\"https://soinscommunsmb.ca/\">En Français</a>"
+      },
+      {
+        "target": "#custom-1115-particle > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/",
+        "imgAlt": "Shared Health logo",
+        "box": {
+          "x": 117,
+          "y": 96,
+          "w": 280,
+          "h": 22
+        },
+        "context": "",
+        "contextKind": "none",
+        "html": "<a href=\"/\"><img src=\"/files/sharedhealth-logo.png\" alt=\"Shared Health logo\" title=\"Shared Health Manitoba\"></a>"
+      },
+      {
+        "target": "#custom-5005-particle > a:nth-of-type(1)",
+        "text": "",
+        "ariaLabel": "",
+        "title": "Twitter",
+        "href": "https://twitter.com/SharedHealthMB",
+        "imgAlt": "",
+        "box": {
+          "x": 829,
+          "y": 49.5,
+          "w": 36,
+          "h": 43
+        },
+        "context": "",
+        "contextKind": "none",
+        "html": "<a href=\"https://twitter.com/SharedHealthMB\" target=\"_blank\" title=\"Twitter\"><i class=\"fa-brands fa-square-x-twitter\"></i></a>"
+      },
+      {
+        "target": "#custom-5005-particle > a:nth-of-type(2)",
+        "text": "",
+        "ariaLabel": "",
+        "title": "Facebook",
+        "href": "https://fb.me/sharedhealthmanitoba",
+        "imgAlt": "",
+        "box": {
+          "x": 865,
+          "y": 49.5,
+          "w": 36,
+          "h": 43
+        },
+        "context": "",
+        "contextKind": "none",
+        "html": "<a href=\"https://fb.me/sharedhealthmanitoba\" target=\"_blank\" title=\"Facebook\"><i class=\"fab fa-facebook-square\"></i></a>"
+      },
+      {
+        "target": "#custom-5005-particle > a:nth-of-type(3)",
+        "text": "",
+        "ariaLabel": "",
+        "title": "Instagram",
+        "href": "https://www.instagram.com/sharedhealthmb/",
+        "imgAlt": "",
+        "box": {
+          "x": 901,
+          "y": 49.5,
+          "w": 36,
+          "h": 43
+        },
+        "context": "",
+        "contextKind": "none",
+        "html": "<a href=\"https://www.instagram.com/sharedhealthmb/\" target=\"_blank\" title=\"Instagram\"><i class=\"fab fa-instagram-square\"></i></a>"
+      },
+      {
+        "target": "#custom-5005-particle > a:nth-of-type(4)",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.linkedin.com/company/shared-health-soins-communs",
+        "imgAlt": "",
+        "box": {
+          "x": 937,
+          "y": 49.5,
+          "w": 36,
+          "h": 43
+        },
+        "context": "",
+        "contextKind": "none",
+        "html": "<a href=\"https://www.linkedin.com/company/shared-health-soins-communs\" target=\"_blank\"><i class=\"fab fa-linkedin-square\"></i></a>"
+      },
+      {
+        "target": "#custom-5005-particle > a:nth-of-type(5)",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.tiktok.com/@sharedhealthmb",
+        "imgAlt": "",
+        "box": {
+          "x": 973,
+          "y": 49.5,
+          "w": 36,
+          "h": 43
+        },
+        "context": "",
+        "contextKind": "none",
+        "html": "<a href=\"https://www.tiktok.com/@sharedhealthmb\" target=\"_blank\"><i class=\"fa-brands fa-tiktok\"></i></a>"
+      },
+      {
+        "target": "#menu-4179-particle > nav > ul > li:nth-of-type(1) > a",
+        "text": "COVID-19",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://sharedhealthmb.ca/covid19/",
+        "imgAlt": "",
+        "box": {
+          "x": 117,
+          "y": 134,
+          "w": 127.9375,
+          "h": 47.953125
+        },
+        "context": "COVID-19",
+        "contextKind": "li",
+        "html": "<a class=\"g-menu-item-container\" href=\"https://sharedhealthmb.ca/covid19/\">\n                                                                <span class=\"g-menu-item-content\">\n                                    <span class=\"g-menu-item-title\">COVID-19</span>\n            \n                    </span>\n"
+      },
+      {
+        "target": "#menu-4179-particle > nav > ul > li:nth-of-type(2) > a",
+        "text": "About",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://sharedhealthmb.ca/about/",
+        "imgAlt": "",
+        "box": {
+          "x": 244.9375,
+          "y": 134,
+          "w": 120.78125,
+          "h": 47.953125
+        },
+        "context": "About",
+        "contextKind": "li",
+        "html": "<a class=\"g-menu-item-container\" href=\"https://sharedhealthmb.ca/about/\" rel=\"page\">\n                                                                <span class=\"g-menu-item-content\">\n                                    <span class=\"g-menu-item-title\">About</span>\n            \n                    </"
+      },
+      {
+        "target": "#menu-4179-particle > nav > ul > li:nth-of-type(3) > a",
+        "text": "Patient Care",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://sharedhealthmb.ca/patient-care/",
+        "imgAlt": "",
+        "box": {
+          "x": 365.71875,
+          "y": 134,
+          "w": 172.328125,
+          "h": 47.953125
+        },
+        "context": "Patient Care",
+        "contextKind": "li",
+        "html": "<a class=\"g-menu-item-container\" href=\"https://sharedhealthmb.ca/patient-care/\" rel=\"page\">\n                                                                <span class=\"g-menu-item-content\">\n                                    <span class=\"g-menu-item-title\">Patient Care</span>\n            \n        "
+      },
+      {
+        "target": "#menu-4179-particle > nav > ul > li:nth-of-type(4) > a",
+        "text": "Services",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://sharedhealthmb.ca/services/",
+        "imgAlt": "",
+        "box": {
+          "x": 538.046875,
+          "y": 134,
+          "w": 137.875,
+          "h": 47.953125
+        },
+        "context": "Services",
+        "contextKind": "li",
+        "html": "<a class=\"g-menu-item-container\" href=\"https://sharedhealthmb.ca/services/\" rel=\"page\">\n                                                                <span class=\"g-menu-item-content\">\n                                    <span class=\"g-menu-item-title\">Services</span>\n            \n                "
+      },
+      {
+        "target": "#menu-4179-particle > nav > ul > li:nth-of-type(5) > a",
+        "text": "News",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://sharedhealthmb.ca/news/",
+        "imgAlt": "",
+        "box": {
+          "x": 675.921875,
+          "y": 134,
+          "w": 116.296875,
+          "h": 47.953125
+        },
+        "context": "News",
+        "contextKind": "li",
+        "html": "<a class=\"g-menu-item-container\" href=\"https://sharedhealthmb.ca/news/\">\n                                                                <span class=\"g-menu-item-content\">\n                                    <span class=\"g-menu-item-title\">News</span>\n            \n                    </span>\n       "
+      },
+      {
+        "target": "#menu-4179-particle > nav > ul > li:nth-of-type(6) > a",
+        "text": "Careers",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://sharedhealthmb.ca/careers/",
+        "imgAlt": "",
+        "box": {
+          "x": 792.21875,
+          "y": 134,
+          "w": 134.234375,
+          "h": 47.953125
+        },
+        "context": "Careers",
+        "contextKind": "li",
+        "html": "<a class=\"g-menu-item-container\" href=\"https://sharedhealthmb.ca/careers/\">\n                                                                <span class=\"g-menu-item-content\">\n                                    <span class=\"g-menu-item-title\">Careers</span>\n            \n                    </span>\n "
+      },
+      {
+        "target": "#menu-4179-particle > nav > ul > li:nth-of-type(7) > a",
+        "text": "Contact",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://sharedhealthmb.ca/contact/",
+        "imgAlt": "",
+        "box": {
+          "x": 926.453125,
+          "y": 134,
+          "w": 134.75,
+          "h": 47.953125
+        },
+        "context": "Contact",
+        "contextKind": "li",
+        "html": "<a class=\"g-menu-item-container\" href=\"https://sharedhealthmb.ca/contact/\">\n                                                                <span class=\"g-menu-item-content\">\n                                    <span class=\"g-menu-item-title\">Contact</span>\n            \n                    </span>\n "
+      },
+      {
+        "target": "#menu-4179-particle > nav > ul > li:nth-of-type(8) > a",
+        "text": "Health Providers",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://healthproviders.sharedhealthmb.ca/",
+        "imgAlt": "",
+        "box": {
+          "x": 1061.203125,
+          "y": 134,
+          "w": 187.796875,
+          "h": 47.953125
+        },
+        "context": "Health Providers",
+        "contextKind": "li",
+        "html": "<a class=\"g-menu-item-container\" href=\"https://healthproviders.sharedhealthmb.ca/\" target=\"_blank\" rel=\"noopener noreferrer\">\n                                                                <span class=\"g-menu-item-content\">\n                                    <span class=\"g-menu-item-title\">Health "
+      },
+      {
+        "target": "#metaslider_24702 > a:nth-of-type(2)",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://sharedhealthmb.ca/patient-care/where-to-go/children-and-teens/",
+        "imgAlt": "Kid Care",
+        "box": {
+          "x": 0,
+          "y": 181.953125,
+          "w": 1366,
+          "h": 284.578125
+        },
+        "context": "",
+        "contextKind": "none",
+        "html": "<a href=\"https://sharedhealthmb.ca/patient-care/where-to-go/children-and-teens/\" target=\"_self\" class=\"nivo-imageLink\" style=\"display: block;\"><img width=\"1920\" height=\"400\" src=\"https://sharedhealthmb.ca/wp-content/uploads/kid-care-front-page-banner.jpg\" class=\"slider-24702 slide-39727 msDefaultIma"
+      },
+      {
+        "target": "#trkStrengthBtn",
+        "text": "Learn more about us",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/about",
+        "imgAlt": "",
+        "box": {
+          "x": 117,
+          "y": 855.703125,
+          "w": 213.34375,
+          "h": 44
+        },
+        "context": "heading: Shared Health",
+        "contextKind": "heading-only",
+        "html": "<a href=\"/about\" id=\"trkStrengthBtn\" class=\"button\">Learn more about us</a>"
+      },
+      {
+        "target": "div > div > div:nth-of-type(1) > h4 > a",
+        "text": "Answering the Call at Manitoba’s Addiction Helplines",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://sharedhealthmb.ca/news/2026-09-18-answering-the-call-at-manitobas-addiction-helplines/",
+        "imgAlt": "",
+        "box": {
+          "x": 913,
+          "y": 633.640625,
+          "w": 277.59375,
+          "h": 50.40625
+        },
+        "context": "heading: Answering the Call at Manitoba’s Addiction Helplines | Answering the Call at Manitoba’s Addiction Helplines",
+        "contextKind": "block",
+        "html": "<a href=\"https://sharedhealthmb.ca/news/2026-09-18-answering-the-call-at-manitobas-addiction-helplines/\">\n                                                Answering the Call at Manitoba’s Addiction Helplines\n                                            </a>"
+      },
+      {
+        "target": "div > div > div:nth-of-type(1) > h4 > a",
+        "text": "Liver disease research program making positive strides in Manitoba",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://sharedhealthmb.ca/news/2026-09-14-liver-disease-research-program-making-positive-strides-in-manitoba/",
+        "imgAlt": "",
+        "box": {
+          "x": 913,
+          "y": 746.453125,
+          "w": 302.96875,
+          "h": 50.40625
+        },
+        "context": "heading: Liver disease research program making positive strides in Manitoba | Liver disease research program making positive strides in Manitoba",
+        "contextKind": "block",
+        "html": "<a href=\"https://sharedhealthmb.ca/news/2026-09-14-liver-disease-research-program-making-positive-strides-in-manitoba/\">\n                                                Liver disease research program making positive strides in Manitoba\n                                            </a>"
+      },
+      {
+        "target": "div > div > div:nth-of-type(1) > h4 > a",
+        "text": "Shared Health Continues to Offer Temporary Extended Lab Hours",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://sharedhealthmb.ca/news/2026-09-09-shared-health-continues-to-offer-temporary-extended-lab-hours/",
+        "imgAlt": "",
+        "box": {
+          "x": 913,
+          "y": 859.265625,
+          "w": 282.71875,
+          "h": 50.40625
+        },
+        "context": "heading: Shared Health Continues to Offer Temporary Extended Lab Hours | Shared Health Continues to Offer Temporary Extended Lab Hours",
+        "contextKind": "block",
+        "html": "<a href=\"https://sharedhealthmb.ca/news/2026-09-09-shared-health-continues-to-offer-temporary-extended-lab-hours/\">\n                                                Shared Health Continues to Offer Temporary Extended Lab Hours\n                                            </a>"
+      },
+      {
+        "target": "#trkInMB",
+        "text": "Where to Go",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/patient-care/where-to-go/",
+        "imgAlt": "Grain Bin in Rural Manitoba",
+        "box": {
+          "x": 417,
+          "y": 1640.953125,
+          "w": 532,
+          "h": 71.875
+        },
+        "context": "heading: Shared Health Continues to Offer Temporary Extended Lab Hours",
+        "contextKind": "heading-only",
+        "html": "<a href=\"/patient-care/where-to-go/\" id=\"trkInMB\">\n<img src=\"/wp-content/uploads/rural-mb-card.jpg\" alt=\"Grain Bin in Rural Manitoba\" title=\"Find care in Manitoba\">\n<h3 class=\"care-title\">Where to Go</h3>\n</a>"
+      },
+      {
+        "target": "#custom-6994-particle > a:nth-of-type(1)",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/",
+        "imgAlt": "Shared Health logo",
+        "box": {
+          "x": 117,
+          "y": 1986.78125,
+          "w": 232,
+          "h": 22
+        },
+        "context": "heading: Where to Go",
+        "contextKind": "heading-only",
+        "html": "<a href=\"/\"><img src=\"/files/shmb-logo-ko.png\" width=\"280\" alt=\"Shared Health logo\" title=\"Shared Health Manitoba\"></a>"
+      },
+      {
+        "target": "#custom-6994-particle > a:nth-of-type(2)",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/about/accreditation/",
+        "imgAlt": "Accreditation Canada seal",
+        "box": {
+          "x": 173,
+          "y": 2112.78125,
+          "w": 120,
+          "h": 22
+        },
+        "context": "heading: Where to Go",
+        "contextKind": "heading-only",
+        "html": "<a href=\"/about/accreditation/\"><img src=\"/files/ACSealA-logo.png\" width=\"120\" alt=\"Accreditation Canada seal\" title=\"Accreditation Canada\"></a>"
+      },
+      {
+        "target": "#custom-6842-particle > div > h4:nth-of-type(1) > a",
+        "text": "Health Providers",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://healthproviders.sharedhealthmb.ca/",
+        "imgAlt": "",
+        "box": {
+          "x": 1077,
+          "y": 1913.828125,
+          "w": 147.25,
+          "h": 24
+        },
+        "context": "heading: Health Providers | Health Providers Patient Care Discover More Latest News Careers Contact",
+        "contextKind": "block",
+        "html": "<a href=\"https://healthproviders.sharedhealthmb.ca/\" style=\"font-weight: bold; line-height: 2;\">Health Providers</a>"
+      },
+      {
+        "target": "#custom-6842-particle > div > h4:nth-of-type(2) > a",
+        "text": "Patient Care",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/patient-care",
+        "imgAlt": "",
+        "box": {
+          "x": 1077,
+          "y": 1949.015625,
+          "w": 109.109375,
+          "h": 24
+        },
+        "context": "heading: Patient Care | Health Providers Patient Care Discover More Latest News Careers Contact",
+        "contextKind": "block",
+        "html": "<a href=\"/patient-care\" style=\"font-weight: bold; line-height: 2;\">Patient Care</a>"
+      },
+      {
+        "target": "#custom-6842-particle > div > a:nth-of-type(1)",
+        "text": "Latest News",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/news",
+        "imgAlt": "",
+        "box": {
+          "x": 1077,
+          "y": 2015.390625,
+          "w": 90.46875,
+          "h": 22
+        },
+        "context": "heading: Discover More | Health Providers Patient Care Discover More Latest News Careers Contact",
+        "contextKind": "block",
+        "html": "<a href=\"/news\">Latest News</a>"
+      },
+      {
+        "target": "#custom-6842-particle > div > a:nth-of-type(2)",
+        "text": "Careers",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/careers",
+        "imgAlt": "",
+        "box": {
+          "x": 1077,
+          "y": 2039.390625,
+          "w": 57.640625,
+          "h": 22
+        },
+        "context": "heading: Discover More | Health Providers Patient Care Discover More Latest News Careers Contact",
+        "contextKind": "block",
+        "html": "<a href=\"/careers\">Careers</a>"
+      },
+      {
+        "target": "#custom-6842-particle > div > a:nth-of-type(3)",
+        "text": "Contact",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/contact",
+        "imgAlt": "",
+        "box": {
+          "x": 1077,
+          "y": 2063.390625,
+          "w": 57.484375,
+          "h": 22
+        },
+        "context": "heading: Discover More | Health Providers Patient Care Discover More Latest News Careers Contact",
+        "contextKind": "block",
+        "html": "<a href=\"/contact\">Contact</a>"
+      },
+      {
+        "target": "#custom-6842-particle > div > a:nth-of-type(4)",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://twitter.com/SharedHealthMB",
+        "imgAlt": "",
+        "box": {
+          "x": 1077,
+          "y": 2113.390625,
+          "w": 23.125,
+          "h": 22
+        },
+        "context": "heading: Discover More | Health Providers Patient Care Discover More Latest News Careers Contact",
+        "contextKind": "block",
+        "html": "<a href=\"https://twitter.com/SharedHealthMB\" target=\"_blank\"><i class=\"fa-brands fa-square-x-twitter\"></i></a>"
+      },
+      {
+        "target": "#custom-6842-particle > div > a:nth-of-type(5)",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://fb.me/sharedhealthmanitoba",
+        "imgAlt": "",
+        "box": {
+          "x": 1104.28125,
+          "y": 2113.390625,
+          "w": 23.125,
+          "h": 22
+        },
+        "context": "heading: Discover More | Health Providers Patient Care Discover More Latest News Careers Contact",
+        "contextKind": "block",
+        "html": "<a href=\"https://fb.me/sharedhealthmanitoba\" target=\"_blank\"><i class=\"fab fa-facebook-square\"></i></a>"
+      },
+      {
+        "target": "#custom-6842-particle > div > a:nth-of-type(6)",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.instagram.com/sharedhealthmb/",
+        "imgAlt": "",
+        "box": {
+          "x": 1131.5625,
+          "y": 2113.390625,
+          "w": 23.125,
+          "h": 22
+        },
+        "context": "heading: Discover More | Health Providers Patient Care Discover More Latest News Careers Contact",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.instagram.com/sharedhealthmb/\" target=\"_blank\"><i class=\"fab fa-instagram\"></i></a>"
+      },
+      {
+        "target": "#custom-6842-particle > div > a:nth-of-type(7)",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.linkedin.com/company/shared-health-soins-communs",
+        "imgAlt": "",
+        "box": {
+          "x": 1158.84375,
+          "y": 2113.390625,
+          "w": 23.125,
+          "h": 22
+        },
+        "context": "heading: Discover More | Health Providers Patient Care Discover More Latest News Careers Contact",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.linkedin.com/company/shared-health-soins-communs\" target=\"_blank\"><i class=\"fab fa-linkedin-square\"></i></a>"
+      },
+      {
+        "target": "#custom-1782-particle > a:nth-of-type(1)",
+        "text": "Shared Health Inc.",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/",
+        "imgAlt": "",
+        "box": {
+          "x": 169.421875,
+          "y": 2208.390625,
+          "w": 127.34375,
+          "h": 19
+        },
+        "context": "heading: Discover More | © 2026 Shared Health Inc. All rights reserved. | Site Map | Conditions of Use",
+        "contextKind": "block",
+        "html": "<a href=\"/\">Shared Health Inc.</a>"
+      },
+      {
+        "target": "#custom-1782-particle > a:nth-of-type(2)",
+        "text": "Site Map",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/sitemap",
+        "imgAlt": "",
+        "box": {
+          "x": 445.953125,
+          "y": 2208.390625,
+          "w": 60.265625,
+          "h": 19
+        },
+        "context": "heading: Discover More | © 2026 Shared Health Inc. All rights reserved. | Site Map | Conditions of Use",
+        "contextKind": "block",
+        "html": "<a href=\"/sitemap\">Site Map</a>"
+      },
+      {
+        "target": "#custom-1782-particle > a:nth-of-type(3)",
+        "text": "Conditions of Use",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/conditions-of-use",
+        "imgAlt": "",
+        "box": {
+          "x": 521.625,
+          "y": 2208.390625,
+          "w": 122.1875,
+          "h": 19
+        },
+        "context": "heading: Discover More | © 2026 Shared Health Inc. All rights reserved. | Site Map | Conditions of Use",
+        "contextKind": "block",
+        "html": "<a href=\"/conditions-of-use\">Conditions of Use</a>"
+      },
+      {
+        "target": "#custom-1446-particle > a",
+        "text": "Digital Shared Services",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/services/digital-health/",
+        "imgAlt": "",
+        "box": {
+          "x": 1091.390625,
+          "y": 2208.390625,
+          "w": 157.609375,
+          "h": 19
+        },
+        "context": "heading: Discover More | This website is supported by Digital Shared Services",
+        "contextKind": "block",
+        "html": "<a href=\"/services/digital-health/\">Digital Shared Services</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(3) > div:nth-of-type(1) > p > a",
+        "text": "OneTap",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://wponetap.com/?utm_source=frontend-link&utm_medium=link&utm_campaign=ref-link-toolbar",
+        "imgAlt": "",
+        "box": {
+          "x": 1615.671875,
+          "y": 208.1875,
+          "w": 57.625,
+          "h": 25
+        },
+        "context": "Powered by OneTap",
+        "contextKind": "p",
+        "html": "<a href=\"https://wponetap.com/?utm_source=frontend-link&amp;utm_medium=link&amp;utm_campaign=ref-link-toolbar\" target=\"_blank\">OneTap</a>"
+      }
+    ],
+    "headings": [
+      {
+        "target": "#custom-5640-particle > h1",
+        "level": 1,
+        "text": "Shared Health",
+        "visible": true,
+        "box": {
+          "x": 117,
+          "y": 548.53125,
+          "w": 700,
+          "h": 40.46875
+        },
+        "html": "<h1>Shared Health</h1>"
+      },
+      {
+        "target": "#contentarray-5086-particle > div > div:nth-of-type(1) > h3",
+        "level": 3,
+        "text": "Latest News",
+        "visible": true,
+        "box": {
+          "x": 885,
+          "y": 559.53125,
+          "w": 364,
+          "h": 21.109375
+        },
+        "html": "<h3>Latest News</h3>"
+      },
+      {
+        "target": "div > div > div > div:nth-of-type(1) > h4",
+        "level": 4,
+        "text": "Answering the Call at Manitoba’s Addiction Helplines",
+        "visible": true,
+        "box": {
+          "x": 913,
+          "y": 632.640625,
+          "w": 320,
+          "h": 52.8125
+        },
+        "html": "<h4 class=\"g-item-title\">\n                                            <a href=\"https://sharedhealthmb.ca/news/2026-09-18-answering-the-call-at-manitobas-addiction-helplines/\">\n                                                Answering the Call at Manitoba’s Addiction Helplines\n                       "
+      },
+      {
+        "target": "div > div > div > div:nth-of-type(1) > h4",
+        "level": 4,
+        "text": "Liver disease research program making positive strides in Manitoba",
+        "visible": true,
+        "box": {
+          "x": 913,
+          "y": 745.453125,
+          "w": 320,
+          "h": 52.8125
+        },
+        "html": "<h4 class=\"g-item-title\">\n                                            <a href=\"https://sharedhealthmb.ca/news/2026-09-14-liver-disease-research-program-making-positive-strides-in-manitoba/\">\n                                                Liver disease research program making positive strides in Man"
+      },
+      {
+        "target": "div > div > div > div:nth-of-type(1) > h4",
+        "level": 4,
+        "text": "Shared Health Continues to Offer Temporary Extended Lab Hours",
+        "visible": true,
+        "box": {
+          "x": 913,
+          "y": 858.265625,
+          "w": 320,
+          "h": 52.8125
+        },
+        "html": "<h4 class=\"g-item-title\">\n                                            <a href=\"https://sharedhealthmb.ca/news/2026-09-09-shared-health-continues-to-offer-temporary-extended-lab-hours/\">\n                                                Shared Health Continues to Offer Temporary Extended Lab Hours\n    "
+      },
+      {
+        "target": "#trkInMB > h3",
+        "level": 3,
+        "text": "Where to Go",
+        "visible": true,
+        "box": {
+          "x": 417,
+          "y": 1657.953125,
+          "w": 532,
+          "h": 54.875
+        },
+        "html": "<h3 class=\"care-title\">Where to Go</h3>"
+      },
+      {
+        "target": "#custom-6842-particle > div > h4:nth-of-type(1)",
+        "level": 4,
+        "text": "Health Providers",
+        "visible": true,
+        "box": {
+          "x": 1077,
+          "y": 1908.828125,
+          "w": 172,
+          "h": 35.1875
+        },
+        "html": "<h4><a href=\"https://healthproviders.sharedhealthmb.ca/\" style=\"font-weight: bold; line-height: 2;\">Health Providers</a></h4>"
+      },
+      {
+        "target": "#custom-6842-particle > div > h4:nth-of-type(2)",
+        "level": 4,
+        "text": "Patient Care",
+        "visible": true,
+        "box": {
+          "x": 1077,
+          "y": 1944.015625,
+          "w": 172,
+          "h": 35.1875
+        },
+        "html": "<h4><a href=\"/patient-care\" style=\"font-weight: bold; line-height: 2;\">Patient Care</a></h4>"
+      },
+      {
+        "target": "#custom-6842-particle > div > h4:nth-of-type(3)",
+        "level": 4,
+        "text": "Discover More",
+        "visible": true,
+        "box": {
+          "x": 1077,
+          "y": 1979.203125,
+          "w": 172,
+          "h": 35.1875
+        },
+        "html": "<h4 style=\"font-weight: bold; line-height: 2; color: #fff;\">Discover More</h4>"
+      },
+      {
+        "target": "#popmake-29257 > div > h1:nth-of-type(1)",
+        "level": 1,
+        "text": "",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h1><img loading=\"lazy\" decoding=\"async\" class=\"wp-image-29250 alignright\" src=\"https://sharedhealthmb.ca/wp-content/uploads/health-and-wellbeing.png\" alt=\"\" width=\"370\" height=\"370\"></h1>"
+      },
+      {
+        "target": "#popmake-29257 > div > h1:nth-of-type(2)",
+        "level": 1,
+        "text": "Resources for Mental Health and Wellbeing",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h1><strong>Resources for Mental Health and Wellbeing</strong></h1>"
+      },
+      {
+        "target": "#popmake-29212 > div > h1",
+        "level": 1,
+        "text": "Action",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h1>Action</h1>"
+      },
+      {
+        "target": "#popmake-29208 > div > h1",
+        "level": 1,
+        "text": "Learn",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h1>Learn</h1>"
+      },
+      {
+        "target": "#popmake-29197 > div > h1",
+        "level": 1,
+        "text": "Watch",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h1>Watch</h1>"
+      },
+      {
+        "target": "#popmake-29191 > div > h1",
+        "level": 1,
+        "text": "Read",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h1>Read</h1>"
+      },
+      {
+        "target": "#popmake-29185 > div > h1",
+        "level": 1,
+        "text": "Language",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h1>Language</h1>"
+      }
+    ],
+    "lang": "en-CA",
+    "title": "Shared Health – Our Manitoba. Healthier. Together."
+  },
   "axe": {
     "violationRules": 2,
     "violationNodes": 9,

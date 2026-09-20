@@ -19,7 +19,3555 @@
     "width": 1366,
     "height": 900
   },
-  "scannedAt": "2026-09-19T06:24:12.040Z",
+  "scannedAt": "2026-09-19T23:56:27.220Z",
+  "content": {
+    "images": [
+      {
+        "target": "#mashup-5a7256c0-d952-464d-b0ae-cef15b7bca1e > div:nth-of-type(2) > div:nth-of-type(1) > picture > img",
+        "tag": "img",
+        "src": "https://www.travelmanitoba.com/imager/s3_us-west-1_amazonaws_com/manitoba-2020/images/Cranberry-Portage-23_Credit-Travel-Manitoba-large_2026-03-26-181610_jkry_b46190085a93da267e9c43fd18b8b647.jpg",
+        "alt": "",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 435,
+        "naturalHeight": 456,
+        "box": {
+          "x": 20,
+          "y": 1197.734375,
+          "w": 428.65625,
+          "h": 328
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "Indigenous Experiences Whether it’s the cultural stories that draw you in or the desire to discover how we’re all connected. Explore... MORE INFO",
+        "html": "<img class=\" lazyloaded\" src=\"https://www.travelmanitoba.com/imager/s3_us-west-1_amazonaws_com/manitoba-2020/images/Cranberry-Portage-23_Credit-Travel-Manitoba-large_2026-03-26-181610_jkry_b46190085a93da267e9c43fd18b8b647.jpg\" alt=\"\" width=\"435\" height=\"456\" data-src=\"https://www.travelmanitoba.com/imager/s3_us-west-1_amazonaws_com/manitoba-2020/images/Cranberry-Portage-23_Credit-Travel-Manitoba-l"
+      },
+      {
+        "target": "#mashup-5a7256c0-d952-464d-b0ae-cef15b7bca1e > div:nth-of-type(2) > div:nth-of-type(2) > picture > img",
+        "tag": "img",
+        "src": "https://www.travelmanitoba.com/imager/s3_us-west-1_amazonaws_com/manitoba-2020/images/TheLeafAfterDark-Winnipeg-September-2025-Credit-Travel-Manitoba-1-large_2026-03-26-181641_ojht_aa6265aa2aea4beac82d66938849606f.jpg",
+        "alt": "",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 435,
+        "naturalHeight": 265,
+        "box": {
+          "x": 468.65625,
+          "y": 1197.734375,
+          "w": 428.671875,
+          "h": 328
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "Urban Escapes Whether you seek a change of scenery, pace, or perspective, Winnipeg, the capital city of Manitoba, invites you to... MORE INFO",
+        "html": "<img class=\" lazyloaded\" src=\"https://www.travelmanitoba.com/imager/s3_us-west-1_amazonaws_com/manitoba-2020/images/TheLeafAfterDark-Winnipeg-September-2025-Credit-Travel-Manitoba-1-large_2026-03-26-181641_ojht_aa6265aa2aea4beac82d66938849606f.jpg\" alt=\"\" width=\"435\" height=\"265\" data-src=\"https://www.travelmanitoba.com/imager/s3_us-west-1_amazonaws_com/manitoba-2020/images/TheLeafAfterDark-Winnip"
+      },
+      {
+        "target": "#mashup-5a7256c0-d952-464d-b0ae-cef15b7bca1e > div:nth-of-type(2) > div:nth-of-type(3) > picture > img",
+        "tag": "img",
+        "src": "https://www.travelmanitoba.com/imager/s3_us-west-1_amazonaws_com/manitoba-2020/images/Voyageur-Houseboats-Pinawa-Summer2025-Credit-Voyageur-Houseboats-Courtesy-of-Travel-Manitoba-large_2026-03-26-181822_jfhr_b46190085a93da267e9c43fd18b8b647.jpg",
+        "alt": "",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 435,
+        "naturalHeight": 456,
+        "box": {
+          "x": 917.328125,
+          "y": 1197.734375,
+          "w": 428.65625,
+          "h": 328
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "Stunning Stays Use this page as your guide to discovering the most stunning accommodations that Manitoba has to offer. MORE INFO",
+        "html": "<img class=\" lazyloaded\" src=\"https://www.travelmanitoba.com/imager/s3_us-west-1_amazonaws_com/manitoba-2020/images/Voyageur-Houseboats-Pinawa-Summer2025-Credit-Voyageur-Houseboats-Courtesy-of-Travel-Manitoba-large_2026-03-26-181822_jfhr_b46190085a93da267e9c43fd18b8b647.jpg\" alt=\"\" width=\"435\" height=\"456\" data-src=\"https://www.travelmanitoba.com/imager/s3_us-west-1_amazonaws_com/manitoba-2020/ima"
+      },
+      {
+        "target": "#mashup-5a7256c0-d952-464d-b0ae-cef15b7bca1e > div:nth-of-type(2) > div:nth-of-type(4) > picture > img",
+        "tag": "img",
+        "src": "https://www.travelmanitoba.com/imager/s3_us-west-1_amazonaws_com/manitoba-2020/images/Leisure-Travel-Vans_Grand-Beach_DJI_0021_TMB-USE-ONLY-large_b46190085a93da267e9c43fd18b8b647.jpg",
+        "alt": "",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 435,
+        "naturalHeight": 456,
+        "box": {
+          "x": 20,
+          "y": 1545.734375,
+          "w": 428.65625,
+          "h": 328
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "Road Trips Leisure Travel Vans Whether you're drawn to the cultural tapestry of urban centers or the serene landscapes of Manitoba's wilderness, a... MORE INFO",
+        "html": "<img class=\" lazyloaded\" src=\"https://www.travelmanitoba.com/imager/s3_us-west-1_amazonaws_com/manitoba-2020/images/Leisure-Travel-Vans_Grand-Beach_DJI_0021_TMB-USE-ONLY-large_b46190085a93da267e9c43fd18b8b647.jpg\" alt=\"\" width=\"435\" height=\"456\" data-src=\"https://www.travelmanitoba.com/imager/s3_us-west-1_amazonaws_com/manitoba-2020/images/Leisure-Travel-Vans_Grand-Beach_DJI_0021_TMB-USE-ONLY-larg"
+      },
+      {
+        "target": "#mashup-5a7256c0-d952-464d-b0ae-cef15b7bca1e > div:nth-of-type(2) > div:nth-of-type(5) > picture > img",
+        "tag": "img",
+        "src": "https://www.travelmanitoba.com/imager/s3_us-west-1_amazonaws_com/manitoba-2020/images/Prairie-Whitewater_Grass-River-Wekusko-Falls-Provincial-park-large_aa6265aa2aea4beac82d66938849606f.jpg",
+        "alt": "",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 435,
+        "naturalHeight": 265,
+        "box": {
+          "x": 468.65625,
+          "y": 1545.734375,
+          "w": 428.671875,
+          "h": 328
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "Explore Manitoba's North Find the Right Place for Your Northern Adventure MORE INFO",
+        "html": "<img class=\" lazyloaded\" src=\"https://www.travelmanitoba.com/imager/s3_us-west-1_amazonaws_com/manitoba-2020/images/Prairie-Whitewater_Grass-River-Wekusko-Falls-Provincial-park-large_aa6265aa2aea4beac82d66938849606f.jpg\" alt=\"\" width=\"435\" height=\"265\" data-src=\"https://www.travelmanitoba.com/imager/s3_us-west-1_amazonaws_com/manitoba-2020/images/Prairie-Whitewater_Grass-River-Wekusko-Falls-Provin"
+      },
+      {
+        "target": "div:nth-of-type(3) > div > div > picture > img",
+        "tag": "img",
+        "src": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%271400%27%20height%3D%27700%27%20style%3D%27background%3A%23565959%27%2F%3E",
+        "alt": "Two people in camping chairs sit next to their kayaks in front of their tent on the shore of a lake…",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 1400,
+        "naturalHeight": 700,
+        "box": {
+          "x": 0,
+          "y": 1923.734375,
+          "w": 1366,
+          "h": 650
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "EVERY HEART NEEDS SOMETHING A LITTLE DIFFERENT. WHAT DOES YOUR HEART NEED? Discover your new favourite place LEARN MORE",
+        "html": "<img class=\"slides__image lazyload\" src=\"data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%271400%27%20height%3D%27700%27%20style%3D%27background%3A%23565959%27%2F%3E\" alt=\"Two people in camping chairs sit next to their kayaks in front of their tent on the shore of a lake…\" width=\"1400\" height=\"700\" data-src=\"https://www.travelmanitoba.com/imag"
+      },
+      {
+        "target": "#mashup-9cec2164-f926-43a9-9bc0-ee4b387047f5 > div:nth-of-type(2) > div:nth-of-type(1) > picture > img",
+        "tag": "img",
+        "src": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27435%27%20height%3D%27456%27%20style%3D%27background%3A%23565959%27%2F%3E",
+        "alt": "",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 435,
+        "naturalHeight": 456,
+        "box": {
+          "x": 20,
+          "y": 2729.234375,
+          "w": 428.65625,
+          "h": 328
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "Food & Drink Savour the vibrant culinary landscape of Manitoba, where each bite tells a story of tradition, innovation, and... MORE INFO",
+        "html": "<img class=\" lazyload\" src=\"data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27435%27%20height%3D%27456%27%20style%3D%27background%3A%23565959%27%2F%3E\" alt=\"\" width=\"435\" height=\"456\" data-src=\"https://www.travelmanitoba.com/imager/s3_us-west-1_amazonaws_com/manitoba-2020/images/Couple-Eating-Together-in-Robes-Klar-So-Spa-Bistro-Elkhorn-Resor"
+      },
+      {
+        "target": "#mashup-9cec2164-f926-43a9-9bc0-ee4b387047f5 > div:nth-of-type(2) > div:nth-of-type(2) > picture > img",
+        "tag": "img",
+        "src": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27435%27%20height%3D%27265%27%20style%3D%27background%3A%23565959%27%2F%3E",
+        "alt": "A lady in a white robe standing overlooking the outdoor pools and spa at Thermëa by Nordik Spa-Natur…",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 435,
+        "naturalHeight": 265,
+        "box": {
+          "x": 468.65625,
+          "y": 2729.234375,
+          "w": 428.671875,
+          "h": 328
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "Spas & Wellness Credit Travel Manitoba Manitoba delivers ways to relax and unwind. MORE INFO",
+        "html": "<img class=\" lazyload\" src=\"data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27435%27%20height%3D%27265%27%20style%3D%27background%3A%23565959%27%2F%3E\" alt=\"A lady in a white robe standing overlooking the outdoor pools and spa at Thermëa by Nordik Spa-Natur…\" width=\"435\" height=\"265\" data-src=\"https://www.travelmanitoba.com/imager/s3_us-west-"
+      },
+      {
+        "target": "#mashup-9cec2164-f926-43a9-9bc0-ee4b387047f5 > div:nth-of-type(2) > div:nth-of-type(3) > picture > img",
+        "tag": "img",
+        "src": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27435%27%20height%3D%27456%27%20style%3D%27background%3A%23565959%27%2F%3E",
+        "alt": "",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 435,
+        "naturalHeight": 456,
+        "box": {
+          "x": 917.328125,
+          "y": 2729.234375,
+          "w": 428.65625,
+          "h": 328
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "Family Fun Make memories in Manitoba - where nature, culture, and city life come together year-round. MORE INFO",
+        "html": "<img class=\" lazyload\" src=\"data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27435%27%20height%3D%27456%27%20style%3D%27background%3A%23565959%27%2F%3E\" alt=\"\" width=\"435\" height=\"456\" data-src=\"https://www.travelmanitoba.com/imager/s3_us-west-1_amazonaws_com/manitoba-2020/images/Falcon-Lake_9768_CreditMayContainStudio-CourtesyofTravelManitoba"
+      },
+      {
+        "target": "#mashup-9cec2164-f926-43a9-9bc0-ee4b387047f5 > div:nth-of-type(2) > div:nth-of-type(4) > picture > img",
+        "tag": "img",
+        "src": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27435%27%20height%3D%27456%27%20style%3D%27background%3A%23565959%27%2F%3E",
+        "alt": "",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 435,
+        "naturalHeight": 456,
+        "box": {
+          "x": 20,
+          "y": 3077.234375,
+          "w": 428.65625,
+          "h": 328
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "Road Trips and Day Trips Leisure Travel Vans When your heart needs to roam, Canada’s Heart is Calling. MORE INFO",
+        "html": "<img class=\" lazyload\" src=\"data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27435%27%20height%3D%27456%27%20style%3D%27background%3A%23565959%27%2F%3E\" alt=\"\" width=\"435\" height=\"456\" data-src=\"https://www.travelmanitoba.com/imager/s3_us-west-1_amazonaws_com/manitoba-2020/images/Leisure-Travel-Vans_Grand-Beach_DJI_0021_TMB-USE-ONLY-large_b461"
+      },
+      {
+        "target": "#mashup-9cec2164-f926-43a9-9bc0-ee4b387047f5 > div:nth-of-type(2) > div:nth-of-type(5) > picture > img",
+        "tag": "img",
+        "src": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27435%27%20height%3D%27265%27%20style%3D%27background%3A%23565959%27%2F%3E",
+        "alt": "Interior of Qaumajuq the Inuit art Centre at the Winnipeg Art Gallery, taken from the upper level",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 435,
+        "naturalHeight": 265,
+        "box": {
+          "x": 468.65625,
+          "y": 3077.234375,
+          "w": 428.671875,
+          "h": 328
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "Arts, Culture & History Stories and creativity on display. MORE INFO",
+        "html": "<img class=\" lazyload\" src=\"data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27435%27%20height%3D%27265%27%20style%3D%27background%3A%23565959%27%2F%3E\" alt=\"Interior of Qaumajuq the Inuit art Centre at the Winnipeg Art Gallery, taken from the upper level\" width=\"435\" height=\"265\" data-src=\"https://www.travelmanitoba.com/imager/s3_us-west-1_am"
+      },
+      {
+        "target": "#mashup-9cec2164-f926-43a9-9bc0-ee4b387047f5 > div:nth-of-type(2) > div:nth-of-type(6) > picture > img",
+        "tag": "img",
+        "src": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27435%27%20height%3D%27265%27%20style%3D%27background%3A%23565959%27%2F%3E",
+        "alt": "A person mountain biking through the sunlit forest in Whiteshell Provincial Park.",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 435,
+        "naturalHeight": 265,
+        "box": {
+          "x": 917.328125,
+          "y": 3077.234375,
+          "w": 428.65625,
+          "h": 328
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "Outdoor Adventures Explore Manitoba’s parks and wild places. MORE INFO",
+        "html": "<img class=\" lazyload\" src=\"data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27435%27%20height%3D%27265%27%20style%3D%27background%3A%23565959%27%2F%3E\" alt=\"A person mountain biking through the sunlit forest in Whiteshell Provincial Park.\" width=\"435\" height=\"265\" data-src=\"https://www.travelmanitoba.com/imager/s3_us-west-1_amazonaws_com/mani"
+      },
+      {
+        "target": "div > div:nth-of-type(1) > a > picture > img",
+        "tag": "img",
+        "src": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27685%27%20height%3D%27560%27%20style%3D%27background%3A%23565959%27%2F%3E",
+        "alt": "Trois femmes prenant un café ensemble qui marchent dans le centre-ville de Winnipeg.",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 685,
+        "naturalHeight": 560,
+        "box": {
+          "x": 20,
+          "y": 3522.734375,
+          "w": 663,
+          "h": 578
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "https://www.travelmanitoba.com/travel-deals/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img class=\"card__img delay--1 fade-in-50 lazyload\" src=\"data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27685%27%20height%3D%27560%27%20style%3D%27background%3A%23565959%27%2F%3E\" alt=\"Trois femmes prenant un café ensemble qui marchent dans le centre-ville de Winnipeg.\" width=\"685\" height=\"560\" data-src=\"https://www.travelmanitoba.com/imager"
+      },
+      {
+        "target": "div > div:nth-of-type(1) > a > picture > img",
+        "tag": "img",
+        "src": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27480%27%20height%3D%27425%27%20style%3D%27background%3A%23565959%27%2F%3E",
+        "alt": "",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 480,
+        "naturalHeight": 425,
+        "box": {
+          "x": 20,
+          "y": 4268.234375,
+          "w": 309,
+          "h": 273.59375
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "https://manito.ba/4xLvCwM",
+        "caption": "",
+        "nearText": "",
+        "html": "<img class=\"card__img delay--1 fade-in-50 lazyload\" src=\"data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27480%27%20height%3D%27425%27%20style%3D%27background%3A%23565959%27%2F%3E\" alt=\"\" width=\"480\" height=\"425\" data-src=\"https://www.travelmanitoba.com/imager/s3_us-west-1_amazonaws_com/manitoba-2020/images/2627_StudioSeries_TravelMB_000x1000"
+      },
+      {
+        "target": "div > div:nth-of-type(1) > a > picture > img",
+        "tag": "img",
+        "src": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27480%27%20height%3D%27425%27%20style%3D%27background%3A%23565959%27%2F%3E",
+        "alt": "",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 480,
+        "naturalHeight": 425,
+        "box": {
+          "x": 359,
+          "y": 4268.234375,
+          "w": 309,
+          "h": 273.59375
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "https://manito.ba/4haNoCF",
+        "caption": "",
+        "nearText": "",
+        "html": "<img class=\"card__img delay--1 fade-in-50 lazyload\" src=\"data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27480%27%20height%3D%27425%27%20style%3D%27background%3A%23565959%27%2F%3E\" alt=\"\" width=\"480\" height=\"425\" data-src=\"https://www.travelmanitoba.com/imager/s3_us-west-1_amazonaws_com/manitoba-2020/images/D_C8353_cd380920256f1a1fd1e5a27fa86"
+      },
+      {
+        "target": "div > div:nth-of-type(1) > a > picture > img",
+        "tag": "img",
+        "src": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27480%27%20height%3D%27425%27%20style%3D%27background%3A%23565959%27%2F%3E",
+        "alt": "",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 480,
+        "naturalHeight": 425,
+        "box": {
+          "x": 698,
+          "y": 4268.234375,
+          "w": 309,
+          "h": 273.59375
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "https://manito.ba/4ibdgAt",
+        "caption": "",
+        "nearText": "",
+        "html": "<img class=\"card__img delay--1 fade-in-50 lazyload\" src=\"data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27480%27%20height%3D%27425%27%20style%3D%27background%3A%23565959%27%2F%3E\" alt=\"\" width=\"480\" height=\"425\" data-src=\"https://www.travelmanitoba.com/imager/s3_us-west-1_amazonaws_com/manitoba-2020/images/hero-image-4_cd380920256f1a1fd1e5a2"
+      },
+      {
+        "target": "div > div:nth-of-type(1) > a > picture > img",
+        "tag": "img",
+        "src": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27480%27%20height%3D%27425%27%20style%3D%27background%3A%23565959%27%2F%3E",
+        "alt": "",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 480,
+        "naturalHeight": 425,
+        "box": {
+          "x": 1037,
+          "y": 4268.234375,
+          "w": 309,
+          "h": 273.59375
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "https://manito.ba/4g8mNFT",
+        "caption": "",
+        "nearText": "",
+        "html": "<img class=\"card__img delay--1 fade-in-50 lazyload\" src=\"data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27480%27%20height%3D%27425%27%20style%3D%27background%3A%23565959%27%2F%3E\" alt=\"\" width=\"480\" height=\"425\" data-src=\"https://www.travelmanitoba.com/imager/s3_us-west-1_amazonaws_com/manitoba-2020/images/IMG-20241010-WA0010_cd380920256f1a1"
+      },
+      {
+        "target": "div > div:nth-of-type(1) > a > picture > img",
+        "tag": "img",
+        "src": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27685%27%20height%3D%27560%27%20style%3D%27background%3A%23565959%27%2F%3E",
+        "alt": "",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 685,
+        "naturalHeight": 560,
+        "box": {
+          "x": 20,
+          "y": 5005.1875,
+          "w": 663,
+          "h": 578
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "https://manito.ba/4hA3zeT",
+        "caption": "",
+        "nearText": "",
+        "html": "<img class=\"card__img delay--1 fade-in-50 lazyload\" src=\"data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27685%27%20height%3D%27560%27%20style%3D%27background%3A%23565959%27%2F%3E\" alt=\"\" width=\"685\" height=\"560\" data-src=\"https://www.travelmanitoba.com/imager/s3_us-west-1_amazonaws_com/manitoba-2020/images/Buffet_Thumb_2026-08-14-220544_uccp"
+      },
+      {
+        "target": "div > div:nth-of-type(1) > a > picture > img",
+        "tag": "img",
+        "src": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27685%27%20height%3D%27560%27%20style%3D%27background%3A%23565959%27%2F%3E",
+        "alt": "",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 685,
+        "naturalHeight": 560,
+        "box": {
+          "x": 20,
+          "y": 5633.1875,
+          "w": 663,
+          "h": 578
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "https://manito.ba/4h2pklA",
+        "caption": "",
+        "nearText": "",
+        "html": "<img class=\"card__img delay--1 fade-in-50 lazyload\" src=\"data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27685%27%20height%3D%27560%27%20style%3D%27background%3A%23565959%27%2F%3E\" alt=\"\" width=\"685\" height=\"560\" data-src=\"https://www.travelmanitoba.com/imager/s3_us-west-1_amazonaws_com/manitoba-2020/images/P2222627-ZF-9866-18682-1-001_2026-0"
+      },
+      {
+        "target": "div > div:nth-of-type(1) > a > picture > img",
+        "tag": "img",
+        "src": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27480%27%20height%3D%27425%27%20style%3D%27background%3A%23565959%27%2F%3E",
+        "alt": "",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 480,
+        "naturalHeight": 425,
+        "box": {
+          "x": 20,
+          "y": 6378.6875,
+          "w": 309,
+          "h": 273.59375
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "https://www.travelmanitoba.com/trip-essentials/know-before-you-go/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img class=\"card__img delay--1 fade-in-50 lazyload\" src=\"data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27480%27%20height%3D%27425%27%20style%3D%27background%3A%23565959%27%2F%3E\" alt=\"\" width=\"480\" height=\"425\" data-src=\"https://www.travelmanitoba.com/imager/s3_us-west-1_amazonaws_com/manitoba-2020/images/06-site-images/main-images/Leisure-"
+      },
+      {
+        "target": "div > div:nth-of-type(1) > a > picture > img",
+        "tag": "img",
+        "src": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27480%27%20height%3D%27425%27%20style%3D%27background%3A%23565959%27%2F%3E",
+        "alt": "Indigenous person dressed in traditional head dress, dancing with others at Manito Ahbee Festival pow wow.",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 480,
+        "naturalHeight": 425,
+        "box": {
+          "x": 359,
+          "y": 6378.6875,
+          "w": 309,
+          "h": 273.59375
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "https://indigenoustourismmanitoba.ca/things-to-do/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img class=\"card__img delay--1 fade-in-50 lazyload\" src=\"data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27480%27%20height%3D%27425%27%20style%3D%27background%3A%23565959%27%2F%3E\" alt=\"Indigenous person dressed in traditional head dress, dancing with others at Manito Ahbee Festival pow wow.\" width=\"480\" height=\"425\" data-src=\"https://www.tra"
+      },
+      {
+        "target": "div > div:nth-of-type(1) > a > picture > img",
+        "tag": "img",
+        "src": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27480%27%20height%3D%27425%27%20style%3D%27background%3A%23565959%27%2F%3E",
+        "alt": "Close up on the Calm Air logo on the tail of an airplane.",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 480,
+        "naturalHeight": 425,
+        "box": {
+          "x": 698,
+          "y": 6378.6875,
+          "w": 309,
+          "h": 273.59375
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "https://www.calmair.com/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img class=\"card__img delay--1 fade-in-50 lazyload\" src=\"data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27480%27%20height%3D%27425%27%20style%3D%27background%3A%23565959%27%2F%3E\" alt=\"Close up on the Calm Air logo on the tail of an airplane.\" width=\"480\" height=\"425\" data-src=\"https://www.travelmanitoba.com/imager/s3_us-west-1_amazonaws_com"
+      },
+      {
+        "target": "div > div:nth-of-type(1) > a > picture > img",
+        "tag": "img",
+        "src": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27480%27%20height%3D%27425%27%20style%3D%27background%3A%23565959%27%2F%3E",
+        "alt": "Manitoba north waterfall",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 480,
+        "naturalHeight": 425,
+        "box": {
+          "x": 1037,
+          "y": 6378.6875,
+          "w": 309,
+          "h": 273.59375
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "/places/must-see/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img class=\"card__img delay--1 fade-in-50 lazyload\" src=\"data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27480%27%20height%3D%27425%27%20style%3D%27background%3A%23565959%27%2F%3E\" alt=\"Manitoba north waterfall\" width=\"480\" height=\"425\" data-src=\"https://www.travelmanitoba.com/imager/s3_us-west-1_amazonaws_com/manitoba-2020/images/01-things-t"
+      },
+      {
+        "target": "div > div:nth-of-type(1) > a > picture > img",
+        "tag": "img",
+        "src": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27685%27%20height%3D%27560%27%20style%3D%27background%3A%23565959%27%2F%3E",
+        "alt": "Calm air aircraft up in the air",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 685,
+        "naturalHeight": 560,
+        "box": {
+          "x": 20,
+          "y": 7139.96875,
+          "w": 663,
+          "h": 578
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "https://manito.ba/4mOGqVg",
+        "caption": "",
+        "nearText": "",
+        "html": "<img class=\"card__img delay--1 fade-in-50 lazyload\" src=\"data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27685%27%20height%3D%27560%27%20style%3D%27background%3A%23565959%27%2F%3E\" alt=\"Calm air aircraft up in the air\" width=\"685\" height=\"560\" data-src=\"https://www.travelmanitoba.com/imager/s3_us-west-1_amazonaws_com/manitoba-2020/images/P222"
+      },
+      {
+        "target": "ul > li:nth-of-type(1) > a > picture > img",
+        "tag": "img",
+        "src": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27800%27%20height%3D%27249%27%20style%3D%27background%3A%23565959%27%2F%3E",
+        "alt": "",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 800,
+        "naturalHeight": 249,
+        "box": {
+          "x": 94.953125,
+          "y": 9661.796875,
+          "w": 200,
+          "h": 62.25
+        },
+        "inLink": true,
+        "linkText": "Official Air Travel Provider To The North",
+        "linkHref": "https://manito.ba/3HgkXBM",
+        "caption": "",
+        "nearText": "Official Air Travel Provider To The North",
+        "html": "<img class=\" lazyload\" src=\"data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27800%27%20height%3D%27249%27%20style%3D%27background%3A%23565959%27%2F%3E\" alt=\"\" width=\"800\" height=\"249\" data-src=\"https://www.travelmanitoba.com/imager/s3_us-west-1_amazonaws_com/manitoba-2020/images/footer-logos/Tail-Logo-Vector-cagold_simplified_shape-3_b8db3cd0"
+      },
+      {
+        "target": "ul > li:nth-of-type(2) > a > picture > img",
+        "tag": "img",
+        "src": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27300%27%20height%3D%27135%27%20style%3D%27background%3A%23565959%27%2F%3E",
+        "alt": "",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 300,
+        "naturalHeight": 135,
+        "box": {
+          "x": 367.921875,
+          "y": 9655.421875,
+          "w": 200,
+          "h": 90
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "https://www.thegreenwebfoundation.org/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img class=\" lazyload\" src=\"data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27300%27%20height%3D%27135%27%20style%3D%27background%3A%23565959%27%2F%3E\" alt=\"\" width=\"300\" height=\"135\" data-src=\"https://www.travelmanitoba.com/imager/s3_us-west-1_amazonaws_com/manitoba-2020/images/footer-logos/travelmanitoba-green-web-foundation-badge-1_b8db3cd"
+      }
+    ],
+    "links": [
+      {
+        "target": "body > div:nth-of-type(5) > header > div > a",
+        "text": "Skip to content",
+        "ariaLabel": "",
+        "title": "",
+        "href": "#main",
+        "imgAlt": "",
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 1,
+          "h": 1
+        },
+        "context": "Skip to content TOURISM INDUSTRY TRAVEL MEDIA MEETINGS & CONVENTIONS TRAVEL TRADE HUNT FISH MANITOBA MANITOBA NORTH FR EN THINGS TO DO MANITOBA EVENTS PLACES TO GO WHERE TO STAY TRIP ESSENTIALS CONTACT US",
+        "contextKind": "block",
+        "html": "<a href=\"#main\" class=\"show-on-focus\">Skip to content</a>"
+      },
+      {
+        "target": "#hover-nav-grid > div:nth-of-type(2) > a",
+        "text": "",
+        "ariaLabel": "Manitoba - Canada’s Heart Beats",
+        "title": "",
+        "href": "https://www.travelmanitoba.com/",
+        "imgAlt": "",
+        "box": {
+          "x": 48,
+          "y": 22.5,
+          "w": 180,
+          "h": 76.80000305175781
+        },
+        "context": "TOURISM INDUSTRY TRAVEL MEDIA MEETINGS & CONVENTIONS TRAVEL TRADE HUNT FISH MANITOBA MANITOBA NORTH FR EN THINGS TO DO MANITOBA EVENTS PLACES TO GO WHERE TO STAY TRIP ESSENTIALS CONTACT US",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.travelmanitoba.com/\" class=\"logo logo--header\" aria-label=\"Manitoba - Canada’s Heart Beats\">\n                            <svg class=\"icon icon--auto\" role=\"presentation\" viewBox=\"0 0 382 36.8\">\n                                <use xlink:href=\"#logo\"></use>\n                      "
+      },
+      {
+        "target": "div:nth-of-type(3) > div:nth-of-type(1) > div > li:nth-of-type(1) > a",
+        "text": "TOURISM INDUSTRY",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://industry.travelmanitoba.com/",
+        "imgAlt": "",
+        "box": {
+          "x": 225.203125,
+          "y": 36.609375,
+          "w": 120.4375,
+          "h": 15.59375
+        },
+        "context": "TOURISM INDUSTRY",
+        "contextKind": "li",
+        "html": "<a href=\"https://industry.travelmanitoba.com/\" target=\"_self\" rel=\"noopener\" class=\"nav__link dms-ext-link\">\n\n                \n                Tourism Industry\n            </a>"
+      },
+      {
+        "target": "div:nth-of-type(3) > div:nth-of-type(1) > div > li:nth-of-type(2) > a",
+        "text": "TRAVEL MEDIA",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.travelmanitoba.com/media/",
+        "imgAlt": "",
+        "box": {
+          "x": 375.640625,
+          "y": 36.609375,
+          "w": 89.21875,
+          "h": 15.59375
+        },
+        "context": "TRAVEL MEDIA",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.travelmanitoba.com/media/\" target=\"\" rel=\"noopener\" class=\"nav__link  \">\n\n                \n                Travel Media\n            </a>"
+      },
+      {
+        "target": "div:nth-of-type(3) > div:nth-of-type(1) > div > li:nth-of-type(3) > a",
+        "text": "MEETINGS & CONVENTIONS",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.travelmanitoba.com/meetings/",
+        "imgAlt": "",
+        "box": {
+          "x": 494.859375,
+          "y": 36.609375,
+          "w": 168.53125,
+          "h": 15.59375
+        },
+        "context": "MEETINGS & CONVENTIONS",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.travelmanitoba.com/meetings/\" target=\"\" rel=\"noopener\" class=\"nav__link  \">\n\n                \n                Meetings &amp; Conventions\n            </a>"
+      },
+      {
+        "target": "div:nth-of-type(3) > div:nth-of-type(1) > div > li:nth-of-type(4) > a",
+        "text": "TRAVEL TRADE",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.travelmanitoba.com/travel-trade/",
+        "imgAlt": "",
+        "box": {
+          "x": 693.390625,
+          "y": 36.609375,
+          "w": 88.875,
+          "h": 15.59375
+        },
+        "context": "TRAVEL TRADE",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.travelmanitoba.com/travel-trade/\" target=\"\" rel=\"noopener\" class=\"nav__link  \">\n\n                \n                Travel Trade\n            </a>"
+      },
+      {
+        "target": "div:nth-of-type(3) > div:nth-of-type(1) > div > li:nth-of-type(5) > a",
+        "text": "HUNT FISH MANITOBA",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://huntfishmanitoba.ca/",
+        "imgAlt": "",
+        "box": {
+          "x": 812.265625,
+          "y": 36.609375,
+          "w": 133.515625,
+          "h": 15.59375
+        },
+        "context": "HUNT FISH MANITOBA",
+        "contextKind": "li",
+        "html": "<a href=\"https://huntfishmanitoba.ca/\" target=\"_blank\" rel=\"noopener\" class=\"nav__link dms-ext-link\" aria-describedby=\"audioeye_new_window_message\">\n\n                \n                Hunt Fish Manitoba\n            </a>"
+      },
+      {
+        "target": "div:nth-of-type(3) > div:nth-of-type(1) > div > li:nth-of-type(6) > a",
+        "text": "MANITOBA NORTH",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.travelmanitoba.com/manitoba-north/",
+        "imgAlt": "",
+        "box": {
+          "x": 975.78125,
+          "y": 36.609375,
+          "w": 111.640625,
+          "h": 15.59375
+        },
+        "context": "MANITOBA NORTH",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.travelmanitoba.com/manitoba-north/\" target=\"\" rel=\"noopener\" class=\"nav__link  \">\n\n                \n                Manitoba North\n            </a>"
+      },
+      {
+        "target": "div:nth-of-type(3) > div:nth-of-type(1) > div > li:nth-of-type(7) > a:nth-of-type(1)",
+        "text": "FR",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://fr.travelmanitoba.com/",
+        "imgAlt": "",
+        "box": {
+          "x": 1134.75,
+          "y": 36.609375,
+          "w": 36.25,
+          "h": 15.59375
+        },
+        "context": "FR EN",
+        "contextKind": "li",
+        "html": "<a class=\"nav__link nav__link--lang weglot-link weglot-link-fr dms-ext-link\" href=\"https://fr.travelmanitoba.com/\" data-wg-notranslate=\"\">FR</a>"
+      },
+      {
+        "target": "div:nth-of-type(3) > div:nth-of-type(1) > div > li:nth-of-type(7) > a:nth-of-type(2)",
+        "text": "EN",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.travelmanitoba.com/",
+        "imgAlt": "",
+        "box": {
+          "x": 1107.421875,
+          "y": 36.609375,
+          "w": 27.328125,
+          "h": 15.59375
+        },
+        "context": "FR EN",
+        "contextKind": "li",
+        "html": "<a class=\"nav__link nav__link--lang weglot-link weglot-link-en weglot-link--active\" href=\"https://www.travelmanitoba.com/\" data-wg-notranslate=\"\">EN</a>"
+      },
+      {
+        "target": "div:nth-of-type(3) > div:nth-of-type(2) > ul > li:nth-of-type(1) > a",
+        "text": "THINGS TO DO",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.travelmanitoba.com/things-to-do/",
+        "imgAlt": "",
+        "box": {
+          "x": 292,
+          "y": 71.609375,
+          "w": 113.375,
+          "h": 16.796875
+        },
+        "context": "THINGS TO DO",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.travelmanitoba.com/things-to-do/\" target=\"\" rel=\"noopener\" class=\"nav__link  \">\n\n                \n                Things To Do\n            </a>"
+      },
+      {
+        "target": "div:nth-of-type(3) > div:nth-of-type(2) > ul > li:nth-of-type(2) > a",
+        "text": "MANITOBA EVENTS",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.travelmanitoba.com/events/",
+        "imgAlt": "",
+        "box": {
+          "x": 431.984375,
+          "y": 71.609375,
+          "w": 150.859375,
+          "h": 16.796875
+        },
+        "context": "MANITOBA EVENTS",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.travelmanitoba.com/events/\" target=\"\" rel=\"noopener\" class=\"nav__link  \">\n\n                \n                Manitoba Events\n            </a>"
+      },
+      {
+        "target": "div:nth-of-type(3) > div:nth-of-type(2) > ul > li:nth-of-type(3) > a",
+        "text": "PLACES TO GO",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.travelmanitoba.com/places/",
+        "imgAlt": "",
+        "box": {
+          "x": 609.453125,
+          "y": 71.609375,
+          "w": 113.3125,
+          "h": 16.796875
+        },
+        "context": "PLACES TO GO",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.travelmanitoba.com/places/\" target=\"\" rel=\"noopener\" class=\"nav__link  \">\n\n                \n                Places To Go\n            </a>"
+      },
+      {
+        "target": "div:nth-of-type(3) > div:nth-of-type(2) > ul > li:nth-of-type(4) > a",
+        "text": "WHERE TO STAY",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.travelmanitoba.com/stay/",
+        "imgAlt": "",
+        "box": {
+          "x": 749.390625,
+          "y": 71.609375,
+          "w": 124.53125,
+          "h": 16.796875
+        },
+        "context": "WHERE TO STAY",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.travelmanitoba.com/stay/\" target=\"\" rel=\"noopener\" class=\"nav__link  \">\n\n                \n                Where To Stay\n            </a>"
+      },
+      {
+        "target": "div:nth-of-type(3) > div:nth-of-type(2) > ul > li:nth-of-type(5) > a",
+        "text": "TRIP ESSENTIALS",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.travelmanitoba.com/trip-essentials/",
+        "imgAlt": "",
+        "box": {
+          "x": 900.53125,
+          "y": 71.609375,
+          "w": 136.859375,
+          "h": 16.796875
+        },
+        "context": "TRIP ESSENTIALS",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.travelmanitoba.com/trip-essentials/\" target=\"\" rel=\"noopener\" class=\"nav__link  \">\n\n                \n                Trip Essentials\n            </a>"
+      },
+      {
+        "target": "div:nth-of-type(3) > div:nth-of-type(2) > ul > li:nth-of-type(6) > a",
+        "text": "CONTACT US",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.travelmanitoba.com/trip-essentials/contact-us/",
+        "imgAlt": "",
+        "box": {
+          "x": 1064,
+          "y": 71.609375,
+          "w": 100,
+          "h": 16.796875
+        },
+        "context": "CONTACT US",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.travelmanitoba.com/trip-essentials/contact-us/\" target=\"\" rel=\"noopener\" class=\"nav__link  \">\n\n                \n                Contact Us\n            </a>"
+      },
+      {
+        "target": "#mashup-5a7256c0-d952-464d-b0ae-cef15b7bca1e > div:nth-of-type(2) > div:nth-of-type(1) > a",
+        "text": "Indigenous Experiences Whether it’s the cultural stories that draw you in or the desire to discover how we’re all connected. Explore... MORE INFO",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/indigenous-experiences/",
+        "imgAlt": "",
+        "box": {
+          "x": 20,
+          "y": 1197.734375,
+          "w": 428.65625,
+          "h": 328
+        },
+        "context": "heading: Explore Spring & Summer In Manitoba | Indigenous Experiences Whether it’s the cultural stories that draw you in or the desire to discover how we’re all connected. Explore... MORE INFO",
+        "contextKind": "block",
+        "html": "<a href=\"/indigenous-experiences/\" target=\"_blank\" class=\"mashup__info-wrapper\" aria-describedby=\"audioeye_new_window_message\">\n\t\t\t\t\t\n\t\t\t\t\t<div class=\"mashup__info\">\n\n\t\t\t\t\t\t<div class=\"mashup__info-int\">\n\t\t\t\t\t\t\t<h3 class=\"mashup__title\">Indigenous Experiences</h3>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div c"
+      },
+      {
+        "target": "#mashup-5a7256c0-d952-464d-b0ae-cef15b7bca1e > div:nth-of-type(2) > div:nth-of-type(2) > a",
+        "text": "Urban Escapes Whether you seek a change of scenery, pace, or perspective, Winnipeg, the capital city of Manitoba, invites you to... MORE INFO",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/urban-escapes/",
+        "imgAlt": "",
+        "box": {
+          "x": 468.65625,
+          "y": 1197.734375,
+          "w": 428.671875,
+          "h": 328
+        },
+        "context": "heading: Indigenous Experiences | Urban Escapes Whether you seek a change of scenery, pace, or perspective, Winnipeg, the capital city of Manitoba, invites you to... MORE INFO",
+        "contextKind": "block",
+        "html": "<a href=\"/urban-escapes/\" target=\"_blank\" class=\"mashup__info-wrapper\" aria-describedby=\"audioeye_new_window_message\">\n\t\t\t\t\t\n\t\t\t\t\t<div class=\"mashup__info\">\n\n\t\t\t\t\t\t<div class=\"mashup__info-int\">\n\t\t\t\t\t\t\t<h3 class=\"mashup__title\">Urban Escapes</h3>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"mashup__popu"
+      },
+      {
+        "target": "#mashup-5a7256c0-d952-464d-b0ae-cef15b7bca1e > div:nth-of-type(2) > div:nth-of-type(3) > a",
+        "text": "Stunning Stays Use this page as your guide to discovering the most stunning accommodations that Manitoba has to offer. MORE INFO",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/stunning-stays/",
+        "imgAlt": "",
+        "box": {
+          "x": 917.328125,
+          "y": 1197.734375,
+          "w": 428.65625,
+          "h": 328
+        },
+        "context": "heading: Urban Escapes | Stunning Stays Use this page as your guide to discovering the most stunning accommodations that Manitoba has to offer. MORE INFO",
+        "contextKind": "block",
+        "html": "<a href=\"/stunning-stays/\" target=\"_blank\" class=\"mashup__info-wrapper\" aria-describedby=\"audioeye_new_window_message\">\n\t\t\t\t\t\n\t\t\t\t\t<div class=\"mashup__info\">\n\n\t\t\t\t\t\t<div class=\"mashup__info-int\">\n\t\t\t\t\t\t\t<h3 class=\"mashup__title\">Stunning Stays</h3>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"mashup__po"
+      },
+      {
+        "target": "#mashup-5a7256c0-d952-464d-b0ae-cef15b7bca1e > div:nth-of-type(2) > div:nth-of-type(4) > a",
+        "text": "Road Trips Leisure Travel Vans Whether you're drawn to the cultural tapestry of urban centers or the serene landscapes of Manitoba's wilderness, a... MORE INFO",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/road-trips/",
+        "imgAlt": "",
+        "box": {
+          "x": 20,
+          "y": 1545.734375,
+          "w": 428.65625,
+          "h": 328
+        },
+        "context": "heading: Stunning Stays | Road Trips Leisure Travel Vans Whether you're drawn to the cultural tapestry of urban centers or the serene landscapes of Manitoba's wilderness, a... MORE INFO",
+        "contextKind": "block",
+        "html": "<a href=\"/road-trips/\" target=\"_blank\" class=\"mashup__info-wrapper\" aria-describedby=\"audioeye_new_window_message\">\n\t\t\t\t\t\n\t\t\t\t\t<div class=\"mashup__info\">\n\n\t\t\t\t\t\t<div class=\"mashup__info-int\">\n\t\t\t\t\t\t\t<h3 class=\"mashup__title\">Road Trips</h3>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"mashup__caption\">\n\t\t\t\t\t\t\t\t\t<div "
+      },
+      {
+        "target": "#mashup-5a7256c0-d952-464d-b0ae-cef15b7bca1e > div:nth-of-type(2) > div:nth-of-type(5) > a",
+        "text": "Explore Manitoba's North Find the Right Place for Your Northern Adventure MORE INFO",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.travelmanitoba.com/northern-manitoba/",
+        "imgAlt": "",
+        "box": {
+          "x": 468.65625,
+          "y": 1545.734375,
+          "w": 428.671875,
+          "h": 328
+        },
+        "context": "heading: Road Trips | Explore Manitoba's North Find the Right Place for Your Northern Adventure MORE INFO",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.travelmanitoba.com/northern-manitoba/\" target=\"_self\" class=\"mashup__info-wrapper\">\n\t\t\t\t\t\n\t\t\t\t\t<div class=\"mashup__info\">\n\n\t\t\t\t\t\t<div class=\"mashup__info-int\">\n\t\t\t\t\t\t\t<h3 class=\"mashup__title\">Explore Manitoba's North</h3>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"mashup__popup\">"
+      },
+      {
+        "target": "div > div > div > div:nth-of-type(3) > a",
+        "text": "LEARN MORE",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.travelmanitoba.com/places/itineraries/",
+        "imgAlt": "",
+        "box": {
+          "x": 30,
+          "y": 2420.46875,
+          "w": 215.640625,
+          "h": 48.796875
+        },
+        "context": "heading: Explore Manitoba's North | EVERY HEART NEEDS SOMETHING A LITTLE DIFFERENT. WHAT DOES YOUR HEART NEED? Discover your new favourite place LEARN MORE",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.travelmanitoba.com/places/itineraries/\" target=\"_blank\" class=\"btn btn--more\" aria-describedby=\"audioeye_new_window_message\">\n\t\t                            Learn More\n\t\t                        </a>"
+      },
+      {
+        "target": "#mashup-9cec2164-f926-43a9-9bc0-ee4b387047f5 > div:nth-of-type(2) > div:nth-of-type(1) > a",
+        "text": "Food & Drink Savour the vibrant culinary landscape of Manitoba, where each bite tells a story of tradition, innovation, and... MORE INFO",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.travelmanitoba.com/food-drink/",
+        "imgAlt": "",
+        "box": {
+          "x": 20,
+          "y": 2729.234375,
+          "w": 428.65625,
+          "h": 328
+        },
+        "context": "heading: Manitoba Experiences | Food & Drink Savour the vibrant culinary landscape of Manitoba, where each bite tells a story of tradition, innovation, and... MORE INFO",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.travelmanitoba.com/food-drink/\" target=\"_self\" class=\"mashup__info-wrapper\">\n\t\t\t\t\t\n\t\t\t\t\t<div class=\"mashup__info\">\n\n\t\t\t\t\t\t<div class=\"mashup__info-int\">\n\t\t\t\t\t\t\t<h3 class=\"mashup__title\">Food &amp; Drink</h3>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"mashup__popup\">\n\t\t\t\t\t\t\t\t<p cla"
+      },
+      {
+        "target": "#mashup-9cec2164-f926-43a9-9bc0-ee4b387047f5 > div:nth-of-type(2) > div:nth-of-type(2) > a",
+        "text": "Spas & Wellness Credit Travel Manitoba Manitoba delivers ways to relax and unwind. MORE INFO",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.travelmanitoba.com/things-to-do/spas/",
+        "imgAlt": "",
+        "box": {
+          "x": 468.65625,
+          "y": 2729.234375,
+          "w": 428.671875,
+          "h": 328
+        },
+        "context": "heading: Food & Drink | Spas & Wellness Credit Travel Manitoba Manitoba delivers ways to relax and unwind. MORE INFO",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.travelmanitoba.com/things-to-do/spas/\" target=\"_self\" class=\"mashup__info-wrapper\">\n\t\t\t\t\t\n\t\t\t\t\t<div class=\"mashup__info\">\n\n\t\t\t\t\t\t<div class=\"mashup__info-int\">\n\t\t\t\t\t\t\t<h3 class=\"mashup__title\">Spas &amp; Wellness</h3>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"mashup__caption\">\n\t\t\t\t\t\t\t\t\t<div cl"
+      },
+      {
+        "target": "#mashup-9cec2164-f926-43a9-9bc0-ee4b387047f5 > div:nth-of-type(2) > div:nth-of-type(3) > a",
+        "text": "Family Fun Make memories in Manitoba - where nature, culture, and city life come together year-round. MORE INFO",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.travelmanitoba.com/things-to-do/family/",
+        "imgAlt": "",
+        "box": {
+          "x": 917.328125,
+          "y": 2729.234375,
+          "w": 428.65625,
+          "h": 328
+        },
+        "context": "heading: Spas & Wellness | Family Fun Make memories in Manitoba - where nature, culture, and city life come together year-round. MORE INFO",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.travelmanitoba.com/things-to-do/family/\" target=\"_self\" class=\"mashup__info-wrapper\">\n\t\t\t\t\t\n\t\t\t\t\t<div class=\"mashup__info\">\n\n\t\t\t\t\t\t<div class=\"mashup__info-int\">\n\t\t\t\t\t\t\t<h3 class=\"mashup__title\">Family Fun</h3>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"mashup__popup\">\n\t\t\t\t\t\t\t\t<p "
+      },
+      {
+        "target": "#mashup-9cec2164-f926-43a9-9bc0-ee4b387047f5 > div:nth-of-type(2) > div:nth-of-type(4) > a",
+        "text": "Road Trips and Day Trips Leisure Travel Vans When your heart needs to roam, Canada’s Heart is Calling. MORE INFO",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.travelmanitoba.com/things-to-do/manitoba-road-trips-and-day-trips/",
+        "imgAlt": "",
+        "box": {
+          "x": 20,
+          "y": 3077.234375,
+          "w": 428.65625,
+          "h": 328
+        },
+        "context": "heading: Family Fun | Road Trips and Day Trips Leisure Travel Vans When your heart needs to roam, Canada’s Heart is Calling. MORE INFO",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.travelmanitoba.com/things-to-do/manitoba-road-trips-and-day-trips/\" target=\"_self\" class=\"mashup__info-wrapper\">\n\t\t\t\t\t\n\t\t\t\t\t<div class=\"mashup__info\">\n\n\t\t\t\t\t\t<div class=\"mashup__info-int\">\n\t\t\t\t\t\t\t<h3 class=\"mashup__title\">Road Trips and Day Trips</h3>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\""
+      },
+      {
+        "target": "#mashup-9cec2164-f926-43a9-9bc0-ee4b387047f5 > div:nth-of-type(2) > div:nth-of-type(5) > a",
+        "text": "Arts, Culture & History Stories and creativity on display. MORE INFO",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.travelmanitoba.com/things-to-do/arts-culture/",
+        "imgAlt": "",
+        "box": {
+          "x": 468.65625,
+          "y": 3077.234375,
+          "w": 428.671875,
+          "h": 328
+        },
+        "context": "heading: Road Trips and Day Trips | Arts, Culture & History Stories and creativity on display. MORE INFO",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.travelmanitoba.com/things-to-do/arts-culture/\" target=\"_self\" class=\"mashup__info-wrapper\">\n\t\t\t\t\t\n\t\t\t\t\t<div class=\"mashup__info\">\n\n\t\t\t\t\t\t<div class=\"mashup__info-int\">\n\t\t\t\t\t\t\t<h3 class=\"mashup__title\">Arts, Culture &amp; History</h3>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"mash"
+      },
+      {
+        "target": "#mashup-9cec2164-f926-43a9-9bc0-ee4b387047f5 > div:nth-of-type(2) > div:nth-of-type(6) > a",
+        "text": "Outdoor Adventures Explore Manitoba’s parks and wild places. MORE INFO",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.travelmanitoba.com/things-to-do/outdoor/",
+        "imgAlt": "",
+        "box": {
+          "x": 917.328125,
+          "y": 3077.234375,
+          "w": 428.65625,
+          "h": 328
+        },
+        "context": "heading: Arts, Culture & History | Outdoor Adventures Explore Manitoba’s parks and wild places. MORE INFO",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.travelmanitoba.com/things-to-do/outdoor/\" target=\"_self\" class=\"mashup__info-wrapper\">\n\t\t\t\t\t\n\t\t\t\t\t<div class=\"mashup__info\">\n\n\t\t\t\t\t\t<div class=\"mashup__info-int\">\n\t\t\t\t\t\t\t<h3 class=\"mashup__title\">Outdoor Adventures</h3>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"mashup__popup\">\n\t\t"
+      },
+      {
+        "target": "div:nth-of-type(2) > div > div > div:nth-of-type(1) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.travelmanitoba.com/travel-deals/",
+        "imgAlt": "Trois femmes prenant un café ensemble qui marchent dans le centre-ville de Winnipeg.",
+        "box": {
+          "x": 20,
+          "y": 3522.734375,
+          "w": 663,
+          "h": 578
+        },
+        "context": "heading: Travel Deals",
+        "contextKind": "heading-only",
+        "html": "<a href=\"https://www.travelmanitoba.com/travel-deals/\" class=\"card__link\" target=\"_self\" rel=\"noopener\">\n                                    <picture class=\"card__image-picture\">\n                        <img class=\"card__img delay--1 fade-in-50 lazyload\" src=\"data:image/svg+xml;charset=utf-8,%3Csvg%"
+      },
+      {
+        "target": "div > div > div:nth-of-type(2) > div > a",
+        "text": "Browse Now to Find Savings on Your Next Manitoba Getaway!",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.travelmanitoba.com/travel-deals/",
+        "imgAlt": "",
+        "box": {
+          "x": 753,
+          "y": 3706.84375,
+          "w": 523,
+          "h": 62.375
+        },
+        "context": "heading: Travel Deals",
+        "contextKind": "heading-only",
+        "html": "<a href=\"https://www.travelmanitoba.com/travel-deals/\" target=\"_self\" rel=\"noopener\">                    <h3 class=\"card__title\">                \n                        Browse Now to Find Savings on Your Next Manitoba Getaway!\n                    </h3>\n                </a>"
+      },
+      {
+        "target": "div > div > div:nth-of-type(2) > footer > a",
+        "text": "VIEW ALL DETAILS!",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.travelmanitoba.com/travel-deals/",
+        "imgAlt": "",
+        "box": {
+          "x": 749,
+          "y": 3929.21875,
+          "w": 188.84375,
+          "h": 37.390625
+        },
+        "context": "heading: Browse Now to Find Savings on Your Next Manitoba Getaway!",
+        "contextKind": "heading-only",
+        "html": "<a href=\"https://www.travelmanitoba.com/travel-deals/\" target=\"_self\" rel=\"noopener\" class=\"btn btn--details\">\n                                        VIEW ALL DETAILS!\n                </a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div:nth-of-type(1) > div > div:nth-of-type(1) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://manito.ba/4xLvCwM",
+        "imgAlt": "",
+        "box": {
+          "x": 20,
+          "y": 4268.234375,
+          "w": 309,
+          "h": 273.59375
+        },
+        "context": "heading: Feature Experiences",
+        "contextKind": "heading-only",
+        "html": "<a href=\"https://manito.ba/4xLvCwM\" class=\"card__link dms-ext-link\" target=\"_blank\" rel=\"noopener\" aria-describedby=\"audioeye_new_window_message\">\n                                    <picture class=\"card__image-picture\">\n                        <img class=\"card__img delay--1 fade-in-50 lazyload\" src"
+      },
+      {
+        "target": "div:nth-of-type(1) > div > div:nth-of-type(2) > div > a:nth-of-type(1)",
+        "text": "ROYAL WINNIPEG BALLET",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://manito.ba/4xLvCwM",
+        "imgAlt": "",
+        "box": {
+          "x": 40,
+          "y": 4587.828125,
+          "w": 269,
+          "h": 19.1875
+        },
+        "context": "heading: Feature Experiences",
+        "contextKind": "heading-only",
+        "html": "<a href=\"https://manito.ba/4xLvCwM\" target=\"_blank\" rel=\"noopener\" class=\"dms-ext-link\" aria-describedby=\"audioeye_new_window_message\">                        <div class=\"card__subtitle card__subtitle--upper\">\n                            Royal Winnipeg Ballet\n                        </div>\n         "
+      },
+      {
+        "target": "div:nth-of-type(1) > div > div:nth-of-type(2) > div > a:nth-of-type(2)",
+        "text": "RWB's Studio Series",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://manito.ba/4xLvCwM",
+        "imgAlt": "",
+        "box": {
+          "x": 40,
+          "y": 4612.015625,
+          "w": 269,
+          "h": 22.796875
+        },
+        "context": "heading: Feature Experiences",
+        "contextKind": "heading-only",
+        "html": "<a href=\"https://manito.ba/4xLvCwM\" target=\"_blank\" rel=\"noopener\" class=\"dms-ext-link\" aria-describedby=\"audioeye_new_window_message\">                    <h3 class=\"card__title\">                \n                        RWB's Studio Series\n                    </h3>\n                </a>"
+      },
+      {
+        "target": "div:nth-of-type(1) > div > div:nth-of-type(2) > footer > a",
+        "text": "BOOK TODAY!",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://manito.ba/4xLvCwM",
+        "imgAlt": "",
+        "box": {
+          "x": 36,
+          "y": 4915.796875,
+          "w": 142.53125,
+          "h": 37.390625
+        },
+        "context": "heading: RWB's Studio Series",
+        "contextKind": "heading-only",
+        "html": "<a href=\"https://manito.ba/4xLvCwM\" target=\"_blank\" rel=\"noopener\" class=\"btn btn--details dms-ext-link\" aria-describedby=\"audioeye_new_window_message\">\n                                        BOOK TODAY!\n                </a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div:nth-of-type(2) > div > div:nth-of-type(1) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://manito.ba/4haNoCF",
+        "imgAlt": "",
+        "box": {
+          "x": 359,
+          "y": 4268.234375,
+          "w": 309,
+          "h": 273.59375
+        },
+        "context": "heading: RWB's Studio Series",
+        "contextKind": "heading-only",
+        "html": "<a href=\"https://manito.ba/4haNoCF\" class=\"card__link dms-ext-link\" target=\"_blank\" rel=\"noopener\" aria-describedby=\"audioeye_new_window_message\">\n                                    <picture class=\"card__image-picture\">\n                        <img class=\"card__img delay--1 fade-in-50 lazyload\" src"
+      },
+      {
+        "target": "div:nth-of-type(2) > div > div:nth-of-type(2) > div > a:nth-of-type(1)",
+        "text": "FRONTIERS NORTH ADVENTURES",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://manito.ba/4haNoCF",
+        "imgAlt": "",
+        "box": {
+          "x": 379,
+          "y": 4587.828125,
+          "w": 269,
+          "h": 38.375
+        },
+        "context": "heading: RWB's Studio Series",
+        "contextKind": "heading-only",
+        "html": "<a href=\"https://manito.ba/4haNoCF\" target=\"_blank\" rel=\"noopener\" class=\"dms-ext-link\" aria-describedby=\"audioeye_new_window_message\">                        <div class=\"card__subtitle card__subtitle--upper\">\n                            Frontiers North Adventures\n                        </div>\n    "
+      },
+      {
+        "target": "div:nth-of-type(2) > div > div:nth-of-type(2) > div > a:nth-of-type(2)",
+        "text": "Dine Beneath the Dancing Northern Lights",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://manito.ba/4haNoCF",
+        "imgAlt": "",
+        "box": {
+          "x": 379,
+          "y": 4631.203125,
+          "w": 269,
+          "h": 45.59375
+        },
+        "context": "heading: RWB's Studio Series",
+        "contextKind": "heading-only",
+        "html": "<a href=\"https://manito.ba/4haNoCF\" target=\"_blank\" rel=\"noopener\" class=\"dms-ext-link\" aria-describedby=\"audioeye_new_window_message\">                    <h3 class=\"card__title\">                \n                        Dine Beneath the Dancing Northern Lights\n                    </h3>\n             "
+      },
+      {
+        "target": "div:nth-of-type(2) > div > div:nth-of-type(2) > footer > a",
+        "text": "BOOK TODAY!",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://manito.ba/4haNoCF",
+        "imgAlt": "",
+        "box": {
+          "x": 375,
+          "y": 4915.796875,
+          "w": 142.53125,
+          "h": 37.390625
+        },
+        "context": "heading: Dine Beneath the Dancing Northern Lights",
+        "contextKind": "heading-only",
+        "html": "<a href=\"https://manito.ba/4haNoCF\" target=\"_blank\" rel=\"noopener\" class=\"btn btn--details dms-ext-link\" aria-describedby=\"audioeye_new_window_message\">\n                                        BOOK TODAY!\n                </a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div:nth-of-type(3) > div > div:nth-of-type(1) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://manito.ba/4ibdgAt",
+        "imgAlt": "",
+        "box": {
+          "x": 698,
+          "y": 4268.234375,
+          "w": 309,
+          "h": 273.59375
+        },
+        "context": "heading: Dine Beneath the Dancing Northern Lights | PERIMETER AVIATION Follow Your Heart North Experience angling excursions, wild rivers, water-coloured sunsets, and the roar of waterfalls. Book Perimeter Aviation for your northern travel today! MORE INFO",
+        "contextKind": "block",
+        "html": "<a href=\"https://manito.ba/4ibdgAt\" class=\"card__link dms-ext-link\" target=\"_self\" rel=\"noopener\">\n                                    <picture class=\"card__image-picture\">\n                        <img class=\"card__img delay--1 fade-in-50 lazyload\" src=\"data:image/svg+xml;charset=utf-8,%3Csvg%20xmln"
+      },
+      {
+        "target": "div:nth-of-type(3) > div > div:nth-of-type(2) > div > a:nth-of-type(1)",
+        "text": "PERIMETER AVIATION",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://manito.ba/4ibdgAt",
+        "imgAlt": "",
+        "box": {
+          "x": 718,
+          "y": 4587.828125,
+          "w": 269,
+          "h": 19.1875
+        },
+        "context": "heading: Dine Beneath the Dancing Northern Lights | PERIMETER AVIATION Follow Your Heart North Experience angling excursions, wild rivers, water-coloured sunsets, and the roar of waterfalls. Book Perimeter Aviation for your northern travel today!",
+        "contextKind": "block",
+        "html": "<a href=\"https://manito.ba/4ibdgAt\" target=\"_self\" rel=\"noopener\" class=\"dms-ext-link\">                        <div class=\"card__subtitle card__subtitle--upper\">\n                            Perimeter Aviation\n                        </div>\n                    </a>"
+      },
+      {
+        "target": "div:nth-of-type(3) > div > div:nth-of-type(2) > div > a:nth-of-type(2)",
+        "text": "Follow Your Heart North",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://manito.ba/4ibdgAt",
+        "imgAlt": "",
+        "box": {
+          "x": 718,
+          "y": 4612.015625,
+          "w": 269,
+          "h": 22.796875
+        },
+        "context": "heading: Dine Beneath the Dancing Northern Lights | PERIMETER AVIATION Follow Your Heart North Experience angling excursions, wild rivers, water-coloured sunsets, and the roar of waterfalls. Book Perimeter Aviation for your northern travel today!",
+        "contextKind": "block",
+        "html": "<a href=\"https://manito.ba/4ibdgAt\" target=\"_self\" rel=\"noopener\" class=\"dms-ext-link\">                    <h3 class=\"card__title\">                \n                        Follow Your Heart North\n                    </h3>\n                </a>"
+      },
+      {
+        "target": "div:nth-of-type(3) > div > div:nth-of-type(2) > footer > a",
+        "text": "MORE INFO",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://manito.ba/4ibdgAt",
+        "imgAlt": "",
+        "box": {
+          "x": 714,
+          "y": 4915.796875,
+          "w": 125.875,
+          "h": 37.390625
+        },
+        "context": "heading: Follow Your Heart North | PERIMETER AVIATION Follow Your Heart North Experience angling excursions, wild rivers, water-coloured sunsets, and the roar of waterfalls. Book Perimeter Aviation for your northern travel today! MORE INFO",
+        "contextKind": "block",
+        "html": "<a href=\"https://manito.ba/4ibdgAt\" target=\"_self\" rel=\"noopener\" class=\"btn btn--details dms-ext-link\">\n                                        More Info\n                </a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div:nth-of-type(4) > div > div:nth-of-type(1) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://manito.ba/4g8mNFT",
+        "imgAlt": "",
+        "box": {
+          "x": 1037,
+          "y": 4268.234375,
+          "w": 309,
+          "h": 273.59375
+        },
+        "context": "heading: Follow Your Heart North",
+        "contextKind": "heading-only",
+        "html": "<a href=\"https://manito.ba/4g8mNFT\" class=\"card__link dms-ext-link\" target=\"_self\" rel=\"noopener\">\n                                    <picture class=\"card__image-picture\">\n                        <img class=\"card__img delay--1 fade-in-50 lazyload\" src=\"data:image/svg+xml;charset=utf-8,%3Csvg%20xmln"
+      },
+      {
+        "target": "div:nth-of-type(4) > div > div:nth-of-type(2) > div > a:nth-of-type(1)",
+        "text": "NANUK OPERATIONS",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://manito.ba/4g8mNFT",
+        "imgAlt": "",
+        "box": {
+          "x": 1057,
+          "y": 4587.828125,
+          "w": 269,
+          "h": 19.1875
+        },
+        "context": "heading: Follow Your Heart North",
+        "contextKind": "heading-only",
+        "html": "<a href=\"https://manito.ba/4g8mNFT\" target=\"_self\" rel=\"noopener\" class=\"dms-ext-link\">                        <div class=\"card__subtitle card__subtitle--upper\">\n                            Nanuk Operations\n                        </div>\n                    </a>"
+      },
+      {
+        "target": "div:nth-of-type(4) > div > div:nth-of-type(2) > div > a:nth-of-type(2)",
+        "text": "Nights Under Lights - Multi Day Aurora Adventure",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://manito.ba/4g8mNFT",
+        "imgAlt": "",
+        "box": {
+          "x": 1057,
+          "y": 4612.015625,
+          "w": 269,
+          "h": 45.59375
+        },
+        "context": "heading: Follow Your Heart North",
+        "contextKind": "heading-only",
+        "html": "<a href=\"https://manito.ba/4g8mNFT\" target=\"_self\" rel=\"noopener\" class=\"dms-ext-link\">                    <h3 class=\"card__title\">                \n                        Nights Under Lights - Multi Day Aurora Adventure\n                    </h3>\n                </a>"
+      },
+      {
+        "target": "div:nth-of-type(4) > div > div:nth-of-type(2) > footer > a",
+        "text": "MORE INFO",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://manito.ba/4g8mNFT",
+        "imgAlt": "",
+        "box": {
+          "x": 1053,
+          "y": 4915.796875,
+          "w": 125.875,
+          "h": 37.390625
+        },
+        "context": "heading: Nights Under Lights - Multi Day Aurora Adventure",
+        "contextKind": "heading-only",
+        "html": "<a href=\"https://manito.ba/4g8mNFT\" target=\"_self\" rel=\"noopener\" class=\"btn btn--details dms-ext-link\">\n                                        More Info\n                </a>"
+      },
+      {
+        "target": "div > div > div > div:nth-of-type(1) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://manito.ba/4hA3zeT",
+        "imgAlt": "",
+        "box": {
+          "x": 20,
+          "y": 5005.1875,
+          "w": 663,
+          "h": 578
+        },
+        "context": "heading: Nights Under Lights - Multi Day Aurora Adventure",
+        "contextKind": "heading-only",
+        "html": "<a href=\"https://manito.ba/4hA3zeT\" class=\"card__link dms-ext-link\" target=\"_self\" rel=\"noopener\">\n                                    <picture class=\"card__image-picture\">\n                        <img class=\"card__img delay--1 fade-in-50 lazyload\" src=\"data:image/svg+xml;charset=utf-8,%3Csvg%20xmln"
+      },
+      {
+        "target": "div > div > div:nth-of-type(2) > div > a:nth-of-type(1)",
+        "text": "SOUTH BEACH CASINO AND RESORT",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://manito.ba/4hA3zeT",
+        "imgAlt": "",
+        "box": {
+          "x": 753,
+          "y": 5129.015625,
+          "w": 523,
+          "h": 19.1875
+        },
+        "context": "heading: Nights Under Lights - Multi Day Aurora Adventure",
+        "contextKind": "heading-only",
+        "html": "<a href=\"https://manito.ba/4hA3zeT\" target=\"_self\" rel=\"noopener\" class=\"dms-ext-link\">                        <div class=\"card__subtitle card__subtitle--upper\">\n                            South Beach Casino and Resort\n                        </div>\n                    </a>"
+      },
+      {
+        "target": "div > div > div:nth-of-type(2) > div > a:nth-of-type(2)",
+        "text": "South Beach Casino & Resort offers plated-dining service or tasty snacks from our Café. Take a look at our delicious new menus.",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://manito.ba/4hA3zeT",
+        "imgAlt": "",
+        "box": {
+          "x": 753,
+          "y": 5153.203125,
+          "w": 523,
+          "h": 124.75
+        },
+        "context": "heading: Nights Under Lights - Multi Day Aurora Adventure",
+        "contextKind": "heading-only",
+        "html": "<a href=\"https://manito.ba/4hA3zeT\" target=\"_self\" rel=\"noopener\" class=\"dms-ext-link\">                    <h3 class=\"card__title\">                \n                        South Beach Casino &amp; Resort offers plated-dining service or tasty snacks from our Café. Take a look at our delicious new men"
+      },
+      {
+        "target": "div > div > div:nth-of-type(2) > footer > a",
+        "text": "MORE INFO",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://manito.ba/4hA3zeT",
+        "imgAlt": "",
+        "box": {
+          "x": 749,
+          "y": 5471.953125,
+          "w": 125.875,
+          "h": 37.390625
+        },
+        "context": "heading: South Beach Casino & Resort offers plated-dining service or tasty snacks from our Café. Take a look at our delicious new menus.",
+        "contextKind": "heading-only",
+        "html": "<a href=\"https://manito.ba/4hA3zeT\" target=\"_self\" rel=\"noopener\" class=\"btn btn--details dms-ext-link\">\n                                        More Info\n                </a>"
+      },
+      {
+        "target": "div > div > div > div:nth-of-type(1) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://manito.ba/4h2pklA",
+        "imgAlt": "",
+        "box": {
+          "x": 20,
+          "y": 5633.1875,
+          "w": 663,
+          "h": 578
+        },
+        "context": "heading: South Beach Casino & Resort offers plated-dining service or tasty snacks from our Café. Take a look at our delicious new menus.",
+        "contextKind": "heading-only",
+        "html": "<a href=\"https://manito.ba/4h2pklA\" class=\"card__link dms-ext-link\" target=\"_self\" rel=\"noopener\">\n                                    <picture class=\"card__image-picture\">\n                        <img class=\"card__img delay--1 fade-in-50 lazyload\" src=\"data:image/svg+xml;charset=utf-8,%3Csvg%20xmln"
+      },
+      {
+        "target": "div > div > div:nth-of-type(2) > div > a:nth-of-type(1)",
+        "text": "CALM AIR INTERNATIONAL LP",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://manito.ba/4h2pklA",
+        "imgAlt": "",
+        "box": {
+          "x": 753,
+          "y": 5820.796875,
+          "w": 523,
+          "h": 19.1875
+        },
+        "context": "heading: South Beach Casino & Resort offers plated-dining service or tasty snacks from our Café. Take a look at our delicious new menus.",
+        "contextKind": "heading-only",
+        "html": "<a href=\"https://manito.ba/4h2pklA\" target=\"_self\" rel=\"noopener\" class=\"dms-ext-link\">                        <div class=\"card__subtitle card__subtitle--upper\">\n                            Calm Air International LP\n                        </div>\n                    </a>"
+      },
+      {
+        "target": "div > div > div:nth-of-type(2) > div > a:nth-of-type(2)",
+        "text": "Book your next MB trip with Calm Air",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://manito.ba/4h2pklA",
+        "imgAlt": "",
+        "box": {
+          "x": 753,
+          "y": 5844.984375,
+          "w": 523,
+          "h": 31.1875
+        },
+        "context": "heading: South Beach Casino & Resort offers plated-dining service or tasty snacks from our Café. Take a look at our delicious new menus.",
+        "contextKind": "heading-only",
+        "html": "<a href=\"https://manito.ba/4h2pklA\" target=\"_self\" rel=\"noopener\" class=\"dms-ext-link\">                    <h3 class=\"card__title\">                \n                        Book your next MB trip with Calm Air\n                    </h3>\n                </a>"
+      },
+      {
+        "target": "div > div > div:nth-of-type(2) > footer > a",
+        "text": "MORE INFO",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://manito.ba/4h2pklA",
+        "imgAlt": "",
+        "box": {
+          "x": 749,
+          "y": 6036.171875,
+          "w": 125.875,
+          "h": 37.390625
+        },
+        "context": "heading: Book your next MB trip with Calm Air",
+        "contextKind": "heading-only",
+        "html": "<a href=\"https://manito.ba/4h2pklA\" target=\"_self\" rel=\"noopener\" class=\"btn btn--details dms-ext-link\">\n                                        More Info\n                </a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div:nth-of-type(1) > div > div:nth-of-type(1) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.travelmanitoba.com/trip-essentials/know-before-you-go/",
+        "imgAlt": "",
+        "box": {
+          "x": 20,
+          "y": 6378.6875,
+          "w": 309,
+          "h": 273.59375
+        },
+        "context": "heading: Things To Know | Know Before You Go Here, you’re at the centre of everything. Manitoba is located at the longitudinal centre of Canada and it’s the meeting place of boreal, prairie, taiga, and Canadian shield ecosystems. MORE INFO",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.travelmanitoba.com/trip-essentials/know-before-you-go/\" class=\"card__link\" target=\"_blank\" rel=\"noopener\" aria-describedby=\"audioeye_new_window_message\">\n                                    <picture class=\"card__image-picture\">\n                        <img class=\"card__img delay"
+      },
+      {
+        "target": "div:nth-of-type(1) > div > div:nth-of-type(2) > div > a",
+        "text": "Know Before You Go",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.travelmanitoba.com/trip-essentials/know-before-you-go/",
+        "imgAlt": "",
+        "box": {
+          "x": 40,
+          "y": 6698.28125,
+          "w": 269,
+          "h": 22.796875
+        },
+        "context": "heading: Things To Know | Know Before You Go Here, you’re at the centre of everything. Manitoba is located at the longitudinal centre of Canada and it’s the meeting place of boreal, prairie, taiga, and Canadian shield ecosystems.",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.travelmanitoba.com/trip-essentials/know-before-you-go/\" target=\"_blank\" rel=\"noopener\" aria-describedby=\"audioeye_new_window_message\">                    <h3 class=\"card__title\">                \n                        Know Before You Go\n                    </h3>\n               "
+      },
+      {
+        "target": "div:nth-of-type(1) > div > div:nth-of-type(2) > footer > a",
+        "text": "MORE INFO",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.travelmanitoba.com/trip-essentials/know-before-you-go/",
+        "imgAlt": "",
+        "box": {
+          "x": 36,
+          "y": 6933.078125,
+          "w": 125.875,
+          "h": 37.390625
+        },
+        "context": "heading: Know Before You Go | Know Before You Go Here, you’re at the centre of everything. Manitoba is located at the longitudinal centre of Canada and it’s the meeting place of boreal, prairie, taiga, and Canadian shield ecosystems. MORE INFO",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.travelmanitoba.com/trip-essentials/know-before-you-go/\" target=\"_blank\" rel=\"noopener\" class=\"btn btn--details\" aria-describedby=\"audioeye_new_window_message\">\n                                        More Info\n                </a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div:nth-of-type(2) > div > div:nth-of-type(1) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://indigenoustourismmanitoba.ca/things-to-do/",
+        "imgAlt": "Indigenous person dressed in traditional head dress, dancing with others at Manito Ahbee Festival pow wow.",
+        "box": {
+          "x": 359,
+          "y": 6378.6875,
+          "w": 309,
+          "h": 273.59375
+        },
+        "context": "heading: Know Before You Go | INDIGENOUS TOURISM MANITOBA Adventure to Understanding Experience Manitoba with the Indigenous Peoples who have called these lands home for millennia. EXPLORE NOW!",
+        "contextKind": "block",
+        "html": "<a href=\"https://indigenoustourismmanitoba.ca/things-to-do/\" class=\"card__link dms-ext-link\" target=\"_blank\" rel=\"noopener\" aria-describedby=\"audioeye_new_window_message\">\n                                    <picture class=\"card__image-picture\">\n                        <img class=\"card__img delay--1"
+      },
+      {
+        "target": "div:nth-of-type(2) > div > div:nth-of-type(2) > div > a:nth-of-type(1)",
+        "text": "INDIGENOUS TOURISM MANITOBA",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://indigenoustourismmanitoba.ca/things-to-do/",
+        "imgAlt": "",
+        "box": {
+          "x": 379,
+          "y": 6698.28125,
+          "w": 269,
+          "h": 38.375
+        },
+        "context": "heading: Know Before You Go | INDIGENOUS TOURISM MANITOBA Adventure to Understanding Experience Manitoba with the Indigenous Peoples who have called these lands home for millennia.",
+        "contextKind": "block",
+        "html": "<a href=\"https://indigenoustourismmanitoba.ca/things-to-do/\" target=\"_blank\" rel=\"noopener\" class=\"dms-ext-link\" aria-describedby=\"audioeye_new_window_message\">                        <div class=\"card__subtitle card__subtitle--upper\">\n                            Indigenous Tourism Manitoba\n         "
+      },
+      {
+        "target": "div:nth-of-type(2) > div > div:nth-of-type(2) > div > a:nth-of-type(2)",
+        "text": "Adventure to Understanding",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://indigenoustourismmanitoba.ca/things-to-do/",
+        "imgAlt": "",
+        "box": {
+          "x": 379,
+          "y": 6741.65625,
+          "w": 269,
+          "h": 22.796875
+        },
+        "context": "heading: Know Before You Go | INDIGENOUS TOURISM MANITOBA Adventure to Understanding Experience Manitoba with the Indigenous Peoples who have called these lands home for millennia.",
+        "contextKind": "block",
+        "html": "<a href=\"https://indigenoustourismmanitoba.ca/things-to-do/\" target=\"_blank\" rel=\"noopener\" class=\"dms-ext-link\" aria-describedby=\"audioeye_new_window_message\">                    <h3 class=\"card__title\">                \n                        Adventure to Understanding\n                    </h3>\n  "
+      },
+      {
+        "target": "div:nth-of-type(2) > div > div:nth-of-type(2) > footer > a",
+        "text": "EXPLORE NOW!",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://indigenoustourismmanitoba.ca/things-to-do/",
+        "imgAlt": "",
+        "box": {
+          "x": 375,
+          "y": 6933.078125,
+          "w": 156.546875,
+          "h": 37.390625
+        },
+        "context": "heading: Adventure to Understanding | INDIGENOUS TOURISM MANITOBA Adventure to Understanding Experience Manitoba with the Indigenous Peoples who have called these lands home for millennia. EXPLORE NOW!",
+        "contextKind": "block",
+        "html": "<a href=\"https://indigenoustourismmanitoba.ca/things-to-do/\" target=\"_blank\" rel=\"noopener\" class=\"btn btn--details dms-ext-link\" aria-describedby=\"audioeye_new_window_message\">\n                                        Explore Now!\n                </a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div:nth-of-type(3) > div > div:nth-of-type(1) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.calmair.com/",
+        "imgAlt": "Close up on the Calm Air logo on the tail of an airplane.",
+        "box": {
+          "x": 698,
+          "y": 6378.6875,
+          "w": 309,
+          "h": 273.59375
+        },
+        "context": "heading: Adventure to Understanding | CALM AIR Official Air Carrier to the North Calm Air partners with local operators to bring visitors to Churchill for the most authentic Northern experiences available today. BOOK TODAY!",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.calmair.com/\" class=\"card__link dms-ext-link\" target=\"_blank\" rel=\"noopener\" aria-describedby=\"audioeye_new_window_message\">\n                                    <picture class=\"card__image-picture\">\n                        <img class=\"card__img delay--1 fade-in-50 lazyload\" src="
+      },
+      {
+        "target": "div:nth-of-type(3) > div > div:nth-of-type(2) > div > a:nth-of-type(1)",
+        "text": "CALM AIR",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.calmair.com/",
+        "imgAlt": "",
+        "box": {
+          "x": 718,
+          "y": 6698.28125,
+          "w": 269,
+          "h": 19.1875
+        },
+        "context": "heading: Adventure to Understanding | CALM AIR Official Air Carrier to the North Calm Air partners with local operators to bring visitors to Churchill for the most authentic Northern experiences available today.",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.calmair.com/\" target=\"_blank\" rel=\"noopener\" class=\"dms-ext-link\" aria-describedby=\"audioeye_new_window_message\">                        <div class=\"card__subtitle card__subtitle--upper\">\n                            Calm Air\n                        </div>\n                    </a"
+      },
+      {
+        "target": "div:nth-of-type(3) > div > div:nth-of-type(2) > div > a:nth-of-type(2)",
+        "text": "Official Air Carrier to the North",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.calmair.com/",
+        "imgAlt": "",
+        "box": {
+          "x": 718,
+          "y": 6722.46875,
+          "w": 269,
+          "h": 45.59375
+        },
+        "context": "heading: Adventure to Understanding | CALM AIR Official Air Carrier to the North Calm Air partners with local operators to bring visitors to Churchill for the most authentic Northern experiences available today.",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.calmair.com/\" target=\"_blank\" rel=\"noopener\" class=\"dms-ext-link\" aria-describedby=\"audioeye_new_window_message\">                    <h3 class=\"card__title\">                \n                        Official Air Carrier to the North\n                    </h3>\n                </a>"
+      },
+      {
+        "target": "div:nth-of-type(3) > div > div:nth-of-type(2) > footer > a",
+        "text": "BOOK TODAY!",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.calmair.com/",
+        "imgAlt": "",
+        "box": {
+          "x": 714,
+          "y": 6933.078125,
+          "w": 142.53125,
+          "h": 37.390625
+        },
+        "context": "heading: Official Air Carrier to the North | CALM AIR Official Air Carrier to the North Calm Air partners with local operators to bring visitors to Churchill for the most authentic Northern experiences available today. BOOK TODAY!",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.calmair.com/\" target=\"_blank\" rel=\"noopener\" class=\"btn btn--details dms-ext-link\" aria-describedby=\"audioeye_new_window_message\">\n                                        Book Today!\n                </a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div:nth-of-type(4) > div > div:nth-of-type(1) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/places/must-see/",
+        "imgAlt": "Manitoba north waterfall",
+        "box": {
+          "x": 1037,
+          "y": 6378.6875,
+          "w": 309,
+          "h": 273.59375
+        },
+        "context": "heading: Official Air Carrier to the North | PLACES TO GO Manitoba's Must-See Destinations These must-see destinations deliver the best of our province. Discover some of Manitoba’s favourite places to visit! EXPLORE NOW!",
+        "contextKind": "block",
+        "html": "<a href=\"/places/must-see/\" class=\"card__link\" target=\"_blank\" rel=\"noopener\" aria-describedby=\"audioeye_new_window_message\">\n                                    <picture class=\"card__image-picture\">\n                        <img class=\"card__img delay--1 fade-in-50 lazyload\" src=\"data:image/svg+xml;"
+      },
+      {
+        "target": "div:nth-of-type(4) > div > div:nth-of-type(2) > div > a:nth-of-type(1)",
+        "text": "PLACES TO GO",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/places/must-see/",
+        "imgAlt": "",
+        "box": {
+          "x": 1057,
+          "y": 6698.28125,
+          "w": 269,
+          "h": 19.1875
+        },
+        "context": "heading: Official Air Carrier to the North | PLACES TO GO Manitoba's Must-See Destinations These must-see destinations deliver the best of our province. Discover some of Manitoba’s favourite places to visit!",
+        "contextKind": "block",
+        "html": "<a href=\"/places/must-see/\" target=\"_blank\" rel=\"noopener\" aria-describedby=\"audioeye_new_window_message\">                        <div class=\"card__subtitle card__subtitle--upper\">\n                            Places To Go\n                        </div>\n                    </a>"
+      },
+      {
+        "target": "div:nth-of-type(4) > div > div:nth-of-type(2) > div > a:nth-of-type(2)",
+        "text": "Manitoba's Must-See Destinations",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/places/must-see/",
+        "imgAlt": "",
+        "box": {
+          "x": 1057,
+          "y": 6722.46875,
+          "w": 269,
+          "h": 45.59375
+        },
+        "context": "heading: Official Air Carrier to the North | PLACES TO GO Manitoba's Must-See Destinations These must-see destinations deliver the best of our province. Discover some of Manitoba’s favourite places to visit!",
+        "contextKind": "block",
+        "html": "<a href=\"/places/must-see/\" target=\"_blank\" rel=\"noopener\" aria-describedby=\"audioeye_new_window_message\">                    <h3 class=\"card__title\">                \n                        Manitoba's Must-See Destinations\n                    </h3>\n                </a>"
+      },
+      {
+        "target": "div:nth-of-type(4) > div > div:nth-of-type(2) > footer > a",
+        "text": "EXPLORE NOW!",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/places/must-see/",
+        "imgAlt": "",
+        "box": {
+          "x": 1053,
+          "y": 6933.078125,
+          "w": 156.546875,
+          "h": 37.390625
+        },
+        "context": "heading: Manitoba's Must-See Destinations | PLACES TO GO Manitoba's Must-See Destinations These must-see destinations deliver the best of our province. Discover some of Manitoba’s favourite places to visit! EXPLORE NOW!",
+        "contextKind": "block",
+        "html": "<a href=\"/places/must-see/\" target=\"_blank\" rel=\"noopener\" class=\"btn btn--details\" aria-describedby=\"audioeye_new_window_message\">\n                                        Explore Now!\n                </a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div > div > div:nth-of-type(1) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://manito.ba/4mOGqVg",
+        "imgAlt": "Calm air aircraft up in the air",
+        "box": {
+          "x": 20,
+          "y": 7139.96875,
+          "w": 663,
+          "h": 578
+        },
+        "context": "heading: Calm Air",
+        "contextKind": "heading-only",
+        "html": "<a href=\"https://manito.ba/4mOGqVg\" class=\"card__link dms-ext-link\" target=\"_blank\" rel=\"noopener\" aria-describedby=\"audioeye_new_window_message\">\n                                    <picture class=\"card__image-picture\">\n                        <img class=\"card__img delay--1 fade-in-50 lazyload\" src"
+      },
+      {
+        "target": "div > div > div:nth-of-type(2) > div > a",
+        "text": "Book your next MB trip with Calm Air",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://manito.ba/4mOGqVg",
+        "imgAlt": "",
+        "box": {
+          "x": 753,
+          "y": 7339.671875,
+          "w": 523,
+          "h": 31.1875
+        },
+        "context": "heading: Calm Air",
+        "contextKind": "heading-only",
+        "html": "<a href=\"https://manito.ba/4mOGqVg\" target=\"_blank\" rel=\"noopener\" class=\"dms-ext-link\" aria-describedby=\"audioeye_new_window_message\">                    <h3 class=\"card__title\">                \n                        Book your next MB trip with Calm Air\n                    </h3>\n                <"
+      },
+      {
+        "target": "div > div > div:nth-of-type(2) > footer > a",
+        "text": "BOOK TODAY!",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://manito.ba/4mOGqVg",
+        "imgAlt": "",
+        "box": {
+          "x": 749,
+          "y": 7530.859375,
+          "w": 142.53125,
+          "h": 37.390625
+        },
+        "context": "heading: Book your next MB trip with Calm Air",
+        "contextKind": "heading-only",
+        "html": "<a href=\"https://manito.ba/4mOGqVg\" target=\"_blank\" rel=\"noopener\" class=\"btn btn--details dms-ext-link\" aria-describedby=\"audioeye_new_window_message\">\n                                        BOOK TODAY!\n                </a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div:nth-of-type(1) > div > div:nth-of-type(1) > a",
+        "text": "• SEP 19 - SEP 20 •",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.travelmanitoba.com/events/taisa-monastyrski/",
+        "imgAlt": "",
+        "box": {
+          "x": 93.5,
+          "y": 7975.46875,
+          "w": 162,
+          "h": 198
+        },
+        "context": "heading: Featured Events | • SEP 19 - SEP 20 • African Movie Festival in Manitoba 300 Memorial Blvd Winnipeg, Manitoba R3C 1V1 MORE INFO",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.travelmanitoba.com/events/taisa-monastyrski/\" class=\"card__link card__link--event delay--1 fade-in featured-events\" target=\"_self\" rel=\"noopener\">\n            \n                <div class=\"event__icon-wrapper card__image-picture\">\n                    <svg class=\"icon icon--auto\" "
+      },
+      {
+        "target": "div:nth-of-type(1) > div > div:nth-of-type(2) > footer > a",
+        "text": "MORE INFO",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.travelmanitoba.com/events/taisa-monastyrski/",
+        "imgAlt": "",
+        "box": {
+          "x": 36,
+          "y": 8378.0625,
+          "w": 125.875,
+          "h": 37.390625
+        },
+        "context": "heading: African Movie Festival in Manitoba | African Movie Festival in Manitoba 300 Memorial Blvd Winnipeg, Manitoba R3C 1V1 MORE INFO",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.travelmanitoba.com/events/taisa-monastyrski/\" target=\"_self\" rel=\"noopener\" class=\"btn btn--details featured-events\">\n                                        More Info\n                </a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div:nth-of-type(2) > div > div:nth-of-type(1) > a",
+        "text": "• SEP 19 - SEP 20 •",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.travelmanitoba.com/events/african-movie-festial-in-manitoba/",
+        "imgAlt": "",
+        "box": {
+          "x": 432.5,
+          "y": 7975.46875,
+          "w": 162,
+          "h": 198
+        },
+        "context": "heading: African Movie Festival in Manitoba | • SEP 19 - SEP 20 • African Movie Festial in Manitoba Winnipeg, Manitoba R3C 1V1 MORE INFO",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.travelmanitoba.com/events/african-movie-festial-in-manitoba/\" class=\"card__link card__link--event delay--1 fade-in featured-events\" target=\"_self\" rel=\"noopener\">\n            \n                <div class=\"event__icon-wrapper card__image-picture\">\n                    <svg class=\"i"
+      },
+      {
+        "target": "div:nth-of-type(2) > div > div:nth-of-type(2) > footer > a",
+        "text": "MORE INFO",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.travelmanitoba.com/events/african-movie-festial-in-manitoba/",
+        "imgAlt": "",
+        "box": {
+          "x": 375,
+          "y": 8378.0625,
+          "w": 125.875,
+          "h": 37.390625
+        },
+        "context": "heading: African Movie Festial in Manitoba | African Movie Festial in Manitoba Winnipeg, Manitoba R3C 1V1 MORE INFO",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.travelmanitoba.com/events/african-movie-festial-in-manitoba/\" target=\"_self\" rel=\"noopener\" class=\"btn btn--details featured-events\">\n                                        More Info\n                </a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div:nth-of-type(3) > div > div:nth-of-type(1) > a",
+        "text": "• SEP 19 •",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.travelmanitoba.com/events/yummiest-salsa-competition/",
+        "imgAlt": "",
+        "box": {
+          "x": 771.5,
+          "y": 7975.46875,
+          "w": 162,
+          "h": 198
+        },
+        "context": "heading: African Movie Festial in Manitoba | • SEP 19 • Yummiest Salsa Competition 100 Center Avenue Blumenort, Manitoba R0A 0C1 MORE INFO",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.travelmanitoba.com/events/yummiest-salsa-competition/\" class=\"card__link card__link--event delay--1 fade-in featured-events\" target=\"_self\" rel=\"noopener\">\n            \n                <div class=\"event__icon-wrapper card__image-picture\">\n                    <svg class=\"icon ico"
+      },
+      {
+        "target": "div:nth-of-type(3) > div > div:nth-of-type(2) > footer > a",
+        "text": "MORE INFO",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.travelmanitoba.com/events/yummiest-salsa-competition/",
+        "imgAlt": "",
+        "box": {
+          "x": 714,
+          "y": 8378.0625,
+          "w": 125.875,
+          "h": 37.390625
+        },
+        "context": "heading: Yummiest Salsa Competition | Yummiest Salsa Competition 100 Center Avenue Blumenort, Manitoba R0A 0C1 MORE INFO",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.travelmanitoba.com/events/yummiest-salsa-competition/\" target=\"_self\" rel=\"noopener\" class=\"btn btn--details featured-events\">\n                                        More Info\n                </a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div:nth-of-type(4) > div > div:nth-of-type(1) > a",
+        "text": "• SEP 19 •",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.travelmanitoba.com/events/métis-kitchen-party-4/",
+        "imgAlt": "",
+        "box": {
+          "x": 1110.5,
+          "y": 7975.46875,
+          "w": 162,
+          "h": 198
+        },
+        "context": "heading: Yummiest Salsa Competition | • SEP 19 • Métis Kitchen Party 61105 PR 406 Whitemouth, Manitoba R0E 2G0 MORE INFO",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.travelmanitoba.com/events/métis-kitchen-party-4/\" class=\"card__link card__link--event delay--1 fade-in featured-events\" target=\"_self\" rel=\"noopener\">\n            \n                <div class=\"event__icon-wrapper card__image-picture\">\n                    <svg class=\"icon icon--au"
+      },
+      {
+        "target": "div:nth-of-type(4) > div > div:nth-of-type(2) > footer > a",
+        "text": "MORE INFO",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.travelmanitoba.com/events/métis-kitchen-party-4/",
+        "imgAlt": "",
+        "box": {
+          "x": 1053,
+          "y": 8378.0625,
+          "w": 125.875,
+          "h": 37.390625
+        },
+        "context": "heading: Métis Kitchen Party | Métis Kitchen Party 61105 PR 406 Whitemouth, Manitoba R0E 2G0 MORE INFO",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.travelmanitoba.com/events/métis-kitchen-party-4/\" target=\"_self\" rel=\"noopener\" class=\"btn btn--details featured-events\">\n                                        More Info\n                </a>"
+      },
+      {
+        "target": "div > div:nth-of-type(1) > div > div > a",
+        "text": "SUBSCRIBE",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.travelmanitoba.com/trip-essentials/enews-sign-up/",
+        "imgAlt": "",
+        "box": {
+          "x": 610.890625,
+          "y": 8771.734375,
+          "w": 144.21875,
+          "h": 41.59375
+        },
+        "context": "heading: Stay In The Loop | Stay In The Loop Sign up to our e-Newsletter to find out what's happening in Manitoba! Receive exclusive travel guides, seasonal highlights and special offers delivered straight to your inbox. SUBSCRIBE",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.travelmanitoba.com/trip-essentials/enews-sign-up/\" class=\"btn btn--details\">Subscribe</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div > div > div > a",
+        "text": "Learn more about Treaty areas",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.travelmanitoba.com/places/treaty-areas/",
+        "imgAlt": "",
+        "box": {
+          "x": 64,
+          "y": 9147.328125,
+          "w": 334.0625,
+          "h": 44
+        },
+        "context": "heading: Land Acknowledgement",
+        "contextKind": "heading-only",
+        "html": "<a href=\"https://www.travelmanitoba.com/places/treaty-areas/\" class=\"btn btn--link\">Learn more about Treaty areas</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.travelmanitoba.com/",
+        "imgAlt": "",
+        "box": {
+          "x": 34,
+          "y": 9267.328125,
+          "w": 311,
+          "h": 88.390625
+        },
+        "context": "heading: Land Acknowledgement",
+        "contextKind": "heading-only",
+        "html": "<a href=\"https://www.travelmanitoba.com/\" class=\"footer__logo logo\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<svg class=\"icon--auto\" role=\"presentation\" viewBox=\"0 0 384 70\">\n\t\t\t\t\t\t\t\t<use xlink:href=\"#logo-tagline\"></use>\n\t\t\t\t\t\t\t</svg>\n\t\t\t\t\t\t\t\t\t\t\t</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(1) > h2 > a",
+        "text": "THINGS TO DO",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.travelmanitoba.com/things-to-do/",
+        "imgAlt": "",
+        "box": {
+          "x": 477,
+          "y": 9274.328125,
+          "w": 123.234375,
+          "h": 20.15625
+        },
+        "context": "THINGS TO DO",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.travelmanitoba.com/things-to-do/\" target=\"\" rel=\"noopener\" class=\"nav__link  \">\n\n                \n                Things To Do\n            </a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(2) > h2 > a",
+        "text": "MANITOBA EVENTS",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.travelmanitoba.com/events/",
+        "imgAlt": "",
+        "box": {
+          "x": 477,
+          "y": 9327.484375,
+          "w": 162.9375,
+          "h": 20.15625
+        },
+        "context": "MANITOBA EVENTS",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.travelmanitoba.com/events/\" target=\"\" rel=\"noopener\" class=\"nav__link  \">\n\n                \n                Manitoba Events\n            </a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(3) > h2 > a",
+        "text": "PLACES TO GO",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.travelmanitoba.com/places/",
+        "imgAlt": "",
+        "box": {
+          "x": 477,
+          "y": 9380.640625,
+          "w": 123.609375,
+          "h": 20.15625
+        },
+        "context": "PLACES TO GO",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.travelmanitoba.com/places/\" target=\"\" rel=\"noopener\" class=\"nav__link  \">\n\n                \n                Places To Go\n            </a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(4) > h2 > a",
+        "text": "WHERE TO STAY",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.travelmanitoba.com/stay/",
+        "imgAlt": "",
+        "box": {
+          "x": 477,
+          "y": 9433.796875,
+          "w": 134.84375,
+          "h": 20.15625
+        },
+        "context": "WHERE TO STAY",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.travelmanitoba.com/stay/\" target=\"\" rel=\"noopener\" class=\"nav__link  \">\n\n                \n                Where To Stay\n            </a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(5) > h2 > a",
+        "text": "TRIP ESSENTIALS",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.travelmanitoba.com/trip-essentials/",
+        "imgAlt": "",
+        "box": {
+          "x": 477,
+          "y": 9486.953125,
+          "w": 146.953125,
+          "h": 20.15625
+        },
+        "context": "TRIP ESSENTIALS",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.travelmanitoba.com/trip-essentials/\" target=\"\" rel=\"noopener\" class=\"nav__link  \">\n\n                \n                Trip Essentials\n            </a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(6) > h2 > a",
+        "text": "CONTACT US",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.travelmanitoba.com/trip-essentials/contact-us/",
+        "imgAlt": "",
+        "box": {
+          "x": 477,
+          "y": 9540.109375,
+          "w": 108.890625,
+          "h": 20.15625
+        },
+        "context": "CONTACT US",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.travelmanitoba.com/trip-essentials/contact-us/\" target=\"\" rel=\"noopener\" class=\"nav__link  \">\n\n                \n                Contact Us\n            </a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(7) > h2 > a",
+        "text": "#EXPLOREMB BLOG",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.travelmanitoba.com/blog/",
+        "imgAlt": "",
+        "box": {
+          "x": 477,
+          "y": 9593.265625,
+          "w": 167.5,
+          "h": 20.15625
+        },
+        "context": "#EXPLOREMB BLOG",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.travelmanitoba.com/blog/\" target=\"\" rel=\"noopener\" class=\"nav__link  \">\n\n                \n                #ExploreMB Blog\n            </a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul:nth-of-type(2) > li:nth-of-type(1) > h2 > a",
+        "text": "Tourism Industry",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://industry.travelmanitoba.com/",
+        "imgAlt": "",
+        "box": {
+          "x": 765.328125,
+          "y": 9274.328125,
+          "w": 136.484375,
+          "h": 20.15625
+        },
+        "context": "Tourism Industry",
+        "contextKind": "li",
+        "html": "<a href=\"https://industry.travelmanitoba.com/\" target=\"_self\" rel=\"noopener\" class=\"nav__link dms-ext-link\">\n\n                \n                Tourism Industry\n            </a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul:nth-of-type(2) > li:nth-of-type(2) > h2 > a",
+        "text": "Travel Media",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.travelmanitoba.com/media/",
+        "imgAlt": "",
+        "box": {
+          "x": 765.328125,
+          "y": 9327.484375,
+          "w": 104.109375,
+          "h": 20.15625
+        },
+        "context": "Travel Media",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.travelmanitoba.com/media/\" target=\"\" rel=\"noopener\" class=\"nav__link  \">\n\n                \n                Travel Media\n            </a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul:nth-of-type(2) > li:nth-of-type(3) > h2 > a",
+        "text": "Meetings & Conventions",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.travelmanitoba.com/meetings/",
+        "imgAlt": "",
+        "box": {
+          "x": 765.328125,
+          "y": 9380.640625,
+          "w": 199.765625,
+          "h": 20.15625
+        },
+        "context": "Meetings & Conventions",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.travelmanitoba.com/meetings/\" target=\"\" rel=\"noopener\" class=\"nav__link  \">\n\n                \n                Meetings &amp; Conventions\n            </a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul:nth-of-type(2) > li:nth-of-type(4) > h2 > a",
+        "text": "Travel Trade",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.travelmanitoba.com/travel-trade/",
+        "imgAlt": "",
+        "box": {
+          "x": 765.328125,
+          "y": 9433.796875,
+          "w": 98.640625,
+          "h": 20.15625
+        },
+        "context": "Travel Trade",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.travelmanitoba.com/travel-trade/\" target=\"\" rel=\"noopener\" class=\"nav__link  \">\n\n                \n                Travel Trade\n            </a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul:nth-of-type(2) > li:nth-of-type(5) > h2 > a",
+        "text": "Hunt Fish Manitoba",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://huntfishmanitoba.ca/",
+        "imgAlt": "",
+        "box": {
+          "x": 765.328125,
+          "y": 9486.953125,
+          "w": 159.53125,
+          "h": 20.15625
+        },
+        "context": "Hunt Fish Manitoba",
+        "contextKind": "li",
+        "html": "<a href=\"https://huntfishmanitoba.ca/\" target=\"_blank\" rel=\"noopener\" class=\"nav__link dms-ext-link\" aria-describedby=\"audioeye_new_window_message\">\n\n                \n                Hunt Fish Manitoba\n            </a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > ul:nth-of-type(2) > li:nth-of-type(6) > h2 > a",
+        "text": "Manitoba North",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.travelmanitoba.com/manitoba-north/",
+        "imgAlt": "",
+        "box": {
+          "x": 765.328125,
+          "y": 9540.109375,
+          "w": 128.21875,
+          "h": 20.15625
+        },
+        "context": "Manitoba North",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.travelmanitoba.com/manitoba-north/\" target=\"\" rel=\"noopener\" class=\"nav__link  \">\n\n                \n                Manitoba North\n            </a>"
+      },
+      {
+        "target": "div:nth-of-type(1) > div:nth-of-type(2) > ul:nth-of-type(3) > li:nth-of-type(1) > a",
+        "text": "Privacy",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.travelmanitoba.com/privacy/",
+        "imgAlt": "",
+        "box": {
+          "x": 1053.65625,
+          "y": 9273.328125,
+          "w": 55.46875,
+          "h": 20.15625
+        },
+        "context": "Privacy",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.travelmanitoba.com/privacy/\" target=\"\" rel=\"noopener\" class=\"nav__link  \">\n\n                \n                Privacy\n            </a>"
+      },
+      {
+        "target": "div:nth-of-type(1) > div:nth-of-type(2) > ul:nth-of-type(3) > li:nth-of-type(2) > a",
+        "text": "Contact Us",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.travelmanitoba.com/trip-essentials/contact-us/",
+        "imgAlt": "",
+        "box": {
+          "x": 1053.65625,
+          "y": 9318.484375,
+          "w": 85.84375,
+          "h": 20.15625
+        },
+        "context": "Contact Us",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.travelmanitoba.com/trip-essentials/contact-us/\" target=\"\" rel=\"noopener\" class=\"nav__link  \">\n\n                \n                Contact Us\n            </a>"
+      },
+      {
+        "target": "div:nth-of-type(1) > div:nth-of-type(2) > ul:nth-of-type(3) > li:nth-of-type(3) > a",
+        "text": "Français",
+        "ariaLabel": "",
+        "title": "",
+        "href": "http://uatfr.travelmanitoba.com/",
+        "imgAlt": "",
+        "box": {
+          "x": 1053.65625,
+          "y": 9363.640625,
+          "w": 66.21875,
+          "h": 20.15625
+        },
+        "context": "Français",
+        "contextKind": "li",
+        "html": "<a href=\"http://uatfr.travelmanitoba.com/\" target=\"_blank\" rel=\"noopener\" class=\"nav__link dms-ext-link\" aria-describedby=\"audioeye_new_window_message\">\n\n                \n                Français\n            </a>"
+      },
+      {
+        "target": "div:nth-of-type(1) > div:nth-of-type(2) > ul:nth-of-type(3) > li:nth-of-type(4) > a",
+        "text": "Sitemap",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/sitemap/",
+        "imgAlt": "",
+        "box": {
+          "x": 1053.65625,
+          "y": 9408.796875,
+          "w": 63.328125,
+          "h": 20.15625
+        },
+        "context": "Sitemap",
+        "contextKind": "li",
+        "html": "<a href=\"/sitemap/\" class=\"nav__link\">Sitemap</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div:nth-of-type(1) > ul > li:nth-of-type(1) > a",
+        "text": "Facebook",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.facebook.com/TravelManitoba",
+        "imgAlt": "",
+        "box": {
+          "x": 54,
+          "y": 9787.421875,
+          "w": 38,
+          "h": 38
+        },
+        "context": "Facebook",
+        "contextKind": "li",
+        "html": "<a class=\"page-social__link dms-ext-link\" href=\"https://www.facebook.com/TravelManitoba\" target=\"_blank\" rel=\"noopener\" aria-describedby=\"audioeye_new_window_message\">\n        <svg class=\"icon\" aria-hidden=\"true\">\n            <use xmlns:xlink=\"http://www.w3.org/1999/xlink\" xlink:href=\"/svg/sprite.sv"
+      },
+      {
+        "target": "div:nth-of-type(2) > div:nth-of-type(1) > ul > li:nth-of-type(2) > a",
+        "text": "Instagram",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://instagram.com/TravelManitoba",
+        "imgAlt": "",
+        "box": {
+          "x": 110,
+          "y": 9787.421875,
+          "w": 38,
+          "h": 38
+        },
+        "context": "Instagram",
+        "contextKind": "li",
+        "html": "<a class=\"page-social__link dms-ext-link\" href=\"https://instagram.com/TravelManitoba\" target=\"_blank\" rel=\"noopener\" aria-describedby=\"audioeye_new_window_message\">\n        <svg class=\"icon\" aria-hidden=\"true\">\n            <use xmlns:xlink=\"http://www.w3.org/1999/xlink\" xlink:href=\"/svg/sprite.svg#i"
+      },
+      {
+        "target": "div:nth-of-type(2) > div:nth-of-type(1) > ul > li:nth-of-type(3) > a",
+        "text": "Twitter",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://twitter.com/travelmanitoba",
+        "imgAlt": "",
+        "box": {
+          "x": 166,
+          "y": 9787.421875,
+          "w": 38,
+          "h": 38
+        },
+        "context": "Twitter",
+        "contextKind": "li",
+        "html": "<a class=\"page-social__link dms-ext-link\" href=\"https://twitter.com/travelmanitoba\" target=\"_blank\" rel=\"noopener\" aria-describedby=\"audioeye_new_window_message\">\n        <svg class=\"icon\" aria-hidden=\"true\">\n            <use xmlns:xlink=\"http://www.w3.org/1999/xlink\" xlink:href=\"/svg/sprite.svg#twi"
+      },
+      {
+        "target": "div:nth-of-type(2) > div:nth-of-type(1) > ul > li:nth-of-type(4) > a",
+        "text": "YouTube",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.youtube.com/TravelManitoba",
+        "imgAlt": "",
+        "box": {
+          "x": 222,
+          "y": 9787.421875,
+          "w": 38,
+          "h": 38
+        },
+        "context": "YouTube",
+        "contextKind": "li",
+        "html": "<a class=\"page-social__link dms-ext-link\" href=\"https://www.youtube.com/TravelManitoba\" target=\"_blank\" rel=\"noopener\" aria-describedby=\"audioeye_new_window_message\">\n        <svg class=\"icon\" aria-hidden=\"true\">\n            <use xmlns:xlink=\"http://www.w3.org/1999/xlink\" xlink:href=\"/svg/sprite.svg"
+      },
+      {
+        "target": "div:nth-of-type(2) > div:nth-of-type(1) > ul > li:nth-of-type(5) > a",
+        "text": "Pinterest",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://pinterest.com/TravelManitoba",
+        "imgAlt": "",
+        "box": {
+          "x": 278,
+          "y": 9787.421875,
+          "w": 38,
+          "h": 38
+        },
+        "context": "Pinterest",
+        "contextKind": "li",
+        "html": "<a class=\"page-social__link dms-ext-link\" href=\"https://pinterest.com/TravelManitoba\" target=\"_blank\" rel=\"noopener\" aria-describedby=\"audioeye_new_window_message\">\n        <svg class=\"icon\" aria-hidden=\"true\">\n            <use xmlns:xlink=\"http://www.w3.org/1999/xlink\" xlink:href=\"/svg/sprite.svg#p"
+      },
+      {
+        "target": "div:nth-of-type(2) > div:nth-of-type(1) > ul > li:nth-of-type(6) > a",
+        "text": "Tiktok",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.tiktok.com/@travelmanitoba",
+        "imgAlt": "",
+        "box": {
+          "x": 334,
+          "y": 9787.421875,
+          "w": 38,
+          "h": 38
+        },
+        "context": "Tiktok",
+        "contextKind": "li",
+        "html": "<a class=\"page-social__link dms-ext-link\" href=\"https://www.tiktok.com/@travelmanitoba\" target=\"_blank\" rel=\"noopener\" aria-describedby=\"audioeye_new_window_message\">\n        <svg class=\"icon\" aria-hidden=\"true\">\n            <use xmlns:xlink=\"http://www.w3.org/1999/xlink\" xlink:href=\"/svg/sprite.svg"
+      },
+      {
+        "target": "div:nth-of-type(2) > div:nth-of-type(1) > ul > li:nth-of-type(7) > a",
+        "text": "Whats App",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://wa.me/message/QJGPJPNLLSLCF1",
+        "imgAlt": "",
+        "box": {
+          "x": 390,
+          "y": 9787.421875,
+          "w": 38,
+          "h": 38
+        },
+        "context": "Whats App",
+        "contextKind": "li",
+        "html": "<a class=\"page-social__link dms-ext-link\" href=\"https://wa.me/message/QJGPJPNLLSLCF1\" target=\"_blank\" rel=\"noopener\" aria-describedby=\"audioeye_new_window_message\">\n            <svg class=\"icon\" aria-hidden=\"true\">\n                <use xmlns:xlink=\"http://www.w3.org/1999/xlink\" xlink:href=\"/svg/spri"
+      },
+      {
+        "target": "div:nth-of-type(2) > div > ul > li:nth-of-type(1) > a",
+        "text": "Official Air Travel Provider To The North",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://manito.ba/3HgkXBM",
+        "imgAlt": "",
+        "box": {
+          "x": 54,
+          "y": 9661.796875,
+          "w": 313.921875,
+          "h": 87.25
+        },
+        "context": "Official Air Travel Provider To The North",
+        "contextKind": "li",
+        "html": "<a href=\"https://manito.ba/3HgkXBM\" class=\"footer-logos__wrapper dms-ext-link\" target=\"_blank\" aria-describedby=\"audioeye_new_window_message\">\n\n\t\t\t   \t\t\t\t\t<picture class=\"footer-logos__image\">\n\t\t\t\t\t\t\t\t\t\t\t\t<img class=\" lazyload\" src=\"data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%27http%3A%2F%2Fw"
+      },
+      {
+        "target": "div:nth-of-type(2) > div > ul > li:nth-of-type(2) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.thegreenwebfoundation.org/",
+        "imgAlt": "",
+        "box": {
+          "x": 367.921875,
+          "y": 9655.421875,
+          "w": 232,
+          "h": 100
+        },
+        "context": "",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.thegreenwebfoundation.org/\" class=\"footer-logos__wrapper dms-ext-link\" target=\"_blank\" aria-describedby=\"audioeye_new_window_message\">\n\n\t\t\t   \t\t\t\t\t<picture class=\"footer-logos__image\">\n\t\t\t\t\t\t\t\t\t\t\t\t<img class=\" lazyload\" src=\"data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%27h"
+      },
+      {
+        "target": "#onetrust-policy-text > a",
+        "text": "Privacy Policy",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.travelmanitoba.com/privacy/",
+        "imgAlt": "",
+        "box": {
+          "x": 515.15625,
+          "y": 857.484375,
+          "w": 86.734375,
+          "h": 19
+        },
+        "context": "We want you to know that we place cookies on your device. These cookies help enhance user experience, to analyze performance and traffic on our website, and to assist in our marketing efforts. You can",
+        "contextKind": "p",
+        "html": "<a href=\"https://www.travelmanitoba.com/privacy/\" target=\"_blank\" aria-describedby=\"audioeye_new_window_message\"> Privacy Policy</a>"
+      }
+    ],
+    "headings": [
+      {
+        "target": "#main-nav-overlay_heading",
+        "level": 1,
+        "text": "",
+        "visible": false,
+        "box": {
+          "x": 763,
+          "y": 8,
+          "w": 1,
+          "h": 1
+        },
+        "html": "<h1 class=\"visually-hidden a11y-modal__heading at-only\" id=\"main-nav-overlay_heading\">Navigation Options</h1>"
+      },
+      {
+        "target": "#eb-overlay_heading",
+        "level": 1,
+        "text": "",
+        "visible": false,
+        "box": {
+          "x": 20,
+          "y": 8,
+          "w": 1,
+          "h": 1
+        },
+        "html": "<h1 id=\"eb-overlay_heading\" class=\"visually-hidden a11y-modal__heading at-only\">Experience Builder</h1>"
+      },
+      {
+        "target": "div:nth-of-type(1) > div:nth-of-type(1) > div > div > h2",
+        "level": 2,
+        "text": "Follow Your Heart To The Right Place",
+        "visible": true,
+        "box": {
+          "x": 20,
+          "y": 750,
+          "w": 641.265625,
+          "h": 77.5
+        },
+        "html": "<h2 class=\"heading__intro bg--bright-red text-center fly-in-top is-visible\" data-set-view=\"\">        \n                                                                                                                                                                                                      "
+      },
+      {
+        "target": "#mashup-5a7256c0-d952-464d-b0ae-cef15b7bca1e > div:nth-of-type(1) > div > div > h2",
+        "level": 2,
+        "text": "Explore Spring & Summer In Manitoba",
+        "visible": true,
+        "box": {
+          "x": 20,
+          "y": 1092.234375,
+          "w": 667.78125,
+          "h": 77.5
+        },
+        "html": "<h2 class=\"heading__intro bg--bright-red text-center is-visible fly-in-top\" data-set-view=\"\">        \n                                                                                                                                                                                                      "
+      },
+      {
+        "target": "div:nth-of-type(1) > a > div > div > h3",
+        "level": 3,
+        "text": "Indigenous Experiences",
+        "visible": true,
+        "box": {
+          "x": 20,
+          "y": 1448.9375,
+          "w": 428.65625,
+          "h": 76.796875
+        },
+        "html": "<h3 class=\"mashup__title\">Indigenous Experiences</h3>"
+      },
+      {
+        "target": "div:nth-of-type(2) > a > div > div > h3",
+        "level": 3,
+        "text": "Urban Escapes",
+        "visible": true,
+        "box": {
+          "x": 468.65625,
+          "y": 1448.9375,
+          "w": 428.671875,
+          "h": 76.796875
+        },
+        "html": "<h3 class=\"mashup__title\">Urban Escapes</h3>"
+      },
+      {
+        "target": "div:nth-of-type(3) > a > div > div > h3",
+        "level": 3,
+        "text": "Stunning Stays",
+        "visible": true,
+        "box": {
+          "x": 917.328125,
+          "y": 1448.9375,
+          "w": 428.65625,
+          "h": 76.796875
+        },
+        "html": "<h3 class=\"mashup__title\">Stunning Stays</h3>"
+      },
+      {
+        "target": "div:nth-of-type(4) > a > div > div > h3",
+        "level": 3,
+        "text": "Road Trips",
+        "visible": true,
+        "box": {
+          "x": 20,
+          "y": 1796.9375,
+          "w": 428.65625,
+          "h": 76.796875
+        },
+        "html": "<h3 class=\"mashup__title\">Road Trips</h3>"
+      },
+      {
+        "target": "div:nth-of-type(5) > a > div > div > h3",
+        "level": 3,
+        "text": "Explore Manitoba's North",
+        "visible": true,
+        "box": {
+          "x": 468.65625,
+          "y": 1796.9375,
+          "w": 428.671875,
+          "h": 76.796875
+        },
+        "html": "<h3 class=\"mashup__title\">Explore Manitoba's North</h3>"
+      },
+      {
+        "target": "#mashup-9cec2164-f926-43a9-9bc0-ee4b387047f5 > div:nth-of-type(1) > div > div > h2",
+        "level": 2,
+        "text": "Manitoba Experiences",
+        "visible": true,
+        "box": {
+          "x": 20,
+          "y": 2496.234375,
+          "w": 401.453125,
+          "h": 77.5
+        },
+        "html": "<h2 class=\"heading__intro bg--bright-red text-center fly-in-top\" data-set-view=\"\">        \n                                                                                                                                                                                                                 "
+      },
+      {
+        "target": "div:nth-of-type(1) > a > div > div > h3",
+        "level": 3,
+        "text": "Food & Drink",
+        "visible": true,
+        "box": {
+          "x": 20,
+          "y": 2980.4375,
+          "w": 428.65625,
+          "h": 76.796875
+        },
+        "html": "<h3 class=\"mashup__title\">Food &amp; Drink</h3>"
+      },
+      {
+        "target": "div:nth-of-type(2) > a > div > div > h3",
+        "level": 3,
+        "text": "Spas & Wellness",
+        "visible": true,
+        "box": {
+          "x": 468.65625,
+          "y": 2980.4375,
+          "w": 428.671875,
+          "h": 76.796875
+        },
+        "html": "<h3 class=\"mashup__title\">Spas &amp; Wellness</h3>"
+      },
+      {
+        "target": "div:nth-of-type(3) > a > div > div > h3",
+        "level": 3,
+        "text": "Family Fun",
+        "visible": true,
+        "box": {
+          "x": 917.328125,
+          "y": 2980.4375,
+          "w": 428.65625,
+          "h": 76.796875
+        },
+        "html": "<h3 class=\"mashup__title\">Family Fun</h3>"
+      },
+      {
+        "target": "div:nth-of-type(4) > a > div > div > h3",
+        "level": 3,
+        "text": "Road Trips and Day Trips",
+        "visible": true,
+        "box": {
+          "x": 20,
+          "y": 3328.4375,
+          "w": 428.65625,
+          "h": 76.796875
+        },
+        "html": "<h3 class=\"mashup__title\">Road Trips and Day Trips</h3>"
+      },
+      {
+        "target": "div:nth-of-type(5) > a > div > div > h3",
+        "level": 3,
+        "text": "Arts, Culture & History",
+        "visible": true,
+        "box": {
+          "x": 468.65625,
+          "y": 3328.4375,
+          "w": 428.671875,
+          "h": 76.796875
+        },
+        "html": "<h3 class=\"mashup__title\">Arts, Culture &amp; History</h3>"
+      },
+      {
+        "target": "div:nth-of-type(6) > a > div > div > h3",
+        "level": 3,
+        "text": "Outdoor Adventures",
+        "visible": true,
+        "box": {
+          "x": 917.328125,
+          "y": 3328.4375,
+          "w": 428.65625,
+          "h": 76.796875
+        },
+        "html": "<h3 class=\"mashup__title\">Outdoor Adventures</h3>"
+      },
+      {
+        "target": "#main > div:nth-of-type(5) > div:nth-of-type(1) > h2",
+        "level": 2,
+        "text": "Travel Deals",
+        "visible": true,
+        "box": {
+          "x": 0,
+          "y": 3455.234375,
+          "w": 239.78125,
+          "h": 39.5
+        },
+        "html": "<h2 class=\"widget__title columns\">        \n                                                                                                                                                                                                                                                                 "
+      },
+      {
+        "target": "div > div:nth-of-type(2) > div > a > h3",
+        "level": 3,
+        "text": "Browse Now to Find Savings on Your Next Manitoba Getaway!",
+        "visible": true,
+        "box": {
+          "x": 753,
+          "y": 3706.84375,
+          "w": 523,
+          "h": 62.375
+        },
+        "html": "<h3 class=\"card__title\">                \n                        Browse Now to Find Savings on Your Next Manitoba Getaway!\n                    </h3>"
+      },
+      {
+        "target": "#main > div:nth-of-type(6) > div:nth-of-type(1) > h2",
+        "level": 2,
+        "text": "Feature Experiences",
+        "visible": true,
+        "box": {
+          "x": 0,
+          "y": 4200.734375,
+          "w": 369.671875,
+          "h": 39.5
+        },
+        "html": "<h2 class=\"widget__title columns\">        \n                                                                                                                                                                                                                                                                 "
+      },
+      {
+        "target": "div > div:nth-of-type(2) > div > a:nth-of-type(2) > h3",
+        "level": 3,
+        "text": "RWB's Studio Series",
+        "visible": true,
+        "box": {
+          "x": 40,
+          "y": 4612.015625,
+          "w": 269,
+          "h": 22.796875
+        },
+        "html": "<h3 class=\"card__title\">                \n                        RWB's Studio Series\n                    </h3>"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > div > a:nth-of-type(2) > h3",
+        "level": 3,
+        "text": "Dine Beneath the Dancing Northern Lights",
+        "visible": true,
+        "box": {
+          "x": 379,
+          "y": 4631.203125,
+          "w": 269,
+          "h": 45.59375
+        },
+        "html": "<h3 class=\"card__title\">                \n                        Dine Beneath the Dancing Northern Lights\n                    </h3>"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > div > a:nth-of-type(2) > h3",
+        "level": 3,
+        "text": "Follow Your Heart North",
+        "visible": true,
+        "box": {
+          "x": 718,
+          "y": 4612.015625,
+          "w": 269,
+          "h": 22.796875
+        },
+        "html": "<h3 class=\"card__title\">                \n                        Follow Your Heart North\n                    </h3>"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > div > a:nth-of-type(2) > h3",
+        "level": 3,
+        "text": "Nights Under Lights - Multi Day Aurora Adventure",
+        "visible": true,
+        "box": {
+          "x": 1057,
+          "y": 4612.015625,
+          "w": 269,
+          "h": 45.59375
+        },
+        "html": "<h3 class=\"card__title\">                \n                        Nights Under Lights - Multi Day Aurora Adventure\n                    </h3>"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > div > a:nth-of-type(2) > h3",
+        "level": 3,
+        "text": "South Beach Casino & Resort offers plated-dining service or tasty snacks from our Café. Take a look at our delicious new menus.",
+        "visible": true,
+        "box": {
+          "x": 753,
+          "y": 5153.203125,
+          "w": 523,
+          "h": 124.75
+        },
+        "html": "<h3 class=\"card__title\">                \n                        South Beach Casino &amp; Resort offers plated-dining service or tasty snacks from our Café. Take a look at our delicious new menus.\n                    </h3>"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > div > a:nth-of-type(2) > h3",
+        "level": 3,
+        "text": "Book your next MB trip with Calm Air",
+        "visible": true,
+        "box": {
+          "x": 753,
+          "y": 5844.984375,
+          "w": 523,
+          "h": 31.1875
+        },
+        "html": "<h3 class=\"card__title\">                \n                        Book your next MB trip with Calm Air\n                    </h3>"
+      },
+      {
+        "target": "#main > div:nth-of-type(9) > div:nth-of-type(1) > h2",
+        "level": 2,
+        "text": "Things To Know",
+        "visible": true,
+        "box": {
+          "x": 0,
+          "y": 6311.1875,
+          "w": 302.125,
+          "h": 39.5
+        },
+        "html": "<h2 class=\"widget__title columns\">        \n                                                                                                                                                                                                                                                                 "
+      },
+      {
+        "target": "div > div:nth-of-type(2) > div > a > h3",
+        "level": 3,
+        "text": "Know Before You Go",
+        "visible": true,
+        "box": {
+          "x": 40,
+          "y": 6698.28125,
+          "w": 269,
+          "h": 22.796875
+        },
+        "html": "<h3 class=\"card__title\">                \n                        Know Before You Go\n                    </h3>"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > div > a:nth-of-type(2) > h3",
+        "level": 3,
+        "text": "Adventure to Understanding",
+        "visible": true,
+        "box": {
+          "x": 379,
+          "y": 6741.65625,
+          "w": 269,
+          "h": 22.796875
+        },
+        "html": "<h3 class=\"card__title\">                \n                        Adventure to Understanding\n                    </h3>"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > div > a:nth-of-type(2) > h3",
+        "level": 3,
+        "text": "Official Air Carrier to the North",
+        "visible": true,
+        "box": {
+          "x": 718,
+          "y": 6722.46875,
+          "w": 269,
+          "h": 45.59375
+        },
+        "html": "<h3 class=\"card__title\">                \n                        Official Air Carrier to the North\n                    </h3>"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > div > a:nth-of-type(2) > h3",
+        "level": 3,
+        "text": "Manitoba's Must-See Destinations",
+        "visible": true,
+        "box": {
+          "x": 1057,
+          "y": 6722.46875,
+          "w": 269,
+          "h": 45.59375
+        },
+        "html": "<h3 class=\"card__title\">                \n                        Manitoba's Must-See Destinations\n                    </h3>"
+      },
+      {
+        "target": "#main > div:nth-of-type(10) > div:nth-of-type(1) > h2",
+        "level": 2,
+        "text": "Calm Air",
+        "visible": true,
+        "box": {
+          "x": 0,
+          "y": 7072.46875,
+          "w": 181.09375,
+          "h": 39.5
+        },
+        "html": "<h2 class=\"widget__title columns\">        \n                                                                                                                                                                                                                                                                 "
+      },
+      {
+        "target": "div > div:nth-of-type(2) > div > a > h3",
+        "level": 3,
+        "text": "Book your next MB trip with Calm Air",
+        "visible": true,
+        "box": {
+          "x": 753,
+          "y": 7339.671875,
+          "w": 523,
+          "h": 31.1875
+        },
+        "html": "<h3 class=\"card__title\">                \n                        Book your next MB trip with Calm Air\n                    </h3>"
+      },
+      {
+        "target": "#main > div:nth-of-type(11) > div:nth-of-type(1) > h2",
+        "level": 2,
+        "text": "Featured Events",
+        "visible": true,
+        "box": {
+          "x": 0,
+          "y": 7817.96875,
+          "w": 297.984375,
+          "h": 39.5
+        },
+        "html": "<h2 class=\"widget__title columns\">Featured Events</h2>"
+      },
+      {
+        "target": "div:nth-of-type(1) > div > div:nth-of-type(2) > div > h3",
+        "level": 3,
+        "text": "African Movie Festival in Manitoba",
+        "visible": true,
+        "box": {
+          "x": 40,
+          "y": 8228.46875,
+          "w": 269,
+          "h": 45.59375
+        },
+        "html": "<h3 class=\"card__title\">\n                    African Movie Festival in Manitoba\n                </h3>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div > div:nth-of-type(2) > div > h3",
+        "level": 3,
+        "text": "African Movie Festial in Manitoba",
+        "visible": true,
+        "box": {
+          "x": 379,
+          "y": 8228.46875,
+          "w": 269,
+          "h": 45.59375
+        },
+        "html": "<h3 class=\"card__title\">\n                    African Movie Festial in Manitoba\n                </h3>"
+      },
+      {
+        "target": "div:nth-of-type(3) > div > div:nth-of-type(2) > div > h3",
+        "level": 3,
+        "text": "Yummiest Salsa Competition",
+        "visible": true,
+        "box": {
+          "x": 718,
+          "y": 8228.46875,
+          "w": 269,
+          "h": 22.796875
+        },
+        "html": "<h3 class=\"card__title\">\n                    Yummiest Salsa Competition\n                </h3>"
+      },
+      {
+        "target": "div:nth-of-type(4) > div > div:nth-of-type(2) > div > h3",
+        "level": 3,
+        "text": "Métis Kitchen Party",
+        "visible": true,
+        "box": {
+          "x": 1057,
+          "y": 8228.46875,
+          "w": 269,
+          "h": 22.796875
+        },
+        "html": "<h3 class=\"card__title\">\n                    Métis Kitchen Party\n                </h3>"
+      },
+      {
+        "target": "div > div:nth-of-type(1) > div > div > h2",
+        "level": 2,
+        "text": "Stay In The Loop",
+        "visible": true,
+        "box": {
+          "x": 549.5,
+          "y": 8640.453125,
+          "w": 267,
+          "h": 34.5
+        },
+        "html": "<h2 class=\"page-footer__newsletter-signup-heading\">Stay in the Loop</h2>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div > div > div > h4",
+        "level": 3,
+        "text": "Land Acknowledgement",
+        "visible": true,
+        "box": {
+          "x": 64,
+          "y": 8943.328125,
+          "w": 1238,
+          "h": 26
+        },
+        "html": "<h4 aria-level=\"3\" role=\"heading\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"page-footer__text-icon\">\n\t\t\t\t\t\t\t\t<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"#b24337\" version=\"1.1\" viewBox=\"4 -0.01 24 32\" aria-hidden=\"true\">\n  <path d=\"M16.114-0.011c-6.559 0-12.114 5.587-12.114 12.204 0 6.93 6.439 14.017 10.77 18.9"
+      },
+      {
+        "target": "div:nth-of-type(1) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(1) > h2",
+        "level": 2,
+        "text": "THINGS TO DO",
+        "visible": true,
+        "box": {
+          "x": 477,
+          "y": 9267.328125,
+          "w": 258.328125,
+          "h": 53.15625
+        },
+        "html": "<h2 class=\"footerNavs\"><a href=\"https://www.travelmanitoba.com/things-to-do/\" target=\"\" rel=\"noopener\" class=\"nav__link  \">\n\n                \n                Things To Do\n            </a></h2>"
+      },
+      {
+        "target": "div:nth-of-type(1) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(2) > h2",
+        "level": 2,
+        "text": "MANITOBA EVENTS",
+        "visible": true,
+        "box": {
+          "x": 477,
+          "y": 9320.484375,
+          "w": 258.328125,
+          "h": 53.15625
+        },
+        "html": "<h2 class=\"footerNavs\"><a href=\"https://www.travelmanitoba.com/events/\" target=\"\" rel=\"noopener\" class=\"nav__link  \">\n\n                \n                Manitoba Events\n            </a></h2>"
+      },
+      {
+        "target": "div:nth-of-type(1) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(3) > h2",
+        "level": 2,
+        "text": "PLACES TO GO",
+        "visible": true,
+        "box": {
+          "x": 477,
+          "y": 9373.640625,
+          "w": 258.328125,
+          "h": 53.15625
+        },
+        "html": "<h2 class=\"footerNavs\"><a href=\"https://www.travelmanitoba.com/places/\" target=\"\" rel=\"noopener\" class=\"nav__link  \">\n\n                \n                Places To Go\n            </a></h2>"
+      },
+      {
+        "target": "div:nth-of-type(1) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(4) > h2",
+        "level": 2,
+        "text": "WHERE TO STAY",
+        "visible": true,
+        "box": {
+          "x": 477,
+          "y": 9426.796875,
+          "w": 258.328125,
+          "h": 53.15625
+        },
+        "html": "<h2 class=\"footerNavs\"><a href=\"https://www.travelmanitoba.com/stay/\" target=\"\" rel=\"noopener\" class=\"nav__link  \">\n\n                \n                Where To Stay\n            </a></h2>"
+      },
+      {
+        "target": "div:nth-of-type(1) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(5) > h2",
+        "level": 2,
+        "text": "TRIP ESSENTIALS",
+        "visible": true,
+        "box": {
+          "x": 477,
+          "y": 9479.953125,
+          "w": 258.328125,
+          "h": 53.15625
+        },
+        "html": "<h2 class=\"footerNavs\"><a href=\"https://www.travelmanitoba.com/trip-essentials/\" target=\"\" rel=\"noopener\" class=\"nav__link  \">\n\n                \n                Trip Essentials\n            </a></h2>"
+      },
+      {
+        "target": "div:nth-of-type(1) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(6) > h2",
+        "level": 2,
+        "text": "CONTACT US",
+        "visible": true,
+        "box": {
+          "x": 477,
+          "y": 9533.109375,
+          "w": 258.328125,
+          "h": 53.15625
+        },
+        "html": "<h2 class=\"footerNavs\"><a href=\"https://www.travelmanitoba.com/trip-essentials/contact-us/\" target=\"\" rel=\"noopener\" class=\"nav__link  \">\n\n                \n                Contact Us\n            </a></h2>"
+      },
+      {
+        "target": "div:nth-of-type(1) > div:nth-of-type(2) > ul:nth-of-type(1) > li:nth-of-type(7) > h2",
+        "level": 2,
+        "text": "#EXPLOREMB BLOG",
+        "visible": true,
+        "box": {
+          "x": 477,
+          "y": 9586.265625,
+          "w": 258.328125,
+          "h": 53.15625
+        },
+        "html": "<h2 class=\"footerNavs\"><a href=\"https://www.travelmanitoba.com/blog/\" target=\"\" rel=\"noopener\" class=\"nav__link  \">\n\n                \n                #ExploreMB Blog\n            </a></h2>"
+      },
+      {
+        "target": "div:nth-of-type(1) > div:nth-of-type(2) > ul:nth-of-type(2) > li:nth-of-type(1) > h2",
+        "level": 2,
+        "text": "Tourism Industry",
+        "visible": true,
+        "box": {
+          "x": 765.328125,
+          "y": 9267.328125,
+          "w": 258.328125,
+          "h": 53.15625
+        },
+        "html": "<h2 class=\"footerNavs\"><a href=\"https://industry.travelmanitoba.com/\" target=\"_self\" rel=\"noopener\" class=\"nav__link dms-ext-link\">\n\n                \n                Tourism Industry\n            </a></h2>"
+      },
+      {
+        "target": "div:nth-of-type(1) > div:nth-of-type(2) > ul:nth-of-type(2) > li:nth-of-type(2) > h2",
+        "level": 2,
+        "text": "Travel Media",
+        "visible": true,
+        "box": {
+          "x": 765.328125,
+          "y": 9320.484375,
+          "w": 258.328125,
+          "h": 53.15625
+        },
+        "html": "<h2 class=\"footerNavs\"><a href=\"https://www.travelmanitoba.com/media/\" target=\"\" rel=\"noopener\" class=\"nav__link  \">\n\n                \n                Travel Media\n            </a></h2>"
+      },
+      {
+        "target": "div:nth-of-type(1) > div:nth-of-type(2) > ul:nth-of-type(2) > li:nth-of-type(3) > h2",
+        "level": 2,
+        "text": "Meetings & Conventions",
+        "visible": true,
+        "box": {
+          "x": 765.328125,
+          "y": 9373.640625,
+          "w": 258.328125,
+          "h": 53.15625
+        },
+        "html": "<h2 class=\"footerNavs\"><a href=\"https://www.travelmanitoba.com/meetings/\" target=\"\" rel=\"noopener\" class=\"nav__link  \">\n\n                \n                Meetings &amp; Conventions\n            </a></h2>"
+      },
+      {
+        "target": "div:nth-of-type(1) > div:nth-of-type(2) > ul:nth-of-type(2) > li:nth-of-type(4) > h2",
+        "level": 2,
+        "text": "Travel Trade",
+        "visible": true,
+        "box": {
+          "x": 765.328125,
+          "y": 9426.796875,
+          "w": 258.328125,
+          "h": 53.15625
+        },
+        "html": "<h2 class=\"footerNavs\"><a href=\"https://www.travelmanitoba.com/travel-trade/\" target=\"\" rel=\"noopener\" class=\"nav__link  \">\n\n                \n                Travel Trade\n            </a></h2>"
+      },
+      {
+        "target": "div:nth-of-type(1) > div:nth-of-type(2) > ul:nth-of-type(2) > li:nth-of-type(5) > h2",
+        "level": 2,
+        "text": "Hunt Fish Manitoba",
+        "visible": true,
+        "box": {
+          "x": 765.328125,
+          "y": 9479.953125,
+          "w": 258.328125,
+          "h": 53.15625
+        },
+        "html": "<h2 class=\"footerNavs\"><a href=\"https://huntfishmanitoba.ca/\" target=\"_blank\" rel=\"noopener\" class=\"nav__link dms-ext-link\" aria-describedby=\"audioeye_new_window_message\">\n\n                \n                Hunt Fish Manitoba\n            </a></h2>"
+      },
+      {
+        "target": "div:nth-of-type(1) > div:nth-of-type(2) > ul:nth-of-type(2) > li:nth-of-type(6) > h2",
+        "level": 2,
+        "text": "Manitoba North",
+        "visible": true,
+        "box": {
+          "x": 765.328125,
+          "y": 9533.109375,
+          "w": 258.328125,
+          "h": 53.15625
+        },
+        "html": "<h2 class=\"footerNavs\"><a href=\"https://www.travelmanitoba.com/manitoba-north/\" target=\"\" rel=\"noopener\" class=\"nav__link  \">\n\n                \n                Manitoba North\n            </a></h2>"
+      },
+      {
+        "target": "div:nth-of-type(1) > div > div:nth-of-type(2) > div:nth-of-type(1) > h3",
+        "level": 3,
+        "text": "Find out what's happening in Manitoba.",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h3 class=\"card__title\">\n                                    Find out what's happening in Manitoba.\n                                </h3>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div > div:nth-of-type(2) > div:nth-of-type(1) > h3",
+        "level": 3,
+        "text": "Destinations that showcase the best of...",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h3 class=\"card__title\">\n                                    Destinations that showcase the best of...\n                                </h3>"
+      },
+      {
+        "target": "#onetrust-policy-title",
+        "level": 2,
+        "text": "Privacy Preferences",
+        "visible": true,
+        "box": {
+          "x": 32,
+          "y": 783.5,
+          "w": 179.3125,
+          "h": 24.953125
+        },
+        "html": "<h2 id=\"onetrust-policy-title\">Privacy Preferences</h2>"
+      },
+      {
+        "target": "#ot-pc-title",
+        "level": 2,
+        "text": "Privacy Preference Center",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h2 id=\"ot-pc-title\">Privacy Preference Center</h2>"
+      },
+      {
+        "target": "#ot-pvcy-txt",
+        "level": 3,
+        "text": "Your Privacy",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h3 id=\"ot-pvcy-txt\">Your Privacy</h3>"
+      },
+      {
+        "target": "#ot-header-id-C0004",
+        "level": 3,
+        "text": "Marketing Cookies",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h3 id=\"ot-header-id-C0004\">Marketing Cookies</h3>"
+      },
+      {
+        "target": "#ot-header-id-C0003",
+        "level": 3,
+        "text": "Functional Cookies",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h3 id=\"ot-header-id-C0003\">Functional Cookies</h3>"
+      },
+      {
+        "target": "#ot-header-id-C0002",
+        "level": 3,
+        "text": "Performance Cookies",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h3 id=\"ot-header-id-C0002\">Performance Cookies</h3>"
+      },
+      {
+        "target": "#ot-header-id-C0001",
+        "level": 3,
+        "text": "Strictly Necessary Cookies",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h3 id=\"ot-header-id-C0001\">Strictly Necessary Cookies</h3>"
+      },
+      {
+        "target": "#ot-pvcy-hdr",
+        "level": 4,
+        "text": "Your Privacy",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h4 id=\"ot-pvcy-hdr\">Your Privacy</h4>"
+      },
+      {
+        "target": "#ot-desc-id-C0004 > div > h4",
+        "level": 4,
+        "text": "Marketing Cookies",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h4 class=\"ot-cat-header\">Marketing Cookies</h4>"
+      },
+      {
+        "target": "#ot-desc-id-C0003 > div > h4",
+        "level": 4,
+        "text": "Functional Cookies",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h4 class=\"ot-cat-header\">Functional Cookies</h4>"
+      },
+      {
+        "target": "#ot-desc-id-C0002 > div > h4",
+        "level": 4,
+        "text": "Performance Cookies",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h4 class=\"ot-cat-header\">Performance Cookies</h4>"
+      },
+      {
+        "target": "#ot-desc-id-C0001 > div > h4",
+        "level": 4,
+        "text": "Strictly Necessary Cookies",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h4 class=\"ot-cat-header\">Strictly Necessary Cookies</h4>"
+      },
+      {
+        "target": "#ot-lst-title > h3",
+        "level": 3,
+        "text": "Back",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h3>Back</h3>"
+      },
+      {
+        "target": "#ot-pc-title",
+        "level": 2,
+        "text": "Privacy Preference Center",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h2 id=\"ot-pc-title\">Privacy Preference Center</h2>"
+      },
+      {
+        "target": "#ot-pvcy-txt",
+        "level": 3,
+        "text": "Your Privacy",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h3 id=\"ot-pvcy-txt\">Your Privacy</h3>"
+      },
+      {
+        "target": "#ot-header-id-C0004",
+        "level": 3,
+        "text": "Marketing Cookies",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h3 id=\"ot-header-id-C0004\">Marketing Cookies</h3>"
+      },
+      {
+        "target": "#ot-header-id-C0003",
+        "level": 3,
+        "text": "Functional Cookies",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h3 id=\"ot-header-id-C0003\">Functional Cookies</h3>"
+      },
+      {
+        "target": "#ot-header-id-C0002",
+        "level": 3,
+        "text": "Performance Cookies",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h3 id=\"ot-header-id-C0002\">Performance Cookies</h3>"
+      },
+      {
+        "target": "#ot-header-id-C0001",
+        "level": 3,
+        "text": "Strictly Necessary Cookies",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h3 id=\"ot-header-id-C0001\">Strictly Necessary Cookies</h3>"
+      },
+      {
+        "target": "#ot-pvcy-hdr",
+        "level": 4,
+        "text": "Your Privacy",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h4 id=\"ot-pvcy-hdr\">Your Privacy</h4>"
+      },
+      {
+        "target": "#ot-desc-id-C0004 > div > h4",
+        "level": 4,
+        "text": "Marketing Cookies",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h4 class=\"ot-cat-header\">Marketing Cookies</h4>"
+      },
+      {
+        "target": "#ot-desc-id-C0003 > div > h4",
+        "level": 4,
+        "text": "Functional Cookies",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h4 class=\"ot-cat-header\">Functional Cookies</h4>"
+      },
+      {
+        "target": "#ot-desc-id-C0002 > div > h4",
+        "level": 4,
+        "text": "Performance Cookies",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h4 class=\"ot-cat-header\">Performance Cookies</h4>"
+      },
+      {
+        "target": "#ot-desc-id-C0001 > div > h4",
+        "level": 4,
+        "text": "Strictly Necessary Cookies",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h4 class=\"ot-cat-header\">Strictly Necessary Cookies</h4>"
+      },
+      {
+        "target": "#ot-lst-title > h3",
+        "level": 3,
+        "text": "Back",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h3>Back</h3>"
+      }
+    ],
+    "lang": "en",
+    "title": "Travel Manitoba, Canada: Start Planning Your Trip"
+  },
   "axe": {
     "violationRules": 4,
     "violationNodes": 55,

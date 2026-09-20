@@ -19,7 +19,1636 @@
     "width": 1366,
     "height": 900
   },
-  "scannedAt": "2026-09-19T06:27:10.761Z",
+  "scannedAt": "2026-09-19T23:59:27.601Z",
+  "content": {
+    "images": [
+      {
+        "target": "#block-usb-sitebranding > a > img",
+        "tag": "img",
+        "src": "https://ustboniface.ca/sites/default/files/main_logo.png",
+        "alt": "Accueil",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 340,
+        "naturalHeight": 87,
+        "box": {
+          "x": 32.015625,
+          "y": 72,
+          "w": 179.953125,
+          "h": 46.046875
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img class=\"original-logo\" src=\"/sites/default/files/main_logo.png\" alt=\"Accueil\">"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > div > picture > img",
+        "tag": "img",
+        "src": "https://ustboniface.ca/sites/default/files/styles/media_xl_x1/public/2026-06/Capture-d-ecran-2026-06-05-154424_0.png?h=3a690676&itok=eGvjHcIr",
+        "alt": "Gros plan sur le visage d'une étudiante souriante aux cheveux noirs tressés.",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 1440,
+        "naturalHeight": 630,
+        "box": {
+          "x": 0,
+          "y": 3603.5625,
+          "w": 1366,
+          "h": 738
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "Play video Université de Saint-Boniface, c'est ici que vibre ton cœur",
+        "html": "<img loading=\"lazy\" width=\"1729\" height=\"738\" src=\"/sites/default/files/styles/media_2xl_x1/public/2026-06/Capture-d-ecran-2026-06-05-154424_0.png?h=3a690676&amp;itok=dNoJ1-go\" alt=\"Gros plan sur le visage d'une étudiante souriante aux cheveux noirs tressés.\">"
+      },
+      {
+        "target": "div:nth-of-type(1) > a:nth-of-type(1) > div:nth-of-type(1) > picture > img",
+        "tag": "img",
+        "src": "https://ustboniface.ca/sites/default/files/styles/image_card_x1_md/public/2026-06/low-res240129GT1082.jpg?h=92939060&itok=WrpW-1ne",
+        "alt": "",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 516,
+        "naturalHeight": 748,
+        "box": {
+          "x": 32,
+          "y": 4611.953125,
+          "w": 412.65625,
+          "h": 598.1875
+        },
+        "inLink": true,
+        "linkText": "Formation collégiale Des options de formation courte axée sur des compétences pratiques, en technologie, en affaires, en éducation et en santé!",
+        "linkHref": "/programmes-detudes?field_type_of_education%5B102%5D=102",
+        "caption": "",
+        "nearText": "",
+        "html": "<img loading=\"lazy\" width=\"516\" height=\"748\" src=\"/sites/default/files/styles/image_card_x1_md/public/2026-06/low-res240129GT1082.jpg?h=92939060&amp;itok=WrpW-1ne\" alt=\"\">"
+      },
+      {
+        "target": "div:nth-of-type(1) > a:nth-of-type(2) > div:nth-of-type(1) > picture > img",
+        "tag": "img",
+        "src": "https://ustboniface.ca/sites/default/files/styles/image_card_x1_md/public/2026-06/c945151b-db89-4987-9a7a-a2b929cd5bb4.jpg?h=6c8a1295&itok=nOSo0zHg",
+        "alt": "",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 516,
+        "naturalHeight": 748,
+        "box": {
+          "x": 698.984375,
+          "y": 4871.953125,
+          "w": 301.5,
+          "h": 437.046875
+        },
+        "inLink": true,
+        "linkText": "Formation universitaire Des études de premier et de deuxième cycle, du baccalauréat à la maitrise, dans une variété de domaines pour mieux comprendre le monde et y prendre ta place.",
+        "linkHref": "/programmes-detudes?field_type_of_education%5B103%5D=103&field_type_of_educatio…",
+        "caption": "",
+        "nearText": "",
+        "html": "<img loading=\"lazy\" width=\"516\" height=\"748\" src=\"/sites/default/files/styles/image_card_x1_md/public/2026-06/c945151b-db89-4987-9a7a-a2b929cd5bb4.jpg?h=6c8a1295&amp;itok=nOSo0zHg\" alt=\"\">"
+      },
+      {
+        "target": "div:nth-of-type(1) > a:nth-of-type(3) > div:nth-of-type(1) > picture > img",
+        "tag": "img",
+        "src": "https://ustboniface.ca/sites/default/files/styles/image_card_x1_md/public/2026-06/low-res2507223950GT5404.jpg?h=8615ccb6&itok=y6oh4_rk",
+        "alt": "",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 516,
+        "naturalHeight": 748,
+        "box": {
+          "x": 1032.484375,
+          "y": 4771.953125,
+          "w": 301.5,
+          "h": 437.046875
+        },
+        "inLink": true,
+        "linkText": "Formation continue L’apprentissage à vie! Français, espagnol ou anglais, et une variété de cours d’enrichissement professionnel pour ouvrir de nouvelles possibilités.",
+        "linkHref": "/formation-continue",
+        "caption": "",
+        "nearText": "",
+        "html": "<img loading=\"lazy\" width=\"516\" height=\"748\" src=\"/sites/default/files/styles/image_card_x1_md/public/2026-06/low-res2507223950GT5404.jpg?h=8615ccb6&amp;itok=y6oh4_rk\" alt=\"\">"
+      },
+      {
+        "target": "#swiper-wrapper-5cd2936232725158 > div:nth-of-type(1) > div:nth-of-type(1) > picture > img",
+        "tag": "img",
+        "src": "/sites/default/files/styles/testimonial_x1_md/public/2026-06/Sara-Bacc-sciences-majeure-biochimie-microbiologie.jpg?h=102951f2&itok=ba73ruTp",
+        "alt": "Une femme aux longs cheveux bruns et vêtue de blanc est accotée à un mur et sourit à la caméra. L’arrière-plan est flou",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0,
+        "box": {
+          "x": 72,
+          "y": 7620.953125,
+          "w": 380,
+          "h": 508
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "SARA Baccalauréat ès sciences avec majeure conjointe en biochimie-microbiologie",
+        "html": "<img loading=\"lazy\" width=\"425\" height=\"528\" src=\"/sites/default/files/styles/testimonial_x1_md/public/2026-06/Sara-Bacc-sciences-majeure-biochimie-microbiologie.jpg?h=102951f2&amp;itok=ba73ruTp\" alt=\"Une femme aux longs cheveux bruns et vêtue de blanc est accotée à un mur et sourit à la caméra. L’arrière-plan est flou\">"
+      },
+      {
+        "target": "#swiper-wrapper-5cd2936232725158 > div:nth-of-type(2) > div:nth-of-type(1) > picture > img",
+        "tag": "img",
+        "src": "/sites/default/files/styles/testimonial_x1_md/public/2026-06/Mathias-Dip-communication-multimedia.jpg?h=1c44d19a&itok=v6JJKU1X",
+        "alt": "Un jeune homme portant un t-shirt blanc sourit vers la caméra.",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0,
+        "box": {
+          "x": 1028,
+          "y": 7620.953125,
+          "w": 380,
+          "h": 508
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "MATHIAS Diplôme en communication multimédia",
+        "html": "<img loading=\"lazy\" width=\"425\" height=\"528\" src=\"/sites/default/files/styles/testimonial_x1_md/public/2026-06/Mathias-Dip-communication-multimedia.jpg?h=1c44d19a&amp;itok=v6JJKU1X\" alt=\"Un jeune homme portant un t-shirt blanc sourit vers la caméra.\">"
+      },
+      {
+        "target": "#swiper-wrapper-5cd2936232725158 > div:nth-of-type(3) > div:nth-of-type(1) > picture > img",
+        "tag": "img",
+        "src": "/sites/default/files/styles/testimonial_x1_md/public/2026-06/Ghizlane-Dip-sciences-infir-aux.jpg?h=4f067227&itok=7ISKCh0l",
+        "alt": "Une jeune femme avec des lunettes en tenue d'infirmière.",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0,
+        "box": {
+          "x": 1984,
+          "y": 7620.953125,
+          "w": 380,
+          "h": 508
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "GHIZLANE Diplôme en sciences infirmières auxiliaires",
+        "html": "<img loading=\"lazy\" width=\"425\" height=\"528\" src=\"/sites/default/files/styles/testimonial_x1_md/public/2026-06/Ghizlane-Dip-sciences-infir-aux.jpg?h=4f067227&amp;itok=7ISKCh0l\" alt=\"Une jeune femme avec des lunettes en tenue d'infirmière.\">"
+      },
+      {
+        "target": "#swiper-wrapper-5cd2936232725158 > div:nth-of-type(4) > div:nth-of-type(1) > picture > img",
+        "tag": "img",
+        "src": "/sites/default/files/styles/testimonial_x1_md/public/2026-06/Maeva-Dip-admin-affaires_0.jpg?h=fa904ea2&itok=pI3PjGQl",
+        "alt": "Une femme portant un t-shirt gris sourit vers la caméra.",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0,
+        "box": {
+          "x": 2940,
+          "y": 7620.953125,
+          "w": 380,
+          "h": 508
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "MAEVA LUNA Diplôme en administration des affaires",
+        "html": "<img loading=\"lazy\" width=\"425\" height=\"528\" src=\"/sites/default/files/styles/testimonial_x1_md/public/2026-06/Maeva-Dip-admin-affaires_0.jpg?h=fa904ea2&amp;itok=pI3PjGQl\" alt=\"Une femme portant un t-shirt gris sourit vers la caméra.\">"
+      },
+      {
+        "target": "#swiper-wrapper-5cd2936232725158 > div:nth-of-type(5) > div:nth-of-type(1) > picture > img",
+        "tag": "img",
+        "src": "/sites/default/files/styles/testimonial_x1_md/public/2026-06/Josee-Maitrise-en-education.png?h=94a3a605&itok=XOcOo4q9",
+        "alt": "Une femme aux longs cheveux bruns portant un manteau bleu foncé se tient dans un espace extérieur. Elle sourit à la caméra.  ",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0,
+        "box": {
+          "x": 3896,
+          "y": 7620.953125,
+          "w": 380,
+          "h": 508
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "JOSÉE Maitrise en éducation",
+        "html": "<img loading=\"lazy\" width=\"425\" height=\"528\" src=\"/sites/default/files/styles/testimonial_x1_md/public/2026-06/Josee-Maitrise-en-education.png?h=94a3a605&amp;itok=XOcOo4q9\" alt=\"Une femme aux longs cheveux bruns portant un manteau bleu foncé se tient dans un espace extérieur. Elle sourit à la caméra.  \">"
+      },
+      {
+        "target": "#swiper-wrapper-5cd2936232725158 > div:nth-of-type(6) > div:nth-of-type(1) > picture > img",
+        "tag": "img",
+        "src": "/sites/default/files/styles/testimonial_x1_md/public/2026-05/Alpha-Keita---Diplome-en-technologie-de-l-information.jpeg?h=edc0ccd0&itok=kDgcQI9e",
+        "alt": "Un jeune homme aux cheveux noirs courts, portant des lunettes, une chemise à motif pâle et une montre intelligente, sourit debout, bras croisés. ",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0,
+        "box": {
+          "x": 4852,
+          "y": 7620.953125,
+          "w": 380,
+          "h": 508
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "ALPHA Diplôme en technologies de l’information",
+        "html": "<img loading=\"lazy\" width=\"425\" height=\"528\" src=\"/sites/default/files/styles/testimonial_x1_md/public/2026-05/Alpha-Keita---Diplome-en-technologie-de-l-information.jpeg?h=edc0ccd0&amp;itok=kDgcQI9e\" alt=\"Un jeune homme aux cheveux noirs courts, portant des lunettes, une chemise à motif pâle et une montre intelligente, sourit debout, bras croisés. \">"
+      },
+      {
+        "target": "div:nth-of-type(2) > a:nth-of-type(2) > div:nth-of-type(5) > picture > img",
+        "tag": "img",
+        "src": "/sites/default/files/styles/inline_image_xs_x1/public/2026-06/Reconciliation_low-res240129GT0876.jpg?h=d5d02efb&itok=6dGJSqkW",
+        "alt": "",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0,
+        "box": {
+          "x": 1130.328125,
+          "y": 9185.015625,
+          "w": 203.671875,
+          "h": 203.671875
+        },
+        "inLink": true,
+        "linkText": "28 sep. Semaine de vérité et réconciliation 2026 Vie étudiante Cheminons ensemble, avec humilité et solidarité. Une série d'activités auront lieu sur le campus, ouvertes à toute la communauté universitaire de l'USB.",
+        "linkHref": "/evenements/semaine-de-verite-et-reconciliation2026",
+        "caption": "",
+        "nearText": "",
+        "html": "<img loading=\"lazy\" width=\"512\" height=\"281\" src=\"/sites/default/files/styles/inline_image_xs_x1/public/2026-06/Reconciliation_low-res240129GT0876.jpg?h=d5d02efb&amp;itok=6dGJSqkW\" alt=\"\">"
+      },
+      {
+        "target": "div > a:nth-of-type(1) > div:nth-of-type(1) > picture > img",
+        "tag": "img",
+        "src": "/sites/default/files/styles/featured_image_3xl_x1/public/2026-09/Bernice-Parent-lancement-livre.jpg.webp?h=71976bb4&itok=eyz-k_sJ",
+        "alt": "",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0,
+        "box": {
+          "x": 32,
+          "y": 10074.75,
+          "w": 412.65625,
+          "h": 445.65625
+        },
+        "inLink": true,
+        "linkText": "Un parcours vers le bienêtre Forte d’une expérience de plus de 25 ans en ressources humaines, Bernice Parent, diplômée d'un B.A. en 1977, a une compréhension des dynamiques humaines et des enjeux liés au stress en milieu professionnel.",
+        "linkHref": "/nouvelles/un-parcours-vers-le-bienetre",
+        "caption": "",
+        "nearText": "",
+        "html": "<img loading=\"lazy\" width=\"512\" height=\"550\" src=\"/sites/default/files/styles/featured_image_3xl_x1/public/2026-09/Bernice-Parent-lancement-livre.jpg.webp?h=71976bb4&amp;itok=eyz-k_sJ\" alt=\"\">"
+      },
+      {
+        "target": "div > a:nth-of-type(2) > div:nth-of-type(1) > picture > img",
+        "tag": "img",
+        "src": "/sites/default/files/styles/featured_image_3xl_x1/public/2026-08/Kharoll-Ann-Souffrant-conference.jpg.webp?h=f49ed93f&itok=rXAc6vG6",
+        "alt": "",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0,
+        "box": {
+          "x": 476.65625,
+          "y": 10074.75,
+          "w": 412.671875,
+          "h": 445.671875
+        },
+        "inLink": true,
+        "linkText": "Des rencontres humaines à la transmission du savoir Professeure en travail social à l'USB, Kharoll-Ann Souffrant mène des recherches en droit, criminologie et études féministes et antiracistes.",
+        "linkHref": "/nouvelles/des-rencontres-humaines-la-transmission-du-savoir",
+        "caption": "",
+        "nearText": "",
+        "html": "<img loading=\"lazy\" width=\"512\" height=\"550\" src=\"/sites/default/files/styles/featured_image_3xl_x1/public/2026-08/Kharoll-Ann-Souffrant-conference.jpg.webp?h=f49ed93f&amp;itok=rXAc6vG6\" alt=\"\">"
+      },
+      {
+        "target": "div > a:nth-of-type(3) > div:nth-of-type(1) > picture > img",
+        "tag": "img",
+        "src": "/sites/default/files/styles/featured_image_3xl_x1/public/2026-07/USB_Frederic-Jubinville--6-.jpg.webp?h=71976bb4&itok=-Z_DJGj9",
+        "alt": "",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0,
+        "box": {
+          "x": 921.328125,
+          "y": 10074.75,
+          "w": 412.65625,
+          "h": 445.65625
+        },
+        "inLink": true,
+        "linkText": "Un projet de création pour faire rayonner la culture métisse Histoires de la charrette de la Rivière-Rouge a récemment vu le jour grâce à une collaboration avec le programme communication multimédia de l'USB.",
+        "linkHref": "/nouvelles/un-projet-de-creation-pour-faire-rayonner-la-culture-metisse",
+        "caption": "",
+        "nearText": "",
+        "html": "<img loading=\"lazy\" width=\"512\" height=\"550\" src=\"/sites/default/files/styles/featured_image_3xl_x1/public/2026-07/USB_Frederic-Jubinville--6-.jpg.webp?h=71976bb4&amp;itok=-Z_DJGj9\" alt=\"\">"
+      },
+      {
+        "target": "#block-usb-config-pages-3 > div > div:nth-of-type(1) > img",
+        "tag": "img",
+        "src": "/sites/default/files/styles/footer_cta_logo/public/2024-11/Artboard-1-4x-1.png?itok=1guJUrlV",
+        "alt": "CTA logo",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0,
+        "box": {
+          "x": 32,
+          "y": 11183.203125,
+          "w": 239,
+          "h": 162
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "",
+        "html": "<img loading=\"lazy\" src=\"/sites/default/files/styles/footer_cta_logo/public/2024-11/Artboard-1-4x-1.png?itok=1guJUrlV\" width=\"239\" height=\"162\" alt=\"CTA logo\" class=\"image-style-footer-cta-logo\">"
+      }
+    ],
+    "links": [
+      {
+        "target": "html > body > a",
+        "text": "Aller au contenu principal",
+        "ariaLabel": "",
+        "title": "",
+        "href": "#main-content",
+        "imgAlt": "",
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 1,
+          "h": 1
+        },
+        "context": "",
+        "contextKind": "none",
+        "html": "<a href=\"#main-content\" class=\"visually-hidden focusable skip-link\">\n      Aller au contenu principal\n    </a>"
+      },
+      {
+        "target": "#block-usb-menudentete > ul > li:nth-of-type(1) > a",
+        "text": "MonUSB",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://ustboniface.ca/monusb",
+        "imgAlt": "",
+        "box": {
+          "x": 575.9375,
+          "y": 10,
+          "w": 66.140625,
+          "h": 20
+        },
+        "context": "MonUSB",
+        "contextKind": "li",
+        "html": "<a class=\"pseudo-link max-lg:text-sm lg:body-sm items-center\" href=\"https://ustboniface.ca/monusb\">\n          <span> MonUSB</span>\n        </a>"
+      },
+      {
+        "target": "#block-usb-menudentete > ul > li:nth-of-type(2) > a",
+        "text": "Courriel",
+        "ariaLabel": "",
+        "title": "(s’ouvre dans une nouvelle fenêtre)",
+        "href": "https://mail.office365.com/",
+        "imgAlt": "",
+        "box": {
+          "x": 666.078125,
+          "y": 10,
+          "w": 81.265625,
+          "h": 20.796875
+        },
+        "context": "Courriel",
+        "contextKind": "li",
+        "html": "<a class=\"pseudo-link max-lg:text-sm lg:body-sm items-center ext\" href=\"https://mail.office365.com/\" data-extlink=\"\" target=\"_blank\" rel=\"noopener noreferrer\" title=\"(s’ouvre dans une nouvelle fenêtre)\">\n          <span> Courriel</span>\n        </a>"
+      },
+      {
+        "target": "#block-usb-menudentete > ul > li:nth-of-type(3) > a",
+        "text": "eCampus",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://ecampus.ustboniface.ca/",
+        "imgAlt": "",
+        "box": {
+          "x": 771.34375,
+          "y": 10,
+          "w": 71.71875,
+          "h": 20
+        },
+        "context": "eCampus",
+        "contextKind": "li",
+        "html": "<a class=\"pseudo-link max-lg:text-sm lg:body-sm items-center\" href=\"https://ecampus.ustboniface.ca/\">\n          <span> eCampus</span>\n        </a>"
+      },
+      {
+        "target": "#block-usb-menudentete > ul > li:nth-of-type(4) > a",
+        "text": "Biblio",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://ustboniface.ca/biblio/",
+        "imgAlt": "",
+        "box": {
+          "x": 867.0625,
+          "y": 10,
+          "w": 41.484375,
+          "h": 20
+        },
+        "context": "Biblio",
+        "contextKind": "li",
+        "html": "<a class=\"pseudo-link max-lg:text-sm lg:body-sm items-center\" href=\"https://ustboniface.ca/biblio/\">\n          <span> Biblio</span>\n        </a>"
+      },
+      {
+        "target": "#block-usb-menudentete > ul > li:nth-of-type(5) > a",
+        "text": "Nous rencontrer",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/viens-nous-rencontrer",
+        "imgAlt": "",
+        "box": {
+          "x": 932.546875,
+          "y": 10,
+          "w": 123.125,
+          "h": 20
+        },
+        "context": "Nous rencontrer",
+        "contextKind": "li",
+        "html": "<a class=\"pseudo-link max-lg:text-sm lg:body-sm items-center\" href=\"/viens-nous-rencontrer\">\n          <span> Nous rencontrer</span>\n        </a>"
+      },
+      {
+        "target": "#block-usb-menudentete > ul > li:nth-of-type(6) > a",
+        "text": "Travailler avec nous",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://carrieres.ustboniface.ca/",
+        "imgAlt": "",
+        "box": {
+          "x": 1079.671875,
+          "y": 10,
+          "w": 150.921875,
+          "h": 20
+        },
+        "context": "Travailler avec nous",
+        "contextKind": "li",
+        "html": "<a class=\"pseudo-link max-lg:text-sm lg:body-sm items-center\" href=\"https://carrieres.ustboniface.ca/\">\n          <span> Travailler avec nous</span>\n        </a>"
+      },
+      {
+        "target": "#block-usb-menudentete > ul > li:nth-of-type(7) > a",
+        "text": "Donner",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www2.ustboniface.ca/donner",
+        "imgAlt": "",
+        "box": {
+          "x": 1254.59375,
+          "y": 10,
+          "w": 55.40625,
+          "h": 20
+        },
+        "context": "Donner",
+        "contextKind": "li",
+        "html": "<a class=\"pseudo-link max-lg:text-sm lg:body-sm items-center\" href=\"https://www2.ustboniface.ca/donner\">\n          <span> Donner</span>\n        </a>"
+      },
+      {
+        "target": "#block-usb-sitebranding > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/",
+        "imgAlt": "Accueil",
+        "box": {
+          "x": 32.015625,
+          "y": 72,
+          "w": 180,
+          "h": 56.046875
+        },
+        "context": "heading: Menu d'en-tête | Navigation principale Show submenu for Admissions Show submenu for Programmes d’études Show submenu for La vie étudiante Show submenu for Recherche Show submenu for À propos de nous Ouvrir la recherche",
+        "contextKind": "block",
+        "html": "<a href=\"/\" rel=\"home\" class=\"site-logo lg:pb-2.5 block\">\n      <img class=\"original-logo\" src=\"/sites/default/files/main_logo.png\" alt=\"Accueil\">\n\n      <svg class=\"hidden white-logo\" alt=\"Accueil\" width=\"179\" height=\"45\" viewBox=\"0 0 179 45\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n        "
+      },
+      {
+        "target": "div > div:nth-of-type(3) > div > div:nth-of-type(3) > a",
+        "text": "Voir les programmes",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/programmes-detudes",
+        "imgAlt": "",
+        "box": {
+          "x": 96,
+          "y": 788.328125,
+          "w": 219.671875,
+          "h": 41.25
+        },
+        "context": "heading: Un aperçu du campus extérieur de l'Université de Saint-Boniface et de la population étudiante qui le fréquente. | Une éducation à la hauteur de tes ambitions – trouve ta voie! Voir les programmes",
+        "contextKind": "block",
+        "html": "<a class=\"btn btn--primary btn--primary--dark inline-flex items-center gap-2 text-start pseudo-link\" href=\"/programmes-detudes\" data-text=\"Voir les programmes\"><span>Voir les programmes</span><i class=\"icon icon-chevron-right text-xxs leading-none pr-1 \"></i></a>"
+      },
+      {
+        "target": "div:nth-of-type(1) > div > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(1)",
+        "text": "Découvre pourquoi l’USB",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/pourquoi-lusb",
+        "imgAlt": "",
+        "box": {
+          "x": 72,
+          "y": 3259.109375,
+          "w": 255.734375,
+          "h": 41.25
+        },
+        "context": "heading: Un milieu d’études à taille humaine. | Découvre pourquoi l’USB Demande d'admission",
+        "contextKind": "block",
+        "html": "<a class=\"btn btn--primary btn--primary--dark inline-flex items-center gap-2 text-start pseudo-link\" href=\"/pourquoi-lusb\" data-text=\"Découvre pourquoi l’USB\"><span>Découvre pourquoi l’USB</span><i class=\"icon icon-chevron-right text-xxs leading-none pr-1 \"></i></a>"
+      },
+      {
+        "target": "div:nth-of-type(1) > div > div:nth-of-type(1) > div:nth-of-type(2) > a:nth-of-type(2)",
+        "text": "Demande d'admission",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/demande-admission",
+        "imgAlt": "",
+        "box": {
+          "x": 335.734375,
+          "y": 3259.109375,
+          "w": 232.890625,
+          "h": 41.25
+        },
+        "context": "heading: Un milieu d’études à taille humaine. | Découvre pourquoi l’USB Demande d'admission",
+        "contextKind": "block",
+        "html": "<a class=\"btn btn--primary btn--primary--dark inline-flex items-center gap-2 text-start pseudo-link\" href=\"/demande-admission\" data-text=\"Demande d'admission\"><span>Demande d'admission</span><i class=\"icon icon-chevron-right text-xxs leading-none pr-1 \"></i></a>"
+      },
+      {
+        "target": "#swiper-wrapper-25b94f927e997558 > a:nth-of-type(1)",
+        "text": "Journée des conseillers et conseillères d’écoles secondaires Mardi 22 septembre 2026 Des séances d’information et d’échange permettant de découvrir les nouveautés à l’USB, de se mettre à jour sur les conditions d’admission et de visiter notre charmant campus. En savoir plus",
+        "ariaLabel": "1 / 2",
+        "title": "",
+        "href": "/evenements/journee-des-conseillers-et-conseilleres-decoles-secondaires",
+        "imgAlt": "",
+        "box": {
+          "x": 749,
+          "y": 2878.140625,
+          "w": 461.59375,
+          "h": 539.421875
+        },
+        "context": "heading: Un milieu d’études à taille humaine.",
+        "contextKind": "heading-only",
+        "html": "<a data-component-id=\"usb:card_highlighted\" class=\"usb-card-highlighted card has-link not-underline hover:cursor-pointer hover:no-underline relative bg-bleu text-white w-[21.875rem] md:w-[32.25rem] lg:w-96 xl:w-[32.25rem] pt-8 pl-8 pr-16 pb-30 xl:pt-16 xl:pl-16 xl:pr-11 md:pb-[8.8125rem] flex shrink"
+      },
+      {
+        "target": "#swiper-wrapper-25b94f927e997558 > a:nth-of-type(2)",
+        "text": "Bienvenue à l’USB! L’équipe de bienvenue est là, en personne, par téléphone ou en ligne pour répondre à tes questions, te guider et t’accompagner dans tes premiers pas à l’USB. En savoir plus",
+        "ariaLabel": "2 / 2",
+        "title": "",
+        "href": "/bienvenue",
+        "imgAlt": "",
+        "box": {
+          "x": 1242.59375,
+          "y": 2878.140625,
+          "w": 461.59375,
+          "h": 539.421875
+        },
+        "context": "heading: Journée des conseillers et conseillères d’écoles secondaires",
+        "contextKind": "heading-only",
+        "html": "<a data-component-id=\"usb:card_highlighted\" class=\"usb-card-highlighted card has-link not-underline hover:cursor-pointer hover:no-underline relative bg-bleu text-white w-[21.875rem] md:w-[32.25rem] lg:w-96 xl:w-[32.25rem] pt-8 pl-8 pr-16 pb-30 xl:pt-16 xl:pl-16 xl:pr-11 md:pb-[8.8125rem] flex shrink"
+      },
+      {
+        "target": "div:nth-of-type(2) > div > div > div:nth-of-type(1) > a:nth-of-type(1)",
+        "text": "Formation collégiale Des options de formation courte axée sur des compétences pratiques, en technologie, en affaires, en éducation et en santé!",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/programmes-detudes?field_type_of_education%5B102%5D=102",
+        "imgAlt": "",
+        "box": {
+          "x": 32,
+          "y": 4611.953125,
+          "w": 412.65625,
+          "h": 931.328125
+        },
+        "context": "heading: Notre offre d’éducation",
+        "contextKind": "heading-only",
+        "html": "<a data-component-id=\"usb:card_image\" class=\"card usb-card-image has-link hover:cursor-pointer inline-block shrink-0 text-white space-y-8 transition-color duration-200 max-w-[32.25rem] break-words\" href=\"/programmes-detudes?field_type_of_education%5B102%5D=102\">\n      <div class=\"usb-card-image__ima"
+      },
+      {
+        "target": "div:nth-of-type(2) > div > div > div:nth-of-type(1) > a:nth-of-type(2)",
+        "text": "Formation universitaire Des études de premier et de deuxième cycle, du baccalauréat à la maitrise, dans une variété de domaines pour mieux comprendre le monde et y prendre ta place.",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/programmes-detudes?field_type_of_education%5B103%5D=103&field_type_of_educatio…",
+        "imgAlt": "",
+        "box": {
+          "x": 698.984375,
+          "y": 4771.953125,
+          "w": 301.5,
+          "h": 771.328125
+        },
+        "context": "heading: Formation collégiale",
+        "contextKind": "heading-only",
+        "html": "<a data-component-id=\"usb:card_image\" class=\"card usb-card-image has-link hover:cursor-pointer inline-block shrink-0 text-white space-y-8 transition-color duration-200 max-w-[32.25rem] break-words\" href=\"/programmes-detudes?field_type_of_education%5B103%5D=103&amp;field_type_of_educatio…\">\n      <di"
+      },
+      {
+        "target": "div:nth-of-type(2) > div > div > div:nth-of-type(1) > a:nth-of-type(3)",
+        "text": "Formation continue L’apprentissage à vie! Français, espagnol ou anglais, et une variété de cours d’enrichissement professionnel pour ouvrir de nouvelles possibilités.",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/formation-continue",
+        "imgAlt": "",
+        "box": {
+          "x": 1032.484375,
+          "y": 4771.953125,
+          "w": 301.5,
+          "h": 771.328125
+        },
+        "context": "heading: Formation universitaire",
+        "contextKind": "heading-only",
+        "html": "<a data-component-id=\"usb:card_image\" class=\"card usb-card-image has-link hover:cursor-pointer inline-block shrink-0 text-white space-y-8 transition-color duration-200 max-w-[32.25rem] break-words\" href=\"/formation-continue\">\n      <div class=\"usb-card-image__image overflow-hidden\">\n              <p"
+      },
+      {
+        "target": "div > div > div > div:nth-of-type(1) > a",
+        "text": "Dates importantes",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/nouvelles?month=all&tab_hash=events-calendar_list&important%5B2%5D=2",
+        "imgAlt": "",
+        "box": {
+          "x": 32,
+          "y": 8803.34375,
+          "w": 170.78125,
+          "h": 21.25
+        },
+        "context": "heading: Calendrier | Dates importantes Événements à venir Vue du calendrier",
+        "contextKind": "block",
+        "html": "<a class=\"btn btn--secondary btn--secondary--white inline-flex items-center gap-2 text-start pseudo-link\" href=\"/nouvelles?month=all&amp;tab_hash=events-calendar_list&amp;important%5B2%5D=2\" data-text=\"Dates importantes\"><span>Dates importantes</span><i class=\"icon icon-chevron-right text-xxs leadin"
+      },
+      {
+        "target": "div > div > div > div:nth-of-type(2) > a",
+        "text": "Événements à venir",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/nouvelles#evenements-a-venir",
+        "imgAlt": "",
+        "box": {
+          "x": 226.78125,
+          "y": 8803.34375,
+          "w": 181.0625,
+          "h": 21.25
+        },
+        "context": "heading: Calendrier | Dates importantes Événements à venir Vue du calendrier",
+        "contextKind": "block",
+        "html": "<a class=\"btn btn--secondary btn--secondary--white inline-flex items-center gap-2 text-start pseudo-link\" href=\"/nouvelles#evenements-a-venir\" data-text=\"Événements à venir\"><span>Événements à venir</span><i class=\"icon icon-chevron-right text-xxs leading-none pr-1 \"></i></a>"
+      },
+      {
+        "target": "div > div > div > div:nth-of-type(3) > a",
+        "text": "Vue du calendrier",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/nouvelles#vue-du-calendrier",
+        "imgAlt": "",
+        "box": {
+          "x": 431.84375,
+          "y": 8803.34375,
+          "w": 165.859375,
+          "h": 21.25
+        },
+        "context": "heading: Calendrier | Dates importantes Événements à venir Vue du calendrier",
+        "contextKind": "block",
+        "html": "<a class=\"btn btn--secondary btn--secondary--white inline-flex items-center gap-2 text-start pseudo-link\" href=\"/nouvelles#vue-du-calendrier\" data-text=\"Vue du calendrier\"><span>Vue du calendrier</span><i class=\"icon icon-chevron-right text-xxs leading-none pr-1 \"></i></a>"
+      },
+      {
+        "target": "div > div > div > div:nth-of-type(2) > a:nth-of-type(1)",
+        "text": "26 sep. Les Rouges soccer Lieu : Memorial Park — 5, av. Fermor, Winnipeg Les Rouges Les Rouges de l'USB vs Brandon U Bobcats M : 14 h F : 16 h 15",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/evenements/les-rouges-soccer",
+        "imgAlt": "",
+        "box": {
+          "x": 32,
+          "y": 8890.34375,
+          "w": 1302,
+          "h": 264.671875
+        },
+        "context": "heading: Calendrier",
+        "contextKind": "heading-only",
+        "html": "<a data-component-id=\"usb:card_inline\" class=\"card usb-card-inline cursor-pointer without-underline hover:cursor-pointer hover:no-underline py-7.5 flex flex-col md:grid grid-cols-6 gap-4 3xl:gap-20 justify-between border-b border-b-bleu-soft\" href=\"/evenements/les-rouges-soccer\">  <div class=\"md:hid"
+      },
+      {
+        "target": "div > div > div > div:nth-of-type(2) > a:nth-of-type(2)",
+        "text": "28 sep. Semaine de vérité et réconciliation 2026 Vie étudiante Cheminons ensemble, avec humilité et solidarité. Une série d'activités auront lieu sur le campus, ouvertes à toute la communauté universitaire de l'USB.",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/evenements/semaine-de-verite-et-reconciliation2026",
+        "imgAlt": "",
+        "box": {
+          "x": 32,
+          "y": 9155.015625,
+          "w": 1302,
+          "h": 264.671875
+        },
+        "context": "heading: Les Rouges soccer",
+        "contextKind": "heading-only",
+        "html": "<a data-component-id=\"usb:card_inline\" class=\"card usb-card-inline cursor-pointer without-underline hover:cursor-pointer hover:no-underline py-7.5 flex flex-col md:grid grid-cols-6 gap-4 3xl:gap-20 justify-between border-b border-b-bleu-soft\" href=\"/evenements/semaine-de-verite-et-reconciliation2026"
+      },
+      {
+        "target": "div > div > div > div:nth-of-type(2) > a:nth-of-type(3)",
+        "text": "23 sep. Soirée Trivia et pizza Vie étudiante Soirée jeu-questionnaire. Viens gagner des prix! Pizza gratuite.",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/evenements/soiree-trivia-et-pizza",
+        "imgAlt": "",
+        "box": {
+          "x": 32,
+          "y": 9419.6875,
+          "w": 1302,
+          "h": 264.671875
+        },
+        "context": "heading: Semaine de vérité et réconciliation 2026",
+        "contextKind": "heading-only",
+        "html": "<a data-component-id=\"usb:card_inline\" class=\"card usb-card-inline cursor-pointer without-underline hover:cursor-pointer hover:no-underline py-7.5 flex flex-col md:grid grid-cols-6 gap-4 3xl:gap-20 justify-between border-b border-b-bleu-soft\" href=\"/evenements/soiree-trivia-et-pizza\">  <div class=\"m"
+      },
+      {
+        "target": "div > div:nth-of-type(1) > div > div > a",
+        "text": "Voir toutes",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/nouvelles#nouvelles",
+        "imgAlt": "",
+        "box": {
+          "x": 32,
+          "y": 9988.75,
+          "w": 109.03125,
+          "h": 21.25
+        },
+        "context": "heading: Nouvelles",
+        "contextKind": "heading-only",
+        "html": "<a class=\"btn btn--secondary btn--secondary--dark inline-flex items-center gap-2 text-start pseudo-link\" href=\"/nouvelles#nouvelles\" data-text=\"Voir toutes\"><span>Voir toutes</span><i class=\"icon icon-chevron-right text-xxs leading-none pr-1 \"></i></a>"
+      },
+      {
+        "target": "div > div > div > div > a:nth-of-type(1)",
+        "text": "Un parcours vers le bienêtre Forte d’une expérience de plus de 25 ans en ressources humaines, Bernice Parent, diplômée d'un B.A. en 1977, a une compréhension des dynamiques humaines et des enjeux liés au stress en milieu professionnel.",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/nouvelles/un-parcours-vers-le-bienetre",
+        "imgAlt": "",
+        "box": {
+          "x": 32,
+          "y": 10074.75,
+          "w": 412.65625,
+          "h": 679.9375
+        },
+        "context": "heading: Nouvelles",
+        "contextKind": "heading-only",
+        "html": "<a data-component-id=\"usb:card_image\" class=\"card usb-card-image has-link hover:cursor-pointer inline-block shrink-0 text-white space-y-8 transition-color duration-200 max-w-[32.25rem] break-words\" href=\"/nouvelles/un-parcours-vers-le-bienetre\">\n      <div class=\"usb-card-image__image overflow-hidde"
+      },
+      {
+        "target": "div > div > div > div > a:nth-of-type(2)",
+        "text": "Des rencontres humaines à la transmission du savoir Professeure en travail social à l'USB, Kharoll-Ann Souffrant mène des recherches en droit, criminologie et études féministes et antiracistes.",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/nouvelles/des-rencontres-humaines-la-transmission-du-savoir",
+        "imgAlt": "",
+        "box": {
+          "x": 476.65625,
+          "y": 10074.75,
+          "w": 412.671875,
+          "h": 718.453125
+        },
+        "context": "heading: Un parcours vers le bienêtre",
+        "contextKind": "heading-only",
+        "html": "<a data-component-id=\"usb:card_image\" class=\"card usb-card-image has-link hover:cursor-pointer inline-block shrink-0 text-white space-y-8 transition-color duration-200 max-w-[32.25rem] break-words\" href=\"/nouvelles/des-rencontres-humaines-la-transmission-du-savoir\">\n      <div class=\"usb-card-image_"
+      },
+      {
+        "target": "div > div > div > div > a:nth-of-type(3)",
+        "text": "Un projet de création pour faire rayonner la culture métisse Histoires de la charrette de la Rivière-Rouge a récemment vu le jour grâce à une collaboration avec le programme communication multimédia de l'USB.",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/nouvelles/un-projet-de-creation-pour-faire-rayonner-la-culture-metisse",
+        "imgAlt": "",
+        "box": {
+          "x": 921.328125,
+          "y": 10074.75,
+          "w": 412.65625,
+          "h": 718.4375
+        },
+        "context": "heading: Des rencontres humaines à la transmission du savoir",
+        "contextKind": "heading-only",
+        "html": "<a data-component-id=\"usb:card_image\" class=\"card usb-card-image has-link hover:cursor-pointer inline-block shrink-0 text-white space-y-8 transition-color duration-200 max-w-[32.25rem] break-words\" href=\"/nouvelles/un-projet-de-creation-pour-faire-rayonner-la-culture-metisse\">\n      <div class=\"usb-"
+      },
+      {
+        "target": "ul > li:nth-of-type(1) > ul > li:nth-of-type(1) > a",
+        "text": "Admissions",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/admissions",
+        "imgAlt": "",
+        "box": {
+          "x": 466,
+          "y": 11017.203125,
+          "w": 76.125,
+          "h": 29
+        },
+        "context": "Admissions",
+        "contextKind": "li",
+        "html": "<a href=\"/admissions\" data-drupal-link-system-path=\"node/207\">Admissions</a>"
+      },
+      {
+        "target": "ul > li:nth-of-type(1) > ul > li:nth-of-type(2) > a",
+        "text": "La vie étudiante",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/vie-etudiante",
+        "imgAlt": "",
+        "box": {
+          "x": 466,
+          "y": 11054.203125,
+          "w": 104.796875,
+          "h": 29
+        },
+        "context": "La vie étudiante",
+        "contextKind": "li",
+        "html": "<a href=\"/vie-etudiante\" data-drupal-link-system-path=\"node/70\">La vie étudiante</a>"
+      },
+      {
+        "target": "ul > li:nth-of-type(1) > ul > li:nth-of-type(3) > a",
+        "text": "Programmes d’études",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/programmes-detudes",
+        "imgAlt": "",
+        "box": {
+          "x": 466,
+          "y": 11091.203125,
+          "w": 144.609375,
+          "h": 29
+        },
+        "context": "Programmes d’études",
+        "contextKind": "li",
+        "html": "<a href=\"/programmes-detudes\" data-drupal-link-system-path=\"node/35\">Programmes d’études</a>"
+      },
+      {
+        "target": "#block-usb-footer > ul > li:nth-of-type(2) > a",
+        "text": "Réseau des diplômés",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/reseau-des-diplomes",
+        "imgAlt": "",
+        "box": {
+          "x": 691,
+          "y": 10980.203125,
+          "w": 143.609375,
+          "h": 29
+        },
+        "context": "Réseau des diplômés Magazine Sous la coupole Nouvelles et évènements Donner",
+        "contextKind": "li",
+        "html": "<a href=\"/reseau-des-diplomes\" data-drupal-link-system-path=\"node/947\">Réseau des diplômés</a>"
+      },
+      {
+        "target": "ul > li:nth-of-type(2) > ul > li:nth-of-type(1) > a",
+        "text": "Magazine Sous la coupole",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/sous-la-coupole",
+        "imgAlt": "",
+        "box": {
+          "x": 691,
+          "y": 11017.203125,
+          "w": 173.8125,
+          "h": 29
+        },
+        "context": "Magazine Sous la coupole",
+        "contextKind": "li",
+        "html": "<a href=\"/sous-la-coupole\" data-drupal-link-system-path=\"node/510\">Magazine Sous la coupole</a>"
+      },
+      {
+        "target": "ul > li:nth-of-type(2) > ul > li:nth-of-type(2) > a",
+        "text": "Nouvelles et évènements",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/nouvelles",
+        "imgAlt": "",
+        "box": {
+          "x": 691,
+          "y": 11054.203125,
+          "w": 166.546875,
+          "h": 29
+        },
+        "context": "Nouvelles et évènements",
+        "contextKind": "li",
+        "html": "<a href=\"/nouvelles\" data-drupal-link-system-path=\"node/21\">Nouvelles et évènements</a>"
+      },
+      {
+        "target": "ul > li:nth-of-type(2) > ul > li:nth-of-type(3) > a",
+        "text": "Donner",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/donner",
+        "imgAlt": "",
+        "box": {
+          "x": 691,
+          "y": 11091.203125,
+          "w": 48.484375,
+          "h": 29
+        },
+        "context": "Donner",
+        "contextKind": "li",
+        "html": "<a href=\"/donner\">Donner</a>"
+      },
+      {
+        "target": "#block-usb-footer > ul > li:nth-of-type(3) > a",
+        "text": "Membres du personnel",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/membres-du-personnel",
+        "imgAlt": "",
+        "box": {
+          "x": 916,
+          "y": 10980.203125,
+          "w": 155.984375,
+          "h": 29
+        },
+        "context": "Membres du personnel Enseignement et recherche Service technologique Carrières",
+        "contextKind": "li",
+        "html": "<a href=\"/membres-du-personnel\" data-drupal-link-system-path=\"node/686\">Membres du personnel</a>"
+      },
+      {
+        "target": "ul > li:nth-of-type(3) > ul > li:nth-of-type(1) > a",
+        "text": "Enseignement et recherche",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/recherche",
+        "imgAlt": "",
+        "box": {
+          "x": 916,
+          "y": 11017.203125,
+          "w": 181.671875,
+          "h": 29
+        },
+        "context": "Enseignement et recherche",
+        "contextKind": "li",
+        "html": "<a href=\"/recherche\" data-drupal-link-system-path=\"node/114\">Enseignement et recherche</a>"
+      },
+      {
+        "target": "ul > li:nth-of-type(3) > ul > li:nth-of-type(2) > a",
+        "text": "Service technologique",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/service-technologique",
+        "imgAlt": "",
+        "box": {
+          "x": 916,
+          "y": 11054.203125,
+          "w": 148.3125,
+          "h": 29
+        },
+        "context": "Service technologique",
+        "contextKind": "li",
+        "html": "<a href=\"/service-technologique\" data-drupal-link-system-path=\"node/257\">Service technologique</a>"
+      },
+      {
+        "target": "ul > li:nth-of-type(3) > ul > li:nth-of-type(3) > a",
+        "text": "Carrières",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://carrieres.ustboniface.ca/",
+        "imgAlt": "",
+        "box": {
+          "x": 916,
+          "y": 11091.203125,
+          "w": 61.140625,
+          "h": 29
+        },
+        "context": "Carrières",
+        "contextKind": "li",
+        "html": "<a href=\"https://carrieres.ustboniface.ca/\">Carrières</a>"
+      },
+      {
+        "target": "#block-usb-footer > ul > li:nth-of-type(4) > a",
+        "text": "À propos de l’USB",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/propos-de-nous",
+        "imgAlt": "",
+        "box": {
+          "x": 1141,
+          "y": 10980.203125,
+          "w": 121.671875,
+          "h": 29
+        },
+        "context": "À propos de l’USB Pourquoi l’USB? Contact Répertoire du personnel",
+        "contextKind": "li",
+        "html": "<a href=\"/propos-de-nous\" data-drupal-link-system-path=\"node/115\">À propos de l’USB</a>"
+      },
+      {
+        "target": "ul > li:nth-of-type(4) > ul > li:nth-of-type(1) > a",
+        "text": "Pourquoi l’USB?",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/pourquoi-lusb",
+        "imgAlt": "",
+        "box": {
+          "x": 1141,
+          "y": 11017.203125,
+          "w": 105.921875,
+          "h": 29
+        },
+        "context": "Pourquoi l’USB?",
+        "contextKind": "li",
+        "html": "<a href=\"/pourquoi-lusb\" data-drupal-link-system-path=\"node/225\">Pourquoi l’USB?</a>"
+      },
+      {
+        "target": "ul > li:nth-of-type(4) > ul > li:nth-of-type(2) > a",
+        "text": "Contact",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/contact",
+        "imgAlt": "",
+        "box": {
+          "x": 1141,
+          "y": 11054.203125,
+          "w": 51.984375,
+          "h": 29
+        },
+        "context": "Contact",
+        "contextKind": "li",
+        "html": "<a href=\"/contact\" data-drupal-link-system-path=\"node/122\">Contact</a>"
+      },
+      {
+        "target": "ul > li:nth-of-type(4) > ul > li:nth-of-type(3) > a",
+        "text": "Répertoire du personnel",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://sites.ustboniface.ca/liste_du_personnel/",
+        "imgAlt": "",
+        "box": {
+          "x": 1141,
+          "y": 11091.203125,
+          "w": 159.234375,
+          "h": 29
+        },
+        "context": "Répertoire du personnel",
+        "contextKind": "li",
+        "html": "<a href=\"https://sites.ustboniface.ca/liste_du_personnel/\">Répertoire du personnel</a>"
+      },
+      {
+        "target": "div:nth-of-type(1) > div:nth-of-type(2) > div > p > a",
+        "text": "cœur du territoire",
+        "ariaLabel": "",
+        "title": "Dialogue, vérité et réconciliation",
+        "href": "/reconciliation",
+        "imgAlt": "",
+        "box": {
+          "x": 466,
+          "y": 11283.203125,
+          "w": 556.875,
+          "h": 40.59375
+        },
+        "context": "L’Université de Saint-Boniface est située sur le bord de la rivière Rouge, au cœur du territoire visé par le Traité no 1, et des terres traditionnelles des peuples anishinaabe, ininew et dakota, et de",
+        "contextKind": "p",
+        "html": "<a href=\"/reconciliation\" data-entity-type=\"node\" data-entity-uuid=\"12f5fdc6-1337-42cc-a33d-839cde0cfea5\" data-entity-substitution=\"canonical\" title=\"Dialogue, vérité et réconciliation\">cœur du territoire</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > ul > li:nth-of-type(1) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "Facebook (s’ouvre dans une nouvelle fenêtre)",
+        "href": "https://www.facebook.com/ustboniface",
+        "imgAlt": "",
+        "box": {
+          "x": 1090,
+          "y": 11234.203125,
+          "w": 23.921875,
+          "h": 39
+        },
+        "context": "",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.facebook.com/ustboniface\" class=\"cta without-underline inline-block text-[1.625rem] hover:text-bleu-soft transition-colors duration-150 ext\" title=\"Facebook (s’ouvre dans une nouvelle fenêtre)\" target=\"_blank\" data-extlink=\"\" rel=\"noopener noreferrer\"><i class=\"icon icon-faceboo"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > ul > li:nth-of-type(2) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "(X Twitter, s’ouvre dans une nouvelle fenêtre)",
+        "href": "https://www.x.com/ustboniface",
+        "imgAlt": "",
+        "box": {
+          "x": 1145.921875,
+          "y": 11234.203125,
+          "w": 24.359375,
+          "h": 39
+        },
+        "context": "",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.x.com/ustboniface\" class=\"cta without-underline inline-block text-[1.625rem] hover:text-bleu-soft transition-colors duration-150 ext\" title=\"(X Twitter, s’ouvre dans une nouvelle fenêtre)\" target=\"_blank\" data-extlink=\"\" rel=\"noopener noreferrer\"><i class=\"icon icon-x (twitter)\""
+      },
+      {
+        "target": "div > div:nth-of-type(2) > ul > li:nth-of-type(3) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "Instagram (s’ouvre dans une nouvelle fenêtre)",
+        "href": "https://www.instagram.com/ustboniface",
+        "imgAlt": "",
+        "box": {
+          "x": 1202.28125,
+          "y": 11234.203125,
+          "w": 23.84375,
+          "h": 39
+        },
+        "context": "",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.instagram.com/ustboniface\" class=\"cta without-underline inline-block text-[1.625rem] hover:text-bleu-soft transition-colors duration-150 ext\" title=\"Instagram (s’ouvre dans une nouvelle fenêtre)\" target=\"_blank\" data-extlink=\"\" rel=\"noopener noreferrer\"><i class=\"icon icon-insta"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > ul > li:nth-of-type(4) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "Youtube Channel (s’ouvre dans une nouvelle fenêtre)",
+        "href": "http://www.youtube.com/@ustboniface",
+        "imgAlt": "",
+        "box": {
+          "x": 1258.125,
+          "y": 11234.203125,
+          "w": 23.921875,
+          "h": 39
+        },
+        "context": "",
+        "contextKind": "li",
+        "html": "<a href=\"http://www.youtube.com/@ustboniface\" class=\"cta without-underline inline-block text-[1.625rem] hover:text-bleu-soft transition-colors duration-150 ext\" title=\"Youtube Channel (s’ouvre dans une nouvelle fenêtre)\" target=\"_blank\" data-extlink=\"\" rel=\"noopener noreferrer\"><i class=\"icon icon-y"
+      },
+      {
+        "target": "#block-usb-footerlegalnavigationmenu > ul > li:nth-of-type(1) > a",
+        "text": "Vie privée",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/vie-privee",
+        "imgAlt": "",
+        "box": {
+          "x": 698.78125,
+          "y": 11409.203125,
+          "w": 75.9375,
+          "h": 20
+        },
+        "context": "Vie privée",
+        "contextKind": "li",
+        "html": "<a href=\"/vie-privee\" data-drupal-link-system-path=\"node/497\">Vie privée</a>"
+      },
+      {
+        "target": "#block-usb-footerlegalnavigationmenu > ul > li:nth-of-type(2) > a",
+        "text": "Conditions d’utilisation",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/conditions-dutilisation",
+        "imgAlt": "",
+        "box": {
+          "x": 806.71875,
+          "y": 11409.203125,
+          "w": 170.75,
+          "h": 20
+        },
+        "context": "Conditions d’utilisation",
+        "contextKind": "li",
+        "html": "<a href=\"/conditions-dutilisation\" data-drupal-link-system-path=\"node/508\">Conditions d’utilisation</a>"
+      },
+      {
+        "target": "#block-usb-footerlegalnavigationmenu > ul > li:nth-of-type(3) > a",
+        "text": "Accessibilité",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/accessibilite",
+        "imgAlt": "",
+        "box": {
+          "x": 1009.46875,
+          "y": 11409.203125,
+          "w": 95.25,
+          "h": 20
+        },
+        "context": "Accessibilité",
+        "contextKind": "li",
+        "html": "<a href=\"/accessibilite\" data-drupal-link-system-path=\"node/446\">Accessibilité</a>"
+      },
+      {
+        "target": "#block-usb-footerlegalnavigationmenu > ul > li:nth-of-type(4) > a",
+        "text": "Publications",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/publications",
+        "imgAlt": "",
+        "box": {
+          "x": 1136.71875,
+          "y": 11409.203125,
+          "w": 92.109375,
+          "h": 20
+        },
+        "context": "Publications",
+        "contextKind": "li",
+        "html": "<a href=\"/publications\" data-drupal-link-system-path=\"node/509\">Publications</a>"
+      },
+      {
+        "target": "#block-usb-footerlegalnavigationmenu > ul > li:nth-of-type(5) > a",
+        "text": "Urgences",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/urgences",
+        "imgAlt": "",
+        "box": {
+          "x": 1260.828125,
+          "y": 11409.203125,
+          "w": 73.171875,
+          "h": 20
+        },
+        "context": "Urgences",
+        "contextKind": "li",
+        "html": "<a href=\"/urgences\" data-drupal-link-system-path=\"node/981\">Urgences</a>"
+      }
+    ],
+    "headings": [
+      {
+        "target": "#block-usb-menudentete-menu",
+        "level": 2,
+        "text": "Menu d'en-tête",
+        "visible": true,
+        "box": {
+          "x": 575.9375,
+          "y": 8,
+          "w": 1,
+          "h": 1
+        },
+        "html": "<h2 class=\"visually-hidden\" id=\"block-usb-menudentete-menu\">Menu d'en-tête</h2>"
+      },
+      {
+        "target": "#block-usb-navigationprincipale-menu",
+        "level": 2,
+        "text": "Navigation principale",
+        "visible": true,
+        "box": {
+          "x": 254.34375,
+          "y": 90.046875,
+          "w": 1,
+          "h": 1
+        },
+        "html": "<h2 class=\"visually-hidden\" id=\"block-usb-navigationprincipale-menu\">Navigation principale</h2>"
+      },
+      {
+        "target": "#block-usb-navigation-principale-mobile-menu",
+        "level": 2,
+        "text": "Navigation principale",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h2 class=\"visually-hidden\" id=\"block-usb-navigation-principale-mobile-menu\">Navigation principale</h2>"
+      },
+      {
+        "target": "#block-usb-menu-dentete-mobile-menu",
+        "level": 2,
+        "text": "Menu d'en-tête",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h2 class=\"visually-hidden\" id=\"block-usb-menu-dentete-mobile-menu\">Menu d'en-tête</h2>"
+      },
+      {
+        "target": "div > div > div:nth-of-type(1) > div > h1",
+        "level": 1,
+        "text": "C’est ici que vibre ton cœur",
+        "visible": true,
+        "box": {
+          "x": 84,
+          "y": 322.140625,
+          "w": 591.5,
+          "h": 262.265625
+        },
+        "html": "<h1 data-component-id=\"usb:hero_text\" class=\"hero-text h1-xxl text-[clamp(5.313rem,_0.955rem_+_9.077vw,_9.125rem)] hero-text-blue max-[415px]:hyphens-auto\">\n  <p>C’est ici&nbsp;</p><p>que <mark class=\"custom-highlight-marker-yellow\">vibre</mark>&nbsp;</p><p>ton cœur</p>\n</h1>"
+      },
+      {
+        "target": "#video-title",
+        "level": 2,
+        "text": "Un aperçu du campus extérieur de l'Université de Saint-Boniface et de la population étudiante qui le fréquente.",
+        "visible": true,
+        "box": {
+          "x": 1241,
+          "y": 809.140625,
+          "w": 1,
+          "h": 1
+        },
+        "html": "<h2 id=\"video-title\" class=\"sr-only\">Un aperçu du campus extérieur de l'Université de Saint-Boniface et de la population étudiante qui le fréquente.</h2>"
+      },
+      {
+        "target": "div:nth-of-type(1) > div > div:nth-of-type(1) > div:nth-of-type(1) > h2",
+        "level": 2,
+        "text": "Un milieu d’études à taille humaine.",
+        "visible": true,
+        "box": {
+          "x": 72,
+          "y": 3010.140625,
+          "w": 647,
+          "h": 140.78125
+        },
+        "html": "<h2 class=\"h2 mb-10 text-balance\">\n            <div class=\"field field--name-field-title-simple field--type-string field--label-hidden field__item\">Un milieu d’études à taille humaine. </div>\n      </h2>"
+      },
+      {
+        "target": "#swiper-wrapper-25b94f927e997558 > a:nth-of-type(1) > div:nth-of-type(1) > h3",
+        "level": 3,
+        "text": "Journée des conseillers et conseillères d’écoles secondaires",
+        "visible": true,
+        "box": {
+          "x": 781,
+          "y": 2910.140625,
+          "w": 365.59375,
+          "h": 154
+        },
+        "html": "<h3>\n            <div class=\"field field--name-field-title field--type-string field--label-hidden field__item\">Journée des conseillers et conseillères d’écoles secondaires</div>\n      </h3>"
+      },
+      {
+        "target": "#swiper-wrapper-25b94f927e997558 > a:nth-of-type(2) > div:nth-of-type(1) > h3",
+        "level": 3,
+        "text": "Bienvenue à l’USB!",
+        "visible": true,
+        "box": {
+          "x": 1274.59375,
+          "y": 2910.140625,
+          "w": 365.59375,
+          "h": 38.5
+        },
+        "html": "<h3>\n            <div class=\"field field--name-field-title field--type-string field--label-hidden field__item\">Bienvenue à l’USB!</div>\n      </h3>"
+      },
+      {
+        "target": "#swiper-wrapper-25b94f927e997558 > a:nth-of-type(3) > div:nth-of-type(1) > article > h3",
+        "level": 3,
+        "text": "La Rentrée 2026",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h3><span class=\"field field--name-title field--type-string field--label-hidden\">La Rentrée 2026</span>\n</h3>"
+      },
+      {
+        "target": "#video-title",
+        "level": 3,
+        "text": "Université de Saint-Boniface, c'est ici que vibre ton cœur",
+        "visible": true,
+        "box": {
+          "x": 654.5,
+          "y": 3944.0625,
+          "w": 1,
+          "h": 1
+        },
+        "html": "<h3 id=\"video-title\" class=\"sr-only\">\n            Université de Saint-Boniface, c'est ici que vibre ton cœur\n          </h3>"
+      },
+      {
+        "target": "div:nth-of-type(1) > div > div > div:nth-of-type(1) > h2",
+        "level": 2,
+        "text": "Notre offre d’éducation",
+        "visible": true,
+        "box": {
+          "x": 32,
+          "y": 4441.5625,
+          "w": 592,
+          "h": 70.390625
+        },
+        "html": "<h2 class=\"usb-section__title text-white font-light w-full max-w-[52.25rem]\">\n     \n            <div class=\"clearfix text-formatted field field--name-field-title field--type-text-long field--label-hidden field__item\"><p>Notre offre d’éducation</p>\n</div>\n      \n   </h2>"
+      },
+      {
+        "target": "div > div:nth-of-type(1) > a:nth-of-type(1) > div:nth-of-type(2) > h3",
+        "level": 3,
+        "text": "Formation collégiale",
+        "visible": true,
+        "box": {
+          "x": 32,
+          "y": 5242.140625,
+          "w": 412.65625,
+          "h": 38.5
+        },
+        "html": "<h3 class=\"h3-sm\">Formation collégiale</h3>"
+      },
+      {
+        "target": "div > div:nth-of-type(1) > a:nth-of-type(2) > div:nth-of-type(2) > h3",
+        "level": 3,
+        "text": "Formation universitaire",
+        "visible": true,
+        "box": {
+          "x": 698.984375,
+          "y": 5341,
+          "w": 301.5,
+          "h": 77
+        },
+        "html": "<h3 class=\"h3-sm\">Formation universitaire</h3>"
+      },
+      {
+        "target": "div > div:nth-of-type(1) > a:nth-of-type(3) > div:nth-of-type(2) > h3",
+        "level": 3,
+        "text": "Formation continue",
+        "visible": true,
+        "box": {
+          "x": 1032.484375,
+          "y": 5241,
+          "w": 301.5,
+          "h": 77
+        },
+        "html": "<h3 class=\"h3-sm\">Formation continue</h3>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div > div > div:nth-of-type(1) > h2",
+        "level": 2,
+        "text": "L’USB en chiffres",
+        "visible": true,
+        "box": {
+          "x": 32,
+          "y": 5743.28125,
+          "w": 836,
+          "h": 70.390625
+        },
+        "html": "<h2 class=\"usb-section__title text-bleu-force font-light w-full max-w-[52.25rem]\">\n     <div class=\"field field--name-field-title-simple field--type-string field--label-hidden field__item\">L’USB en chiffres</div>\n   </h2>"
+      },
+      {
+        "target": "div:nth-of-type(1) > div > div > div:nth-of-type(1) > h2",
+        "level": 2,
+        "text": "Il y a mille raisons de choisir l’USB...",
+        "visible": true,
+        "box": {
+          "x": 32,
+          "y": 7380.171875,
+          "w": 836,
+          "h": 140.78125
+        },
+        "html": "<h2 class=\"usb-section__title text-bleu-force font-light w-full max-w-[52.25rem]\">\n     \n            <div class=\"clearfix text-formatted field field--name-field-title field--type-text-long field--label-hidden field__item\"><p>Il y a mille raisons de choisir l’USB...</p></div>\n      \n   </h2>"
+      },
+      {
+        "target": "div > div > div:nth-of-type(1) > div > h2",
+        "level": 2,
+        "text": "Calendrier",
+        "visible": true,
+        "box": {
+          "x": 32,
+          "y": 8698.953125,
+          "w": 836,
+          "h": 70.390625
+        },
+        "html": "<h2 class=\"usb-section__title text-white font-light w-full max-w-[52.25rem]\">\n     Calendrier\n   </h2>"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > a:nth-of-type(1) > div:nth-of-type(3) > h3",
+        "level": 3,
+        "text": "Les Rouges soccer",
+        "visible": true,
+        "box": {
+          "x": 251.65625,
+          "y": 8920.34375,
+          "w": 421,
+          "h": 38.5
+        },
+        "html": "<h3 class=\"h3-sm md:max-w-[26.3125rem] max-sm:break-words\">            <div class=\"clearfix text-formatted field field--name-field-title field--type-text-long field--label-hidden field__item\"><p>Les Rouges soccer</p></div>      </h3>"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > a:nth-of-type(2) > div:nth-of-type(3) > h3",
+        "level": 3,
+        "text": "Semaine de vérité et réconciliation 2026",
+        "visible": true,
+        "box": {
+          "x": 251.65625,
+          "y": 9185.015625,
+          "w": 421,
+          "h": 77
+        },
+        "html": "<h3 class=\"h3-sm md:max-w-[26.3125rem] max-sm:break-words\">            <div class=\"clearfix text-formatted field field--name-field-title field--type-text-long field--label-hidden field__item\"><p>Semaine de vérité et <mark class=\"custom-highlight-marker-yellow\">réconciliation</mark> 2026</p></div>   "
+      },
+      {
+        "target": "div > div:nth-of-type(2) > a:nth-of-type(3) > div:nth-of-type(3) > h3",
+        "level": 3,
+        "text": "Soirée Trivia et pizza",
+        "visible": true,
+        "box": {
+          "x": 251.65625,
+          "y": 9449.6875,
+          "w": 421,
+          "h": 38.5
+        },
+        "html": "<h3 class=\"h3-sm md:max-w-[26.3125rem] max-sm:break-words\">            <div class=\"clearfix text-formatted field field--name-field-title field--type-text-long field--label-hidden field__item\"><p>Soirée Trivia et pizza</p></div>      </h3>"
+      },
+      {
+        "target": "div > div > div > div:nth-of-type(1) > h2",
+        "level": 2,
+        "text": "Nouvelles",
+        "visible": true,
+        "box": {
+          "x": 32,
+          "y": 9884.359375,
+          "w": 1302,
+          "h": 70.390625
+        },
+        "html": "<h2 class=\"usb-section-grid__title text-bleu-force font-light w-full max-w-full\">\n            <div class=\"field field--name-field-title-simple field--type-string field--label-hidden field__item\">Nouvelles</div>\n      </h2>"
+      },
+      {
+        "target": "div > div > a:nth-of-type(1) > div:nth-of-type(2) > h3",
+        "level": 3,
+        "text": "Un parcours vers le bienêtre",
+        "visible": true,
+        "box": {
+          "x": 32,
+          "y": 10552.40625,
+          "w": 412.65625,
+          "h": 77
+        },
+        "html": "<h3 class=\"h3-sm\">\n            <div class=\"clearfix text-formatted field field--name-field-title field--type-text-long field--label-hidden field__item\"><p>Un parcours vers le <mark class=\"custom-highlight-marker-yellow\">bienêtre</mark></p></div>\n      </h3>"
+      },
+      {
+        "target": "div > div > a:nth-of-type(2) > div:nth-of-type(2) > h3",
+        "level": 3,
+        "text": "Des rencontres humaines à la transmission du savoir",
+        "visible": true,
+        "box": {
+          "x": 476.65625,
+          "y": 10552.421875,
+          "w": 412.671875,
+          "h": 115.5
+        },
+        "html": "<h3 class=\"h3-sm\">\n            <div class=\"clearfix text-formatted field field--name-field-title field--type-text-long field--label-hidden field__item\"><p>Des rencontres <mark class=\"custom-highlight-marker-yellow\">humaines</mark> à la transmission du savoir</p></div>\n      </h3>"
+      },
+      {
+        "target": "div > div > a:nth-of-type(3) > div:nth-of-type(2) > h3",
+        "level": 3,
+        "text": "Un projet de création pour faire rayonner la culture métisse",
+        "visible": true,
+        "box": {
+          "x": 921.328125,
+          "y": 10552.40625,
+          "w": 412.65625,
+          "h": 115.5
+        },
+        "html": "<h3 class=\"h3-sm\">\n            <div class=\"clearfix text-formatted field field--name-field-title field--type-text-long field--label-hidden field__item\"><p>Un projet de création pour faire rayonner la culture&nbsp;métisse</p></div>\n      </h3>"
+      },
+      {
+        "target": "#block-usb-footer-menu",
+        "level": 2,
+        "text": "Footer",
+        "visible": true,
+        "box": {
+          "x": 466,
+          "y": 10981.203125,
+          "w": 1,
+          "h": 1
+        },
+        "html": "<h2 class=\"visually-hidden\" id=\"block-usb-footer-menu\">Footer</h2>"
+      },
+      {
+        "target": "#block-usb-footerlegalnavigationmenu-menu",
+        "level": 2,
+        "text": "Footer legal navigation menu",
+        "visible": true,
+        "box": {
+          "x": 698.78125,
+          "y": 11409.203125,
+          "w": 1,
+          "h": 1
+        },
+        "html": "<h2 class=\"visually-hidden\" id=\"block-usb-footerlegalnavigationmenu-menu\">Footer legal navigation menu </h2>"
+      }
+    ],
+    "lang": "fr",
+    "title": "Université de Saint-Boniface"
+  },
   "axe": {
     "violationRules": 1,
     "violationNodes": 1,

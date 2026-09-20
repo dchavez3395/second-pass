@@ -19,7 +19,978 @@
     "width": 1366,
     "height": 900
   },
-  "scannedAt": "2026-09-19T06:24:47.731Z",
+  "scannedAt": "2026-09-19T23:57:03.016Z",
+  "content": {
+    "images": [
+      {
+        "target": "#custom_html-4 > div > a > img",
+        "tag": "img",
+        "src": "https://prairiemountainhealth.ca/files/site-logo.png",
+        "alt": "Prairie Mountain Health Logo",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "Prairie Mountain Health",
+        "naturalWidth": 230,
+        "naturalHeight": 82,
+        "box": {
+          "x": 196,
+          "y": 54.59375,
+          "w": 230,
+          "h": 82
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img alt=\"Prairie Mountain Health Logo\" title=\"Prairie Mountain Health\" src=\"/files/site-logo.png\">"
+      },
+      {
+        "target": "#custom_html-5 > div > a > img",
+        "tag": "img",
+        "src": "https://prairiemountainhealth.ca/files/emergency-btn-pmh.jpg",
+        "alt": "Emergency Department",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 170,
+        "naturalHeight": 49,
+        "box": {
+          "x": 999.984375,
+          "y": 54.59375,
+          "w": 170,
+          "h": 49
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "/emergency-department-schedules/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"/files/emergency-btn-pmh.jpg\" alt=\"Emergency Department\">"
+      },
+      {
+        "target": "#metaslider_3316 > img",
+        "tag": "img",
+        "src": "https://prairiemountainhealth.ca/wp-content/uploads/Flood-Slide-2.png",
+        "alt": "Image showing the exterior of the Dauphin Regional Health Centre. Message on image says Dauphin Regional Health Centre Emergency Department now open 24/7. Emergency care services. See all updates.",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 1105,
+        "naturalHeight": 400,
+        "box": {
+          "x": 171,
+          "y": 242.59375,
+          "w": 1024,
+          "h": 370.671875
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "Previous Next",
+        "html": "<img class=\"nivo-main-image\" src=\"https://prairiemountainhealth.ca/wp-content/uploads/Flood-Slide-2.png\" alt=\"Image showing the exterior of the Dauphin Regional Health Centre. Message on image says Dauphin Regional Health Centre Emergency Department now open 24/7. Emergency care services. See all updates.\" style=\"height: auto; width: 1024px;\">"
+      },
+      {
+        "target": "div > div > figure > a > img",
+        "tag": "img",
+        "src": "https://prairiemountainhealth.ca/wp-content/uploads/icon-circle-guidelines.png",
+        "alt": "visitor guidelines icon",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 75,
+        "naturalHeight": 75,
+        "box": {
+          "x": 269,
+          "y": 802.265625,
+          "w": 75,
+          "h": 75
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "https://prairiemountainhealth.ca/covid-19/visitor-guidelines/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img decoding=\"async\" width=\"75\" height=\"75\" src=\"https://prairiemountainhealth.ca/wp-content/uploads/icon-circle-guidelines.png\" alt=\"visitor guidelines icon\" class=\"wp-image-3354\">"
+      },
+      {
+        "target": "div > div > figure > a > img",
+        "tag": "img",
+        "src": "https://prairiemountainhealth.ca/wp-content/uploads/icon-circle-clinics.png",
+        "alt": "Vaccine & Health Clinics icon",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 75,
+        "naturalHeight": 75,
+        "box": {
+          "x": 520,
+          "y": 802.265625,
+          "w": 75,
+          "h": 75
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "https://prairiemountainhealth.ca/covid-19/vaccine-locations/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img decoding=\"async\" width=\"75\" height=\"75\" src=\"https://prairiemountainhealth.ca/wp-content/uploads/icon-circle-clinics.png\" alt=\"Vaccine &amp; Health Clinics icon\" class=\"wp-image-3353\">"
+      },
+      {
+        "target": "div > div > figure > a > img",
+        "tag": "img",
+        "src": "https://prairiemountainhealth.ca/wp-content/uploads/icon-circle-classes.png",
+        "alt": "Public Classes & Activities icon",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 75,
+        "naturalHeight": 75,
+        "box": {
+          "x": 771,
+          "y": 802.265625,
+          "w": 75,
+          "h": 75
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "https://prairiemountainhealth.ca/public-classes-and-clinics/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img decoding=\"async\" width=\"75\" height=\"75\" src=\"https://prairiemountainhealth.ca/wp-content/uploads/icon-circle-classes.png\" alt=\"Public Classes &amp; Activities icon\" class=\"wp-image-3346\">"
+      },
+      {
+        "target": "div > div > figure > a > img",
+        "tag": "img",
+        "src": "https://prairiemountainhealth.ca/wp-content/uploads/icon-circle-news-media.png",
+        "alt": "News & Media icon",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 75,
+        "naturalHeight": 75,
+        "box": {
+          "x": 1022,
+          "y": 802.265625,
+          "w": 75,
+          "h": 75
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "https://prairiemountainhealth.ca/news-and-events/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img loading=\"lazy\" decoding=\"async\" width=\"75\" height=\"75\" src=\"https://prairiemountainhealth.ca/wp-content/uploads/icon-circle-news-media.png\" alt=\"News &amp; Media icon\" class=\"wp-image-3348\">"
+      },
+      {
+        "target": "div > div > figure > a > img",
+        "tag": "img",
+        "src": "https://prairiemountainhealth.ca/wp-content/uploads/icon-circle-outbreaks.png",
+        "alt": "Outbreaks icon",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 75,
+        "naturalHeight": 75,
+        "box": {
+          "x": 269,
+          "y": 1021.265625,
+          "w": 75,
+          "h": 75
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "https://prairiemountainhealth.ca/current-outbreaks/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img loading=\"lazy\" decoding=\"async\" width=\"75\" height=\"75\" src=\"https://prairiemountainhealth.ca/wp-content/uploads/icon-circle-outbreaks.png\" alt=\"Outbreaks icon\" class=\"wp-image-3349\">"
+      },
+      {
+        "target": "div > div > figure > a > img",
+        "tag": "img",
+        "src": "https://prairiemountainhealth.ca/wp-content/uploads/icon-circle-feedback.png",
+        "alt": "Public Feedback icon",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 75,
+        "naturalHeight": 75,
+        "box": {
+          "x": 520,
+          "y": 1021.265625,
+          "w": 75,
+          "h": 75
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "https://prairiemountainhealth.ca/contact-us/public-feedback/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img loading=\"lazy\" decoding=\"async\" width=\"75\" height=\"75\" src=\"https://prairiemountainhealth.ca/wp-content/uploads/icon-circle-feedback.png\" alt=\"Public Feedback icon\" class=\"wp-image-3347\">"
+      },
+      {
+        "target": "div > div > figure > a > img",
+        "tag": "img",
+        "src": "https://prairiemountainhealth.ca/wp-content/uploads/icon-circle-well-wishes.png",
+        "alt": "Well Wishes icon",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 75,
+        "naturalHeight": 75,
+        "box": {
+          "x": 771,
+          "y": 1021.265625,
+          "w": 75,
+          "h": 75
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "https://prairiemountainhealth.ca/forms/well-wishes/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img loading=\"lazy\" decoding=\"async\" width=\"75\" height=\"75\" src=\"https://prairiemountainhealth.ca/wp-content/uploads/icon-circle-well-wishes.png\" alt=\"Well Wishes icon\" class=\"wp-image-3345\">"
+      },
+      {
+        "target": "div > div > figure > a > img",
+        "tag": "img",
+        "src": "https://prairiemountainhealth.ca/wp-content/uploads/icon-circle-newsletter.png",
+        "alt": "Newsletter icon",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 75,
+        "naturalHeight": 75,
+        "box": {
+          "x": 1022,
+          "y": 1021.265625,
+          "w": 75,
+          "h": 75
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "https://us14.campaign-archive.com/home/?u=4eee8b6c44b356bbd9c155f0c&id=e006230530",
+        "caption": "",
+        "nearText": "",
+        "html": "<img loading=\"lazy\" decoding=\"async\" width=\"75\" height=\"75\" src=\"https://prairiemountainhealth.ca/wp-content/uploads/icon-circle-newsletter.png\" alt=\"Newsletter icon\" class=\"wp-image-3355\">"
+      },
+      {
+        "target": "html > body > section > button > img",
+        "tag": "img",
+        "src": "https://prairiemountainhealth.ca/wp-content/plugins/accessibility-onetap/assets/images/admin/Original_Logo_Icon.svg",
+        "alt": "",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 150,
+        "naturalHeight": 150,
+        "box": {
+          "x": 1301,
+          "y": 385,
+          "w": 48,
+          "h": 48
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "",
+        "html": "<img class=\"design-size1 design-border1\" src=\"https://prairiemountainhealth.ca/wp-content/plugins/accessibility-onetap/assets/images/admin/Original_Logo_Icon.svg\" alt=\"\">"
+      },
+      {
+        "target": "#onetap-language-list > div > img:nth-of-type(1)",
+        "tag": "img",
+        "src": "https://prairiemountainhealth.ca/wp-content/plugins/accessibility-onetap/assets/images/english.png",
+        "alt": "United States",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 177,
+        "naturalHeight": 177,
+        "box": {
+          "x": 1392,
+          "y": 26,
+          "w": 22,
+          "h": 22
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://prairiemountainhealth.ca/wp-content/plugins/accessibility-onetap/assets/images/english.png\" class=\"onetap-active\" data-language=\"en\" alt=\"United States\">"
+      },
+      {
+        "target": "#onetap-language-list > p > img",
+        "tag": "img",
+        "src": "https://prairiemountainhealth.ca/wp-content/plugins/accessibility-onetap/assets/images/icon-drop-down-menu.png",
+        "alt": "",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 549,
+        "naturalHeight": 333,
+        "box": {
+          "x": 1475.296875,
+          "y": 35.96875,
+          "w": 10,
+          "h": 6.0625
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "English Accessibility Adjustments Powered by OneTap Hide Toolbar Content Modules Font Size Default Readable Font Line Height Default Big Cursor Letter Spacing A",
+        "html": "<img src=\"https://prairiemountainhealth.ca/wp-content/plugins/accessibility-onetap/assets/images/icon-drop-down-menu.png\" width=\"10\" height=\"10\" alt=\"\">"
+      }
+    ],
+    "links": [
+      {
+        "target": "#custom_html-2 > div > a:nth-of-type(1)",
+        "text": "Family Doctor Finder",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.gov.mb.ca/health/familydoctorfinder/",
+        "imgAlt": "",
+        "box": {
+          "x": 851.734375,
+          "y": 3,
+          "w": 123.65625,
+          "h": 18
+        },
+        "context": "Family Doctor Finder Health Links – Info Santé",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.gov.mb.ca/health/familydoctorfinder/\" target=\"_blank\">Family Doctor Finder</a>"
+      },
+      {
+        "target": "#custom_html-2 > div > a:nth-of-type(2)",
+        "text": "Health Links – Info Santé",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://misericordia.mb.ca/programs/phcc/health-links-info-sante/",
+        "imgAlt": "",
+        "box": {
+          "x": 1011.359375,
+          "y": 3,
+          "w": 146.84375,
+          "h": 18
+        },
+        "context": "Family Doctor Finder Health Links – Info Santé",
+        "contextKind": "block",
+        "html": "<a href=\"https://misericordia.mb.ca/programs/phcc/health-links-info-sante/\" target=\"_blank\">Health Links – Info Santé</a>"
+      },
+      {
+        "target": "#custom_html-4 > div > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/",
+        "imgAlt": "Prairie Mountain Health Logo",
+        "box": {
+          "x": 196,
+          "y": 82.875,
+          "w": 230,
+          "h": 22
+        },
+        "context": "",
+        "contextKind": "none",
+        "html": "<a href=\"/\"><img alt=\"Prairie Mountain Health Logo\" title=\"Prairie Mountain Health\" src=\"/files/site-logo.png\"></a>"
+      },
+      {
+        "target": "#custom_html-5 > div > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/emergency-department-schedules/",
+        "imgAlt": "Emergency Department",
+        "box": {
+          "x": 999.984375,
+          "y": 66.375,
+          "w": 170,
+          "h": 22
+        },
+        "context": "",
+        "contextKind": "none",
+        "html": "<a href=\"/emergency-department-schedules/\"><img src=\"/files/emergency-btn-pmh.jpg\" alt=\"Emergency Department\"></a>"
+      },
+      {
+        "target": "#mega-menu-item-51 > a",
+        "text": "About Us",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://prairiemountainhealth.ca/about-us/",
+        "imgAlt": "",
+        "box": {
+          "x": 182.84375,
+          "y": 182.59375,
+          "w": 150.5,
+          "h": 60
+        },
+        "context": "About Us",
+        "contextKind": "li",
+        "html": "<a class=\"mega-menu-link\" href=\"https://prairiemountainhealth.ca/about-us/\" aria-expanded=\"false\" aria-controls=\"mega-sub-menu-51\">About Us<span class=\"mega-indicator\" aria-hidden=\"true\"></span></a>"
+      },
+      {
+        "target": "#mega-menu-item-3600 > a",
+        "text": "News & Events",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://prairiemountainhealth.ca/news-and-events/",
+        "imgAlt": "",
+        "box": {
+          "x": 333.34375,
+          "y": 182.59375,
+          "w": 170.03125,
+          "h": 60
+        },
+        "context": "News & Events",
+        "contextKind": "li",
+        "html": "<a class=\"mega-menu-link\" href=\"https://prairiemountainhealth.ca/news-and-events/\">News &amp; Events</a>"
+      },
+      {
+        "target": "#mega-menu-item-159 > a",
+        "text": "Our Locations",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://prairiemountainhealth.ca/our-locations/",
+        "imgAlt": "",
+        "box": {
+          "x": 503.375,
+          "y": 182.59375,
+          "w": 164.296875,
+          "h": 60
+        },
+        "context": "Our Locations",
+        "contextKind": "li",
+        "html": "<a class=\"mega-menu-link\" href=\"https://prairiemountainhealth.ca/our-locations/\">Our Locations</a>"
+      },
+      {
+        "target": "#mega-menu-item-15021 > a",
+        "text": "Programs & Services",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://prairiemountainhealth.ca/programs-and-services/",
+        "imgAlt": "",
+        "box": {
+          "x": 667.671875,
+          "y": 182.59375,
+          "w": 212.921875,
+          "h": 60
+        },
+        "context": "Programs & Services",
+        "contextKind": "li",
+        "html": "<a class=\"mega-menu-link\" href=\"https://prairiemountainhealth.ca/programs-and-services/\">Programs &amp; Services</a>"
+      },
+      {
+        "target": "#mega-menu-item-49 > a",
+        "text": "Careers",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://prairiemountainhealth.ca/careers/",
+        "imgAlt": "",
+        "box": {
+          "x": 880.59375,
+          "y": 182.59375,
+          "w": 139.640625,
+          "h": 60
+        },
+        "context": "Careers",
+        "contextKind": "li",
+        "html": "<a class=\"mega-menu-link\" href=\"https://prairiemountainhealth.ca/careers/\" aria-expanded=\"false\" aria-controls=\"mega-sub-menu-49\">Careers<span class=\"mega-indicator\" aria-hidden=\"true\"></span></a>"
+      },
+      {
+        "target": "#mega-menu-item-677 > a",
+        "text": "Contact Us",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://prairiemountainhealth.ca/contact-us/",
+        "imgAlt": "",
+        "box": {
+          "x": 1020.234375,
+          "y": 182.59375,
+          "w": 162.921875,
+          "h": 60
+        },
+        "context": "Contact Us",
+        "contextKind": "li",
+        "html": "<a class=\"mega-menu-link\" href=\"https://prairiemountainhealth.ca/contact-us/\" aria-expanded=\"false\" aria-controls=\"mega-sub-menu-677\">Contact Us<span class=\"mega-indicator\" aria-hidden=\"true\"></span></a>"
+      },
+      {
+        "target": "#metaslider_3316 > a:nth-of-type(2)",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://prairiemountainhealth.ca/drhc-services-updates/",
+        "imgAlt": "Image showing the exterior of the Dauphin Regional Health Centre. Message on image says Dauphin Regional Health Centre Emergency Department now open 24/7. Emergency care services. See all updates.",
+        "box": {
+          "x": 171,
+          "y": 242.59375,
+          "w": 1024,
+          "h": 370.671875
+        },
+        "context": "",
+        "contextKind": "none",
+        "html": "<a href=\"https://prairiemountainhealth.ca/drhc-services-updates/\" target=\"_self\" class=\"nivo-imageLink\" style=\"display: block;\"><img src=\"https://prairiemountainhealth.ca/wp-content/uploads/Flood-Slide-2.png\" height=\"400\" width=\"1105\" title=\"Flood Slide (2)\" alt=\"Image showing the exterior of the Da"
+      },
+      {
+        "target": "#advgb-col-07ec6041-3c7a-4399-8299-3446b4c64709 > div > div > figure > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://prairiemountainhealth.ca/covid-19/visitor-guidelines/",
+        "imgAlt": "visitor guidelines icon",
+        "box": {
+          "x": 269,
+          "y": 802.265625,
+          "w": 75,
+          "h": 75
+        },
+        "context": "Visitor Guidelines Vaccine & Health Clinics Public Classes & Activities News & Media",
+        "contextKind": "block",
+        "html": "<a href=\"https://prairiemountainhealth.ca/covid-19/visitor-guidelines/\"><img decoding=\"async\" width=\"75\" height=\"75\" src=\"https://prairiemountainhealth.ca/wp-content/uploads/icon-circle-guidelines.png\" alt=\"visitor guidelines icon\" class=\"wp-image-3354\"></a>"
+      },
+      {
+        "target": "#advgb-col-07ec6041-3c7a-4399-8299-3446b4c64709 > div > p > strong > a",
+        "text": "Visitor Guidelines",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://prairiemountainhealth.ca/visitor-guidelines/",
+        "imgAlt": "",
+        "box": {
+          "x": 238.828125,
+          "y": 896.265625,
+          "w": 135.34375,
+          "h": 22
+        },
+        "context": "Visitor Guidelines",
+        "contextKind": "p",
+        "html": "<a href=\"https://prairiemountainhealth.ca/visitor-guidelines/\">Visitor Guidelines</a>"
+      },
+      {
+        "target": "#advgb-col-5aef7f7a-0238-499e-a70f-71493ba39bd8 > div > div > figure > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://prairiemountainhealth.ca/covid-19/vaccine-locations/",
+        "imgAlt": "Vaccine & Health Clinics icon",
+        "box": {
+          "x": 520,
+          "y": 802.265625,
+          "w": 75,
+          "h": 75
+        },
+        "context": "Visitor Guidelines Vaccine & Health Clinics Public Classes & Activities News & Media",
+        "contextKind": "block",
+        "html": "<a href=\"https://prairiemountainhealth.ca/covid-19/vaccine-locations/\"><img decoding=\"async\" width=\"75\" height=\"75\" src=\"https://prairiemountainhealth.ca/wp-content/uploads/icon-circle-clinics.png\" alt=\"Vaccine &amp; Health Clinics icon\" class=\"wp-image-3353\"></a>"
+      },
+      {
+        "target": "#advgb-col-5aef7f7a-0238-499e-a70f-71493ba39bd8 > div > p > strong > a",
+        "text": "Vaccine & Health Clinics",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://prairiemountainhealth.ca/vaccine-and-health-clinics/",
+        "imgAlt": "",
+        "box": {
+          "x": 465.40625,
+          "y": 896.265625,
+          "w": 184.1875,
+          "h": 22
+        },
+        "context": "Vaccine & Health Clinics",
+        "contextKind": "p",
+        "html": "<a href=\"https://prairiemountainhealth.ca/vaccine-and-health-clinics/\">Vaccine &amp; Health Clinics</a>"
+      },
+      {
+        "target": "#advgb-col-a8f57342-e086-4bcf-844e-35c22968ea90 > div > div > figure > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://prairiemountainhealth.ca/public-classes-and-clinics/",
+        "imgAlt": "Public Classes & Activities icon",
+        "box": {
+          "x": 771,
+          "y": 802.265625,
+          "w": 75,
+          "h": 75
+        },
+        "context": "Visitor Guidelines Vaccine & Health Clinics Public Classes & Activities News & Media",
+        "contextKind": "block",
+        "html": "<a href=\"https://prairiemountainhealth.ca/public-classes-and-clinics/\"><img decoding=\"async\" width=\"75\" height=\"75\" src=\"https://prairiemountainhealth.ca/wp-content/uploads/icon-circle-classes.png\" alt=\"Public Classes &amp; Activities icon\" class=\"wp-image-3346\"></a>"
+      },
+      {
+        "target": "#advgb-col-a8f57342-e086-4bcf-844e-35c22968ea90 > div > p > strong > a",
+        "text": "Public Classes & Activities",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://prairiemountainhealth.ca/public-classes/",
+        "imgAlt": "",
+        "box": {
+          "x": 709.640625,
+          "y": 896.265625,
+          "w": 197.71875,
+          "h": 22
+        },
+        "context": "Public Classes & Activities",
+        "contextKind": "p",
+        "html": "<a href=\"https://prairiemountainhealth.ca/public-classes/\">Public Classes &amp; Activities</a>"
+      },
+      {
+        "target": "#advgb-col-5701aa06-4ebb-4fd7-94ac-7916ab42c050 > div > div > figure > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://prairiemountainhealth.ca/news-and-events/",
+        "imgAlt": "News & Media icon",
+        "box": {
+          "x": 1022,
+          "y": 802.265625,
+          "w": 75,
+          "h": 75
+        },
+        "context": "Visitor Guidelines Vaccine & Health Clinics Public Classes & Activities News & Media",
+        "contextKind": "block",
+        "html": "<a href=\"https://prairiemountainhealth.ca/news-and-events/\"><img loading=\"lazy\" decoding=\"async\" width=\"75\" height=\"75\" src=\"https://prairiemountainhealth.ca/wp-content/uploads/icon-circle-news-media.png\" alt=\"News &amp; Media icon\" class=\"wp-image-3348\"></a>"
+      },
+      {
+        "target": "#advgb-col-5701aa06-4ebb-4fd7-94ac-7916ab42c050 > div > p > strong > a",
+        "text": "News & Media",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://prairiemountainhealth.ca/news-and-events/",
+        "imgAlt": "",
+        "box": {
+          "x": 1004.296875,
+          "y": 896.265625,
+          "w": 110.390625,
+          "h": 22
+        },
+        "context": "News & Media",
+        "contextKind": "p",
+        "html": "<a href=\"https://prairiemountainhealth.ca/news-and-events/\">News &amp; Media</a>"
+      },
+      {
+        "target": "#advgb-col-d3e3b48d-6cfe-4460-b1f5-18752b64edcb > div > div > figure > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://prairiemountainhealth.ca/current-outbreaks/",
+        "imgAlt": "Outbreaks icon",
+        "box": {
+          "x": 269,
+          "y": 1021.265625,
+          "w": 75,
+          "h": 75
+        },
+        "context": "Outbreaks Public Feedback Well Wishes Newsletter",
+        "contextKind": "block",
+        "html": "<a href=\"https://prairiemountainhealth.ca/current-outbreaks/\"><img loading=\"lazy\" decoding=\"async\" width=\"75\" height=\"75\" src=\"https://prairiemountainhealth.ca/wp-content/uploads/icon-circle-outbreaks.png\" alt=\"Outbreaks icon\" class=\"wp-image-3349\"></a>"
+      },
+      {
+        "target": "#advgb-col-d3e3b48d-6cfe-4460-b1f5-18752b64edcb > div > p > strong > a",
+        "text": "Outbreaks",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://prairiemountainhealth.ca/current-outbreaks/",
+        "imgAlt": "",
+        "box": {
+          "x": 265.796875,
+          "y": 1115.265625,
+          "w": 81.40625,
+          "h": 22
+        },
+        "context": "Outbreaks",
+        "contextKind": "p",
+        "html": "<a href=\"https://prairiemountainhealth.ca/current-outbreaks/\">Outbreaks</a>"
+      },
+      {
+        "target": "#advgb-col-88014b92-c0eb-4193-9b5f-f66840ef4857 > div > div > figure > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://prairiemountainhealth.ca/contact-us/public-feedback/",
+        "imgAlt": "Public Feedback icon",
+        "box": {
+          "x": 520,
+          "y": 1021.265625,
+          "w": 75,
+          "h": 75
+        },
+        "context": "Outbreaks Public Feedback Well Wishes Newsletter",
+        "contextKind": "block",
+        "html": "<a href=\"https://prairiemountainhealth.ca/contact-us/public-feedback/\"><img loading=\"lazy\" decoding=\"async\" width=\"75\" height=\"75\" src=\"https://prairiemountainhealth.ca/wp-content/uploads/icon-circle-feedback.png\" alt=\"Public Feedback icon\" class=\"wp-image-3347\"></a>"
+      },
+      {
+        "target": "#advgb-col-88014b92-c0eb-4193-9b5f-f66840ef4857 > div > p > strong > a",
+        "text": "Public Feedback",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://prairiemountainhealth.ca/contact-us/public-feedback/",
+        "imgAlt": "",
+        "box": {
+          "x": 495.359375,
+          "y": 1115.265625,
+          "w": 124.265625,
+          "h": 22
+        },
+        "context": "Public Feedback",
+        "contextKind": "p",
+        "html": "<a href=\"https://prairiemountainhealth.ca/contact-us/public-feedback/\">Public Feedback</a>"
+      },
+      {
+        "target": "#advgb-col-16255050-3a19-42f7-809b-92dab9abcf17 > div > div > figure > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://prairiemountainhealth.ca/forms/well-wishes/",
+        "imgAlt": "Well Wishes icon",
+        "box": {
+          "x": 771,
+          "y": 1021.265625,
+          "w": 75,
+          "h": 75
+        },
+        "context": "Outbreaks Public Feedback Well Wishes Newsletter",
+        "contextKind": "block",
+        "html": "<a href=\"https://prairiemountainhealth.ca/forms/well-wishes/\"><img loading=\"lazy\" decoding=\"async\" width=\"75\" height=\"75\" src=\"https://prairiemountainhealth.ca/wp-content/uploads/icon-circle-well-wishes.png\" alt=\"Well Wishes icon\" class=\"wp-image-3345\"></a>"
+      },
+      {
+        "target": "#advgb-col-16255050-3a19-42f7-809b-92dab9abcf17 > div > p > strong > a",
+        "text": "Well Wishes",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://prairiemountainhealth.ca/forms/well-wishes/",
+        "imgAlt": "",
+        "box": {
+          "x": 762.515625,
+          "y": 1115.265625,
+          "w": 91.96875,
+          "h": 22
+        },
+        "context": "Well Wishes",
+        "contextKind": "p",
+        "html": "<a href=\"https://prairiemountainhealth.ca/forms/well-wishes/\">Well Wishes</a>"
+      },
+      {
+        "target": "#advgb-col-679950f3-2769-4400-acb1-36628c417632 > div > div > figure > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://us14.campaign-archive.com/home/?u=4eee8b6c44b356bbd9c155f0c&id=e006230530",
+        "imgAlt": "Newsletter icon",
+        "box": {
+          "x": 1022,
+          "y": 1021.265625,
+          "w": 75,
+          "h": 75
+        },
+        "context": "Outbreaks Public Feedback Well Wishes Newsletter",
+        "contextKind": "block",
+        "html": "<a href=\"https://us14.campaign-archive.com/home/?u=4eee8b6c44b356bbd9c155f0c&amp;id=e006230530\" target=\"_blank\" rel=\"noreferrer noopener\"><img loading=\"lazy\" decoding=\"async\" width=\"75\" height=\"75\" src=\"https://prairiemountainhealth.ca/wp-content/uploads/icon-circle-newsletter.png\" alt=\"Newsletter i"
+      },
+      {
+        "target": "#advgb-col-679950f3-2769-4400-acb1-36628c417632 > div > p > strong > a",
+        "text": "Newsletter",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://us14.campaign-archive.com/home/?u=4eee8b6c44b356bbd9c155f0c&id=e006230530",
+        "imgAlt": "",
+        "box": {
+          "x": 1016.96875,
+          "y": 1115.265625,
+          "w": 85.046875,
+          "h": 22
+        },
+        "context": "Newsletter",
+        "contextKind": "p",
+        "html": "<a href=\"https://us14.campaign-archive.com/home/?u=4eee8b6c44b356bbd9c155f0c&amp;id=e006230530\" target=\"_blank\" rel=\"noreferrer noopener\">Newsletter</a>"
+      },
+      {
+        "target": "#custom_html-22 > div > a:nth-of-type(1)",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.facebook.com/prairiemountainhealth",
+        "imgAlt": "",
+        "box": {
+          "x": 503,
+          "y": 1320.25,
+          "w": 72,
+          "h": 19
+        },
+        "context": "heading: Stay Connected | Stay Connected © 2026 Prairie Mountain Health, All rights reserved • Conditions of Use • Sitemap",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.facebook.com/prairiemountainhealth\" target=\"_blank\"><i class=\"fa-brands fa-square-facebook\"></i></a>"
+      },
+      {
+        "target": "#custom_html-22 > div > a:nth-of-type(2)",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://twitter.com/prairiemthealth",
+        "imgAlt": "",
+        "box": {
+          "x": 575,
+          "y": 1320.25,
+          "w": 72,
+          "h": 19
+        },
+        "context": "heading: Stay Connected | Stay Connected © 2026 Prairie Mountain Health, All rights reserved • Conditions of Use • Sitemap",
+        "contextKind": "block",
+        "html": "<a href=\"https://twitter.com/prairiemthealth\" target=\"_blank\"><i class=\"fa-brands fa-square-x-twitter\"></i></a>"
+      },
+      {
+        "target": "#custom_html-22 > div > a:nth-of-type(3)",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.instagram.com/prairiemthealth/",
+        "imgAlt": "",
+        "box": {
+          "x": 647,
+          "y": 1320.25,
+          "w": 72,
+          "h": 19
+        },
+        "context": "heading: Stay Connected | Stay Connected © 2026 Prairie Mountain Health, All rights reserved • Conditions of Use • Sitemap",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.instagram.com/prairiemthealth/\" target=\"_blank\"><i class=\"fa-brands fa-square-instagram\"></i></a>"
+      },
+      {
+        "target": "#custom_html-22 > div > a:nth-of-type(4)",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.youtube.com/channel/UCQzAZvWyqHp57ucxoByEhhg",
+        "imgAlt": "",
+        "box": {
+          "x": 719,
+          "y": 1320.25,
+          "w": 72,
+          "h": 19
+        },
+        "context": "heading: Stay Connected | Stay Connected © 2026 Prairie Mountain Health, All rights reserved • Conditions of Use • Sitemap",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.youtube.com/channel/UCQzAZvWyqHp57ucxoByEhhg\" target=\"_blank\"><i class=\"fa-brands fa-square-youtube\"></i></a>"
+      },
+      {
+        "target": "#custom_html-22 > div > a:nth-of-type(5)",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.linkedin.com/company/pmh-careers/?viewAsMember=true",
+        "imgAlt": "",
+        "box": {
+          "x": 791,
+          "y": 1320.25,
+          "w": 72,
+          "h": 19
+        },
+        "context": "heading: Stay Connected | Stay Connected © 2026 Prairie Mountain Health, All rights reserved • Conditions of Use • Sitemap",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.linkedin.com/company/pmh-careers/?viewAsMember=true\" target=\"_blank\"><i class=\"fa-brands fa-square-linkedin\"></i></a>"
+      },
+      {
+        "target": "#custom_html-19 > div > a:nth-of-type(1)",
+        "text": "Conditions of Use",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/conditions-of-use",
+        "imgAlt": "",
+        "box": {
+          "x": 764.03125,
+          "y": 1388.453125,
+          "w": 122.1875,
+          "h": 19
+        },
+        "context": "heading: Stay Connected | © 2026 Prairie Mountain Health, All rights reserved • Conditions of Use • Sitemap",
+        "contextKind": "block",
+        "html": "<a href=\"/conditions-of-use\">Conditions of Use</a>"
+      },
+      {
+        "target": "#custom_html-19 > div > a:nth-of-type(2)",
+        "text": "Sitemap",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/sitemap",
+        "imgAlt": "",
+        "box": {
+          "x": 920.875,
+          "y": 1388.453125,
+          "w": 56.984375,
+          "h": 19
+        },
+        "context": "heading: Stay Connected | © 2026 Prairie Mountain Health, All rights reserved • Conditions of Use • Sitemap",
+        "contextKind": "block",
+        "html": "<a href=\"/sitemap\">Sitemap</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(3) > div:nth-of-type(1) > p > a",
+        "text": "OneTap",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://wponetap.com/?utm_source=frontend-link&utm_medium=link&utm_campaign=ref-link-toolbar",
+        "imgAlt": "",
+        "box": {
+          "x": 1615.671875,
+          "y": 208.1875,
+          "w": 57.625,
+          "h": 25
+        },
+        "context": "Powered by OneTap",
+        "contextKind": "p",
+        "html": "<a href=\"https://wponetap.com/?utm_source=frontend-link&amp;utm_medium=link&amp;utm_campaign=ref-link-toolbar\" target=\"_blank\">OneTap</a>"
+      },
+      {
+        "target": "body > div:nth-of-type(7) > ul > li > a",
+        "text": "Close",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://google.com",
+        "imgAlt": "",
+        "box": {
+          "x": 1316,
+          "y": 456,
+          "w": 48,
+          "h": 48
+        },
+        "context": "Close",
+        "contextKind": "li",
+        "html": "<a class=\"fm-link -none\" href=\"https://google.com\" target=\"_self\" style=\"--_width: 60;\"><span class=\"fm-icon\"><span class=\"fas fa-x\"></span></span><span class=\"fm-label\">Close</span></a>"
+      }
+    ],
+    "headings": [
+      {
+        "target": "#custom_html-22 > div > h3",
+        "level": 3,
+        "text": "Stay Connected",
+        "visible": true,
+        "box": {
+          "x": 171,
+          "y": 1255.65625,
+          "w": 1024,
+          "h": 21.59375
+        },
+        "html": "<h3>Stay Connected</h3>"
+      }
+    ],
+    "lang": "en-CA",
+    "title": "Prairie Mountain Health - Prairie Mountain Health"
+  },
   "axe": {
     "violationRules": 2,
     "violationNodes": 8,

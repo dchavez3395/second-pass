@@ -19,7 +19,1108 @@
     "width": 1366,
     "height": 900
   },
-  "scannedAt": "2026-09-19T06:23:20.672Z",
+  "scannedAt": "2026-09-19T23:55:36.787Z",
+  "content": {
+    "images": [
+      {
+        "target": "#header-logo > img",
+        "tag": "img",
+        "src": "https://www.hydro.mb.ca/mht/images/mb-hydro-logo-efl.svg",
+        "alt": "Manitoba Hydro - Energy for Life",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 160,
+        "naturalHeight": 60,
+        "box": {
+          "x": 60,
+          "y": 16,
+          "w": 170,
+          "h": 63.75
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"/mht/images/mb-hydro-logo-efl.svg\" width=\"160\" height=\"60\" alt=\"Manitoba Hydro - Energy for Life\">"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > div > picture > img",
+        "tag": "img",
+        "src": "https://www.hydro.mb.ca/assets/img/banners/banner-home_hu_ea297ff3b891ed07.webp",
+        "alt": "Father and daughter high five after fixing a string of lights in the backyard.",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 563,
+        "naturalHeight": 414,
+        "box": {
+          "x": 713,
+          "y": 146.34375,
+          "w": 653,
+          "h": 480.578125
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"/assets/img/banners/banner-home_hu_b9cbc4d5388ac41e.jpg\" width=\"784\" height=\"577\" alt=\"Father and daughter high five after fixing a string of lights in the backyard.\" loading=\"eager\">"
+      },
+      {
+        "target": "div:nth-of-type(3) > div > div:nth-of-type(2) > picture > img",
+        "tag": "img",
+        "src": "https://www.hydro.mb.ca/assets/img/figurebox/recruitment-initiative-homepage-telecontrol_hu_3eceadd486cd1b55.webp",
+        "alt": "Manitoba Hydro employee working in a telecontrol facility surrounded by electrical equipment and wiring panels.",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 619,
+        "naturalHeight": 464,
+        "box": {
+          "x": 683,
+          "y": 1089.484375,
+          "w": 623,
+          "h": 498.390625
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"/assets/img/figurebox/recruitment-initiative-homepage-telecontrol_hu_cb4acee6bf25845d.jpg\" width=\"656\" height=\"492\" alt=\"Manitoba Hydro employee working in a telecontrol facility surrounded by electrical equipment and wiring panels.\" loading=\"lazy\">"
+      },
+      {
+        "target": "div:nth-of-type(4) > div > div:nth-of-type(2) > picture > img",
+        "tag": "img",
+        "src": "https://www.hydro.mb.ca/assets/img/banners/banner-help-centre_hu_7abb6b359f1e501d.webp",
+        "alt": "Man and woman looking at a tablet",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 619,
+        "naturalHeight": 464,
+        "box": {
+          "x": 60,
+          "y": 1715.875,
+          "w": 623,
+          "h": 498.390625
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"/assets/img/banners/banner-help-centre_hu_af9fb66fe044527d.jpg\" width=\"656\" height=\"492\" alt=\"Man and woman looking at a tablet\" loading=\"lazy\">"
+      },
+      {
+        "target": "div:nth-of-type(1) > div > a > picture > img",
+        "tag": "img",
+        "src": "https://www.hydro.mb.ca/assets/img/figurebox/tractor-tower-accident_hu_ce676942d62a70f3.webp",
+        "alt": "Keep safety in sight this harvest season",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 450,
+        "naturalHeight": 300,
+        "box": {
+          "x": 60,
+          "y": 2342.265625,
+          "w": 388.65625,
+          "h": 259.09375
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "/articles/2026/08/keep-safety-in-sight-this-harvest-season/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"/assets/img/figurebox/tractor-tower-accident_hu_3700aa02d5a2b667.jpg\" width=\"840\" height=\"560\" alt=\"Keep safety in sight this harvest season\" class=\"entry-thumbnail\" loading=\"lazy\">"
+      },
+      {
+        "target": "div:nth-of-type(1) > div > a > picture > img",
+        "tag": "img",
+        "src": "https://www.hydro.mb.ca/assets/img/featured-thumbnails/energy-dollar-blog_hu_ee4ba2d45f2b0f1a.webp",
+        "alt": "Where your electricity dollar goes",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 450,
+        "naturalHeight": 300,
+        "box": {
+          "x": 488.65625,
+          "y": 2342.265625,
+          "w": 388.671875,
+          "h": 259.109375
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "/articles/2026/09/where-your-electricity-dollar-goes/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"/assets/img/featured-thumbnails/energy-dollar-blog_hu_30469d38a49e4a77.jpg\" width=\"840\" height=\"560\" alt=\"Where your electricity dollar goes\" class=\"entry-thumbnail\" loading=\"lazy\">"
+      },
+      {
+        "target": "div:nth-of-type(1) > div > a > picture > img",
+        "tag": "img",
+        "src": "https://www.hydro.mb.ca/assets/img/featured-thumbnails/forest-enhancement-mulvey-school_hu_c637890779848cf3.webp",
+        "alt": "A “treemendous planting day” at Mulvey School",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 450,
+        "naturalHeight": 300,
+        "box": {
+          "x": 917.328125,
+          "y": 2342.265625,
+          "w": 388.65625,
+          "h": 259.09375
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "/articles/2026/07/a-treemendous-planting-day-at-mulvey-school/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"/assets/img/featured-thumbnails/forest-enhancement-mulvey-school_hu_817d2550595654f0.jpg\" width=\"840\" height=\"560\" alt=\"A “treemendous planting day” at Mulvey School\" class=\"entry-thumbnail\" loading=\"lazy\">"
+      },
+      {
+        "target": "div > div:nth-of-type(1) > div:nth-of-type(1) > a > img",
+        "tag": "img",
+        "src": "https://www.hydro.mb.ca/mht/images/mb-hydro-logo-efl-white.svg",
+        "alt": "Manitoba Hydro - Energy for Life",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 181,
+        "naturalHeight": 68,
+        "box": {
+          "x": 60,
+          "y": 2982.34375,
+          "w": 181,
+          "h": 68
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"/mht/images/mb-hydro-logo-efl-white.svg\" width=\"181\" height=\"68\" alt=\"Manitoba Hydro - Energy for Life\" loading=\"lazy\">"
+      }
+    ],
+    "links": [
+      {
+        "target": "html > body > a",
+        "text": "Skip to content",
+        "ariaLabel": "Skip to content area",
+        "title": "",
+        "href": "#content-area",
+        "imgAlt": "",
+        "box": {
+          "x": -1000,
+          "y": -1000,
+          "w": 47,
+          "h": 23
+        },
+        "context": "",
+        "contextKind": "none",
+        "html": "<a class=\"skip mht-btn\" href=\"#content-area\" aria-label=\"Skip to content area\">Skip to content</a>"
+      },
+      {
+        "target": "#header-logo",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/",
+        "imgAlt": "Manitoba Hydro - Energy for Life",
+        "box": {
+          "x": 60,
+          "y": 16,
+          "w": 170,
+          "h": 63.75
+        },
+        "context": "Français Login YOUR ACCOUNT OUTAGES PERMITS & SERVICE SAFETY NEWS & STORIES CUSTOMER SUPPORT",
+        "contextKind": "block",
+        "html": "<a href=\"/\" id=\"header-logo\" rel=\"home\"><img src=\"/mht/images/mb-hydro-logo-efl.svg\" width=\"160\" height=\"60\" alt=\"Manitoba Hydro - Energy for Life\"></a>"
+      },
+      {
+        "target": "div:nth-of-type(1) > div > ul > li > a",
+        "text": "Français",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/fr/",
+        "imgAlt": "",
+        "box": {
+          "x": 807.828125,
+          "y": 39.375,
+          "w": 73.21875,
+          "h": 21
+        },
+        "context": "Français",
+        "contextKind": "li",
+        "html": "<a href=\"/fr/\" rel=\"alternate\" hreflang=\"fr\" lang=\"fr\">Français</a>"
+      },
+      {
+        "target": "#header > div:nth-of-type(2) > div:nth-of-type(3) > div > a",
+        "text": "Login",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://account.hydro.mb.ca/Portal",
+        "imgAlt": "",
+        "box": {
+          "x": 1191.046875,
+          "y": 26.375,
+          "w": 106.953125,
+          "h": 43
+        },
+        "context": "Français Login YOUR ACCOUNT OUTAGES PERMITS & SERVICE SAFETY NEWS & STORIES CUSTOMER SUPPORT",
+        "contextKind": "block",
+        "html": "<a href=\"https://account.hydro.mb.ca/Portal\" class=\"mht-btn login\">Login</a>"
+      },
+      {
+        "target": "#primary-menu > li:nth-of-type(5) > a",
+        "text": "NEWS & STORIES",
+        "ariaLabel": "",
+        "title": "News & stories",
+        "href": "/articles/",
+        "imgAlt": "",
+        "box": {
+          "x": 779.90625,
+          "y": 96.75,
+          "w": 152.9375,
+          "h": 49.59375
+        },
+        "context": "NEWS & STORIES",
+        "contextKind": "li",
+        "html": "<a href=\"/articles/\" title=\"News &amp; stories\">News &amp; stories</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(1) > div > p > a",
+        "text": "energy for life",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/energy-for-life/",
+        "imgAlt": "",
+        "box": {
+          "x": 356.328125,
+          "y": 429.109375,
+          "w": 121.71875,
+          "h": 21
+        },
+        "context": "In homes and businesses across this province, you can trust us to warm your nights, brighten your days and fuel your vision. When you need us, we’ll be there. Delivering energy for life – however you ",
+        "contextKind": "p",
+        "html": "<a href=\"/energy-for-life/\">energy for life</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > ul > li:nth-of-type(1) > a",
+        "text": "Submit your meter reading",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://account.hydro.mb.ca/Portal/servicerequestformprelogin.aspx?reason=submitMeterReading",
+        "imgAlt": "",
+        "box": {
+          "x": 60,
+          "y": 820.484375,
+          "w": 248.28125,
+          "h": 21
+        },
+        "context": "Submit your meter reading",
+        "contextKind": "li",
+        "html": "<a href=\"https://account.hydro.mb.ca/Portal/servicerequestformprelogin.aspx?reason=submitMeterReading\" class=\"mht-external\">Submit your meter reading</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > ul > li:nth-of-type(2) > a",
+        "text": "Get help paying your bill",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/account/loans/help/",
+        "imgAlt": "",
+        "box": {
+          "x": 60,
+          "y": 859.484375,
+          "w": 231.125,
+          "h": 21
+        },
+        "context": "Get help paying your bill",
+        "contextKind": "li",
+        "html": "<a href=\"/account/loans/help/\" class=\"mht-internal\">Get help paying your bill</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > ul > li:nth-of-type(3) > a",
+        "text": "Start, stop or move service",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/account/updates/",
+        "imgAlt": "",
+        "box": {
+          "x": 60,
+          "y": 898.484375,
+          "w": 249.09375,
+          "h": 21
+        },
+        "context": "Start, stop or move service",
+        "contextKind": "li",
+        "html": "<a href=\"/account/updates/\" class=\"mht-internal\">Start, stop or move service</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > ul > li:nth-of-type(1) > a",
+        "text": "Report a power outage",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/outages/report-outage/",
+        "imgAlt": "",
+        "box": {
+          "x": 482,
+          "y": 820.484375,
+          "w": 216.78125,
+          "h": 21
+        },
+        "context": "Report a power outage",
+        "contextKind": "li",
+        "html": "<a href=\"/outages/report-outage/\" class=\"mht-internal\">Report a power outage</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > ul > li:nth-of-type(2) > a",
+        "text": "Power outage map",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/outages/outage-map/",
+        "imgAlt": "",
+        "box": {
+          "x": 482,
+          "y": 859.484375,
+          "w": 180.40625,
+          "h": 21
+        },
+        "context": "Power outage map",
+        "contextKind": "li",
+        "html": "<a href=\"/outages/outage-map/\" class=\"mht-internal\">Power outage map</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > ul > li:nth-of-type(3) > a",
+        "text": "Prepare for a power outage",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/outages/be-prepared/",
+        "imgAlt": "",
+        "box": {
+          "x": 482,
+          "y": 898.484375,
+          "w": 256.03125,
+          "h": 21
+        },
+        "context": "Prepare for a power outage",
+        "contextKind": "li",
+        "html": "<a href=\"/outages/be-prepared/\" class=\"mht-internal\">Prepare for a power outage</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > ul > li:nth-of-type(1) > a",
+        "text": "Request a tree safety assessment",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/service/permits/tree-safety-assessment/",
+        "imgAlt": "",
+        "box": {
+          "x": 904,
+          "y": 820.484375,
+          "w": 309.859375,
+          "h": 21
+        },
+        "context": "Request a tree safety assessment",
+        "contextKind": "li",
+        "html": "<a href=\"/service/permits/tree-safety-assessment/\" class=\"mht-internal\">Request a tree safety assessment</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > ul > li:nth-of-type(2) > a",
+        "text": "Apply for a line locate",
+        "ariaLabel": "",
+        "title": "",
+        "href": "http://clickbeforeyoudigmb.com/submit-a-locate-request/",
+        "imgAlt": "",
+        "box": {
+          "x": 904,
+          "y": 859.484375,
+          "w": 209.234375,
+          "h": 21
+        },
+        "context": "Apply for a line locate",
+        "contextKind": "li",
+        "html": "<a href=\"http://clickbeforeyoudigmb.com/submit-a-locate-request/\" class=\"mht-external\">Apply for a line locate</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > ul > li:nth-of-type(3) > a",
+        "text": "Request temporary service disconnection",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/service/connections/temporary-disconnection/",
+        "imgAlt": "",
+        "box": {
+          "x": 904,
+          "y": 898.484375,
+          "w": 360.234375,
+          "h": 48
+        },
+        "context": "Request temporary service disconnection",
+        "contextKind": "li",
+        "html": "<a href=\"/service/connections/temporary-disconnection/\" class=\"mht-internal\">Request temporary service disconnection</a>"
+      },
+      {
+        "target": "div:nth-of-type(3) > div > div:nth-of-type(3) > p:nth-of-type(2) > a",
+        "text": "Learn more",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/careers/streams/trades/#technology",
+        "imgAlt": "",
+        "box": {
+          "x": 60,
+          "y": 1443,
+          "w": 134.265625,
+          "h": 43
+        },
+        "context": "Learn more",
+        "contextKind": "p",
+        "html": "<a href=\"/careers/streams/trades/#technology\" class=\"mht-btn\">Learn more</a>"
+      },
+      {
+        "target": "div:nth-of-type(4) > div > div:nth-of-type(3) > p:nth-of-type(2) > a",
+        "text": "Learn more",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/account/billing/payment/equal-payment-plan/",
+        "imgAlt": "",
+        "box": {
+          "x": 763,
+          "y": 2090.984375,
+          "w": 134.265625,
+          "h": 43
+        },
+        "context": "Learn more",
+        "contextKind": "p",
+        "html": "<a href=\"/account/billing/payment/equal-payment-plan/\" class=\"mht-btn\">Learn more</a>"
+      },
+      {
+        "target": "div > article:nth-of-type(1) > div:nth-of-type(1) > div > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/articles/2026/08/keep-safety-in-sight-this-harvest-season/",
+        "imgAlt": "Keep safety in sight this harvest season",
+        "box": {
+          "x": 60,
+          "y": 2342.265625,
+          "w": 388.65625,
+          "h": 259.09375
+        },
+        "context": "heading: Make budgeting easier with our Equal Payment Plan | KEEPING YOU SAFE AUGUST 26, 2026 Keep safety in sight this harvest season",
+        "contextKind": "block",
+        "html": "<a href=\"/articles/2026/08/keep-safety-in-sight-this-harvest-season/\" rel=\"bookmark\"><picture>\n        <source srcset=\"/assets/img/figurebox/tractor-tower-accident_hu_ce676942d62a70f3.webp 840w, /assets/img/figurebox/tractor-tower-accident_hu_21a6f3dc3e6f0ba2.webp 420w\" sizes=\"(min-width: 90em) 413p"
+      },
+      {
+        "target": "div:nth-of-type(2) > header > ul > li:nth-of-type(1) > a",
+        "text": "KEEPING YOU SAFE",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/articles/categories/keeping-you-safe/",
+        "imgAlt": "",
+        "box": {
+          "x": 60,
+          "y": 2618.359375,
+          "w": 130.25,
+          "h": 14
+        },
+        "context": "KEEPING YOU SAFE",
+        "contextKind": "li",
+        "html": "<a href=\"/articles/categories/keeping-you-safe/\" rel=\"tag\">Keeping you safe</a>"
+      },
+      {
+        "target": "article:nth-of-type(1) > div:nth-of-type(2) > header > h3 > a",
+        "text": "Keep safety in sight this harvest season",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/articles/2026/08/keep-safety-in-sight-this-harvest-season/",
+        "imgAlt": "",
+        "box": {
+          "x": 60,
+          "y": 2642.546875,
+          "w": 368.3125,
+          "h": 61.390625
+        },
+        "context": "heading: Keep safety in sight this harvest season | Keep safety in sight this harvest season",
+        "contextKind": "block",
+        "html": "<a href=\"/articles/2026/08/keep-safety-in-sight-this-harvest-season/\" rel=\"bookmark\">Keep safety in sight this harvest season</a>"
+      },
+      {
+        "target": "div > article:nth-of-type(2) > div:nth-of-type(1) > div > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/articles/2026/09/where-your-electricity-dollar-goes/",
+        "imgAlt": "Where your electricity dollar goes",
+        "box": {
+          "x": 488.65625,
+          "y": 2342.265625,
+          "w": 388.671875,
+          "h": 259.109375
+        },
+        "context": "heading: Keep safety in sight this harvest season | WORKING FOR YOU SEPTEMBER 2, 2026 Where your electricity dollar goes",
+        "contextKind": "block",
+        "html": "<a href=\"/articles/2026/09/where-your-electricity-dollar-goes/\" rel=\"bookmark\"><picture>\n        <source srcset=\"/assets/img/featured-thumbnails/energy-dollar-blog_hu_ee4ba2d45f2b0f1a.webp 840w, /assets/img/featured-thumbnails/energy-dollar-blog_hu_60c63e5741a29058.webp 420w\" sizes=\"(min-width: 90em"
+      },
+      {
+        "target": "div:nth-of-type(2) > header > ul > li:nth-of-type(1) > a",
+        "text": "WORKING FOR YOU",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/articles/categories/working-for-you/",
+        "imgAlt": "",
+        "box": {
+          "x": 488.65625,
+          "y": 2618.375,
+          "w": 131.359375,
+          "h": 14
+        },
+        "context": "WORKING FOR YOU",
+        "contextKind": "li",
+        "html": "<a href=\"/articles/categories/working-for-you/\" rel=\"tag\">Working for you</a>"
+      },
+      {
+        "target": "article:nth-of-type(2) > div:nth-of-type(2) > header > h3 > a",
+        "text": "Where your electricity dollar goes",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/articles/2026/09/where-your-electricity-dollar-goes/",
+        "imgAlt": "",
+        "box": {
+          "x": 488.65625,
+          "y": 2642.5625,
+          "w": 331.890625,
+          "h": 61.390625
+        },
+        "context": "heading: Where your electricity dollar goes | WORKING FOR YOU SEPTEMBER 2, 2026 Where your electricity dollar goes",
+        "contextKind": "block",
+        "html": "<a href=\"/articles/2026/09/where-your-electricity-dollar-goes/\" rel=\"bookmark\">Where your electricity dollar goes</a>"
+      },
+      {
+        "target": "div > article:nth-of-type(3) > div:nth-of-type(1) > div > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/articles/2026/07/a-treemendous-planting-day-at-mulvey-school/",
+        "imgAlt": "A “treemendous planting day” at Mulvey School",
+        "box": {
+          "x": 917.328125,
+          "y": 2342.265625,
+          "w": 388.65625,
+          "h": 259.09375
+        },
+        "context": "heading: Where your electricity dollar goes | OUR COMMUNITY JULY 8, 2026 A “treemendous planting day” at Mulvey School",
+        "contextKind": "block",
+        "html": "<a href=\"/articles/2026/07/a-treemendous-planting-day-at-mulvey-school/\" rel=\"bookmark\"><picture>\n        <source srcset=\"/assets/img/featured-thumbnails/forest-enhancement-mulvey-school_hu_c637890779848cf3.webp 840w, /assets/img/featured-thumbnails/forest-enhancement-mulvey-school_hu_f862c798c45608"
+      },
+      {
+        "target": "div:nth-of-type(2) > header > ul > li:nth-of-type(1) > a",
+        "text": "OUR COMMUNITY",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/articles/categories/our-community/",
+        "imgAlt": "",
+        "box": {
+          "x": 917.328125,
+          "y": 2618.359375,
+          "w": 119.953125,
+          "h": 14
+        },
+        "context": "OUR COMMUNITY",
+        "contextKind": "li",
+        "html": "<a href=\"/articles/categories/our-community/\" rel=\"tag\">Our community</a>"
+      },
+      {
+        "target": "article:nth-of-type(3) > div:nth-of-type(2) > header > h3 > a",
+        "text": "A “treemendous planting day” at Mulvey School",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/articles/2026/07/a-treemendous-planting-day-at-mulvey-school/",
+        "imgAlt": "",
+        "box": {
+          "x": 917.328125,
+          "y": 2642.546875,
+          "w": 380.484375,
+          "h": 61.390625
+        },
+        "context": "heading: A “treemendous planting day” at Mulvey School | A “treemendous planting day” at Mulvey School",
+        "contextKind": "block",
+        "html": "<a href=\"/articles/2026/07/a-treemendous-planting-day-at-mulvey-school/\" rel=\"bookmark\">A “treemendous planting day” at Mulvey School</a>"
+      },
+      {
+        "target": "#content-area > div:nth-of-type(6) > div > p > a",
+        "text": "More articles",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/articles/",
+        "imgAlt": "",
+        "box": {
+          "x": 608.109375,
+          "y": 2799.34375,
+          "w": 149.78125,
+          "h": 43
+        },
+        "context": "More articles",
+        "contextKind": "p",
+        "html": "<a href=\"/articles/\" class=\"mht-btn\">More articles</a>"
+      },
+      {
+        "target": "footer > div > div:nth-of-type(1) > div:nth-of-type(1) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/",
+        "imgAlt": "Manitoba Hydro - Energy for Life",
+        "box": {
+          "x": 60,
+          "y": 2985.34375,
+          "w": 181,
+          "h": 21
+        },
+        "context": "heading: A “treemendous planting day” at Mulvey School",
+        "contextKind": "heading-only",
+        "html": "<a href=\"/\" rel=\"home\"><img src=\"/mht/images/mb-hydro-logo-efl-white.svg\" width=\"181\" height=\"68\" alt=\"Manitoba Hydro - Energy for Life\" loading=\"lazy\"></a>"
+      },
+      {
+        "target": "nav > div > ul:nth-of-type(1) > li:nth-of-type(1) > a",
+        "text": "About us",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/corporate/",
+        "imgAlt": "",
+        "box": {
+          "x": 60,
+          "y": 3098.34375,
+          "w": 146,
+          "h": 29.796875
+        },
+        "context": "About us",
+        "contextKind": "li",
+        "html": "<a href=\"/corporate/\">About us</a>"
+      },
+      {
+        "target": "nav > div > ul:nth-of-type(1) > li:nth-of-type(2) > a",
+        "text": "Media",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/media/",
+        "imgAlt": "",
+        "box": {
+          "x": 60,
+          "y": 3128.140625,
+          "w": 146,
+          "h": 29.796875
+        },
+        "context": "Media",
+        "contextKind": "li",
+        "html": "<a href=\"/media/\">Media</a>"
+      },
+      {
+        "target": "nav > div > ul:nth-of-type(1) > li:nth-of-type(3) > a",
+        "text": "Careers",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/careers/",
+        "imgAlt": "",
+        "box": {
+          "x": 60,
+          "y": 3157.9375,
+          "w": 146,
+          "h": 29.796875
+        },
+        "context": "Careers",
+        "contextKind": "li",
+        "html": "<a href=\"/careers/\">Careers</a>"
+      },
+      {
+        "target": "nav > div > ul:nth-of-type(2) > li:nth-of-type(1) > a",
+        "text": "Engage with us",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/engage/",
+        "imgAlt": "",
+        "box": {
+          "x": 238,
+          "y": 3098.34375,
+          "w": 146,
+          "h": 29.796875
+        },
+        "context": "Engage with us",
+        "contextKind": "li",
+        "html": "<a href=\"/engage/\">Engage with us</a>"
+      },
+      {
+        "target": "nav > div > ul:nth-of-type(2) > li:nth-of-type(2) > a",
+        "text": "Community",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/community/",
+        "imgAlt": "",
+        "box": {
+          "x": 238,
+          "y": 3128.140625,
+          "w": 146,
+          "h": 29.796875
+        },
+        "context": "Community",
+        "contextKind": "li",
+        "html": "<a href=\"/community/\">Community</a>"
+      },
+      {
+        "target": "nav > div > ul:nth-of-type(2) > li:nth-of-type(3) > a",
+        "text": "Environment",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/environment/",
+        "imgAlt": "",
+        "box": {
+          "x": 238,
+          "y": 3157.9375,
+          "w": 146,
+          "h": 29.796875
+        },
+        "context": "Environment",
+        "contextKind": "li",
+        "html": "<a href=\"/environment/\">Environment</a>"
+      },
+      {
+        "target": "nav > div > ul:nth-of-type(3) > li:nth-of-type(1) > a",
+        "text": "For landlords",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/landlords/",
+        "imgAlt": "",
+        "box": {
+          "x": 416,
+          "y": 3098.34375,
+          "w": 146,
+          "h": 29.796875
+        },
+        "context": "For landlords",
+        "contextKind": "li",
+        "html": "<a href=\"/landlords/\">For landlords</a>"
+      },
+      {
+        "target": "nav > div > ul:nth-of-type(3) > li:nth-of-type(2) > a",
+        "text": "For business",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/business/",
+        "imgAlt": "",
+        "box": {
+          "x": 416,
+          "y": 3128.140625,
+          "w": 146,
+          "h": 29.796875
+        },
+        "context": "For business",
+        "contextKind": "li",
+        "html": "<a href=\"/business/\">For business</a>"
+      },
+      {
+        "target": "nav > div > ul:nth-of-type(3) > li:nth-of-type(3) > a",
+        "text": "For suppliers",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/suppliers/",
+        "imgAlt": "",
+        "box": {
+          "x": 416,
+          "y": 3157.9375,
+          "w": 146,
+          "h": 29.796875
+        },
+        "context": "For suppliers",
+        "contextKind": "li",
+        "html": "<a href=\"/suppliers/\">For suppliers</a>"
+      },
+      {
+        "target": "div:nth-of-type(1) > div:nth-of-type(2) > ul > li:nth-of-type(1) > a",
+        "text": "Facebook",
+        "ariaLabel": "",
+        "title": "Find us on Facebook",
+        "href": "https://www.facebook.com/manitobahydro",
+        "imgAlt": "",
+        "box": {
+          "x": 801,
+          "y": 2982.34375,
+          "w": 36,
+          "h": 36
+        },
+        "context": "Facebook",
+        "contextKind": "li",
+        "html": "<a class=\"link-facebook\" href=\"https://www.facebook.com/manitobahydro\" title=\"Find us on Facebook\" rel=\"me\">Facebook</a>"
+      },
+      {
+        "target": "div:nth-of-type(1) > div:nth-of-type(2) > ul > li:nth-of-type(2) > a",
+        "text": "X",
+        "ariaLabel": "",
+        "title": "Follow us on X",
+        "href": "https://www.twitter.com/manitobahydro",
+        "imgAlt": "",
+        "box": {
+          "x": 857,
+          "y": 2982.34375,
+          "w": 36,
+          "h": 36
+        },
+        "context": "X",
+        "contextKind": "li",
+        "html": "<a class=\"link-twitter\" href=\"https://www.twitter.com/manitobahydro\" title=\"Follow us on X\" rel=\"me\">X</a>"
+      },
+      {
+        "target": "div:nth-of-type(1) > div:nth-of-type(2) > ul > li:nth-of-type(3) > a",
+        "text": "YouTube",
+        "ariaLabel": "",
+        "title": "Watch us on YouTube",
+        "href": "https://www.youtube.com/user/ManitobaHydro",
+        "imgAlt": "",
+        "box": {
+          "x": 913,
+          "y": 2982.34375,
+          "w": 36,
+          "h": 36
+        },
+        "context": "YouTube",
+        "contextKind": "li",
+        "html": "<a class=\"link-youtube\" href=\"https://www.youtube.com/user/ManitobaHydro\" title=\"Watch us on YouTube\" rel=\"me\">YouTube</a>"
+      },
+      {
+        "target": "div:nth-of-type(1) > div:nth-of-type(2) > ul > li:nth-of-type(4) > a",
+        "text": "LinkedIn",
+        "ariaLabel": "",
+        "title": "Connect with us on LinkedIn",
+        "href": "https://www.linkedin.com/company/manitoba-hydro",
+        "imgAlt": "",
+        "box": {
+          "x": 969,
+          "y": 2982.34375,
+          "w": 36,
+          "h": 36
+        },
+        "context": "LinkedIn",
+        "contextKind": "li",
+        "html": "<a class=\"link-linkedin\" href=\"https://www.linkedin.com/company/manitoba-hydro\" title=\"Connect with us on LinkedIn\" rel=\"me\">LinkedIn</a>"
+      },
+      {
+        "target": "div:nth-of-type(1) > div:nth-of-type(2) > ul > li:nth-of-type(5) > a",
+        "text": "Instagram",
+        "ariaLabel": "",
+        "title": "Follow us on Instagram",
+        "href": "https://www.instagram.com/manitobahydro",
+        "imgAlt": "",
+        "box": {
+          "x": 1025,
+          "y": 2982.34375,
+          "w": 36,
+          "h": 36
+        },
+        "context": "Instagram",
+        "contextKind": "li",
+        "html": "<a class=\"link-instagram\" href=\"https://www.instagram.com/manitobahydro\" title=\"Follow us on Instagram\" rel=\"me\">Instagram</a>"
+      },
+      {
+        "target": "div:nth-of-type(1) > div:nth-of-type(2) > ul > li:nth-of-type(6) > a",
+        "text": "Bluesky",
+        "ariaLabel": "",
+        "title": "Follow us on Bluesky",
+        "href": "https://bsky.app/profile/hydro.mb.ca",
+        "imgAlt": "",
+        "box": {
+          "x": 1081,
+          "y": 2982.34375,
+          "w": 36,
+          "h": 36
+        },
+        "context": "Bluesky",
+        "contextKind": "li",
+        "html": "<a class=\"link-bluesky\" href=\"https://bsky.app/profile/hydro.mb.ca\" title=\"Follow us on Bluesky\" rel=\"me\">Bluesky</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > ul > li:nth-of-type(1) > a",
+        "text": "Site map",
+        "ariaLabel": "",
+        "title": "Site map",
+        "href": "/site-map/",
+        "imgAlt": "",
+        "box": {
+          "x": 801,
+          "y": 3275.734375,
+          "w": 52.765625,
+          "h": 16.796875
+        },
+        "context": "Site map",
+        "contextKind": "li",
+        "html": "<a href=\"/site-map/\" title=\"Site map\">Site map</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > ul > li:nth-of-type(2) > a",
+        "text": "Terms of use",
+        "ariaLabel": "",
+        "title": "Terms of use",
+        "href": "/terms-of-use/",
+        "imgAlt": "",
+        "box": {
+          "x": 872.796875,
+          "y": 3275.734375,
+          "w": 75.765625,
+          "h": 16.796875
+        },
+        "context": "Terms of use",
+        "contextKind": "li",
+        "html": "<a href=\"/terms-of-use/\" title=\"Terms of use\">Terms of use</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > ul > li:nth-of-type(3) > a",
+        "text": "Accessibility",
+        "ariaLabel": "",
+        "title": "Accessibility",
+        "href": "/accessibility/",
+        "imgAlt": "",
+        "box": {
+          "x": 967.59375,
+          "y": 3275.734375,
+          "w": 75.96875,
+          "h": 16.796875
+        },
+        "context": "Accessibility",
+        "contextKind": "li",
+        "html": "<a href=\"/accessibility/\" title=\"Accessibility\">Accessibility</a>"
+      }
+    ],
+    "headings": [
+      {
+        "target": "div > div > div:nth-of-type(1) > div > h1",
+        "level": 1,
+        "text": "Safe, affordable, reliable energy. Owned and operated by Manitobans.",
+        "visible": true,
+        "box": {
+          "x": 60,
+          "y": 206.34375,
+          "w": 593,
+          "h": 158.390625
+        },
+        "html": "<h1>Safe, affordable, reliable energy. Owned and operated by Manitobans.</h1>"
+      },
+      {
+        "target": "div > div:nth-of-type(1) > div > div:nth-of-type(1) > h2",
+        "level": 2,
+        "text": "Your account",
+        "visible": true,
+        "box": {
+          "x": 60,
+          "y": 690.921875,
+          "w": 278.8125,
+          "h": 44.1875
+        },
+        "html": "<h2 class=\"header-icon person-profile\">Your account</h2>"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > div > div:nth-of-type(1) > h2",
+        "level": 2,
+        "text": "Outages",
+        "visible": true,
+        "box": {
+          "x": 482,
+          "y": 690.921875,
+          "w": 203.53125,
+          "h": 44.1875
+        },
+        "html": "<h2 class=\"header-icon lightning-bolt\">Outages</h2>"
+      },
+      {
+        "target": "div > div:nth-of-type(3) > div > div:nth-of-type(1) > h2",
+        "level": 2,
+        "text": "Permits & service",
+        "visible": true,
+        "box": {
+          "x": 904,
+          "y": 690.921875,
+          "w": 350.484375,
+          "h": 44.1875
+        },
+        "html": "<h2 class=\"header-icon papers\">Permits &amp; service</h2>"
+      },
+      {
+        "target": "#content-area > div:nth-of-type(3) > div > div:nth-of-type(3) > h2",
+        "level": 2,
+        "text": "You were meant for this",
+        "visible": true,
+        "box": {
+          "x": 60,
+          "y": 1259.8125,
+          "w": 543,
+          "h": 43.1875
+        },
+        "html": "<h2>You were meant for this</h2>"
+      },
+      {
+        "target": "#content-area > div:nth-of-type(4) > div > div:nth-of-type(3) > h2",
+        "level": 2,
+        "text": "Make budgeting easier with our Equal Payment Plan",
+        "visible": true,
+        "box": {
+          "x": 763,
+          "y": 1864.609375,
+          "w": 543,
+          "h": 86.375
+        },
+        "html": "<h2>Make budgeting easier with our Equal Payment Plan</h2>"
+      },
+      {
+        "target": "div > article:nth-of-type(1) > div:nth-of-type(2) > header > h3",
+        "level": 3,
+        "text": "Keep safety in sight this harvest season",
+        "visible": true,
+        "box": {
+          "x": 60,
+          "y": 2641.546875,
+          "w": 388.65625,
+          "h": 64.78125
+        },
+        "html": "<h3 class=\"entry-title\"><a href=\"/articles/2026/08/keep-safety-in-sight-this-harvest-season/\" rel=\"bookmark\">Keep safety in sight this harvest season</a></h3>"
+      },
+      {
+        "target": "div > article:nth-of-type(2) > div:nth-of-type(2) > header > h3",
+        "level": 3,
+        "text": "Where your electricity dollar goes",
+        "visible": true,
+        "box": {
+          "x": 488.65625,
+          "y": 2641.5625,
+          "w": 388.671875,
+          "h": 64.78125
+        },
+        "html": "<h3 class=\"entry-title\"><a href=\"/articles/2026/09/where-your-electricity-dollar-goes/\" rel=\"bookmark\">Where your electricity dollar goes</a></h3>"
+      },
+      {
+        "target": "div > article:nth-of-type(3) > div:nth-of-type(2) > header > h3",
+        "level": 3,
+        "text": "A “treemendous planting day” at Mulvey School",
+        "visible": true,
+        "box": {
+          "x": 917.328125,
+          "y": 2641.546875,
+          "w": 388.65625,
+          "h": 64.78125
+        },
+        "html": "<h3 class=\"entry-title\"><a href=\"/articles/2026/07/a-treemendous-planting-day-at-mulvey-school/\" rel=\"bookmark\">A “treemendous planting day” at Mulvey School</a></h3>"
+      }
+    ],
+    "lang": "en",
+    "title": "Manitoba Hydro: Safe, affordable, reliable energy"
+  },
   "axe": {
     "violationRules": 0,
     "violationNodes": 0,

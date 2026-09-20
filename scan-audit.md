@@ -1,6 +1,6 @@
 # Scan audit — did the baseline actually look at these pages?
 
-Run 2026-09-19. 34 sites, 8000ms settle after networkidle.
+Run 2026-09-20. 34 sites, 8000ms settle after networkidle.
 
 The baseline run reported zero violations on several of these. This checks whether
 that meant "clean" or meant "nothing was examined".
@@ -10,7 +10,7 @@ that meant "clean" or meant "nothing was examined".
 | assiniboine.net | CLEAN ON RULES, OPEN ON JUDGEMENT | 0 | 54 | 727 | 898 |
 | www.brandon.ca | FAILURES DETECTED | 8 | 28 | 423 | 739 |
 | www.brandonu.ca | FAILURES DETECTED | 13 | 43 | 447 | 485 |
-| www.cancercare.mb.ca | FAILURES DETECTED | 11 | 8 | 342 | 726 |
+| www.cancercare.mb.ca | FAILURES DETECTED | 11 | 8 | 342 | 727 |
 | www.city-plap.com | FAILURES DETECTED | 2 | 4 | 454 | 725 |
 | www.cityofflinflon.ca | FAILURES DETECTED | 11 | 38 | 455 | 1087 |
 | www.cityofwinkler.ca | FAILURES DETECTED | 96 | 34 | 1015 | 1140 |
@@ -22,21 +22,21 @@ that meant "clean" or meant "nothing was examined".
 | www.mbll.ca | FAILURES DETECTED | 7 | 21 | 998 | 745 |
 | www.morden.ca | PAGE DID NOT RENDER | 1 | 0 | 35 | 47 |
 | www.mpi.mb.ca | FAILURES DETECTED | 13 | 80 | 363 | 477 |
-| www.myselkirk.ca | FAILURES DETECTED | 7 | 9 | 658 | 2724 |
+| www.myselkirk.ca | FAILURES DETECTED | 7 | 9 | 703 | 2724 |
 | northernhealthregion.com | FAILURES DETECTED | 26 | 19 | 458 | 1078 |
 | www.pembinatrails.ca | FAILURES DETECTED | 4 | 18 | 544 | 2524 |
 | prairiemountainhealth.ca | FAILURES DETECTED | 8 | 10 | 297 | 1002 |
 | www.retsd.mb.ca | FAILURES DETECTED | 2 | 52 | 740 | 2592 |
 | www.rrc.ca | CLEAN ON RULES, OPEN ON JUDGEMENT | 0 | 18 | 423 | 991 |
 | sharedhealthmb.ca | FAILURES DETECTED | 9 | 11 | 225 | 1696 |
-| www.sjasd.ca | FAILURES DETECTED | 13 | 38 | 767 | 2012 |
-| southernhealth.ca | FAILURES DETECTED | 27 | 17 | 572 | 1513 |
-| www.steinbach.ca | FAILURES DETECTED | 69 | 36 | 456 | 521 |
+| www.sjasd.ca | FAILURES DETECTED | 12 | 38 | 773 | 2020 |
+| southernhealth.ca | FAILURES DETECTED | 26 | 17 | 469 | 1513 |
+| www.steinbach.ca | FAILURES DETECTED | 69 | 36 | 456 | 522 |
 | www.thompson.ca | FAILURES DETECTED | 16 | 34 | 532 | 1132 |
 | www.travelmanitoba.com | FAILURES DETECTED | 55 | 77 | 905 | 2299 |
 | umanitoba.ca | CLEAN ON RULES, OPEN ON JUDGEMENT | 0 | 21 | 512 | 736 |
 | ustboniface.ca | FAILURES DETECTED | 1 | 20 | 585 | 1301 |
-| www.uwinnipeg.ca | FAILURES DETECTED | 8 | 11 | 513 | 613 |
+| www.uwinnipeg.ca | FAILURES DETECTED | 8 | 11 | 513 | 612 |
 | www.wcb.mb.ca | CLEAN ON RULES, OPEN ON JUDGEMENT | 0 | 21 | 336 | 744 |
 | www.winnipeg.ca | FAILURES DETECTED | 8 | 11 | 826 | 1479 |
 | www.winnipegsd.ca | FAILURES DETECTED | 2 | 27 | 454 | 1492 |

@@ -19,7 +19,969 @@
     "width": 1366,
     "height": 900
   },
-  "scannedAt": "2026-09-19T06:27:22.073Z",
+  "scannedAt": "2026-09-19T23:59:38.862Z",
+  "content": {
+    "images": [
+      {
+        "target": "div > div > div > a > img",
+        "tag": "img",
+        "src": "https://sb45storage.blob.core.windows.net/pub/themes/Wsd/images/WSDLogocmyk1a.png",
+        "alt": "Winnipeg School Division",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 1976,
+        "naturalHeight": 463,
+        "box": {
+          "x": 32,
+          "y": 99.6875,
+          "w": 309.9375,
+          "h": 72.625
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://sb45storage.blob.core.windows.net/pub/themes/Wsd/images/WSDLogocmyk1a.png\" alt=\"Winnipeg School Division\">"
+      },
+      {
+        "target": "div > a > div:nth-of-type(1) > picture > img",
+        "tag": "img",
+        "src": "https://media.winnipegsd.ca/media/Default/pgg/324/gn%20100th%20website.jpg",
+        "alt": "image description",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 998,
+        "naturalHeight": 561,
+        "box": {
+          "x": 20,
+          "y": 979,
+          "w": 301.5,
+          "h": 169.46875
+        },
+        "inLink": true,
+        "linkText": "Gordon Bell High School's 100th Anniversary December 4, 2025",
+        "linkHref": "/gordonbell/100th-anniversary",
+        "caption": "",
+        "nearText": "",
+        "html": "<img class=\"card-img-top lazyloaded\" data-expand=\"250\" data-src=\"https://media.winnipegsd.ca/media/Default/pgg/324/gn%20100th%20website.jpg\" alt=\"image description\" src=\"https://media.winnipegsd.ca/media/Default/pgg/324/gn%20100th%20website.jpg\">"
+      },
+      {
+        "target": "div > a > div:nth-of-type(1) > picture > img",
+        "tag": "img",
+        "src": "https://media.winnipegsd.ca/media/Default/pgg/5/WSD%20Fall%20Career%20Expo%20Fall%202026%20WEB%20Art.jpg",
+        "alt": "image description",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 1600,
+        "naturalHeight": 900,
+        "box": {
+          "x": 361.5,
+          "y": 979,
+          "w": 301.5,
+          "h": 169.59375
+        },
+        "inLink": true,
+        "linkText": "Fall Career Expo — October 22, 2026 June 30, 2026",
+        "linkHref": "/career-expo",
+        "caption": "",
+        "nearText": "",
+        "html": "<img class=\"card-img-top lazyloaded\" data-expand=\"250\" data-src=\"https://media.winnipegsd.ca/media/Default/pgg/5/WSD%20Fall%20Career%20Expo%20Fall%202026%20WEB%20Art.jpg\" alt=\"image description\" src=\"https://media.winnipegsd.ca/media/Default/pgg/5/WSD%20Fall%20Career%20Expo%20Fall%202026%20WEB%20Art.jpg\">"
+      },
+      {
+        "target": "div > a > div:nth-of-type(1) > picture > img",
+        "tag": "img",
+        "src": "https://media.winnipegsd.ca/media/Default/pgg/5/WSD%20Free%20Youth%20Transit%20Pass%20Pilot%20WEB%20Art.jpg",
+        "alt": "image description",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 1600,
+        "naturalHeight": 900,
+        "box": {
+          "x": 703,
+          "y": 979,
+          "w": 301.5,
+          "h": 169.59375
+        },
+        "inLink": true,
+        "linkText": "Free Youth Transit Pass Pilot September 3, 2026",
+        "linkHref": "/free-youth-transit-pass-pilot.38633",
+        "caption": "",
+        "nearText": "",
+        "html": "<img class=\"card-img-top lazyloaded\" data-expand=\"250\" data-src=\"https://media.winnipegsd.ca/media/Default/pgg/5/WSD%20Free%20Youth%20Transit%20Pass%20Pilot%20WEB%20Art.jpg\" alt=\"image description\" src=\"https://media.winnipegsd.ca/media/Default/pgg/5/WSD%20Free%20Youth%20Transit%20Pass%20Pilot%20WEB%20Art.jpg\">"
+      },
+      {
+        "target": "div:nth-of-type(2) > div > div:nth-of-type(2) > a > img:nth-of-type(1)",
+        "tag": "img",
+        "src": "https://sb45storage.blob.core.windows.net/pub/themes/Wsd/images/logo-sb.svg",
+        "alt": "SchoolBundle",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 156,
+        "naturalHeight": 20,
+        "box": {
+          "x": 1178,
+          "y": 2028.265625,
+          "w": 156,
+          "h": 20
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "http://www.schoolbundle.ca/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://sb45storage.blob.core.windows.net/pub/themes/Wsd/images/logo-sb.svg\" class=\"d-print-none\" width=\"156\" alt=\"SchoolBundle\">"
+      }
+    ],
+    "links": [
+      {
+        "target": "html > body > a:nth-of-type(1)",
+        "text": "Accessibility Screen-Reader Guide, Feedback, and Issue Reporting | New window",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://accessibe.com/blog/knowledgebase/screen-reader-guide",
+        "imgAlt": "",
+        "box": {
+          "x": 0,
+          "y": -1,
+          "w": 200,
+          "h": 1
+        },
+        "context": "",
+        "contextKind": "none",
+        "html": "<a href=\"https://accessibe.com/blog/knowledgebase/screen-reader-guide\" target=\"_blank\" rel=\"noopener\" tabindex=\"-1\" data-acsb=\"sr-trigger\" data-acsb-sr-only=\"true\" class=\"acsb-sr-only\" style=\"position: absolute; width: 200px; height: 1px; margin-top: -1px; z-index: -1; border: 0px; top: 0px; left: 0"
+      },
+      {
+        "target": "html > body > a:nth-of-type(2)",
+        "text": "Skip to main content",
+        "ariaLabel": "",
+        "title": "",
+        "href": "#main",
+        "imgAlt": "",
+        "box": {
+          "x": -1,
+          "y": -1,
+          "w": 1,
+          "h": 1
+        },
+        "context": "",
+        "contextKind": "none",
+        "html": "<a class=\"sr-only sr-only-focusable\" href=\"#main\" accesskey=\"c\">Skip to main content</a>"
+      },
+      {
+        "target": "div > div > ul:nth-of-type(1) > li:nth-of-type(1) > a",
+        "text": "CURRENT TEMP 19.8°C",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://weather.gc.ca/en/location/index.html?coords=49.889,-97.129",
+        "imgAlt": "",
+        "box": {
+          "x": 409.671875,
+          "y": 0,
+          "w": 181.25,
+          "h": 50
+        },
+        "context": "CURRENT TEMP 19.8°C",
+        "contextKind": "li",
+        "html": "<a target=\"_blank\" href=\"https://weather.gc.ca/en/location/index.html?coords=49.889,-97.129\">CURRENT TEMP <span class=\"ci-info\">19.8°C</span></a>"
+      },
+      {
+        "target": "div > div > ul:nth-of-type(1) > li:nth-of-type(2) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "javascript:",
+        "imgAlt": "",
+        "box": {
+          "x": 590.921875,
+          "y": 0,
+          "w": 28,
+          "h": 32
+        },
+        "context": "",
+        "contextKind": "li",
+        "html": "<a href=\"javascript:\" class=\"no-link\"> </a>"
+      },
+      {
+        "target": "div > div > ul:nth-of-type(1) > li:nth-of-type(3) > a",
+        "text": "STAFF",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/staff",
+        "imgAlt": "",
+        "box": {
+          "x": 618.921875,
+          "y": 0,
+          "w": 66.71875,
+          "h": 50
+        },
+        "context": "STAFF",
+        "contextKind": "li",
+        "html": "<a href=\"/staff\">STAFF</a>"
+      },
+      {
+        "target": "div > div > ul:nth-of-type(1) > li:nth-of-type(4) > a",
+        "text": "CONTACT US",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/contact-us",
+        "imgAlt": "",
+        "box": {
+          "x": 685.640625,
+          "y": 0,
+          "w": 108.09375,
+          "h": 50
+        },
+        "context": "CONTACT US",
+        "contextKind": "li",
+        "html": "<a href=\"/contact-us\">CONTACT US</a>"
+      },
+      {
+        "target": "#languageDropdown",
+        "text": "GOOGLE TRANSLATE",
+        "ariaLabel": "",
+        "title": "",
+        "href": "javascript:",
+        "imgAlt": "",
+        "box": {
+          "x": 793.734375,
+          "y": 0,
+          "w": 176.03125,
+          "h": 50
+        },
+        "context": "GOOGLE TRANSLATE",
+        "contextKind": "li",
+        "html": "<a href=\"javascript:\" class=\"dropdown-toggle\" id=\"languageDropdown\" data-toggle=\"dropdown\">GOOGLE TRANSLATE <span class=\"icon-caret\"></span></a>"
+      },
+      {
+        "target": "div > div > ul:nth-of-type(2) > li:nth-of-type(1) > a",
+        "text": "Join us on Facebook",
+        "ariaLabel": "facebook",
+        "title": "",
+        "href": "https://www.facebook.com/WinnipegSD",
+        "imgAlt": "",
+        "box": {
+          "x": 979.765625,
+          "y": 15,
+          "w": 20.109375,
+          "h": 22
+        },
+        "context": "Join us on Facebook",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.facebook.com/WinnipegSD\" target=\"_blank\" aria-label=\"facebook\"> <span class=\"icon-facebook\"><em class=\"sr-only\">Join us on Facebook</em></span> </a>"
+      },
+      {
+        "target": "div > div > ul:nth-of-type(2) > li:nth-of-type(2) > a",
+        "text": "Join us on Linkedin",
+        "ariaLabel": "linkedin",
+        "title": "",
+        "href": "https://www.linkedin.com/school/winnipegsd/",
+        "imgAlt": "",
+        "box": {
+          "x": 1019.875,
+          "y": 15,
+          "w": 20.125,
+          "h": 22
+        },
+        "context": "Join us on Linkedin",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.linkedin.com/school/winnipegsd/\" target=\"_blank\" aria-label=\"linkedin\"> <span class=\"icon-linkedin\"><em class=\"sr-only\">Join us on Linkedin</em></span> </a>"
+      },
+      {
+        "target": "div > div > ul:nth-of-type(2) > li:nth-of-type(3) > a",
+        "text": "Join us on Instagram",
+        "ariaLabel": "instagram",
+        "title": "",
+        "href": "https://www.instagram.com/winnipegsd/",
+        "imgAlt": "",
+        "box": {
+          "x": 1060,
+          "y": 15,
+          "w": 20,
+          "h": 22
+        },
+        "context": "Join us on Instagram",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.instagram.com/winnipegsd/\" target=\"_blank\" aria-label=\"instagram\"> <span class=\"icon-instagram\"><em class=\"sr-only\">Join us on Instagram</em></span> </a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div > div > div > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/",
+        "imgAlt": "Winnipeg School Division",
+        "box": {
+          "x": 32,
+          "y": 124.6875,
+          "w": 309.9375,
+          "h": 20
+        },
+        "context": "OUR DIVISION REGISTRATION SCHOOLS STUDENTS FAMILIES LEARNING GOVERNANCE CAREERS MEDIA CENTRE",
+        "contextKind": "block",
+        "html": "<a href=\"/\"><img src=\"https://sb45storage.blob.core.windows.net/pub/themes/Wsd/images/WSDLogocmyk1a.png\" alt=\"Winnipeg School Division\"></a>"
+      },
+      {
+        "target": "div > div:nth-of-type(1) > ul > li:nth-of-type(2) > a",
+        "text": "OUR DIVISION",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/about-wsd",
+        "imgAlt": "",
+        "box": {
+          "x": 428.4375,
+          "y": 76,
+          "w": 130.234375,
+          "h": 60
+        },
+        "context": "OUR DIVISION",
+        "contextKind": "li",
+        "html": "<a href=\"/about-wsd\" class=\"drop-opener has-drop-down-a\">Our Division <span class=\"ico icon-right-arrow\"></span></a>"
+      },
+      {
+        "target": "div > div:nth-of-type(1) > ul > li:nth-of-type(3) > a",
+        "text": "REGISTRATION",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/student-registration",
+        "imgAlt": "",
+        "box": {
+          "x": 558.671875,
+          "y": 76,
+          "w": 139.703125,
+          "h": 60
+        },
+        "context": "REGISTRATION",
+        "contextKind": "li",
+        "html": "<a href=\"/student-registration\" class=\"drop-opener\">Registration <span class=\"ico icon-right-arrow\"></span></a>"
+      },
+      {
+        "target": "div > div:nth-of-type(1) > ul > li:nth-of-type(4) > a",
+        "text": "SCHOOLS",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/our-schools",
+        "imgAlt": "",
+        "box": {
+          "x": 698.375,
+          "y": 76,
+          "w": 99.125,
+          "h": 60
+        },
+        "context": "SCHOOLS",
+        "contextKind": "li",
+        "html": "<a href=\"/our-schools\" class=\"drop-opener has-drop-down-a\">Schools <span class=\"ico icon-right-arrow\"></span></a>"
+      },
+      {
+        "target": "div > div:nth-of-type(1) > ul > li:nth-of-type(5) > a",
+        "text": "STUDENTS",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/students",
+        "imgAlt": "",
+        "box": {
+          "x": 797.5,
+          "y": 76,
+          "w": 106.234375,
+          "h": 60
+        },
+        "context": "STUDENTS",
+        "contextKind": "li",
+        "html": "<a href=\"/students\" class=\"drop-opener has-drop-down-a\">Students <span class=\"ico icon-right-arrow\"></span></a>"
+      },
+      {
+        "target": "div > div:nth-of-type(1) > ul > li:nth-of-type(6) > a",
+        "text": "FAMILIES",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/families",
+        "imgAlt": "",
+        "box": {
+          "x": 903.734375,
+          "y": 76,
+          "w": 93.78125,
+          "h": 60
+        },
+        "context": "FAMILIES",
+        "contextKind": "li",
+        "html": "<a href=\"/families\" class=\"drop-opener has-drop-down-a\">Families <span class=\"ico icon-right-arrow\"></span></a>"
+      },
+      {
+        "target": "div > div:nth-of-type(1) > ul > li:nth-of-type(7) > a",
+        "text": "LEARNING",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/learning",
+        "imgAlt": "",
+        "box": {
+          "x": 997.515625,
+          "y": 76,
+          "w": 103.5625,
+          "h": 60
+        },
+        "context": "LEARNING",
+        "contextKind": "li",
+        "html": "<a href=\"/learning\" class=\"drop-opener has-drop-down-a\">Learning <span class=\"ico icon-right-arrow\"></span></a>"
+      },
+      {
+        "target": "div > div:nth-of-type(1) > ul > li:nth-of-type(8) > a",
+        "text": "GOVERNANCE",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/governance",
+        "imgAlt": "",
+        "box": {
+          "x": 1101.078125,
+          "y": 76,
+          "w": 134.6875,
+          "h": 60
+        },
+        "context": "GOVERNANCE",
+        "contextKind": "li",
+        "html": "<a href=\"/governance\" class=\"drop-opener has-drop-down-a\">Governance <span class=\"ico icon-right-arrow\"></span></a>"
+      },
+      {
+        "target": "div > div:nth-of-type(1) > ul > li:nth-of-type(9) > a",
+        "text": "CAREERS",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/careers",
+        "imgAlt": "",
+        "box": {
+          "x": 1235.765625,
+          "y": 76,
+          "w": 98.234375,
+          "h": 60
+        },
+        "context": "CAREERS",
+        "contextKind": "li",
+        "html": "<a href=\"/careers\" class=\"drop-opener has-drop-down-a\">Careers <span class=\"ico icon-right-arrow\"></span></a>"
+      },
+      {
+        "target": "div > div:nth-of-type(1) > ul > li:nth-of-type(10) > a",
+        "text": "MEDIA CENTRE",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/media-centre",
+        "imgAlt": "",
+        "box": {
+          "x": 1192.8125,
+          "y": 136,
+          "w": 141.1875,
+          "h": 60
+        },
+        "context": "MEDIA CENTRE",
+        "contextKind": "li",
+        "html": "<a href=\"/media-centre\" class=\"drop-opener has-drop-down-a\">Media Centre <span class=\"ico icon-right-arrow\"></span></a>"
+      },
+      {
+        "target": "div:nth-of-type(3) > div > div:nth-of-type(2) > div > a",
+        "text": "Gordon Bell and Buckets & Borders Public Kick Off — September 25, 2026",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/gordon-bell-and-buckets-borders-public-kick-off-september-25-2026.38822",
+        "imgAlt": "",
+        "box": {
+          "x": 968,
+          "y": 327,
+          "w": 285.578125,
+          "h": 177
+        },
+        "context": "Gordon Bell and Buckets & Borders Public Kick Off — September 25, 2026",
+        "contextKind": "block",
+        "html": "<a href=\"/gordon-bell-and-buckets-borders-public-kick-off-september-25-2026.38822\" tabindex=\"-1\"><span class=\"box-ellip\">Gordon Bell and Buckets &amp; Borders Public Kick Off — September 25, 2026</span></a>"
+      },
+      {
+        "target": "div:nth-of-type(3) > div > div:nth-of-type(2) > div > a",
+        "text": "Tec-Voc's 75th Kick Off — September 24, 2026",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/tec-vocs-75th-kick-off-september-24-2026.38816",
+        "imgAlt": "",
+        "box": {
+          "x": 968,
+          "y": 327,
+          "w": 336.34375,
+          "h": 81
+        },
+        "context": "Tec-Voc's 75th Kick Off — September 24, 2026",
+        "contextKind": "block",
+        "html": "<a href=\"/tec-vocs-75th-kick-off-september-24-2026.38816\" tabindex=\"-1\"><span class=\"box-ellip\">Tec-Voc's 75th Kick Off — September 24, 2026</span></a>"
+      },
+      {
+        "target": "div:nth-of-type(3) > div > div:nth-of-type(2) > div > a",
+        "text": "Proclamation – Peace Days — September 11 to 28, 2026",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/proclamation-peace-days-september-11-to-28-2026.38777",
+        "imgAlt": "",
+        "box": {
+          "x": 968,
+          "y": 327,
+          "w": 319.203125,
+          "h": 129
+        },
+        "context": "Proclamation – Peace Days — September 11 to 28, 2026",
+        "contextKind": "block",
+        "html": "<a href=\"/proclamation-peace-days-september-11-to-28-2026.38777\" tabindex=\"0\"><span class=\"box-ellip\">Proclamation – Peace Days — September 11 to 28, 2026</span></a>"
+      },
+      {
+        "target": "div:nth-of-type(3) > div > div:nth-of-type(2) > div > a",
+        "text": "Dagwaagin Pow Wow — September 24, 2026",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/dagwaagin-pow-wow-september-24-2026.38607",
+        "imgAlt": "",
+        "box": {
+          "x": 968,
+          "y": 327,
+          "w": 324.515625,
+          "h": 81
+        },
+        "context": "",
+        "contextKind": "none",
+        "html": "<a href=\"/dagwaagin-pow-wow-september-24-2026.38607\" tabindex=\"-1\"><span class=\"box-ellip\">Dagwaagin Pow Wow — September 24, 2026</span></a>"
+      },
+      {
+        "target": "div:nth-of-type(3) > div > div:nth-of-type(2) > div > a",
+        "text": "Terry Fox Marathon of Hope Month – September",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/terry-fox-marathon-of-hope-month-september.33487",
+        "imgAlt": "",
+        "box": {
+          "x": 968,
+          "y": 327,
+          "w": 320.78125,
+          "h": 129
+        },
+        "context": "Terry Fox Marathon of Hope Month – September",
+        "contextKind": "block",
+        "html": "<a href=\"/terry-fox-marathon-of-hope-month-september.33487\" tabindex=\"-1\"><span class=\"box-ellip\">Terry Fox Marathon of Hope Month – September</span></a>"
+      },
+      {
+        "target": "section:nth-of-type(2) > div > div:nth-of-type(1) > div > a",
+        "text": "Read More About Our News More News",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/news",
+        "imgAlt": "",
+        "box": {
+          "x": 1178,
+          "y": 909,
+          "w": 168,
+          "h": 50
+        },
+        "context": "Other Stories in the News Read More About Our News More News",
+        "contextKind": "block",
+        "html": "<a href=\"/news\" class=\"btn btn-primary t_pb-b t_pb-r\"><span class=\"seo-desc\">Read More About Our News</span>More News</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > div:nth-of-type(1) > div > a",
+        "text": "Gordon Bell High School's 100th Anniversary December 4, 2025",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/gordonbell/100th-anniversary",
+        "imgAlt": "image description",
+        "box": {
+          "x": 20,
+          "y": 979,
+          "w": 301.5,
+          "h": 292.515625
+        },
+        "context": "Gordon Bell High School's 100th Anniversary December 4, 2025",
+        "contextKind": "block",
+        "html": "<a href=\"/gordonbell/100th-anniversary\"> <div class=\"img-holder\"> <picture> <source data-srcset=\"https://media.winnipegsd.ca/media/Default/pgg/324/gn%20100th%20website.jpg\" srcset=\"https://media.winnipegsd.ca/media/Default/pgg/324/gn%20100th%20website.jpg\"> <img class=\"card-img-top lazyloaded\" data-"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > div:nth-of-type(2) > div > a",
+        "text": "Fall Career Expo — October 22, 2026 June 30, 2026",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/career-expo",
+        "imgAlt": "image description",
+        "box": {
+          "x": 361.5,
+          "y": 979,
+          "w": 301.5,
+          "h": 292.640625
+        },
+        "context": "Fall Career Expo — October 22, 2026 June 30, 2026",
+        "contextKind": "block",
+        "html": "<a href=\"/career-expo\"> <div class=\"img-holder\"> <picture> <source data-srcset=\"https://media.winnipegsd.ca/media/Default/pgg/5/WSD%20Fall%20Career%20Expo%20Fall%202026%20WEB%20Art.jpg\" srcset=\"https://media.winnipegsd.ca/media/Default/pgg/5/WSD%20Fall%20Career%20Expo%20Fall%202026%20WEB%20Art.jpg\">"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > div:nth-of-type(3) > div > a",
+        "text": "Free Youth Transit Pass Pilot September 3, 2026",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/free-youth-transit-pass-pilot.38633",
+        "imgAlt": "image description",
+        "box": {
+          "x": 703,
+          "y": 979,
+          "w": 301.5,
+          "h": 292.640625
+        },
+        "context": "Free Youth Transit Pass Pilot September 3, 2026",
+        "contextKind": "block",
+        "html": "<a href=\"/free-youth-transit-pass-pilot.38633\"> <div class=\"img-holder\"> <picture> <source data-srcset=\"https://media.winnipegsd.ca/media/Default/pgg/5/WSD%20Free%20Youth%20Transit%20Pass%20Pilot%20WEB%20Art.jpg\" srcset=\"https://media.winnipegsd.ca/media/Default/pgg/5/WSD%20Free%20Youth%20Transit%20"
+      },
+      {
+        "target": "div:nth-of-type(2) > div:nth-of-type(4) > ul > li > a",
+        "text": "School Trustee Elections",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/school-board-trustee-elections",
+        "imgAlt": "",
+        "box": {
+          "x": 1044.5,
+          "y": 996,
+          "w": 264.140625,
+          "h": 27
+        },
+        "context": "School Trustee Elections",
+        "contextKind": "li",
+        "html": "<a class=\"t_pb-f\" href=\"/school-board-trustee-elections\">School Trustee Elections</a>"
+      },
+      {
+        "target": "#readspeaker_button1 > a",
+        "text": "Listen",
+        "ariaLabel": "Listen",
+        "title": "Listen to this page using ReadSpeaker webReader",
+        "href": "//app-na.readspeaker.com/cgi-bin/rsent?customerid=9900&lang=en_us&voice=Sophie&readid=main&url=https%3a%2f%2fwww.winnipegsd.ca%2f",
+        "imgAlt": "",
+        "box": {
+          "x": 20,
+          "y": 1263.640625,
+          "w": 149.140625,
+          "h": 28
+        },
+        "context": "",
+        "contextKind": "none",
+        "html": "<a rel=\"nofollow\" class=\"rsbtn_play\" title=\"Listen to this page using ReadSpeaker webReader\" href=\"//app-na.readspeaker.com/cgi-bin/rsent?customerid=9900&amp;lang=en_us&amp;voice=Sophie&amp;readid=main&amp;url=https%3a%2f%2fwww.winnipegsd.ca%2f\" role=\"button\" aria-label=\"Listen\" data-rs-tooltip=\".\" "
+      },
+      {
+        "target": "div:nth-of-type(2) > div:nth-of-type(1) > div > div > a",
+        "text": "View All Events",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/calendar",
+        "imgAlt": "",
+        "box": {
+          "x": 1178,
+          "y": 1446.640625,
+          "w": 168,
+          "h": 50
+        },
+        "context": "Today is Sat. Sep 19, 2026 - View All Events",
+        "contextKind": "block",
+        "html": "<a href=\"/calendar\" class=\"btn btn-primary t_pb-b t_pb-r\">View All Events</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > a",
+        "text": "Dagwaagin Pow Wow",
+        "ariaLabel": "Dagwaagin Pow Wow",
+        "title": "",
+        "href": "javascript:",
+        "imgAlt": "",
+        "box": {
+          "x": 20,
+          "y": 1570.640625,
+          "w": 173.4375,
+          "h": 55.078125
+        },
+        "context": "Thu. Sep. 24 Dagwaagin Pow Wow 10:00 AM - 1:30 PM",
+        "contextKind": "block",
+        "html": "<a href=\"javascript:\" class=\"event-opener t_pd-f\" aria-label=\"Dagwaagin Pow Wow\">Dagwaagin Pow Wow</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > a",
+        "text": "National Day for Truth & Reconciliation",
+        "ariaLabel": "National Day for Truth & Reconciliation",
+        "title": "",
+        "href": "javascript:",
+        "imgAlt": "",
+        "box": {
+          "x": 292,
+          "y": 1570.640625,
+          "w": 172.078125,
+          "h": 83.15625
+        },
+        "context": "Wed. Sep. 30 National Day for Truth & Reconciliation All Day",
+        "contextKind": "block",
+        "html": "<a href=\"javascript:\" class=\"event-opener t_pd-f\" aria-label=\"National Day for Truth &amp; Reconciliation\">National Day for Truth &amp; Reconciliation</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(3) > div:nth-of-type(1) > a",
+        "text": "Public Board Meeting",
+        "ariaLabel": "Public Board Meeting",
+        "title": "",
+        "href": "javascript:",
+        "imgAlt": "",
+        "box": {
+          "x": 564,
+          "y": 1570.640625,
+          "w": 136.078125,
+          "h": 55.078125
+        },
+        "context": "Mon. Oct. 5 Public Board Meeting 7:00 PM - 9:00 PM",
+        "contextKind": "block",
+        "html": "<a href=\"javascript:\" class=\"event-opener t_pd-f\" aria-label=\"Public Board Meeting\">Public Board Meeting</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(4) > div:nth-of-type(1) > a",
+        "text": "Non-Instructional Day",
+        "ariaLabel": "Non-Instructional Day",
+        "title": "",
+        "href": "javascript:",
+        "imgAlt": "",
+        "box": {
+          "x": 836,
+          "y": 1570.640625,
+          "w": 181.421875,
+          "h": 55.078125
+        },
+        "context": "Tue. Oct. 6 Non-Instructional Day 8:30 AM - 4:30 PM",
+        "contextKind": "block",
+        "html": "<a href=\"javascript:\" class=\"event-opener t_pd-f\" aria-label=\"Non-Instructional Day\">Non-Instructional Day</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(5) > div:nth-of-type(1) > a",
+        "text": "Thanksgiving",
+        "ariaLabel": "Thanksgiving",
+        "title": "",
+        "href": "javascript:",
+        "imgAlt": "",
+        "box": {
+          "x": 1108,
+          "y": 1570.640625,
+          "w": 141.421875,
+          "h": 27
+        },
+        "context": "",
+        "contextKind": "none",
+        "html": "<a href=\"javascript:\" class=\"event-opener t_pd-f\" aria-label=\"Thanksgiving\">Thanksgiving</a>"
+      },
+      {
+        "target": "div:nth-of-type(1) > div > div:nth-of-type(1) > div > a",
+        "text": "204-775-0231",
+        "ariaLabel": "",
+        "title": "",
+        "href": "tel:2047750231",
+        "imgAlt": "",
+        "box": {
+          "x": 87.71875,
+          "y": 1861.953125,
+          "w": 99.640625,
+          "h": 17
+        },
+        "context": "Phone: 204-775-0231 Fax: 204-772-6464 E-mail: WSD@wsd1.org",
+        "contextKind": "block",
+        "html": "<a href=\"tel:2047750231\">204-775-0231</a>"
+      },
+      {
+        "target": "div:nth-of-type(1) > div > div:nth-of-type(2) > div > a",
+        "text": "204-772-6464",
+        "ariaLabel": "",
+        "title": "",
+        "href": "tel:2047726464",
+        "imgAlt": "",
+        "box": {
+          "x": 243.484375,
+          "y": 1861.953125,
+          "w": 99.640625,
+          "h": 17
+        },
+        "context": "Phone: 204-775-0231 Fax: 204-772-6464 E-mail: WSD@wsd1.org",
+        "contextKind": "block",
+        "html": "<a href=\"tel:2047726464\">204-772-6464</a>"
+      },
+      {
+        "target": "div:nth-of-type(1) > div > div:nth-of-type(3) > div > a",
+        "text": "WSD@wsd1.org",
+        "ariaLabel": "",
+        "title": "",
+        "href": "mailto:WSD@wsd1.org",
+        "imgAlt": "",
+        "box": {
+          "x": 417.90625,
+          "y": 1861.953125,
+          "w": 118.5,
+          "h": 17
+        },
+        "context": "Phone: 204-775-0231 Fax: 204-772-6464 E-mail: WSD@wsd1.org",
+        "contextKind": "block",
+        "html": "<a href=\"mailto:WSD@wsd1.org\">WSD@wsd1.org</a>"
+      },
+      {
+        "target": "#footer-body > div:nth-of-type(1) > ul > li:nth-of-type(1) > a",
+        "text": "Join us on Facebook",
+        "ariaLabel": "facebook",
+        "title": "",
+        "href": "https://www.facebook.com/WinnipegSD",
+        "imgAlt": "",
+        "box": {
+          "x": 39,
+          "y": 1898.953125,
+          "w": 20.109375,
+          "h": 22
+        },
+        "context": "Join us on Facebook",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.facebook.com/WinnipegSD\" target=\"_blank\" aria-label=\"facebook\"> <span class=\"icon-facebook\"><em class=\"sr-only\">Join us on Facebook</em></span> </a>"
+      },
+      {
+        "target": "#footer-body > div:nth-of-type(1) > ul > li:nth-of-type(2) > a",
+        "text": "Join us on Linkedin",
+        "ariaLabel": "linkedin",
+        "title": "",
+        "href": "https://www.linkedin.com/school/winnipegsd/",
+        "imgAlt": "",
+        "box": {
+          "x": 79.109375,
+          "y": 1898.953125,
+          "w": 20.125,
+          "h": 22
+        },
+        "context": "Join us on Linkedin",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.linkedin.com/school/winnipegsd/\" target=\"_blank\" aria-label=\"linkedin\"> <span class=\"icon-linkedin\"><em class=\"sr-only\">Join us on Linkedin</em></span> </a>"
+      },
+      {
+        "target": "#footer-body > div:nth-of-type(1) > ul > li:nth-of-type(3) > a",
+        "text": "Join us on Instagram",
+        "ariaLabel": "instagram",
+        "title": "",
+        "href": "https://www.instagram.com/winnipegsd/",
+        "imgAlt": "",
+        "box": {
+          "x": 119.234375,
+          "y": 1898.953125,
+          "w": 20,
+          "h": 22
+        },
+        "context": "Join us on Instagram",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.instagram.com/winnipegsd/\" target=\"_blank\" aria-label=\"instagram\"> <span class=\"icon-instagram\"><em class=\"sr-only\">Join us on Instagram</em></span> </a>"
+      },
+      {
+        "target": "div > div:nth-of-type(1) > ul > li:nth-of-type(1) > a",
+        "text": "Contact Us",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/contact-us",
+        "imgAlt": "",
+        "box": {
+          "x": 32,
+          "y": 2017.875,
+          "w": 63.34375,
+          "h": 14
+        },
+        "context": "Contact Us",
+        "contextKind": "li",
+        "html": "<a href=\"/contact-us\">Contact Us</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(1) > ul > li:nth-of-type(2) > a",
+        "text": "Site Map",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/sitemap",
+        "imgAlt": "",
+        "box": {
+          "x": 120.34375,
+          "y": 2017.875,
+          "w": 49.34375,
+          "h": 14
+        },
+        "context": "Site Map",
+        "contextKind": "li",
+        "html": "<a href=\"/sitemap\">Site Map</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(1) > ul > li:nth-of-type(3) > a",
+        "text": "Admin Login",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://sitegovern.winnipegsd.ca/site",
+        "imgAlt": "",
+        "box": {
+          "x": 194.6875,
+          "y": 2017.875,
+          "w": 73.328125,
+          "h": 14
+        },
+        "context": "Admin Login",
+        "contextKind": "li",
+        "html": "<a href=\"https://sitegovern.winnipegsd.ca/site\" target=\"_blank\">Admin Login</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(1) > ul > li:nth-of-type(4) > a",
+        "text": "Staff",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/staff",
+        "imgAlt": "",
+        "box": {
+          "x": 293.015625,
+          "y": 2017.875,
+          "w": 26.671875,
+          "h": 14
+        },
+        "context": "Staff",
+        "contextKind": "li",
+        "html": "<a href=\"/staff\">Staff</a>"
+      },
+      {
+        "target": "#footer > div:nth-of-type(2) > div > div:nth-of-type(2) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "http://www.schoolbundle.ca/",
+        "imgAlt": "SchoolBundle SchoolBundle",
+        "box": {
+          "x": 1178,
+          "y": 2030.375,
+          "w": 156,
+          "h": 14
+        },
+        "context": "Contact Us Site Map Admin Login Staff Copyright © 2023 Winnipeg School Division. All Rights Reserved.",
+        "contextKind": "block",
+        "html": "<a href=\"http://www.schoolbundle.ca/\" target=\"_blank\"> <img src=\"https://sb45storage.blob.core.windows.net/pub/themes/Wsd/images/logo-sb.svg\" class=\"d-print-none\" width=\"156\" alt=\"SchoolBundle\"> <img src=\"https://sb45storage.blob.core.windows.net/pub/themes/Wsd/images/logo-sb-print.svg\" class=\"print"
+      },
+      {
+        "target": "html > body > a:nth-of-type(3)",
+        "text": "Back to top",
+        "ariaLabel": "",
+        "title": "",
+        "href": "#wrapper",
+        "imgAlt": "",
+        "box": {
+          "x": -1,
+          "y": 2089.875,
+          "w": 1,
+          "h": 1
+        },
+        "context": "",
+        "contextKind": "none",
+        "html": "<a class=\"sr-only sr-only-focusable\" href=\"#wrapper\" accesskey=\"t\">Back to top</a>"
+      }
+    ],
+    "headings": [],
+    "lang": "en",
+    "title": "Winnipeg School Division"
+  },
   "axe": {
     "violationRules": 1,
     "violationNodes": 2,

@@ -19,16 +19,2219 @@
     "width": 1366,
     "height": 900
   },
-  "scannedAt": "2026-09-19T06:20:36.457Z",
+  "scannedAt": "2026-09-19T23:52:56.927Z",
+  "content": {
+    "images": [
+      {
+        "target": "div:nth-of-type(2) > header > div > a > img:nth-of-type(1)",
+        "tag": "img",
+        "src": "https://www.myselkirk.ca/wp-content/uploads/2025/02/selkirk_logo_header_tagline.webp",
+        "alt": "City of Selkirk",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 240,
+        "naturalHeight": 83,
+        "box": {
+          "x": 163,
+          "y": 54.5,
+          "w": 240,
+          "h": 83
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "https://www.myselkirk.ca/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img class=\" preload-me\" src=\"https://www.myselkirk.ca/wp-content/uploads/2025/02/selkirk_logo_header_tagline.webp\" srcset=\"https://www.myselkirk.ca/wp-content/uploads/2025/02/selkirk_logo_header_tagline.webp 240w, https://www.myselkirk.ca/wp-content/uploads/2025/02/selkirk_logo_header_tagline.webp 240w\" width=\"240\" height=\"83\" sizes=\"240px\" alt=\"City of Selkirk\">"
+      },
+      {
+        "target": "#SR7_31_1-184-34",
+        "tag": "sr7-bg",
+        "src": "",
+        "alt": null,
+        "ariaLabel": "image of a person filling a cup up with water",
+        "role": "img",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0,
+        "box": {
+          "x": 0,
+          "y": 146,
+          "w": 1366,
+          "h": 600
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "October 28, 2026 CLICK FOR MORE INFO 2026 Municipal Election",
+        "html": "<sr7-bg id=\"SR7_31_1-184-34\" class=\"sr7-layer\" aria-hidden=\"false\" role=\"img\" aria-label=\"image of a person filling a cup up with water\" data-type=\"shape\" data-subtype=\"slidebg\" style=\"padding: 0px; width: 100%; height: 600px; display: block; visibility: visible; pointer-events: none; opacity: 1;\"><canvas data-use-for=\"BGContentImage\" width=\"1366\" height=\"600\" style=\"width: 1366px; height: 600px; "
+      },
+      {
+        "target": "#SR7_31_1-188-34",
+        "tag": "sr7-bg",
+        "src": "",
+        "alt": null,
+        "ariaLabel": "image of a person filling a cup up with water",
+        "role": "img",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0,
+        "box": {
+          "x": 0,
+          "y": 146,
+          "w": 1366,
+          "h": 600
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "October 28, 2026 CLICK FOR MORE INFO 2026 Municipal Election",
+        "html": "<sr7-bg id=\"SR7_31_1-188-34\" class=\"sr7-layer\" aria-hidden=\"false\" role=\"img\" aria-label=\"image of a person filling a cup up with water\" data-type=\"shape\" data-subtype=\"slidebg\" style=\"padding: 0px; width: 100%; height: 600px; display: block; visibility: inherit; pointer-events: none; opacity: 1;\"><canvas data-use-for=\"BGContentImage\" width=\"1366\" height=\"600\" style=\"width: 1366px; height: 600px; "
+      },
+      {
+        "target": "div:nth-of-type(1) > div > div > a > img",
+        "tag": "img",
+        "src": "https://www.myselkirk.ca/wp-content/uploads/2026/05/selkirk-blue-book-mini-slider-png.webp",
+        "alt": "aerial image of Manitoba Avenue East at sunset with text that reads \"Blue Book 2026. Your community information guide.\"",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 300,
+        "naturalHeight": 150,
+        "box": {
+          "x": -1251.5404052734375,
+          "y": 806,
+          "w": 191.65625,
+          "h": 95.828125
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "https://www.myselkirk.ca/community-services/blue-book/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img decoding=\"async\" width=\"300\" height=\"150\" class=\"attachment-full size-full preload-me aspect lazy lazy-scroll owl-thumb-lazy-load-show is-loaded\" alt=\"aerial image of Manitoba Avenue East at sunset with text that reads &quot;Blue Book 2026. Your community information guide.&quot;\" style=\"--ratio: 300 / 150;\" loading=\"eager\" src=\"https://www.myselkirk.ca/wp-content/uploads/2026/05/selkirk-blue"
+      },
+      {
+        "target": "div:nth-of-type(2) > div > div > a > img",
+        "tag": "img",
+        "src": "https://www.myselkirk.ca/wp-content/uploads/2023/09/Public-Hearing-mini-slider-jpg.webp",
+        "alt": "Selkirk Public Hearings",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 300,
+        "naturalHeight": 150,
+        "box": {
+          "x": -1044.8841552734375,
+          "y": 806,
+          "w": 191.65625,
+          "h": 95.828125
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "https://www.myselkirk.ca/publichearings",
+        "caption": "",
+        "nearText": "",
+        "html": "<img decoding=\"async\" width=\"300\" height=\"150\" class=\"attachment-full size-full preload-me aspect lazy lazy-scroll owl-thumb-lazy-load-show is-loaded\" alt=\"Selkirk Public Hearings\" style=\"--ratio: 300 / 150;\" loading=\"eager\" src=\"https://www.myselkirk.ca/wp-content/uploads/2023/09/Public-Hearing-mini-slider-jpg.webp\">"
+      },
+      {
+        "target": "div:nth-of-type(3) > div > div > a > img",
+        "tag": "img",
+        "src": "https://www.myselkirk.ca/wp-content/uploads/2023/09/Transit-Mini-Slider-jpg.webp",
+        "alt": "Selkirk Transit Route and Schedule Information",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 300,
+        "naturalHeight": 150,
+        "box": {
+          "x": -838.2279052734375,
+          "y": 806,
+          "w": 191.65625,
+          "h": 95.828125
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "http://mysta.ca/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img decoding=\"async\" width=\"300\" height=\"150\" class=\"attachment-full size-full preload-me aspect lazy lazy-scroll owl-thumb-lazy-load-show is-loaded\" alt=\"Selkirk Transit Route and Schedule Information\" style=\"--ratio: 300 / 150;\" loading=\"eager\" src=\"https://www.myselkirk.ca/wp-content/uploads/2023/09/Transit-Mini-Slider-jpg.webp\">"
+      },
+      {
+        "target": "div:nth-of-type(4) > div > div > a > img",
+        "tag": "img",
+        "src": "https://www.myselkirk.ca/wp-content/uploads/2026/05/2026-elections-mini-slider-png.webp",
+        "alt": "2026 Elections Mini Slider",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 300,
+        "naturalHeight": 150,
+        "box": {
+          "x": -631.5716552734375,
+          "y": 806,
+          "w": 191.65625,
+          "h": 95.828125
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "https://www.myselkirk.ca/city-government/city-council/election2026/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img decoding=\"async\" width=\"300\" height=\"150\" class=\"attachment-full size-full preload-me aspect lazy lazy-scroll owl-thumb-lazy-load-show is-loaded\" alt=\"2026 Elections Mini Slider\" style=\"--ratio: 300 / 150;\" loading=\"eager\" src=\"https://www.myselkirk.ca/wp-content/uploads/2026/05/2026-elections-mini-slider-png.webp\">"
+      },
+      {
+        "target": "div:nth-of-type(5) > div > div > a > img",
+        "tag": "img",
+        "src": "https://www.myselkirk.ca/wp-content/uploads/2023/09/Council-Mini-Slider-jpg.webp",
+        "alt": "Image of Mayor and Council",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 300,
+        "naturalHeight": 150,
+        "box": {
+          "x": -424.9154052734375,
+          "y": 806,
+          "w": 191.65625,
+          "h": 95.828125
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "https://www.myselkirk.ca/city-government/city-council/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img decoding=\"async\" width=\"300\" height=\"150\" class=\"attachment-full size-full preload-me aspect lazy lazy-scroll owl-thumb-lazy-load-show is-loaded\" alt=\"Image of Mayor and Council\" style=\"--ratio: 300 / 150;\" loading=\"eager\" src=\"https://www.myselkirk.ca/wp-content/uploads/2023/09/Council-Mini-Slider-jpg.webp\">"
+      },
+      {
+        "target": "div:nth-of-type(6) > div > div > a > img",
+        "tag": "img",
+        "src": "https://www.myselkirk.ca/wp-content/uploads/2023/12/Solid-waste-curbside-pickup-schedule.jpg",
+        "alt": "solid waste pick up schedule",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 300,
+        "naturalHeight": 150,
+        "box": {
+          "x": -218.2591552734375,
+          "y": 806,
+          "w": 191.65625,
+          "h": 95.828125
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "https://www.myselkirk.ca/city-services/public-works/recyclingandwaste/#:~:text=Spring%20Clean%2Dup-,Pickup%20Schedule,-To%20use%20the",
+        "caption": "",
+        "nearText": "",
+        "html": "<img decoding=\"async\" width=\"300\" height=\"150\" class=\"attachment-full size-full preload-me aspect lazy lazy-scroll owl-thumb-lazy-load-show is-loaded\" alt=\"solid waste pick up schedule\" style=\"--ratio: 300 / 150;\" loading=\"eager\" src=\"https://www.myselkirk.ca/wp-content/uploads/2023/12/Solid-waste-curbside-pickup-schedule.jpg\">"
+      },
+      {
+        "target": "div:nth-of-type(7) > div > div > a > img",
+        "tag": "img",
+        "src": "https://www.myselkirk.ca/wp-content/uploads/2023/09/Community-Events-Calendar-Mini-slider-jpg.webp",
+        "alt": "Community Events Calendar",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 300,
+        "naturalHeight": 150,
+        "box": {
+          "x": -11.6029052734375,
+          "y": 806,
+          "w": 191.65625,
+          "h": 95.828125
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "https://www.myselkirk.ca/events/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img decoding=\"async\" width=\"300\" height=\"150\" class=\"attachment-full size-full preload-me aspect lazy lazy-scroll owl-thumb-lazy-load-show is-loaded\" alt=\"Community Events Calendar\" style=\"--ratio: 300 / 150;\" loading=\"eager\" src=\"https://www.myselkirk.ca/wp-content/uploads/2023/09/Community-Events-Calendar-Mini-slider-jpg.webp\">"
+      },
+      {
+        "target": "div:nth-of-type(8) > div > div > a > img",
+        "tag": "img",
+        "src": "https://www.myselkirk.ca/wp-content/uploads/2026/05/selkirk-blue-book-mini-slider-png.webp",
+        "alt": "aerial image of Manitoba Avenue East at sunset with text that reads \"Blue Book 2026. Your community information guide.\"",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 300,
+        "naturalHeight": 150,
+        "box": {
+          "x": 195.0533447265625,
+          "y": 806,
+          "w": 191.65625,
+          "h": 95.828125
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "https://www.myselkirk.ca/community-services/blue-book/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img decoding=\"async\" width=\"300\" height=\"150\" class=\"attachment-full size-full preload-me aspect lazy lazy-scroll owl-thumb-lazy-load-show is-loaded\" alt=\"aerial image of Manitoba Avenue East at sunset with text that reads &quot;Blue Book 2026. Your community information guide.&quot;\" style=\"--ratio: 300 / 150;\" loading=\"eager\" src=\"https://www.myselkirk.ca/wp-content/uploads/2026/05/selkirk-blue"
+      },
+      {
+        "target": "div:nth-of-type(9) > div > div > a > img",
+        "tag": "img",
+        "src": "https://www.myselkirk.ca/wp-content/uploads/2023/09/Public-Hearing-mini-slider-jpg.webp",
+        "alt": "Selkirk Public Hearings",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 300,
+        "naturalHeight": 150,
+        "box": {
+          "x": 401.7095947265625,
+          "y": 806,
+          "w": 191.65625,
+          "h": 95.828125
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "https://www.myselkirk.ca/publichearings",
+        "caption": "",
+        "nearText": "",
+        "html": "<img decoding=\"async\" width=\"300\" height=\"150\" class=\"attachment-full size-full preload-me aspect lazy lazy-scroll owl-thumb-lazy-load-show is-loaded\" alt=\"Selkirk Public Hearings\" style=\"--ratio: 300 / 150;\" loading=\"eager\" src=\"https://www.myselkirk.ca/wp-content/uploads/2023/09/Public-Hearing-mini-slider-jpg.webp\">"
+      },
+      {
+        "target": "div:nth-of-type(10) > div > div > a > img",
+        "tag": "img",
+        "src": "https://www.myselkirk.ca/wp-content/uploads/2023/09/Transit-Mini-Slider-jpg.webp",
+        "alt": "Selkirk Transit Route and Schedule Information",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 300,
+        "naturalHeight": 150,
+        "box": {
+          "x": 608.3658447265625,
+          "y": 806,
+          "w": 191.65625,
+          "h": 95.828125
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "http://mysta.ca/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img decoding=\"async\" width=\"300\" height=\"150\" class=\"attachment-full size-full preload-me aspect lazy lazy-scroll owl-thumb-lazy-load-show is-loaded\" alt=\"Selkirk Transit Route and Schedule Information\" style=\"--ratio: 300 / 150;\" loading=\"eager\" src=\"https://www.myselkirk.ca/wp-content/uploads/2023/09/Transit-Mini-Slider-jpg.webp\">"
+      },
+      {
+        "target": "div:nth-of-type(11) > div > div > a > img",
+        "tag": "img",
+        "src": "https://www.myselkirk.ca/wp-content/uploads/2026/05/2026-elections-mini-slider-png.webp",
+        "alt": "2026 Elections Mini Slider",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 300,
+        "naturalHeight": 150,
+        "box": {
+          "x": 815.0220947265625,
+          "y": 806,
+          "w": 191.65625,
+          "h": 95.828125
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "https://www.myselkirk.ca/city-government/city-council/election2026/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img decoding=\"async\" width=\"300\" height=\"150\" class=\"attachment-full size-full preload-me aspect lazy lazy-scroll owl-thumb-lazy-load-show is-loaded\" alt=\"2026 Elections Mini Slider\" style=\"--ratio: 300 / 150;\" loading=\"eager\" src=\"https://www.myselkirk.ca/wp-content/uploads/2026/05/2026-elections-mini-slider-png.webp\">"
+      },
+      {
+        "target": "div:nth-of-type(12) > div > div > a > img",
+        "tag": "img",
+        "src": "https://www.myselkirk.ca/wp-content/uploads/2023/09/Council-Mini-Slider-jpg.webp",
+        "alt": "Image of Mayor and Council",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 300,
+        "naturalHeight": 150,
+        "box": {
+          "x": 1021.6783447265625,
+          "y": 806,
+          "w": 191.65625,
+          "h": 95.828125
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "https://www.myselkirk.ca/city-government/city-council/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img decoding=\"async\" width=\"300\" height=\"150\" class=\"attachment-full size-full preload-me aspect lazy lazy-scroll owl-thumb-lazy-load-show is-loaded\" alt=\"Image of Mayor and Council\" style=\"--ratio: 300 / 150;\" loading=\"eager\" src=\"https://www.myselkirk.ca/wp-content/uploads/2023/09/Council-Mini-Slider-jpg.webp\">"
+      },
+      {
+        "target": "div:nth-of-type(13) > div > div > a > img",
+        "tag": "img",
+        "src": "https://www.myselkirk.ca/wp-content/uploads/2023/12/Solid-waste-curbside-pickup-schedule.jpg",
+        "alt": "solid waste pick up schedule",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 300,
+        "naturalHeight": 150,
+        "box": {
+          "x": 1228.3345947265625,
+          "y": 806,
+          "w": 191.65625,
+          "h": 95.828125
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "https://www.myselkirk.ca/city-services/public-works/recyclingandwaste/#:~:text=Spring%20Clean%2Dup-,Pickup%20Schedule,-To%20use%20the",
+        "caption": "",
+        "nearText": "",
+        "html": "<img decoding=\"async\" width=\"300\" height=\"150\" class=\"attachment-full size-full preload-me aspect lazy lazy-scroll owl-thumb-lazy-load-show is-loaded\" alt=\"solid waste pick up schedule\" style=\"--ratio: 300 / 150;\" loading=\"eager\" src=\"https://www.myselkirk.ca/wp-content/uploads/2023/12/Solid-waste-curbside-pickup-schedule.jpg\">"
+      },
+      {
+        "target": "div:nth-of-type(14) > div > div > a > img",
+        "tag": "img",
+        "src": "https://www.myselkirk.ca/wp-content/uploads/2023/09/Community-Events-Calendar-Mini-slider-jpg.webp",
+        "alt": "Community Events Calendar",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 300,
+        "naturalHeight": 150,
+        "box": {
+          "x": 1434.9908447265625,
+          "y": 806,
+          "w": 191.65625,
+          "h": 95.828125
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "https://www.myselkirk.ca/events/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img decoding=\"async\" width=\"300\" height=\"150\" class=\"attachment-full size-full preload-me aspect lazy lazy-scroll owl-thumb-lazy-load-show is-loaded\" alt=\"Community Events Calendar\" style=\"--ratio: 300 / 150;\" loading=\"eager\" src=\"https://www.myselkirk.ca/wp-content/uploads/2023/09/Community-Events-Calendar-Mini-slider-jpg.webp\">"
+      },
+      {
+        "target": "div:nth-of-type(15) > div > div > a > img",
+        "tag": "img",
+        "src": "https://www.myselkirk.ca/wp-content/uploads/2026/05/selkirk-blue-book-mini-slider-png.webp",
+        "alt": "aerial image of Manitoba Avenue East at sunset with text that reads \"Blue Book 2026. Your community information guide.\"",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 300,
+        "naturalHeight": 150,
+        "box": {
+          "x": 1641.6470947265625,
+          "y": 806,
+          "w": 191.65625,
+          "h": 95.828125
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "https://www.myselkirk.ca/community-services/blue-book/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img decoding=\"async\" width=\"300\" height=\"150\" class=\"attachment-full size-full preload-me aspect lazy lazy-scroll owl-thumb-lazy-load-show is-loaded\" alt=\"aerial image of Manitoba Avenue East at sunset with text that reads &quot;Blue Book 2026. Your community information guide.&quot;\" style=\"--ratio: 300 / 150;\" loading=\"eager\" src=\"https://www.myselkirk.ca/wp-content/uploads/2026/05/selkirk-blue"
+      },
+      {
+        "target": "div > article:nth-of-type(1) > a > div > img",
+        "tag": "img",
+        "src": "https://www.myselkirk.ca/wp-content/uploads/2026/09/public-notice-cow-meeting-sept-21-png.webp",
+        "alt": "City of Selkirk Public Notice Regarding Cancellation of the Committee of the Whole Meeting for September 21",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 700,
+        "naturalHeight": 400,
+        "box": {
+          "x": 193,
+          "y": 1049.828125,
+          "w": 605,
+          "h": 345.703125
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "https://www.myselkirk.ca/blog/2026/09/17/public-notice-regarding-cancellation-of-the-committee-of-the-whole-meeting-for-september-21/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img loading=\"lazy\" decoding=\"async\" width=\"700\" height=\"400\" src=\"https://www.myselkirk.ca/wp-content/uploads/2026/09/public-notice-cow-meeting-sept-21-png.webp\" class=\"attachment-full size-full wp-image-83981\" alt=\"City of Selkirk Public Notice Regarding Cancellation of the Committee of the Whole Meeting for September 21\">"
+      },
+      {
+        "target": "div > article:nth-of-type(2) > a > div > img",
+        "tag": "img",
+        "src": "https://www.myselkirk.ca/wp-content/uploads/2026/09/public-notice-labour-day-png.webp",
+        "alt": "City of Selkirk Public Notice Regarding Labour Day Schedule Changes and Closures",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 700,
+        "naturalHeight": 400,
+        "box": {
+          "x": 193,
+          "y": 1788.53125,
+          "w": 605,
+          "h": 345.703125
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "https://www.myselkirk.ca/blog/2026/09/03/public-notice-regarding-labour-day-schedule-changes-and-closures-2/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img loading=\"lazy\" decoding=\"async\" width=\"700\" height=\"400\" src=\"https://www.myselkirk.ca/wp-content/uploads/2026/09/public-notice-labour-day-png.webp\" class=\"attachment-full size-full wp-image-83664\" alt=\"City of Selkirk Public Notice Regarding Labour Day Schedule Changes and Closures\">"
+      },
+      {
+        "target": "div > article:nth-of-type(3) > a > div > img",
+        "tag": "img",
+        "src": "https://www.myselkirk.ca/wp-content/uploads/2026/08/hiring-election-officials.jpg",
+        "alt": "hiring election officials for the election October 28, 2026",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 700,
+        "naturalHeight": 400,
+        "box": {
+          "x": 193,
+          "y": 2465.234375,
+          "w": 605,
+          "h": 345.703125
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "https://www.myselkirk.ca/blog/2026/09/01/the-city-of-selkirk-and-lssd-ward-5-required-election-officials/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img loading=\"lazy\" decoding=\"async\" width=\"700\" height=\"400\" src=\"https://www.myselkirk.ca/wp-content/uploads/2026/08/hiring-election-officials.jpg\" class=\"attachment-full size-full wp-image-83154\" alt=\"hiring election officials for the election October 28, 2026\">"
+      },
+      {
+        "target": "div > article:nth-of-type(4) > a > div > img",
+        "tag": "img",
+        "src": "https://www.myselkirk.ca/wp-content/uploads/2018/03/NewOfficial-Proclamation-Picture.jpg",
+        "alt": "City of Selkirk Proclamation",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 700,
+        "naturalHeight": 400,
+        "box": {
+          "x": 193,
+          "y": 3141.9375,
+          "w": 605,
+          "h": 345.703125
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "https://www.myselkirk.ca/blog/2026/09/01/city-of-selkirk-proclamation-arthritis-awareness-month-september-2026/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img loading=\"lazy\" decoding=\"async\" width=\"700\" height=\"400\" src=\"https://www.myselkirk.ca/wp-content/uploads/2018/03/NewOfficial-Proclamation-Picture.jpg\" class=\"attachment-full size-full wp-image-8679\" alt=\"City of Selkirk Proclamation\" srcset=\"https://www.myselkirk.ca/wp-content/uploads/2018/03/NewOfficial-Proclamation-Picture.jpg 700w, https://www.myselkirk.ca/wp-content/uploads/2018/03/NewOf"
+      },
+      {
+        "target": "div > article:nth-of-type(5) > a > div > img",
+        "tag": "img",
+        "src": "https://www.myselkirk.ca/wp-content/uploads/2018/03/NewOfficial-Proclamation-Picture.jpg",
+        "alt": "City of Selkirk Proclamation",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 700,
+        "naturalHeight": 400,
+        "box": {
+          "x": 193,
+          "y": 3885.640625,
+          "w": 605,
+          "h": 345.703125
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "https://www.myselkirk.ca/blog/2026/09/01/city-of-selkirk-proclamation-mitochondrial-disease-awareness-month-september-2026/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img loading=\"lazy\" decoding=\"async\" width=\"700\" height=\"400\" src=\"https://www.myselkirk.ca/wp-content/uploads/2018/03/NewOfficial-Proclamation-Picture.jpg\" class=\"attachment-full size-full wp-image-8679\" alt=\"City of Selkirk Proclamation\" srcset=\"https://www.myselkirk.ca/wp-content/uploads/2018/03/NewOfficial-Proclamation-Picture.jpg 700w, https://www.myselkirk.ca/wp-content/uploads/2018/03/NewOf"
+      },
+      {
+        "target": "div > article:nth-of-type(6) > a > div > img",
+        "tag": "img",
+        "src": "https://www.myselkirk.ca/wp-content/uploads/2026/08/public-notice-skatepark-closure-png.webp",
+        "alt": "Public Notice Regarding Upcoming Selkirk Skatepark Closure",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 700,
+        "naturalHeight": 400,
+        "box": {
+          "x": 193,
+          "y": 4605.34375,
+          "w": 605,
+          "h": 345.703125
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "https://www.myselkirk.ca/blog/2026/08/28/public-notice-regarding-upcoming-selkirk-skatepark-closure/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img loading=\"lazy\" decoding=\"async\" width=\"700\" height=\"400\" src=\"https://www.myselkirk.ca/wp-content/uploads/2026/08/public-notice-skatepark-closure-png.webp\" class=\"attachment-full size-full wp-image-83434\" alt=\"Public Notice Regarding Upcoming Selkirk Skatepark Closure\">"
+      },
+      {
+        "target": "#branding-bottom > a > img",
+        "tag": "img",
+        "src": "https://www.myselkirk.ca/wp-content/uploads/2025/02/transparent-logo-with-footer.webp",
+        "alt": "City of Selkirk",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 240,
+        "naturalHeight": 83,
+        "box": {
+          "x": 183,
+          "y": 5674.046875,
+          "w": 240,
+          "h": 83
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "https://www.myselkirk.ca/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img class=\" preload-me\" src=\"https://www.myselkirk.ca/wp-content/uploads/2025/02/transparent-logo-with-footer.webp\" srcset=\"https://www.myselkirk.ca/wp-content/uploads/2025/02/transparent-logo-with-footer.webp 240w, https://www.myselkirk.ca/wp-content/uploads/2025/02/transparent-logo-with-footer.webp 240w\" width=\"240\" height=\"83\" sizes=\"240px\" alt=\"City of Selkirk\">"
+      },
+      {
+        "target": "#phantom > div > div:nth-of-type(1) > a > img",
+        "tag": "img",
+        "src": "https://www.myselkirk.ca/wp-content/uploads/2025/02/selkirk_logo_header_tagline.webp",
+        "alt": "City of Selkirk",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 240,
+        "naturalHeight": 83,
+        "box": {
+          "x": 163,
+          "y": 0,
+          "w": 240,
+          "h": 83
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "https://www.myselkirk.ca/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img class=\" preload-me\" src=\"https://www.myselkirk.ca/wp-content/uploads/2025/02/selkirk_logo_header_tagline.webp\" srcset=\"https://www.myselkirk.ca/wp-content/uploads/2025/02/selkirk_logo_header_tagline.webp 240w, https://www.myselkirk.ca/wp-content/uploads/2025/02/selkirk_logo_header_tagline.webp 240w\" width=\"240\" height=\"83\" sizes=\"240px\" alt=\"City of Selkirk\">"
+      },
+      {
+        "target": "#monsido-pageassist > span:nth-of-type(3) > span > span:nth-of-type(3) > img",
+        "tag": "img",
+        "src": "https://cdn.monsido.com/page-assist/v2/assets/img/uaccess.svg",
+        "alt": "PageAssist Personalization Options",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 150,
+        "naturalHeight": 150,
+        "box": {
+          "x": 42,
+          "y": 839,
+          "w": 36,
+          "h": 36
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "",
+        "html": "<img class=\"mon-logo-image\" src=\"//cdn.monsido.com/page-assist/v2/assets/img/uaccess.svg\" alt=\"PageAssist Personalization Options\">"
+      }
+    ],
+    "links": [
+      {
+        "target": "#page > a:nth-of-type(1)",
+        "text": "Skip to content",
+        "ariaLabel": "",
+        "title": "",
+        "href": "#content",
+        "imgAlt": "",
+        "box": {
+          "x": -139987,
+          "y": -139987,
+          "w": 47,
+          "h": 30
+        },
+        "context": "",
+        "contextKind": "none",
+        "html": "<a class=\"skip-link screen-reader-text\" href=\"#content\">Skip to content</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > a:nth-of-type(1)",
+        "text": "Facebook page opens in new window",
+        "ariaLabel": "",
+        "title": "Facebook page opens in new window",
+        "href": "https://www.facebook.com/cityofselkirk/",
+        "imgAlt": "",
+        "box": {
+          "x": 735.90625,
+          "y": 10,
+          "w": 26,
+          "h": 26
+        },
+        "context": "Facebook page opens in new window YouTube page opens in new window Instagram page opens in new window",
+        "contextKind": "block",
+        "html": "<a title=\"Facebook page opens in new window\" href=\"https://www.facebook.com/cityofselkirk/\" target=\"_blank\" class=\"facebook\"><span class=\"soc-font-icon\"></span><span class=\"screen-reader-text\">Facebook page opens in new window</span></a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > a:nth-of-type(2)",
+        "text": "YouTube page opens in new window",
+        "ariaLabel": "",
+        "title": "YouTube page opens in new window",
+        "href": "https://www.youtube.com/channel/UCWiAaYV1OQpyoMSPMAG5UWA",
+        "imgAlt": "",
+        "box": {
+          "x": 765.90625,
+          "y": 10,
+          "w": 26,
+          "h": 26
+        },
+        "context": "Facebook page opens in new window YouTube page opens in new window Instagram page opens in new window",
+        "contextKind": "block",
+        "html": "<a title=\"YouTube page opens in new window\" href=\"https://www.youtube.com/channel/UCWiAaYV1OQpyoMSPMAG5UWA\" target=\"_blank\" class=\"you-tube\"><span class=\"soc-font-icon\"></span><span class=\"screen-reader-text\">YouTube page opens in new window</span></a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > a:nth-of-type(3)",
+        "text": "Instagram page opens in new window",
+        "ariaLabel": "",
+        "title": "Instagram page opens in new window",
+        "href": "https://www.instagram.com/cityofselkirk/",
+        "imgAlt": "",
+        "box": {
+          "x": 795.90625,
+          "y": 10,
+          "w": 26,
+          "h": 26
+        },
+        "context": "Facebook page opens in new window YouTube page opens in new window Instagram page opens in new window",
+        "contextKind": "block",
+        "html": "<a title=\"Instagram page opens in new window\" href=\"https://www.instagram.com/cityofselkirk/\" target=\"_blank\" class=\"instagram\"><span class=\"soc-font-icon\"></span><span class=\"screen-reader-text\">Instagram page opens in new window</span></a>"
+      },
+      {
+        "target": "div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > form > a",
+        "text": "",
+        "ariaLabel": "Search",
+        "title": "",
+        "href": "",
+        "imgAlt": "",
+        "box": {
+          "x": 1013.90625,
+          "y": 5,
+          "w": 16,
+          "h": 36
+        },
+        "context": "Facebook page opens in new window YouTube page opens in new window Instagram page opens in new window Search: MySelkirk Sites",
+        "contextKind": "block",
+        "html": "<a href=\"\" class=\"search-icon\" aria-label=\"Search\"><i class=\"the7-mw-icon-search-bold\" aria-hidden=\"true\"></i></a>"
+      },
+      {
+        "target": "#page > div:nth-of-type(2) > header > div > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.myselkirk.ca/",
+        "imgAlt": "City of Selkirk City of Selkirk",
+        "box": {
+          "x": 163,
+          "y": 54.5,
+          "w": 245,
+          "h": 83
+        },
+        "context": "City of Selkirk Where it all comes together.",
+        "contextKind": "block",
+        "html": "<a class=\"\" href=\"https://www.myselkirk.ca/\"><img class=\" preload-me\" src=\"https://www.myselkirk.ca/wp-content/uploads/2025/02/selkirk_logo_header_tagline.webp\" srcset=\"https://www.myselkirk.ca/wp-content/uploads/2025/02/selkirk_logo_header_tagline.webp 240w, https://www.myselkirk.ca/wp-content/uplo"
+      },
+      {
+        "target": "#primary-menu > li:nth-of-type(1) > a",
+        "text": "City Services",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.myselkirk.ca/city-services/",
+        "imgAlt": "",
+        "box": {
+          "x": 423.171875,
+          "y": 64,
+          "w": 106.390625,
+          "h": 64
+        },
+        "context": "City Services",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.myselkirk.ca/city-services/\" data-level=\"1\" aria-haspopup=\"true\" aria-expanded=\"false\"><span class=\"menu-item-text\"><span class=\"menu-text\">City Services</span></span></a>"
+      },
+      {
+        "target": "#primary-menu > li:nth-of-type(2) > a",
+        "text": "City Government",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.myselkirk.ca/city-government/",
+        "imgAlt": "",
+        "box": {
+          "x": 557.5625,
+          "y": 64,
+          "w": 141.765625,
+          "h": 64
+        },
+        "context": "City Government",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.myselkirk.ca/city-government/\" data-level=\"1\" aria-haspopup=\"true\" aria-expanded=\"false\"><span class=\"menu-item-text\"><span class=\"menu-text\">City Government</span></span></a>"
+      },
+      {
+        "target": "#primary-menu > li:nth-of-type(3) > a",
+        "text": "Doing Business",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.myselkirk.ca/doing-business/",
+        "imgAlt": "",
+        "box": {
+          "x": 727.328125,
+          "y": 64,
+          "w": 128.90625,
+          "h": 64
+        },
+        "context": "Doing Business",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.myselkirk.ca/doing-business/\" data-level=\"1\" aria-haspopup=\"true\" aria-expanded=\"false\"><span class=\"menu-item-text\"><span class=\"menu-text\">Doing Business</span></span></a>"
+      },
+      {
+        "target": "#primary-menu > li:nth-of-type(4) > a",
+        "text": "Parks & Recreation",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.myselkirk.ca/parks-recreation/",
+        "imgAlt": "",
+        "box": {
+          "x": 884.234375,
+          "y": 64,
+          "w": 158,
+          "h": 64
+        },
+        "context": "Parks & Recreation",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.myselkirk.ca/parks-recreation/\" data-level=\"1\" aria-haspopup=\"true\" aria-expanded=\"false\"><span class=\"menu-item-text\"><span class=\"menu-text\">Parks &amp; Recreation</span></span></a>"
+      },
+      {
+        "target": "#primary-menu > li:nth-of-type(5) > a",
+        "text": "Discover Selkirk",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.myselkirk.ca/discover-selkirk/",
+        "imgAlt": "",
+        "box": {
+          "x": 1070.234375,
+          "y": 64,
+          "w": 132.765625,
+          "h": 64
+        },
+        "context": "Discover Selkirk",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.myselkirk.ca/discover-selkirk/\" data-level=\"1\" aria-haspopup=\"true\" aria-expanded=\"false\"><span class=\"menu-item-text\"><span class=\"menu-text\">Discover Selkirk</span></span></a>"
+      },
+      {
+        "target": "#SR7_31_1-188-42",
+        "text": "CLICK FOR MORE INFO",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.myselkirk.ca/city-government/city-council/election2026/",
+        "imgAlt": "",
+        "box": {
+          "x": 818,
+          "y": 547,
+          "w": 294.796875,
+          "h": 54
+        },
+        "context": "heading: October 28, 2026 | October 28, 2026 CLICK FOR MORE INFO 2026 Municipal Election",
+        "contextKind": "block",
+        "html": "<a id=\"SR7_31_1-188-42\" class=\"sr7-layer\" href=\"https://www.myselkirk.ca/city-government/city-council/election2026/\" target=\"_self\" data-mouselistener=\"true\" aria-hidden=\"true\" style=\"transform-origin: 50% 50%; font-family: &quot;Open Sans&quot;; font-size: 22px; font-weight: 500; color: rgb(255, 25"
+      },
+      {
+        "target": "div > div:nth-of-type(1) > div > div > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.myselkirk.ca/community-services/blue-book/",
+        "imgAlt": "aerial image of Manitoba Avenue East at sunset with text that reads \"Blue Book 2026. Your community information guide.\"",
+        "box": {
+          "x": -1251.5404052734375,
+          "y": 806,
+          "w": 191.65625,
+          "h": 95.828125
+        },
+        "context": "heading: 2026 Municipal Election",
+        "contextKind": "heading-only",
+        "html": "<a href=\"https://www.myselkirk.ca/community-services/blue-book/\" class=\"dt-owl-item-image img-css-resize-wrapper\"> <img decoding=\"async\" width=\"300\" height=\"150\" class=\"attachment-full size-full preload-me aspect lazy lazy-scroll owl-thumb-lazy-load-show is-loaded\" alt=\"aerial image of Manitoba Aven"
+      },
+      {
+        "target": "div:nth-of-type(1) > div > div > h4 > a",
+        "text": "Blue Book",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.myselkirk.ca/community-services/blue-book/",
+        "imgAlt": "",
+        "box": {
+          "x": -1201.0872802734375,
+          "y": 902.828125,
+          "w": 90.734375,
+          "h": 27
+        },
+        "context": "heading: Blue Book",
+        "contextKind": "heading-only",
+        "html": "<a href=\"https://www.myselkirk.ca/community-services/blue-book/\">Blue Book</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > div > div > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.myselkirk.ca/publichearings",
+        "imgAlt": "Selkirk Public Hearings",
+        "box": {
+          "x": -1044.8841552734375,
+          "y": 806,
+          "w": 191.65625,
+          "h": 95.828125
+        },
+        "context": "heading: Blue Book",
+        "contextKind": "heading-only",
+        "html": "<a href=\"https://www.myselkirk.ca/publichearings\" class=\"dt-owl-item-image img-css-resize-wrapper\"> <img decoding=\"async\" width=\"300\" height=\"150\" class=\"attachment-full size-full preload-me aspect lazy lazy-scroll owl-thumb-lazy-load-show is-loaded\" alt=\"Selkirk Public Hearings\" style=\"--ratio: 300"
+      },
+      {
+        "target": "div:nth-of-type(2) > div > div > h4 > a",
+        "text": "Public Hearings",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.myselkirk.ca/publichearings",
+        "imgAlt": "",
+        "box": {
+          "x": -1018.5247802734375,
+          "y": 902.828125,
+          "w": 138.9375,
+          "h": 27
+        },
+        "context": "heading: Public Hearings",
+        "contextKind": "heading-only",
+        "html": "<a href=\"https://www.myselkirk.ca/publichearings\">Public Hearings</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(3) > div > div > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "http://mysta.ca/",
+        "imgAlt": "Selkirk Transit Route and Schedule Information",
+        "box": {
+          "x": -838.2279052734375,
+          "y": 806,
+          "w": 191.65625,
+          "h": 95.828125
+        },
+        "context": "heading: Public Hearings",
+        "contextKind": "heading-only",
+        "html": "<a href=\"http://mysta.ca/\" class=\"dt-owl-item-image img-css-resize-wrapper\"> <img decoding=\"async\" width=\"300\" height=\"150\" class=\"attachment-full size-full preload-me aspect lazy lazy-scroll owl-thumb-lazy-load-show is-loaded\" alt=\"Selkirk Transit Route and Schedule Information\" style=\"--ratio: 300"
+      },
+      {
+        "target": "div:nth-of-type(3) > div > div > h4 > a",
+        "text": "Selkirk Transit",
+        "ariaLabel": "",
+        "title": "",
+        "href": "http://mysta.ca/",
+        "imgAlt": "",
+        "box": {
+          "x": -804.6497802734375,
+          "y": 902.828125,
+          "w": 124.484375,
+          "h": 27
+        },
+        "context": "heading: Selkirk Transit",
+        "contextKind": "heading-only",
+        "html": "<a href=\"http://mysta.ca/\">Selkirk Transit</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(4) > div > div > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.myselkirk.ca/city-government/city-council/election2026/",
+        "imgAlt": "2026 Elections Mini Slider",
+        "box": {
+          "x": -631.5716552734375,
+          "y": 806,
+          "w": 191.65625,
+          "h": 95.828125
+        },
+        "context": "heading: Selkirk Transit",
+        "contextKind": "heading-only",
+        "html": "<a href=\"https://www.myselkirk.ca/city-government/city-council/election2026/\" class=\"dt-owl-item-image img-css-resize-wrapper\"> <img decoding=\"async\" width=\"300\" height=\"150\" class=\"attachment-full size-full preload-me aspect lazy lazy-scroll owl-thumb-lazy-load-show is-loaded\" alt=\"2026 Elections M"
+      },
+      {
+        "target": "div:nth-of-type(4) > div > div > h4 > a",
+        "text": "2026 Election Information",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.myselkirk.ca/city-government/city-council/election2026/",
+        "imgAlt": "",
+        "box": {
+          "x": -596.5872802734375,
+          "y": 902.828125,
+          "w": 121.671875,
+          "h": 57
+        },
+        "context": "heading: 2026 Election Information",
+        "contextKind": "heading-only",
+        "html": "<a href=\"https://www.myselkirk.ca/city-government/city-council/election2026/\">2026 Election Information</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(5) > div > div > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.myselkirk.ca/city-government/city-council/",
+        "imgAlt": "Image of Mayor and Council",
+        "box": {
+          "x": -424.9154052734375,
+          "y": 806,
+          "w": 191.65625,
+          "h": 95.828125
+        },
+        "context": "heading: 2026 Election Information",
+        "contextKind": "heading-only",
+        "html": "<a href=\"https://www.myselkirk.ca/city-government/city-council/\" class=\"dt-owl-item-image img-css-resize-wrapper\"> <img decoding=\"async\" width=\"300\" height=\"150\" class=\"attachment-full size-full preload-me aspect lazy lazy-scroll owl-thumb-lazy-load-show is-loaded\" alt=\"Image of Mayor and Council\" s"
+      },
+      {
+        "target": "div:nth-of-type(5) > div > div > h4 > a",
+        "text": "Council",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.myselkirk.ca/city-government/city-council/",
+        "imgAlt": "",
+        "box": {
+          "x": -362.2435302734375,
+          "y": 902.828125,
+          "w": 66.3125,
+          "h": 27
+        },
+        "context": "heading: Council",
+        "contextKind": "heading-only",
+        "html": "<a href=\"https://www.myselkirk.ca/city-government/city-council/\">Council</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(6) > div > div > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.myselkirk.ca/city-services/public-works/recyclingandwaste/#:~:text=Spring%20Clean%2Dup-,Pickup%20Schedule,-To%20use%20the",
+        "imgAlt": "solid waste pick up schedule",
+        "box": {
+          "x": -218.2591552734375,
+          "y": 806,
+          "w": 191.65625,
+          "h": 95.828125
+        },
+        "context": "heading: Council",
+        "contextKind": "heading-only",
+        "html": "<a href=\"https://www.myselkirk.ca/city-services/public-works/recyclingandwaste/#:~:text=Spring%20Clean%2Dup-,Pickup%20Schedule,-To%20use%20the\" class=\"dt-owl-item-image img-css-resize-wrapper\"> <img decoding=\"async\" width=\"300\" height=\"150\" class=\"attachment-full size-full preload-me aspect lazy laz"
+      },
+      {
+        "target": "div:nth-of-type(6) > div > div > h4 > a",
+        "text": "Solid Waste pickup",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.myselkirk.ca/city-services/public-works/recyclingandwaste/#:~:text=Spring%20Clean%2Dup-,Pickup%20Schedule,-To%20use%20the",
+        "imgAlt": "",
+        "box": {
+          "x": -206.8060302734375,
+          "y": 902.828125,
+          "w": 168.734375,
+          "h": 27
+        },
+        "context": "heading: Solid Waste pickup",
+        "contextKind": "heading-only",
+        "html": "<a href=\"https://www.myselkirk.ca/city-services/public-works/recyclingandwaste/#:~:text=Spring%20Clean%2Dup-,Pickup%20Schedule,-To%20use%20the\">Solid Waste pickup</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(7) > div > div > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.myselkirk.ca/events/",
+        "imgAlt": "Community Events Calendar",
+        "box": {
+          "x": -11.6029052734375,
+          "y": 806,
+          "w": 191.65625,
+          "h": 95.828125
+        },
+        "context": "heading: Solid Waste pickup",
+        "contextKind": "heading-only",
+        "html": "<a href=\"https://www.myselkirk.ca/events/\" class=\"dt-owl-item-image img-css-resize-wrapper\"> <img decoding=\"async\" width=\"300\" height=\"150\" class=\"attachment-full size-full preload-me aspect lazy lazy-scroll owl-thumb-lazy-load-show is-loaded\" alt=\"Community Events Calendar\" style=\"--ratio: 300 / 15"
+      },
+      {
+        "target": "div:nth-of-type(7) > div > div > h4 > a",
+        "text": "Community Events Calendar",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.myselkirk.ca/events/",
+        "imgAlt": "",
+        "box": {
+          "x": 0.3658447265625,
+          "y": 902.828125,
+          "w": 167.71875,
+          "h": 57
+        },
+        "context": "heading: Community Events Calendar",
+        "contextKind": "heading-only",
+        "html": "<a href=\"https://www.myselkirk.ca/events/\">Community Events Calendar</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(8) > div > div > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.myselkirk.ca/community-services/blue-book/",
+        "imgAlt": "aerial image of Manitoba Avenue East at sunset with text that reads \"Blue Book 2026. Your community information guide.\"",
+        "box": {
+          "x": 195.0533447265625,
+          "y": 806,
+          "w": 191.65625,
+          "h": 95.828125
+        },
+        "context": "heading: Community Events Calendar",
+        "contextKind": "heading-only",
+        "html": "<a href=\"https://www.myselkirk.ca/community-services/blue-book/\" class=\"dt-owl-item-image img-css-resize-wrapper\"> <img decoding=\"async\" width=\"300\" height=\"150\" class=\"attachment-full size-full preload-me aspect lazy lazy-scroll owl-thumb-lazy-load-show is-loaded\" alt=\"aerial image of Manitoba Aven"
+      },
+      {
+        "target": "div:nth-of-type(8) > div > div > h4 > a",
+        "text": "Blue Book",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.myselkirk.ca/community-services/blue-book/",
+        "imgAlt": "",
+        "box": {
+          "x": 245.5064697265625,
+          "y": 902.828125,
+          "w": 90.734375,
+          "h": 27
+        },
+        "context": "heading: Blue Book",
+        "contextKind": "heading-only",
+        "html": "<a href=\"https://www.myselkirk.ca/community-services/blue-book/\">Blue Book</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(9) > div > div > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.myselkirk.ca/publichearings",
+        "imgAlt": "Selkirk Public Hearings",
+        "box": {
+          "x": 401.7095947265625,
+          "y": 806,
+          "w": 191.65625,
+          "h": 95.828125
+        },
+        "context": "heading: Blue Book",
+        "contextKind": "heading-only",
+        "html": "<a href=\"https://www.myselkirk.ca/publichearings\" class=\"dt-owl-item-image img-css-resize-wrapper\"> <img decoding=\"async\" width=\"300\" height=\"150\" class=\"attachment-full size-full preload-me aspect lazy lazy-scroll owl-thumb-lazy-load-show is-loaded\" alt=\"Selkirk Public Hearings\" style=\"--ratio: 300"
+      },
+      {
+        "target": "div:nth-of-type(9) > div > div > h4 > a",
+        "text": "Public Hearings",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.myselkirk.ca/publichearings",
+        "imgAlt": "",
+        "box": {
+          "x": 428.0689697265625,
+          "y": 902.828125,
+          "w": 138.9375,
+          "h": 27
+        },
+        "context": "heading: Public Hearings",
+        "contextKind": "heading-only",
+        "html": "<a href=\"https://www.myselkirk.ca/publichearings\">Public Hearings</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(10) > div > div > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "http://mysta.ca/",
+        "imgAlt": "Selkirk Transit Route and Schedule Information",
+        "box": {
+          "x": 608.3658447265625,
+          "y": 806,
+          "w": 191.65625,
+          "h": 95.828125
+        },
+        "context": "heading: Public Hearings",
+        "contextKind": "heading-only",
+        "html": "<a href=\"http://mysta.ca/\" class=\"dt-owl-item-image img-css-resize-wrapper\"> <img decoding=\"async\" width=\"300\" height=\"150\" class=\"attachment-full size-full preload-me aspect lazy lazy-scroll owl-thumb-lazy-load-show is-loaded\" alt=\"Selkirk Transit Route and Schedule Information\" style=\"--ratio: 300"
+      },
+      {
+        "target": "div:nth-of-type(10) > div > div > h4 > a",
+        "text": "Selkirk Transit",
+        "ariaLabel": "",
+        "title": "",
+        "href": "http://mysta.ca/",
+        "imgAlt": "",
+        "box": {
+          "x": 641.9439697265625,
+          "y": 902.828125,
+          "w": 124.484375,
+          "h": 27
+        },
+        "context": "heading: Selkirk Transit",
+        "contextKind": "heading-only",
+        "html": "<a href=\"http://mysta.ca/\">Selkirk Transit</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(11) > div > div > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.myselkirk.ca/city-government/city-council/election2026/",
+        "imgAlt": "2026 Elections Mini Slider",
+        "box": {
+          "x": 815.0220947265625,
+          "y": 806,
+          "w": 191.65625,
+          "h": 95.828125
+        },
+        "context": "heading: Selkirk Transit",
+        "contextKind": "heading-only",
+        "html": "<a href=\"https://www.myselkirk.ca/city-government/city-council/election2026/\" class=\"dt-owl-item-image img-css-resize-wrapper\"> <img decoding=\"async\" width=\"300\" height=\"150\" class=\"attachment-full size-full preload-me aspect lazy lazy-scroll owl-thumb-lazy-load-show is-loaded\" alt=\"2026 Elections M"
+      },
+      {
+        "target": "div:nth-of-type(11) > div > div > h4 > a",
+        "text": "2026 Election Information",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.myselkirk.ca/city-government/city-council/election2026/",
+        "imgAlt": "",
+        "box": {
+          "x": 850.0064697265625,
+          "y": 902.828125,
+          "w": 121.671875,
+          "h": 57
+        },
+        "context": "heading: 2026 Election Information",
+        "contextKind": "heading-only",
+        "html": "<a href=\"https://www.myselkirk.ca/city-government/city-council/election2026/\">2026 Election Information</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(12) > div > div > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.myselkirk.ca/city-government/city-council/",
+        "imgAlt": "Image of Mayor and Council",
+        "box": {
+          "x": 1021.6783447265625,
+          "y": 806,
+          "w": 191.65625,
+          "h": 95.828125
+        },
+        "context": "heading: 2026 Election Information",
+        "contextKind": "heading-only",
+        "html": "<a href=\"https://www.myselkirk.ca/city-government/city-council/\" class=\"dt-owl-item-image img-css-resize-wrapper\"> <img decoding=\"async\" width=\"300\" height=\"150\" class=\"attachment-full size-full preload-me aspect lazy lazy-scroll owl-thumb-lazy-load-show is-loaded\" alt=\"Image of Mayor and Council\" s"
+      },
+      {
+        "target": "div:nth-of-type(12) > div > div > h4 > a",
+        "text": "Council",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.myselkirk.ca/city-government/city-council/",
+        "imgAlt": "",
+        "box": {
+          "x": 1084.3502197265625,
+          "y": 902.828125,
+          "w": 66.3125,
+          "h": 27
+        },
+        "context": "heading: Council",
+        "contextKind": "heading-only",
+        "html": "<a href=\"https://www.myselkirk.ca/city-government/city-council/\">Council</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(13) > div > div > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.myselkirk.ca/city-services/public-works/recyclingandwaste/#:~:text=Spring%20Clean%2Dup-,Pickup%20Schedule,-To%20use%20the",
+        "imgAlt": "solid waste pick up schedule",
+        "box": {
+          "x": 1228.3345947265625,
+          "y": 806,
+          "w": 191.65625,
+          "h": 95.828125
+        },
+        "context": "heading: Council",
+        "contextKind": "heading-only",
+        "html": "<a href=\"https://www.myselkirk.ca/city-services/public-works/recyclingandwaste/#:~:text=Spring%20Clean%2Dup-,Pickup%20Schedule,-To%20use%20the\" class=\"dt-owl-item-image img-css-resize-wrapper\"> <img decoding=\"async\" width=\"300\" height=\"150\" class=\"attachment-full size-full preload-me aspect lazy laz"
+      },
+      {
+        "target": "div:nth-of-type(13) > div > div > h4 > a",
+        "text": "Solid Waste pickup",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.myselkirk.ca/city-services/public-works/recyclingandwaste/#:~:text=Spring%20Clean%2Dup-,Pickup%20Schedule,-To%20use%20the",
+        "imgAlt": "",
+        "box": {
+          "x": 1239.7877197265625,
+          "y": 902.828125,
+          "w": 168.734375,
+          "h": 27
+        },
+        "context": "heading: Solid Waste pickup",
+        "contextKind": "heading-only",
+        "html": "<a href=\"https://www.myselkirk.ca/city-services/public-works/recyclingandwaste/#:~:text=Spring%20Clean%2Dup-,Pickup%20Schedule,-To%20use%20the\">Solid Waste pickup</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(14) > div > div > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.myselkirk.ca/events/",
+        "imgAlt": "Community Events Calendar",
+        "box": {
+          "x": 1434.9908447265625,
+          "y": 806,
+          "w": 191.65625,
+          "h": 95.828125
+        },
+        "context": "heading: Solid Waste pickup",
+        "contextKind": "heading-only",
+        "html": "<a href=\"https://www.myselkirk.ca/events/\" class=\"dt-owl-item-image img-css-resize-wrapper\"> <img decoding=\"async\" width=\"300\" height=\"150\" class=\"attachment-full size-full preload-me aspect lazy lazy-scroll owl-thumb-lazy-load-show is-loaded\" alt=\"Community Events Calendar\" style=\"--ratio: 300 / 15"
+      },
+      {
+        "target": "div:nth-of-type(14) > div > div > h4 > a",
+        "text": "Community Events Calendar",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.myselkirk.ca/events/",
+        "imgAlt": "",
+        "box": {
+          "x": 1446.9595947265625,
+          "y": 902.828125,
+          "w": 167.71875,
+          "h": 57
+        },
+        "context": "heading: Community Events Calendar",
+        "contextKind": "heading-only",
+        "html": "<a href=\"https://www.myselkirk.ca/events/\">Community Events Calendar</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(15) > div > div > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.myselkirk.ca/community-services/blue-book/",
+        "imgAlt": "aerial image of Manitoba Avenue East at sunset with text that reads \"Blue Book 2026. Your community information guide.\"",
+        "box": {
+          "x": 1641.6470947265625,
+          "y": 806,
+          "w": 191.65625,
+          "h": 95.828125
+        },
+        "context": "heading: Community Events Calendar",
+        "contextKind": "heading-only",
+        "html": "<a href=\"https://www.myselkirk.ca/community-services/blue-book/\" class=\"dt-owl-item-image img-css-resize-wrapper\"> <img decoding=\"async\" width=\"300\" height=\"150\" class=\"attachment-full size-full preload-me aspect lazy lazy-scroll owl-thumb-lazy-load-show is-loaded\" alt=\"aerial image of Manitoba Aven"
+      },
+      {
+        "target": "div:nth-of-type(15) > div > div > h4 > a",
+        "text": "Blue Book",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.myselkirk.ca/community-services/blue-book/",
+        "imgAlt": "",
+        "box": {
+          "x": 1692.1002197265625,
+          "y": 902.828125,
+          "w": 90.734375,
+          "h": 27
+        },
+        "context": "heading: Blue Book",
+        "contextKind": "heading-only",
+        "html": "<a href=\"https://www.myselkirk.ca/community-services/blue-book/\">Blue Book</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div > div > article:nth-of-type(1) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.myselkirk.ca/blog/2026/09/17/public-notice-regarding-cancellation-of-the-committee-of-the-whole-meeting-for-september-21/",
+        "imgAlt": "City of Selkirk Public Notice Regarding Cancellation of the Committee of the Whole Meeting for September 21",
+        "box": {
+          "x": 193,
+          "y": 1049.828125,
+          "w": 605,
+          "h": 345.703125
+        },
+        "context": "heading: News and Announcements",
+        "contextKind": "heading-only",
+        "html": "<a class=\"elementor-post__thumbnail__link\" href=\"https://www.myselkirk.ca/blog/2026/09/17/public-notice-regarding-cancellation-of-the-committee-of-the-whole-meeting-for-september-21/\" tabindex=\"-1\">\n\t\t\t<div class=\"elementor-post__thumbnail\"><img loading=\"lazy\" decoding=\"async\" width=\"700\" height=\"40"
+      },
+      {
+        "target": "div > article:nth-of-type(1) > div > h2 > a",
+        "text": "Public Notice Regarding Cancellation of the Committee of the Whole Meeting for September 21",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.myselkirk.ca/blog/2026/09/17/public-notice-regarding-cancellation-of-the-committee-of-the-whole-meeting-for-september-21/",
+        "imgAlt": "",
+        "box": {
+          "x": 193,
+          "y": 1411.53125,
+          "w": 564.5,
+          "h": 180
+        },
+        "context": "heading: Public Notice Regarding Cancellation of the Committee of the Whole Meeting for September 21 | Public Notice Regarding Cancellation of the Committee of the Whole Meeting for September 21",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.myselkirk.ca/blog/2026/09/17/public-notice-regarding-cancellation-of-the-committee-of-the-whole-meeting-for-september-21/\">\n\t\t\t\tPublic Notice Regarding Cancellation of the Committee of the Whole Meeting for September 21\t\t\t</a>"
+      },
+      {
+        "target": "div > div > article:nth-of-type(1) > div > a",
+        "text": "Read More",
+        "ariaLabel": "Read more about Public Notice Regarding Cancellation of the Committee of the Whole Meeting for September 21",
+        "title": "",
+        "href": "https://www.myselkirk.ca/blog/2026/09/17/public-notice-regarding-cancellation-of-the-committee-of-the-whole-meeting-for-september-21/",
+        "imgAlt": "",
+        "box": {
+          "x": 193,
+          "y": 1731.53125,
+          "w": 64.265625,
+          "h": 17
+        },
+        "context": "heading: Public Notice Regarding Cancellation of the Committee of the Whole Meeting for September 21",
+        "contextKind": "heading-only",
+        "html": "<a class=\"elementor-post__read-more\" href=\"https://www.myselkirk.ca/blog/2026/09/17/public-notice-regarding-cancellation-of-the-committee-of-the-whole-meeting-for-september-21/\" aria-label=\"Read more about Public Notice Regarding Cancellation of the Committee of the Whole Meeting for September 21\" t"
+      },
+      {
+        "target": "div:nth-of-type(2) > div > div > article:nth-of-type(2) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.myselkirk.ca/blog/2026/09/03/public-notice-regarding-labour-day-schedule-changes-and-closures-2/",
+        "imgAlt": "City of Selkirk Public Notice Regarding Labour Day Schedule Changes and Closures",
+        "box": {
+          "x": 193,
+          "y": 1788.53125,
+          "w": 605,
+          "h": 345.703125
+        },
+        "context": "heading: Public Notice Regarding Cancellation of the Committee of the Whole Meeting for September 21",
+        "contextKind": "heading-only",
+        "html": "<a class=\"elementor-post__thumbnail__link\" href=\"https://www.myselkirk.ca/blog/2026/09/03/public-notice-regarding-labour-day-schedule-changes-and-closures-2/\" tabindex=\"-1\">\n\t\t\t<div class=\"elementor-post__thumbnail\"><img loading=\"lazy\" decoding=\"async\" width=\"700\" height=\"400\" src=\"https://www.mysel"
+      },
+      {
+        "target": "div > article:nth-of-type(2) > div > h2 > a",
+        "text": "Public Notice Regarding Labour Day Schedule Changes and Closures",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.myselkirk.ca/blog/2026/09/03/public-notice-regarding-labour-day-schedule-changes-and-closures-2/",
+        "imgAlt": "",
+        "box": {
+          "x": 193,
+          "y": 2150.234375,
+          "w": 593.53125,
+          "h": 94
+        },
+        "context": "heading: Public Notice Regarding Labour Day Schedule Changes and Closures | Public Notice Regarding Labour Day Schedule Changes and Closures",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.myselkirk.ca/blog/2026/09/03/public-notice-regarding-labour-day-schedule-changes-and-closures-2/\">\n\t\t\t\tPublic Notice Regarding Labour Day Schedule Changes and Closures\t\t\t</a>"
+      },
+      {
+        "target": "div > div > article:nth-of-type(2) > div > a",
+        "text": "Read More",
+        "ariaLabel": "Read more about Public Notice Regarding Labour Day Schedule Changes and Closures",
+        "title": "",
+        "href": "https://www.myselkirk.ca/blog/2026/09/03/public-notice-regarding-labour-day-schedule-changes-and-closures-2/",
+        "imgAlt": "",
+        "box": {
+          "x": 193,
+          "y": 2408.234375,
+          "w": 64.265625,
+          "h": 17
+        },
+        "context": "heading: Public Notice Regarding Labour Day Schedule Changes and Closures",
+        "contextKind": "heading-only",
+        "html": "<a class=\"elementor-post__read-more\" href=\"https://www.myselkirk.ca/blog/2026/09/03/public-notice-regarding-labour-day-schedule-changes-and-closures-2/\" aria-label=\"Read more about Public Notice Regarding Labour Day Schedule Changes and Closures\" tabindex=\"-1\">\n\t\t\tRead More\t\t</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div > div > article:nth-of-type(3) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.myselkirk.ca/blog/2026/09/01/the-city-of-selkirk-and-lssd-ward-5-required-election-officials/",
+        "imgAlt": "hiring election officials for the election October 28, 2026",
+        "box": {
+          "x": 193,
+          "y": 2465.234375,
+          "w": 605,
+          "h": 345.703125
+        },
+        "context": "heading: Public Notice Regarding Labour Day Schedule Changes and Closures",
+        "contextKind": "heading-only",
+        "html": "<a class=\"elementor-post__thumbnail__link\" href=\"https://www.myselkirk.ca/blog/2026/09/01/the-city-of-selkirk-and-lssd-ward-5-required-election-officials/\" tabindex=\"-1\">\n\t\t\t<div class=\"elementor-post__thumbnail\"><img loading=\"lazy\" decoding=\"async\" width=\"700\" height=\"400\" src=\"https://www.myselkir"
+      },
+      {
+        "target": "div > article:nth-of-type(3) > div > h2 > a",
+        "text": "The City of Selkirk and LSSD, Ward 5 Require Election Officials",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.myselkirk.ca/blog/2026/09/01/the-city-of-selkirk-and-lssd-ward-5-required-election-officials/",
+        "imgAlt": "",
+        "box": {
+          "x": 193,
+          "y": 2826.9375,
+          "w": 596.8125,
+          "h": 94
+        },
+        "context": "heading: The City of Selkirk and LSSD, Ward 5 Require Election Officials | The City of Selkirk and LSSD, Ward 5 Require Election Officials",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.myselkirk.ca/blog/2026/09/01/the-city-of-selkirk-and-lssd-ward-5-required-election-officials/\">\n\t\t\t\tThe City of Selkirk and LSSD, Ward 5 Require Election Officials\t\t\t</a>"
+      },
+      {
+        "target": "div > div > article:nth-of-type(3) > div > a",
+        "text": "Read More",
+        "ariaLabel": "Read more about The City of Selkirk and LSSD, Ward 5 Require Election Officials",
+        "title": "",
+        "href": "https://www.myselkirk.ca/blog/2026/09/01/the-city-of-selkirk-and-lssd-ward-5-required-election-officials/",
+        "imgAlt": "",
+        "box": {
+          "x": 193,
+          "y": 3084.9375,
+          "w": 64.265625,
+          "h": 17
+        },
+        "context": "heading: The City of Selkirk and LSSD, Ward 5 Require Election Officials",
+        "contextKind": "heading-only",
+        "html": "<a class=\"elementor-post__read-more\" href=\"https://www.myselkirk.ca/blog/2026/09/01/the-city-of-selkirk-and-lssd-ward-5-required-election-officials/\" aria-label=\"Read more about The City of Selkirk and LSSD, Ward 5 Require Election Officials\" tabindex=\"-1\">\n\t\t\tRead More\t\t</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div > div > article:nth-of-type(4) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.myselkirk.ca/blog/2026/09/01/city-of-selkirk-proclamation-arthritis-awareness-month-september-2026/",
+        "imgAlt": "City of Selkirk Proclamation",
+        "box": {
+          "x": 193,
+          "y": 3141.9375,
+          "w": 605,
+          "h": 345.703125
+        },
+        "context": "heading: The City of Selkirk and LSSD, Ward 5 Require Election Officials",
+        "contextKind": "heading-only",
+        "html": "<a class=\"elementor-post__thumbnail__link\" href=\"https://www.myselkirk.ca/blog/2026/09/01/city-of-selkirk-proclamation-arthritis-awareness-month-september-2026/\" tabindex=\"-1\">\n\t\t\t<div class=\"elementor-post__thumbnail\"><img loading=\"lazy\" decoding=\"async\" width=\"700\" height=\"400\" src=\"https://www.my"
+      },
+      {
+        "target": "div > article:nth-of-type(4) > div > h2 > a",
+        "text": "City of Selkirk Proclamation – Arthritis Awareness Month September 2026",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.myselkirk.ca/blog/2026/09/01/city-of-selkirk-proclamation-arthritis-awareness-month-september-2026/",
+        "imgAlt": "",
+        "box": {
+          "x": 193,
+          "y": 3503.640625,
+          "w": 477.734375,
+          "h": 137
+        },
+        "context": "heading: City of Selkirk Proclamation – Arthritis Awareness Month September 2026 | City of Selkirk Proclamation – Arthritis Awareness Month September 2026",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.myselkirk.ca/blog/2026/09/01/city-of-selkirk-proclamation-arthritis-awareness-month-september-2026/\">\n\t\t\t\tCity of Selkirk Proclamation – Arthritis Awareness Month September 2026\t\t\t</a>"
+      },
+      {
+        "target": "div > div > article:nth-of-type(4) > div > a",
+        "text": "Read More",
+        "ariaLabel": "Read more about City of Selkirk Proclamation – Arthritis Awareness Month September 2026",
+        "title": "",
+        "href": "https://www.myselkirk.ca/blog/2026/09/01/city-of-selkirk-proclamation-arthritis-awareness-month-september-2026/",
+        "imgAlt": "",
+        "box": {
+          "x": 193,
+          "y": 3828.640625,
+          "w": 64.265625,
+          "h": 17
+        },
+        "context": "heading: City of Selkirk Proclamation – Arthritis Awareness Month September 2026",
+        "contextKind": "heading-only",
+        "html": "<a class=\"elementor-post__read-more\" href=\"https://www.myselkirk.ca/blog/2026/09/01/city-of-selkirk-proclamation-arthritis-awareness-month-september-2026/\" aria-label=\"Read more about City of Selkirk Proclamation – Arthritis Awareness Month September 2026\" tabindex=\"-1\">\n\t\t\tRead More\t\t</a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div > div > article:nth-of-type(5) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.myselkirk.ca/blog/2026/09/01/city-of-selkirk-proclamation-mitochondrial-disease-awareness-month-september-2026/",
+        "imgAlt": "City of Selkirk Proclamation",
+        "box": {
+          "x": 193,
+          "y": 3885.640625,
+          "w": 605,
+          "h": 345.703125
+        },
+        "context": "heading: City of Selkirk Proclamation – Arthritis Awareness Month September 2026",
+        "contextKind": "heading-only",
+        "html": "<a class=\"elementor-post__thumbnail__link\" href=\"https://www.myselkirk.ca/blog/2026/09/01/city-of-selkirk-proclamation-mitochondrial-disease-awareness-month-september-2026/\" tabindex=\"-1\">\n\t\t\t<div class=\"elementor-post__thumbnail\"><img loading=\"lazy\" decoding=\"async\" width=\"700\" height=\"400\" src=\"ht"
+      },
+      {
+        "target": "div > article:nth-of-type(5) > div > h2 > a",
+        "text": "City of Selkirk Proclamation – Mitochondrial Disease Awareness Month September 2026",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.myselkirk.ca/blog/2026/09/01/city-of-selkirk-proclamation-mitochondrial-disease-awareness-month-september-2026/",
+        "imgAlt": "",
+        "box": {
+          "x": 193,
+          "y": 4247.34375,
+          "w": 558.453125,
+          "h": 137
+        },
+        "context": "heading: City of Selkirk Proclamation – Mitochondrial Disease Awareness Month September 2026 | City of Selkirk Proclamation – Mitochondrial Disease Awareness Month September 2026",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.myselkirk.ca/blog/2026/09/01/city-of-selkirk-proclamation-mitochondrial-disease-awareness-month-september-2026/\">\n\t\t\t\tCity of Selkirk Proclamation – Mitochondrial Disease Awareness Month September 2026\t\t\t</a>"
+      },
+      {
+        "target": "div > div > article:nth-of-type(5) > div > a",
+        "text": "Read More",
+        "ariaLabel": "Read more about City of Selkirk Proclamation – Mitochondrial Disease Awareness Month September 2026",
+        "title": "",
+        "href": "https://www.myselkirk.ca/blog/2026/09/01/city-of-selkirk-proclamation-mitochondrial-disease-awareness-month-september-2026/",
+        "imgAlt": "",
+        "box": {
+          "x": 193,
+          "y": 4548.34375,
+          "w": 64.265625,
+          "h": 17
+        },
+        "context": "heading: City of Selkirk Proclamation – Mitochondrial Disease Awareness Month September 2026",
+        "contextKind": "heading-only",
+        "html": "<a class=\"elementor-post__read-more\" href=\"https://www.myselkirk.ca/blog/2026/09/01/city-of-selkirk-proclamation-mitochondrial-disease-awareness-month-september-2026/\" aria-label=\"Read more about City of Selkirk Proclamation – Mitochondrial Disease Awareness Month September 2026\" tabindex=\"-1\">\n\t\t\tR"
+      },
+      {
+        "target": "div:nth-of-type(2) > div > div > article:nth-of-type(6) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.myselkirk.ca/blog/2026/08/28/public-notice-regarding-upcoming-selkirk-skatepark-closure/",
+        "imgAlt": "Public Notice Regarding Upcoming Selkirk Skatepark Closure",
+        "box": {
+          "x": 193,
+          "y": 4605.34375,
+          "w": 605,
+          "h": 345.703125
+        },
+        "context": "heading: City of Selkirk Proclamation – Mitochondrial Disease Awareness Month September 2026",
+        "contextKind": "heading-only",
+        "html": "<a class=\"elementor-post__thumbnail__link\" href=\"https://www.myselkirk.ca/blog/2026/08/28/public-notice-regarding-upcoming-selkirk-skatepark-closure/\" tabindex=\"-1\">\n\t\t\t<div class=\"elementor-post__thumbnail\"><img loading=\"lazy\" decoding=\"async\" width=\"700\" height=\"400\" src=\"https://www.myselkirk.ca/"
+      },
+      {
+        "target": "div > article:nth-of-type(6) > div > h2 > a",
+        "text": "Public Notice Regarding Upcoming Selkirk Skatepark Closure",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.myselkirk.ca/blog/2026/08/28/public-notice-regarding-upcoming-selkirk-skatepark-closure/",
+        "imgAlt": "",
+        "box": {
+          "x": 193,
+          "y": 4967.046875,
+          "w": 572.6875,
+          "h": 94
+        },
+        "context": "heading: Public Notice Regarding Upcoming Selkirk Skatepark Closure | Public Notice Regarding Upcoming Selkirk Skatepark Closure",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.myselkirk.ca/blog/2026/08/28/public-notice-regarding-upcoming-selkirk-skatepark-closure/\">\n\t\t\t\tPublic Notice Regarding Upcoming Selkirk Skatepark Closure\t\t\t</a>"
+      },
+      {
+        "target": "div > div > article:nth-of-type(6) > div > a",
+        "text": "Read More",
+        "ariaLabel": "Read more about Public Notice Regarding Upcoming Selkirk Skatepark Closure",
+        "title": "",
+        "href": "https://www.myselkirk.ca/blog/2026/08/28/public-notice-regarding-upcoming-selkirk-skatepark-closure/",
+        "imgAlt": "",
+        "box": {
+          "x": 193,
+          "y": 5225.046875,
+          "w": 64.265625,
+          "h": 17
+        },
+        "context": "heading: Public Notice Regarding Upcoming Selkirk Skatepark Closure",
+        "contextKind": "heading-only",
+        "html": "<a class=\"elementor-post__read-more\" href=\"https://www.myselkirk.ca/blog/2026/08/28/public-notice-regarding-upcoming-selkirk-skatepark-closure/\" aria-label=\"Read more about Public Notice Regarding Upcoming Selkirk Skatepark Closure\" tabindex=\"-1\">\n\t\t\tRead More\t\t</a>"
+      },
+      {
+        "target": "#content > div:nth-of-type(2) > div:nth-of-type(2) > a:nth-of-type(1)",
+        "text": "Share on Facebook",
+        "ariaLabel": "",
+        "title": "Facebook",
+        "href": "https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.myselkirk.ca%2F&t=Home+-+City+of+Selkirk",
+        "imgAlt": "",
+        "box": {
+          "x": 387.5,
+          "y": 5339.046875,
+          "w": 50,
+          "h": 30
+        },
+        "context": "heading: Public Notice Regarding Upcoming Selkirk Skatepark Closure | Share on Facebook Share on X Share on Pinterest Share on LinkedIn",
+        "contextKind": "block",
+        "html": "<a class=\"facebook\" href=\"https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.myselkirk.ca%2F&amp;t=Home+-+City+of+Selkirk\" title=\"Facebook\" target=\"_blank\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"currentColor\" class=\"bi bi-facebook\" viewBox=\"0 0 16 16\"><path d=\"M16 "
+      },
+      {
+        "target": "#content > div:nth-of-type(2) > div:nth-of-type(2) > a:nth-of-type(2)",
+        "text": "Share on X",
+        "ariaLabel": "",
+        "title": "X",
+        "href": "https://twitter.com/share?url=https%3A%2F%2Fwww.myselkirk.ca%2F&text=Home+-+City+of+Selkirk",
+        "imgAlt": "",
+        "box": {
+          "x": 441.5,
+          "y": 5339.046875,
+          "w": 50,
+          "h": 30
+        },
+        "context": "heading: Public Notice Regarding Upcoming Selkirk Skatepark Closure | Share on Facebook Share on X Share on Pinterest Share on LinkedIn",
+        "contextKind": "block",
+        "html": "<a class=\"twitter\" href=\"https://twitter.com/share?url=https%3A%2F%2Fwww.myselkirk.ca%2F&amp;text=Home+-+City+of+Selkirk\" title=\"X\" target=\"_blank\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" viewBox=\"0 0 512 512\" fill=\"currentColor\"><path d=\"M389.2 48h70.6L305.6 224.2 487 464H345"
+      },
+      {
+        "target": "#content > div:nth-of-type(2) > div:nth-of-type(2) > a:nth-of-type(3)",
+        "text": "Share on Pinterest",
+        "ariaLabel": "",
+        "title": "Pinterest",
+        "href": "//pinterest.com/pin/create/button/",
+        "imgAlt": "",
+        "box": {
+          "x": 495.5,
+          "y": 5339.046875,
+          "w": 50,
+          "h": 30
+        },
+        "context": "heading: Public Notice Regarding Upcoming Selkirk Skatepark Closure | Share on Facebook Share on X Share on Pinterest Share on LinkedIn",
+        "contextKind": "block",
+        "html": "<a class=\"pinterest pinit-marklet\" href=\"//pinterest.com/pin/create/button/\" title=\"Pinterest\" target=\"_blank\" data-pin-config=\"above\" data-pin-do=\"buttonBookmark\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"currentColor\" class=\"bi bi-pinterest\" viewBox=\"0 0 16 16\"><path d=\""
+      },
+      {
+        "target": "#content > div:nth-of-type(2) > div:nth-of-type(2) > a:nth-of-type(4)",
+        "text": "Share on LinkedIn",
+        "ariaLabel": "",
+        "title": "LinkedIn",
+        "href": "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.myselkirk.ca%2F&title=Home%20-%20City%20of%20Selkirk&summary=&source=City%20of%20Selkirk",
+        "imgAlt": "",
+        "box": {
+          "x": 549.5,
+          "y": 5339.046875,
+          "w": 50,
+          "h": 30
+        },
+        "context": "heading: Public Notice Regarding Upcoming Selkirk Skatepark Closure | Share on Facebook Share on X Share on Pinterest Share on LinkedIn",
+        "contextKind": "block",
+        "html": "<a class=\"linkedin\" href=\"https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fwww.myselkirk.ca%2F&amp;title=Home%20-%20City%20of%20Selkirk&amp;summary=&amp;source=City%20of%20Selkirk\" title=\"LinkedIn\" target=\"_blank\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fi"
+      },
+      {
+        "target": "#page > a:nth-of-type(2)",
+        "text": "Go to Top",
+        "ariaLabel": "",
+        "title": "",
+        "href": "#",
+        "imgAlt": "",
+        "box": {
+          "x": 1316,
+          "y": 850,
+          "w": 40,
+          "h": 40
+        },
+        "context": "heading: Public Notice Regarding Upcoming Selkirk Skatepark Closure",
+        "contextKind": "heading-only",
+        "html": "<a href=\"#\" class=\"scroll-top\"><svg version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" x=\"0px\" y=\"0px\" viewBox=\"0 0 16 16\" style=\"enable-background:new 0 0 16 16;\" xml:space=\"preserve\">\n<path d=\"M11.7,6.3l-3-3C8.5,3.1,8.3,3,8,3c0,0,0,0,0,0C7.7,3,7.5,3.1,7.3,3"
+      },
+      {
+        "target": "#phantom > div > div:nth-of-type(1) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.myselkirk.ca/",
+        "imgAlt": "City of Selkirk",
+        "box": {
+          "x": 163,
+          "y": 0,
+          "w": 240,
+          "h": 83
+        },
+        "context": "heading: Public Notice Regarding Upcoming Selkirk Skatepark Closure | City Services City Government Doing Business Parks & Recreation Discover Selkirk",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.myselkirk.ca/\"><img class=\" preload-me\" src=\"https://www.myselkirk.ca/wp-content/uploads/2025/02/selkirk_logo_header_tagline.webp\" srcset=\"https://www.myselkirk.ca/wp-content/uploads/2025/02/selkirk_logo_header_tagline.webp 240w, https://www.myselkirk.ca/wp-content/uploads/2025/"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > ul > li:nth-of-type(1) > a",
+        "text": "City Services",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.myselkirk.ca/city-services/",
+        "imgAlt": "",
+        "box": {
+          "x": 423.171875,
+          "y": 18,
+          "w": 106.390625,
+          "h": 47
+        },
+        "context": "City Services",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.myselkirk.ca/city-services/\" data-level=\"1\" aria-haspopup=\"true\" aria-expanded=\"false\"><span class=\"menu-item-text\"><span class=\"menu-text\">City Services</span></span></a>"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > ul > li:nth-of-type(2) > a",
+        "text": "City Government",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.myselkirk.ca/city-government/",
+        "imgAlt": "",
+        "box": {
+          "x": 557.5625,
+          "y": 18,
+          "w": 141.765625,
+          "h": 47
+        },
+        "context": "City Government",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.myselkirk.ca/city-government/\" data-level=\"1\" aria-haspopup=\"true\" aria-expanded=\"false\"><span class=\"menu-item-text\"><span class=\"menu-text\">City Government</span></span></a>"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > ul > li:nth-of-type(3) > a",
+        "text": "Doing Business",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.myselkirk.ca/doing-business/",
+        "imgAlt": "",
+        "box": {
+          "x": 727.328125,
+          "y": 18,
+          "w": 128.90625,
+          "h": 47
+        },
+        "context": "Doing Business",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.myselkirk.ca/doing-business/\" data-level=\"1\" aria-haspopup=\"true\" aria-expanded=\"false\"><span class=\"menu-item-text\"><span class=\"menu-text\">Doing Business</span></span></a>"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > ul > li:nth-of-type(4) > a",
+        "text": "Parks & Recreation",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.myselkirk.ca/parks-recreation/",
+        "imgAlt": "",
+        "box": {
+          "x": 884.234375,
+          "y": 18,
+          "w": 158,
+          "h": 47
+        },
+        "context": "Parks & Recreation",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.myselkirk.ca/parks-recreation/\" data-level=\"1\" aria-haspopup=\"true\" aria-expanded=\"false\"><span class=\"menu-item-text\"><span class=\"menu-text\">Parks &amp; Recreation</span></span></a>"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > ul > li:nth-of-type(5) > a",
+        "text": "Discover Selkirk",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.myselkirk.ca/discover-selkirk/",
+        "imgAlt": "",
+        "box": {
+          "x": 1070.234375,
+          "y": 18,
+          "w": 132.765625,
+          "h": 47
+        },
+        "context": "Discover Selkirk",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.myselkirk.ca/discover-selkirk/\" data-level=\"1\" aria-haspopup=\"true\" aria-expanded=\"false\"><span class=\"menu-item-text\"><span class=\"menu-text\">Discover Selkirk</span></span></a>"
+      }
+    ],
+    "headings": [
+      {
+        "target": "#SR7_31_1-184-41",
+        "level": 3,
+        "text": "",
+        "visible": false,
+        "box": {
+          "x": 873,
+          "y": 297,
+          "w": 331.578125,
+          "h": 75
+        },
+        "html": "<h3 id=\"SR7_31_1-184-41\" class=\"sr7-layer sr-force-nointeraction\" aria-hidden=\"true\" style=\"transform-origin: 50% 50%; font-family: Inter; font-size: 65px; font-weight: 800; color: rgb(255, 255, 255); text-transform: none; text-decoration: none; letter-spacing: 0px; text-shadow: rgba(0, 0, 0, 0.25) "
+      },
+      {
+        "target": "#SR7_31_1-184-40",
+        "level": 1,
+        "text": "",
+        "visible": false,
+        "box": {
+          "x": 336,
+          "y": 224,
+          "w": 869.453125,
+          "h": 80
+        },
+        "html": "<h1 id=\"SR7_31_1-184-40\" class=\"sr7-layer sr-force-nointeraction\" aria-hidden=\"true\" style=\"transform-origin: 50% 50%; font-family: Inter; font-size: 70px; font-weight: 800; color: rgb(255, 255, 255); text-transform: none; text-decoration: none; letter-spacing: 0px; text-shadow: rgba(0, 0, 0, 0.25) "
+      },
+      {
+        "target": "#SR7_31_1-188-43",
+        "level": 3,
+        "text": "October 28, 2026",
+        "visible": true,
+        "box": {
+          "x": 362,
+          "y": 319,
+          "w": 416.890625,
+          "h": 59
+        },
+        "html": "<h3 id=\"SR7_31_1-188-43\" class=\"sr7-layer\" aria-hidden=\"true\" style=\"transform-origin: 50% 50%; font-family: &quot;Open Sans&quot;; font-size: 49px; font-weight: 800; color: rgb(255, 255, 255); text-transform: none; text-decoration: none; letter-spacing: 0px; line-height: 59px; text-align: left; whi"
+      },
+      {
+        "target": "#SR7_31_1-188-38",
+        "level": 1,
+        "text": "2026 Municipal Election",
+        "visible": true,
+        "box": {
+          "x": 362,
+          "y": 251,
+          "w": 736.296875,
+          "h": 71
+        },
+        "html": "<h1 id=\"SR7_31_1-188-38\" class=\"sr7-layer\" aria-hidden=\"true\" style=\"transform-origin: 50% 50%; font-family: &quot;Open Sans&quot;; font-size: 61px; font-weight: 800; color: rgb(255, 255, 255); text-transform: none; text-decoration: none; letter-spacing: 0px; text-shadow: rgba(0, 0, 0, 0.25) 0px 10p"
+      },
+      {
+        "target": "div > div:nth-of-type(1) > div > div > h4",
+        "level": 4,
+        "text": "Blue Book",
+        "visible": true,
+        "box": {
+          "x": -1201.0872802734375,
+          "y": 901.828125,
+          "w": 90.734375,
+          "h": 30
+        },
+        "html": "<h4 class=\"dt-owl-item-heading\"><a href=\"https://www.myselkirk.ca/community-services/blue-book/\">Blue Book</a></h4>"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > div > div > h4",
+        "level": 4,
+        "text": "Public Hearings",
+        "visible": true,
+        "box": {
+          "x": -1018.5247802734375,
+          "y": 901.828125,
+          "w": 138.9375,
+          "h": 30
+        },
+        "html": "<h4 class=\"dt-owl-item-heading\"><a href=\"https://www.myselkirk.ca/publichearings\">Public Hearings</a></h4>"
+      },
+      {
+        "target": "div > div:nth-of-type(3) > div > div > h4",
+        "level": 4,
+        "text": "Selkirk Transit",
+        "visible": true,
+        "box": {
+          "x": -804.6497802734375,
+          "y": 901.828125,
+          "w": 124.484375,
+          "h": 30
+        },
+        "html": "<h4 class=\"dt-owl-item-heading\"><a href=\"http://mysta.ca/\">Selkirk Transit</a></h4>"
+      },
+      {
+        "target": "div > div:nth-of-type(4) > div > div > h4",
+        "level": 4,
+        "text": "2026 Election Information",
+        "visible": true,
+        "box": {
+          "x": -631.5716552734375,
+          "y": 901.828125,
+          "w": 191.65625,
+          "h": 60
+        },
+        "html": "<h4 class=\"dt-owl-item-heading\"><a href=\"https://www.myselkirk.ca/city-government/city-council/election2026/\">2026 Election Information</a></h4>"
+      },
+      {
+        "target": "div > div:nth-of-type(5) > div > div > h4",
+        "level": 4,
+        "text": "Council",
+        "visible": true,
+        "box": {
+          "x": -362.2435302734375,
+          "y": 901.828125,
+          "w": 66.3125,
+          "h": 30
+        },
+        "html": "<h4 class=\"dt-owl-item-heading\"><a href=\"https://www.myselkirk.ca/city-government/city-council/\">Council</a></h4>"
+      },
+      {
+        "target": "div > div:nth-of-type(6) > div > div > h4",
+        "level": 4,
+        "text": "Solid Waste pickup",
+        "visible": true,
+        "box": {
+          "x": -206.8060302734375,
+          "y": 901.828125,
+          "w": 168.734375,
+          "h": 30
+        },
+        "html": "<h4 class=\"dt-owl-item-heading\"><a href=\"https://www.myselkirk.ca/city-services/public-works/recyclingandwaste/#:~:text=Spring%20Clean%2Dup-,Pickup%20Schedule,-To%20use%20the\">Solid Waste pickup</a></h4>"
+      },
+      {
+        "target": "div > div:nth-of-type(7) > div > div > h4",
+        "level": 4,
+        "text": "Community Events Calendar",
+        "visible": true,
+        "box": {
+          "x": -11.6029052734375,
+          "y": 901.828125,
+          "w": 191.65625,
+          "h": 60
+        },
+        "html": "<h4 class=\"dt-owl-item-heading\"><a href=\"https://www.myselkirk.ca/events/\">Community Events Calendar</a></h4>"
+      },
+      {
+        "target": "div > div:nth-of-type(8) > div > div > h4",
+        "level": 4,
+        "text": "Blue Book",
+        "visible": true,
+        "box": {
+          "x": 245.5064697265625,
+          "y": 901.828125,
+          "w": 90.734375,
+          "h": 30
+        },
+        "html": "<h4 class=\"dt-owl-item-heading\"><a href=\"https://www.myselkirk.ca/community-services/blue-book/\">Blue Book</a></h4>"
+      },
+      {
+        "target": "div > div:nth-of-type(9) > div > div > h4",
+        "level": 4,
+        "text": "Public Hearings",
+        "visible": true,
+        "box": {
+          "x": 428.0689697265625,
+          "y": 901.828125,
+          "w": 138.9375,
+          "h": 30
+        },
+        "html": "<h4 class=\"dt-owl-item-heading\"><a href=\"https://www.myselkirk.ca/publichearings\">Public Hearings</a></h4>"
+      },
+      {
+        "target": "div > div:nth-of-type(10) > div > div > h4",
+        "level": 4,
+        "text": "Selkirk Transit",
+        "visible": true,
+        "box": {
+          "x": 641.9439697265625,
+          "y": 901.828125,
+          "w": 124.484375,
+          "h": 30
+        },
+        "html": "<h4 class=\"dt-owl-item-heading\"><a href=\"http://mysta.ca/\">Selkirk Transit</a></h4>"
+      },
+      {
+        "target": "div > div:nth-of-type(11) > div > div > h4",
+        "level": 4,
+        "text": "2026 Election Information",
+        "visible": true,
+        "box": {
+          "x": 815.0220947265625,
+          "y": 901.828125,
+          "w": 191.65625,
+          "h": 60
+        },
+        "html": "<h4 class=\"dt-owl-item-heading\"><a href=\"https://www.myselkirk.ca/city-government/city-council/election2026/\">2026 Election Information</a></h4>"
+      },
+      {
+        "target": "div > div:nth-of-type(12) > div > div > h4",
+        "level": 4,
+        "text": "Council",
+        "visible": true,
+        "box": {
+          "x": 1084.3502197265625,
+          "y": 901.828125,
+          "w": 66.3125,
+          "h": 30
+        },
+        "html": "<h4 class=\"dt-owl-item-heading\"><a href=\"https://www.myselkirk.ca/city-government/city-council/\">Council</a></h4>"
+      },
+      {
+        "target": "div > div:nth-of-type(13) > div > div > h4",
+        "level": 4,
+        "text": "Solid Waste pickup",
+        "visible": true,
+        "box": {
+          "x": 1239.7877197265625,
+          "y": 901.828125,
+          "w": 168.734375,
+          "h": 30
+        },
+        "html": "<h4 class=\"dt-owl-item-heading\"><a href=\"https://www.myselkirk.ca/city-services/public-works/recyclingandwaste/#:~:text=Spring%20Clean%2Dup-,Pickup%20Schedule,-To%20use%20the\">Solid Waste pickup</a></h4>"
+      },
+      {
+        "target": "div > div:nth-of-type(14) > div > div > h4",
+        "level": 4,
+        "text": "Community Events Calendar",
+        "visible": true,
+        "box": {
+          "x": 1434.9908447265625,
+          "y": 901.828125,
+          "w": 191.65625,
+          "h": 60
+        },
+        "html": "<h4 class=\"dt-owl-item-heading\"><a href=\"https://www.myselkirk.ca/events/\">Community Events Calendar</a></h4>"
+      },
+      {
+        "target": "div > div:nth-of-type(15) > div > div > h4",
+        "level": 4,
+        "text": "Blue Book",
+        "visible": true,
+        "box": {
+          "x": 1692.1002197265625,
+          "y": 901.828125,
+          "w": 90.734375,
+          "h": 30
+        },
+        "html": "<h4 class=\"dt-owl-item-heading\"><a href=\"https://www.myselkirk.ca/community-services/blue-book/\">Blue Book</a></h4>"
+      },
+      {
+        "target": "div > div > div:nth-of-type(1) > div > h3",
+        "level": 3,
+        "text": "News and Announcements",
+        "visible": true,
+        "box": {
+          "x": 193,
+          "y": 986.828125,
+          "w": 605,
+          "h": 43
+        },
+        "html": "<h3 class=\"elementor-heading-title elementor-size-default\">News and Announcements</h3>"
+      },
+      {
+        "target": "div > div > article:nth-of-type(1) > div > h2",
+        "level": 2,
+        "text": "Public Notice Regarding Cancellation of the Committee of the Whole Meeting for September 21",
+        "visible": true,
+        "box": {
+          "x": 193,
+          "y": 1415.53125,
+          "w": 605,
+          "h": 172
+        },
+        "html": "<h2 class=\"elementor-post__title\">\n\t\t\t<a href=\"https://www.myselkirk.ca/blog/2026/09/17/public-notice-regarding-cancellation-of-the-committee-of-the-whole-meeting-for-september-21/\">\n\t\t\t\tPublic Notice Regarding Cancellation of the Committee of the Whole Meeting for September 21\t\t\t</a>\n\t\t</h2>"
+      },
+      {
+        "target": "div > div > article:nth-of-type(2) > div > h2",
+        "level": 2,
+        "text": "Public Notice Regarding Labour Day Schedule Changes and Closures",
+        "visible": true,
+        "box": {
+          "x": 193,
+          "y": 2154.234375,
+          "w": 605,
+          "h": 86
+        },
+        "html": "<h2 class=\"elementor-post__title\">\n\t\t\t<a href=\"https://www.myselkirk.ca/blog/2026/09/03/public-notice-regarding-labour-day-schedule-changes-and-closures-2/\">\n\t\t\t\tPublic Notice Regarding Labour Day Schedule Changes and Closures\t\t\t</a>\n\t\t</h2>"
+      },
+      {
+        "target": "div > div > article:nth-of-type(3) > div > h2",
+        "level": 2,
+        "text": "The City of Selkirk and LSSD, Ward 5 Require Election Officials",
+        "visible": true,
+        "box": {
+          "x": 193,
+          "y": 2830.9375,
+          "w": 605,
+          "h": 86
+        },
+        "html": "<h2 class=\"elementor-post__title\">\n\t\t\t<a href=\"https://www.myselkirk.ca/blog/2026/09/01/the-city-of-selkirk-and-lssd-ward-5-required-election-officials/\">\n\t\t\t\tThe City of Selkirk and LSSD, Ward 5 Require Election Officials\t\t\t</a>\n\t\t</h2>"
+      },
+      {
+        "target": "div > div > article:nth-of-type(4) > div > h2",
+        "level": 2,
+        "text": "City of Selkirk Proclamation – Arthritis Awareness Month September 2026",
+        "visible": true,
+        "box": {
+          "x": 193,
+          "y": 3507.640625,
+          "w": 605,
+          "h": 129
+        },
+        "html": "<h2 class=\"elementor-post__title\">\n\t\t\t<a href=\"https://www.myselkirk.ca/blog/2026/09/01/city-of-selkirk-proclamation-arthritis-awareness-month-september-2026/\">\n\t\t\t\tCity of Selkirk Proclamation – Arthritis Awareness Month September 2026\t\t\t</a>\n\t\t</h2>"
+      },
+      {
+        "target": "div > div > article:nth-of-type(5) > div > h2",
+        "level": 2,
+        "text": "City of Selkirk Proclamation – Mitochondrial Disease Awareness Month September 2026",
+        "visible": true,
+        "box": {
+          "x": 193,
+          "y": 4251.34375,
+          "w": 605,
+          "h": 129
+        },
+        "html": "<h2 class=\"elementor-post__title\">\n\t\t\t<a href=\"https://www.myselkirk.ca/blog/2026/09/01/city-of-selkirk-proclamation-mitochondrial-disease-awareness-month-september-2026/\">\n\t\t\t\tCity of Selkirk Proclamation – Mitochondrial Disease Awareness Month September 2026\t\t\t</a>\n\t\t</h2>"
+      },
+      {
+        "target": "div > div > article:nth-of-type(6) > div > h2",
+        "level": 2,
+        "text": "Public Notice Regarding Upcoming Selkirk Skatepark Closure",
+        "visible": true,
+        "box": {
+          "x": 193,
+          "y": 4971.046875,
+          "w": 605,
+          "h": 86
+        },
+        "html": "<h2 class=\"elementor-post__title\">\n\t\t\t<a href=\"https://www.myselkirk.ca/blog/2026/08/28/public-notice-regarding-upcoming-selkirk-skatepark-closure/\">\n\t\t\t\tPublic Notice Regarding Upcoming Selkirk Skatepark Closure\t\t\t</a>\n\t\t</h2>"
+      }
+    ],
+    "lang": "en-CA",
+    "title": "City of Selkirk, Manitoba"
+  },
   "axe": {
     "violationRules": 4,
     "violationNodes": 7,
     "passRules": 34,
-    "passNodes": 642,
+    "passNodes": 687,
     "incompleteRules": 1,
     "incompleteNodes": 9,
     "inapplicableRules": 28,
-    "testedNodes": 658
+    "testedNodes": 703
   },
   "incomplete": [
     {
@@ -142,7 +2345,7 @@
             "fontWeight": "400",
             "color": "rgb(139, 141, 148)",
             "background": "rgb(253, 253, 253)",
-            "text": "Select Month September 2026 (6) August 2026 (9) July 2026 (7) June 2026 (11) May"
+            "text": "Select Month September 2026 (7) August 2026 (9) July 2026 (7) June 2026 (11) May"
           }
         },
         {
@@ -312,7 +2515,7 @@
       "items": [
         {
           "target": "#form_email_1",
-          "html": "<input type=\"email\" autocomplete=\"email\" class=\"mailpoet_text\" id=\"form_email_1\" name=\"data[form_field_MDc0...\" title=\"Email Address\" value=\"\" style=\"width: 100%; box-siz...\" data-automation-id=\"form_email\" data-parsley-errors-...=\".mailpoet_error_12np...\" data-parsley-require...=\"true\" ...>",
+          "html": "<input type=\"email\" autocomplete=\"email\" class=\"mailpoet_text\" id=\"form_email_1\" name=\"data[form_field_MDc0...\" title=\"Email Address\" value=\"\" style=\"width: 100%; box-siz...\" data-automation-id=\"form_email\" data-parsley-errors-...=\".mailpoet_error_17h1...\" data-parsley-require...=\"true\" ...>",
           "impact": "serious",
           "messages": [
             "Element has insufficient color contrast of 3.25 (foreground color: #8b8d94, background color: #fdfdfd, font size: 11.3pt (15px), font weight: normal). Expected contrast ratio of 4.5:1"
@@ -331,7 +2534,7 @@
         },
         {
           "target": "#form_first_name_1",
-          "html": "<input type=\"text\" autocomplete=\"given-name\" class=\"mailpoet_text\" id=\"form_first_name_1\" name=\"data[form_field_Yjgy...\" title=\"First name\" value=\"\" style=\"width: 100%; box-siz...\" data-automation-id=\"form_first_name\" data-parsley-errors-...=\".mailpoet_error_rtl1...\" ...>",
+          "html": "<input type=\"text\" autocomplete=\"given-name\" class=\"mailpoet_text\" id=\"form_first_name_1\" name=\"data[form_field_Yjgy...\" title=\"First name\" value=\"\" style=\"width: 100%; box-siz...\" data-automation-id=\"form_first_name\" data-parsley-errors-...=\".mailpoet_error_6dan...\" ...>",
           "impact": "serious",
           "messages": [
             "Element has insufficient color contrast of 3.25 (foreground color: #8b8d94, background color: #fdfdfd, font size: 11.3pt (15px), font weight: normal). Expected contrast ratio of 4.5:1"
@@ -350,7 +2553,7 @@
         },
         {
           "target": "#form_last_name_1",
-          "html": "<input type=\"text\" autocomplete=\"family-name\" class=\"mailpoet_text\" id=\"form_last_name_1\" name=\"data[form_field_ZTQ1...\" title=\"Last name\" value=\"\" style=\"width: 100%; box-siz...\" data-automation-id=\"form_last_name\" data-parsley-errors-...=\".mailpoet_error_qrxd...\" ...>",
+          "html": "<input type=\"text\" autocomplete=\"family-name\" class=\"mailpoet_text\" id=\"form_last_name_1\" name=\"data[form_field_ZTQ1...\" title=\"Last name\" value=\"\" style=\"width: 100%; box-siz...\" data-automation-id=\"form_last_name\" data-parsley-errors-...=\".mailpoet_error_budw...\" ...>",
           "impact": "serious",
           "messages": [
             "Element has insufficient color contrast of 3.25 (foreground color: #8b8d94, background color: #fdfdfd, font size: 11.3pt (15px), font weight: normal). Expected contrast ratio of 4.5:1"

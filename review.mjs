@@ -83,10 +83,32 @@ function writeLog() {
 
   md += `## Totals\n\n`;
   md += `| | Findings | Reviewed | Confirmed | Rejected | Closer look |\n|---|---:|---:|---:|---:|---:|\n`;
-  for (const kind of ['incomplete', 'violation']) {
+  const KIND_LABEL = { incomplete: 'axe could not decide', violation: 'axe reported a failure', model: 'raised by the model where axe has no rule' };
+  for (const kind of ['violation', 'incomplete', 'model']) {
     const all = findings.filter((f) => f.kind === kind);
+    if (!all.length) continue;
     const dec = decided.filter((f) => f.kind === kind);
-    md += `| ${kind === 'incomplete' ? 'axe could not decide' : 'axe reported a failure'} | ${all.length} | ${dec.length} | ${count(dec, 'confirm')} | ${count(dec, 'reject')} | ${count(dec, 'look')} |\n`;
+    md += `| ${KIND_LABEL[kind]} | ${all.length} | ${dec.length} | ${count(dec, 'confirm')} | ${count(dec, 'reject')} | ${count(dec, 'look')} |\n`;
+  }
+
+  // What the tools miss: issues the model raised with no axe rule behind them, and how many a person kept.
+  const modelAll = findings.filter((f) => f.kind === 'model');
+  if (modelAll.length) {
+    md += `\n## Beyond the rules\n\n`;
+    md += `Checks no rule engine can make — alt text that says what the image says, link text that says where it goes, headings that describe their section — run by a local vision model on the captured content. `;
+    md += `Each raised item is a claim; the reviewer's Confirm or Ignore is the measurement of whether the claim holds.\n\n`;
+    md += `| Check | WCAG | Raised | Reviewed | Confirmed | Ignored | Precision |\n|---|---|---:|---:|---:|---:|---:|\n`;
+    for (const check of [...new Set(modelAll.map((f) => f.rule))].sort()) {
+      const all = modelAll.filter((f) => f.rule === check);
+      const dec = all.filter((f) => decisions[f.id] && decisions[f.id].verdict !== 'look');
+      const c = dec.filter((f) => decisions[f.id].verdict === 'confirm').length;
+      md += `| \`${check}\` | ${all[0].wcag.join(', ')} | ${all.length} | ${dec.length} | ${c} | ${dec.length - c} | ${pct(c, dec.length)} |\n`;
+    }
+    const axeConfirmed = decided.filter((f) => f.kind !== 'model' && decisions[f.id].verdict === 'confirm').length;
+    const modelConfirmed = decided.filter((f) => f.kind === 'model' && decisions[f.id].verdict === 'confirm').length;
+    if (axeConfirmed + modelConfirmed) {
+      md += `\nOf the **${axeConfirmed + modelConfirmed}** confirmed problems so far, **${modelConfirmed}** (${pct(modelConfirmed, axeConfirmed + modelConfirmed)}) had no axe rule behind them. That share is what "automated tools miss" means on these pages, as reviewed.\n`;
+    }
   }
 
   md += `\n## By rule\n\n`;
@@ -223,9 +245,9 @@ function sitesPayload() {
   const recs = loadSiteRecords();
   const sites = {};
   for (const f of findings) {
-    const s = (sites[f.site] ||= { site: f.site, url: f.url, title: f.title, findings: 0, failures: 0, unsure: 0, decided: 0, confirmed: 0, criteriaDone: 0, axe: recs[f.site] ? recs[f.site].axe : null, verdict: recs[f.site] ? recs[f.site].verdict : '' });
+    const s = (sites[f.site] ||= { site: f.site, url: f.url, title: f.title, findings: 0, failures: 0, unsure: 0, ai: 0, decided: 0, confirmed: 0, criteriaDone: 0, axe: recs[f.site] ? recs[f.site].axe : null, verdict: recs[f.site] ? recs[f.site].verdict : '' });
     s.findings++;
-    if (f.kind === 'violation') s.failures++; else s.unsure++;
+    if (f.kind === 'violation') s.failures++; else if (f.kind === 'model') s.ai++; else s.unsure++;
     if (decisions[f.id]) { s.decided++; if (decisions[f.id].verdict === 'confirm') s.confirmed++; }
   }
   for (const c of Object.values(criteria)) if (sites[c.site] && c.status && c.status !== 'Not Evaluated') sites[c.site].criteriaDone++;

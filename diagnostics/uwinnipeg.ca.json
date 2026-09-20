@@ -5,13 +5,13 @@
   "title": "University of Winnipeg",
   "finalUrl": "https://www.uwinnipeg.ca/",
   "shape": {
-    "elements": 613,
+    "elements": 612,
     "images": 19,
     "links": 129,
     "buttons": 14,
     "inputs": 1,
     "headings": 23,
-    "textLength": 3400,
+    "textLength": 3296,
     "lang": "en",
     "iframes": 1
   },
@@ -19,7 +19,1962 @@
     "width": 1366,
     "height": 900
   },
-  "scannedAt": "2026-09-19T06:26:11.036Z",
+  "scannedAt": "2026-09-19T23:58:25.968Z",
+  "content": {
+    "images": [
+      {
+        "target": "#logo-header",
+        "tag": "img",
+        "src": "https://www.uwinnipeg.ca/_files/images/redesign-2020/uwinnipeg-logo-black-4x.png",
+        "alt": "The University of Winnipeg",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 768,
+        "naturalHeight": 240,
+        "box": {
+          "x": 20,
+          "y": 72,
+          "w": 192,
+          "h": 60
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img alt=\"The University of Winnipeg\" id=\"logo-header\" src=\"_files/images/redesign-2020/uwinnipeg-logo-black-4x.png\">"
+      },
+      {
+        "target": "#banner-hh > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > img",
+        "tag": "img",
+        "src": "https://www.uwinnipeg.ca/_files/images/homepage-2025/u.png",
+        "alt": "",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": true,
+        "title": "",
+        "naturalWidth": 500,
+        "naturalHeight": 261,
+        "box": {
+          "x": 433,
+          "y": 302.8125,
+          "w": 500,
+          "h": 274
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "YOU",
+        "html": "<img alt=\"\" aria-hidden=\"true\" src=\"_files/images/homepage-2025/u.png\">"
+      },
+      {
+        "target": "div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(2) > img",
+        "tag": "img",
+        "src": "https://www.uwinnipeg.ca/_files/images/homepage-2025/win.png",
+        "alt": "",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": true,
+        "title": "",
+        "naturalWidth": 500,
+        "naturalHeight": 173,
+        "box": {
+          "x": 433,
+          "y": 576.8125,
+          "w": 500,
+          "h": 218
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "WIN",
+        "html": "<img alt=\"\" aria-hidden=\"true\" src=\"_files/images/homepage-2025/win.png\">"
+      },
+      {
+        "target": "section:nth-of-type(2) > div > div > div:nth-of-type(1) > img",
+        "tag": "img",
+        "src": "https://www.uwinnipeg.ca/_files/images/homepage-2025/home-page-undergrad.webp",
+        "alt": "Undergraduate Studies",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 900,
+        "naturalHeight": 600,
+        "box": {
+          "x": 30,
+          "y": 1337.96875,
+          "w": 415.328125,
+          "h": 306.890625
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "Undergraduate Studies Ready to start your university journey? Find your place in a close-knit campus community. Explore Request information How to apply",
+        "html": "<img alt=\"Undergraduate Studies\" src=\"_files/images/homepage-2025/home-page-undergrad.webp\">"
+      },
+      {
+        "target": "section:nth-of-type(2) > div > div > div:nth-of-type(2) > img",
+        "tag": "img",
+        "src": "https://www.uwinnipeg.ca/_files/images/homepage-2025/home-page-grad.webp",
+        "alt": "Graduate Studies",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 900,
+        "naturalHeight": 600,
+        "box": {
+          "x": 475.34375,
+          "y": 1337.96875,
+          "w": 415.3125,
+          "h": 306.875
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "Graduate Studies Broaden your horizons as part of our driven and creative graduate community. Explore Request information How to apply",
+        "html": "<img alt=\"Graduate Studies\" src=\"_files/images/homepage-2025/home-page-grad.webp\">"
+      },
+      {
+        "target": "section:nth-of-type(2) > div > div > div:nth-of-type(3) > img",
+        "tag": "img",
+        "src": "https://www.uwinnipeg.ca/_files/images/homepage-2025/home-page-pace.webp",
+        "alt": "Professional, Applied and Continuing Education",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 900,
+        "naturalHeight": 600,
+        "box": {
+          "x": 920.671875,
+          "y": 1337.96875,
+          "w": 415.3125,
+          "h": 306.875
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "Professional, Applied and Continuing Education Build in-demand skills and connect with industry through intensive, career-focused programs. Explore Request info",
+        "html": "<img alt=\"Professional, Applied and Continuing Education\" src=\"_files/images/homepage-2025/home-page-pace.webp\">"
+      },
+      {
+        "target": "section:nth-of-type(3) > div > div > div:nth-of-type(1) > img",
+        "tag": "img",
+        "src": "https://www.uwinnipeg.ca/_files/images/homepage-2025/uwc-horiz-black-cmyk.png",
+        "alt": "The University of Winnipeg Collegiate",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 763,
+        "naturalHeight": 262,
+        "box": {
+          "x": 30,
+          "y": 2106,
+          "w": 207.65625,
+          "h": 71.296875
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "",
+        "html": "<img alt=\"The University of Winnipeg Collegiate\" src=\"_files/images/homepage-2025/uwc-horiz-black-cmyk.png\">"
+      },
+      {
+        "target": "div:nth-of-type(2) > article > div:nth-of-type(1) > a > img",
+        "tag": "img",
+        "src": "https://news.uwinnipeg.ca/wp-content/uploads/2025/06/Campus-photo-resized-920x518.jpg",
+        "alt": "Students sitting and walking on campus outdoors.",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 920,
+        "naturalHeight": 518,
+        "box": {
+          "x": -1.649993896484375,
+          "y": 2519.60302734375,
+          "w": 696.300048828125,
+          "h": 391.6689453125
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "https://news.uwinnipeg.ca/uwinnipeg-launches-its-strategic-enrolment-management-plan/?utm_source=rss&utm_medium=rss&utm_campaign=uwinnipeg-launches-its-strategic-enrolment-management-plan",
+        "caption": "",
+        "nearText": "",
+        "html": "<img alt=\"Students sitting and walking on campus outdoors.\" class=\"attachment-uofw-medium size-uofw-medium wp-post-image\" height=\"518\" loading=\"lazy\" sizes=\"(max-width: 920px) 100vw, 920px\" src=\"https://news.uwinnipeg.ca/wp-content/uploads/2025/06/Campus-photo-resized.jpg\" srcset=\"https://news.uwinnipeg.ca/wp-content/uploads/2025/06/Campus-photo-resized.jpg 2320w, https://news.uwinnipeg.ca/wp-cont"
+      },
+      {
+        "target": "div > article:nth-of-type(1) > div:nth-of-type(1) > a > img",
+        "tag": "img",
+        "src": "https://news.uwinnipeg.ca/wp-content/uploads/2024/09/NDTR-2024-920x518.jpg",
+        "alt": "Several cutouts of orange t-shorts are installed on a lawn.",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 920,
+        "naturalHeight": 518,
+        "box": {
+          "x": 688.1749877929688,
+          "y": 2535.707763671875,
+          "w": 326.1500244140625,
+          "h": 183.45947265625
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "https://news.uwinnipeg.ca/national-day-for-truth-and-reconciliation-campus-events-3/?utm_source=rss&utm_medium=rss&utm_campaign=national-day-for-truth-and-reconciliation-campus-events-3",
+        "caption": "",
+        "nearText": "",
+        "html": "<img alt=\"Several cutouts of orange t-shorts are installed on a lawn.\" class=\"attachment-uofw-medium size-uofw-medium wp-post-image\" height=\"518\" loading=\"lazy\" sizes=\"(max-width: 920px) 100vw, 920px\" src=\"https://news.uwinnipeg.ca/wp-content/uploads/2024/09/NDTR-2024.jpg\" srcset=\"https://news.uwinnipeg.ca/wp-content/uploads/2024/09/NDTR-2024.jpg 2320w, https://news.uwinnipeg.ca/wp-content/uploads"
+      },
+      {
+        "target": "div > article:nth-of-type(2) > div:nth-of-type(1) > a > img",
+        "tag": "img",
+        "src": "https://news.uwinnipeg.ca/wp-content/uploads/2023/06/UW-Logo-Wordpress-1-920x518.jpg",
+        "alt": "Message to the UWinnipeg community",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 920,
+        "naturalHeight": 518,
+        "box": {
+          "x": 1024.675048828125,
+          "y": 2535.707763671875,
+          "w": 326.14990234375,
+          "h": 183.45947265625
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "https://news.uwinnipeg.ca/message-to-the-uwinnipeg-community/?utm_source=rss&utm_medium=rss&utm_campaign=message-to-the-uwinnipeg-community",
+        "caption": "",
+        "nearText": "",
+        "html": "<img alt=\"Message to the UWinnipeg community\" class=\"attachment-uofw-medium size-uofw-medium wp-post-image\" height=\"518\" loading=\"lazy\" sizes=\"(max-width: 920px) 100vw, 920px\" src=\"https://news.uwinnipeg.ca/wp-content/uploads/2023/06/UW-Logo-Wordpress-1.jpg\" srcset=\"https://news.uwinnipeg.ca/wp-content/uploads/2023/06/UW-Logo-Wordpress-1.jpg 2048w, https://news.uwinnipeg.ca/wp-content/uploads/2023"
+      },
+      {
+        "target": "div > article:nth-of-type(3) > div:nth-of-type(1) > a > img",
+        "tag": "img",
+        "src": "https://news.uwinnipeg.ca/wp-content/uploads/2026/09/Kevin-Chief-News-Story-Book-Launch-920x518.webp",
+        "alt": "Kevin Chief headshot",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 920,
+        "naturalHeight": 518,
+        "box": {
+          "x": 688.1749877929688,
+          "y": 2881.489013671875,
+          "w": 326.1500244140625,
+          "h": 183.45947265625
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "https://news.uwinnipeg.ca/former-wesmen-kevin-chief-chronicles-life-and-lessons-in-debut-book/?utm_source=rss&utm_medium=rss&utm_campaign=former-wesmen-kevin-chief-chronicles-life-and-lessons-in-debut-book",
+        "caption": "",
+        "nearText": "",
+        "html": "<img alt=\"Kevin Chief headshot\" class=\"attachment-uofw-medium size-uofw-medium wp-post-image\" height=\"518\" loading=\"lazy\" sizes=\"(max-width: 920px) 100vw, 920px\" src=\"https://news.uwinnipeg.ca/wp-content/uploads/2026/09/Kevin-Chief-News-Story-Book-Launch.webp\" srcset=\"https://news.uwinnipeg.ca/wp-content/uploads/2026/09/Kevin-Chief-News-Story-Book-Launch.webp 2320w, https://news.uwinnipeg.ca/wp-co"
+      },
+      {
+        "target": "div > article:nth-of-type(4) > div:nth-of-type(1) > a > img",
+        "tag": "img",
+        "src": "https://news.uwinnipeg.ca/wp-content/uploads/2026/09/Leslie-kirkness-colombia-920x518.webp",
+        "alt": "person sitting near the edge of a large rock formation with sky and clouds in the background",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 920,
+        "naturalHeight": 518,
+        "box": {
+          "x": 1024.675048828125,
+          "y": 2881.489013671875,
+          "w": 326.14990234375,
+          "h": 183.45947265625
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "https://news.uwinnipeg.ca/international-field-placement-builds-connection-and-community/?utm_source=rss&utm_medium=rss&utm_campaign=international-field-placement-builds-connection-and-community",
+        "caption": "",
+        "nearText": "",
+        "html": "<img alt=\"person sitting near the edge of a large rock formation with sky and clouds in the background\" class=\"attachment-uofw-medium size-uofw-medium wp-post-image\" height=\"518\" loading=\"lazy\" sizes=\"(max-width: 920px) 100vw, 920px\" src=\"https://news.uwinnipeg.ca/wp-content/uploads/2026/09/Leslie-kirkness-colombia.webp\" srcset=\"https://news.uwinnipeg.ca/wp-content/uploads/2026/09/Leslie-kirkness-"
+      },
+      {
+        "target": "#footer-logo",
+        "tag": "img",
+        "src": "https://www.uwinnipeg.ca/_files/images/redesign-2020/uwinnipeg-white-4x.png",
+        "alt": "",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": true,
+        "title": "",
+        "naturalWidth": 768,
+        "naturalHeight": 240,
+        "box": {
+          "x": 20,
+          "y": 4606.140625,
+          "w": 192,
+          "h": 60
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "515 Portage Avenue Winnipeg, Manitoba, Canada R3B 2E9 +1.204.786.7811 Contact us",
+        "html": "<img alt=\"\" aria-hidden=\"true\" id=\"footer-logo\" src=\"_files/images/redesign-2020/uwinnipeg-white-4x.png\">"
+      },
+      {
+        "target": "nav > ul > li:nth-of-type(1) > a > img",
+        "tag": "img",
+        "src": "https://www.uwinnipeg.ca/_files/images/redesign-2020/instagram.svg",
+        "alt": "Instagram",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 150,
+        "naturalHeight": 150,
+        "box": {
+          "x": 1157.78125,
+          "y": 4609.140625,
+          "w": 56,
+          "h": 56
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "https://www.instagram.com/uwinnipeg/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img alt=\"Instagram\" src=\"_files/images/redesign-2020/instagram.svg\">"
+      },
+      {
+        "target": "nav > ul > li:nth-of-type(2) > a > img",
+        "tag": "img",
+        "src": "https://www.uwinnipeg.ca/_files/images/redesign-2020/facebook.svg",
+        "alt": "Facebook",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 150,
+        "naturalHeight": 150,
+        "box": {
+          "x": 1222.375,
+          "y": 4609.140625,
+          "w": 56,
+          "h": 56
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "https://www.facebook.com/uwinnipeg",
+        "caption": "",
+        "nearText": "",
+        "html": "<img alt=\"Facebook\" src=\"_files/images/redesign-2020/facebook.svg\">"
+      },
+      {
+        "target": "nav > ul > li:nth-of-type(3) > a > img",
+        "tag": "img",
+        "src": "https://www.uwinnipeg.ca/_files/images/redesign-2020/bluesky.svg",
+        "alt": "Bluesky",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 150,
+        "naturalHeight": 150,
+        "box": {
+          "x": 1286.96875,
+          "y": 4609.140625,
+          "w": 56,
+          "h": 56
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "https://bsky.app/profile/uwinnipeg.bsky.social",
+        "caption": "",
+        "nearText": "",
+        "html": "<img alt=\"Bluesky\" src=\"_files/images/redesign-2020/bluesky.svg\">"
+      },
+      {
+        "target": "nav > ul > li:nth-of-type(4) > a > img",
+        "tag": "img",
+        "src": "https://www.uwinnipeg.ca/_files/images/redesign-2020/youtube.svg",
+        "alt": "YouTube",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 150,
+        "naturalHeight": 150,
+        "box": {
+          "x": 1157.78125,
+          "y": 4671.140625,
+          "w": 56,
+          "h": 56
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "https://www.youtube.com/user/uwinnipeg",
+        "caption": "",
+        "nearText": "",
+        "html": "<img alt=\"YouTube\" src=\"_files/images/redesign-2020/youtube.svg\">"
+      },
+      {
+        "target": "nav > ul > li:nth-of-type(5) > a > img",
+        "tag": "img",
+        "src": "https://www.uwinnipeg.ca/_files/images/redesign-2020/linkedin.svg",
+        "alt": "LinkedIn",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 150,
+        "naturalHeight": 150,
+        "box": {
+          "x": 1222.375,
+          "y": 4671.140625,
+          "w": 56,
+          "h": 56
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "https://www.linkedin.com/school/university-of-winnipeg/",
+        "caption": "",
+        "nearText": "",
+        "html": "<img alt=\"LinkedIn\" src=\"_files/images/redesign-2020/linkedin.svg\">"
+      },
+      {
+        "target": "nav > ul > li:nth-of-type(6) > a > img",
+        "tag": "img",
+        "src": "https://www.uwinnipeg.ca/_files/images/redesign-2020/flickr.svg",
+        "alt": "Flickr",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 150,
+        "naturalHeight": 150,
+        "box": {
+          "x": 1286.96875,
+          "y": 4671.140625,
+          "w": 56,
+          "h": 56
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "https://flickr.com/photos/uwinnipeg",
+        "caption": "",
+        "nearText": "",
+        "html": "<img alt=\"Flickr\" src=\"_files/images/redesign-2020/flickr.svg\">"
+      }
+    ],
+    "links": [
+      {
+        "target": "#website-header > a",
+        "text": "Skip Navigation",
+        "ariaLabel": "",
+        "title": "",
+        "href": "#main",
+        "imgAlt": "",
+        "box": {
+          "x": -4000,
+          "y": 0,
+          "w": 139.609375,
+          "h": 49.1875
+        },
+        "context": "Skip Navigation Search this site Admissions Academics Research Campus Life About News Current Students Faculty & Staff Alumni Community Apply Visit Donate",
+        "contextKind": "block",
+        "html": "<a class=\"skip-link\" href=\"#main\">Skip Navigation</a>"
+      },
+      {
+        "target": "#logoWrap",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/",
+        "imgAlt": "The University of Winnipeg",
+        "box": {
+          "x": 20,
+          "y": 72,
+          "w": 192,
+          "h": 60
+        },
+        "context": "Admissions Academics Research Campus Life About News",
+        "contextKind": "block",
+        "html": "<a href=\"/\" id=\"logoWrap\">\n\t\t\t\t\t\t<img alt=\"The University of Winnipeg\" id=\"logo-header\" src=\"_files/images/redesign-2020/uwinnipeg-logo-black-4x.png\">\n\t\t\t\t\t</a>"
+      },
+      {
+        "target": "#main-menu-1 > a",
+        "text": "Admissions",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.uwinnipeg.ca/future-student/index.html",
+        "imgAlt": "",
+        "box": {
+          "x": 531.265625,
+          "y": 50,
+          "w": 153.828125,
+          "h": 104
+        },
+        "context": "Admissions",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.uwinnipeg.ca/future-student/index.html\">Admissions</a>"
+      },
+      {
+        "target": "#main-menu-2 > a",
+        "text": "Academics",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.uwinnipeg.ca/academics/index.html",
+        "imgAlt": "",
+        "box": {
+          "x": 685.09375,
+          "y": 50,
+          "w": 149.03125,
+          "h": 104
+        },
+        "context": "Academics",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.uwinnipeg.ca/academics/index.html\">Academics</a>"
+      },
+      {
+        "target": "#main-menu-3 > a",
+        "text": "Research",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.uwinnipeg.ca/research/",
+        "imgAlt": "",
+        "box": {
+          "x": 834.125,
+          "y": 50,
+          "w": 135.21875,
+          "h": 104
+        },
+        "context": "Research",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.uwinnipeg.ca/research/\">Research</a>"
+      },
+      {
+        "target": "#main-menu-4 > a",
+        "text": "Campus Life",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.uwinnipeg.ca/campus-life/index.html",
+        "imgAlt": "",
+        "box": {
+          "x": 969.34375,
+          "y": 50,
+          "w": 161.4375,
+          "h": 104
+        },
+        "context": "Campus Life",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.uwinnipeg.ca/campus-life/index.html\">Campus Life</a>"
+      },
+      {
+        "target": "#main-menu-5 > a",
+        "text": "About",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.uwinnipeg.ca/about/index.html",
+        "imgAlt": "",
+        "box": {
+          "x": 1130.78125,
+          "y": 50,
+          "w": 109.703125,
+          "h": 104
+        },
+        "context": "About",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.uwinnipeg.ca/about/index.html\">About</a>"
+      },
+      {
+        "target": "#main-menu-6 > a",
+        "text": "News",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://news.uwinnipeg.ca/",
+        "imgAlt": "",
+        "box": {
+          "x": 1240.484375,
+          "y": 50,
+          "w": 105.515625,
+          "h": 104
+        },
+        "context": "News",
+        "contextKind": "li",
+        "html": "<a href=\"https://news.uwinnipeg.ca/\">News</a>"
+      },
+      {
+        "target": "#secondary-menu > ul > li:nth-of-type(1) > a",
+        "text": "Current Students",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.uwinnipeg.ca/student/index.html",
+        "imgAlt": "",
+        "box": {
+          "x": 20,
+          "y": 2.40625,
+          "w": 118.640625,
+          "h": 33
+        },
+        "context": "Current Students",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.uwinnipeg.ca/student/index.html\">Current Students</a>"
+      },
+      {
+        "target": "#secondary-menu > ul > li:nth-of-type(2) > a",
+        "text": "Faculty & Staff",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.uwinnipeg.ca/faculty-staff/index.html",
+        "imgAlt": "",
+        "box": {
+          "x": 170.640625,
+          "y": 2.40625,
+          "w": 99.921875,
+          "h": 33
+        },
+        "context": "Faculty & Staff",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.uwinnipeg.ca/faculty-staff/index.html\">Faculty &amp; Staff</a>"
+      },
+      {
+        "target": "#secondary-menu > ul > li:nth-of-type(3) > a",
+        "text": "Alumni",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.uwinnipeg.ca/alumni/index.html",
+        "imgAlt": "",
+        "box": {
+          "x": 302.5625,
+          "y": 2.40625,
+          "w": 48.296875,
+          "h": 33
+        },
+        "context": "Alumni",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.uwinnipeg.ca/alumni/index.html\">Alumni</a>"
+      },
+      {
+        "target": "#secondary-menu > ul > li:nth-of-type(4) > a",
+        "text": "Community",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.uwinnipeg.ca/community/index.html",
+        "imgAlt": "",
+        "box": {
+          "x": 382.859375,
+          "y": 2.40625,
+          "w": 79.609375,
+          "h": 33
+        },
+        "context": "Community",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.uwinnipeg.ca/community/index.html\">Community</a>"
+      },
+      {
+        "target": "#tertiary-menu > ul > li:nth-of-type(1) > a",
+        "text": "Apply",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.uwinnipeg.ca/future-student/apply/ready-to-apply.html",
+        "imgAlt": "",
+        "box": {
+          "x": 1088.09375,
+          "y": 2.40625,
+          "w": 41.921875,
+          "h": 33
+        },
+        "context": "Apply",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.uwinnipeg.ca/future-student/apply/ready-to-apply.html\">Apply</a>"
+      },
+      {
+        "target": "#tertiary-menu > ul > li:nth-of-type(2) > a",
+        "text": "Visit",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.uwinnipeg.ca/visitor/index.html",
+        "imgAlt": "",
+        "box": {
+          "x": 1156.015625,
+          "y": 2.40625,
+          "w": 32.09375,
+          "h": 33
+        },
+        "context": "Visit",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.uwinnipeg.ca/visitor/index.html\">Visit</a>"
+      },
+      {
+        "target": "#tertiary-menu > ul > li:nth-of-type(3) > a",
+        "text": "Donate",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://connect.uwinnipeg.ca/funds/",
+        "imgAlt": "",
+        "box": {
+          "x": 1214.109375,
+          "y": 2.40625,
+          "w": 52.890625,
+          "h": 33
+        },
+        "context": "Donate",
+        "contextKind": "li",
+        "html": "<a href=\"https://connect.uwinnipeg.ca/funds/\">Donate</a>"
+      },
+      {
+        "target": "#show-search-button",
+        "text": "",
+        "ariaLabel": "",
+        "title": "toggle search",
+        "href": "#",
+        "imgAlt": "",
+        "box": {
+          "x": 1296,
+          "y": 0,
+          "w": 50,
+          "h": 50
+        },
+        "context": "heading: UWinnipeg is a dynamic campus that connects people from diverse cultures and nurtures global citizens. | Current Students Faculty & Staff Alumni Community Apply Visit Donate",
+        "contextKind": "block",
+        "html": "<a class=\"search-button\" href=\"#\" id=\"show-search-button\" title=\"toggle search\"> <span aria-hidden=\"false\" class=\"hidden\">Search</span> </a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(2) > a",
+        "text": "VIEW PROGRAMS",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.uwinnipeg.ca/programs/",
+        "imgAlt": "",
+        "box": {
+          "x": 738,
+          "y": 794.8125,
+          "w": 195,
+          "h": 65.1875
+        },
+        "context": "heading: UWinnipeg is a dynamic campus that connects people from diverse cultures and nurtures global citizens. | Find the program that’s right for you. VIEW PROGRAMS",
+        "contextKind": "block",
+        "html": "<a class=\"button\" href=\"https://www.uwinnipeg.ca/programs/\">View programs</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(1) > ul > li:nth-of-type(1) > a",
+        "text": "Explore",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.uwinnipeg.ca/future-student/",
+        "imgAlt": "",
+        "box": {
+          "x": 30,
+          "y": 1746.703125,
+          "w": 84.578125,
+          "h": 37
+        },
+        "context": "Explore",
+        "contextKind": "li",
+        "html": "<a class=\"text-link style4\" href=\"https://www.uwinnipeg.ca/future-student/\">\n                                            Explore\n                                        </a>"
+      },
+      {
+        "target": "div > div:nth-of-type(1) > ul > li:nth-of-type(2) > a",
+        "text": "Request information",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.uwinnipeg.ca/future-student/contact-us.html",
+        "imgAlt": "",
+        "box": {
+          "x": 30,
+          "y": 1783.703125,
+          "w": 193.90625,
+          "h": 37
+        },
+        "context": "Request information",
+        "contextKind": "li",
+        "html": "<a class=\"text-link style4\" href=\"https://www.uwinnipeg.ca/future-student/contact-us.html\">\n                                            Request information\n                                        </a>"
+      },
+      {
+        "target": "div > div:nth-of-type(1) > ul > li:nth-of-type(3) > a",
+        "text": "How to apply",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.uwinnipeg.ca/future-student/apply/ready-to-apply.html",
+        "imgAlt": "",
+        "box": {
+          "x": 30,
+          "y": 1820.703125,
+          "w": 133,
+          "h": 37
+        },
+        "context": "How to apply",
+        "contextKind": "li",
+        "html": "<a class=\"text-link style4\" href=\"https://www.uwinnipeg.ca/future-student/apply/ready-to-apply.html\">\n                                            How to apply\n                                        </a>"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > ul > li:nth-of-type(1) > a",
+        "text": "Explore",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.uwinnipeg.ca/graduate-studies/",
+        "imgAlt": "",
+        "box": {
+          "x": 475.34375,
+          "y": 1746.6875,
+          "w": 84.578125,
+          "h": 37
+        },
+        "context": "Explore",
+        "contextKind": "li",
+        "html": "<a class=\"text-link style4\" href=\"https://www.uwinnipeg.ca/graduate-studies/\">\n                                            Explore\n                                        </a>"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > ul > li:nth-of-type(2) > a",
+        "text": "Request information",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.uwinnipeg.ca/graduate-studies/contact-us.html",
+        "imgAlt": "",
+        "box": {
+          "x": 475.34375,
+          "y": 1783.6875,
+          "w": 193.90625,
+          "h": 37
+        },
+        "context": "Request information",
+        "contextKind": "li",
+        "html": "<a class=\"text-link style4\" href=\"https://www.uwinnipeg.ca/graduate-studies/contact-us.html\">\n                                            Request information\n                                        </a>"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > ul > li:nth-of-type(3) > a",
+        "text": "How to apply",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.uwinnipeg.ca/graduate-studies/future-students/online-application-form.html",
+        "imgAlt": "",
+        "box": {
+          "x": 475.34375,
+          "y": 1820.6875,
+          "w": 133,
+          "h": 37
+        },
+        "context": "How to apply",
+        "contextKind": "li",
+        "html": "<a class=\"text-link style4\" href=\"https://www.uwinnipeg.ca/graduate-studies/future-students/online-application-form.html\">\n                                            How to apply\n                                        </a>"
+      },
+      {
+        "target": "div > div:nth-of-type(3) > ul > li:nth-of-type(1) > a",
+        "text": "Explore",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://pace.uwinnipegcourses.ca/",
+        "imgAlt": "",
+        "box": {
+          "x": 920.671875,
+          "y": 1774.6875,
+          "w": 84.578125,
+          "h": 37
+        },
+        "context": "Explore",
+        "contextKind": "li",
+        "html": "<a class=\"text-link style4\" href=\"https://pace.uwinnipegcourses.ca/\">\n                                            Explore\n                                        </a>"
+      },
+      {
+        "target": "div > div:nth-of-type(3) > ul > li:nth-of-type(2) > a",
+        "text": "Request information",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://pace.uwinnipegcourses.ca/book-appointment-our-recruitment-team",
+        "imgAlt": "",
+        "box": {
+          "x": 920.671875,
+          "y": 1811.6875,
+          "w": 193.90625,
+          "h": 37
+        },
+        "context": "Request information",
+        "contextKind": "li",
+        "html": "<a class=\"text-link style4\" href=\"https://pace.uwinnipegcourses.ca/book-appointment-our-recruitment-team\">\n                                            Request information\n                                        </a>"
+      },
+      {
+        "target": "div > div:nth-of-type(3) > ul > li:nth-of-type(3) > a",
+        "text": "How to apply",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://pace.uwinnipegcourses.ca/apply-today",
+        "imgAlt": "",
+        "box": {
+          "x": 920.671875,
+          "y": 1848.6875,
+          "w": 133,
+          "h": 37
+        },
+        "context": "How to apply",
+        "contextKind": "li",
+        "html": "<a class=\"text-link style4\" href=\"https://pace.uwinnipegcourses.ca/apply-today\">\n                                            How to apply\n                                        </a>"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > ul > li > a",
+        "text": "Learn more",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://collegiate.uwinnipeg.ca/",
+        "imgAlt": "",
+        "box": {
+          "x": 475.328125,
+          "y": 2160.609375,
+          "w": 117.0625,
+          "h": 37
+        },
+        "context": "Learn more",
+        "contextKind": "li",
+        "html": "<a class=\"text-link style4\" href=\"https://collegiate.uwinnipeg.ca/\">\n                                    Learn more\n                                </a>"
+      },
+      {
+        "target": "div:nth-of-type(2) > article > div:nth-of-type(2) > h3 > a",
+        "text": "UWinnipeg launches its Strategic Enrolment Management Plan",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://news.uwinnipeg.ca/uwinnipeg-launches-its-strategic-enrolment-management-plan/?utm_source=rss&utm_medium=rss&utm_campaign=uwinnipeg-launches-its-strategic-enrolment-management-plan",
+        "imgAlt": "",
+        "box": {
+          "x": 55,
+          "y": 2955.265625,
+          "w": 583,
+          "h": 78
+        },
+        "context": "heading: UWinnipeg launches its Strategic Enrolment Management Plan | UWinnipeg launches its Strategic Enrolment Management Plan",
+        "contextKind": "block",
+        "html": "<a href=\"https://news.uwinnipeg.ca/uwinnipeg-launches-its-strategic-enrolment-management-plan/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=uwinnipeg-launches-its-strategic-enrolment-management-plan\">UWinnipeg launches its Strategic Enrolment Management Plan</a>"
+      },
+      {
+        "target": "div > article:nth-of-type(1) > div:nth-of-type(2) > h3 > a",
+        "text": "National Day for Truth and Reconciliation campus events",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://news.uwinnipeg.ca/national-day-for-truth-and-reconciliation-campus-events-3/?utm_source=rss&utm_medium=rss&utm_campaign=national-day-for-truth-and-reconciliation-campus-events-3",
+        "imgAlt": "",
+        "box": {
+          "x": 723,
+          "y": 2762.625,
+          "w": 246.5,
+          "h": 46.78125
+        },
+        "context": "heading: National Day for Truth and Reconciliation campus events | National Day for Truth and Reconciliation campus events",
+        "contextKind": "block",
+        "html": "<a href=\"https://news.uwinnipeg.ca/national-day-for-truth-and-reconciliation-campus-events-3/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=national-day-for-truth-and-reconciliation-campus-events-3\">National Day for Truth and Reconciliation campus events</a>"
+      },
+      {
+        "target": "div > article:nth-of-type(2) > div:nth-of-type(2) > h3 > a",
+        "text": "Message to the UWinnipeg community",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://news.uwinnipeg.ca/message-to-the-uwinnipeg-community/?utm_source=rss&utm_medium=rss&utm_campaign=message-to-the-uwinnipeg-community",
+        "imgAlt": "",
+        "box": {
+          "x": 1059.5,
+          "y": 2762.625,
+          "w": 246.5,
+          "h": 46.78125
+        },
+        "context": "heading: Message to the UWinnipeg community | SEP 17, 2026 Message to the UWinnipeg community",
+        "contextKind": "block",
+        "html": "<a href=\"https://news.uwinnipeg.ca/message-to-the-uwinnipeg-community/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=message-to-the-uwinnipeg-community\">Message to the UWinnipeg community</a>"
+      },
+      {
+        "target": "div > article:nth-of-type(3) > div:nth-of-type(2) > h3 > a",
+        "text": "Former Wesmen Kevin Chief chronicles life and lessons in debut book",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://news.uwinnipeg.ca/former-wesmen-kevin-chief-chronicles-life-and-lessons-in-debut-book/?utm_source=rss&utm_medium=rss&utm_campaign=former-wesmen-kevin-chief-chronicles-life-and-lessons-in-debut-book",
+        "imgAlt": "",
+        "box": {
+          "x": 723,
+          "y": 3108.40625,
+          "w": 246.5,
+          "h": 70.171875
+        },
+        "context": "heading: Former Wesmen Kevin Chief chronicles life and lessons in debut book | Former Wesmen Kevin Chief chronicles life and lessons in debut book",
+        "contextKind": "block",
+        "html": "<a href=\"https://news.uwinnipeg.ca/former-wesmen-kevin-chief-chronicles-life-and-lessons-in-debut-book/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=former-wesmen-kevin-chief-chronicles-life-and-lessons-in-debut-book\">Former Wesmen Kevin Chief chronicles life and lessons in debut book</a>"
+      },
+      {
+        "target": "div > article:nth-of-type(4) > div:nth-of-type(2) > h3 > a",
+        "text": "International field placement builds connection and community",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://news.uwinnipeg.ca/international-field-placement-builds-connection-and-community/?utm_source=rss&utm_medium=rss&utm_campaign=international-field-placement-builds-connection-and-community",
+        "imgAlt": "",
+        "box": {
+          "x": 1059.5,
+          "y": 3108.40625,
+          "w": 246.5,
+          "h": 70.171875
+        },
+        "context": "heading: International field placement builds connection and community | International field placement builds connection and community",
+        "contextKind": "block",
+        "html": "<a href=\"https://news.uwinnipeg.ca/international-field-placement-builds-connection-and-community/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=international-field-placement-builds-connection-and-community\">International field placement builds connection and community</a>"
+      },
+      {
+        "target": "#main > section:nth-of-type(4) > div > div:nth-of-type(2) > a",
+        "text": "More news",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://news.uwinnipeg.ca/",
+        "imgAlt": "",
+        "box": {
+          "x": 30,
+          "y": 3245.21875,
+          "w": 93.625,
+          "h": 31.59375
+        },
+        "context": "heading: International field placement builds connection and community",
+        "contextKind": "heading-only",
+        "html": "<a class=\"text-link style2\" href=\"https://news.uwinnipeg.ca/\">More news</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(1) > div > article:nth-of-type(1) > a",
+        "text": "Sep 21 Last Day of Course Add/Drop Period (Fall) The last day of the Add/Drop period for Fall and Fall/Winter Term courses is Sept. 21, 2026. Students can make course adds/drops and section changes until the end of this day. Registration in all courses is subject to availability. Please consult the withdrawal schedules for the deadline to drop a specific course and receive a refund.",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.uwinnipeg.ca/events/2026/09/last-day-of-course-adddrop-period-fall.html",
+        "imgAlt": "",
+        "box": {
+          "x": 30,
+          "y": 3596.609375,
+          "w": 408.65625,
+          "h": 407.140625
+        },
+        "context": "heading: Upcoming Events",
+        "contextKind": "heading-only",
+        "html": "<a href=\"https://www.uwinnipeg.ca/events/2026/09/last-day-of-course-adddrop-period-fall.html\" target=\"_parent\"><time class=\"date-block large\" datetime=\"2026-09-21\"><span class=\"month\"><abbr title=\"Sep\">Sep</abbr></span><span class=\"day\">21</span></time><div class=\"text\"><h3 class=\"title\">Last Day of"
+      },
+      {
+        "target": "div > div:nth-of-type(1) > div > article:nth-of-type(2) > a",
+        "text": "Sep 22 Money Talks: How to Apply for In-Course & Departmental Awards In this second webinar in the Money Talks series, you'll learn how to apply for in-course and departmental awards and get tips to improve your application.",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.uwinnipeg.ca/events/2026/09/money-talks-how-to-apply-for-in-course-departmental-awards.html",
+        "imgAlt": "",
+        "box": {
+          "x": 478.65625,
+          "y": 3596.609375,
+          "w": 408.671875,
+          "h": 234.359375
+        },
+        "context": "heading: Last Day of Course Add/Drop Period (Fall)",
+        "contextKind": "heading-only",
+        "html": "<a href=\"https://www.uwinnipeg.ca/events/2026/09/money-talks-how-to-apply-for-in-course-departmental-awards.html\" target=\"_parent\"><time class=\"date-block large\" datetime=\"2026-09-22\"><span class=\"month\"><abbr title=\"Sep\">Sep</abbr></span><span class=\"day\">22</span></time><div class=\"text\"><h3 class"
+      },
+      {
+        "target": "div > div:nth-of-type(1) > div > article:nth-of-type(3) > a",
+        "text": "Sep 22 Study Skills: Tips for Writing Academic Essays This workshop will present the basic elements and steps required to ensure you have a well-written academic paper. The writing process, from brainstorming to editing, and the use of citations will be discussed.",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.uwinnipeg.ca/events/2026/09/study-skills-tips-for-writing-academic-essays.html",
+        "imgAlt": "",
+        "box": {
+          "x": 927.328125,
+          "y": 3596.609375,
+          "w": 408.65625,
+          "h": 291.953125
+        },
+        "context": "heading: Money Talks: How to Apply for In-Course & Departmental Awards",
+        "contextKind": "heading-only",
+        "html": "<a href=\"https://www.uwinnipeg.ca/events/2026/09/study-skills-tips-for-writing-academic-essays.html\" target=\"_parent\"><time class=\"date-block large\" datetime=\"2026-09-22\"><span class=\"month\"><abbr title=\"Sep\">Sep</abbr></span><span class=\"day\">22</span></time><div class=\"text\"><h3 class=\"title\">Stud"
+      },
+      {
+        "target": "#main > section:nth-of-type(5) > div > div:nth-of-type(2) > a",
+        "text": "More events",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.uwinnipeg.ca/events/index.html",
+        "imgAlt": "",
+        "box": {
+          "x": 30,
+          "y": 4043.75,
+          "w": 105.953125,
+          "h": 31.59375
+        },
+        "context": "heading: Study Skills: Tips for Writing Academic Essays",
+        "contextKind": "heading-only",
+        "html": "<a class=\"text-link style2\" href=\"https://www.uwinnipeg.ca/events/index.html\" target=\"_parent\">More events</a>"
+      },
+      {
+        "target": "#footer-address > address > a:nth-of-type(1)",
+        "text": "+1.204.786.7811",
+        "ariaLabel": "1. 2 0 4. 7 8 6. 7 8 1 1",
+        "title": "",
+        "href": "tel:12047867811",
+        "imgAlt": "",
+        "box": {
+          "x": 20,
+          "y": 4802.53125,
+          "w": 404.3125,
+          "h": 28.796875
+        },
+        "context": "heading: Contact Info | 515 Portage Avenue Winnipeg, Manitoba, Canada R3B 2E9 +1.204.786.7811 Contact us",
+        "contextKind": "block",
+        "html": "<a aria-label=\"1. 2 0 4. 7 8 6. 7 8 1 1\" class=\"p-tel\" href=\"tel:12047867811\">+1.204.786.7811</a>"
+      },
+      {
+        "target": "#footer-address > address > a:nth-of-type(2)",
+        "text": "Contact us",
+        "ariaLabel": "",
+        "title": "",
+        "href": "contact/index.html",
+        "imgAlt": "",
+        "box": {
+          "x": 20,
+          "y": 4871.328125,
+          "w": 98.359375,
+          "h": 39.796875
+        },
+        "context": "heading: Contact Info | 515 Portage Avenue Winnipeg, Manitoba, Canada R3B 2E9 +1.204.786.7811 Contact us",
+        "contextKind": "block",
+        "html": "<a class=\"text-link u-email\" href=\"contact/index.html\">Contact us</a>"
+      },
+      {
+        "target": "#footer-audience > nav > ul > li:nth-of-type(1) > a",
+        "text": "Alumni",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.uwinnipeg.ca/alumni/index.html",
+        "imgAlt": "",
+        "box": {
+          "x": 444.3125,
+          "y": 4658.328125,
+          "w": 48.296875,
+          "h": 20
+        },
+        "context": "Alumni",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.uwinnipeg.ca/alumni/index.html\">Alumni</a>"
+      },
+      {
+        "target": "#footer-audience > nav > ul > li:nth-of-type(2) > a",
+        "text": "Community",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.uwinnipeg.ca/community/index.html",
+        "imgAlt": "",
+        "box": {
+          "x": 444.3125,
+          "y": 4690.328125,
+          "w": 79.609375,
+          "h": 20
+        },
+        "context": "Community",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.uwinnipeg.ca/community/index.html\">Community</a>"
+      },
+      {
+        "target": "#footer-audience > nav > ul > li:nth-of-type(3) > a",
+        "text": "Current Students",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.uwinnipeg.ca/student/index.html",
+        "imgAlt": "",
+        "box": {
+          "x": 444.3125,
+          "y": 4722.328125,
+          "w": 118.640625,
+          "h": 20
+        },
+        "context": "Current Students",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.uwinnipeg.ca/student/index.html\">Current Students</a>"
+      },
+      {
+        "target": "#footer-audience > nav > ul > li:nth-of-type(4) > a",
+        "text": "Donors",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://foundation.uwinnipeg.ca/",
+        "imgAlt": "",
+        "box": {
+          "x": 444.3125,
+          "y": 4754.328125,
+          "w": 51.046875,
+          "h": 20
+        },
+        "context": "Donors",
+        "contextKind": "li",
+        "html": "<a href=\"https://foundation.uwinnipeg.ca/\">Donors</a>"
+      },
+      {
+        "target": "#footer-audience > nav > ul > li:nth-of-type(5) > a",
+        "text": "Employment",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.uwinnipeg.ca/hr/employment.html",
+        "imgAlt": "",
+        "box": {
+          "x": 444.3125,
+          "y": 4786.328125,
+          "w": 87.265625,
+          "h": 20
+        },
+        "context": "Employment",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.uwinnipeg.ca/hr/employment.html\">Employment</a>"
+      },
+      {
+        "target": "#footer-audience > nav > ul > li:nth-of-type(6) > a",
+        "text": "Faculty and Staff",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.uwinnipeg.ca/faculty-staff/index.html",
+        "imgAlt": "",
+        "box": {
+          "x": 444.3125,
+          "y": 4818.328125,
+          "w": 116.125,
+          "h": 20
+        },
+        "context": "Faculty and Staff",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.uwinnipeg.ca/faculty-staff/index.html\">Faculty and Staff</a>"
+      },
+      {
+        "target": "#footer-audience > nav > ul > li:nth-of-type(7) > a",
+        "text": "Future Students",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.uwinnipeg.ca/future-student/index.html",
+        "imgAlt": "",
+        "box": {
+          "x": 444.3125,
+          "y": 4850.328125,
+          "w": 111.359375,
+          "h": 20
+        },
+        "context": "Future Students",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.uwinnipeg.ca/future-student/index.html\">Future Students</a>"
+      },
+      {
+        "target": "#footer-audience > nav > ul > li:nth-of-type(8) > a",
+        "text": "International Students",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.uwinnipeg.ca/international/index.html",
+        "imgAlt": "",
+        "box": {
+          "x": 444.3125,
+          "y": 4882.328125,
+          "w": 153.109375,
+          "h": 20
+        },
+        "context": "International Students",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.uwinnipeg.ca/international/index.html\">International Students</a>"
+      },
+      {
+        "target": "#footer-audience > nav > ul > li:nth-of-type(9) > a",
+        "text": "Media",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.uwinnipeg.ca/marketing-communications/resources-for-media.html",
+        "imgAlt": "",
+        "box": {
+          "x": 444.3125,
+          "y": 4914.328125,
+          "w": 43.1875,
+          "h": 20
+        },
+        "context": "Media",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.uwinnipeg.ca/marketing-communications/resources-for-media.html\">Media</a>"
+      },
+      {
+        "target": "#footer-audience > nav > ul > li:nth-of-type(10) > a",
+        "text": "Parents",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.uwinnipeg.ca/parent/index.html",
+        "imgAlt": "",
+        "box": {
+          "x": 444.3125,
+          "y": 4946.328125,
+          "w": 52.765625,
+          "h": 20
+        },
+        "context": "Parents",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.uwinnipeg.ca/parent/index.html\">Parents</a>"
+      },
+      {
+        "target": "#footer-audience > nav > ul > li:nth-of-type(11) > a",
+        "text": "Visitors",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.uwinnipeg.ca/visitor/index.html",
+        "imgAlt": "",
+        "box": {
+          "x": 444.3125,
+          "y": 4978.328125,
+          "w": 51.75,
+          "h": 20
+        },
+        "context": "Visitors",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.uwinnipeg.ca/visitor/index.html\">Visitors</a>"
+      },
+      {
+        "target": "#footer-resources > nav > ul > li:nth-of-type(1) > a",
+        "text": "A-Z Index",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.uwinnipeg.ca/a-z-index/index.html",
+        "imgAlt": "",
+        "box": {
+          "x": 762.546875,
+          "y": 4658.328125,
+          "w": 66.9375,
+          "h": 20
+        },
+        "context": "A-Z Index",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.uwinnipeg.ca/a-z-index/index.html\">A-Z Index</a>"
+      },
+      {
+        "target": "#footer-resources > nav > ul > li:nth-of-type(2) > a",
+        "text": "Directory",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.uwinnipeg.ca/directory/index.php",
+        "imgAlt": "",
+        "box": {
+          "x": 762.546875,
+          "y": 4690.328125,
+          "w": 63.984375,
+          "h": 20
+        },
+        "context": "Directory",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.uwinnipeg.ca/directory/index.php\">Directory</a>"
+      },
+      {
+        "target": "#footer-resources > nav > ul > li:nth-of-type(3) > a",
+        "text": "Email",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.uwinnipeg.ca/email/index.html",
+        "imgAlt": "",
+        "box": {
+          "x": 762.546875,
+          "y": 4722.328125,
+          "w": 37.671875,
+          "h": 20
+        },
+        "context": "Email",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.uwinnipeg.ca/email/index.html\">Email</a>"
+      },
+      {
+        "target": "#footer-resources > nav > ul > li:nth-of-type(4) > a",
+        "text": "Maps",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.uwinnipeg.ca/maps/index.html",
+        "imgAlt": "",
+        "box": {
+          "x": 762.546875,
+          "y": 4754.328125,
+          "w": 38,
+          "h": 20
+        },
+        "context": "Maps",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.uwinnipeg.ca/maps/index.html\">Maps</a>"
+      },
+      {
+        "target": "#footer-resources > nav > ul > li:nth-of-type(5) > a",
+        "text": "Nexus",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://nexus.uwinnipeg.ca/",
+        "imgAlt": "",
+        "box": {
+          "x": 762.546875,
+          "y": 4786.328125,
+          "w": 43.859375,
+          "h": 20
+        },
+        "context": "Nexus",
+        "contextKind": "li",
+        "html": "<a href=\"https://nexus.uwinnipeg.ca/\">Nexus</a>"
+      },
+      {
+        "target": "#footer-resources > nav > ul > li:nth-of-type(6) > a",
+        "text": "WebAdvisor",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.uwinnipeg.ca/webadvisor/",
+        "imgAlt": "",
+        "box": {
+          "x": 762.546875,
+          "y": 4818.328125,
+          "w": 84.75,
+          "h": 20
+        },
+        "context": "WebAdvisor",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.uwinnipeg.ca/webadvisor/\">WebAdvisor</a>"
+      },
+      {
+        "target": "#footer-copyright-menu > nav > ul > li:nth-of-type(1) > a",
+        "text": "Emergency Guidelines",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.uwinnipeg.ca/emergency-guidelines/index.html",
+        "imgAlt": "",
+        "box": {
+          "x": 20,
+          "y": 5251.6875,
+          "w": 138,
+          "h": 21.796875
+        },
+        "context": "Emergency Guidelines",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.uwinnipeg.ca/emergency-guidelines/index.html\">Emergency Guidelines</a>"
+      },
+      {
+        "target": "#footer-copyright-menu > nav > ul > li:nth-of-type(2) > a",
+        "text": "Contact Us",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.uwinnipeg.ca/contact/index.html",
+        "imgAlt": "",
+        "box": {
+          "x": 179.71875,
+          "y": 5251.6875,
+          "w": 67.65625,
+          "h": 21.796875
+        },
+        "context": "Contact Us",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.uwinnipeg.ca/contact/index.html\">Contact Us</a>"
+      },
+      {
+        "target": "#footer-copyright-menu > nav > ul > li:nth-of-type(3) > a",
+        "text": "Copyright",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.uwinnipeg.ca/copyright/index.html",
+        "imgAlt": "",
+        "box": {
+          "x": 269.09375,
+          "y": 5251.6875,
+          "w": 60.03125,
+          "h": 21.796875
+        },
+        "context": "Copyright",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.uwinnipeg.ca/copyright/index.html\">Copyright</a>"
+      },
+      {
+        "target": "#footer-copyright-menu > nav > ul > li:nth-of-type(4) > a",
+        "text": "Accessibility",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.uwinnipeg.ca/accessibility-hub/index.html",
+        "imgAlt": "",
+        "box": {
+          "x": 350.84375,
+          "y": 5251.6875,
+          "w": 75.609375,
+          "h": 21.796875
+        },
+        "context": "Accessibility",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.uwinnipeg.ca/accessibility-hub/index.html\">Accessibility</a>"
+      },
+      {
+        "target": "#footer-copyright-menu > nav > ul > li:nth-of-type(5) > a",
+        "text": "Privacy Policy",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.uwinnipeg.ca/privacy/web-privacy-notice.html",
+        "imgAlt": "",
+        "box": {
+          "x": 448.171875,
+          "y": 5251.6875,
+          "w": 83.765625,
+          "h": 21.796875
+        },
+        "context": "Privacy Policy",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.uwinnipeg.ca/privacy/web-privacy-notice.html\">Privacy Policy</a>"
+      },
+      {
+        "target": "#footer-copyright-menu > nav > ul > li:nth-of-type(6) > a",
+        "text": "Brand Guidelines",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.uwinnipeg.ca/branding/index.html",
+        "imgAlt": "",
+        "box": {
+          "x": 553.65625,
+          "y": 5251.6875,
+          "w": 105.375,
+          "h": 21.796875
+        },
+        "context": "Brand Guidelines",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.uwinnipeg.ca/branding/index.html\">Brand Guidelines</a>"
+      },
+      {
+        "target": "#footer-social > nav > ul > li:nth-of-type(1) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.instagram.com/uwinnipeg/",
+        "imgAlt": "Instagram",
+        "box": {
+          "x": 1154.78125,
+          "y": 4630.5625,
+          "w": 64.59375,
+          "h": 12
+        },
+        "context": "",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.instagram.com/uwinnipeg/\"> <img alt=\"Instagram\" src=\"_files/images/redesign-2020/instagram.svg\"> </a>"
+      },
+      {
+        "target": "#footer-social > nav > ul > li:nth-of-type(2) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.facebook.com/uwinnipeg",
+        "imgAlt": "Facebook",
+        "box": {
+          "x": 1219.375,
+          "y": 4630.5625,
+          "w": 64.59375,
+          "h": 12
+        },
+        "context": "",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.facebook.com/uwinnipeg\"> <img alt=\"Facebook\" src=\"_files/images/redesign-2020/facebook.svg\"> </a>"
+      },
+      {
+        "target": "#footer-social > nav > ul > li:nth-of-type(3) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://bsky.app/profile/uwinnipeg.bsky.social",
+        "imgAlt": "Bluesky",
+        "box": {
+          "x": 1283.96875,
+          "y": 4630.5625,
+          "w": 62,
+          "h": 12
+        },
+        "context": "",
+        "contextKind": "li",
+        "html": "<a href=\"https://bsky.app/profile/uwinnipeg.bsky.social\"> <img alt=\"Bluesky\" src=\"_files/images/redesign-2020/bluesky.svg\"> </a>"
+      },
+      {
+        "target": "#footer-social > nav > ul > li:nth-of-type(4) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.youtube.com/user/uwinnipeg",
+        "imgAlt": "YouTube",
+        "box": {
+          "x": 1154.78125,
+          "y": 4692.5625,
+          "w": 64.59375,
+          "h": 12
+        },
+        "context": "",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.youtube.com/user/uwinnipeg\"> <img alt=\"YouTube\" src=\"_files/images/redesign-2020/youtube.svg\"> </a>"
+      },
+      {
+        "target": "#footer-social > nav > ul > li:nth-of-type(5) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.linkedin.com/school/university-of-winnipeg/",
+        "imgAlt": "LinkedIn",
+        "box": {
+          "x": 1219.375,
+          "y": 4692.5625,
+          "w": 64.59375,
+          "h": 12
+        },
+        "context": "",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.linkedin.com/school/university-of-winnipeg/\"> <img alt=\"LinkedIn\" src=\"_files/images/redesign-2020/linkedin.svg\"> </a>"
+      },
+      {
+        "target": "#footer-social > nav > ul > li:nth-of-type(6) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://flickr.com/photos/uwinnipeg",
+        "imgAlt": "Flickr",
+        "box": {
+          "x": 1283.96875,
+          "y": 4692.5625,
+          "w": 62,
+          "h": 12
+        },
+        "context": "",
+        "contextKind": "li",
+        "html": "<a href=\"https://flickr.com/photos/uwinnipeg\"> <img alt=\"Flickr\" src=\"_files/images/redesign-2020/flickr.svg\"> </a>"
+      },
+      {
+        "target": "#donate-button",
+        "text": "DONATE",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://connect.uwinnipeg.ca/funds/",
+        "imgAlt": "",
+        "box": {
+          "x": 1145.96875,
+          "y": 4850.140625,
+          "w": 200,
+          "h": 65.1875
+        },
+        "context": "heading: Social Networks",
+        "contextKind": "heading-only",
+        "html": "<a class=\"button outline white\" href=\"https://connect.uwinnipeg.ca/funds/\" id=\"donate-button\">Donate</a>"
+      },
+      {
+        "target": "#acknowledgement > div > small > a",
+        "text": "Land Acknowledgement",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.uwinnipeg.ca/indigenous/land-acknowledgement.html",
+        "imgAlt": "",
+        "box": {
+          "x": 567.3125,
+          "y": 5140.328125,
+          "w": 149.0625,
+          "h": 20.15625
+        },
+        "context": "heading: Social Networks | The University of Winnipeg is located on Treaty One land in the heart of the Métis Nation. Land Acknowledgement",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.uwinnipeg.ca/indigenous/land-acknowledgement.html\">Land Acknowledgement</a>"
+      }
+    ],
+    "headings": [
+      {
+        "target": "#main-menu-1 > span > span > span:nth-of-type(1) > h2",
+        "level": 2,
+        "text": "Learn how to apply and begin your studies at UWinnipeg.",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h2>Learn how to apply and begin your studies at UWinnipeg.</h2>"
+      },
+      {
+        "target": "#main-menu-2 > span > span > span:nth-of-type(1) > h2",
+        "level": 2,
+        "text": "Learn more about our faculties and programs.",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h2>Learn more about our faculties and programs.</h2>"
+      },
+      {
+        "target": "#main-menu-4 > span > span > span:nth-of-type(1) > h2",
+        "level": 2,
+        "text": "There really is something for everyone in UWinnipeg’s campus life.",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h2>There really is something for everyone in UWinnipeg’s campus life.</h2>"
+      },
+      {
+        "target": "#main-menu-5 > span > span > span:nth-of-type(1) > h2",
+        "level": 2,
+        "text": "UWinnipeg is a dynamic campus that connects people from diverse cultures and nurtures global citizens.",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h2>UWinnipeg is a dynamic campus that connects people from diverse cultures and nurtures global citizens.</h2>"
+      },
+      {
+        "target": "#main > section:nth-of-type(1) > div > div > h1",
+        "level": 1,
+        "text": "Study at UWinnipeg",
+        "visible": true,
+        "box": {
+          "x": 318,
+          "y": 1020,
+          "w": 730,
+          "h": 52.796875
+        },
+        "html": "<h1>Study at UWinnipeg</h1>"
+      },
+      {
+        "target": "section:nth-of-type(2) > div > div > div:nth-of-type(1) > h2",
+        "level": 2,
+        "text": "Undergraduate Studies",
+        "visible": true,
+        "box": {
+          "x": 30,
+          "y": 1644.859375,
+          "w": 415.34375,
+          "h": 28
+        },
+        "html": "<h2>Undergraduate Studies</h2>"
+      },
+      {
+        "target": "section:nth-of-type(2) > div > div > div:nth-of-type(2) > h2",
+        "level": 2,
+        "text": "Graduate Studies",
+        "visible": true,
+        "box": {
+          "x": 475.34375,
+          "y": 1644.84375,
+          "w": 415.328125,
+          "h": 28
+        },
+        "html": "<h2>Graduate Studies</h2>"
+      },
+      {
+        "target": "section:nth-of-type(2) > div > div > div:nth-of-type(3) > h2",
+        "level": 2,
+        "text": "Professional, Applied and Continuing Education",
+        "visible": true,
+        "box": {
+          "x": 920.671875,
+          "y": 1644.84375,
+          "w": 415.328125,
+          "h": 56
+        },
+        "html": "<h2>Professional, Applied and Continuing Education</h2>"
+      },
+      {
+        "target": "section:nth-of-type(3) > div > div > div:nth-of-type(2) > h2",
+        "level": 2,
+        "text": "The University of Winnipeg Collegiate",
+        "visible": true,
+        "box": {
+          "x": 475.328125,
+          "y": 2085.6875,
+          "w": 860.671875,
+          "h": 28
+        },
+        "html": "<h2>The University of Winnipeg Collegiate</h2>"
+      },
+      {
+        "target": "#main > section:nth-of-type(4) > div > div:nth-of-type(1) > h2",
+        "level": 2,
+        "text": "Featured News",
+        "visible": true,
+        "box": {
+          "x": 30,
+          "y": 2429.40625,
+          "w": 1306,
+          "h": 48
+        },
+        "html": "<h2>Featured News</h2>"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > article > div:nth-of-type(2) > h3",
+        "level": 3,
+        "text": "UWinnipeg launches its Strategic Enrolment Management Plan",
+        "visible": true,
+        "box": {
+          "x": 55,
+          "y": 2955.265625,
+          "w": 583,
+          "h": 78
+        },
+        "html": "<h3 class=\"title\"><a href=\"https://news.uwinnipeg.ca/uwinnipeg-launches-its-strategic-enrolment-management-plan/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=uwinnipeg-launches-its-strategic-enrolment-management-plan\">UWinnipeg launches its Strategic Enrolment Management Plan</a></h3>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div > article:nth-of-type(1) > div:nth-of-type(2) > h3",
+        "level": 3,
+        "text": "National Day for Truth and Reconciliation campus events",
+        "visible": true,
+        "box": {
+          "x": 723,
+          "y": 2762.625,
+          "w": 246.5,
+          "h": 46.78125
+        },
+        "html": "<h3 class=\"title\"><a href=\"https://news.uwinnipeg.ca/national-day-for-truth-and-reconciliation-campus-events-3/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=national-day-for-truth-and-reconciliation-campus-events-3\">National Day for Truth and Reconciliation campus events</a></h3>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div > article:nth-of-type(2) > div:nth-of-type(2) > h3",
+        "level": 3,
+        "text": "Message to the UWinnipeg community",
+        "visible": true,
+        "box": {
+          "x": 1059.5,
+          "y": 2762.625,
+          "w": 246.5,
+          "h": 46.78125
+        },
+        "html": "<h3 class=\"title\"><a href=\"https://news.uwinnipeg.ca/message-to-the-uwinnipeg-community/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=message-to-the-uwinnipeg-community\">Message to the UWinnipeg community</a></h3>"
+      },
+      {
+        "target": "div:nth-of-type(2) > div > article:nth-of-type(3) > div:nth-of-type(2) > h3",
+        "level": 3,
+        "text": "Former Wesmen Kevin Chief chronicles life and lessons in debut book",
+        "visible": true,
+        "box": {
+          "x": 723,
+          "y": 3108.40625,
+          "w": 246.5,
+          "h": 70.171875
+        },
+        "html": "<h3 class=\"title\"><a href=\"https://news.uwinnipeg.ca/former-wesmen-kevin-chief-chronicles-life-and-lessons-in-debut-book/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=former-wesmen-kevin-chief-chronicles-life-and-lessons-in-debut-book\">Former Wesmen Kevin Chief chronicles life and lessons in d"
+      },
+      {
+        "target": "div:nth-of-type(2) > div > article:nth-of-type(4) > div:nth-of-type(2) > h3",
+        "level": 3,
+        "text": "International field placement builds connection and community",
+        "visible": true,
+        "box": {
+          "x": 1059.5,
+          "y": 3108.40625,
+          "w": 246.5,
+          "h": 70.171875
+        },
+        "html": "<h3 class=\"title\"><a href=\"https://news.uwinnipeg.ca/international-field-placement-builds-connection-and-community/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=international-field-placement-builds-connection-and-community\">International field placement builds connection and community</a></h3>"
+      },
+      {
+        "target": "#main > section:nth-of-type(5) > div > h2",
+        "level": 2,
+        "text": "Upcoming Events",
+        "visible": true,
+        "box": {
+          "x": 30,
+          "y": 3508.609375,
+          "w": 1306,
+          "h": 48
+        },
+        "html": "<h2>Upcoming Events</h2>"
+      },
+      {
+        "target": "div > article:nth-of-type(1) > a > div > h3",
+        "level": 3,
+        "text": "Last Day of Course Add/Drop Period (Fall)",
+        "visible": true,
+        "box": {
+          "x": 140,
+          "y": 3611.609375,
+          "w": 278.65625,
+          "h": 50.375
+        },
+        "html": "<h3 class=\"title\">Last Day of Course Add/Drop Period (Fall)</h3>"
+      },
+      {
+        "target": "div > article:nth-of-type(2) > a > div > h3",
+        "level": 3,
+        "text": "Money Talks: How to Apply for In-Course & Departmental Awards",
+        "visible": true,
+        "box": {
+          "x": 588.65625,
+          "y": 3611.609375,
+          "w": 278.671875,
+          "h": 50.375
+        },
+        "html": "<h3 class=\"title\">Money Talks: How to Apply for In-Course &amp; Departmental Awards</h3>"
+      },
+      {
+        "target": "div > article:nth-of-type(3) > a > div > h3",
+        "level": 3,
+        "text": "Study Skills: Tips for Writing Academic Essays",
+        "visible": true,
+        "box": {
+          "x": 1037.328125,
+          "y": 3611.609375,
+          "w": 278.65625,
+          "h": 50.375
+        },
+        "html": "<h3 class=\"title\">Study Skills: Tips for Writing Academic Essays</h3>"
+      },
+      {
+        "target": "#footer-address > h2",
+        "level": 2,
+        "text": "Contact Info",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h2 aria-hidden=\"false\" class=\"hidden\">Contact Info</h2>"
+      },
+      {
+        "target": "#footer-audience-heading",
+        "level": 2,
+        "text": "Information for",
+        "visible": true,
+        "box": {
+          "x": 444.3125,
+          "y": 4613.140625,
+          "w": 298.234375,
+          "h": 19.1875
+        },
+        "html": "<h2 id=\"footer-audience-heading\">Information for</h2>"
+      },
+      {
+        "target": "#footer-resources-heading",
+        "level": 2,
+        "text": "Resources",
+        "visible": true,
+        "box": {
+          "x": 762.546875,
+          "y": 4613.140625,
+          "w": 218.671875,
+          "h": 19.1875
+        },
+        "html": "<h2 id=\"footer-resources-heading\">Resources</h2>"
+      },
+      {
+        "target": "#footer-social-networks",
+        "level": 2,
+        "text": "Social Networks",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h2 aria-hidden=\"false\" class=\"hidden\" id=\"footer-social-networks\">Social Networks</h2>"
+      }
+    ],
+    "lang": "en",
+    "title": "University of Winnipeg"
+  },
   "axe": {
     "violationRules": 1,
     "violationNodes": 8,
@@ -339,7 +2294,7 @@
       "nodes": 8,
       "items": [
         {
-          "target": "time[datetime=\"2026-09-17\"] > .month > abbr",
+          "target": "time[datetime=\"2026-09-21\"] > .month > abbr",
           "html": "<abbr title=\"Sep\">Sep</abbr>",
           "impact": "serious",
           "messages": [
@@ -358,8 +2313,8 @@
           }
         },
         {
-          "target": "time[datetime=\"2026-09-17\"] > .day",
-          "html": "<span class=\"day\">17</span>",
+          "target": "time[datetime=\"2026-09-21\"] > .day",
+          "html": "<span class=\"day\">21</span>",
           "impact": "serious",
           "messages": [
             "Element has insufficient color contrast of 1.07 (foreground color: #ffffff, background color: #f7f7f7, font size: 22.5pt (30px), font weight: bold). Expected contrast ratio of 3:1"
@@ -373,11 +2328,11 @@
             "fontWeight": "800",
             "color": "rgb(255, 255, 255)",
             "background": "rgba(0, 0, 0, 0)",
-            "text": "17"
+            "text": "21"
           }
         },
         {
-          "target": "time[datetime=\"2026-09-21\"] > .month > abbr",
+          "target": ".event-block.large:nth-child(2) > a[target=\"_parent\"] > time[datetime=\"2026-09-22\"] > .month > abbr",
           "html": "<abbr title=\"Sep\">Sep</abbr>",
           "impact": "serious",
           "messages": [
@@ -396,8 +2351,8 @@
           }
         },
         {
-          "target": "time[datetime=\"2026-09-21\"] > .day",
-          "html": "<span class=\"day\">21</span>",
+          "target": ".event-block.large:nth-child(2) > a[target=\"_parent\"] > time[datetime=\"2026-09-22\"] > .day",
+          "html": "<span class=\"day\">22</span>",
           "impact": "serious",
           "messages": [
             "Element has insufficient color contrast of 1.07 (foreground color: #ffffff, background color: #f7f7f7, font size: 22.5pt (30px), font weight: bold). Expected contrast ratio of 3:1"
@@ -411,11 +2366,11 @@
             "fontWeight": "800",
             "color": "rgb(255, 255, 255)",
             "background": "rgba(0, 0, 0, 0)",
-            "text": "21"
+            "text": "22"
           }
         },
         {
-          "target": "time[datetime=\"2026-09-22\"] > .month > abbr",
+          "target": ".event-block.large:nth-child(3) > a[target=\"_parent\"] > time[datetime=\"2026-09-22\"] > .month > abbr",
           "html": "<abbr title=\"Sep\">Sep</abbr>",
           "impact": "serious",
           "messages": [
@@ -434,7 +2389,7 @@
           }
         },
         {
-          "target": "time[datetime=\"2026-09-22\"] > .day",
+          "target": ".event-block.large:nth-child(3) > a[target=\"_parent\"] > time[datetime=\"2026-09-22\"] > .day",
           "html": "<span class=\"day\">22</span>",
           "impact": "serious",
           "messages": [
@@ -454,7 +2409,7 @@
         },
         {
           "target": "#unibuddy-popcard-iframe .e3AM5Aam3YvpQbd6KOGM",
-          "html": "<p class=\"e3AM5Aam3YvpQbd6KOGM\" role=\"heading\" aria-level=\"2\">Lei</p>",
+          "html": "<p class=\"e3AM5Aam3YvpQbd6KOGM\" role=\"heading\" aria-level=\"2\">Faith</p>",
           "impact": "serious",
           "messages": [
             "Element has insufficient color contrast of 4.21 (foreground color: #ee2737, background color: #ffffff, font size: 13.5pt (18px), font weight: bold). Expected contrast ratio of 4.5:1"

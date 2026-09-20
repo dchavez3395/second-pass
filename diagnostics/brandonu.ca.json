@@ -11,7 +11,7 @@
     "buttons": 1,
     "inputs": 7,
     "headings": 14,
-    "textLength": 2225,
+    "textLength": 2278,
     "lang": "en-US",
     "iframes": 0
   },
@@ -19,7 +19,1874 @@
     "width": 1366,
     "height": 900
   },
-  "scannedAt": "2026-09-19T06:26:22.085Z",
+  "scannedAt": "2026-09-19T23:58:38.133Z",
+  "content": {
+    "images": [
+      {
+        "target": "#page-header > div > div:nth-of-type(1) > div:nth-of-type(1) > img",
+        "tag": "img",
+        "src": "https://www.brandonu.ca/wp-content/themes/bu-skel-2014/images/crest.svg",
+        "alt": "Brandon University Crest.",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 51,
+        "naturalHeight": 61,
+        "box": {
+          "x": 213,
+          "y": 71.703125,
+          "w": 50.75,
+          "h": 60.953125
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "",
+        "html": "<img src=\"https://www.brandonu.ca/wp-content/themes/bu-skel-2014/images/crest.svg\" alt=\"Brandon University Crest.\">"
+      },
+      {
+        "target": "#meteor-slideshow > div:nth-of-type(2) > div:nth-of-type(1) > img",
+        "tag": "img",
+        "src": "https://www.brandonu.ca/wp-content/uploads/2026/09/BU-Bobcats-Nationals-logo-webslide.jpg",
+        "alt": "",
+        "ariaLabel": "",
+        "role": "",
+        "ariaHidden": false,
+        "title": "⚽️ Road to Nationals",
+        "naturalWidth": 980,
+        "naturalHeight": 300,
+        "box": {
+          "x": 193,
+          "y": 214.65625,
+          "w": 980,
+          "h": 300
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "Road to Nationals The Brandon University Bobcats will host the 2027 CCAA men’s national soccer championships — the first time that soccer nationals have been he",
+        "html": "<img width=\"980\" height=\"300\" src=\"https://www.brandonu.ca/wp-content/uploads/2026/09/BU-Bobcats-Nationals-logo-webslide.jpg\" class=\"attachment-featured-slide size-featured-slide wp-post-image\" alt=\"\" title=\"⚽️ Road to Nationals\" decoding=\"async\" loading=\"lazy\" srcset=\"https://www.brandonu.ca/wp-content/uploads/2026/09/BU-Bobcats-Nationals-logo-webslide.jpg 980w, https://www.brandonu.ca/wp-content"
+      },
+      {
+        "target": "div:nth-of-type(2) > div:nth-of-type(1) > div > h2 > img",
+        "tag": "img",
+        "src": "https://s.w.org/images/core/emoji/17.0.2/svg/26bd.svg",
+        "alt": "⚽️",
+        "ariaLabel": "",
+        "role": "img",
+        "ariaHidden": false,
+        "title": "",
+        "naturalWidth": 150,
+        "naturalHeight": 150,
+        "box": {
+          "x": 229,
+          "y": 370.046875,
+          "w": 30,
+          "h": 30
+        },
+        "inLink": false,
+        "linkText": "",
+        "linkHref": "",
+        "caption": "",
+        "nearText": "Road to Nationals The Brandon University Bobcats will host the 2027 CCAA men’s national soccer championships — the first time that soccer nationals have been he",
+        "html": "<img draggable=\"false\" role=\"img\" class=\"emoji\" alt=\"⚽️\" src=\"https://s.w.org/images/core/emoji/17.0.2/svg/26bd.svg\">"
+      },
+      {
+        "target": "#\\36 355 > div:nth-of-type(1) > div:nth-of-type(1) > a > svg",
+        "tag": "svg",
+        "src": "",
+        "alt": null,
+        "ariaLabel": "",
+        "role": "img",
+        "ariaHidden": true,
+        "title": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0,
+        "box": {
+          "x": 585,
+          "y": 550.65625,
+          "w": 28,
+          "h": 32
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "https://www.brandonu.ca/future-students/programs/",
+        "caption": "",
+        "nearText": "",
+        "html": "<svg class=\"svg-inline--fa fa-book fa-w-14 fa-2x\" aria-hidden=\"true\" focusable=\"false\" data-prefix=\"fas\" data-icon=\"book\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 448 512\" data-fa-i2svg=\"\"><path fill=\"currentColor\" d=\"M448 360V24c0-13.3-10.7-24-24-24H96C43 0 0 43 0 96v320c0 53 43 96 96 96h328c13.3 0 24-10.7 24-24v-16c0-7.5-3.5-14.3-8.9-18.7-4.2-15.4-4.2-59.3 0-74.7 5.4-4.3 8.9-11"
+      },
+      {
+        "target": "#\\36 355 > div:nth-of-type(2) > div:nth-of-type(1) > a > svg",
+        "tag": "svg",
+        "src": "",
+        "alt": null,
+        "ariaLabel": "",
+        "role": "img",
+        "ariaHidden": true,
+        "title": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0,
+        "box": {
+          "x": 735,
+          "y": 550.65625,
+          "w": 40,
+          "h": 32
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "https://www.brandonu.ca/scholarships/",
+        "caption": "",
+        "nearText": "",
+        "html": "<svg class=\"svg-inline--fa fa-graduation-cap fa-w-20 fa-2x\" aria-hidden=\"true\" focusable=\"false\" data-prefix=\"fas\" data-icon=\"graduation-cap\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\" data-fa-i2svg=\"\"><path fill=\"currentColor\" d=\"M622.34 153.2L343.4 67.5c-15.2-4.67-31.6-4.67-46.79 0L17.66 153.2c-23.54 7.23-23.54 38.36 0 45.59l48.63 14.94c-10.67 13.19-17.23 29.28-17.88 46."
+      },
+      {
+        "target": "#\\36 355 > div:nth-of-type(3) > div:nth-of-type(1) > a > svg",
+        "tag": "svg",
+        "src": "",
+        "alt": null,
+        "ariaLabel": "",
+        "role": "img",
+        "ariaHidden": true,
+        "title": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0,
+        "box": {
+          "x": 891,
+          "y": 550.65625,
+          "w": 40,
+          "h": 32
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "https://www.brandonu.ca/future-students/visit/",
+        "caption": "",
+        "nearText": "",
+        "html": "<svg class=\"svg-inline--fa fa-school fa-w-20 fa-2x\" aria-hidden=\"true\" focusable=\"false\" data-prefix=\"fas\" data-icon=\"school\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\" data-fa-i2svg=\"\"><path fill=\"currentColor\" d=\"M0 224v272c0 8.84 7.16 16 16 16h80V192H32c-17.67 0-32 14.33-32 32zm360-48h-24v-40c0-4.42-3.58-8-8-8h-16c-4.42 0-8 3.58-8 8v64c0 4.42 3.58 8 8 8h48c4.42 0 8-3.58"
+      },
+      {
+        "target": "#\\36 355 > div:nth-of-type(4) > div:nth-of-type(1) > a > svg",
+        "tag": "svg",
+        "src": "",
+        "alt": null,
+        "ariaLabel": "",
+        "role": "img",
+        "ariaHidden": true,
+        "title": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0,
+        "box": {
+          "x": 1051,
+          "y": 550.65625,
+          "w": 32,
+          "h": 32
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "https://www.brandonu.ca/future-students/apply/",
+        "caption": "",
+        "nearText": "",
+        "html": "<svg class=\"svg-inline--fa fa-arrow-circle-right fa-w-16 fa-2x\" aria-hidden=\"true\" focusable=\"false\" data-prefix=\"fas\" data-icon=\"arrow-circle-right\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\" data-fa-i2svg=\"\"><path fill=\"currentColor\" d=\"M256 8c137 0 248 111 248 248S393 504 256 504 8 393 8 256 119 8 256 8zm-28.9 143.6l75.5 72.4H120c-13.3 0-24 10.7-24 24v16c0 13.3 10.7 24 "
+      },
+      {
+        "target": "#\\36 929 > div:nth-of-type(1) > div:nth-of-type(1) > a > svg",
+        "tag": "svg",
+        "src": "",
+        "alt": null,
+        "ariaLabel": "",
+        "role": "img",
+        "ariaHidden": true,
+        "title": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0,
+        "box": {
+          "x": 583,
+          "y": 712.65625,
+          "w": 32,
+          "h": 32
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "https://www.brandonu.ca/indigenous/",
+        "caption": "",
+        "nearText": "",
+        "html": "<svg class=\"svg-inline--fa fa-feather-alt fa-w-16 fa-2x\" aria-hidden=\"true\" focusable=\"false\" data-prefix=\"fas\" data-icon=\"feather-alt\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\" data-fa-i2svg=\"\"><path fill=\"currentColor\" d=\"M512 0C460.22 3.56 96.44 38.2 71.01 287.61c-3.09 26.66-4.84 53.44-5.99 80.24l178.87-178.69c6.25-6.25 16.4-6.25 22.65 0s6.25 16.38 0 22.63L7.04 471.03c"
+      },
+      {
+        "target": "#\\36 929 > div:nth-of-type(2) > div:nth-of-type(1) > a > svg",
+        "tag": "svg",
+        "src": "",
+        "alt": null,
+        "ariaLabel": "",
+        "role": "img",
+        "ariaHidden": true,
+        "title": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0,
+        "box": {
+          "x": 739,
+          "y": 712.65625,
+          "w": 32,
+          "h": 32
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "https://www.brandonu.ca/future-students/apply/international/",
+        "caption": "",
+        "nearText": "",
+        "html": "<svg class=\"svg-inline--fa fa-globe-americas fa-w-16 fa-2x\" aria-hidden=\"true\" focusable=\"false\" data-prefix=\"fas\" data-icon=\"globe-americas\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 496 512\" data-fa-i2svg=\"\"><path fill=\"currentColor\" d=\"M248 8C111.03 8 0 119.03 0 256s111.03 248 248 248 248-111.03 248-248S384.97 8 248 8zm82.29 357.6c-3.9 3.88-7.99 7.95-11.31 11.28-2.99 3-5.1 6.7-"
+      },
+      {
+        "target": "#\\36 929 > div:nth-of-type(3) > div:nth-of-type(1) > a > svg",
+        "tag": "svg",
+        "src": "",
+        "alt": null,
+        "ariaLabel": "",
+        "role": "img",
+        "ariaHidden": true,
+        "title": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0,
+        "box": {
+          "x": 893,
+          "y": 712.65625,
+          "w": 36,
+          "h": 32
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "https://www.brandonu.ca/library/",
+        "caption": "",
+        "nearText": "",
+        "html": "<svg class=\"svg-inline--fa fa-book-open fa-w-18 fa-2x\" aria-hidden=\"true\" focusable=\"false\" data-prefix=\"fas\" data-icon=\"book-open\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 576 512\" data-fa-i2svg=\"\"><path fill=\"currentColor\" d=\"M542.22 32.05c-54.8 3.11-163.72 14.43-230.96 55.59-4.64 2.84-7.27 7.89-7.27 13.17v363.87c0 11.55 12.63 18.85 23.28 13.49 69.18-34.82 169.23-44.32 218.7-46"
+      },
+      {
+        "target": "#\\36 929 > div:nth-of-type(4) > div:nth-of-type(1) > a > svg",
+        "tag": "svg",
+        "src": "",
+        "alt": null,
+        "ariaLabel": "",
+        "role": "img",
+        "ariaHidden": true,
+        "title": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0,
+        "box": {
+          "x": 1047,
+          "y": 712.65625,
+          "w": 40,
+          "h": 32
+        },
+        "inLink": true,
+        "linkText": "",
+        "linkHref": "https://www.brandonu.ca/give/",
+        "caption": "",
+        "nearText": "",
+        "html": "<svg class=\"svg-inline--fa fa-hands-helping fa-w-20 fa-2x\" aria-hidden=\"true\" focusable=\"false\" data-prefix=\"fas\" data-icon=\"hands-helping\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\" data-fa-i2svg=\"\"><path fill=\"currentColor\" d=\"M488 192H336v56c0 39.7-32.3 72-72 72s-72-32.3-72-72V126.4l-64.9 39C107.8 176.9 96 197.8 96 220.2v47.3l-80 46.2C.7 322.5-4.6 342.1 4.3 357.4l80 138"
+      }
+    ],
+    "links": [
+      {
+        "target": "#top-toolbar > nav > ul > li:nth-of-type(1) > a",
+        "text": "Webmail",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://outlook.com/brandonu.ca/",
+        "imgAlt": "",
+        "box": {
+          "x": 860.953125,
+          "y": 18,
+          "w": 71.375,
+          "h": 16
+        },
+        "context": "Webmail",
+        "contextKind": "li",
+        "html": "<a href=\"https://outlook.com/brandonu.ca/\"><span class=\"bu-toolbar bu-toolbar-envelope\"></span>Webmail</a>"
+      },
+      {
+        "target": "#top-toolbar > nav > ul > li:nth-of-type(2) > a",
+        "text": "Campus Map",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.brandonu.ca/campus-map/",
+        "imgAlt": "",
+        "box": {
+          "x": 951.421875,
+          "y": 18,
+          "w": 94.78125,
+          "h": 16
+        },
+        "context": "Campus Map",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.brandonu.ca/campus-map/\"><span class=\"bu-toolbar bu-toolbar-map-marker\"></span>Campus Map</a>"
+      },
+      {
+        "target": "#top-toolbar > nav > ul > li:nth-of-type(3) > a",
+        "text": "Contact Us",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.brandonu.ca/contact/",
+        "imgAlt": "",
+        "box": {
+          "x": 1065.296875,
+          "y": 18,
+          "w": 87.703125,
+          "h": 16
+        },
+        "context": "Contact Us",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.brandonu.ca/contact/\"><span class=\"bu-toolbar bu-toolbar-users\"></span>Contact Us</a>"
+      },
+      {
+        "target": "#page-header > div > div:nth-of-type(1) > div:nth-of-type(2) > a",
+        "text": "BRANDON UNIVERSITY",
+        "ariaLabel": "",
+        "title": "",
+        "href": "/",
+        "imgAlt": "",
+        "box": {
+          "x": 275.765625,
+          "y": 71.078125,
+          "w": 182.515625,
+          "h": 63.578125
+        },
+        "context": "heading: Top Toolbar Links | BRANDON UNIVERSITY Search Site: Primary Navigation FUTURE STUDENTS PROGRAMS CURRENT STUDENTS ATHLETICS ALUMNI SERVICES",
+        "contextKind": "block",
+        "html": "<a href=\"/\"><h1>Brandon <span>University</span></h1></a>"
+      },
+      {
+        "target": "#menu-item-3017 > a",
+        "text": "FUTURE STUDENTS",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.brandonu.ca/future-students/",
+        "imgAlt": "",
+        "box": {
+          "x": 213,
+          "y": 155.15625,
+          "w": 178.75,
+          "h": 35
+        },
+        "context": "FUTURE STUDENTS",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.brandonu.ca/future-students/\">Future Students</a>"
+      },
+      {
+        "target": "#menu-item-3018 > a",
+        "text": "PROGRAMS",
+        "ariaLabel": "",
+        "title": "Brandon University Programs",
+        "href": "https://www.brandonu.ca/future-students/programs/",
+        "imgAlt": "",
+        "box": {
+          "x": 428.640625,
+          "y": 155.15625,
+          "w": 110.328125,
+          "h": 35
+        },
+        "context": "PROGRAMS",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.brandonu.ca/future-students/programs/\" title=\"Brandon University Programs\">Programs</a>"
+      },
+      {
+        "target": "#menu-item-3019 > a",
+        "text": "CURRENT STUDENTS",
+        "ariaLabel": "",
+        "title": "Brandon University Current Students",
+        "href": "https://www.brandonu.ca/current-students/",
+        "imgAlt": "",
+        "box": {
+          "x": 575.875,
+          "y": 155.15625,
+          "w": 195.53125,
+          "h": 35
+        },
+        "context": "CURRENT STUDENTS",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.brandonu.ca/current-students/\" title=\"Brandon University Current Students\">Current Students</a>"
+      },
+      {
+        "target": "#menu-item-3020 > a",
+        "text": "ATHLETICS",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://gobobcats.ca/",
+        "imgAlt": "",
+        "box": {
+          "x": 808.296875,
+          "y": 155.15625,
+          "w": 101.9375,
+          "h": 35
+        },
+        "context": "ATHLETICS",
+        "contextKind": "li",
+        "html": "<a href=\"https://gobobcats.ca/\">Athletics</a>"
+      },
+      {
+        "target": "#menu-item-285 > a",
+        "text": "ALUMNI",
+        "ariaLabel": "",
+        "title": "Brandon University Alumni",
+        "href": "https://www.brandonu.ca/alumni/",
+        "imgAlt": "",
+        "box": {
+          "x": 947.140625,
+          "y": 155.15625,
+          "w": 76.015625,
+          "h": 35
+        },
+        "context": "ALUMNI",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.brandonu.ca/alumni/\" title=\"Brandon University Alumni\">Alumni</a>"
+      },
+      {
+        "target": "#menu-item-3022 > a",
+        "text": "SERVICES",
+        "ariaLabel": "",
+        "title": "Brandon University Service Listing",
+        "href": "https://www.brandonu.ca/services/",
+        "imgAlt": "",
+        "box": {
+          "x": 1060.046875,
+          "y": 155.15625,
+          "w": 92.953125,
+          "h": 35
+        },
+        "context": "SERVICES",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.brandonu.ca/services/\" title=\"Brandon University Service Listing\">Services</a>"
+      },
+      {
+        "target": "#meteor-buttons > a:nth-of-type(1)",
+        "text": "1",
+        "ariaLabel": "",
+        "title": "",
+        "href": "#",
+        "imgAlt": "",
+        "box": {
+          "x": 659,
+          "y": 496.65625,
+          "w": 9,
+          "h": 9
+        },
+        "context": "heading: Primary Navigation | 1234 Road to Nationals The Brandon University Bobcats will host the 2027 CCAA men’s national soccer championships — the first time that soccer nationals have been held in Manitoba.",
+        "contextKind": "block",
+        "html": "<a href=\"#\" class=\"activeSlide\">1</a>"
+      },
+      {
+        "target": "#meteor-buttons > a:nth-of-type(2)",
+        "text": "2",
+        "ariaLabel": "",
+        "title": "",
+        "href": "#",
+        "imgAlt": "",
+        "box": {
+          "x": 672,
+          "y": 496.65625,
+          "w": 9,
+          "h": 9
+        },
+        "context": "heading: Primary Navigation | 1234 Road to Nationals The Brandon University Bobcats will host the 2027 CCAA men’s national soccer championships — the first time that soccer nationals have been held in Manitoba.",
+        "contextKind": "block",
+        "html": "<a href=\"#\">2</a>"
+      },
+      {
+        "target": "#meteor-buttons > a:nth-of-type(3)",
+        "text": "3",
+        "ariaLabel": "",
+        "title": "",
+        "href": "#",
+        "imgAlt": "",
+        "box": {
+          "x": 685,
+          "y": 496.65625,
+          "w": 9,
+          "h": 9
+        },
+        "context": "heading: Primary Navigation | 1234 Road to Nationals The Brandon University Bobcats will host the 2027 CCAA men’s national soccer championships — the first time that soccer nationals have been held in Manitoba.",
+        "contextKind": "block",
+        "html": "<a href=\"#\">3</a>"
+      },
+      {
+        "target": "#meteor-buttons > a:nth-of-type(4)",
+        "text": "4",
+        "ariaLabel": "",
+        "title": "",
+        "href": "#",
+        "imgAlt": "",
+        "box": {
+          "x": 698,
+          "y": 496.65625,
+          "w": 9,
+          "h": 9
+        },
+        "context": "heading: Primary Navigation | 1234 Road to Nationals The Brandon University Bobcats will host the 2027 CCAA men’s national soccer championships — the first time that soccer nationals have been held in Manitoba.",
+        "contextKind": "block",
+        "html": "<a href=\"#\">4</a>"
+      },
+      {
+        "target": "#\\36 355 > div:nth-of-type(1) > div:nth-of-type(1) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.brandonu.ca/future-students/programs/",
+        "imgAlt": "",
+        "box": {
+          "x": 585,
+          "y": 562.65625,
+          "w": 28,
+          "h": 19
+        },
+        "context": "heading: On-campus convenience | Programs Find the program that's right for you",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.brandonu.ca/future-students/programs/\" style=\"color:#003057;\"><svg class=\"svg-inline--fa fa-book fa-w-14 fa-2x\" aria-hidden=\"true\" focusable=\"false\" data-prefix=\"fas\" data-icon=\"book\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 448 512\" data-fa-i2svg=\"\"><path fill"
+      },
+      {
+        "target": "#\\36 355 > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > a",
+        "text": "Programs",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.brandonu.ca/future-students/programs/",
+        "imgAlt": "",
+        "box": {
+          "x": 555.828125,
+          "y": 592.65625,
+          "w": 86.328125,
+          "h": 24
+        },
+        "context": "heading: On-campus convenience | Programs Find the program that's right for you",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.brandonu.ca/future-students/programs/\" style=\"color:#003057;\">Programs</a>"
+      },
+      {
+        "target": "#\\36 355 > div:nth-of-type(2) > div:nth-of-type(1) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.brandonu.ca/scholarships/",
+        "imgAlt": "",
+        "box": {
+          "x": 735,
+          "y": 562.65625,
+          "w": 40,
+          "h": 19
+        },
+        "context": "heading: On-campus convenience | Scholarships View our Scholarships and Bursaries",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.brandonu.ca/scholarships/\" style=\"color:#003057;\"><svg class=\"svg-inline--fa fa-graduation-cap fa-w-20 fa-2x\" aria-hidden=\"true\" focusable=\"false\" data-prefix=\"fas\" data-icon=\"graduation-cap\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\" data-fa-i2svg=\"\"><p"
+      },
+      {
+        "target": "#\\36 355 > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > a",
+        "text": "Scholarships",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.brandonu.ca/scholarships/",
+        "imgAlt": "",
+        "box": {
+          "x": 698.671875,
+          "y": 592.65625,
+          "w": 112.65625,
+          "h": 24
+        },
+        "context": "heading: On-campus convenience | Scholarships View our Scholarships and Bursaries",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.brandonu.ca/scholarships/\" style=\"color:#003057;\">Scholarships</a>"
+      },
+      {
+        "target": "#\\36 355 > div:nth-of-type(3) > div:nth-of-type(1) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.brandonu.ca/future-students/visit/",
+        "imgAlt": "",
+        "box": {
+          "x": 891,
+          "y": 562.65625,
+          "w": 40,
+          "h": 19
+        },
+        "context": "heading: On-campus convenience | Visit Us Book a campus tour or be a student for a day",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.brandonu.ca/future-students/visit/\" style=\"color:#003057;\"><svg class=\"svg-inline--fa fa-school fa-w-20 fa-2x\" aria-hidden=\"true\" focusable=\"false\" data-prefix=\"fas\" data-icon=\"school\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\" data-fa-i2svg=\"\"><path fil"
+      },
+      {
+        "target": "#\\36 355 > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(1) > a",
+        "text": "Visit Us",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.brandonu.ca/future-students/visit/",
+        "imgAlt": "",
+        "box": {
+          "x": 876.65625,
+          "y": 592.65625,
+          "w": 68.6875,
+          "h": 24
+        },
+        "context": "heading: On-campus convenience | Visit Us Book a campus tour or be a student for a day",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.brandonu.ca/future-students/visit/\" style=\"color:#003057;\">Visit Us</a>"
+      },
+      {
+        "target": "#\\36 355 > div:nth-of-type(4) > div:nth-of-type(1) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.brandonu.ca/future-students/apply/",
+        "imgAlt": "",
+        "box": {
+          "x": 1051,
+          "y": 562.65625,
+          "w": 32,
+          "h": 19
+        },
+        "context": "heading: On-campus convenience | Apply Now Ready to apply to BU? Start your application",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.brandonu.ca/future-students/apply/\" style=\"color:#003057;\"><svg class=\"svg-inline--fa fa-arrow-circle-right fa-w-16 fa-2x\" aria-hidden=\"true\" focusable=\"false\" data-prefix=\"fas\" data-icon=\"arrow-circle-right\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\" da"
+      },
+      {
+        "target": "#\\36 355 > div:nth-of-type(4) > div:nth-of-type(2) > div:nth-of-type(1) > a",
+        "text": "Apply Now",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.brandonu.ca/future-students/apply/",
+        "imgAlt": "",
+        "box": {
+          "x": 1017.453125,
+          "y": 592.65625,
+          "w": 99.09375,
+          "h": 24
+        },
+        "context": "heading: On-campus convenience | Apply Now Ready to apply to BU? Start your application",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.brandonu.ca/future-students/apply/\" style=\"color:#003057;\">Apply Now</a>"
+      },
+      {
+        "target": "#\\36 929 > div:nth-of-type(1) > div:nth-of-type(1) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.brandonu.ca/indigenous/",
+        "imgAlt": "",
+        "box": {
+          "x": 583,
+          "y": 724.65625,
+          "w": 32,
+          "h": 19
+        },
+        "context": "heading: On-campus convenience | Indigenous Culture and tradition come first",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.brandonu.ca/indigenous/\" style=\"color:#003057;\"><svg class=\"svg-inline--fa fa-feather-alt fa-w-16 fa-2x\" aria-hidden=\"true\" focusable=\"false\" data-prefix=\"fas\" data-icon=\"feather-alt\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\" data-fa-i2svg=\"\"><path fill"
+      },
+      {
+        "target": "#\\36 929 > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > a",
+        "text": "Indigenous",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.brandonu.ca/indigenous/",
+        "imgAlt": "",
+        "box": {
+          "x": 549.8125,
+          "y": 754.65625,
+          "w": 98.375,
+          "h": 24
+        },
+        "context": "heading: On-campus convenience | Indigenous Culture and tradition come first",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.brandonu.ca/indigenous/\" style=\"color:#003057;\">Indigenous</a>"
+      },
+      {
+        "target": "#\\36 929 > div:nth-of-type(2) > div:nth-of-type(1) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.brandonu.ca/future-students/apply/international/",
+        "imgAlt": "",
+        "box": {
+          "x": 739,
+          "y": 724.65625,
+          "w": 32,
+          "h": 19
+        },
+        "context": "heading: On-campus convenience | International Welcoming students from around the world",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.brandonu.ca/future-students/apply/international/\" style=\"color:#003057;\"><svg class=\"svg-inline--fa fa-globe-americas fa-w-16 fa-2x\" aria-hidden=\"true\" focusable=\"false\" data-prefix=\"fas\" data-icon=\"globe-americas\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 496 5"
+      },
+      {
+        "target": "#\\36 929 > div:nth-of-type(2) > div:nth-of-type(2) > div:nth-of-type(1) > a",
+        "text": "International",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.brandonu.ca/future-students/apply/international/",
+        "imgAlt": "",
+        "box": {
+          "x": 696.046875,
+          "y": 754.65625,
+          "w": 117.890625,
+          "h": 24
+        },
+        "context": "heading: On-campus convenience | International Welcoming students from around the world",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.brandonu.ca/future-students/apply/international/\" style=\"color:#003057;\">International</a>"
+      },
+      {
+        "target": "#\\36 929 > div:nth-of-type(3) > div:nth-of-type(1) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.brandonu.ca/library/",
+        "imgAlt": "",
+        "box": {
+          "x": 893,
+          "y": 724.65625,
+          "w": 36,
+          "h": 19
+        },
+        "context": "heading: On-campus convenience | Library Explore the knowledge and services you need",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.brandonu.ca/library/\" style=\"color:#003057;\"><svg class=\"svg-inline--fa fa-book-open fa-w-18 fa-2x\" aria-hidden=\"true\" focusable=\"false\" data-prefix=\"fas\" data-icon=\"book-open\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 576 512\" data-fa-i2svg=\"\"><path fill=\"curre"
+      },
+      {
+        "target": "#\\36 929 > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(1) > a",
+        "text": "Library",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.brandonu.ca/library/",
+        "imgAlt": "",
+        "box": {
+          "x": 878.8125,
+          "y": 754.65625,
+          "w": 64.359375,
+          "h": 24
+        },
+        "context": "heading: On-campus convenience | Library Explore the knowledge and services you need",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.brandonu.ca/library/\" style=\"color:#003057;\">Library</a>"
+      },
+      {
+        "target": "#\\36 929 > div:nth-of-type(4) > div:nth-of-type(1) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.brandonu.ca/give/",
+        "imgAlt": "",
+        "box": {
+          "x": 1047,
+          "y": 724.65625,
+          "w": 40,
+          "h": 19
+        },
+        "context": "heading: On-campus convenience | Give to BU Make a difference with your gift to BU",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.brandonu.ca/give/\" style=\"color:#003057;\"><svg class=\"svg-inline--fa fa-hands-helping fa-w-20 fa-2x\" aria-hidden=\"true\" focusable=\"false\" data-prefix=\"fas\" data-icon=\"hands-helping\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\" data-fa-i2svg=\"\"><path fill=\""
+      },
+      {
+        "target": "#\\36 929 > div:nth-of-type(4) > div:nth-of-type(2) > div:nth-of-type(1) > a",
+        "text": "Give to BU",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.brandonu.ca/give/",
+        "imgAlt": "",
+        "box": {
+          "x": 1019.328125,
+          "y": 754.65625,
+          "w": 95.34375,
+          "h": 24
+        },
+        "context": "heading: On-campus convenience | Give to BU Make a difference with your gift to BU",
+        "contextKind": "block",
+        "html": "<a href=\"https://www.brandonu.ca/give/\" style=\"color:#003057;\">Give to BU</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(1) > ul > li:nth-of-type(1) > a",
+        "text": "Course Calendars",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.brandonu.ca/calendar/",
+        "imgAlt": "",
+        "box": {
+          "x": 543.234375,
+          "y": 907.1875,
+          "w": 124.515625,
+          "h": 19
+        },
+        "context": "Course Calendars",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.brandonu.ca/calendar/\">Course Calendars</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(1) > ul > li:nth-of-type(2) > a",
+        "text": "Registration Guides",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.brandonu.ca/registration/",
+        "imgAlt": "",
+        "box": {
+          "x": 543.234375,
+          "y": 939.1875,
+          "w": 138.09375,
+          "h": 19
+        },
+        "context": "Registration Guides",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.brandonu.ca/registration/\">Registration Guides</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(1) > ul > li:nth-of-type(3) > a",
+        "text": "Register Online",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://liszt.brandonu.ca/BUOnline/BUStart/Logon.aspx",
+        "imgAlt": "",
+        "box": {
+          "x": 543.234375,
+          "y": 971.1875,
+          "w": 108.9375,
+          "h": 19
+        },
+        "context": "Register Online",
+        "contextKind": "li",
+        "html": "<a href=\"https://liszt.brandonu.ca/BUOnline/BUStart/Logon.aspx\">Register Online</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(1) > ul > li:nth-of-type(4) > a",
+        "text": "Exam Timetable",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.brandonu.ca/registration/current-registration-guides/exam-timetables/",
+        "imgAlt": "",
+        "box": {
+          "x": 543.234375,
+          "y": 1003.1875,
+          "w": 112.265625,
+          "h": 19
+        },
+        "context": "Exam Timetable",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.brandonu.ca/registration/current-registration-guides/exam-timetables/\">Exam Timetable</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(1) > ul > li:nth-of-type(5) > a",
+        "text": "Log into Moodle",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://moodle.brandonu.ca/",
+        "imgAlt": "",
+        "box": {
+          "x": 543.234375,
+          "y": 1035.1875,
+          "w": 112.984375,
+          "h": 19
+        },
+        "context": "Log into Moodle",
+        "contextKind": "li",
+        "html": "<a href=\"https://moodle.brandonu.ca/\">Log into Moodle</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > ul > li:nth-of-type(1) > a",
+        "text": "Scholarships/Bursaries",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.brandonu.ca/scholarships/",
+        "imgAlt": "",
+        "box": {
+          "x": 749,
+          "y": 907.1875,
+          "w": 160.71875,
+          "h": 19
+        },
+        "context": "Scholarships/Bursaries",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.brandonu.ca/scholarships/\">Scholarships/Bursaries</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > ul > li:nth-of-type(2) > a",
+        "text": "Campus Books",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.bkstr.com/brandonustore/home",
+        "imgAlt": "",
+        "box": {
+          "x": 749,
+          "y": 939.1875,
+          "w": 103.453125,
+          "h": 19
+        },
+        "context": "Campus Books",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.bkstr.com/brandonustore/home\">Campus Books</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > ul > li:nth-of-type(3) > a",
+        "text": "Tax Receipts",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://webapp.brandonu.ca/pls/student/",
+        "imgAlt": "",
+        "box": {
+          "x": 749,
+          "y": 971.1875,
+          "w": 87.09375,
+          "h": 19
+        },
+        "context": "Tax Receipts",
+        "contextKind": "li",
+        "html": "<a href=\"https://webapp.brandonu.ca/pls/student/\">Tax Receipts</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > ul > li:nth-of-type(4) > a",
+        "text": "Parking Pass",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.brandonu.ca/parking/",
+        "imgAlt": "",
+        "box": {
+          "x": 749,
+          "y": 1003.1875,
+          "w": 87.953125,
+          "h": 19
+        },
+        "context": "Parking Pass",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.brandonu.ca/parking/\">Parking Pass</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(2) > ul > li:nth-of-type(5) > a",
+        "text": "Pay Your BU Account",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.brandonu.ca/pay/",
+        "imgAlt": "",
+        "box": {
+          "x": 749,
+          "y": 1035.1875,
+          "w": 148.234375,
+          "h": 19
+        },
+        "context": "Pay Your BU Account",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.brandonu.ca/pay/\">Pay Your BU Account</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(3) > ul > li:nth-of-type(1) > a",
+        "text": "Student Services",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.brandonu.ca/student-services/",
+        "imgAlt": "",
+        "box": {
+          "x": 969,
+          "y": 907.1875,
+          "w": 117.03125,
+          "h": 19
+        },
+        "context": "Student Services",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.brandonu.ca/student-services/\">Student Services</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(3) > ul > li:nth-of-type(2) > a",
+        "text": "Residence",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.brandonu.ca/residence/",
+        "imgAlt": "",
+        "box": {
+          "x": 969,
+          "y": 939.1875,
+          "w": 71.8125,
+          "h": 19
+        },
+        "context": "Residence",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.brandonu.ca/residence/\">Residence</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(3) > ul > li:nth-of-type(3) > a",
+        "text": "Student Portal",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://webapp.brandonu.ca/pls/student/",
+        "imgAlt": "",
+        "box": {
+          "x": 969,
+          "y": 971.1875,
+          "w": 101.6875,
+          "h": 19
+        },
+        "context": "Student Portal",
+        "contextKind": "li",
+        "html": "<a href=\"https://webapp.brandonu.ca/pls/student/\">Student Portal</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(3) > ul > li:nth-of-type(4) > a",
+        "text": "Apply to Graduate",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://webapp.brandonu.ca/pls/student/f?p=101:101",
+        "imgAlt": "",
+        "box": {
+          "x": 969,
+          "y": 1003.1875,
+          "w": 128.1875,
+          "h": 19
+        },
+        "context": "Apply to Graduate",
+        "contextKind": "li",
+        "html": "<a href=\"https://webapp.brandonu.ca/pls/student/f?p=101:101\">Apply to Graduate</a>"
+      },
+      {
+        "target": "div > div:nth-of-type(3) > ul > li:nth-of-type(5) > a",
+        "text": "Convocation Information",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.brandonu.ca/convocation/",
+        "imgAlt": "",
+        "box": {
+          "x": 969,
+          "y": 1035.1875,
+          "w": 175.5625,
+          "h": 19
+        },
+        "context": "Convocation Information",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.brandonu.ca/convocation/\">Convocation Information</a>"
+      },
+      {
+        "target": "div > div > ul > li:nth-of-type(1) > a",
+        "text": "Workshop connects students with knowledge, community and opportunities for success",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://news.brandonu.ca/2026/09/18/workshop-connects-students-with-knowledge-community-and-opportunities-for-success/",
+        "imgAlt": "",
+        "box": {
+          "x": 543.234375,
+          "y": 1193.46875,
+          "w": 237.703125,
+          "h": 67
+        },
+        "context": "Workshop connects students with knowledge, community and opportunities for success September 18th, 2026",
+        "contextKind": "li",
+        "html": "<a href=\"https://news.brandonu.ca/2026/09/18/workshop-connects-students-with-knowledge-community-and-opportunities-for-success/\" class=\"bu-news-container__article-link\">Workshop connects students with knowledge, community and opportunities for success<span class=\"full-click-span\"></span></a>"
+      },
+      {
+        "target": "div > div > ul > li:nth-of-type(2) > a",
+        "text": "Alumni assemble to celebrate decades of memories at Homecoming 2026",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://news.brandonu.ca/2026/09/16/alumni-assemble-to-celebrate-decades-of-memories-at-homecoming-2026/",
+        "imgAlt": "",
+        "box": {
+          "x": 543.234375,
+          "y": 1297.46875,
+          "w": 265.234375,
+          "h": 43
+        },
+        "context": "Alumni assemble to celebrate decades of memories at Homecoming 2026 September 16th, 2026",
+        "contextKind": "li",
+        "html": "<a href=\"https://news.brandonu.ca/2026/09/16/alumni-assemble-to-celebrate-decades-of-memories-at-homecoming-2026/\" class=\"bu-news-container__article-link\">Alumni assemble to celebrate decades of memories at Homecoming 2026<span class=\"full-click-span\"></span></a>"
+      },
+      {
+        "target": "div > div > ul > li:nth-of-type(3) > a",
+        "text": "BU to welcome Dr. Jessica Riddell as Stanley Knowles Distinguished Visiting Professor",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://news.brandonu.ca/2026/09/15/bu-to-welcome-dr-jessica-riddell-as-stanley-knowles-distinguished-visiting-professor/",
+        "imgAlt": "",
+        "box": {
+          "x": 543.234375,
+          "y": 1377.46875,
+          "w": 271.09375,
+          "h": 67
+        },
+        "context": "BU to welcome Dr. Jessica Riddell as Stanley Knowles Distinguished Visiting Professor September 15th, 2026",
+        "contextKind": "li",
+        "html": "<a href=\"https://news.brandonu.ca/2026/09/15/bu-to-welcome-dr-jessica-riddell-as-stanley-knowles-distinguished-visiting-professor/\" class=\"bu-news-container__article-link\">BU to welcome Dr. Jessica Riddell as Stanley Knowles Distinguished Visiting Professor<span class=\"full-click-span\"></span></a>"
+      },
+      {
+        "target": "div > div > ul > li:nth-of-type(4) > a",
+        "text": "School of Music celebrates new season with pro series faculty concert",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://news.brandonu.ca/2026/09/11/school-of-music-celebrates-new-season-with-pro-series-faculty-concert/",
+        "imgAlt": "",
+        "box": {
+          "x": 543.234375,
+          "y": 1481.46875,
+          "w": 261.875,
+          "h": 43
+        },
+        "context": "School of Music celebrates new season with pro series faculty concert September 11th, 2026",
+        "contextKind": "li",
+        "html": "<a href=\"https://news.brandonu.ca/2026/09/11/school-of-music-celebrates-new-season-with-pro-series-faculty-concert/\" class=\"bu-news-container__article-link\">School of Music celebrates new season&nbsp;with&nbsp;pro series&nbsp;faculty concert<span class=\"full-click-span\"></span></a>"
+      },
+      {
+        "target": "div > div > ul > li:nth-of-type(5) > a",
+        "text": "Brandon University to host 2027 CCAA Men’s Soccer National Championships",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://gobobcats.ca/news/2026/9/10/mens-soccer-brandon-university-to-host-2027-ccaa-mens-soccer-national-championship.aspx",
+        "imgAlt": "",
+        "box": {
+          "x": 543.234375,
+          "y": 1561.46875,
+          "w": 274.75,
+          "h": 43
+        },
+        "context": "Brandon University to host 2027 CCAA Men’s Soccer National Championships September 10th, 2026",
+        "contextKind": "li",
+        "html": "<a href=\"https://gobobcats.ca/news/2026/9/10/mens-soccer-brandon-university-to-host-2027-ccaa-mens-soccer-national-championship.aspx\" class=\"bu-news-container__article-link\">Brandon University to host 2027 CCAA Men’s Soccer National Championships <span class=\"full-click-span\"></span></a>"
+      },
+      {
+        "target": "div > div > dl > dd:nth-of-type(1) > a",
+        "text": "Fall Equinox Feast",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://events.brandonu.ca/event/fall-equinox-feast-2/",
+        "imgAlt": "",
+        "box": {
+          "x": 921.5,
+          "y": 1176.21875,
+          "w": 126.0625,
+          "h": 19
+        },
+        "context": "Fall Equinox Feast",
+        "contextKind": "dd",
+        "html": "<a href=\"https://events.brandonu.ca/event/fall-equinox-feast-2/\">Fall Equinox Feast</a>"
+      },
+      {
+        "target": "div > div > dl > dd:nth-of-type(2) > a",
+        "text": "Bobcats Rugby",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://events.brandonu.ca/event/bobcats-rugby-2/",
+        "imgAlt": "",
+        "box": {
+          "x": 921.5,
+          "y": 1230.59375,
+          "w": 104.09375,
+          "h": 19
+        },
+        "context": "Bobcats Rugby",
+        "contextKind": "dd",
+        "html": "<a href=\"https://events.brandonu.ca/event/bobcats-rugby-2/\">Bobcats Rugby</a>"
+      },
+      {
+        "target": "div > div > dl > dd:nth-of-type(3) > a",
+        "text": "Bobcats Rugby",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://events.brandonu.ca/event/bobcats-rugby-3/",
+        "imgAlt": "",
+        "box": {
+          "x": 921.5,
+          "y": 1284.96875,
+          "w": 104.09375,
+          "h": 19
+        },
+        "context": "Bobcats Rugby",
+        "contextKind": "dd",
+        "html": "<a href=\"https://events.brandonu.ca/event/bobcats-rugby-3/\">Bobcats Rugby</a>"
+      },
+      {
+        "target": "div > div > dl > dd:nth-of-type(4) > a",
+        "text": "Jeremy Dutcher Q & A Session",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://events.brandonu.ca/event/jeremy-dutcher-q-a-session/",
+        "imgAlt": "",
+        "box": {
+          "x": 921.5,
+          "y": 1339.34375,
+          "w": 212.484375,
+          "h": 19
+        },
+        "context": "Jeremy Dutcher Q & A Session",
+        "contextKind": "dd",
+        "html": "<a href=\"https://events.brandonu.ca/event/jeremy-dutcher-q-a-session/\">Jeremy Dutcher Q &amp; A Session</a>"
+      },
+      {
+        "target": "div > div > dl > dd:nth-of-type(5) > a",
+        "text": "National Day for Truth and Reconciliation 2026 — University closed",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://events.brandonu.ca/event/national-day-for-truth-and-reconciliation-2026-university-closed/",
+        "imgAlt": "",
+        "box": {
+          "x": 921.5,
+          "y": 1393.71875,
+          "w": 185.78125,
+          "h": 67
+        },
+        "context": "National Day for Truth and Reconciliation 2026 — University closed",
+        "contextKind": "dd",
+        "html": "<a href=\"https://events.brandonu.ca/event/national-day-for-truth-and-reconciliation-2026-university-closed/\">National Day for Truth and Reconciliation 2026 — University closed</a>"
+      },
+      {
+        "target": "div > div > ul > li:nth-of-type(1) > a",
+        "text": "All Events",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://events.brandonu.ca",
+        "imgAlt": "",
+        "box": {
+          "x": 868.703125,
+          "y": 1481.71875,
+          "w": 59.1875,
+          "h": 16
+        },
+        "context": "All Events",
+        "contextKind": "li",
+        "html": "<a href=\"https://events.brandonu.ca\" ref=\"bookmark\">All Events</a>"
+      },
+      {
+        "target": "div > div > ul > li:nth-of-type(2) > a",
+        "text": "All Brandon University Events",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://events.brandonu.ca/events/category/home",
+        "imgAlt": "",
+        "box": {
+          "x": 868.703125,
+          "y": 1508.90625,
+          "w": 177.4375,
+          "h": 16
+        },
+        "context": "All Brandon University Events",
+        "contextKind": "li",
+        "html": "<a href=\"https://events.brandonu.ca/events/category/home\" ref=\"bookmark\">All Brandon University Events</a>"
+      },
+      {
+        "target": "#root-sidebar > div > ul:nth-of-type(1) > li:nth-of-type(1) > a",
+        "text": "Faculty of Arts",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.brandonu.ca/arts/",
+        "imgAlt": "",
+        "box": {
+          "x": 230,
+          "y": 575.65625,
+          "w": 89.6875,
+          "h": 17
+        },
+        "context": "Faculty of Arts",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.brandonu.ca/arts/\">Faculty of Arts</a>"
+      },
+      {
+        "target": "#root-sidebar > div > ul:nth-of-type(1) > li:nth-of-type(2) > a",
+        "text": "Faculty of Education",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.brandonu.ca/education/",
+        "imgAlt": "",
+        "box": {
+          "x": 230,
+          "y": 603.65625,
+          "w": 124.984375,
+          "h": 17
+        },
+        "context": "Faculty of Education",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.brandonu.ca/education/\">Faculty of Education</a>"
+      },
+      {
+        "target": "#root-sidebar > div > ul:nth-of-type(1) > li:nth-of-type(3) > a",
+        "text": "Faculty of Graduate Studies",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.brandonu.ca/graduate-studies/",
+        "imgAlt": "",
+        "box": {
+          "x": 230,
+          "y": 631.65625,
+          "w": 169.203125,
+          "h": 17
+        },
+        "context": "Faculty of Graduate Studies",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.brandonu.ca/graduate-studies/\">Faculty of Graduate Studies</a>"
+      },
+      {
+        "target": "#root-sidebar > div > ul:nth-of-type(1) > li:nth-of-type(4) > a",
+        "text": "Faculty of Science",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.brandonu.ca/science/",
+        "imgAlt": "",
+        "box": {
+          "x": 230,
+          "y": 659.65625,
+          "w": 109.765625,
+          "h": 17
+        },
+        "context": "Faculty of Science",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.brandonu.ca/science/\">Faculty of Science</a>"
+      },
+      {
+        "target": "#root-sidebar > div > ul:nth-of-type(1) > li:nth-of-type(5) > a",
+        "text": "Faculty of Health Studies",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.brandonu.ca/health-studies/",
+        "imgAlt": "",
+        "box": {
+          "x": 230,
+          "y": 687.65625,
+          "w": 152.796875,
+          "h": 17
+        },
+        "context": "Faculty of Health Studies",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.brandonu.ca/health-studies/\">Faculty of Health Studies</a>"
+      },
+      {
+        "target": "#root-sidebar > div > ul:nth-of-type(1) > li:nth-of-type(6) > a",
+        "text": "School of Music",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.brandonu.ca/music/",
+        "imgAlt": "",
+        "box": {
+          "x": 230,
+          "y": 715.65625,
+          "w": 95.671875,
+          "h": 17
+        },
+        "context": "School of Music",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.brandonu.ca/music/\">School of Music</a>"
+      },
+      {
+        "target": "#root-sidebar > div > ul:nth-of-type(2) > li:nth-of-type(1) > a",
+        "text": "Office of Research Services",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.brandonu.ca/research/",
+        "imgAlt": "",
+        "box": {
+          "x": 230,
+          "y": 797.65625,
+          "w": 166.28125,
+          "h": 17
+        },
+        "context": "Office of Research Services",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.brandonu.ca/research/\">Office of Research Services</a>"
+      },
+      {
+        "target": "#root-sidebar > div > ul:nth-of-type(2) > li:nth-of-type(2) > a",
+        "text": "Research Experts List",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.brandonu.ca/research/experts/",
+        "imgAlt": "",
+        "box": {
+          "x": 230,
+          "y": 825.65625,
+          "w": 131.515625,
+          "h": 17
+        },
+        "context": "Research Experts List",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.brandonu.ca/research/experts/\">Research Experts List</a>"
+      },
+      {
+        "target": "#root-sidebar > div > ul:nth-of-type(2) > li:nth-of-type(3) > a",
+        "text": "Research News",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://news.brandonu.ca/category/research",
+        "imgAlt": "",
+        "box": {
+          "x": 230,
+          "y": 853.65625,
+          "w": 94.25,
+          "h": 17
+        },
+        "context": "Research News",
+        "contextKind": "li",
+        "html": "<a href=\"https://news.brandonu.ca/category/research\">Research News</a>"
+      },
+      {
+        "target": "#bu-research-institutes > li:nth-of-type(1) > a",
+        "text": "BU CARES Research Centre",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.brandonu.ca/bu-cares/",
+        "imgAlt": "",
+        "box": {
+          "x": 245.75,
+          "y": 913.15625,
+          "w": 170.8125,
+          "h": 17
+        },
+        "context": "BU CARES Research Centre",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.brandonu.ca/bu-cares/\">BU CARES Research Centre</a>"
+      },
+      {
+        "target": "#bu-research-institutes > li:nth-of-type(2) > a",
+        "text": "Centre for Critical Studies of Rural Mental Health",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.centreforruralmentalhealth.com/",
+        "imgAlt": "",
+        "box": {
+          "x": 245.75,
+          "y": 941.15625,
+          "w": 174.46875,
+          "h": 38
+        },
+        "context": "Centre for Critical Studies of Rural Mental Health",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.centreforruralmentalhealth.com/\">Centre for Critical Studies of Rural Mental Health</a>"
+      },
+      {
+        "target": "#bu-research-institutes > li:nth-of-type(3) > a",
+        "text": "Rural Development Institute",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.brandonu.ca/rdi/",
+        "imgAlt": "",
+        "box": {
+          "x": 245.75,
+          "y": 990.15625,
+          "w": 173.75,
+          "h": 17
+        },
+        "context": "Rural Development Institute",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.brandonu.ca/rdi/\">Rural Development Institute</a>"
+      },
+      {
+        "target": "#root-sidebar > div > ul:nth-of-type(3) > li:nth-of-type(1) > a",
+        "text": "Healthy Living Centre",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://healthylivingcentre.ca/",
+        "imgAlt": "",
+        "box": {
+          "x": 230,
+          "y": 1072.15625,
+          "w": 133.34375,
+          "h": 17
+        },
+        "context": "Healthy Living Centre",
+        "contextKind": "li",
+        "html": "<a href=\"https://healthylivingcentre.ca/\">Healthy Living Centre</a>"
+      },
+      {
+        "target": "#root-sidebar > div > ul:nth-of-type(3) > li:nth-of-type(2) > a",
+        "text": "BU Bobcats",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://gobobcats.ca/index.aspx",
+        "imgAlt": "",
+        "box": {
+          "x": 230,
+          "y": 1100.15625,
+          "w": 71.59375,
+          "h": 17
+        },
+        "context": "BU Bobcats",
+        "contextKind": "li",
+        "html": "<a href=\"https://gobobcats.ca/index.aspx\">BU Bobcats</a>"
+      },
+      {
+        "target": "#root-sidebar > div > ul:nth-of-type(3) > li:nth-of-type(3) > a",
+        "text": "Campus Books",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.bkstr.com/brandonustore/home",
+        "imgAlt": "",
+        "box": {
+          "x": 230,
+          "y": 1128.15625,
+          "w": 90.515625,
+          "h": 17
+        },
+        "context": "Campus Books",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.bkstr.com/brandonustore/home\">Campus Books</a>"
+      },
+      {
+        "target": "#root-sidebar > div > ul:nth-of-type(3) > li:nth-of-type(4) > a",
+        "text": "Mini-U",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://miniu.brandonu.ca/",
+        "imgAlt": "",
+        "box": {
+          "x": 230,
+          "y": 1156.15625,
+          "w": 42.921875,
+          "h": 17
+        },
+        "context": "Mini-U",
+        "contextKind": "li",
+        "html": "<a href=\"https://miniu.brandonu.ca/\">Mini-U</a>"
+      },
+      {
+        "target": "#root-sidebar > div > ul:nth-of-type(3) > li:nth-of-type(5) > a",
+        "text": "BUSU",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://busu.ca/",
+        "imgAlt": "",
+        "box": {
+          "x": 230,
+          "y": 1184.15625,
+          "w": 36.921875,
+          "h": 17
+        },
+        "context": "BUSU",
+        "contextKind": "li",
+        "html": "<a href=\"https://busu.ca/\">BUSU</a>"
+      },
+      {
+        "target": "#root-sidebar > div > ul:nth-of-type(4) > li:nth-of-type(1) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "Facebook",
+        "href": "https://www.facebook.com/brandonuni",
+        "imgAlt": "",
+        "box": {
+          "x": 215,
+          "y": 1282.15625,
+          "w": 32,
+          "h": 17
+        },
+        "context": "",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.facebook.com/brandonuni\" title=\"Facebook\"><span class=\"bu-social-icon bu-social-facebook-icon\"></span></a>"
+      },
+      {
+        "target": "#root-sidebar > div > ul:nth-of-type(4) > li:nth-of-type(2) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "LinkedIn",
+        "href": "https://www.linkedin.com/edu/school?id=10809",
+        "imgAlt": "",
+        "box": {
+          "x": 258.5,
+          "y": 1282.15625,
+          "w": 28,
+          "h": 17
+        },
+        "context": "",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.linkedin.com/edu/school?id=10809\" title=\"LinkedIn\"><span class=\"bu-social-icon bu-social-linkedin-icon\"></span></a>"
+      },
+      {
+        "target": "#root-sidebar > div > ul:nth-of-type(4) > li:nth-of-type(3) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "Instagram",
+        "href": "https://instagram.com/brandonuni/",
+        "imgAlt": "",
+        "box": {
+          "x": 298,
+          "y": 1282.15625,
+          "w": 28,
+          "h": 17
+        },
+        "context": "",
+        "contextKind": "li",
+        "html": "<a href=\"https://instagram.com/brandonuni/\" title=\"Instagram\"><span class=\"bu-social-icon bu-social-instagram-icon\"></span></a>"
+      },
+      {
+        "target": "#root-sidebar > div > ul:nth-of-type(4) > li:nth-of-type(4) > a",
+        "text": "",
+        "ariaLabel": "",
+        "title": "Bluesky",
+        "href": "https://bsky.app/profile/brandonu.ca/",
+        "imgAlt": "",
+        "box": {
+          "x": 337.5,
+          "y": 1282.15625,
+          "w": 32,
+          "h": 17
+        },
+        "context": "",
+        "contextKind": "li",
+        "html": "<a href=\"https://bsky.app/profile/brandonu.ca/\" title=\"Bluesky\"><span class=\"bu-social-icon bu-social-bluesky-icon\"></span></a>"
+      },
+      {
+        "target": "#footer-contact > li:nth-of-type(1) > a",
+        "text": "Brandon University",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.brandonu.ca/",
+        "imgAlt": "",
+        "box": {
+          "x": 721.515625,
+          "y": 1720.46875,
+          "w": 110.515625,
+          "h": 16
+        },
+        "context": "© 2014–2026Brandon University",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.brandonu.ca/\">Brandon University</a>"
+      },
+      {
+        "target": "#footer-contact > li:nth-of-type(2) > a",
+        "text": "Contact Us",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.brandonu.ca/contact/",
+        "imgAlt": "",
+        "box": {
+          "x": 848.03125,
+          "y": 1720.46875,
+          "w": 63.375,
+          "h": 16
+        },
+        "context": "Contact Us",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.brandonu.ca/contact/\">Contact Us</a>"
+      },
+      {
+        "target": "#footer-contact > li:nth-of-type(3) > a",
+        "text": "Emergency Info",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.brandonu.ca/services/emergency-numbers/",
+        "imgAlt": "",
+        "box": {
+          "x": 927.40625,
+          "y": 1720.46875,
+          "w": 89.03125,
+          "h": 16
+        },
+        "context": "Emergency Info",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.brandonu.ca/services/emergency-numbers/\">Emergency Info</a>"
+      },
+      {
+        "target": "#footer-contact > li:nth-of-type(4) > a",
+        "text": "Accessibility",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.brandonu.ca/ama/",
+        "imgAlt": "",
+        "box": {
+          "x": 1032.4375,
+          "y": 1720.46875,
+          "w": 71.171875,
+          "h": 16
+        },
+        "context": "Accessibility",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.brandonu.ca/ama/\">Accessibility</a>"
+      },
+      {
+        "target": "#footer-contact > li:nth-of-type(5) > a",
+        "text": "Log in",
+        "ariaLabel": "",
+        "title": "",
+        "href": "https://www.brandonu.ca/wp-login.php?redirect_to=https%3A%2F%2Fwww.brandonu.ca%2F",
+        "imgAlt": "",
+        "box": {
+          "x": 1119.609375,
+          "y": 1720.46875,
+          "w": 33.390625,
+          "h": 16
+        },
+        "context": "Log in",
+        "contextKind": "li",
+        "html": "<a href=\"https://www.brandonu.ca/wp-login.php?redirect_to=https%3A%2F%2Fwww.brandonu.ca%2F\">Log in</a>"
+      }
+    ],
+    "headings": [
+      {
+        "target": "#topToolbarLinksLabel",
+        "level": 2,
+        "text": "Top Toolbar Links",
+        "visible": true,
+        "box": {
+          "x": 192,
+          "y": 7,
+          "w": 1,
+          "h": 1
+        },
+        "html": "<h2 id=\"topToolbarLinksLabel\" class=\"screen-reader-text\">Top Toolbar Links</h2>"
+      },
+      {
+        "target": "div > div:nth-of-type(1) > div:nth-of-type(2) > a > h1",
+        "level": 1,
+        "text": "BRANDON UNIVERSITY",
+        "visible": true,
+        "box": {
+          "x": 275.765625,
+          "y": 71.078125,
+          "w": 182.515625,
+          "h": 63.578125
+        },
+        "html": "<h1>Brandon <span>University</span></h1>"
+      },
+      {
+        "target": "#primaryNavigationLabel",
+        "level": 2,
+        "text": "Primary Navigation",
+        "visible": true,
+        "box": {
+          "x": 212,
+          "y": 62.703125,
+          "w": 1,
+          "h": 1
+        },
+        "html": "<h2 id=\"primaryNavigationLabel\" class=\"screen-reader-text\">Primary Navigation</h2>"
+      },
+      {
+        "target": "#meteor-slideshow > div:nth-of-type(2) > div:nth-of-type(1) > div > h2",
+        "level": 2,
+        "text": "Road to Nationals",
+        "visible": true,
+        "box": {
+          "x": 229,
+          "y": 370.046875,
+          "w": 431.1875,
+          "h": 33
+        },
+        "html": "<h2><img draggable=\"false\" role=\"img\" class=\"emoji\" alt=\"⚽️\" src=\"https://s.w.org/images/core/emoji/17.0.2/svg/26bd.svg\"> Road to Nationals</h2>"
+      },
+      {
+        "target": "#meteor-slideshow > div:nth-of-type(2) > div:nth-of-type(2) > div > h2",
+        "level": 2,
+        "text": "BU Research Expert: Dr. Paul Alexandre",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h2>BU Research Expert: <br>Dr. Paul Alexandre</h2>"
+      },
+      {
+        "target": "#meteor-slideshow > div:nth-of-type(2) > div:nth-of-type(3) > div > h2",
+        "level": 2,
+        "text": "International student? You could win!",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h2>International student? You could win!</h2>"
+      },
+      {
+        "target": "#meteor-slideshow > div:nth-of-type(2) > div:nth-of-type(4) > div > h2",
+        "level": 2,
+        "text": "On-campus convenience",
+        "visible": false,
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "html": "<h2>On-campus convenience</h2>"
+      },
+      {
+        "target": "#reg-content > div > div:nth-of-type(3) > div > h2",
+        "level": 2,
+        "text": "STUDENT RESOURCES",
+        "visible": true,
+        "box": {
+          "x": 513,
+          "y": 858.65625,
+          "w": 640,
+          "h": 37.03125
+        },
+        "html": "<h2>Student Resources</h2>"
+      },
+      {
+        "target": "div > div:nth-of-type(4) > div:nth-of-type(1) > div > h2",
+        "level": 2,
+        "text": "BRANDON UNIVERSITY NEWS",
+        "visible": true,
+        "box": {
+          "x": 513,
+          "y": 1121.1875,
+          "w": 310,
+          "h": 60.78125
+        },
+        "html": "<h2 class=\"bu-news-container__title\">Brandon University News</h2>"
+      },
+      {
+        "target": "div:nth-of-type(4) > div:nth-of-type(2) > div > div > h2",
+        "level": 2,
+        "text": "EVENTS",
+        "visible": true,
+        "box": {
+          "x": 843,
+          "y": 1121.1875,
+          "w": 310,
+          "h": 37.03125
+        },
+        "html": "<h2>Events</h2>"
+      },
+      {
+        "target": "#root-sidebar > div > h4:nth-of-type(1)",
+        "level": 4,
+        "text": "FACULTIES AND SCHOOLS",
+        "visible": true,
+        "box": {
+          "x": 213,
+          "y": 534.65625,
+          "w": 257.5,
+          "h": 27
+        },
+        "html": "<h4>Faculties and Schools</h4>"
+      },
+      {
+        "target": "#root-sidebar > div > h4:nth-of-type(2)",
+        "level": 4,
+        "text": "RESEARCH",
+        "visible": true,
+        "box": {
+          "x": 213,
+          "y": 756.65625,
+          "w": 257.5,
+          "h": 27
+        },
+        "html": "<h4>Research</h4>"
+      },
+      {
+        "target": "#root-sidebar > div > h4:nth-of-type(3)",
+        "level": 4,
+        "text": "RELATED SITES",
+        "visible": true,
+        "box": {
+          "x": 213,
+          "y": 1031.15625,
+          "w": 257.5,
+          "h": 27
+        },
+        "html": "<h4>Related Sites</h4>"
+      },
+      {
+        "target": "#root-sidebar > div > h4:nth-of-type(4)",
+        "level": 4,
+        "text": "CONNECT WITH US",
+        "visible": true,
+        "box": {
+          "x": 213,
+          "y": 1225.15625,
+          "w": 257.5,
+          "h": 27
+        },
+        "html": "<h4>Connect With Us</h4>"
+      }
+    ],
+    "lang": "en-US",
+    "title": "Brandon University"
+  },
   "axe": {
     "violationRules": 3,
     "violationNodes": 13,
@@ -201,10 +2068,10 @@
             "Element's background color could not be determined because element contains an image node"
           ],
           "box": {
-            "x": 229,
-            "y": 370.046875,
-            "w": 431.1875,
-            "h": 33,
+            "x": 0,
+            "y": 0,
+            "w": 0,
+            "h": 0,
             "fontSize": 30,
             "fontWeight": "400",
             "color": "rgb(255, 255, 255)",
@@ -220,10 +2087,10 @@
             "Element's background color could not be determined because element contains an image node"
           ],
           "box": {
-            "x": 229,
-            "y": 411.046875,
-            "w": 431.1875,
-            "h": 57.609375,
+            "x": 0,
+            "y": 0,
+            "w": 0,
+            "h": 0,
             "fontSize": 16,
             "fontWeight": "400",
             "color": "rgb(255, 255, 255)",
@@ -1192,7 +3059,7 @@
       "nodes": 4,
       "items": [
         {
-          "target": ".activeSlide",
+          "target": "a[href=\"#\"]:nth-child(1)",
           "html": "<a href=\"#\" class=\"activeSlide\">1</a>",
           "impact": "serious",
           "messages": [
@@ -1200,7 +3067,7 @@
             "Target has insufficient space to its closest neighbors. Safe clickable space has a diameter of 2px instead of at least 24px."
           ],
           "box": {
-            "x": 672,
+            "x": 659,
             "y": 496.65625,
             "w": 9,
             "h": 9,
@@ -1208,11 +3075,11 @@
             "fontWeight": "400",
             "color": "rgb(0, 48, 87)",
             "background": "rgba(0, 0, 0, 0)",
-            "text": "2"
+            "text": "1"
           }
         },
         {
-          "target": "a[href=\"#\"]:nth-child(2)",
+          "target": ".activeSlide",
           "html": "<a href=\"#\">2</a>",
           "impact": "serious",
           "messages": [
